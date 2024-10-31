@@ -9,20 +9,13 @@ const Navbar = () => {
           Concurseira Pobre
         </a>
         <ul className="flex space-x-6">
-          <li>
-            <a
-              href="#simulado"
-              className="text-white hover:text-yellow-300 transition duration-300"
-            >
-              Simulado
-            </a>
-          </li>
+        
           <li>
             <a
               href="#download"
               className="text-white hover:text-yellow-300 transition duration-300"
             >
-              Baixar Provas
+              Sobre o site
             </a>
           </li>
         </ul>
