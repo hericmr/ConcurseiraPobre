@@ -3,7 +3,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="bg-gradient-to-r from-orange-400 to-orange-500 p-4 shadow-lg">
+    <nav className="bg-gradient-to-r from-gray-700 to-gray-900 p-4 shadow-lg">
       <div className="container mx-auto flex justify-between items-center">
         <a href="#" className="text-2xl font-bold text-white hover:text-yellow-300 transition duration-300">
           Concurseira Pobre
