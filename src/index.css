@@ -1,0 +1,81 @@
+/* styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-gray-50 text-gray-800 font-sans leading-relaxed antialiased;
+}
+
+/* Estilo para os cabeçalhos */
+h1, h2, h3, h4 {
+  @apply font-extrabold text-gray-900;
+}
+
+/* Estilo para links */
+a {
+  @apply text-blue-500 hover:underline hover:text-blue-600 transition-colors;
+}
+
+/* Contêiner principal */
+.container {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+/* Estilo dos botões para mais elegância e interação */
+button {
+  @apply bg-blue-500 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-600 transition-colors duration-200;
+}
+
+/* Adicionando um toque de sombra e borda sutil para cartões e painéis */
+.card, .panel {
+  @apply bg-white p-6 rounded-lg shadow-lg border border-gray-200 transform hover:scale-105 duration-200;
+}
+
+/* Para seções */
+.section {
+  @apply py-8 sm:py-12 md:py-16 bg-gray-100;
+}
+
+/* Formatação de texto para informações importantes */
+.important-text {
+  @apply text-gray-700 font-medium;
+}
+
+/* Adicionando um toque especial para inputs de texto e áreas de formulário */
+input[type="text"], input[type="email"], input[type="password"], textarea {
+  @apply bg-gray-100 border border-gray-300 rounded-lg py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-400 transition-shadow duration-200;
+}
+
+/* Estilo para feedback de mensagens */
+.feedback-correct {
+  @apply text-green-600 font-semibold;
+}
+.feedback-incorrect {
+  @apply text-red-600 font-semibold;
+}
+
+/* Definindo a animação fade-in */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.fade-in {
+  @apply opacity-0;
+  animation: fadeIn 0.5s ease-in-out forwards;
+}
+
+/* Estilo para listas */
+ul, ol {
+  @apply list-disc ml-6 pl-2 text-gray-700;
+}
+
+/* Adicionando estilos para o rodapé */
+footer {
+  @apply bg-gray-200 text-gray-600 py-4 text-center;
+}
