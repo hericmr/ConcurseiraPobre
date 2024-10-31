@@ -11,15 +11,15 @@ const SimuladoForm = () => {
   const [totalQuestions, setTotalQuestions] = useState(0);
 
   useEffect(() => {
-    fetch('/provas_com_respostas.json')
-      .then(response => response.json())
-      .then(data => {
-        setData(data);
-        populateCargoOptions(data);
-        countTotalQuestions(data);
-      })
-      .catch(error => console.error('Erro:', error));
-  }, []);
+    fetch(`${process.env.PUBLIC_URL}/provas_com_respostas.json`)
+        .then(response => response.json())
+        .then(data => {
+            setData(data);
+            populateCargoOptions(data);
+            countTotalQuestions(data);
+        })
+        .catch(error => console.error('Erro:', error));
+}, []);
 
   const populateCargoOptions = (data) => {
     const uniqueCargos = new Set();
