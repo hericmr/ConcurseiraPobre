@@ -71,7 +71,7 @@ const SimuladoForm = () => {
 
   return (
     <section className="container mx-auto mt-8">
-      <form onSubmit={handleGenerateQuestions} className="bg-white p-6 shadow rounded">
+      <form onSubmit={handleGenerateQuestions} className="bg-white p-6 shadow rounded mx-auto max-w-lg">
         <div className="mb-4">
           <label htmlFor="cargo" className="block text-gray-700">Selecione o Cargo:</label>
           <select
@@ -97,7 +97,7 @@ const SimuladoForm = () => {
             min="1"
           />
         </div>
-        <button type="submit" className="bg-blue-500 text-white px-4 py-2 rounded">Gerar Simulado</button>
+        <button type="submit" className="bg-gray-700 text-white px-4 py-2 rounded">Gerar Simulado</button>
       </form>
       <p className="text-center text-gray-700 mb-4">
         Foram encontradas {totalQuestions} questões em nosso banco de dados do site.
