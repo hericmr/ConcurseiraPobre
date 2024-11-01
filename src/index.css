@@ -8,8 +8,10 @@ html {
 }
 
 body {
-  @apply bg-gray-50 text-gray-800 font-sans leading-relaxed antialiased;
+  @apply text-gray-800 font-sans leading-relaxed antialiased;
+  background: linear-gradient(to right, #3b82f6, #9333ea); /* Gradiente do azul ao roxo */
 }
+
 
 /* Estilo para os cabeçalhos */
 h1, h2, h3, h4 {
