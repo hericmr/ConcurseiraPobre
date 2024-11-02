@@ -11,7 +11,7 @@ const SimuladoForm = () => {
   const [totalQuestions, setTotalQuestions] = useState(0);
 
   useEffect(() => {
-    fetch(`https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/main/public/provas_com_respostas.json`)
+    fetch(`https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/provas_com_respostas.json`)
 
         .then(response => response.json())
         .then(data => {
