@@ -47,7 +47,7 @@ const SimuladoForm = () => {
       }
 
       const response = await fetch(
-        `https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/cargos_json/${cargoFile}`
+        `https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/cargos_json/${cargoFile}`
       );
       const cargoData = await response.json();
       const loadedQuestions = cargoData[cargo] || [];
