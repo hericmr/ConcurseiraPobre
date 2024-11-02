@@ -1,3 +1,368 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1ccfd17b24f9fcab9669fe4df821d04002ccae1fe56b5695126d4bb74da90b9
-size 29893
+{
+    "GUARDA  CIVIL  MUNICIPAL": [
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: Indique a opção que descreve, de forma \nincorreta , o que é afirmado no texto:",
+            "alternativas": {
+                "A": "A maior parte das propriedades benéficas \ne saudáveis atribuídas ao mel são resultantes de \nsubstâncias minoritárias de sua composição.",
+                "B": "O mel é mais doce que o açúcar de mesa \npor ser composto, majoritariamente, de glicose \ne frutose.",
+                "C": "A proveniência g eográfica do mel é um dos \nfatores que causam a variedade do teor de seus \ncompostos.",
+                "D": "Dentre os compostos minoritários do mel, \nhá aqueles usados para a identificação da \norigem floral.",
+                "E": "Há evidências laboratoriais acerca de \npropriedades funcionais ou s audáveis do mel."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: Indique a opção que descreve, de forma \ncorreta , o que é afirmado no texto:",
+            "alternativas": {
+                "A": "As propriedades funcionais ou saudáveis \ndo mel são provenientes de substâncias \nminoritárias de sua composição, dentre as \nquais destacam -se os compostos fenólicos.",
+                "B": "O fato de o mel ser mais doce do que o \naçúcar de mesa anula suas propriedades \nfuncionais e saudáveis, em virtude dos perigos \ndo consumo de açúcar.",
+                "C": "As propriedades funcionais ou saudáveis \ndo mel são hipotéticas, n ão existindo \nevidências concretas sobre tais supostos \nbenefícios.",
+                "D": "A composição química do mel é sempre a \nmesma, independente de sua origem biológica \nou geográfica.",
+                "E": "Os compostos minoritários do mel são \nresponsáveis de modo idêntico entre si pelas \npropriedades benéficas do produto.  \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nGUARDA  CIVIL  MUNICIPAL                                                                                                                      Página 3 de 10 QUESTÃO 0 3 \n \nNa frase “Há evidências destas propriedades in \nvitro”, presente no último parágrafo do texto, a \nclasse gramatical de “Há” é:  \n \n(A) Artigo  \n(B) Advérbio  \n(C) Verbo  \n(D) Pronome  \n(E) Adjetivo"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: 4 \nConsidere o seguinte trecho, correspondente \nao quarto parágrafo do texto:  \n \n“É por isso que as flores  servem como \nbiomarcadores da identidade  do mel.” \n \nAs palavras destacadas são:",
+            "alternativas": {
+                "A": "Substantivos",
+                "B": "Verbos",
+                "C": "Adjetivos",
+                "D": "Artigos",
+                "E": "Advérbios"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: Indique a opção na qual há o emprego \nincorreto do hífen:",
+            "alternativas": {
+                "A": "Micro -ônibus.",
+                "B": "Micro -ondas.",
+                "C": "Micro -fone.",
+                "D": "Pós -colonial.",
+                "E": "Arara -azul.  \n \n \n \n \n MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: 6 \nUm capital de R$17.500,00 foi aplicado sob o \nregime de capitalização simples à taxa \ntrimestral de 1,2%. Para obter um montante de \nR$18.970,00, o prazo dessa aplicação deverá \nser de:",
+            "alternativas": {
+                "A": "1 ano e 7 meses.",
+                "B": "1 ano e 8 meses.",
+                "C": "1 ano e 9 meses.",
+                "D": "1 ano e 10 meses.",
+                "E": "1 ano e 11 meses."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: Em certo dia, em uma repartição pública, a \nrazão do número de pessoas presentes para o \nnúmero total de atendimentos foi de 3 para 4. \nSabendo -se que haviam 16 agendamentos para \nesse dia, quantas pessoas compareceram?",
+            "alternativas": {
+                "A": "11.",
+                "B": "12 .",
+                "C": "13.",
+                "D": "14.",
+                "E": "15."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: A sucessão numérica 9, 9, 3, 7, 7, 7, 7, 7, 9, 9, \n3, 7, 7, 7, 7, 7, 9, ... mantém um padrão lógico \nde formação, indefinidamente. A soma dos \n1005 primeiros termos dessa sucessão é:",
+            "alternativas": {
+                "A": "7035 .",
+                "B": "7030.",
+                "C": "7025.",
+                "D": "7020.",
+                "E": "7015.  \n \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nGUARDA  CIVIL  MUNICIPAL                                                                                                                      Página 4 de 10 QUESTÃO 09 \nO quingentésimo quarto algarismo da \nexpansão decimal 0,865708657086570... é \nigual a:  \n(A) 0. \n(B) 5. \n(C) 6. \n(D) 7 . \n(E) 8."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: 7𝑑𝑚3 equivalem a:",
+            "alternativas": {
+                "A": "7,0×10−7ℎ𝑚3.",
+                "B": "0,07𝑚3.",
+                "C": "7,0×10−8𝑘𝑚3.",
+                "D": "7,0×106𝑚𝑚3.",
+                "E": "0,0007𝑑𝑎𝑚3. \nATUALIDADES"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: Em março de 2022, foi noticiado que as \nrepresentações diplomáticas de países \nestrangeiros no Brasil tinham demanda de \nserviços além de sua capacidade, com o \nConsulado dos EUA estimando uma média de \n284 dias para o processamento de pe didos de \nvisto de turismo. Tal situação é atribuída:",
+            "alternativas": {
+                "A": "aos preços de petróleo mais baixos da \nhistória, que fizeram os preços das passagens \naéreas e custo de vida em geral despencar.",
+                "B": "a promoções feitas por países estrangeiros \npara atrair mão -de-obra,  mesmo sem \nqualificação profissional, para ocupar vagas de \naltos salários.",
+                "C": "ao menor interesse dos países do mundo \ninteiro em receber turistas, por conta de \nproblemas de infraestrutura.",
+                "D": "ao acúmulo de pedidos de serviços \nconsulares, que não puderam s er feitos durante \na pandemia de Covid -19.",
+                "E": "ao conflito entre Rússia e Ucrânia, que fez \ncom que os serviços diplomáticos tenham \nfocado esforços no processamento de pedidos \nde refúgio.  \n QUESTÃO 12 \nEm dezembro de 2021, noticiou -se uma nova \nonda de imigração de brasileiros para Portugal, \napós a reabertura das fronteiras. Dentre as \ncausas às quais este é fenômeno é atribuído, é \npossível citar:  \n \n(A) A concessão automática de cidadania \nportuguesa a brasileiros, quando estes chegam \na Portugal.  \n(B) A inex istência de controles migratórios e \nalfandegários em Portugal.  \n(C) A familiaridade com o idioma e a busca por \nmelhor qualidade de vida.  \n(D) A possibilidade de se trabalhar com \nesportes, que são a principal fonte de renda de \nPortugal.  \n(E) A inexistência de casos de xenofobia \ncontra brasileiros em Portugal."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Em meados de 2022, noticiou -se que o número \nde mortes relacionadas ao consumo de álcool \naumentou muito durante a pandemia de Covid -\n19. Para profissionais de saúde, este aumento \npode estar relacionado:",
+            "alternativas": {
+                "A": "aos casos de depressão e ansiedade durante \no isolamento social, bem como à menor \ndisponibilidade de leitos em hospitais.",
+                "B": "à maior disponibilidade de tempo para \nparticipação de festas, em virtude do home -\noffice.",
+                "C": "ao aumento da produç ão de bebidas \ncaseiras, que passaram a ser feitas como \npassatempo.",
+                "D": "à falta de sistemas de aquecimento \nresidencial no Brasil, que levou pessoas a \nrecorrerem a destilados para combater o frio.",
+                "E": "à diminuição dos preços das bebidas e do \ncusto de vida em  geral, o que aumentou as \npossibilidades de lazer.  \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nGUARDA  CIVIL  MUNICIPAL                                                                                                                      Página 5 de 10 QUESTÃO 14 \nConsidere o seguinte título de matéria \njornalística:  \n \n“Paulista se acha melhor que resto do Brasil \npor herança europeia e passado bandeirante, \ndiz sociólogo”  \n(Letícia Mori - BBC News Brasil e m São \nPaulo - 16/07/2022)  \n \nO gentílico “paulista”, usado no título, se \nrefere:  \n(A) àquele que é natural ou habitante da cidade \nde São Paulo, apenas.  \n(B) àquele que é natural ou habitante do estado \nde São Paulo.  \n(C) àquele que torce para a agremiação \nespor tiva São Paulo Futebol Clube.  \n(D) àquele que possui veneração especial para \ncom o Santo Apóstolo Paulo.  \n(E) àquele que é natural ou habitante da cidade \nde Paulínia."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: 5 \nServiços pela Internet e aplicativos para \ncelulares, embora tragam uma série de \nfacilidades e confortos para o dia -a-dia, geram \ntambém fortes preocupações por parte de \ngovernos e da sociedade em geral, como por \nexemplo:",
+            "alternativas": {
+                "A": "o impacto das redes sociais em  \nrelacionamentos amorosos, que são rompidos \npor conta de mal -entendidos.",
+                "B": "a baixa disponibilidade de tempo para uso \ndos aplicativos e serviços.",
+                "C": "a quantidade de espaço de armazenamento \ne poder de processamento dos computadores e \ndispositivos móveis.",
+                "D": "a necessidade de se tirar as melhores fotos \npara registrar todos os momentos da vida \npessoal em redes sociais.",
+                "E": "as questões relacionadas à privacidade e ao \nuso que as empresas fazem dos dados pessoais \ndos clientes.  \n NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Um usuário, ao fim do expediente, lembra -se \nde que tinha que enviar um relatório por e -mail \npara outro departamento. Como o dia foi muito \nagitado, ele não se lembra, ao certo, se enviou \nou não o documento. Para confirmar se o e -\nmail foi enviado, o usuário :",
+            "alternativas": {
+                "A": "Deve, obrigatoriamente, telefonar para o \noutro departamento e confirmar se receberam \no relatório, pois não é possível verificar isso \nnos sistemas de e -mail.",
+                "B": "Deve, obrigatoriamente, enviar o e -mail de \nnovo, pois não é possível verificar isso nos \nsistemas de e -mail.",
+                "C": "Pode consultar a pasta “Lixeira” em seu \nsistema de e -mail.",
+                "D": "Pode consultar a pasta “Spam” em seu \nsistema de e -mail.",
+                "E": "Pode consultar a pasta “Itens enviados” em \nseu sistema de e -mail."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: Um usuário acessa um site de Internet cujo \nendereço é https://www.parlament.ch  \nSobre o endereço, é correto afirmar:",
+            "alternativas": {
+                "A": "O website é ligado a uma entidade \ngovernamental, mas não é possível afirmar de \nqual país.",
+                "B": "O website é ligado a uma entidade \ngovernamental da Suíça.",
+                "C": "O website é ligado a uma entidade \ngovernamental da China.",
+                "D": "O website é ligado a uma entidade \ngovernamental do Chile.",
+                "E": "O website é ligado a uma entidade \ngovernamental do Chad.  \n \n \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nGUARDA  CIVIL  MUNICIPAL                                                                                                                      Página 6 de 10 QUESTÃO 18  \nUm usuário deseja configurar seu computador \ncom Windows 7 para que o cursor, ou ponteiro, \ndo mouse, fique com tamanho maior e com \numa cor mais chamativa, de forma a facilitar \nsua visualização. Sobre isto, é correto afirmar:  \n \n(A) Não é possível alterar o ta manho e a cor do \nponteiro / cursor do mouse no Windows 7.  \n(B) Somente a versão de língua inglesa do \nWindows 7 permite a personalização do \ntamanho e da cor do ponteiro / cursor do \nmouse.  \n(C) O usuário poderá alterar o tamanho e a cor \ndo ponteiro / cursor do  mouse no Painel de \nControle.  \n(D) É necessária a reinstalação do Windows 7 \npara que o tamanho e a cor do ponteiro / cursor \ndo mouse sejam alterados.  \n(E) Para alterar o tamanho e a cor do ponteiro \n/ cursor do mouse, é indispensável alterar o \nregistro do Win dows."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: Considere a imagem abaixo, de uma planilha \ndo Microsoft Excel:  \n \n \nCaso seja inserida, na célula C1, a fórmula   \n \n=A1/B1  \n \no valor que será exibido em C1 será:",
+            "alternativas": {
+                "A": "0,5",
+                "B": "0,1",
+                "C": "1",
+                "D": "2",
+                "E": "3  \n \n QUESTÃO 20 \nConsidere a imagem abaixo, de um menu do \nMicrosoft Word:  \n \nO botão indicado pelo quadrado e pela seta na \nimagem acima tem como função:  \n \n(A) Inserir um texto aleatório para teste de \nlayouts.  \n(B) Mudar o estilo do documento.  \n(C) Mudar a fonte do texto.  \n(D) Aumentar ou diminuir  o tamanho da fonte \ndo texto.  \n(E) Mudar o texto selecionado para \nmaiúsculas, minúsculas, dentre outras opções.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: De acordo com o Art. 244 do Código de \nTrânsito Brasileiro – CTB, c onduzir \nmotocicleta, motoneta ou ciclomotor fazendo \nmalabarismo ou  se equilibrando , apenas em \numa roda é considerado infração:",
+            "alternativas": {
+                "A": "grave, sendo computado 4 pontos na CNH.",
+                "B": "grave, sendo computado 5 pontos na CNH.",
+                "C": "gravíssima, sendo computado 5 pontos na \nCNH.",
+                "D": "gravíssima, sendo co mputado 6 pontos na \nCNH.",
+                "E": "gravíssima, sendo computado 7 pontos na \nCNH.  \n \nPrefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nGUARDA  CIVIL  MUNICIPAL                                                                                                                      Página 7 de 10 QUESTÃO 22 \nDe acordo com o Art. 240 do Código de \nTrânsito Brasileiro – CTB, d eixar o \nresponsável de promover a baixa do registro de \nveículo irrecuperável ou , definitivamente , \ndesmon tado é considerado infração:  \n \n(A) grave, sendo computado 4 pontos na CNH.  \n(B) grave, sendo computado 5 pontos na CNH.  \n(C) gravíssima, sendo computado 5 pontos na \nCNH.  \n(D) gravíssima, sendo computado 6 pontos na \nCNH.  \n(E) gravíssima, sendo computado 7 pontos na \nCNH."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: Considere, abaixo, as infrações de trânsito \nimpostas pelo CTB, responda verdadeiro (V) \nou falso (F) e assinale a alternativa que traz a \nsequência cor reta: \n \n(__) Art. 239. Retirar do local veículo \nlegalmente retido para regularização, sem \npermissão da autoridade competente ou de \nseus agentes: Infração grave.  \n(__) Art. 236. Rebocar outro veículo com cabo \nflexível ou corda, salvo em casos de \nemergência: I nfração média.  \n(__) Art. 232. Conduzir veículo sem os \ndocumentos de porte obrigatório referidos \nneste Código: Infração leve.",
+            "alternativas": {
+                "A": "V – V – F.",
+                "B": "V – F – F.",
+                "C": "F – V – V.",
+                "D": "F – V – F.",
+                "E": "F – F – V. \n \n \n QUESTÃO 24 \nPelo Art. 231 do CTB, t ransitar com o veículo \ndanificando a via, suas instalações e \nequipamentos é considerado:  \n \n(A) Infração gravíssima, com penalidade de \nmulta.  \n(B) Infração grave, com penalidade de multa.  \n(C) Infração média, com penalidade de multa.  \n(D) Infração gravíssima, com penalidade de \nmulta e remoção do veículo.  \n(E) Infração grave, com penalidade de multa e \nremoção do veículo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: A placa de trânsito R -14 indica:",
+            "alternativas": {
+                "A": "Peso bruto total máximo permitido.",
+                "B": "Altura máxima permitida.",
+                "C": "Peso máximo permitido por eix o.",
+                "D": "Largura máxima permitida.",
+                "E": "Comprimento máximo permitido.  \n \n \n \n \n \n \n \n \n \n \nPrefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nGUARDA  CIVIL  MUNICIPAL                                                                                                                      Página 8 de 10 QUESTÃO 26 \nA placa de trânsito R -24b indica:  \n \n(A) Sentido proibido.  \n(B) Sentido único.  \n(C) Conversão.  \n(D) Passagem obrigatória.  \n(E) Siga em frente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: O Art. 3º do Código Civil discorre que são \nabsolutamente incapazes de exercer , \npessoalmente , os atos da vida civil os menores \nde:",
+            "alternativas": {
+                "A": "16 anos.",
+                "B": "17 anos.",
+                "C": "18 anos.",
+                "D": "20 anos.",
+                "E": "21 anos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: O Art. 4º do Código Civil relata que não são \nincapazes, relativamente , a certos atos ou à \nmaneira de os exercer :",
+            "alternativas": {
+                "A": "os maiores de dezoito e menores de vinte e \num anos.",
+                "B": "os ébrios habituais.",
+                "C": "os viciados em tóxico.",
+                "D": "os pródigos.",
+                "E": "aqueles que,  por causa transitória ou \npermanente, não puderem exprimir sua \nvontade.  QUESTÃO 29 \nO Art. 8º do Código Civil discorre que se dois \nou mais indivíduos falecerem na mesma \nocasião, não se podendo averiguar se algum \ndos comorientes precedeu aos outros, \npresumir -se-ão: \n \n(A) convalescentes.  \n(B) incapacidade absoluta.  \n(C) emancipação por outorga.  \n(D) fixar a data provável do falecimento.  \n(E) simultaneamente , mortos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: A Manobra de Heimlich, em primeiros \nsocorros, é indicada para casos de:",
+            "alternativas": {
+                "A": "Desmaios e síncopes.",
+                "B": "Afogamentos conscientes.",
+                "C": "Queimaduras extensas.",
+                "D": "Reanimação Cardiopulmonar.",
+                "E": "Obstrução de vias aéreas por corpo \nestranho."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: Na realização da Reanimação Cardiopulmonar \nas compressões torácicas devem ser realiza das \na uma frequência de:",
+            "alternativas": {
+                "A": "50 a 60 compressões por minuto.",
+                "B": "70 a 90 compressões por minuto.",
+                "C": "80 a 100 compressões por minuto.",
+                "D": "100 a 120 compressões por minuto.",
+                "E": "150 compressões por minuto.  \n \n \n \n \nPrefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nGUARDA  CIVIL  MUNICIPAL                                                                                                                      Página 9 de 10 QUESTÃO 32 \nÉ uma medida incorreta frente à vítima de \nqueimadura:  \n \n(A) Lavar o local com água corrente, em casos \nde queimaduras de pequena extensão.  \n(B) Não retirar as roupas do local queimado.  \n(C) Não retirar anéis e adornos do local \nqueimado.  \n(D) Não aplicar pomadas, líquidos, cremes, \nmanteiga, pó  de café, creme dental ou outras \nsubstâncias sobre a queimadura.  \n(E) Não romper as bolhas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: De acordo com o Estatuto da Criança e do \nAdolescente – ECA, a precedência de \natendimento , nos serviços públicos ou de \nrelevância pública, é uma garantia de:",
+            "alternativas": {
+                "A": "Liberdade.",
+                "B": "Prioridade.",
+                "C": "Igualdade.",
+                "D": "Dignidade.",
+                "E": "Convivência comunitária."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: O ECA entende a ação de natureza disciplinar \nou punitiva aplicada com o uso da força física \nsobre a criança ou o adolescente que resulte em \nsofrimento físico ou lesão como:",
+            "alternativas": {
+                "A": "Ridicularização.",
+                "B": "Humilhação.",
+                "C": "Tratamento degradante.",
+                "D": "Castigo físico.",
+                "E": "Tratamento cruel.  \n QUESTÃO 35 \nOs atos administrativos podem ser executados \npela própria Administração Pública , \ndiretamente, independentemente de \nautorização dos outros poderes, caracterizando \nseu atributo conceituado como : \n \n(A) Veracidade.  \n(B) Tipicidade.  \n(C) Autoexecutoriedade.  \n(D) Imperatividade.  \n(E) Presunção de leg itimidade"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: ___________ é  o atributo pelo qual o ato \nadministrativo deve corresponder a figuras , \npreviamente , definidas pela lei como aptas a \nproduzir determinados efeitos. O presente \natributo é uma verdadeira garantia ao \nparticular que impede a A dministração de agir , \nabsolutamente , de forma discricionária.  \nAssinale a alternativa que preenche, \ncorretamente, a lacuna do texto:",
+            "alternativas": {
+                "A": "Veracidade.",
+                "B": "Tipicidade.",
+                "C": "Autoexecutoriedade.",
+                "D": "Imperatividade.",
+                "E": "Presunção de legitimidade"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: O poder decorrente da lei conferido ao agente \nadministrativo para o desempenho regular de \nsuas atribuições denomina -se:",
+            "alternativas": {
+                "A": "Prática.",
+                "B": "Delegação.",
+                "C": "Avocação.",
+                "D": "Competência.",
+                "E": "Vinculação.  \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nGUARDA  CIVIL  MUNICIPAL                                                                                                                      Página 10 de 10 QUESTÃO 38 \nOs crimes previstos pela Lei 13869/2019 são \nde ação :  \n \n(A) público -privada condicionada.  \n(B) civil pública incondicionada.  \n(C) civil pública incondicionada.  \n(D) penal pública condicionada.  \n(E) penal pública incondicionada.  \n \n \n \n \n QUESTÃO 39 \nO Art. 12 da Lei 13869/2019 aponta que \ndeixar , injustificadamente , de comunicar \nprisão em flagrante à autoridade judiciária , no \nprazo legal , incorre em pena de:  \n \n(A) detenção, de 3 (três) meses a 1 (um) ano, e \nmulta.     \n(B) detenção, de 1 (um) a 4 (quatro) anos, e \nmulta.  \n(C) detenção , de 6 (seis) meses a 2 (dois) anos, \ne multa.  \n(D) detenção, de 3 (três) a 5 (cinco) anos, e \nmulta.     \n(E) detenção, de 5 (cinco) a 8 (oito) anos, e \nmulta."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GUARDA  CIVIL  MUNICIPAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: Todas as placas de trânsito, abaixo, fazem alguma referência a pedestres, exceto:",
+            "alternativas": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": "",
+                "E": ""
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

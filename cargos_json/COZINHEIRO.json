@@ -1,3 +1,2300 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e229914d3015a61bc79d237208e8664ab22a3c8307ad1c11f1da5e8b50d9a24
-size 164447
+{
+    "COZINHEIRO": [
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Na charge apresentada, de Laerte Coutinho, o personagem faz uma referência ao conto infantil “João \ne o pè de feijão”. Isso porque:",
+            "alternativas": {
+                "A": "a árvore de Natal gerada pelo programa de computador é gigante.",
+                "B": "a história de João e o pé de feijão tem o mesmo tema de Natal.",
+                "C": "os ovos de ouro são uma metáfora relacionada ao Natal.",
+                "D": "ele acredita que a árvore de Natal é um pé de feijão.",
+                "E": "a árvore de Natal não era virtual."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: A palavra “programinha”, que ocorre na primeira fala da charge, è um:",
+            "alternativas": {
+                "A": "substantivo comum no aumentativo.",
+                "B": "adjetivo positivo.",
+                "C": "adjetivo superlativo.",
+                "D": "substantivo comum no diminutivo.",
+                "E": "substantivo composto no diminutivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: A expressão “em cima”, que ocorre na última fala da charge, è uma locução adverbial que exprime \numa circunstância de:",
+            "alternativas": {
+                "A": "negação.",
+                "B": "lugar.",
+                "C": "intensidade.",
+                "D": "condição.",
+                "E": "tempo. \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 3 de 11 QUESTÃO 04 \nA forma verbal “acabo”, que ocorre na primeira fala da charge, está conjugada no modo:  \n(A) indicativo. \n(B) subjuntivo. \n(C) imperativo. \n(D) infinitivo. \n(E) gerúndio."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: As palavras “com” e “em”, que ocorrem na última fala da charge, pertencem à classe gramatical:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "artigo.",
+                "C": "conjunção.",
+                "D": "preposição.",
+                "E": "advérbio."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Todas as palavras que ocorrem no primeiro quadrinho exprimem sentido literal, exceto:",
+            "alternativas": {
+                "A": "programinha.",
+                "B": "clima.",
+                "C": "natal.",
+                "D": "meu.",
+                "E": "computador."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Na sentença “Acabo de instalar um programinha que dá “um clima de Natal” no meu computador”, \nque ocorre na primeira fala da charge, são palavras da classe dos verbos apenas:",
+            "alternativas": {
+                "A": "acabo; instalar.",
+                "B": "acabo; dá.",
+                "C": "acabo; instalar; dá.",
+                "D": "instalar; dá.",
+                "E": "instalar. \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 4 de 11  \nLeia a charge para responder a questões 8.   \n \n \nWATTERSON II, W. B. Calvin & Haroldo . 1987."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Em relação â regência, o verbo “acreditar”, que ocorre no primeiro quadrinho, è:",
+            "alternativas": {
+                "A": "transitivo direto.",
+                "B": "transitivo indireto.",
+                "C": "intransitivo.",
+                "D": "transitivo direto e indireto.",
+                "E": "pronominal.  \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 5 de 11 QUESTÃO 09 \nAssinale a alternativa em que a palavra destacada \né classificada gramaticalmente como advérbio. \n(A) Eles foram ao mercado . \n(B) José é um ótimo  escritor. \n(C) As entrevistas duraram pouco.  \n(D) Lamento  por não ter ido à festa de \naniversário. \n(E) Contei a ele tudo o que sabia sobre o \nocorrido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Analise as alternativas a seguir e assinale aquela \nem que todas as palavras apresentadas são \ntrissílabas.",
+            "alternativas": {
+                "A": "hipótese; malária; portão.",
+                "B": "cafeína; cruzado; prestação.",
+                "C": "cuscuz; corrente; palavra.",
+                "D": "verbas; afunilar; chacoalhar.",
+                "E": "versátil; perfeita; amável."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Assinale a alternativa em que todas as palavras \nsão substantivos femininos.",
+            "alternativas": {
+                "A": "planeta, cometa, luneta.",
+                "B": "mulher, grade, programa.",
+                "C": "moita, luz, alface.",
+                "D": "série, estudante, clima.",
+                "E": "rede, jogo, tipo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: “Os cozinheiros e serviçais especulavam a \nrespeito do que poderia sobejar  da celebração \nfestiva realizada no palácio.” A palavra “sobejar” \nexprime o mesmo sentido que:",
+            "alternativas": {
+                "A": "concluir.",
+                "B": "resultar.",
+                "C": "carecer.",
+                "D": "escassear.",
+                "E": "sobrar. \n QUESTÃO 13 \nAssinale a alternativa em que a conjugação do \nverbo da sentença indica a segunda pessoa do \nplural. \n(A) Retornara mais cedo da viagem. \n(B) Os infortúnios desse acontecimento são \nmuitos.  \n(C) Pensarás com carinho nessa proposta, em \nrespeito à amizade que temos. \n(D) Subjugastes aquele rapaz injustamente.  \n(E) Façamos as pazes!"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Assinale a alternativa em que, na sentença \napresentada, o pronome destacado é do tipo \npessoal do caso oblíquo.",
+            "alternativas": {
+                "A": "Minhas  coisas foram roubadas.",
+                "B": "Este é o livro de que te falei.",
+                "C": "As meninas se produziram para a festa de \ncarnaval.",
+                "D": "Não esperava por essa atitude.",
+                "E": "Nós temos um novo acordo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: São palavras oxítonas:",
+            "alternativas": {
+                "A": "beira; fúria; figo.",
+                "B": "cantil; nó; céu.",
+                "C": "círio; avó; perfeito.",
+                "D": "ambiente; catástrofe; mundo.",
+                "E": "tenaz; carniça; música. \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 6 de 11 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Ana está redecorando sua sala e precisa comprar \numa nova mesa. Ela encontrou uma mesa que \npossui um comprimento de 2,5 metros. No \nentanto, Ana quer visualizar essa medida de \nforma mais precisa para garantir que a mesa se \nencaixe perfeitamente no espaço disponível em \nsua sala. Para isso, ela decide converter o \ncomprimento da mesa de metros para \ncentímetros. Qual será a medida da mesa em \ncentímetros?",
+            "alternativas": {
+                "A": "25 centímetros",
+                "B": "2.050 centímetros",
+                "C": "100 centímetros",
+                "D": "250 centímetros",
+                "E": "2.500 centímetros"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Considere a sequência: Z, 1, Y, 2, X, 3, W, 4, V, \n5, . Qual é o 20º termo dessa sequência?",
+            "alternativas": {
+                "A": "10",
+                "B": "Q",
+                "C": "O",
+                "D": "9",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Em uma loja de eletrônicos, uma pessoa compra \ndois smartphones e um tablet, gastando no total \nR$ 7.200,00. Se o preço de um smartphone é \ndesconhecido e o preço de um tablet é de R$ \n2.200,00, qual é o preço de um smartphone?",
+            "alternativas": {
+                "A": "R$ 2.200,00",
+                "B": "R$ 2.100,00",
+                "C": "R$ 5.000,00",
+                "D": "R$ 2.500,00",
+                "E": "Nenhuma das alternativas \n \n \n QUESTÃO 19  \nNa conveniência de um posto de gasolina, Rafael \ntem uma média de vendas diárias de R$ 55,00 em \ncigarros. Se ele mantiver essa valor de vendas \ndurante 30 dias consecutivos, qual será o total de \nvendas de cigarros ao final dos 30 dias? \n(A) R$ 1650,00 \n(B) R$ 1750,00 \n(C) R$ 1850,00 \n(D) R$ 1550,00 \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Maria foi fazer compras e percebeu que o troco \ndeveria ser de R$ 7,50. Porém o estabelecimento \nsó tinha moedas para dar o troco. Qual seria a \nmenor quantidade de moedas que ela poderia \nreceber como troco, considerando que as moedas \ndisponíveis são de R$ 1,00 e R$ 0,50?",
+            "alternativas": {
+                "A": "15 moedas de R$ 0,50",
+                "B": "6 moedas de R$ 1,00 e 3 moedas de R$ 0,50",
+                "C": "5 moedas de R$ 1,00 e 5 moedas de R$ 0,50",
+                "D": "14 moedas de R$ 0,50 e 1 moeda de R$ 1,00",
+                "E": "7 moedas de R$ 1,00 e 1 moeda de R$ 0,50"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Qual é o resultado para a seguinte operação: \n31,5 x 8,4 – 12:",
+            "alternativas": {
+                "A": "252,60",
+                "B": "264,60",
+                "C": "113,4",
+                "D": "- 113,4",
+                "E": "Nenhuma das alternativas \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 7 de 11 QUESTÃO 22  \nEm um edifício onde todos os andares têm \napenas números pares, e cada andar possui \nexatamente 4 apartamentos, considere um prédio \nde 12 andares. Qual é o número do último \napartamento nesse edifício? \n(A) 46 \n(B) 48 \n(C) 60 \n(D) 96 \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Em uma loja de eletrônicos, um cliente comprou \num smartphone por R$ 1.200,00 e dois fones de \nouvido por R$ 150,00 cada. O vendedor ofereceu \num desconto de 15% no total da compra. Qual é \no valor final que o cliente pagou por sua compra?",
+            "alternativas": {
+                "A": "R$ 1.500,00",
+                "B": "R$ 1.275,00",
+                "C": "R$ 1.350,00",
+                "D": "R$ 1.147,50",
+                "E": "R$ 1.197,50"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Mariana corrigiu 40% das questões da prova de \nPedro, totalizando 12 questões. Com base nessa \ninformação, é correto concluir que o número de \nquestões da prova é igual a:",
+            "alternativas": {
+                "A": "20",
+                "B": "25",
+                "C": "30",
+                "D": "35",
+                "E": "40"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Lucas comprou 40 metros de fio elétrico por R$ \n1,20 o metro e uma lâmpada por R$ 6,80. Se ele \npagou com uma nota de R$ 100,00, qual foi o \ntroco que Lucas recebeu?",
+            "alternativas": {
+                "A": "R$ 41,20",
+                "B": "R$ 42,20",
+                "C": "R$ 43,20",
+                "D": "R$ 44,20",
+                "E": "R$ 45,20 \n \n QUESTÃO 26  \nPara fazer um bolo que serve 8 pessoas, Laura \nutiliza 2 xícaras de farinha de trigo. Quantas \nxícaras de farinha de trigo ela precisará para fazer \num bolo para 12 pessoas? \n(A) 2,5 xícaras \n(B) 3 xícaras \n(C) 3,5 xícaras \n(D) 4 xícaras \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Um tanque de combustível tem capacidade para \n60 litros de etanol. Se o preço do etanol é R$ 4,50 \npor litro, quanto custa para encher o tanque?",
+            "alternativas": {
+                "A": "R$ 260,00",
+                "B": "R$ 265,00",
+                "C": "R$ 270,00",
+                "D": "R$ 275,00",
+                "E": "R$ 295,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Paula desafiou seu irmão João a descobrir o dia \nda semana após 42 dias. João, que estava \nconcentrado nos estudos, respondeu \ncorretamente que, se aquele dia fosse uma \nsegunda-feira, dali a 42 dias seria:",
+            "alternativas": {
+                "A": "Terça-feira",
+                "B": "Domingo",
+                "C": "Segunda-feira",
+                "D": "Sábado",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Uma loja está oferecendo um desconto de 15% \nem todos os produtos durante uma liquidação. Se \num item custa originalmente R$ 120,00, qual será \no preço final após o desconto?",
+            "alternativas": {
+                "A": "R$ 90,00",
+                "B": "R$ 102,00",
+                "C": "R$ 105,00",
+                "D": "R$ 112,00",
+                "E": "R$ 117,30 \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 8 de 11 QUESTÃO 30  \nAssinale a alternativa que apresenta o \nSexagésimo primeiro número par antecessor de \n776. \n(A) 716 \n(B) 654 \n(C) 837 \n(D) 898 \n(E) Nenhuma das alternativas \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Examine as proposições a seguir e assinale a \nalternativa que representa com precisão as \npráticas adequadas de higiene pessoal e \nsegurança alimentar na cozinha:",
+            "alternativas": {
+                "A": "É recomendado que o manipulador(a) \nmantenha os cabelos presos e com toucas apenas \ndurante a preparação de alimentos antes da \ncocção, tendo em vista que a alta temperatura \nserá capaz de inibir a contaminação caso venha \nocorrer.",
+                "B": "O uniforme não precisa ser trocado \ndiariamente, desde que esteja limpo.",
+                "C": "O uniforme deve ser usado somente na área \nde preparo dos alimentos, devendo ainda ser \ntrocado diariamente, pois este pode servir de \ntransporte de micróbios patogênicos para o \ninterior da área de preparo dos alimentos, \ncontaminando-os.",
+                "D": "Não há qualquer vedação no uso de \nmaquiagem durante a manipulação de alimentos, \ndiante da ausência de possibilidade de \ncontaminação.",
+                "E": "O uso de barba em uma cozinha é permitido, \ndesde não seja sobressalente. \n \n \n \n \n \n \n \n QUESTÃO 32 \nComplete a lacuna a seguir, com o termo \nadequado: \nOcorre a ___________________ quando o \nmicrorganismo é transferido das mãos dos \nmanipuladores, de uma superfície, ou de um \nalimento para outro. Os principais fatores são as \nsuperfícies de contato, equipamentos e mãos não \nhigienizadas corretamente, panos de limpeza \ncontaminados, e/ou acréscimo de ingredientes \ncrus nas preparações sem a devida observância. \n(A) Infecção por vírus. \n(B) Contaminação cruzada. \n(C) Propagação de microrganismos por via aérea. \n(D) Transmissão por contato manual. \n(E) Transferência de bactérias por superfícies."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Qual a terminologia que pode ser definida \ntambém como o conjunto de operações \nrealizadas em antecipação a um preparo, com \nfoco de otimizar o fluxo das preparações finais?",
+            "alternativas": {
+                "A": "Montagem imediata.",
+                "B": "Bringir.",
+                "C": "A lá minute.",
+                "D": "Culinária instantânea.",
+                "E": "Mise in place."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Qual é a prática correta para garantir a \nhigienização adequada de frutas e legumes antes \ndo consumo?",
+            "alternativas": {
+                "A": "A lavagem de frutas e legumes deve ser \napenas em água corrente.",
+                "B": "Mergulhar os legumes e frutas em uma água \ncom sabão neutro, e deixar por 03 (três) minutos.",
+                "C": "Deixar em submersão na água com vinagre.",
+                "D": "Recomenda-se a lavagem em água corrente e \no molho na água clorada.",
+                "E": "Colocar os legumes e/ou frutas em submersão \nna água com sal e vinagre, garantindo a remoção \nde quaisquer parasitas. \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 9 de 11 QUESTÃO 35 \nSeguindo os preceitos de uma alimentação \nsaudável, qual seria a orientação apropriada para \nalcançar uma dieta equilibrada? \n(A) Consumir apenas um tipo de alimento em \ncada refeição é o adequado. \n(B) Comer sempre em grandes quantidades, \nindependentemente das necessidades do \norganismo, devendo saciar a fome. \n(C) Priorizar alimentos com alto índice \nglicêmico, para maior saciedade. \n(D) Ingestão da maior quantidade de \ncarboidratos, tendo em vista seu baixo índice \nglicêmico. \n(E) Incluir variedade, moderação e equilíbrio, \nrespeitando as quantidades de porções \nrecomendadas para cada grupo de alimentos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: No que diz respeito ao armazenamento de \nalimentos rapidamente congelados, qual é a \ncondição essencial em relação à temperatura?",
+            "alternativas": {
+                "A": "Não poderá ser inferior a menos dezoito \ngraus celsius (-18°C).",
+                "B": "Não poderá ser superior a menos dez graus \ncelsius (-10°C).",
+                "C": "Não poderá ser superior a dezoito graus \ncelsius (-18°C).",
+                "D": "Não poderá ser superior a menos dez graus \ncelsius (-15°C).",
+                "E": "Não poderá ser inferior a menos dez graus \ncelsius (-10°C). \n \n \n \n \n \n \n \n \n QUESTÃO 37 \nNuma tarde, Laura lia atentamente as instruções \nde uma receita de Estrogonofe que planejava \nexecutar. Ao analisar os ingredientes, algumas \ndúvidas surgiram em sua cabeça. Com o intuito \nde ajudar Laura, assinale a alternativa que \nrepresenta corretamente qual é o ingrediente \nprincipal utilizado na receita clássica que ela não \npoderá esquecer para encorpar o Strogonoff, \ndando-lhe aquela textura irresistível em seu \nmolho: \n(A) Creme de Leite. \n(B) Leite de amêndoas. \n(C) Pasta de alho. \n(D) Creme de milho. \n(E) Purê de batatas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: Ao priorizar a segurança no ambiente de \ntrabalho, especialmente em cozinhas industriais, \nquais são as ações apropriadas para minimizar \nriscos?",
+            "alternativas": {
+                "A": "Manter o piso sempre limpo e seco, buscando \nassim de evitar quedas e acidentes.",
+                "B": "Usar calçados confortáveis, podendo ser eles \nabertos ou fechados,",
+                "C": "Dispensar o uso de EPI’S em tarefas já \nrotineiras na cozinha.",
+                "D": "Utilizar luvas térmicas em casos de extrema \nnecessidade.",
+                "E": "Fazer uso de caixas e escadas, para alcançar \nobjetos que estiverem em altura elevada. \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 10 de 11 QUESTÃO 39 \nLuciana, uma cozinheira recém-formada, está preparando uma apresentação para seus colegas de \nprofissão sobre os diferentes tipos de cortes clássicos na cozinha. Ela explica que os dois cortes \napresentados nas imagens abaixo, são conhecidos respectivamente como: \n \n \n \n(A) Brunoise e chiffonade. \n(B) Julienne e Brunoise. \n(C) Bastonetes e Julienne. \n(D) Chiffonade e Brunoise. \n(E) Paisane e Brunoise."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29: Ao receber alimentos na cozinha de um estabelecimento, é essencial seguir padrões rigorosos para \ngarantir a qualidade e segurança dos produtos. Assinale a alternativa INCORRETA  sobre as práticas \na serem verificadas no recebimento de alimentos:",
+            "alternativas": {
+                "A": "Os alimentos enlatados não devem estar com as embalagens amassadas, abauladas, estufadas, com \nvazamento ou enferrujadas.",
+                "B": "As farinhas e amidos devem estar livres de mofo e deverão estar com grumos.",
+                "C": "O leite deve estar em embalagens limpas, íntegras e apropriadas para seu acondicionamento.",
+                "D": "Os grãos devem estar secos, isentos de impurezas.",
+                "E": "Os ovos frescos devem apresentar casca sem rachaduras, áspera, clara, fosca e esp essa em \nembalagens apropriadas. \n \n \n \n \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 11 de 11"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Na charge apresentada, de Laerte Coutinho, o personagem faz uma referência ao conto infantil “João \ne o pè de feijão”. Isso porque:",
+            "alternativas": {
+                "A": "a árvore de Natal gerada pelo programa de computador é gigante.",
+                "B": "a história de João e o pé de feijão tem o mesmo tema de Natal.",
+                "C": "os ovos de ouro são uma metáfora relacionada ao Natal.",
+                "D": "ele acredita que a árvore de Natal é um pé de feijão.",
+                "E": "a árvore de Natal não era virtual."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: A palavra “programinha”, que ocorre na primeira fala da charge, è um:",
+            "alternativas": {
+                "A": "substantivo comum no aumentativo.",
+                "B": "adjetivo positivo.",
+                "C": "adjetivo superlativo.",
+                "D": "substantivo comum no diminutivo.",
+                "E": "substantivo composto no diminutivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: A expressão “em cima”, que ocorre na última fala da charge, è uma locução adverbial que exprime \numa circunstância de:",
+            "alternativas": {
+                "A": "negação.",
+                "B": "lugar.",
+                "C": "intensidade.",
+                "D": "condição.",
+                "E": "tempo. \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 3 de 11 QUESTÃO 04 \nA forma verbal “acabo”, que ocorre na primeira fala da charge, está conjugada no modo:  \n(A) indicativo. \n(B) subjuntivo. \n(C) imperativo. \n(D) infinitivo. \n(E) gerúndio."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: As palavras “com” e “em”, que ocorrem na última fala da charge, pertencem à classe gramatical:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "artigo.",
+                "C": "conjunção.",
+                "D": "preposição.",
+                "E": "advérbio."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Todas as palavras que ocorrem no primeiro quadrinho exprimem sentido literal, exceto:",
+            "alternativas": {
+                "A": "programinha.",
+                "B": "clima.",
+                "C": "natal.",
+                "D": "meu.",
+                "E": "computador."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Na sentença “Acabo de instalar um programinha que dá “um clima de Natal” no meu computador”, \nque ocorre na primeira fala da charge, são palavras da classe dos verbos apenas:",
+            "alternativas": {
+                "A": "acabo; instalar.",
+                "B": "acabo; dá.",
+                "C": "acabo; instalar; dá.",
+                "D": "instalar; dá.",
+                "E": "instalar. \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 4 de 11  \nLeia a charge para responder a questões 8.   \n \n \nWATTERSON II, W. B. Calvin & Haroldo . 1987."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Em relação â regência, o verbo “acreditar”, que ocorre no primeiro quadrinho, è:",
+            "alternativas": {
+                "A": "transitivo direto.",
+                "B": "transitivo indireto.",
+                "C": "intransitivo.",
+                "D": "transitivo direto e indireto.",
+                "E": "pronominal.  \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 5 de 11 QUESTÃO 09 \nAssinale a alternativa em que a palavra destacada \né classificada gramaticalmente como advérbio. \n(A) Eles foram ao mercado . \n(B) José é um ótimo  escritor. \n(C) As entrevistas duraram pouco.  \n(D) Lamento  por não ter ido à festa de \naniversário. \n(E) Contei a ele tudo o que sabia sobre o \nocorrido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Analise as alternativas a seguir e assinale aquela \nem que todas as palavras apresentadas são \ntrissílabas.",
+            "alternativas": {
+                "A": "hipótese; malária; portão.",
+                "B": "cafeína; cruzado; prestação.",
+                "C": "cuscuz; corrente; palavra.",
+                "D": "verbas; afunilar; chacoalhar.",
+                "E": "versátil; perfeita; amável."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Assinale a alternativa em que todas as palavras \nsão substantivos femininos.",
+            "alternativas": {
+                "A": "planeta, cometa, luneta.",
+                "B": "mulher, grade, programa.",
+                "C": "moita, luz, alface.",
+                "D": "série, estudante, clima.",
+                "E": "rede, jogo, tipo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: “Os cozinheiros e serviçais especulavam a \nrespeito do que poderia sobejar  da celebração \nfestiva realizada no palácio.” A palavra “sobejar” \nexprime o mesmo sentido que:",
+            "alternativas": {
+                "A": "concluir.",
+                "B": "resultar.",
+                "C": "carecer.",
+                "D": "escassear.",
+                "E": "sobrar. \n QUESTÃO 13 \nAssinale a alternativa em que a conjugação do \nverbo da sentença indica a segunda pessoa do \nplural. \n(A) Retornara mais cedo da viagem. \n(B) Os infortúnios desse acontecimento são \nmuitos.  \n(C) Pensarás com carinho nessa proposta, em \nrespeito à amizade que temos. \n(D) Subjugastes aquele rapaz injustamente.  \n(E) Façamos as pazes!"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Assinale a alternativa em que, na sentença \napresentada, o pronome destacado é do tipo \npessoal do caso oblíquo.",
+            "alternativas": {
+                "A": "Minhas  coisas foram roubadas.",
+                "B": "Este é o livro de que te falei.",
+                "C": "As meninas se produziram para a festa de \ncarnaval.",
+                "D": "Não esperava por essa atitude.",
+                "E": "Nós temos um novo acordo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: São palavras oxítonas:",
+            "alternativas": {
+                "A": "beira; fúria; figo.",
+                "B": "cantil; nó; céu.",
+                "C": "círio; avó; perfeito.",
+                "D": "ambiente; catástrofe; mundo.",
+                "E": "tenaz; carniça; música. \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 6 de 11 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Ana está redecorando sua sala e precisa comprar \numa nova mesa. Ela encontrou uma mesa que \npossui um comprimento de 2,5 metros. No \nentanto, Ana quer visualizar essa medida de \nforma mais precisa para garantir que a mesa se \nencaixe perfeitamente no espaço disponível em \nsua sala. Para isso, ela decide converter o \ncomprimento da mesa de metros para \ncentímetros. Qual será a medida da mesa em \ncentímetros?",
+            "alternativas": {
+                "A": "25 centímetros",
+                "B": "2.050 centímetros",
+                "C": "100 centímetros",
+                "D": "250 centímetros",
+                "E": "2.500 centímetros"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Considere a sequência: Z, 1, Y, 2, X, 3, W, 4, V, \n5, . Qual é o 20º termo dessa sequência?",
+            "alternativas": {
+                "A": "10",
+                "B": "Q",
+                "C": "O",
+                "D": "9",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Em uma loja de eletrônicos, uma pessoa compra \ndois smartphones e um tablet, gastando no total \nR$ 7.200,00. Se o preço de um smartphone é \ndesconhecido e o preço de um tablet é de R$ \n2.200,00, qual é o preço de um smartphone?",
+            "alternativas": {
+                "A": "R$ 2.200,00",
+                "B": "R$ 2.100,00",
+                "C": "R$ 5.000,00",
+                "D": "R$ 2.500,00",
+                "E": "Nenhuma das alternativas \n \n \n QUESTÃO 19  \nNa conveniência de um posto de gasolina, Rafael \ntem uma média de vendas diárias de R$ 55,00 em \ncigarros. Se ele mantiver essa valor de vendas \ndurante 30 dias consecutivos, qual será o total de \nvendas de cigarros ao final dos 30 dias? \n(A) R$ 1650,00 \n(B) R$ 1750,00 \n(C) R$ 1850,00 \n(D) R$ 1550,00 \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Maria foi fazer compras e percebeu que o troco \ndeveria ser de R$ 7,50. Porém o estabelecimento \nsó tinha moedas para dar o troco. Qual seria a \nmenor quantidade de moedas que ela poderia \nreceber como troco, considerando que as moedas \ndisponíveis são de R$ 1,00 e R$ 0,50?",
+            "alternativas": {
+                "A": "15 moedas de R$ 0,50",
+                "B": "6 moedas de R$ 1,00 e 3 moedas de R$ 0,50",
+                "C": "5 moedas de R$ 1,00 e 5 moedas de R$ 0,50",
+                "D": "14 moedas de R$ 0,50 e 1 moeda de R$ 1,00",
+                "E": "7 moedas de R$ 1,00 e 1 moeda de R$ 0,50"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Qual é o resultado para a seguinte operação: \n31,5 x 8,4 – 12:",
+            "alternativas": {
+                "A": "252,60",
+                "B": "264,60",
+                "C": "113,4",
+                "D": "- 113,4",
+                "E": "Nenhuma das alternativas \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 7 de 11 QUESTÃO 22  \nEm um edifício onde todos os andares têm \napenas números pares, e cada andar possui \nexatamente 4 apartamentos, considere um prédio \nde 12 andares. Qual é o número do último \napartamento nesse edifício? \n(A) 46 \n(B) 48 \n(C) 60 \n(D) 96 \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Em uma loja de eletrônicos, um cliente comprou \num smartphone por R$ 1.200,00 e dois fones de \nouvido por R$ 150,00 cada. O vendedor ofereceu \num desconto de 15% no total da compra. Qual é \no valor final que o cliente pagou por sua compra?",
+            "alternativas": {
+                "A": "R$ 1.500,00",
+                "B": "R$ 1.275,00",
+                "C": "R$ 1.350,00",
+                "D": "R$ 1.147,50",
+                "E": "R$ 1.197,50"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Mariana corrigiu 40% das questões da prova de \nPedro, totalizando 12 questões. Com base nessa \ninformação, é correto concluir que o número de \nquestões da prova é igual a:",
+            "alternativas": {
+                "A": "20",
+                "B": "25",
+                "C": "30",
+                "D": "35",
+                "E": "40"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Lucas comprou 40 metros de fio elétrico por R$ \n1,20 o metro e uma lâmpada por R$ 6,80. Se ele \npagou com uma nota de R$ 100,00, qual foi o \ntroco que Lucas recebeu?",
+            "alternativas": {
+                "A": "R$ 41,20",
+                "B": "R$ 42,20",
+                "C": "R$ 43,20",
+                "D": "R$ 44,20",
+                "E": "R$ 45,20 \n \n QUESTÃO 26  \nPara fazer um bolo que serve 8 pessoas, Laura \nutiliza 2 xícaras de farinha de trigo. Quantas \nxícaras de farinha de trigo ela precisará para fazer \num bolo para 12 pessoas? \n(A) 2,5 xícaras \n(B) 3 xícaras \n(C) 3,5 xícaras \n(D) 4 xícaras \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Um tanque de combustível tem capacidade para \n60 litros de etanol. Se o preço do etanol é R$ 4,50 \npor litro, quanto custa para encher o tanque?",
+            "alternativas": {
+                "A": "R$ 260,00",
+                "B": "R$ 265,00",
+                "C": "R$ 270,00",
+                "D": "R$ 275,00",
+                "E": "R$ 295,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Paula desafiou seu irmão João a descobrir o dia \nda semana após 42 dias. João, que estava \nconcentrado nos estudos, respondeu \ncorretamente que, se aquele dia fosse uma \nsegunda-feira, dali a 42 dias seria:",
+            "alternativas": {
+                "A": "Terça-feira",
+                "B": "Domingo",
+                "C": "Segunda-feira",
+                "D": "Sábado",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Uma loja está oferecendo um desconto de 15% \nem todos os produtos durante uma liquidação. Se \num item custa originalmente R$ 120,00, qual será \no preço final após o desconto?",
+            "alternativas": {
+                "A": "R$ 90,00",
+                "B": "R$ 102,00",
+                "C": "R$ 105,00",
+                "D": "R$ 112,00",
+                "E": "R$ 117,30 \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 8 de 11 QUESTÃO 30  \nAssinale a alternativa que apresenta o \nSexagésimo primeiro número par antecessor de \n776. \n(A) 716 \n(B) 654 \n(C) 837 \n(D) 898 \n(E) Nenhuma das alternativas \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Examine as proposições a seguir e assinale a \nalternativa que representa com precisão as \npráticas adequadas de higiene pessoal e \nsegurança alimentar na cozinha:",
+            "alternativas": {
+                "A": "É recomendado que o manipulador(a) \nmantenha os cabelos presos e com toucas apenas \ndurante a preparação de alimentos antes da \ncocção, tendo em vista que a alta temperatura \nserá capaz de inibir a contaminação caso venha \nocorrer.",
+                "B": "O uniforme não precisa ser trocado \ndiariamente, desde que esteja limpo.",
+                "C": "O uniforme deve ser usado somente na área \nde preparo dos alimentos, devendo ainda ser \ntrocado diariamente, pois este pode servir de \ntransporte de micróbios patogênicos para o \ninterior da área de preparo dos alimentos, \ncontaminando-os.",
+                "D": "Não há qualquer vedação no uso de \nmaquiagem durante a manipulação de alimentos, \ndiante da ausência de possibilidade de \ncontaminação.",
+                "E": "O uso de barba em uma cozinha é permitido, \ndesde não seja sobressalente. \n \n \n \n \n \n \n \n QUESTÃO 32 \nComplete a lacuna a seguir, com o termo \nadequado: \nOcorre a ___________________ quando o \nmicrorganismo é transferido das mãos dos \nmanipuladores, de uma superfície, ou de um \nalimento para outro. Os principais fatores são as \nsuperfícies de contato, equipamentos e mãos não \nhigienizadas corretamente, panos de limpeza \ncontaminados, e/ou acréscimo de ingredientes \ncrus nas preparações sem a devida observância. \n(A) Infecção por vírus. \n(B) Contaminação cruzada. \n(C) Propagação de microrganismos por via aérea. \n(D) Transmissão por contato manual. \n(E) Transferência de bactérias por superfícies."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Qual a terminologia que pode ser definida \ntambém como o conjunto de operações \nrealizadas em antecipação a um preparo, com \nfoco de otimizar o fluxo das preparações finais?",
+            "alternativas": {
+                "A": "Montagem imediata.",
+                "B": "Bringir.",
+                "C": "A lá minute.",
+                "D": "Culinária instantânea.",
+                "E": "Mise in place."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Qual é a prática correta para garantir a \nhigienização adequada de frutas e legumes antes \ndo consumo?",
+            "alternativas": {
+                "A": "A lavagem de frutas e legumes deve ser \napenas em água corrente.",
+                "B": "Mergulhar os legumes e frutas em uma água \ncom sabão neutro, e deixar por 03 (três) minutos.",
+                "C": "Deixar em submersão na água com vinagre.",
+                "D": "Recomenda-se a lavagem em água corrente e \no molho na água clorada.",
+                "E": "Colocar os legumes e/ou frutas em submersão \nna água com sal e vinagre, garantindo a remoção \nde quaisquer parasitas. \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 9 de 11 QUESTÃO 35 \nSeguindo os preceitos de uma alimentação \nsaudável, qual seria a orientação apropriada para \nalcançar uma dieta equilibrada? \n(A) Consumir apenas um tipo de alimento em \ncada refeição é o adequado. \n(B) Comer sempre em grandes quantidades, \nindependentemente das necessidades do \norganismo, devendo saciar a fome. \n(C) Priorizar alimentos com alto índice \nglicêmico, para maior saciedade. \n(D) Ingestão da maior quantidade de \ncarboidratos, tendo em vista seu baixo índice \nglicêmico. \n(E) Incluir variedade, moderação e equilíbrio, \nrespeitando as quantidades de porções \nrecomendadas para cada grupo de alimentos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: No que diz respeito ao armazenamento de \nalimentos rapidamente congelados, qual é a \ncondição essencial em relação à temperatura?",
+            "alternativas": {
+                "A": "Não poderá ser inferior a menos dezoito \ngraus celsius (-18°C).",
+                "B": "Não poderá ser superior a menos dez graus \ncelsius (-10°C).",
+                "C": "Não poderá ser superior a dezoito graus \ncelsius (-18°C).",
+                "D": "Não poderá ser superior a menos dez graus \ncelsius (-15°C).",
+                "E": "Não poderá ser inferior a menos dez graus \ncelsius (-10°C). \n \n \n \n \n \n \n \n \n QUESTÃO 37 \nNuma tarde, Laura lia atentamente as instruções \nde uma receita de Estrogonofe que planejava \nexecutar. Ao analisar os ingredientes, algumas \ndúvidas surgiram em sua cabeça. Com o intuito \nde ajudar Laura, assinale a alternativa que \nrepresenta corretamente qual é o ingrediente \nprincipal utilizado na receita clássica que ela não \npoderá esquecer para encorpar o Strogonoff, \ndando-lhe aquela textura irresistível em seu \nmolho: \n(A) Creme de Leite. \n(B) Leite de amêndoas. \n(C) Pasta de alho. \n(D) Creme de milho. \n(E) Purê de batatas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: Ao priorizar a segurança no ambiente de \ntrabalho, especialmente em cozinhas industriais, \nquais são as ações apropriadas para minimizar \nriscos?",
+            "alternativas": {
+                "A": "Manter o piso sempre limpo e seco, buscando \nassim de evitar quedas e acidentes.",
+                "B": "Usar calçados confortáveis, podendo ser eles \nabertos ou fechados,",
+                "C": "Dispensar o uso de EPI’S em tarefas já \nrotineiras na cozinha.",
+                "D": "Utilizar luvas térmicas em casos de extrema \nnecessidade.",
+                "E": "Fazer uso de caixas e escadas, para alcançar \nobjetos que estiverem em altura elevada. \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 10 de 11 QUESTÃO 39 \nLuciana, uma cozinheira recém-formada, está preparando uma apresentação para seus colegas de \nprofissão sobre os diferentes tipos de cortes clássicos na cozinha. Ela explica que os dois cortes \napresentados nas imagens abaixo, são conhecidos respectivamente como: \n \n \n \n(A) Brunoise e chiffonade. \n(B) Julienne e Brunoise. \n(C) Bastonetes e Julienne. \n(D) Chiffonade e Brunoise. \n(E) Paisane e Brunoise."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29: Ao receber alimentos na cozinha de um estabelecimento, é essencial seguir padrões rigorosos para \ngarantir a qualidade e segurança dos produtos. Assinale a alternativa INCORRETA  sobre as práticas \na serem verificadas no recebimento de alimentos:",
+            "alternativas": {
+                "A": "Os alimentos enlatados não devem estar com as embalagens amassadas, abauladas, estufadas, com \nvazamento ou enferrujadas.",
+                "B": "As farinhas e amidos devem estar livres de mofo e deverão estar com grumos.",
+                "C": "O leite deve estar em embalagens limpas, íntegras e apropriadas para seu acondicionamento.",
+                "D": "Os grãos devem estar secos, isentos de impurezas.",
+                "E": "Os ovos frescos devem apresentar casca sem rachaduras, áspera, clara, fosca e esp essa em \nembalagens apropriadas. \n \n \n \n \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nCOZINHEIRO                                                                                                                                                Página 11 de 11"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: O último parágrafo do texto permite concluir \nque:",
+            "alternativas": {
+                "A": "O antigo zelador foi sequestrado pelo grupo \nde pessoas com quem conversou.",
+                "B": "As habilidades de ler e de escrever \nprejudicaram a memória do antigo zelador.",
+                "C": "Não existia uma saída no labirinto em que o \nzelador trabalhava.",
+                "D": "Explicar a forma de sair do labirinto fez com \nque o antigo zelador se confundisse e se perdesse.",
+                "E": "O grupo de visitantes existia apenas na \nimaginação do antigo zelador.  \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOZINHEIRO                                                                                                                                                 Página 3 de 10 QUESTÃO 02 \nO narrador afirma que o zelador “Era um homem \nmetódico”.  Isso porque ele:  \n(A) Seguia um procedimento próprio no \ntrabalho.   \n(B) Era desorganizado no trabalho.   \n(C) Trabalhava de uma forma confusa e \npreguiçosa.  \n(D) Realizava todas as atividades do trabalho de \numa única vez.  \n(E) Dispensava certas atividades por preguiça."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Segundo o texto, o zelador se apavorou porque:",
+            "alternativas": {
+                "A": "A administração do labirinto era muito \nrígida.",
+                "B": "Ele se deparou com pessoas estranhas no \nlabirinto.",
+                "C": "Ele percebeu a complexidade do labirinto ao \ntentar explicar como encontrar a saída às pessoas \nque estavam perdidas.",
+                "D": "As pessoas o ameaçaram caso não \nconseguissem sair do labirinto.",
+                "E": "O labirinto não tinha uma saída de verdade."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: O pronome “lhes”,  que ocorre em “Alguém \nprecisava lhes mostrar a saída!” , se refere:",
+            "alternativas": {
+                "A": "ao novo zelador.",
+                "B": "aos administradores do labirinto.",
+                "C": "ao próprio zelador.",
+                "D": "ao grupo de pessoas apavoradas.",
+                "E": "aos outros trabalhadores do labirinto."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: A palavra “bem”,  que ocorre em “O zelador não \nentendeu bem.”, tem a função gramatical de:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "adjetivo.",
+                "C": "advérbio.",
+                "D": "pronome.",
+                "E": "conjunção.  QUESTÃO 06 \nNo excerto “Podiam adivinhar o que tinha \nacontecido.” , a terminação do verbo “poder”  \nindica apenas:  \n(A) gênero, número e tempo.  \n(B) modo, tempo, número e pessoa.  \n(C) gênero, número e pessoa.  \n(D) tempo e pessoa.  \n(E) pessoa e número."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: A palavra “aquilo”,  que ocorre em “Aquilo  era \nterrível.” , classifica -se gramaticalmente como:",
+            "alternativas": {
+                "A": "pronome possessivo.",
+                "B": "pronome indefinido.",
+                "C": "pronome pessoal.",
+                "D": "pronome relativo.",
+                "E": "pronome demonstrativo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: No excerto “ Queriam saber como sair dali.” , o \nadvérbio “ali” ocorre contraído com a preposição \n“de”. Esse advérbio, no contexto indicado, \nexprime uma circunstância de:",
+            "alternativas": {
+                "A": "tempo.",
+                "B": "modo.",
+                "C": "restrição.",
+                "D": "lugar.",
+                "E": "negação."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Nos excertos a seguir, retirados do texto, ocorre \num verbo no particípio apenas em:",
+            "alternativas": {
+                "A": "Onde ficava a saída?",
+                "B": "E em hipótese alguma devia falar com \nestranhos.",
+                "C": "Não tinham encontrado a saída.",
+                "D": "Tem também a história do zelador do \nlabirinto.",
+                "E": "Ponha isso num papel.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOZINHEIRO                                                                                                                                                 Página 4 de 10 QUESTÃO 10  \nA expressão “o novo zelador”,  que constitui o \nsujeito da sentença “O novo zelador não devia \nter muita imaginação.” , corresponde à pessoa \ngramatical:  \n(A) 1ª pessoa do singular.  \n(B) 2ª pessoa do singular.  \n(C) 3ª pessoa do singular.  \n(D) 1ª pessoa do plural.   \n(E) 3ª pessoa do plural."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: O emprego do acento indicativo de crase está \nincorreto  em:",
+            "alternativas": {
+                "A": "A professora deu à ele um livro de ficção.",
+                "B": "As meninas não deram uma chance à colega.",
+                "C": "Às quartas -feiras realizamos reuniões de \nequipe.",
+                "D": "Faziam trapalhadas às escondidas.",
+                "E": "É grata à psicóloga pelo apoio."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Assinale a alternativa em que se verifica o \npronome átono colocado em mesóclise.",
+            "alternativas": {
+                "A": "Disseram -me que os gatos são mais \nindependentes que os cachorros.",
+                "B": "Nós o encontramos no restaurante.",
+                "C": "Eles não querem te contar o motivo da briga.",
+                "D": "Cobrar -lhe-iam se não tivesse aparecido a \ntempo.",
+                "E": "Os vasos quebraram -se durante a madrugada."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Nas sentenças a seguir, a palavra em destaque é \num adjetivo apenas em:",
+            "alternativas": {
+                "A": "Corra depressa  para não se atrasar.",
+                "B": "As aulas de história são muito  interessantes.",
+                "C": "A bailarina executou os passos de forma \nmaravilhosa.",
+                "D": "O impacto  das mudanças climáticas já \ncomeçou a aparecer.",
+                "E": "Tenho muitas resoluções de Ano-Novo . QUESTÃO 14  \nA sentença a seguir que está incorreta em relação \nao uso do(s) verbo(s) é:  \n(A) A mãe e a filha foram assistir ao espetáculo.  \n(B) As férias de verão foram muito longas nesse \nano. \n(C) Não haviam palavras o suficiente para \ndescrever tamanha alegria.  \n(D) Ocorreram muitos imprevistos na semana \npassada.  \n(E) João e Pedro não participaram do evento da \nescola."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Assinale a alternativa em que a regência do verbo \né transitiva indireta.",
+            "alternativas": {
+                "A": "Os garotos comeram todos os biscoitos.",
+                "B": "Todos têm o mesmo valor.",
+                "C": "A lua está mais bonita hoje.",
+                "D": "A professora pediu silêncio aos alunos.",
+                "E": "Os alunos votaram contra a greve.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Considere a sequência: D, 4, E, 8, F, 12, (...). \nQual é o 17º termo dessa sequência?",
+            "alternativas": {
+                "A": "36",
+                "B": "32",
+                "C": "L",
+                "D": "J",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Assinale a alternativa que apresenta o \nOctogésimo quinto número ímpar antecessor de \n201:",
+            "alternativas": {
+                "A": "117",
+                "B": "119",
+                "C": "29",
+                "D": "33",
+                "E": "31 \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOZINHEIRO                                                                                                                                                 Página 5 de 10 QUESTÃO 18 \nAssinale a alternativa que apresenta o \nSexagésimo oitavo número ímpar antecessor de \n407: \n(A) 339 \n(B) 337 \n(C) 271 \n(D) 273 \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Um técnico de informática leva \naproximadamente 20 minutos para reparar um \ncomputador em sua loja. Ele precisa consertar 8 \ncomputadores idênticos. Supondo que ele leve o \nmesmo tempo de 20 minutos para consertar cada \num, quantas horas o técnico levará para c onsertar \ntodos os 8 computadores?",
+            "alternativas": {
+                "A": "2 horas e 40 minutos",
+                "B": "3 horas e 06 minutos",
+                "C": "2 horas e 56 minutos",
+                "D": "3 horas e 16 minutos",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: 0 \nMaria está planejando comprar material para \npintar a casa. Ela precisa de 15 latas de tinta para \ncobrir todas as paredes. Cada lata de tinta custa \nR$ 32,90. Quanto Maria gastará na compra das \nlatas de tinta?",
+            "alternativas": {
+                "A": "R$ 493,50",
+                "B": "R$ 427,50",
+                "C": "R$ 503,50",
+                "D": "R$ 548,50",
+                "E": "Nenhuma das alternativas  \n \n \n \n QUESTÃO 2 1 \nUm supermercado está oferecendo descontos em \nalimentos para clientes que possuem um cartão \nde fidelidade. Se 25% dos clientes do \nsupermercado possuem esse cartão, e o \nsupermercado recebe em média 300 clientes por \ndia, quantos clientes por dia não têm o car tão de \nfidelidade e pagarão o preço regular pelos \nalimentos?  \n(A) 235 clientes  \n(B) 250 clientes  \n(C) 75 clientes  \n(D) 225 clientes  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: 2 \nUm pet shop tem 200 animais, entre cachorros, \ngatos e pássaros. Sabe -se que 50% dos animais \nsão cachorros, 30% são gatos e os 20% restantes \nsão pássaros. Se 15% dos cachorros, 10% dos \ngatos e 5% dos pássaros são filhotes, quantos \nanimais adultos há no pet shop?",
+            "alternativas": {
+                "A": "38",
+                "B": "177",
+                "C": "123",
+                "D": "182",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: 3 \nUm pacote de macarrão tem 800 gramas. \nQuantos quilogramas de macarrão há nesse \npacote?",
+            "alternativas": {
+                "A": "0,08 quilogramas",
+                "B": "0,8 quilogramas",
+                "C": "8 quilogramas",
+                "D": "80 quilogramas",
+                "E": "Nenhuma das alternativas  \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOZINHEIRO                                                                                                                                                 Página 6 de 10 QUESTÃO 2 4 \nMaria tinha um cofre com algumas notas e \nmoedas. Ao abrir o cofre, ela encontrou 15 notas \nde R$ 10,00 e 25 notas de R$ 20,00. Além disso, \nhavia também 50 moedas de R$ 0,50 e 75 \nmoedas de R$ 1,00. Qual é o valor total que \nMaria tinha no cofrinho?  \n \n(A) R$ 400,00  \n(B) R$ 500,00  \n(C) R$ 600,00  \n(D) R$ 700,00  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Uma loja de brinquedos possui um total de 120 \nbrinquedos em estoque. Se 30% desses \nbrinquedos são bonecas, quantos brinquedos não \nsão bonecas?",
+            "alternativas": {
+                "A": "24 brinquedos",
+                "B": "36 brinquedos",
+                "C": "48 brinquedos",
+                "D": "72 brinquedos",
+                "E": "84 brinquedos"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Em uma loja de roupas, uma pessoa compra duas \ncamisetas e uma calça jeans, gastando no total R$ \n350,00. Se o preço de uma camiseta é \ndesconhecido e o preço de uma calça jeans é de \nR$ 100,00, qual é o preço de uma camiseta?",
+            "alternativas": {
+                "A": "R$ 250,00",
+                "B": "R$ 75,00",
+                "C": "R$ 175,00",
+                "D": "R$ 125,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Uma papelaria possui 3 prateleiras, cada uma \ncontendo 50 cadernos de desenho e 40 cadernos \nde música. Se cada caderno tem, em média, 50 \npáginas, quantas páginas de música há no total?",
+            "alternativas": {
+                "A": "2.000 páginas",
+                "B": "6.000 páginas",
+                "C": "13.500 páginas",
+                "D": "4.500 páginas",
+                "E": "Nenhuma das alternativas  \n QUESTÃO 28 \nPedro tinha um cofre com algumas notas e \nmoedas. Ao abrir o cofre, ele encontrou 20 notas \nde R$ 5,00 e 30 notas de R$ 10,00. Além disso, \nhavia também 40 moedas de R$ 0,25 e 50 \nmoedas de R$ 0,50. Qual é o valor total que \nPedro tinha no cofrinho?  \n \n(A) R$ 420,00  \n(B) R$ 445,00  \n(C) R$ 455,25  \n(D) R$ 435,00  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Um pintor recebe um salário de R$ 3.500,00 por \nmês. Se ele obtiver um aumento salarial de 8% \nao ano, qual será o salário aproximado desse \npintor após 2 anos?",
+            "alternativas": {
+                "A": "R$ 4.060,00",
+                "B": "R$ 4.080,40",
+                "C": "R$ 4.082,40",
+                "D": "R$ 4. 600,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: 0 \nUma embalagem de café tem 2,5 quilogramas. \nQuantos gramas de café há nessa embalagem?",
+            "alternativas": {
+                "A": "25 gramas",
+                "B": "250 gramas",
+                "C": "2.500 gramas",
+                "D": "25.000 gramas",
+                "E": "Nenhuma das alternativas  \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOZINHEIRO                                                                                                                                                 Página 7 de 10 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: A Pirâmide alimentar ajuda a manter o equilíbrio \ne uma vida saudável, pois ela ajuda na escolha \ndos alimentos que devem ser consumidos para se \nobter os nutrientes necessários e, ao mesmo \ntempo, a quantidade ideal de calorias para se \nmanter um peso adequado. Neste sentido, análise \na imagem abai xo e assinale a alternativa que \napresenta corretamente ao grupo do número 1, \nconforme apresenta:",
+            "alternativas": {
+                "A": "Extra -Energético.",
+                "B": "Grupo energético.",
+                "C": "Grupo regulador.",
+                "D": "Extra regulador.",
+                "E": "Farináceos.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 32  \nEntre os diversos tipos de cortes existentes na \nculinária, para preparos no forno ou na grelha, \nsem dúvidas esta pode ser uma boa opção, pois, \nalém de ser fácil, também facilita o cozimento \nuniforme dos ingredientes. Basta cortar os \nlegumes ou vegetais em rodelas finas, com \nespessura máxima de 3 mm, o corte apresentado \nna definição acima e conforme apresentado na \nimagem é comumente conhecido como:  \n \n(A) Brunoise.  \n(B) Julienne.  \n(C) Chifonade.  \n(D) Mirepoix.  \n(E) Rondelle."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Dentre os diversos tipos de EPI – Equipamento \nde Proteção Individual existentes para utilização \nem uma cozinha o _________ de segurança é um \nequipamento de proteção individual utilizado, \nprincipalmente, na gastronomia, eles protegem \ncontra queimaduras leve s, combinados com as \nluvas de segurança, eles oferecem proteção \nadicional para as mãos e os braços do \ncolaborador contra riscos iminentes.  \nAssinale a alternativa que apresenta corretamente \nao termo responsável para completar a lacuna:",
+            "alternativas": {
+                "A": "Protetor auricular.",
+                "B": "Protetor corporal.",
+                "C": "Mangote.",
+                "D": "Avental térmico.",
+                "E": "Protetor facial.  \nPrefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOZINHEIRO                                                                                                                                                 Página 8 de 10 QUESTÃO 34  \nAnalise as alternativas e assinale a alternativa \nque apresenta corretamente qual das seguintes \nmedidas é recomendada para garantir a \nhigienização adequada de frutas, verduras e \nlegumes antes do consumo?  \n(A) Lavar os alimentos apenas em água corrente.  \n(B) Retirar apenas as partes danificadas dos \nalimentos e descartá -las, para garantir que não \nhaverá contaminação.  \n(C) Deixar os alimentos de molho em água \nmorna por 40 minutos.  \n(D) Utilizar água clorada diluída para fazer uma \nsolução de limpeza.  \n(E) Secar os alimentos com um pano limpo após \na lavagem."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: O termo de origem francesa que significa \n\"colocar em ordem\" ou \"fazer a disposição\" é o \nato de organizar todos os ingredientes que você \nprecisa para preparar uma receita antes de iniciar \no processo. Ou seja, antes de começar a cozinhar, \nvocê deve separar t udo o que vai ser usado, nas \nquantidades corretas, além de picar, cortar, \ndescascar e fatiar o que for necessário antes do \ninício do processo de preparação. Qual nome \ndesse processo?",
+            "alternativas": {
+                "A": "Organização.",
+                "B": "Mise in place.",
+                "C": "Pré cocção.",
+                "D": "Preparo alimentar.",
+                "E": "Boulangerie."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Como é conhecido o molho tradicional feito com \nleite integral e roux branco, um tipo de \nespessante elaborado com farinha de trigo e \nmanteiga, no qual as receitas mais comuns deste \nmolho levam temperos como cebola, cravo, \ncebolinha, louro, pimenta branca e noz-moscada, \né geralmente utilizado com massas, legumes, \npeixes, ovos e aves?",
+            "alternativas": {
+                "A": "Pomodoro.",
+                "B": "Bechamel.",
+                "C": "Bolonhesa.",
+                "D": "Quatro queijos.",
+                "E": "Carbonara.  \n \n QUESTÃO 37  \nPara evitar os riscos de contaminações durante a \nmanipulação de alimentos, algumas condutas \ndevem ser adotadas. Neste sentido, assinale a \nalternativa que apresenta a sequência correta \nindicando como (V) Verdadeira ou (F) Falsa:  \n( )  Durante a manipulação é indicado trocar o \nuniforme diariamente, pois ele deve estar sempre \nlimpo e conservado;  \n( ) Use cabelos presos e cobertos com redes ou \ntoucas, apenas se for muito longo;  \n( ) O manipulador deve tomar banho diariamente.  \n(A) F, F, V.  \n(B) V, V, F.  \n(C) F, V, F.  \n(D) V, F, V.  \n(E) Nenhuma das alternativas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Uma preparação utilizada para conferir sabor a \ncarnes, peixes e vegetais, geralmente na qual é \ncolocada a preparação em imersão. É composta \npor óleos e/ou gordura (azeite, manteiga, banha), \nácidos (suco cítricos, vinhos ou vinagre) e \naromatizantes (ervas, especiarias e vegetais), \nqual nome dessa técnica culinária?",
+            "alternativas": {
+                "A": "Temperagem.",
+                "B": "Flambagem.",
+                "C": "Marinada.",
+                "D": "Maçeragem.",
+                "E": "Braseamento."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Analise as opções abaixo e identifique aquela que \napresenta os pilares essenciais para alcançar uma \ndieta saudável:",
+            "alternativas": {
+                "A": "Limitação, pequena quantidade e \ndesequilíbrio.",
+                "B": "Variedade, grande quantidade e equilíbrio.",
+                "C": "Desmedida, moderação e desequilíbrio.",
+                "D": "Variedade, moderação e equilíbrio.",
+                "E": "Restrição, moderação e monotonia.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOZINHEIRO                                                                                                                                                 Página 9 de 10 QUESTÃO 40  \nQual das seguintes medidas não é recomendada \npara prevenir ferimentos por cortes em uma \ncozinha?  \n(A) Manter as facas e utensílios de corte afiados \nem local seguro, com cabos antiderrapantes.  \n(B) Treinar todos os funcionários no uso \nadequado de máquinas e equipamentos na \ncozinha industrial.  \n(C) Desconectar os equipamentos da tomada \ndurante a limpeza e manutenção.  \n(D) Utilizar equipamento de proteção pessoal \nadequado para cozinhas profissionais.  \n(E) Deixar facas e utensílios de corte expostos \nsem supervisão.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOZINHEIRO                                                                                                                                                 Página 10 de 10"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, a perda de peso \nrepresenta que tipo de variável para a sociedade \ncontemporânea?",
+            "alternativas": {
+                "A": "preocupação",
+                "B": "desejo",
+                "C": "ilusão",
+                "D": "ufania",
+                "E": "presunção \n \n \n QUESTÃO 02 \nAssinale o termo que substitui a expressão \ngrifada sem alterar o sentido que aparece no texto \nem análise. \nO problema da obesidade turgesceu-se na \nsociedade ocidental, e de forma congênere, na \nbrasileira [...]. \n(A) disseminou-se \n(B) avolumou-se \n(C) impregnou-se \n(D) internalizou-se \n(E) originou-se"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Ao analisar o arquétipo feminino constituído \npelo padrão de mulheres magras, esguias e \nsensuais, observa-se que esse imaginário se \nencontra de que maneira na sociedade?",
+            "alternativas": {
+                "A": "de forma generalizada",
+                "B": "de forma privada",
+                "C": "de forma subentendida",
+                "D": "de forma explícita",
+                "E": "de forma irregular"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Dentro dos ponderamentos de Joana Novaes, a \nmá aparência e a gordura apresentam uma \nrelação com o corpo feminino. Assim, como \nessas variáveis são consideradas?",
+            "alternativas": {
+                "A": "Piores tipos de desleixos com o corpo.",
+                "B": "Piores tipos de frustrações com o corpo.",
+                "C": "Piores tipos de relacionamento com o corpo.",
+                "D": "Piores tipos de reconhecimento da \nautoimagem.",
+                "E": "Piores tipos de avaliação do outro em relação \nà mulher. \n \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nCOZINHEIRO                                                                                                                                               Página 3 de 10 QUESTÃO 05 \nA denotação refere-se ao sentido básico de uma \npalavra e não depende de um contexto. Já a \nconotação vai depender do contexto em que o \ntermo é empregado. Em relação às figuras de \nlinguagem, elas têm relação com a conotação, \npois o sentido que elas expressam vai além do \nsignificado literal. Assim, releia o último período \ndo texto, nele é possível encontrar uma figura de \nlinguagem, destaque-a: \n(A) Aliteração \n(B) Assonância \n(C) Paronomásia \n(D) Hipérbato \n(E) Silepse de pessoa"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Leia o excerto abaixo: \nSão concebidos como uma quebra das regras e \nconvenções estabelecidas pela sociedade em \ndeterminado contexto, traduzindo um modo \ninadequado de relacionamento com o corpo, no \nqual estão excluídos exercícios físicos regulares, \nesforço, disciplina, contumácia e autoestima. \nTodas as alternativas abaixo apresentam \nsinônimos do termo grifado, exceto:",
+            "alternativas": {
+                "A": "insistência",
+                "B": "obstinação",
+                "C": "veemência",
+                "D": "pertinácia",
+                "E": "apostasia \n \n \n \n \n \n \n \n \n QUESTÃO 07 \nLeia as alternativas subsequentes e destaque a \nque não traz nenhum erro de concordância \nverbal. \n(A) Depois das últimas chuvas no Rio Grande do \nSul, podem haver centenas de novos \ndesabrigados. \n(B) Nem uma, nem outra promessa resolverão a \nfrustração que a mentira causou. \n(C) Fui eu quem resolveu o problema de \nmatemática proposto pelo professor. \n(D) Tratam-se de dúvidas frequentes sobre a \ngramática. \n(E) Hoje são dia 10 de maio de 2000."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Leia atentamente cada enunciado a seguir. \nMarque a alternativa que traz um erro de \nregência.",
+            "alternativas": {
+                "A": "O recém-formado aspira à estabilidade que \num bom cargo propicia.",
+                "B": "Exercício físico é preferível à dieta.",
+                "C": "Referiu as informações ao supervisor \nimediatamente.",
+                "D": "O professor apresentou os aspectos em que o \naluno pontuou como dúvidas.",
+                "E": "Pediu o aluno que apresentasse o trabalho \nconcluído."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Em qual alternativa, as regras de pontuação \nforam devidamente observadas?",
+            "alternativas": {
+                "A": "No último ano comprei uma casa nova e \nreformei meu sítio.",
+                "B": "As regras em quaisquer hipóteses são sempre \num parâmetro de conduta.",
+                "C": "Pelé o rei do futebol foi o maior jogador que \no mundo já teve.",
+                "D": "Os jovens maiores de 18 anos podem tentar \nsua primeira habilitação.",
+                "E": "O casamento creio eu continua sendo um \ncompromisso assumido para toda a vida. \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nCOZINHEIRO                                                                                                                                               Página 4 de 10 QUESTÃO 10 \nObserve as expressões em parênteses e assinale a \nque condiz com o termo grifado. \n(A) Para garantir um bom café, é necessário \ndissecar corretamente, a fim de assegurar o sabor \napós a torrefação. (secar bem, enxugar, tornar \nseco) \n(B) O aluno distratou a diretora com palavras de \nbaixo calão. (insultar, maltratar com palavras) \n(C) A dissensão é uma característica da boa \neducação. (elegância, nobreza) \n(D) A cidade não quis empoçar o candidato \ncorrupto. (dar posse a) \n(E) Foi inserto todos os documentos necessários \npara dar entrada ao processo. (introduzido, \nincluído)."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Em qual alternativa, a colocação pronominal foi \nempregada corretamente?",
+            "alternativas": {
+                "A": "Tudo parece-me assustador, pois o futuro é \nincerto.",
+                "B": "Ninguém ama-te como sua mãe verdadeira.",
+                "C": "Bem se vê que no interior vive-se melhor.",
+                "D": "No hospital, fala-se muito alto.",
+                "E": "Por odiarem-se muito, a separação foi a única \nalternativa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Qual alternativa não apresenta erro em relação ao \nemprego da crase?",
+            "alternativas": {
+                "A": "Esta vitória é dedicada à você.",
+                "B": "Não vou à velório, tudo é muito triste.",
+                "C": "O encontro dos jovens ficou marcado para às \n13 horas.",
+                "D": "À noite, volto a casa somente para dormir.",
+                "E": "Para agilizar seu trabalho, a entrega foi à \ndomicílio. \n \n QUESTÃO 13 \nObserve o quadrinho abaixo, qual a figura de \nlinguagem que aparece nele? \n \n \nFonte: Google imagem, 2024. \n \n(A) Zeugma \n(B) Anáfora \n(C) Pleonasmo \n(D) Catacrese \n(E) Metonímia"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Observe o termo entre parênteses e destaque a \nrelação estabelecida incorretamente com o \nadvérbio em destaque.",
+            "alternativas": {
+                "A": "O referido assunto já foi debatido alhures. \n(lugar)",
+                "B": "Outrora, éramos mais humanos! (tempo)",
+                "C": "A reunião foi muito tumultuada, quiçá \nconsigamos obter o consenso dos mais \nrevoltados. (negação)",
+                "D": "Sucessivamente, eu retomo os sonhos da \nminha infância. (tempo)",
+                "E": "O professor é assaz inconstante. (intensidade) \n \nFundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nCOZINHEIRO                                                                                                                                               Página 5 de 10 QUESTÃO 15 \nDestaque a alternativa em que a relação \nestabelecida entre o enunciado e a condição entre \nparênteses está incorreta. \n(A) Como não tinha roupa, ele resolveu não ir ao \nbaile. (conformativa) \n(B) Caso ela melhore, poderá sair para trabalhar. \n(condicional) \n(C) Mal cheguei, começaram as reclamações \n(temporal) \n(D) Choveu novamente, de modo que as \ninundações recomeçaram. (consecutiva) \n(E) Pegou a chupeta para o bebê conseguir \ndormir. (final) \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Considere a sequência: J, 5, K, 10, L, 15, (...). \nQual é o 8º termo dessa sequência?",
+            "alternativas": {
+                "A": "M",
+                "B": "N",
+                "C": "20",
+                "D": "25",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Um tanque de armazenamento tem capacidade \npara 500 litros de água. Se apenas 25% da \ncapacidade do tanque está ocupada, quantos \nlitros de água há no tanque?",
+            "alternativas": {
+                "A": "125 litros",
+                "B": "175 litros",
+                "C": "250 litros",
+                "D": "350 litros",
+                "E": "Nenhuma das alternativas \n \n \n \n \n \n QUESTÃO 18 \nAssinale a alternativa que apresenta o trigésimo \nquinto número ímpar antecessor de 191: \n(A) 155 \n(B) 157 \n(C) 119 \n(D) 121 \n(E) 153"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Maria está comprando materiais para renovar seu \njardim. Ela precisa de 12 sacos de terra, cada um \ncustando R$ 15,50. Quanto Maria gastará na \ncompra dos sacos de terra?",
+            "alternativas": {
+                "A": "R$ 180,00",
+                "B": "R$ 186,00",
+                "C": "R$ 190,00",
+                "D": "R$ 195,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Um estudante estava estudando matemática e \nresolveu fazer três séries de exercícios. No \nprimeiro dia, ele resolveu 78 problemas. No \nsegundo dia, ele resolveu 27 problemas, e no \nterceiro dia, ele resolveu 95 problemas. Quantos \nproblemas no total o estudante resolveu?",
+            "alternativas": {
+                "A": "190 problemas",
+                "B": "200 problemas",
+                "C": "180 problemas",
+                "D": "175 problemas",
+                "E": "Nenhuma das alternativas \n \n \n \n \n \n \n \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nCOZINHEIRO                                                                                                                                               Página 6 de 10 QUESTÃO 21 \nUma biblioteca adquiriu novos livros e registrou \no seguinte número de exemplares para três \ngêneros diferentes: romance (45 livros), ficção \ncientífica (130 livros) e biografias (76 livros). \nQuantos livros a biblioteca adquiriu ao todo? \n(A) 230 livros \n(B) 240 livros \n(C) 251 livros \n(D) 250 exemplares \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Em uma prateleira de uma loja, inicialmente \nhavia 2436 livros. Se a loja vendeu 30 livros em \num dia e 73 livros no dia seguinte, quantos livros \nrestaram na prateleira?",
+            "alternativas": {
+                "A": "2333 livros",
+                "B": "2334 livros",
+                "C": "2335 livros",
+                "D": "2336 livros",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Em uma festa de aniversário, um bolo pesa 1800 \ngramas. Quantos quilogramas há no bolo se ele \npesa 1800 gramas?",
+            "alternativas": {
+                "A": "1,8 quilogramas",
+                "B": "18 quilogramas",
+                "C": "0,18 quilogramas",
+                "D": "0,0118 quilogramas",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Lucas tinha um cofre com algumas notas e \nmoedas. Ao abri-lo, ele encontrou 20 notas de R$ \n50,00 e 30 notas de R$ 20,00. Além disso, havia \ntambém 40 moedas de R$ 1,00 e 50 moedas de \nR$ 0,50. Qual é o valor total que Lucas tinha no \ncofre?",
+            "alternativas": {
+                "A": "R$ 2.600,00",
+                "B": "R$ 1.665,00",
+                "C": "R$ 1.640,00",
+                "D": "R$ 4.000,00",
+                "E": "Nenhuma das alternativas QUESTÃO 25 \nAssinale a alternativa que apresenta o \nquadragésimo número par sucessor de 40: \n(A) 40 \n(B) 80 \n(C) 120 \n(D) 60 \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Em uma sorveteria, uma pessoa compra quatro \nsorvetes e quatro picolés, gastando no total R$ \n36,00. Se o preço de um sorvete é desconhecido \ne o preço de um picolé é de R$ 4,00, qual é o \npreço de um sorvete? \n \n(A)R$ 5,00 \n(B) R$ 7,00 \n(C) R$ 4,00 \n(D) R$ 10,00 \n(E) Nenhuma das alternativas \n \nQUESTÃO 27 \nEm uma loja de esportes, uma bicicleta está com \ndesconto de 20% sobre o preço original de R$ \n1500,00. Qual é o preço da bicicleta com o \ndesconto aplicado?",
+            "alternativas": {
+                "A": "R$ 1200,00",
+                "B": "R$ 1250,00",
+                "C": "R$ 1300,00",
+                "D": "R$ 1400,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Assinale a alternativa que apresenta o vigésimo \nsexto número ímpar sucessor de 511.",
+            "alternativas": {
+                "A": "537",
+                "B": "535",
+                "C": "563",
+                "D": "565",
+                "E": "Nenhuma das alternativas \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nCOZINHEIRO                                                                                                                                               Página 7 de 10 QUESTÃO 29 \nUm avião comercial possui 12 fileiras de \nassentos, sendo que cada fileira pode acomodar \naté 6 passageiros. Quantos passageiros o avião \npode transportar ao todo? \n \n(A)66 passageiros \n(B) 70 passageiros \n(C) 72 passageiros \n(D) 76 passageiros \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: João está planejando um acampamento e precisa \norganizar suas finanças. Ele percebeu que sua \nmaior despesa será o aluguel de um equipamento \nespecial, que custa R$ 80,00 por dia. Se ele \nalugar o equipamento por 4 dias, começando na \nquarta-feira, em que dia ele encerrará o aluguel?",
+            "alternativas": {
+                "A": "Domingo",
+                "B": "Segunda-feira",
+                "C": "Terça-feira",
+                "D": "Quarta-feira",
+                "E": "Sábado \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Para uma alimentação saudável é correto afirmar, \nexceto:",
+            "alternativas": {
+                "A": "No intervalo das refeições é recomendado \nconsumir frutas in natura.",
+                "B": "Quanto mais colorido e variado estiver o \nprato, melhor será o equilíbrio nutricional.",
+                "C": "A pirâmide alimentar é uma representação \ngráfica que reúne diversas informações a respeito \ndos grupos de alimentos presentes em nossa \nalimentação.",
+                "D": "Não são considerados alimentos \nminimamente processados: os alimentos in \nnatura que foram embalados, fracionados, \nrefrigerados ou congelados.",
+                "E": "É essencial observar a procedência, a \nconservação e a higiene dos alimentos, além de \ndar preferência sempre que possível a alimentos \nin natura. \n QUESTÃO 32 \nAssinale a alternativa que não condiz com \ncuidados de higiene no ambiente de trabalho. \n(A) Lavar sempre as mãos antes de iniciar \nqualquer trabalho na cozinha e ao trocar de \natividade.  \n(B) Utilizar acessórios e adornos que podem ser \nfoco de contaminação. \n(C) Evitar falar, tossir ou espirrar ao manipular \nalimentos.  \n(D) Utilizar roupas limpas e avental específico \npara a tarefa. \n(E) Tomar cuidado especial com as unhas que \npodem acumular sujeira."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: No que tange a higiene e limpeza dos utensílios \ne dos equipamentos, analise os itens a seguir e, \nao final, assinale a alternativa correta. \nI – É indispensável a utilização de utensílios de \nmadeira, pois a sua higienização é mais fácil. \nII – Os utensílios precisam ser lavados com água, \nsabão e esponja, item que deve ser trocado com \nregularidade. \nIII – Os fogões, as pias, as bancadas e o chão \nprecisam ser desinfetados para que os \nmicrorganismos causadores de doenças sejam \neliminados.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Os itens I e II são verdadeiros.",
+                "E": "Os itens II e III são verdadeiros. \n \n \n \n \n \n \n \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nCOZINHEIRO                                                                                                                                               Página 8 de 10 QUESTÃO 34 \nNo que tange a higiene e limpeza da cozinha e do \nrefeitório, analise os itens a seguir e, ao final, \nassinale a alternativa correta. \nI – É indispensável a limpeza do ambiente no \nhorário da preparação dos alimentos. \nII – É recomendado varrer a cozinha e o \nrefeitório. \nIII – O ideal é evitar o uso de panos de chão, pois \neles podem acumular germes. \n(A) Apenas o item I é verdadeiro. \n(B) Apenas o item II é verdadeiro. \n(C) Apenas o item III é verdadeiro. \n(D) Os itens I e II são verdadeiros. \n(E) Os itens II e III são verdadeiros."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: No que tange a utilização de EPI (Equipamento \nde Proteção Individual) para o profissional que \ntrabalha na cozinha é correto afirmar, exceto:",
+            "alternativas": {
+                "A": "A máscara deve ser usada por funcionário \nque prepara alimentos servidos crus e por \nfuncionário resfriado, gripado ou com alguma \ndoença do nariz ou da boca.",
+                "B": "O uso de luvas dispensa adequada \nhigienização das mãos.",
+                "C": "As luvas devem ser trocadas sempre que se \nreiniciar o trabalho.",
+                "D": "A pessoa que está preparando os alimentos \ndeve tirar as luvas ao sair da cozinha, antes de \natender o telefone e de fazer qualquer outra \natividade não relacionada com o preparo do \nalimento.",
+                "E": "As luvas devem ser usadas por funcionário \nque prepara alimentos servidos crus ou quando \nestá em contato próximo com alimentos já \npreparados. \n \n \n \n \n QUESTÃO 36 \nAcerca da higiene dos alimentos é correto \nafirmar, exceto: \n(A) Deve-se proteger alimentos de insetos e \nanimais. \n(B) É prescindível verificar o prazo de validade. \n(C) Os alimentos devem ser conservados em \nlocal apropriado. \n(D) Não se deve misturar alimentos crus com \ncozidos. \n(E) Fazer a comida perto do horário de servi-la."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: No que tange a higiene na manipulação dos \nalimentos, considere “V” para verdadeiro e “F” \npara falso e, ao final, assinale a alternativa \ncorreta. \n(  ) A temperatura perigosa, por ser propensa à \nproliferação de bactérias, é dos 5ºC até os 60ºC. \n(  ) O descongelamento do alimento pode ser feito \nno micro-ondas quando o seu preparo for \nimediato. \n(  ) O dessalgue pode ser feito dentro da geladeira \nou em fervura, facultado a troca de água \nperiodicamente.",
+            "alternativas": {
+                "A": "V – V – F.",
+                "B": "V – F – F.",
+                "C": "F – V – V.",
+                "D": "V – V – V.",
+                "E": "V – F – V. \n \n \n \n \n \n \n \n \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nCOZINHEIRO                                                                                                                                               Página 9 de 10 QUESTÃO 38 \nNo preparo de um alimento e para a otimização \ndo tempo é necessário, exceto: \n(A) Ler a receita com atenção. \n(B) Separar todos os ingredientes nas medidas \nexigidas. \n(C) Verificar se possui todos os utensílios \nnecessários para o preparo. \n(D) Tirar todas as dúvidas antes de começar a \ncozinhar. \n(E) É necessário seguir à risca todas as instruções \nda receita, pontos como o tempo de preparo e as \nquantidades de cada ingrediente devem ser \nmenosprezados."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Na distribuição das refeições é correto afirmar, \nexceto:",
+            "alternativas": {
+                "A": "Nesta etapa os alimentos ficam vulneráveis à \ncontaminação, por isso o tempo de exposição \ndeve ser o menor possível.",
+                "B": "Alimentos prontos que foram servidos não \ndevem ser reaproveitados.",
+                "C": "O alimento deve ser totalmente consumido \nem no máximo 7 horas, se mantida a temperatura \nde 60ºC.",
+                "D": "No intervalo da distribuição é necessário \nmanter os alimentos e utensílios cobertos.",
+                "E": "Alimentos frios potencialmente perigosos \nque favorecem uma rápida multiplicação \nmicrobiana devem ser distribuídos no máximo a \n10ºC por até 4 horas. \n \n \n \n \n \n \n \n \n QUESTÃO 40 \nNo que tange à prevenção de acidente no trabalho \né correto afirmar, exceto: \n(A) A sinalização clara e visível é um dos meios \nmais eficazes para alertar sobre riscos e orientar \nos funcionários sobre as medidas de segurança. \n(B) O cumprimento das normas e regulamentos \nde segurança estabelecidos pelas autoridades \ncompetentes, bem como das diretrizes internas da \nempresa, é um requisito básico para a prevenção \nde acidentes. \n(C) O uso de EPIs (Equipamentos de Proteção \nIndividual) é uma medida excessiva para \nproteger os trabalhadores contra riscos \nespecíficos. \n (D) A investigação detalhada de acidentes de \ntrabalho é essencial para identificar suas causas e \nimplementar medidas corretivas. \n(E) A participação ativa dos funcionários na \nidentificação de riscos, sugestões de melhorias e \nrelato de incidentes ou condições inseguras é \ncrucial. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nCOZINHEIRO                                                                                                                                               Página 10 de 10"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: De acordo com o autor do texto, analise os \nitens a seguir e, ao final, assinale a alternativa \ncorreta:  \nI – Mauriac era contrário ao movimento da \nResistência Francesa.  \nII – As obras de Mauriac foram lidas \nprincipalmente pela burguesia europeia.  \nIII – Mauriac faleceu na segunda metade do \nséculo XX.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e II são verdadeiros.",
+                "E": "Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: De acordo com o autor do texto, analise os \nitens a seguir e, ao final, assinale a alternativa \ncorreta:  \nI – A obra  O nó de víboras é a obra mais bem -\nsucedida de Mauriac.  \nII – Mauriac nunca se interessou por poesia.  \nIII – A obra de Mauriac nunca recebeu críticas.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeir o.",
+                "D": "Apenas os itens I e III são verdadeiros.",
+                "E": "Todos os itens são verdadeiros.  \n \n \n \n \n \n \n Prefeitura  Municipal de Morungaba  - SP – Processo Seletivo  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nCOZINHEIRO                                                                                                                                                    Página 3 de 9 QUESTÃO 03  \nDe acordo com o autor do texto, analise os \nitens a seguir e, ao final, assinale a alternativa \ncorreta:  \nI – Mauriac foi um ferrenho crítico de Charles \nde Gaulle.  \nII – Na Segunda Guerra Mundial, François \nMauriac lutou contra os invasores alemães.  \nIII – Mauriac recebeu o Prêmio Nobel de \nLiteratura pela importância de seus escritos \npolíticos.  \n(A) Apenas o it em I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e III são verdadeiros.  \n(E) Todos os itens são falsos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: De acordo com o autor do texto, analise os \nitens a seguir e, ao final, as sinale a alternativa \ncorreta:  \nI – Para Mauriac, autores cristãos devem \nsempre tratar da perversidade em suas obras, \nsem qualquer tipo de objeção.  \nII – Mauriac converteu -se ao islamismo em \n1928, após uma crise religiosa.  \nIII – Mauriac casou -se com Thérèse  em 1931.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e II são verdadeiros.",
+                "E": "Todos os itens são falsos.  \n \n \n \n \n \n \n QUESTÃO 05  \nDe acordo com o autor do texto, analise os \nitens a seguir e, ao final, assinale a alternativa \ncorreta:  \nI – O livro O beijo ao leproso , escrito por \nMauriac, é uma autobiografia.  \nII – Os primeiros livros de Mauriac são \ncaracterizados pela religiosidade.  \nIII – O grande objetivo de Mauriac sempre foi  \nexpor seus leitores à tentação.  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens II e III são verdadeiros.  \n(E) Nenhum dos itens é verdadeiro."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: De acordo com o autor do texto, julgue os itens \na seguir e, ao final, assinale a alternativa \ncorreta:  \nI – A família de François Mauriac pertencia à \nnobreza da França.  \nII – François Mauriac não nasceu na cidade de \nParis.   \nIII – François Mauriac nasceu na primeira \nmetade do século XIX.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: No início do texto, o autor utiliza o adjetivo \n“abastada” para se referir à família de François \nMauriac. Assinale a alternativa que NÃO \napresenta um sinônimo para tal palavra:",
+            "alternativas": {
+                "A": "endinheirado.",
+                "B": "abonado.",
+                "C": "fluido.",
+                "D": "pecunioso.",
+                "E": "prós pero.  \n Prefeitura  Municipal de Morungaba  - SP – Processo Seletivo  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nCOZINHEIRO                                                                                                                                                    Página 4 de 9 QUESTÃO 08  \nTambém no começo do texto, o autor escreve \nque “(...) Mauriac estudou  literatura (...). \nAssinale a alternativa que apresenta o \ntempo/modo em que o verbo em questão está \nconjugado.  \n(A) pretérito perfeito do indicativo.  \n(B) pretérito impe rfeito do indicativo.  \n(C) pretérito mais -que-perfeito do indicativo.  \n(D) pretérito do futuro do subjuntivo.  \n(E) presente do subjuntivo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: Na frase (...) estudou literatura em sua cidade \nNatal (...), a palavra “em” possui a seguinte \nclassificação gramatical:",
+            "alternativas": {
+                "A": "advérbio.",
+                "B": "preposição.",
+                "C": "artigo.",
+                "D": "verbo.",
+                "E": "numeral."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: Na frase “ Porém , em seu romance mais bem \nsucedido”, co njunção em destaque pode ser \nclassificada como:",
+            "alternativas": {
+                "A": "aditiva.",
+                "B": "adversativa.",
+                "C": "nominativa.",
+                "D": "optativa.",
+                "E": "conclusiva."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: Na parte final do texto, o autor utiliza a palavra \n“eloquentes”. Assinale a alternativa que \napresenta um sinônimo pa ra tal verbete:",
+            "alternativas": {
+                "A": "retóricos.",
+                "B": "concisos.",
+                "C": "sucintos.",
+                "D": "econômicos.",
+                "E": "breves.  QUESTÃO 12  \nNa frase “Também divulgou amplamente (...)”, \no advérbio em destaque pode ser classificado \ncomo de:  \n(A) negação.  \n(B) dúvida.  \n(C) negação.  \n(D) modo.  \n(E) tempo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: Com relação ao correto uso da crase, analise os \nitens a seguir e, ao final, assinale a alternativa \ncorreta:  \nI – Nós vamos à Teresina.  \nII – Elas não vão à Espanha.  \nIII – Elas vão à Goiânia.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e III são verdadeiros.",
+                "E": "Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Com relação aos advérbios, analise os itens a \nseguir e, ao final, assinale a alternativa corre ta:  \nI – talvez / advérbio de negação;  \nII – porventura / advérbio de dúvida.  \nIII – quiçá / advérbio de afirmação.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e III são ver dadeiros.",
+                "E": "Todos os itens são verdadeiros.   \n \n \n Prefeitura  Municipal de Morungaba  - SP – Processo Seletivo  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nCOZINHEIRO                                                                                                                                                    Página 5 de 9 QUESTÃO 15  \nCom relação aos substantivos coletivos, \nanalise os itens a seguir e, ao final, assinale a \nalternativa correta:  \nI – pilha / livros.  \nII – molho / legumes  \nIII – cacho /pregos.  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o  item III é verdadeiro.  \n(D) Apenas os itens I e II são verdadeiros.  \n(E) Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: Assinale a alternativa que NÃO apresenta uma \npreposição:",
+            "alternativas": {
+                "A": "para.",
+                "B": "a.",
+                "C": "ante.",
+                "D": "entretanto.",
+                "E": "contra."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Assinale a alte rnativa que NÃO apresenta uma \nconjunção  adversativa :",
+            "alternativas": {
+                "A": "entre.",
+                "B": "contudo.",
+                "C": "mas.",
+                "D": "todavia.",
+                "E": "porém."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: Assinale a alternativa que NÃO apresenta um \nsinônimo para a palavra “exame”:",
+            "alternativas": {
+                "A": "arguição.",
+                "B": "estudo.",
+                "C": "análise.",
+                "D": "inquirição.",
+                "E": "verborreia.  QUESTÃO 19  \nCom relação à colocação pronominal, analise \nos itens a seguir e, ao final, assinale a \nalterna tiva correta:  \nI – Ela não o deseja mais (próclise).  \nII – Isso me entristece (ênclise).  \nIII – Seu sonho é casar -se (ênclise).  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e III são verdadeiros.  \n(E) Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: Sobre os tipos de substantivos, analise os itens \na seguir e, ao final, assinale a alternativa \ncorreta:  \nI – criança / substantivo próprio.  \nII – alagamento /substantivo derivado.  \nIII – segunda -feira / substantivo composto.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Nenhum dos it ens é verdadeiro.  \nMATEMÁTICA  E RACÍOCI NIO \nLÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: Uma empresa automobilística fabricou 1450 \nautomóveis de luxo no ano de 2022. Para o ano \nseguinte, a mesma empresa pretende aumentar \nesse montante em 30%, o que daria o seguinte \nnúmero de carros pr oduzidos:",
+            "alternativas": {
+                "A": "1760.",
+                "B": "1800.",
+                "C": "1850.",
+                "D": "1885.",
+                "E": "1920.  \n Prefeitura  Municipal de Morungaba  - SP – Processo Seletivo  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nCOZINHEIRO                                                                                                                                                    Página 6 de 9 QUESTÃO  22 \nAssinale a alternativa que apresenta o \nresultado correto para a seguinte operação com \nnúmeros decimais:  \n29.9 + 12.7 + 66.8  \n(A) 109.4  \n(B) 105.3  \n(C) 106.7  \n(D) 107.6  \n(E) 110.5"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: Assinale a alternativa que apresenta o décimo \nprimeiro número ímpar sucessor de 191:",
+            "alternativas": {
+                "A": "211.",
+                "B": "213.",
+                "C": "210.",
+                "D": "209.",
+                "E": "207."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: Assinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação matemática en volvendo \nmultiplicação:  \n19 x 14 x 18",
+            "alternativas": {
+                "A": "4400.",
+                "B": "4488.",
+                "C": "4500.",
+                "D": "4521.",
+                "E": "4788.  \n \n \n \n \n \n QUESTÃO 25 \nUma empresa de materiais esportivos produziu \n110.000 bolas de futebol de salão no ano de \n2022, mas pretende aumentar sua produção em \n40% no ano seguinte. Se essa meta se \nconcretizar, a quantidade de bolas será de:  \n(A) 150.000  \n(B) 152.000  \n(C) 154.000  \n(D) 1 57.000  \n(E) 158.000."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: Assinale a alternativa que apresenta o nono \nnúmero par antecessor de 101:",
+            "alternativas": {
+                "A": "88.",
+                "B": "86.",
+                "C": "84.",
+                "D": "82.",
+                "E": "80."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: Assinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação matemática:  \n14 x 7 – 5",
+            "alternativas": {
+                "A": "75.",
+                "B": "89,",
+                "C": "90.",
+                "D": "93.",
+                "E": "97."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: Assinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação matemática com números decimais:  \n22.2 x 2.2",
+            "alternativas": {
+                "A": "48.84",
+                "B": "50.20",
+                "C": "52.40",
+                "D": "54.10",
+                "E": "55.30  Prefeitura  Municipal de Morungaba  - SP – Processo Seletivo  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nCOZINHEIRO                                                                                                                                                    Página 7 de 9 QUESTÃO 29 \nUma empresa do ramo confeiteiro produziu \n400.000 bolos natalin os em 2021, mas \naumentou em 25% suas vendas em 2022, \nperfazendo o seguinte número de bolos:  \n(A) 450.000  \n(B) 475.000  \n(C) 500.000  \n(D) 520.000  \n(E) 600.000"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: Assinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação matem ática:  \n901 – 109 + 19",
+            "alternativas": {
+                "A": "801",
+                "B": "805.",
+                "C": "807.",
+                "D": "809.",
+                "E": "811."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: Assinale a alternativa que apresenta o décimo \nsexto número par sucessor de 201:",
+            "alternativas": {
+                "A": "230.",
+                "B": "232.",
+                "C": "234.",
+                "D": "236.",
+                "E": "238."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: Um determinado escritor vendeu 840 cópias de \num livro na primeira semana do lançamento, e, \nna segunda semana, aumentou esse número em \n60%, o que totalizou a seguinte quantidade de \nlivros:",
+            "alternativas": {
+                "A": "1200",
+                "B": "1280",
+                "C": "1300",
+                "D": "1330",
+                "E": "1344  \n QUESTÃO 33 \nAssinale a  alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação matemática:  \n16 x 99 + 17  \n(A) 1545  \n(B) 1601  \n(C) 1656  \n(D) 1700  \n(E) 1740"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: Assinale a alternativa que apresenta vigésimo \nterceiro número ímpar sucessor a 311:",
+            "alternativas": {
+                "A": "357",
+                "B": "359",
+                "C": "361",
+                "D": "363",
+                "E": "369."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: Sabendo -se que 10 (dez) caixas de fósforos \niguais possuem, ao todo, 500 (quinhentas) \nunidades, quantas unidades teremos se \nretirarmos 2 (duas) caixas e meia:",
+            "alternativas": {
+                "A": "415.",
+                "B": "400.",
+                "C": "375.",
+                "D": "350.",
+                "E": "325.  \nQUESTÃ O 36 \nAssinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação matemática:  \n33 x 3.3 + 13.2  \n(A) 120.1  \n(B) 122.1  \n(C) 124.6  \n(D) 127.8  \n(E) 130.4  Prefeitura  Municipal de Morungaba  - SP – Processo Seletivo  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nCOZINHEIRO                                                                                                                                                    Página 8 de 9 QUESTÃO 37 \nAssinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação matemática:  \n1001 – 101 + 499  \n(A) 1254  \n(B) 1364  \n(C) 1399  \n(D) 1419  \n(E) 1429"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: Em 2021, 680 mil pessoas comparecerem em \num famoso shopping no centro da cidade. No \nano seguinte, todavia, esse número reduziu \n20%. Assinale a alternat iva que indica o \nnúmero de pessoas que frequentaram o \nshopping em 2022:",
+            "alternativas": {
+                "A": "544.000",
+                "B": "520.000",
+                "C": "515.000",
+                "D": "510.000",
+                "E": "505.000"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 27: Assinale a alternativa que apresenta \ncorretamente o décimo segundo número \nantecessor de 701:",
+            "alternativas": {
+                "A": "689",
+                "B": "677",
+                "C": "680",
+                "D": "687",
+                "E": "669  \n \n \n \n \n QUESTÃO 40 \nUma fábrica de estantes produziu 1.880 peças \nno mês de dezembro, e pretende aumentar as \nvendas em 15% no mês seguinte. Se \nalcançarem tal meta, venderão a seguinte \nquantidade de peças:  \n(A) 2050  \n(B) 2080  \n(C) 2100  \n(D) 2120  \n(E) 2162  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de Morungaba  - SP – Processo Seletivo  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nCOZINHEIRO                                                                                                                                                    Página 9 de 9"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: Quando o Lobo declara: “Basta dizer que, de \nlonge, o vi matar, com dois espirros, nada \nmenos do que um jacaré dos grandes.” (7º \nparágrafo), quanto ao termo destacado, na \nverdade, significa que:",
+            "alternativas": {
+                "A": "O bicho-homem tinha poderes mágicos \npara exterminar o inimigo com espirro.",
+                "B": "O bicho-homem matou o outro animal com \nos disparos de sua arma de fogo.",
+                "C": "O bicho-homem estava doente e transmitiu \num vírus letal para os outros animais que não \ntinham defesa imunológica para a doença.",
+                "D": "O bicho-homem fez um barulho tão forte \ncom o nariz que assustou os outros animais a \nponto de matá-los de susto.",
+                "E": "O bicho-homem matou o outro animal por \npura maldade, já que não houve nenhuma \nameaça da parte do jacaré para essa reação do \nhomem, demonstrando que a raça humana \ncomo um todo é cruel para com os animais."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: Sobre o texto, assinale a opção correta:",
+            "alternativas": {
+                "A": "O Lobo planejou minuciosamente toda a \nação para poder matar a Onça de forma fria e \ncalculista.",
+                "B": "A Onça morreu pela sua soberba de não \naceitar um animal que fosse superior a ela, no \ncaso o Lobo, como fica claro no início do texto.",
+                "C": "O Lobo acabou matando a Onça para poder \nsobreviver à ameaça dela, ou seja, agiu em \nlegítima defesa.",
+                "D": "A Onça foi morta sem que houvesse \nintenção do Lobo, já que nenhum dos dois \ntinha previsto um enforcamento, como fica \nclaro no final do texto quando ele pensa que a \nela está risonha.",
+                "E": "A Onça morreu pela ação do Lobo, mas \nteria morrido com toda certeza pela ação do \nbicho-homem, pois ele estava com uma arma \nde fogo.QUESTÃO 03\nAssinale a alternativa em que há uma \npassagem do texto com valor autoritário:\n(A) “— Bem... Você não deixa de ter alguma \nrazão, retrucou a Onça, mais sossegada. Mas \nquero saber o nome desse bicho. Como se \nchama?” (6º parágrafo).\n(B) “— É como lhe conto. E o que mais me \ndeixa admirado é o bicho-homem ser tão \nbaixinho que parece ser fraco; (...)” (9º \nparágrafo).\n(C) “— Pois queira ou não queira, vai me \nmostrar o bicho, ou então não sairá daqui com \nvida.” (12º parágrafo).\n(D) “— Está certo, disse o Lobo amedrontado. \nIremos.” (13º parágrafo).\n(E) “— Fugir! Veja lá o que diz! Você já viu, \nseu “cagão”, alguma vez onça fugir?” (14º \nparágrafo)."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: Um ditado popular que se adequa ao texto está, \ncorretamente, apontado na opção:",
+            "alternativas": {
+                "A": "“A curiosidade matou o gato.”.",
+                "B": "“Mais vale um pássaro na mão do que dois \nvoando.”.",
+                "C": "“Casa de ferreiro, espeto de pau.”.",
+                "D": "“Água mole em pedra dura tanto bate até \nque fura.”.",
+                "E": "“A corda sempre arrebenta do lado mais \nfraco.”.Guarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nCOZINHEIRO                                                                                                                                              Página 4 de 11QUESTÃO 05\nO fato de a Onça ter morrido fica claro, \ninicialmente, na seguinte passagem do texto:\n(A) “A comadre será apenas arrastada por \nmim.” (15º parágrafo).\n(B) “A Onça com o cipó atado no pescoço, e o \nLobo muito respeitoso e tímido, a puxá-la.” \n(17º parágrafo).\n(C) “(...) o “bicho-homem”, surpreendido, ao \navistá-los, tirou da cinta a garrucha e lascou \nfogo, (...)” (18º parágrafo).\n(D) “O Lobo, então, mais que depressa, \ndisparou numa corrida desabalada, (...)” (19º \nparágrafo).\n(E) “Então parou, e contemplou a companheira \nestendida no chão, com os dentes \narreganhados, sem o mais leve movimento.” \n(20º parágrafo)."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: Os travessões usados no texto, como na \npassagem “— Oh! Compadre, não me diga!” \n(8º parágrafo), justificam-se, pois:",
+            "alternativas": {
+                "A": "Introduzem a fala de personagem.",
+                "B": "Iniciam citação.",
+                "C": "Apresentam explicação.",
+                "D": "Introduzem ideias conceituais.",
+                "E": "Indicam ênfase no texto."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: A conjunção destaca em “— Esse bicho, \ncomadre, chama-se homem, conforme me \ndisse o papagaio.” (7º parágrafo) imprime à \nrelação entre as orações em que se encontra um \nsentido de:",
+            "alternativas": {
+                "A": "Condição.",
+                "B": "Causa.",
+                "C": "Consequência.",
+                "D": "Tempo.",
+                "E": "Conformidade.QUESTÃO 08\nO pronome destacado no fragmento “(...) \nquando lhe apareceu o compadre Lobo, que \nlogo foi lhe dizendo: (...)” (1º parágrafo) \nclassifica-se como:\n(A) Interrogativo.\n(B) Relativo.\n(C) Possessivo.\n(D) Pessoal reto.\n(E) Demonstrativo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: Na estrutura “Quem é esse bicho mais valente \ne poderoso que eu?” (3º parágrafo), os \nadjetivos presentes nela encontram-se no grau:",
+            "alternativas": {
+                "A": "Superlativo absoluto analítico.",
+                "B": "Comparativo de igualdade.",
+                "C": "Superlativo relativo de inferioridade.",
+                "D": "Comparativo de superioridade.",
+                "E": "Superlativo relativo de superioridade."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: O substantivo “Onça”, largamente usado no \ntexto, deve ser classificado como:",
+            "alternativas": {
+                "A": "Epiceno.",
+                "B": "Sobrecomum.",
+                "C": "Comum de dois gêneros.",
+                "D": "Abstrato.",
+                "E": "Composto."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: Quanto à colocação pronominal, assinale a \nalternativa correta:",
+            "alternativas": {
+                "A": "Ela não dirigiu-me a palavra na reunião.",
+                "B": "Me espere chegar, antes de começar a \napresentação.",
+                "C": "Todos me advertiram do perigo \nanteriormente.",
+                "D": "Alguns não afastaram-se da cena do crime.",
+                "E": "Ela tinha perguntado-me sobre o tema da \nredação. Guarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nCOZINHEIRO                                                                                                                                              Página 5 de 11QUESTÃO 12\nA concordância nominal está de acordo com as \nnormas gramaticais na opção:\n(A) As fotografias estão anexo ao e-mail.\n(B) Havia bastante pessoas na sala.\n(C) Mesmos os diretores faltaram à reunião.\n(D) Os alunos estavam a só na sala.\n(E) É necessária muita paciência para seguir \nem frente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: O acento grave indicativo de crase foi \nempregado, corretamente, em:",
+            "alternativas": {
+                "A": "Fomos à Brasília nas férias passadas.",
+                "B": "Ficamos à distância de 5 km do centro da \ncidade.",
+                "C": "Ela se referiu à todos na sala.",
+                "D": "Não se dirija à qualquer lugar a que te \nmandarem.",
+                "E": "Ela ficou à chorar sozinha na sala."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Tendo em vista os aspectos de concordância \nverbal, assinale a alternativa correta:",
+            "alternativas": {
+                "A": "Houveram muitos problemas apontados na \nreunião.",
+                "B": "Haverão pessoas premiadas em muitos \nsegmentos no festival de arte.",
+                "C": "Os alunos havia estudado muito para o \nconcurso.",
+                "D": "Deve haver menos acidentes no próximo \nferiado.",
+                "E": "Se houvessem mais informações sobre o \ncrime, ele seria desvendado facilmente, mas \nnão há.QUESTÃO 15\nHá uma alternativa correta quanto à regência \nverbal em:\n(A) Ele prefere Química a Matemática.\n(B) Ele prefere muito mais Química a \nMatemática.\n(C) Ele prefere Química do que Matemática.\n(D) Ele prefere mais a Química que a \nMatemática.\n(E) Ele prefere a Química do que a \nMatemática.\nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: Um homem estava vendendo abacaxis, em seu \ncaminhão. Em um determinado momento a \nquantidade de abacaxis que havia era um \nmúltiplo de 7. Das alternativas abaixo, qual \nrepresenta essa quantidade:",
+            "alternativas": {
+                "A": "174.",
+                "B": "168.",
+                "C": "159.",
+                "D": "153.",
+                "E": "146."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Uma garotinha andou de bicicleta, em torno do \nquarteirão de sua casa, dando algumas voltas. \nSabe-se que a distância que ela percorreu foi \nde 2,92 Km. Essa distância, em centímetros, é:",
+            "alternativas": {
+                "A": "29,2 cm.",
+                "B": "292 cm.",
+                "C": "2 920 cm.",
+                "D": "29 200 cm.",
+                "E": "292 000 cm.Guarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nCOZINHEIRO                                                                                                                                              Página 6 de 11QUESTÃO 18\nPara pagar uma cafeteira elétrica de R$ 189,50, \nGabriela entregou ao caixa uma nota de R$ \n200,00. Um possível troco que ela recebeu, é:\n(A) Duas notas de R$ 5,00 e cinco moedas de \nR$ 0,10.\n(B) Uma nota de R$ 10,00, duas notas de R$ \n2,00 e uma moeda de R$ 0,10.\n(C) Uma nota de R$ 20,00, uma moeda de R$ \n1,00, uma moeda de R$ 0,05. \n(D) Cinco notas de R$ 2,00, uma nota de R$ \n5,00 e três moedas de R$ 0,10.\n(E) Três notas de R$ 5,00, duas notas de R$ \n2,00 e quatro moedas de R$ 0,05."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: A quantidade de cadernos que Olívia possui é \num divisor do número 890. Das alternativas, \nqual apresenta esse número:",
+            "alternativas": {
+                "A": "3.",
+                "B": "4.",
+                "C": "5.",
+                "D": "6.",
+                "E": "7."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: A quantidade de cachorros que Geovana \npossui é o sucessor do número 12. Então, essa \nquantidade é:",
+            "alternativas": {
+                "A": "11.",
+                "B": "12.",
+                "C": "13.",
+                "D": "14.",
+                "E": "15.QUESTÃO 21\nO filho de Clara nasceu com peso de 3,275 Kg. \nEsse peso, em gramas, é: \n(A)32,75 g.\n(B) 327,5 g.\n(C) 0,327 g.\n(D) 3 275 g\n(E) 32 750 g."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: O antecessor o número 1 049, é:",
+            "alternativas": {
+                "A": "1 148.",
+                "B": "1 050.",
+                "C": "1 048.",
+                "D": "2 050.",
+                "E": "2 051."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: A soma de 8,945 com 2,816, resulta em:",
+            "alternativas": {
+                "A": "14,002.",
+                "B": "13,592.",
+                "C": "12,684.",
+                "D": "11,761.",
+                "E": "10,781."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: Um ar condicionado, no inverno, estava \ncustando R$ 2 390,00, após chegar o verão, o \nmesmo sofreu um aumento de 25%. Então, seu \nvalor passou a ser de:",
+            "alternativas": {
+                "A": "R$ 3 1 89,55.",
+                "B": "R$ 3 010,60.",
+                "C": "R$ 2 987,50.",
+                "D": "R$ 2 865,30.",
+                "E": "R$ 2 703,05.Guarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nCOZINHEIRO                                                                                                                                              Página 7 de 11QUESTÃO 25\nLara vendeu 20 docinhos de brigadeiro, em um \ndia, 32 docinhos de brigadeiro, no segundo dia, \n41 docinhos de brigadeiro, no terceiro dia. O \ntotal de docinhos que ela vendeu nesses três \ndias, foi:\n(A) 51.\n(B) 63.\n(C) 76.\n(D) 87.\n(E) 93."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: Das alternativas abaixo, qual apresenta um \nconjunto vazio:",
+            "alternativas": {
+                "A": "P={4}.",
+                "B": "Q={5,2,9} .",
+                "C": "R={0,1;0,6} .",
+                "D": "S={0,34; -0,2} .",
+                "E": "T={ }."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: Carlinhos comprou 364 bolas para distribuir \nentre vinte e seis sobrinhos, de forma que cada \num receba a mesma quantidade. Qual, a \nquantidade de bolas que cada sobrinho \nrecebeu:",
+            "alternativas": {
+                "A": "15.",
+                "B": "14.",
+                "C": "13.",
+                "D": "12.",
+                "E": "11.QUESTÃO 28\nA quantidade de brincos que Alice comprou é \num número par. Das alternativas, qual \napresenta essa quantidade: \n(A) 13.\n(B) 15.\n(C) 21.\n(D) 32.\n(E) 45."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: Uma calça masculina custava R$ 90,00, no \nNatal, o dono da loja colocou um desconto de \n20% na mesma. Das alternativas, qual apesenta \no novo valor da calça:",
+            "alternativas": {
+                "A": "R$ 58,00.",
+                "B": "R$ 66,50.",
+                "C": "R$ 68,20.",
+                "D": "R$ 69,40.",
+                "E": "R$ 72,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: Laura tem um número X de netos. Sabendo que \nesse número é ímpar, qual das alternativas \napresenta o valor de X:",
+            "alternativas": {
+                "A": "14.",
+                "B": "17.",
+                "C": "20.",
+                "D": "24.",
+                "E": "28.Guarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nCOZINHEIRO                                                                                                                                              Página 8 de 11CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: Os acidentes acontecem quando menos se \nespera, até mesmo no ambiente de \ntrabalho. Por isso, a conscientização e a \nformação dos trabalhadores são a melhor \nforma de prevenir acidentes. Assinale, dentre \nas alternativas abaixo, aquela que NÃO \ncorresponde a uma medida para prevenir \nacidentes.",
+            "alternativas": {
+                "A": "Utilizar os Equipamentos de Proteção \nIndividual (EPI).",
+                "B": "Manter áreas de circulação desobstruídas.",
+                "C": "Executar atividade para a qual não está \nhabilitado.",
+                "D": "Orientar os novos colaboradores sobre os \nriscos das atividades.",
+                "E": "Não deixar objetos caídos no chão."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: Para lavagem correta das mãos, devem ser \nseguidos os seguintes passos: \n1. Utilize a água corrente para molhar as mãos. \n2. Esfregue a palma e o dorso das mãos com \nsabonete líquido, inclusive as unhas e os \nespaços entre os dedos, por aproximadamente \n15 segundos. \n3. Enxágue bem com água corrente retirando \ntodo o sabonete líquido. \n4. Seque-as com papel toalha ou outro sistema \nde secagem eficiente. \n5. Esfregue as mãos com um pouco de produto \nálcool em gel.\nA soma dos itens corretos é:",
+            "alternativas": {
+                "A": "10",
+                "B": "15",
+                "C": "5",
+                "D": "7",
+                "E": "9QUESTÃO 33\nUm peixe está impróprio para o consumo \nquando:  \n(A) Apresenta odor ruim e forte.\n(B) Seus olhos estão brilhantes.\n(C) Suas guelras (brânquias) estão vermelhas.\n(D) Sua pele está firme.\n(E) Suas escamas estão firmes."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: Cabe ao empregado quanto ao EPI, dentre \noutros: \nI. Responsabilizar-se pela guarda e \nconservação. \nII. Orientar e treinar o trabalhador sobre o uso \nadequado, guarda e conservação. \nIII. Responsabilizar-se pela higienização e \nmanutenção periódica. \nIV. Fornecer ao trabalhador somente o \naprovado pelo órgão nacional competente em \nmatéria de segurança e saúde no trabalho. \nÉ CORRETO o que se afirma em:",
+            "alternativas": {
+                "A": "II",
+                "B": "II e IV",
+                "C": "I e III",
+                "D": "III",
+                "E": "IGuarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nCOZINHEIRO                                                                                                                                              Página 9 de 11QUESTÃO 35\nTodas as alternativas indicam formas corretas \nde preparar os alimentos com higiene, \nEXCETO: \n(A) Para ter certeza do completo cozimento, \nverifique a mudança na cor e textura na parte \ninterna do alimento.\n(B) Para carnes bovinas e de frango tome \ncuidado para que as partes internas não fiquem \ncruas (vermelhas). Os sucos dessas carnes \ndevem ser claros e não rosados.\n(C) As carnes cruas e os vegetais não lavados \napresentam micróbios patogênicos que podem \nser transferidos aos alimentos prontos por meio \ndas mãos dos manipuladores.\n(D) O alimento deve ser bem cozido em \nmédias temperaturas, de forma que todas as \npartes do alimento atinjam no mínimo a \ntemperatura de 30ºC.\n(E) Lave as mãos antes de preparar os \nalimentos e depois de manipular alimentos \ncrus (carnes, frangos, peixes e vegetais não \nlavados)."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: São exemplos de alimentos, tipicamente, \nperecíveis: \nI. Carne. \nII. Farinha. \nIII. Arroz cru. \nIV. Iogurte. \nÉ correto o que se afirma em:",
+            "alternativas": {
+                "A": "III",
+                "B": "I, II, III e IV",
+                "C": "I e IV",
+                "D": "II e III",
+                "E": "III e IVQUESTÃO 37\nOs ingredientes que não forem utilizados, \ntotalmente, devem ser armazenados em \nrecipientes limpos e identificados com: \nI. Nome do produto. \nII. Data da retirada da embalagem original. \nIII. Prazo de validade após a abertura. \nÉ correto o que se afirma em: \n(A) I, II e III\n(B) III\n(C) II\n(D) I e II\n(E) I"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: Alimentos como frutas, legumes e hortaliças \ndevem ser higienizados, tendo em vista que \neles podem ser consumidos crus. A correta \nhigienização elimina os micróbios patogênicos \ne os parasitas. Para higienização de hortaliças, \nfrutas e legumes deve-se: \nI. Selecionar, retirando as folhas, partes e \nunidades deterioradas. \nII. Os legumes, verduras e frutas devem ser \nlavados, por inteiro, em água corrente.  \nIII. as folhas devem ser lavadas uma a uma, dos \ndois lados, em água corrente.  \nIV. As folhas lavadas uma a uma, dos dois \nlados, em água corrente, devem ser colocadas \nem uma solução clorada com 1 litro de água, \nadicionando 10 ml (1 colher de sopa rasa) de \nágua sanitária a 2,5% por 15 minutos. \nA quantidade de itens INCORRETOS é:",
+            "alternativas": {
+                "A": "0",
+                "B": "1",
+                "C": "2",
+                "D": "3",
+                "E": "4Guarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nCOZINHEIRO                                                                                                                                              Página 10 de 11QUESTÃO 39\nOs alimentos orgânicos são livres de:  \n(A) Adubo de origem animal\n(B) Água de chuva\n(C) Agrotóxicos\n(D) Raios de sol\n(E) Adubo de origem vegetal (Compostagem)"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COZINHEIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 27: Uma alimentação equilibrada e saudável tem \npapel fundamental na manutenção e \nrecuperação da saúde. Manter um \ncardápio balanceado é o primeiro passo para \nviver bem. São exemplos de alimentação \nsaudável, EXCETO a opção:",
+            "alternativas": {
+                "A": "Comer mais peixe e frango, do que carnes \nvermelhas.",
+                "B": "Reduzir a gordura saturada e o açúcar",
+                "C": "Comer muitas frutas e vegetais",
+                "D": "Não beber água",
+                "E": "Comer menos salGuarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nCOZINHEIRO                                                                                                                                              Página 11 de 11"
+            },
+            "resposta_correta": "B"
+        }
+    ]
+}

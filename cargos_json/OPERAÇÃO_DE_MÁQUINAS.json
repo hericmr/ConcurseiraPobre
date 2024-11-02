@@ -1,3 +1,410 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b954a3756021a40c2199c84d18b070544fb586a629a86fe85d27baed575c9fdd
-size 27926
+{
+    "OPERAÇÃO DE MÁQUINAS": [
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: De acordo com o autor do texto, julgue os itens \na seguir e, ao final, assinale a alternativa \ncorreta:  \nI – Appolinaire nasceu na segunda metade do \nséculo XIX.  \nII – Appolinaire teve uma filha ilegítima que \nnasceu na Polônia.  \nIII – Appolinaire recusou -se a reconhecer a \nfilha.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: Ainda de acordo com o autor do texto, analise \nos itens a seguir e, ao final, assinale a \nalternativa correta:  \nI – Appolinaire era conhecido como o “Mago \nMerlin”.  \nII – Appolinaire teve trabalhos notáveis.  \nIII – Appolinaire desenvolveu gripe aviária.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e III são verdadeiros.",
+                "E": "Todos os itens são verdadeiros.  \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nOPERAÇÃO DE MÁQUINAS                                                                                                                      Página 3 de 10 QUESTÃO 03 \nAinda de acordo com o autor do texto, analise \nos itens a seguir e, ao final, assinale a \nalternativa correta:  \nI – Appolinaire lutou na Segunda Guerra \nMundial.  \nII – A ferida sofrida por Appolinaire na guerra \nnão está relacionada com sua morte precoce.  \nIII – Appolinaire construía objetos.  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e II são verdadeiros.  \n(E) Todos os itens são falsos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: Ainda de acordo com o autor do texto, analise \nos itens a seguir e, ao final, assinale a \nalternativa correta:  \nI – Appolinaire foi condenado pelo roubo da \nobra Mona Lisa.  \nII – O livro escrito por Appolinaire sobre o \ncubismoo  agradou muito a Picasso.  \nIII – É provável que Appolinaire tenha \ncunhado o termo “surrealista”.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e II são verdadeiros.",
+                "E": "T odos os itens são verdadeiros."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: Na primeira parte do texto, o autor utiliza a \npalavra “vanguarda”. Assinale a alternativa \nque apresenta um antônimo para tal palavra:",
+            "alternativas": {
+                "A": "dianteira.",
+                "B": "avanço.",
+                "C": "retrocesso.",
+                "D": "fronte.",
+                "E": "testeira.  QUES TÃO 06 \nO verbo “cunhar”, utilizado pelo autor na parte \nfinal do texto, apresenta os seguintes \nsignificados, EXCETO:  \n(A) ressaltar.  \n(B) recusar.   \n(C) imaginar.  \n(D) assinalar.  \n(E) inventar."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: A palavra “ambas”, utilizada pelo autor no \ninício do texto, possui a seguinte classificação \ngramatical:",
+            "alternativas": {
+                "A": "preposição.",
+                "B": "conjunção.",
+                "C": "numeral.",
+                "D": "verbo.",
+                "E": "advérbio de negação."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: Assinale a alternativa que apresenta um \nantônimo para a  palavra “subversivo”, \nutilizado pelo autor no texto:",
+            "alternativas": {
+                "A": "perturbador.",
+                "B": "tumultuador.",
+                "C": "agitador.",
+                "D": "pacificador.",
+                "E": "revoltoso."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: Com relação aos substantivos coletivos, \nanalise os itens a seguir e, ao final, assinale a \nalternativa correta:  \nI – amigos/galera.  \nII – médicos/junta.  \nIII – heróis/falange.",
+            "alternativas": {
+                "A": "Ape nas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apena s o item III é verdadeiro.",
+                "D": "Apenas os itens I e II são verdadeiros.",
+                "E": "Todos os itens são verdadeiros.  Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nOPERAÇÃO DE MÁQUINAS                                                                                                                      Página 4 de 10 QUESTÃO 10 \nCom relação ao correto uso da crase, analise os \nitens a seguir e, ao final, assinale a alternativa \ncorreta:  \nI – Fomos à Tailândia.  \nII – Fui à Maceió.  \nIII – Foram à Fortaleza.  \n(A) Apenas o item I é verdadeiro.   \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e II são verdadeiros.  \n(E) Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: Ainda com r elação à crase, analise os itens a \nseguir e, ao final, assinale a alternativa correta:  \nI – Ficamos na festa até às 8 horas.  \nII – A partida está agendada para às 19 horas.  \nIII – Às seis horas inicia minha formatura.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e II são verdadeiros.",
+                "E": "Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: Com relaç ão aos advérbios, analise os itens a \nseguir e, ao final, assinale a alternativa correta:  \nI – jamais/advérbio de intensidade.  \nII – adiante/advérbio de lugar.  \nIII – depressa/advérbio de modo.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verda deiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Todos os itens são verdadeiros.  \n QUESTÃO 13 \nAinda com relação aos advérbios, assinale a \nalternativa que NÃO apresenta um advérbio de \nafirmação:  \n(A) tampouco.   \n(B) sim.  \n(C) realmente.  \n(D) seguramente.  \n(E) certamente."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Ainda de acordo com o autor do texto, julgue \nos itens a seguir e, ao final, assinale a \nalternativa correta:  \nI – Appolinaire passou a velhice na França.  \nII – Appolinaire tornou -se um nobre suíço -\nitaliano.  \nIII – Appolinaire escreveu apenas textos \nsacros.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e III são verdadeiros.",
+                "E": "Nenhum dos itens é verdadeiro."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: Assinale a alternativa que NÃO apresenta uma \nconjunçã o adversativa:",
+            "alternativas": {
+                "A": "mas.",
+                "B": "porém.",
+                "C": "contudo.",
+                "D": "ou.",
+                "E": "todavia.  \n \n \n \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nOPERAÇÃO DE MÁQUINAS                                                                                                                      Página 5 de 10 MATEMÁTICA  E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Uma confeitaria produz 860 bolos por ano, \nmas pretende aumentar sua produção em 30%. \nSe isso se concretizar, referida empresa passará \na produzir a seguinte quantidade de bolos:",
+            "alternativas": {
+                "A": "1020.",
+                "B": "1058.",
+                "C": "1.100.",
+                "D": "1.118.",
+                "E": "1.198."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: Assinale a alternativa que apresenta o \nresultado correto para a seguinte operação \nmatemática:  \n14 x 56 + 109",
+            "alternativas": {
+                "A": "893.",
+                "B": "904.",
+                "C": "910.",
+                "D": "914.",
+                "E": "923."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: Assinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperaçã o com números decimais:  \n10,4 + 12,8 – 3,9",
+            "alternativas": {
+                "A": "18,1.",
+                "B": "19,3.",
+                "C": "20,7.",
+                "D": "21,1.",
+                "E": "21,8.  \n \n \n \n QUESTÃO 19 \nAssinale a alternativa que aponta corretamente \no sétimo número antecessor ímpar de 897.  \n(A) 884.  \n(B) 883.  \n(C) 885.  \n(D) 886.  \n(E) 887."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: Uma editora produz 680 livros por ano, mas \npretende aumentar sua produção em 40%. Se \nisso vier a ocorrer, o número de livros \nproduzidos será o de:",
+            "alternativas": {
+                "A": "848.",
+                "B": "898.",
+                "C": "914.",
+                "D": "940.",
+                "E": "952."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: Assinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação matemática:  \n224 + 18 x 11",
+            "alternativas": {
+                "A": "412.",
+                "B": "422.",
+                "C": "428.",
+                "D": "438.",
+                "E": "444"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: Assinale a alternativa que apresenta \ncorretamente o quinto número sucessor par de \n446.",
+            "alternativas": {
+                "A": "448.",
+                "B": "450.",
+                "C": "451.",
+                "D": "454.",
+                "E": "456.   \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nOPERAÇÃO DE MÁQUINAS                                                                                                                      Página 6 de 10 QUESTÃO 23 \nAssinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação com números decimais:  \n104,4 + 66,1 – 34,9  \n(A) 135,6.   \n(B) 139,1.  \n(C) 140,2.  \n(D) 143,3.  \n(E) 144,9."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: Uma determinada loja aluga 280 ternos e 412 \nvestidos de noiva. A mesma loja pretende \naumentar a locação de vestidos de noiva em \n25%. Se isso se concretizar, o número de \nvestidos alugados será de:",
+            "alternativas": {
+                "A": "508.",
+                "B": "510.",
+                "C": "515.",
+                "D": "519.",
+                "E": "52 5."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: Assinale a alternativa que apresenta o décimo \nprimeiro número ímpar antecessor de 209.",
+            "alternativas": {
+                "A": "197.",
+                "B": "200.",
+                "C": "191.",
+                "D": "189.",
+                "E": "187."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: Assinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação com números decimais:  \n1,1 x 3,4 + 77,4",
+            "alternativas": {
+                "A": "81,14.",
+                "B": "82,30.",
+                "C": "84,90.",
+                "D": "85,10.",
+                "E": "86,10.  QUESTÃO 27 \nUma empresa importa 2200 tapetes do Oriente \nMédio todos os anos, mas, no ano seguinte, \npretende aumentar esse montante em 35%. Se \nisso se concretizar, o número de tapetes \nimportados será de:  \n(A) 2920.  \n(B) 2945.  \n(C) 2970.   \n(D) 2986.  \n(E) 2990."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: Um determinado clube recreativo possui \natualmente 3460 sócios, mas a nova \nadministração pretende aumentar esse número \nem 20%. Se isso vier a ocorrer, referido clube \npassará a ter a seguinte quantidade de sócios:",
+            "alternativas": {
+                "A": "4152.",
+                "B": "4190.",
+                "C": "4200.",
+                "D": "4202.",
+                "E": "4206."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: Assinale a alternativa que apresenta \ncorretamente o resultado para a seguinte \noperação com números decimais.  \n12,4 + 109,5 – 17,9",
+            "alternativas": {
+                "A": "98.",
+                "B": "100.",
+                "C": "102.",
+                "D": "104.",
+                "E": "106."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: Assinale a alternativa que aprese nta o oitavo \nnúmero ímpar sucessor de 798.",
+            "alternativas": {
+                "A": "803.",
+                "B": "806.",
+                "C": "808.",
+                "D": "811.",
+                "E": "813.   Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nOPERAÇÃO DE MÁQUINAS                                                                                                                      Página 7 de 10 CONHECIMENTOS ES PECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: Com relação aos cuidados necessários na \nutilização de retroescavadeiras, analise os itens \na seguir e, ao final, assinale a alternativa \ncorreta:  \nI – Deve -se verificar as limitações da carga, \npeso e largura, mas não a altura.  \nII – Caso algum funcionamento incorreto do \ncomponente seja identificado, é necessário \ndesligar a máquina e a chave -geral.  \nIII – É importante evitar que outros \ntrabalhadores transitem próximos da área de \noperação e movimentação da retroescavadeira.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Nenhum dos itens é verdadeiro."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: Ainda com relação às retroescavadeiras, são \nconsiderados riscos potenciais:  \nI – inclina ções íngremes.  \nII – saliências.  \nIII – árvores.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e II são verdadeiros.",
+                "E": "Todos os itens são verdadeiros.   \n \n \n \n \n \n \n \n QUESTÃO 33 \nCom relação aos tratores de esteira, analise os \nitens a seguir e, ao final, assinale a alternativa \ncorreta:  \nI – Funcionam a partir de uma corrente que é \nformada por uma série de links.  \nII – Não há sapatas com garras.  \nIII – Não funcionam em te rrenos argilosos ou \narenosos.  \n(A) Apenas o item I é verdadeiro.   \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens II e III são verdadeiros.  \n(E) Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: Com relação às principa is funcionalidades de \num trator de esteira, analise os itens a seguir e, \nao final, assinale a alternativa correta:  \nI – empilhamento de itens.  \nII – aragem do solo.  \nIII – nivelar a superfície.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e III são verdadeiros.",
+                "E": "Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 27: Com relação às motoniveladora, analise os \nitens a segu ir e, ao final, assinale a alternativa \ncorreta:  \nI – Não serve para deslocar e nivelar uma \nsuperfície de terra.  \nII – Não possui lâminas inclináveis.  \nIII – Sua principal função é realizar a \nterraplanagem de terrenos.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e II são verdadeiros.",
+                "E": "Todos os itens são verdadeiros.  Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nOPERAÇÃO DE MÁQUINAS                                                                                                                      Página 8 de 10 QUESTÃO 36 \nCom relação à pá -mecânica, analise os itens a \nseguir e, ao final, assinale a alternativa correta:  \nI – São capazes de carregar areia, mas não \nentulhos.  \nII – Funcionam bem em pequenas e grandes \náreas.  \nIII – Não realiza nivelamento de terrenos.  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.   \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e II são verdadeiros.  \n(E) Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 28: Com relação aos equipamentos de dragagem, \nanalise os it ens a seguir e, ao final, assinale a \nalternativa correta:  \nI – A draga de sucção em arrasto (TSHD) pode \nrealizar a sucção do material.  \nII – As dragas de sucção e corte (CSD) também \nsão conhecidas como dragas de sucção e \nrecalque.  \nIII – A escavadeira anfí bia só funciona em \nambientes aquáticos.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e II são verdadeiros.",
+                "E": "Todos os itens são verdadeiros.  \n \n \n \n \n \n \n \n QUESTÃO 38 \nCom relação às Normas Gerais de Circulação \ne Conduta previstas no Código de Trânsito \nBrasileiro, analise os itens a seguir e, ao final, \nassinale a alternativa correta:  \nI – O condutor deverá, quando possível, ter \ndomínio de seu veículo, dirigindo com atenç ão \ne cuidado.  \nII – Os usuários das vias terrestres devem \nabster -se de obstruir o trânsito.  \nIII – Os usuários das vias terrestres devem \nabster -se de todo ato que possa constituir \nperigo ou obstáculo para o trânsito de veículos, \nde pessoas, mas não de anim ais.  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e III são verdadeiros.  \n(E) Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERAÇÃO DE MÁQUINAS",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 29: Ainda com relação às Normas Gerais de \nCirculação e  Conduta, analise os itens a seguir \ne, ao final, assinale a alternativa correta:  \nI – Os animais isolados ou em grupos só podem \ncircular nas vias quando conduzidos por um \nguia.  \nII – Os ciclomotores devem ser conduzidos \npela esquerda da pista de rolamento.   \nIII – Passageiros de motonetas estão \ndispensados do uso de capacetes.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Todos os itens são verda deiros.  \n \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nOPERAÇÃO DE MÁQUINAS                                                                                                                      Página 9 de 10 QUESTÃO 40 \nDe acordo com o art. 60 do Código de Trânsito \nBrasileiro, as vias abertas à circulação \nurbanas), de acordo com sua utilização, \nclassificam -se em:  \nI – via de trânsito lento.  \nII – via arterial.  \nIII – via coletiva.  \n(A) Apenas o item I é verdadeiro.  \n(B) A penas o item II é verdadeiro.   \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e III são verdadeiros.  \n(E) Nenhum dos itens é verdadeiro.   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nOPERAÇÃO DE MÁQUINAS                                                                                                                      Página 10 de 10"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

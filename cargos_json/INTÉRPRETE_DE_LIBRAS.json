@@ -1,3 +1,298 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b17e6d3c8aafdf63ccb6c4749aac59f271a3a548f5ced3c088aed9f2217cb6d9
-size 33219
+{
+    "INTÉRPRETE DE LIBRAS": [
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 1: De acordo com o texto, a diferença na formação \ndo diamante rosa em comparação com os demais \ntipos, que o torna um mineral raro, se dá em \ndecorrência da:",
+            "alternativas": {
+                "A": "menor intensidade de forças de calor e \npressão.",
+                "B": "interação de carbono com boro.",
+                "C": "interação do carbono com enxofre.",
+                "D": "distorção em sua estrutura que altera \ncaracterísticas da luz refletida pelo diamante.",
+                "E": "interação do carbono com nitrogênio."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 2: Considere o excerto: “Embora o continente que \nse tornaria a Austrália não tenha se dividido, a \nárea onde Argyle está situada foi esticada”. No \ncontexto em que ocorre, a oração iniciada pela \nconjunção “embora” exprime um sentido de:",
+            "alternativas": {
+                "A": "adversidade.",
+                "B": "proporcionalidade.",
+                "C": "causalidade.",
+                "D": "condicionalidade.",
+                "E": "concessividade."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 3: Em relação à coesão, no excerto “A pesquisa é \ninteressante não só por dar mais pistas sobre a \norigem dos diamantes rosas, mas também por \napontar possíveis condições para a exploração de \nnovas minas.”, a expressão “não só… mas \ntambém” funciona como:",
+            "alternativas": {
+                "A": "operador argumentativo de adição.",
+                "B": "operador argumentativo de oposição.",
+                "C": "operador argumentativo de explicação.",
+                "D": "operador argumentativo de proporção.",
+                "E": "operador argumentativo de conclusão. QUESTÃO 04 \nConsidere as palavras I. supercontinente, II. \npedrinhas e III. cientistas, que ocorrem no texto. \nEm relação aos processos de formação, aquela(s) \nque apresenta(m) prefixo derivacional é (são): \n \n(A) I. \n(B) II. \n(C) III. \n(D) I e II. \n(E) II e III."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 4: Considere o excerto: “Essa é a nova hipótese para \nexplicar como esses minerais – muito mais raros \nque diamantes comuns – se formaram na \nAustrália.” Quanto às classes gramaticais, as \npalavras “essa”, “hipótese”, “raros” e “se” \nclassificam-se, respectivamente, como:",
+            "alternativas": {
+                "A": "pronome relativo, substantivo, adjetivo e \npronome reflexivo.",
+                "B": "pronome demonstrativo, adjetivo, adjetivo e \npronome reflexivo.",
+                "C": "pronome demonstrativo, substantivo, \nadjetivo e pronome reflexivo.",
+                "D": "pronome demonstrativo, substantivo, \nsubstantivo e pronome reflexivo.",
+                "E": "pronome demonstrativo, substantivo, \nadjetivo e conjunção integrante. \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 4 de 15 QUESTÃO 06 \nConsidere as seguintes sentenças, retiradas do \ntexto: \nI. “Só uma minoria é destinada a joias (até porque \nnem todos têm as características necessárias para \nfazê- las)”  \nII. “os pesquisadores descobriram que um grande \ndepósito de diamantes rosa se formou há 1,3 \nbilhões de anos”  \nEm relação à colocação dos pronomes oblíquos, \nnas sentenças dadas observa-se, \nrespectivamente: \n \n(A) ênclise e próclise. \n(B) ênclise e ênclise. \n(C) próclise e ênclise.  \n(D) próclise e mesóclise. \n(E) mesóclise e próclise."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 5: Considere o excerto: “Para que isso aconteça, ele \ntem que ser submetido a forças intensas de calor \ne pressão.” No contexto apresentado, ocorre(m) \napenas pronome(s) do(s) tipo(s):",
+            "alternativas": {
+                "A": "demonstrativo e pessoal.",
+                "B": "demonstrativo.",
+                "C": "pessoal.",
+                "D": "relativo.",
+                "E": "indefinido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 6: Considere a seguinte sentença: “Avistaram \nalguns homens conduzindo uma cáfila até o \nlago.” Nesse contexto, a palavra “cáfila” se refere \na:",
+            "alternativas": {
+                "A": "um grupo de lobos.",
+                "B": "um grupo de porcos.",
+                "C": "um grupo de camelos.",
+                "D": "um grupo de búfalos.",
+                "E": "um grupo de cabras. QUESTÃO 09 \nAssinale a alternativa em que a sentença \napresenta apenas voz ativa.  \n(A) O garoto foi atacado por dois cachorros.  \n(B) Encontravam-se cinzas no chão após as \nfestas. \n(C) O homem suicidou-se em sua própria casa. \n(D) Um gato foi resgatado na estrada.  \n(E) Pedro e Maria deram uma festa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a palavra “que” atua como pronome \ninterrogativo.",
+            "alternativas": {
+                "A": "Que desânimo!",
+                "B": "Fiquei feliz que você veio.",
+                "C": "O que você fez ontem?",
+                "D": "Ele deduz que foi traído pela esposa.",
+                "E": "Não há perdão para o que você fez. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 8: Considere a seguinte sequência lógica \nnumérica: \n \n1\n2, 1,3\n2, 2,5\n2, 3,7\n2, …  \n \nObservando o padrão da sequência, podemos \nafirmar que o centésimo termo dessa sequência \né:",
+            "alternativas": {
+                "A": "101/2.",
+                "B": "99/2.",
+                "C": "51/2.",
+                "D": "100.",
+                "E": "50.Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 5 de 15 QUESTÃO 12 \nO gráfico abaixo mostra a população e o número de domicílios ocupados por classe de densidade \npopulacional  \n \n \nFonte: Adaptado do Censo Demográfico 2010 - IBGE \nAnalisando o gráfico, quantos por cento dos domicílios ocupados estão situados em regiões cuja \ndensidade populacional é superior a 5000 habitantes por quilômetro quadrado aproximadamente? \n(A) 21,0%. \n(B) 28,0%. \n(C) 27,5%. \n(D) 26,8%. \n(E) 38,9%."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 9: Um químico misturou uma certa quantidade de cloro em água, mas por descuido esqueceu de anotar \nas respectivas quantidades das substâncias. Para não perder o seu trabalho, ele fez um experime nto \npara determinar a proporção entre cloro e água, em volume, que encontrou ser 1/5. Além disso, ele \nsabe que o volume final da mistura é 1,2 litro. Quanto de cloro ele usou nesta mistura?",
+            "alternativas": {
+                "A": "200 ml.",
+                "B": "400 ml.",
+                "C": "600 ml.",
+                "D": "800 ml.",
+                "E": "1000 ml. \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 6 de 15 QUESTÃO 14 \nObserve a seguinte sequência lógica figural: \n \nConforme as correspondências abaixo, indique o elemento faltante (marcado com símbolo de \ninterrogação):  \n \n(A) I. \n(B) II. \n(C) III. \n(D) IV. \n(E) V."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 10: Um fazendeiro tem 80 hectares de terra onde ele planta milho. Cada hectare ele consegue produzir 6 \ntoneladas de milho, no qual ele ensaca em sacos de 60 kg, e vende a R$ 60,00 R$/saco. Qual o valor \narrecadado numa colheita completa da sua plantação, em reais?",
+            "alternativas": {
+                "A": "4,8 mil.",
+                "B": "48 mil.",
+                "C": "480 mil.",
+                "D": "4,8 milhões.",
+                "E": "48 milhões. \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 7 de 15 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 11: O Microsoft Outlook 2016 é um cliente de email \nque permite configurar e gerenciar várias contas \nde email em um único local. Neste sentido, \npode-se afirmar que o Outlook: \nI - Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente. \nII - Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais. \nIII - Permite criar gráficos e visualizações de \ndados para representar informações de maneira \nmais compreensível.",
+            "alternativas": {
+                "A": "Nenhuma das afirmativas estão corretas.",
+                "B": "I e III, apenas.",
+                "C": "II  e III, apenas.",
+                "D": "I, apenas.",
+                "E": "II, apenas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 12: O Microsoft PowerPoint 2016 é um aplicativo \nusado para criar apresentações visuais. Ele \npermite criar slides que contêm texto, imagens, \ngráficos, vídeos e elementos interativos. Neste \nsentido, pode-se afirmar que o PowerPoint:",
+            "alternativas": {
+                "A": "Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais.",
+                "B": "Oferece uma variedade de modelos de slides \ne opções de design para criar apresentações.",
+                "C": "O software oferece recursos de elaboração \nde planilhas, exibindo anotações de slides para \nauxiliar o orador durante a apresentação.",
+                "D": "Se restringe à configuração e gerenciamento \nde apenas uma conta de email em um único \nlocal.",
+                "E": "Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente. QUESTÃO 18  \nO Microsoft Word 2016 é um software de \nprocessamento de texto amplamente utilizado \npara criar, editar e formatar documentos. Ele \noferece uma ampla gama de ferramentas para \nformatar texto de maneira profissional e \npersonalizada. Neste sentido, é incorreto \nafirmar que o Word:  \nI – Permite inserir imagens, gráficos e outros \nelementos visuais nos documentos. \nII - O Word não oferece opções para criar listas \nnumeradas ou com marcadores em um \ndocumento. \nIII - Para justificar o texto no Word, é preciso \nimprimir o documento e, em seguida, alinhá-lo \nmanualmente com uma régua. \n(A) Nenhuma das afirmativas estão incorretas.  \n(B) I e II, apenas. \n(C) II e III, apenas.  \n(D) I, apenas. \n(E) II, apenas. \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 8 de 15 QUESTÃO 19  \nAnalise a imagem a seguir: \n \nPode-se afirmar que o programa apresentado \npossui as seguintes funções, exceto: \n(A) Permite realizar cálculos matemáticos, \ncomo adição, subtração, multiplicação e \ndivisão, usando fórmulas. \n(B) Permite organizar dados em planilhas, que \nsão compostas por células dispostas em linhas e \ncolunas. \n(C) Pode classificar dados em ordem alfabética \nou numérica e aplicar filtros para exibir apenas \nos dados que atendem a critérios específicos. \n(D) Possui funções integradas para trabalhar \ncom datas e horas, como calcular diferenças de \ndatas, extrair partes de datas (dia, mês, ano) e \nrealizar cálculos baseados em horários. \n(E) Permite enviar, receber e organizar emails. \nSendo possível criar, responder, encaminhar e \narquivar mensagens de email de forma eficiente. \n \n \n \n \n \n \n \n \n \n QUESTÃO 20 \nO Microsoft Word 2016 oferece amplas opções \nde formatação de texto, incluindo formatação de \nfonte, alinhamento, espaçamento entre linhas, \nrecuos e estilos de parágrafo, permitindo \npersonalizar a aparência do documento. Neste \nsentido, pode-se afirmar que o Word: \n(A) Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de email, \nnúmeros de telefone e detalhes pessoais. \n(B) Oferece uma variedade de modelos de slides \ne opções de design para criar apresentações. \n(C) Possui recursos de revisão que facilitam a \ncolaboração. Sendo possível adicionar \ncomentários, fazer alterações e usar o controle de \nalterações para rastrear as edições. \n(D) O software oferece recursos de elaboração de \nplanilhas, exibindo anotações de slides para \nauxiliar o orador durante a apresentação. \n(E) Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente. \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 13: Associe o tipo de surdez com sua descrição \ncorrespondente: \nI. Surdez condutiva \nII. Surdez sensorioneural \nIII. Surdez mista \n(a) Caracterizada por danos no sistema nervoso \nauditivo. \n(b) Resulta de problemas no ouvido externo ou \nmédio que interferem na condução do som. \n(c) Combina elementos de perda auditiva \ncondutiva e sensorioneural. \nA associação correta é:",
+            "alternativas": {
+                "A": "I-a, II-b, III-c",
+                "B": "I-c, II-b, III-a",
+                "C": "I-b, II-a, III-c",
+                "D": "I-a, II-c, III-b",
+                "E": "I-b, II-c, III-a \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 9 de 15 QUESTÃO 22 \nA surdez é classificada em diferentes graus, de \nacordo com a perda auditiva. No entanto, é \nimportante destacar que a surdez profunda é \nconsiderada quando uma pessoa não consegue \nouvir um som abaixo de ______ decibéis. \nAssinale a alternativa que preenche a lacuna \ncorretamente.  \n(A) 30 dB \n(B) 50 dB \n(C) 70 dB \n(D) 90 dB \n(E) 110 dB"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 14: Qual é a importância do movimento facial e da \nexpressão corporal na comunicação em Libras?",
+            "alternativas": {
+                "A": "Não têm importância, pois a Libras se baseia \napenas em gestos manuais.",
+                "B": "São essenciais, pois ajudam a transmitir \nnuances de significado e emoção na \ncomunicação em Libras.",
+                "C": "São usados em situações formais de \ncomunicação em Libras, em situações informais \nusa-se exclusivamente gestos manuais.",
+                "D": "São exclusivos da linguagem escrita em \nLibras.",
+                "E": "São complementares, pois a Libras se \nconcentra na articulação das mãos. \n \n \n \n \n \n \n QUESTÃO 24 \nAssocie cada atribuição do intérprete \neducacional de Libras à sua descrição \ncorrespondente: \n1 - Auxiliar na tradução de textos escritos para a \nlíngua de sinais. \n2 - Apoiar os alunos surdos em atividades \nextracurriculares. \n3 - Intermediar a comunicação em situações não \nacadêmicas, como reuniões escolares. \n4 - Promover a cultura surda e a conscientização \nsobre a surdez na comunidade escolar. \n5 - Garantir que os recursos de acessibilidade, \ncomo legendas em vídeos, sejam providenciados. \n(   )Atividades de inclusão social e lazer. \n(   ) Acesso a informações fora da sala de aula. \n(   ) Tradução de conteúdo acadêmico. \n(   ) Mediação em contextos não acadêmicos. \n(   ) Promoção da cultura surda e acessibilidade. \nA associação correta é, respectivamente:  \n(A) 2 - 5 - 1 - 3 - 4 \n(B) 3 - 1 - 4 - 5 - 2 \n(C) 5 - 4 - 1 - 3 - 2 \n(D) 4 - 1 - 3 - 2 - 5 \n(E) 3 - 1 - 5 - 2 – 4 \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 10 de 15 QUESTÃO 25 \nConsidere as seguintes afirmações sobre \nclassificadores em Libras: \nI. Os classificadores são usados apenas para \ndescrever objetos, não pessoas ou animais. \nII. Os classificadores são importantes na \nestrutura gramatical da língua de sinais. \nIII. Os classificadores em Libras não variam de \nacordo com o contexto ou o assunto da conversa. \n(A) Todas as afirmações são verdadeiras. \n(B) Apenas a afirmação I é verdadeira. \n(C) Apenas a afirmação II é verdadeira. \n(D) Apenas a afirmação III é verdadeira. \n(E) As afirmações I e III são verdadeiras."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 15: Qual das seguintes afirmações está em desacordo \ncom as diretrizes do Código de Ética do \nIntérprete?",
+            "alternativas": {
+                "A": "O intérprete será uma pessoa de alto caráter \nmoral, honesto, confiável, consciente e de \nmaturidade emocional. Ele guardará informações \nconfidenciais e não trará confidências as quais \nforam reveladas a ele.",
+                "B": "O Intérprete manterá parcialidade e atitudes \nneutras durante o decorrer da sua interpretação, \ncom o intuito de impor seus próprios pontos de \nvista, sobretudo quando perguntado sua opinião.",
+                "C": "O intérprete interpretará fielmente e da \nmelhor maneira possível sempre transmitindo o \npensamento, intento e o espírito do falante. Ele \ndeverá lembrar os limites de sua particular \nfunção e não ir além da sua responsabilidade.",
+                "D": "O intérprete deverá reconhecer seu próprio \nnível de competência e usar discrição em aceitar \ntarefas, procurando a assistência de outro \nintérprete quando necessário.",
+                "E": "O intérprete deverá adotar um modo \nconservador de se vestir, mantendo a dignidade \nda sua profissão e não chamar atenção sobre si \nmesmo.  QUESTÃO 27 \nEm Libras, a comunicação ocorre principalmente \npor meio de _________, que são equivalentes aos \n_________ da língua oral. \nAssinale a alternativa que preenche as lacunas \ncorretamente.  \n(A) gestos - fonemas \n(B) fonemas - gestos \n(C) expressões faciais - morfemas \n(D) morfemas - expressões faciais \n(E) letras – gestos"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 16: A formação de instrutor de Libras, em nível \nmédio, deve ser realizada pelos seguintes meio, à \nexceção de:",
+            "alternativas": {
+                "A": "cursos de formação continuada promovidos \npor instituições credenciadas por secretarias de \neducação.",
+                "B": "cursos de educação profissional.",
+                "C": "cursos de letras em língua portuguesa",
+                "D": "por organizações da sociedade civil \nrepresentativa da comunidade surda",
+                "E": "cursos de formação continuada promovidos \npor instituições de ensino superior. \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 11 de 15 QUESTÃO 29 \nDurante o século XIX, uma filosofia educacional \nque influenciou a educação de surdos foi o \noralismo. Qual das alternativas melhor descreve \no princípio fundamental do oralismo? \n(A) O oralismo enfatizava a utilização da língua \nde sinais como principal meio de comunicação \npara surdos. \n(B) O oralismo defendia o uso exclusivo da fala \ne da leitura labial como métodos de comunicação \npara surdos. \n(C) O oralismo promovia a educação bilíngue, \nincentivando o uso de língua de sinais e a língua \noral simultaneamente. \n(D) O oralismo enfatizava o ensino de \nhabilidades táteis e visuais para surdos, \nignorando a comunicação oral. \n(E) O oralismo propunha a educação de surdos \nde maneira similar à educação de ouvintes, ao \nconsiderar suas necessidades específicas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 17: Na Libras, qual é a função das expressões faciais \nrelacionadas à estrutura morfológica?",
+            "alternativas": {
+                "A": "Indicar ações no passado.",
+                "B": "Marcar a negação de uma frase.",
+                "C": "Sinalizar a ordem dos constituintes na frase.",
+                "D": "Expressar emoções, marcar grau de \nintensidade e tamanho.",
+                "E": "Indicar a concordância verbal. \n \n \n \n \n \n QUESTÃO 31 \nA comunicação inclusiva é fundamental para \npromover a compreensão e a igualdade de \noportunidades para todas as pessoas, incluindo \naquelas que utilizam a Língua Brasileira de \nSinais como meio de comunicação. A seguir está \na representação visual de um importante sinal em \nLibras: \n \nEscolha a alternativa que descreve corretamente \no sinal apresentado em Libras: \n(A) Sol \n(B) Por favor \n(C) Legal \n(D) Desculpa \n(E) Eles \n \n \n \n \n \n \n \n \n \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 12 de 15 QUESTÃO 32 \nAnalise os seguintes sinais em língua de sinais: \n1 -     2 - 3 -  \nIndique a opção que descreve corretamente cada um dos sinais respectivamente. \n(A) 1 - Por favor; 2 - Depois; 3 - Amanhã \n(B) 1 - Boa noite; 2 - Com licença; 3 - Obrigado \n(C) 1 - Bom dia; 2 - Desculpa; 3 - Amanhã \n(D) 1 - Boa noite; 2 - Tudo bem; 3 - Obrigado \n(E) 1 - Por favor; 2 - Desculpa; 3 - Com licença"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 18: Analise os seguintes sinais em Libras: \n \n \n \n \n \n \n \n \nOs sinais apresentados representam, respectivamente:",
+            "alternativas": {
+                "A": "Controlar; Emoção",
+                "B": "Dirigir; Longe",
+                "C": "Esperar; Chegar",
+                "D": "Ensinar; Infinito",
+                "E": "Fechar; Escapar \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 13 de 15 QUESTÃO 34 \nAssocie cada classificador à sua descrição \ncorrespondente. \n1 - Classificador Descritivo (CL-D) \n2 - Classificador Locativo (CL-L) \n3 - Classificador Instrumental (CL-I) \n4 - Classificador do Plural (CL-P) \n \n(    )  Indica o movimento ou a posição de um \nnúmero de objetos, pessoas, ou animais. Pode ser \num número determinado ou não determinado, tal \ncomo três gatos em cima de um muro.  \n(   ) Retrata um objeto como lugar determinado \nem relação a outro objeto, tal como uma \nprateleira onde estão copos ou livros.  \n(   ) Esse classificador mostra como se usa alguma \ncoisa, como, por exemplo, carregar um balde \npela alça. \n(   ) Se refere ao tamanho e forma; utiliza para \ndescrever a aparência de um objeto, isto é, forma, \no tamanho, a textura ou o desenho de um objeto. \nUsualmente produzido com ambas as mãos, para \nformas simétricas ou assimétricas tal como a \naltura e a largura de uma caixa.  \nA associação correta é, respectivamente:  \n(A) 2 - 1 - 4 - 3 \n(B) 4 - 3 - 1 - 2 \n(C) 3 - 1 - 2 - 4 \n(D) 1 - 4 - 3 - 2 \n(E) 4 - 2 - 3 – 1 \n \n \n \n \n QUESTÃO 35  \nAnalise as imagens a seguir: \n \nAs imagens representam a palavra: \n(A) Escada \n(B) Esmola \n(C) Estado \n(D) Escola \n(E) Elefante"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 19: Analise as imagens a seguir: \n \nAs imagens representam a palavra:",
+            "alternativas": {
+                "A": "Livre",
+                "B": "Linda",
+                "C": "Livro",
+                "D": "Lazer",
+                "E": "Litro \n \n \n \n \n \n \n \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 14 de 15 QUESTÃO 37  \nDe acordo com o Decreto nº 5.626, de 22 de \ndezembro de 2005, qual é a principal finalidade \nda regulamentação da Língua Brasileira de \nSinais? \n(A) Estabelecer quotas de contratação para \nintérpretes de Libras. \n(B) Promover o ensino da Libras em escolas \nespecializadas. \n(C) Garantir o acesso à comunicação e à \ninformação em Libras. \n(D) Padronizar os gestos e sinais usados na \nLibras. \n(E) Expandir o ingresso da linguagem religiosa à \nLibras."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 20: De acordo com o Código de Ética da Federação \nNacional de Educação e Integração dos Surdos \n(FENEIS), qual é uma das responsabilidades do \nintérprete educacional?",
+            "alternativas": {
+                "A": "Representar seus próprios interesses acima \ndos interesses dos surdos.",
+                "B": "Utilizar a Língua Brasileira de Sinais de \nforma imprecisa para facilitar a compreensão.",
+                "C": "Fornecer informações confidenciais sobre os \nsurdos a terceiros.",
+                "D": "Manter a imparcialidade e a \nconfidencialidade em sua atuação.",
+                "E": "Recusar-se a prestar serviços de interpretação \nem ambientes educacionais. \n \n \n \n \n \n QUESTÃO 39  \nEm Libras, a sintaxe espacial desempenha um \npapel fundamental na estruturação das frases. \nQual das alternativas a seguir apresenta a correta \ndefinição da sintaxe espacial? \n(A) A sintaxe espacial refere-se à ordem dos \nsinais em uma frase e não tem relação com o \nespaço ou a movimentação dos sinais. \n(B) A sintaxe espacial envolve o uso de \nexpressões faciais para indicar o humor do \nsinalizador. \n(C) A sintaxe espacial consiste na utilização do \nespaço e do movimento dos sinais para expressar \nrelações e conexões entre os elementos da frase. \n(D) A sintaxe espacial é usada apenas em \nsituações formais e não é comum na \ncomunicação cotidiana em Libras. \n(E) A sintaxe espacial diz respeito à descrição de \nlocais e direções, sendo utilizada em situações de \nconstrução morfológica dos sinais em Libras."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INTÉRPRETE DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 21: A interpretação de Libras envolve a habilidade de \ncompreender e comunicar de forma precisa a \nlíngua de sinais utilizada pela comunidade surda. \nQual dos seguintes aspectos não é uma atribuição \ndo intérprete educacional de Libras?",
+            "alternativas": {
+                "A": "Facilitar a comunicação entre surdos e \nouvintes em contextos educacionais.",
+                "B": "Transliterar o português para Libras de forma \nliteral.",
+                "C": "Respeitar o código de ética da FENEIS \n(Federação Nacional de Educação e Integração \ndos Surdos).",
+                "D": "Adaptar a interpretação de acordo com o \npúblico e o contexto.",
+                "E": "Facilitar o acesso à informação e ao \naprendizado para os surdos. \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nINTÉRPRETE DE LIBRAS                                                                                                                               Página 15 de 15"
+            },
+            "resposta_correta": "C"
+        }
+    ]
+}

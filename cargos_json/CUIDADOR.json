@@ -1,3 +1,634 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:345bc3e2e6e2ee509c7ea4c7adfbbbac514b0ed98b2a84facb73d28d154eaf83
-size 60932
+{
+    "CUIDADOR": [
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: O texto vale -se tanto de dados quanto de \njulgamentos para sua composição. Assinale a \nalternativa que apresenta posicionamento dos \nautores:",
+            "alternativas": {
+                "A": "No Brasil, cerca de 50% da mídia é \ncontrolada por apenas 5 famílias.",
+                "B": "No Brasil, cinco grandes empresas de \ntelecomunicação dominam os meios de maior \naudiência: Globo, Bandeirantes, Record, RBS \ne Grupo Folha.",
+                "C": "Traduzindo em números: essas emissoras \nalcançam cerca de 75% da população, \ncontando somente com os p rogramas de \ntelevisão e rádio e veículos impressos.",
+                "D": "Estima -se que 80% dos escritórios que \ncontrolam os principais meios de comunicação \nno Brasil estão localizados nas regiões Sudeste \ne Sul.",
+                "E": "Logo, a grande mídia não dissemina a \ndiversidade de opini ões, culturas, ideologias e \npreocupações de uma nação tão numerosa, \nheterogênea e desigual como o Brasil.  \n \n \n \n \n \n \n \n QUESTÃO 0 2  \nA formação da opinião pública está no centro \ndo debate apresentado. Conforme o texto, a \ncirculação de opiniões:  \n(A) atende ao desejo da maioria da população \ne distribui -se com igualdade.  \n(B) encontra -se em disputa e manifesta -se com \ndesigualdade no espaço público.  \n(C) é controlada pelo Estado e segue preceitos \nde regulamentação.  \n(D) depende de pequenos grupos que  agem em \nfavor do público.  \n(E) é disputada apenas em lugares públicos \nfora dos meios de comunicação."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: 3  \nDe acordo com o texto, os conteúdos difundidos \npelos meios de comunicação são \nestrategicamente moldados. Com isso, tais \nconteúdos:",
+            "alternativas": {
+                "A": "informa m a necessidade de adquirir novos \nprodutos indispensáveis para o grande público.",
+                "B": "bombardeiam a população com imagens, \nnotícias e estereótipos de interesse formativo.",
+                "C": "atendem aos interesses de empresas que \ndetêm os instrumentos de difusão de \ninform ação.",
+                "D": "fomentam a conscientização dos \nconsumidores que não têm certeza do que \nprecisam.",
+                "E": "provocam desejos necessários ao \nconsumidor moderno, desavisado das \nnovidades.  \n \n \n \n \n Prefeitura  Municipal de Itapecerica da Serra  - SP – Concurso Público  01/2023             INSTITUTO AVANÇA SÃO PAULO  \n \n \nCUIDADOR                                                                                                                                                     Página 4 de 12 QUESTÃO 0 4  \nNo texto, os parágrafos estão concatenados, por \nvezes cumprindo funções específicas. A \nrespeito do décimo parágrafo, é correto \nassinalar:  \n(A) apresenta exemplos do problema \ndesenvolvido no parágrafo anterior.  \n(B) refuta o problema de concentração de \npoder no setor de telecomunicação.  \n(C) introduz uma nova per spetiva sobre as 5 \nmaiores empresas de comunicação.  \n(D) dimensiona o predomínio das empresas de \ntelecomunicação em números.  \n(E) conclui o raciocínio sobre o predomínio de \ncinco grandes empresas no Brasil."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: 5  \nA concentração geográfica é outro fator \nrelevante, posto que 80% dos escritórios das \nempresas de telecomunicação se encontrem nas \nregiões Sul e Sudeste. Para os autores, essa \nconcentração geográfica faz com que:",
+            "alternativas": {
+                "A": "o público de outras regiões fique \ndesinteressado.",
+                "B": "a transmissão de inf ormações fique \nnaturalmente restrita.",
+                "C": "só os grupos detentores dos grandes canais \nsejam ouvidos.",
+                "D": "apenas as informações de regiões \nespecíficas circulem.",
+                "E": "os canais comunicativos circulem \nprecariamente em regiões distantes  \n \n \n \n \n \n QUESTÃO 06  \nMuito se insiste, no texto, na formação de \nopinião pública. Considerando a estrutura e \nformação de palavras, indique a opção certa a \nrespeito do vocábulo “formação”:  \n(A) -ção é tema.  \n(B) -ção é prefixo.  \n(C) form - é prefixo  \n(D) form - é radical.  \n(E) forma - é radical."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Em língua portuguesa, o pronome oblíquo \nátono pode ocupar três posições distintas: antes, \nno meio, ou depois do verbo. Assinale a \nalternativa com a colocação pronominal \nincorreta:",
+            "alternativas": {
+                "A": "Se afirmam absurdos em redes sociais.",
+                "B": "Assim se  resolvem todos os problemas.",
+                "C": "Assim, resolvem -se todos os problemas.",
+                "D": "Nunca o convidam para festas.",
+                "E": "Tudo se dissolve com o tempo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: A regência trata das relações entre os termos da \nfrase, considerando a relação de dependência \nentre eles. Indique abaixo a única frase com \nregência verbal adequada:",
+            "alternativas": {
+                "A": "Assistiu o filme pela segunda vez.",
+                "B": "Corroborou os argumentos com fontes \nconfiáveis.",
+                "C": "As ausências implicaram em sua \ndemissão.",
+                "D": "Ele se esqueceu a data.",
+                "E": "Visou uma vaga no concurso.  \n \n \n Prefeitura  Municipal de Itapecerica da Serra  - SP – Concurso Público  01/2023             INSTITUTO AVANÇA SÃO PAULO  \n \n \nCUIDADOR                                                                                                                                                     Página 5 de 12 QUESTÃO 09  \nAs palavras desempenham diferentes funções, \nsendo classificadas de acordo com o uso. \nIndique a seguir o emprego do “que” como \nconjunção integrante:  \n(A) O menino que se machucou passa bem.  \n(B) A casa, que estava ameaçada, foi derrubada.  \n(C) João disse que estava sozinho na festa.  \n(D) As flores que comprei murcharam.  \n(E) Os jovens, que estão desempregados, \nbuscam alternativas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: De acordo com as normas gramaticais de \nortografia, marque a sequência com todos os \nvocábulos corretos:",
+            "alternativas": {
+                "A": "pixar, mecher, lonje, exigir, atrasado.",
+                "B": "cinqüenta, microondas, beje, iorgute, \nparalisar.",
+                "C": "pesquiza, asia, prezado, ancioso, suspense.",
+                "D": "subsídio, excesso, compreensão, \nnecessidade, jeito.",
+                "E": "lage, análize, exigir, giboia, lastro.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Um determinado jardim possui o formato de um \nhexágono regular cuja área total mede 222 m² e \na apótema mede 8,00 m. Logo, é correto afirmar \nque o perímetro do jardim é igual a:",
+            "alternativas": {
+                "A": "27,75 m.",
+                "B": "37,00 m .",
+                "C": "41,62 m.",
+                "D": "55,50 m .",
+                "E": "61,60 m.  QUESTÃO 12  \nUm prisma cilíndrico regular possui um volume \ntotal igual a 29.524,50 cm². Considerando π = \n3,00 e sabendo que a altura do prisma é o \nquádruplo de seu raio, qual é o valor do \ndiâmetro do prisma?  \n(A) 14,0.  \n(B) 18,5. \n(C) 22,3.  \n(D) 24,0.  \n(E) 27,0."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Os ângulos internos de um triângulo medem \nrespectivamente os seguintes valores expressos \nem graus: 7x, 14x + 30 e x/4. Logo, é correto \nafirmar que o valor de x é aproximadamente \nigual a:",
+            "alternativas": {
+                "A": "4,23",
+                "B": "6,25.",
+                "C": "7,06.",
+                "D": "8,47.",
+                "E": "10,12."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Quantas toneladas de arroz uma máquina \nconsegue empacotar em 144 horas, \nconsiderando -se que a referida máquina \nempacota 52,50 toneladas em 7,5 horas?",
+            "alternativas": {
+                "A": "914,50",
+                "B": "980,00 .",
+                "C": "1008,00 .",
+                "D": "1050,10.",
+                "E": "1110,30.  \n \n Prefeitura  Municipal de Itapecerica da Serra  - SP – Concurso Público  01/2023             INSTITUTO AVANÇA SÃO PAULO  \n \n \nCUIDADOR                                                                                                                                                     Página 6 de 12 QUESTÃO 15  \nConsidere as afirmações a seguir e responda \nde acordo com a orientação:  \n \nI. O Mínimo Múltiplo Comum entre os \nnúmeros 23, 15 e 7 é igual a 2415.  \nII. O Mínimo Múltiplo Comum entre os \nnúmeros 11, 13 e 121 é igual a 1331.  \nIII. O Mínimo Múltiplo Comum entre os \nnúmeros 2, 7 e 114 é igual a 798.  \n \nQuais das afirmações anteriores estão corretas?  \n(A) I e II, apenas.  \n(B) I, II e III.  \n(C) I e III, apenas . \n(D) II e III, apenas.  \n(E) III, apenas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Sabendo que ao final de 7 meses João obteve, \nde um determinado investimento, o valor de \nmontante igual a R$ 26.904,00 e que o \ninvestimento foi capitalizado a uma taxa mensal \nde juros simples de 2 %, qual foi o capital inicial \ninvestido?",
+            "alternativas": {
+                "A": "R$ 22.900,00.",
+                "B": "R$ 23.600,00.",
+                "C": "R$ 23.920,00.",
+                "D": "R$ 24.100,00.",
+                "E": "R$ 24.214,00.  \n \n \n \n \n QUESTÃO 17   \nO triplo de canetas de Márcia, somado a ⅔ das \ncanetas de Joana é igual a 139 canetas e, o dobro \ndas canetas de Joana menos as canetas de \nMárcia é igual a 107 canetas. Pode -se afirmar \nque Joana possui quantas canetas?  \n(A) 31.  \n(B) 52. \n(C) 69. \n(D) 72.  \n(E) 77."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Considere a expressão a seguir: 𝐴=3×7²+\n(21÷3)×2³−8². É correto afirmar que o \nvalor de A é igual a:",
+            "alternativas": {
+                "A": "-245.",
+                "B": "139.",
+                "C": "147.",
+                "D": "259.",
+                "E": "433."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: A razão entre o quadrado de um número X e o \nseu quádruplo é igual ao triplo deste número X \nmenos 77. Logo, o valor de X é:",
+            "alternativas": {
+                "A": "21.",
+                "B": "23.",
+                "C": "25.",
+                "D": "28.",
+                "E": "32.  \n \n \n Prefeitura  Municipal de Itapecerica da Serra  - SP – Concurso Público  01/2023             INSTITUTO AVANÇA SÃO PAULO  \n \n \nCUIDADOR                                                                                                                                                     Página 7 de 12 QUESTÃO 20   \nO salário mensal de Antônio é igual a R$ \n2.547,50. Se Antônio receber um aumento de \n14,0 %, qual será o valor de seu novo salário?  \n(A) R$ 2.774,20.  \n(B) R$ 2.850,35 . \n(C) R$ 2.901,00.  \n(D) R$ 2.904,15 . \n(E) R$ 2.911,72.  \nATUALIDADES"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Na Copa do Mundo do Catar realizada em \nnovembro de 2022 ocorreram muitos protestos. \nSobre o tema, analise os itens a seguir e, ao \nfinal, assinale a alternativa correta:  \nI – respeito à comunidade LGBTQIA+.  \nII – racismo.  \nIII – direito de liberdade das mul heres.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e II são verdadeiros.",
+                "E": "Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: No segundo semestre de 2022, uma jovem \niraniana  de 22 anos foi morta por policiais \nporque estava “usando o véu de forma errada”, \no que levou a uma onda de manifestações \nnaquele país. Assinale a alternativa que \napresenta corretamente o nome dessa jovem:",
+            "alternativas": {
+                "A": "Mahsa Amini.",
+                "B": "Aisha Kovain.",
+                "C": "Malula H amse.",
+                "D": "Nadia Ahmadinejad.",
+                "E": "Olga Mirsa.  \n \n QUESTÃO 23  \nNo dia 11 de dezembro de 2022, um dos \nvulcões mais ativos da América Central entrou \nem erupção. Assinale a alternativa que \napresenta corretamente o nome do país onde tal \nvulcão está localizado:  \n(A) Nicarágua.  \n(B) Honduras.  \n(C) Guatemala.  \n(D) Costa Rica .  \n(E) El Salvador."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: No final de 2022, o presidente do Peru tentou \ndissolver o parlamento do país, mas acabou \nsendo destituído do poder pelo Congresso. \nAssinale a alternativa que apresenta o nome de \ntal político:",
+            "alternativas": {
+                "A": "Andrés Lopez Obrador.",
+                "B": "Gabriel Boric.",
+                "C": "Pedro Castillo.",
+                "D": "Samuel Ferrer.",
+                "E": "Maurício Macri."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: No final de novembro de 2022, o Mauna Loa , o \nmaior vulcão ativo do mundo, entrou em \nerupção pela primeira vez em quase quarenta \nanos. Assinale a alternativa que apre senta o \nnome da localidade em que se encontra referido \nvulcão.",
+            "alternativas": {
+                "A": "Tailândia.",
+                "B": "Chile.",
+                "C": "Argentina.",
+                "D": "Havaí.",
+                "E": "Indonésia.  \n \n \n Prefeitura  Municipal de Itapecerica da Serra  - SP – Concurso Público  01/2023             INSTITUTO AVANÇA SÃO PAULO  \n \n \nCUIDADOR                                                                                                                                                     Página 8 de 12 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Qual das seguintes opções não é um menu do \nWindows 7?",
+            "alternativas": {
+                "A": "Arquivo",
+                "B": "Iniciar",
+                "C": "Ferramentas",
+                "D": "Atualização",
+                "E": "Configurações"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Qual das opções abaixo é a forma correta de \nformatar uma lista de pontos no MS -Word \n2016?",
+            "alternativas": {
+                "A": "Selecionar a lista e clicar na opção “Lista”.",
+                "B": "Selecionar a lista e clicar na opção \n“Inserir”.",
+                "C": "Selecionar a lista e clicar na opção “Estilo”.",
+                "D": "Selecionar a lista e clicar na opção “Livro \nde Estilos”.",
+                "E": "Selecionar a lista e clicar na opção \n“Marcador”."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Qual das opções abaixo é a estrutura básica das \nplanilhas no MS -Excel 2016?",
+            "alternativas": {
+                "A": "Células, linhas e páginas",
+                "B": "Pastas , linhas e abas",
+                "C": "Colunas, linhas e abas",
+                "D": "Células, colunas e páginas",
+                "E": "Colunas, linhas e páginas  \n \n \n \n \n \n \n QUESTÃO 29 \n \n Qual a estrutura básica das apresentações no \nMS-PowerPoint 2016?  \n(A) Painel de controle, conteúdo, síntese e \nrevisão.  \n(B) Introdução, conteúdo, tópicos e conclusão.  \n(C) Conteúdo, layout, estilo e plano.  \n(D) Apresentação, imagens, texto e layout.  \n(E) Introdução, elementos, tópicos e conclusão."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: O que é uma janela de navegação?",
+            "alternativas": {
+                "A": "Uma janela de navegação é um serviço de \nstreaming de vídeos.",
+                "B": "Uma janela de navegação é uma janela de \nbusca na internet.",
+                "C": "Uma janela de navegação é uma janela que \nexibe o conteúdo da web.",
+                "D": "Uma janela de navegação é uma janela que \narmazena cookie s.",
+                "E": "Uma janela de navegação é uma janela que \nexibe anúncios na web.  \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: A respeito do Estatuto da Pessoa com \nDeficiência, complete a lacuna e assinale a \nalternativa correta.  \n_________________atitudes ou \ncomportamentos que impeçam ou \nprejudiquem a participação social da pessoa \ncom deficiência em igualdade de condições e \noportunidades com as demais pessoas.",
+            "alternativas": {
+                "A": "barreiras atitudinais.",
+                "B": "barreiras urbanísticas.",
+                "C": "barreiras ar quitetônicas.",
+                "D": "barreiras nos transportes.",
+                "E": "barreiras nas comunicações e na \ninformação.  \n Prefeitura  Municipal de Itapecerica da Serra  - SP – Concurso Público  01/2023             INSTITUTO AVANÇA SÃO PAULO  \n \n \nCUIDADOR                                                                                                                                                     Página 9 de 12 QUESTÃO 32  \nDe acordo com o Art. 27 da Lei n.º \n13.146/2015 (Lei de Inclusão da Pessoa com \nDeficiência), Assinale a alternativa \nCORRETA:  \n(A) A educação constitui dever da pessoa \ncom deficiência, assegurados sistema \neducacional inclusivo em níveis \nfundamentais e aprendizado ao longo de toda \na vida, de forma a alcançar o máximo \ndesenvolvimento possível de seus talentos e \nhabilidades emocionais, sensoriais, \nintelectuais e sociais, segundo suas \ncaracterísticas, interesses e necessidades de \naprendizagem.  \n(B) A educação constitui direito da pessoa \ncom deficiência, assegurados sistema \neducacional exclusivo em todos os níveis e \naprendizado ao longo de toda a vida,  de forma \na alcançar o minímo desenvolvimento \npossível de seus talentos e habilidades físicas, \nsensoriais, intelectuais e sociais, segundo \nsuas características, interesses e necessidades \nde aprendizagem.  \n(C) A educação constitui dever da pessoa com \ndeficiê ncia, assegurados sistema educacional \nexclusivo em níveis superiores e aprendizado \nao longo de toda a vida, de forma a alcançar \no minímo desenvolvimento possível de seus \ntalentos e habilidades físicas, sensoriais, \nintelectuais e sociais, segundo suas \ncarac terísticas, interesses e necessidades de \naprendizagem.  \n(D) A educação constitui direito da pessoa \ncom deficiência, assegurados sistema \neducacional inclusivo em todos os níveis e \naprendizado ao longo de toda a vida, de forma \na alcançar o máximo desenvolvime nto \npossível de seus talentos e habilidades físicas, \nsensoriais, econômicas e sociais, segundo \nsuas características, interesses e necessidades \nde aprendizagem.  \n(E) A educação constitui direito da pessoa \ncom deficiência, assegurados sistema \neducacional incl usivo em todos os níveis e \naprendizado ao longo de toda a vida, de forma \na alcançar o máximo desenvolvimento \npossível de seus talentos e habilidades físicas, \nsensoriais, intelectuais e sociais, segundo \nsuas características, interesses e necessidades \nde apr endizagem.  QUESTÃO 33  \nA respeito higiene pessoal, analise os itens a \nseguir e assinale a alternativa INCORRETA:  \nI - tomar banho diariamente.  \nII - escovar os dentes no máximo 2 vezes ao \ndia (depois das refeições).  \nIII - usar roupa s limpa s, cuidar dos cabelos e \ndas unhas.  \n(A) I apenas  \n(B) II apenas  \n(C) III  apenas  \n(D) I e II apenas.  \n(E) Todos os itens estão corretos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Em relação ao Programa de Proteção a \nCrianças e Adolescentes Ameaçados de Morte \n(PPCAAM), assinale a alternativa incorreta.  \nA) As ações do PPCAAM podem ser \nestendidas a jovens com até dezoito anos, se \negressos do sistema socioeducativo.  \n(B) A proteção poderá ser estendida aos pais \nou responsáveis, ao cônjuge ou companheiro, \nascendentes, descendentes, dependentes, \ncolaterais e aos que tenham, \ncomprovadamente, convivência habitual com \no ameaçado, a fim de preservar a convivência \nfamiliar.  \n(C) Poderão compor o conselho gestor \nrepresentantes da Defensoria Pública, dos \nCentros de Defesa dos Direitos da Criança e do \nAdolescente, dos  Conselhos Estaduais dos \nDireitos da Criança e do Adolescente, \nConselhos Tutelares e de entidades de \npromoção e defesa de direitos da criança e do \nadolescente.  \n(D) Poderão ser convidados para participar das \nreuniões do conselho gestor representantes do \nMinistério Público e do Poder Judiciário.  \n(E) União poderá celebrar convênios com os \nEstados, Distrito Federal, Municípios e \nentidades não -governamentais para a \nimplementação do PPCAAM, de acordo com \nas regras a serem estabelecidas em ato do \nSecretário Espec ial dos Direitos Humanos.  \n \n \n Prefeitura  Municipal de Itapecerica da Serra  - SP – Concurso Público  01/2023             INSTITUTO AVANÇA SÃO PAULO  \n \n \nCUIDADOR                                                                                                                                                     Página 10 de 12 QUESTÃO 35  \nÉ muito importante que a criança ajude nos \nafazeres domésticos, escolhendo atividades de \nacordo com a sua idade. As atividades são \npermitidas  desde que atendam alguns \nrequisitos. EXCETO:",
+            "alternativas": {
+                "A": "as tarefas sejam apropriadas à idade.",
+                "B": "não apresentem riscos.",
+                "C": "sejam supervisionadas por um \nirresponsável .",
+                "D": "não interfiram no tempo da escola, \ndescanso,  lazer e brincadeiras .",
+                "E": "não sejam excessivas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: De acordo com o art. 98 da lei 8069/90. As \nmedidas de proteção à criança e ao adolescente \nsão aplicáveis sempre que os direitos \nreconhecidos nesta Lei forem ameaçados ou \nviolados:  \nI - por ação ou omissão da sociedade ou do \nEstado . \nII - por falta, omissão ou abuso dos pais ou \nresponsável . \nIII - em razão de sua conduta.  \nEstão corretos os itens:",
+            "alternativas": {
+                "A": "I apenas",
+                "B": "II e III  apenas",
+                "C": "I e II  apenas",
+                "D": "I e III apenas.  \n(E ) Todos os itens estão corretos.  \n \n \n \n \n \n \n QUESTÃO 37  \nAcerca do Direito à Convivência Familiar e \nComunitária, assinale a alternativa correta.  \n(A) toda criança ou adolescente que estiver \ninserido em programa de acolhimento familiar \nou institucional terá sua situação reavaliada, no \nmáximo, a cada 2 (dois) meses.  \n(B) permanência da criança e do adolescente \nem programa de acolhimento institucional não \nse prolongará por mais de 18 (dezoito meses), \nem nenhuma hipótese.  \n(C) Não será garantida a convivência integral \nda crian ça com a mãe adolescente que estiver \nem acolhimento institucional.  \n(D) A mãe adolescente será assistida por \nequipe especializada multidisciplinar.",
+                "E": "Os detentores da guarda possuem o prazo \nde 30 (trinta) dias para propor a ação de \nadoção, contado do dia seguinte à data do \ntérmino do estágio de convivência."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: De acordo com o Estatuto Da Criança e do \nAdolescente - Lei nº 8.069 de 1990. Título II - \nDos Direitos Fundamentais, Capítulo I - Do \nDireito à Vida e à Saúde, assinale a alternativa \nincorreta.",
+            "alternativas": {
+                "A": "A criança e o adolescente têm direito a \nproteção à vida e à saúde, mediante a \nefetivação de políticas sociais públicas que \npermitam o nascimento e o desenvolvimento \nsadio e harmonioso, em condições dignas de \nexistência.",
+                "B": "É assegurado a to das as mulheres o acesso \naos programas e às políticas de saúde da \nmulher e de planejamento reprodutivo e, às \ngestantes, nutrição adequada, atenção \nhumanizada à gravidez, ao parto e ao puerpério \ne atendimento pré -natal, perinatal e pós -natal \nintegral no âmb ito do Sistema Único de Saúde",
+                "C": "O atendimento pré -natal será realizado por \nprofissionais da atenção secundária.",
+                "D": "A gestante e a parturiente têm direito a 1 \n(um) acompanhante de sua preferência durante \no período do pré -natal, do trabalho de parto e \ndo pós-parto imediato",
+                "E": "Os serviços de unidades de terapia \nintensiva neonatal deverão dispor de banco de \nleite humano ou unidade de coleta de leite \nhumano.  \n \n Prefeitura  Municipal de Itapecerica da Serra  - SP – Concurso Público  01/2023             INSTITUTO AVANÇA SÃO PAULO  \n \n \nCUIDADOR                                                                                                                                                     Página 11 de 12 QUESTÃO 39  \nA respeito do Estatuto da Pessoa com \nDeficiência, analise as afirmativas abaixo e \nassina le verdadeiro (V) ou falso (F). Em \nseguida, assinale a alternativa com a sequência \ncorreta.  \n \n(  ) barreiras urbanísticas: as existentes nas vias \ne nos espaços públicos e privados abertos ao \npúblico ou de uso coletivo.  \n(  ) barreiras arquitetônicas: as exis tentes nos \nedifícios públicos e privados.  \n(  ) barreiras nos transportes: as existentes nos \nsistemas e meios de transportes.  \n(A) F  F  F.  \n(B) V V V.  \n(C) V F V.  \n(D) V V F.  \n(E) F F V."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: De acordo Programa de Proteção a Crianças e \nAdolescentes Ameaçados de Morte \n(PPCAAM). Art. 7º. O PPCAAM compreende \nas seguintes ações, aplicáveis isolada ou \ncumulativamente, em benefício do protegido: \nEXCETO:",
+            "alternativas": {
+                "A": "transferência de residência ou acomodação \nem ambiente compatível com a proteção.",
+                "B": "inserção dos protegidos em programas \nsociais visando à proteção integral.",
+                "C": "apoio e assistência social, jurídica, \npsicológica, pedagógica e financeira.",
+                "D": "apoio ao protegido, quando necessário, para \no cumprimento de obrigações civis e \nadministrativas que  exijam seu \ncomparecimento.",
+                "E": "propor ações de atendimento e de inclusão \nsocial aos protegidos, por intermédio da \ncooperação com instituições públicas \nresponsáveis pela garantia dos direitos \nprevistos na Lei nº 8.096, de 19 70. \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de Itapecerica da Serra  - SP – Concurso Público  01/2023             INSTITUTO AVANÇA SÃO PAULO  \n \n \nCUIDADOR                                                                                                                                                     Página 12 de 12"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Ao afirmar que “a caverna é incrivelmente especial”, o responsável pela conservação da caverna se \nrefere:  \n(A)à quantidade de turist as que a caverna atrai por ano.  \n(B)às evidências da origem da caverna.  \n(C)às obras de arte que foram preservadas no interior da caverna.  \n(D)ao retorno lucrativo das visitas à caverna para a cidade.  \n(E)às pesquisas realizadas na caverna.  \nQUESTÃO 02  \nConsidere o excerto:  “Principalmente porque não existe documentação sobre a sua existência antes \ndaquela descoberta acidental.” Neste contexto, o pronome “sua” se refere:  \n(A)à caverna misteriosa.  \n(B)ao símbolo de fertilidade sheela na gig.  \n(C)à cidade de Royston.  \n(D)à Linha de Michael.  \n(E)à Santa Catarina.  Prefeitura Municipal de Vinhedo/S P – Processo Seletivo 01/2023                                    INSTITUTO AVANÇA SÃO PAULO  \n \nCUIDADOR                                                                                                                                                   Página 4 de 14 QUESTÃO 03  \nConsidere o excerto \"Embora se acredite que a caverna tenha sido pintada com cores brilhantes, muito \npouco pigmento ainda permanece\". A oração que inicia o período expressa valor:  \n(A)concessivo.  \n(B)condicional.  \n(C)explicativo.  \n(D)comparativo.  \n(E)causal.  \nQUESTÃO 04  \nConsidere o seguinte excerto: “E, para tornar os entalhes ainda mais assustadores, havia sua execução \nrudimentar, quase infantil.” Em relação às categorias gramaticais, as palavras “para”, “entalhes”, \n“ainda”, “sua” e “quase” no excerto dado são classificadas, respectivamente, como:  \n(A)conjunção, substantivo, substantivo, pronome, advérbio.  \n(B)preposição, substantivo, advérbio, pronome, advérbio.  \n(C)preposição, adjetivo, substantivo, artigo, advérbio.  \n(D)conjunção, ad jetivo, advérbio, artigo, adjetivo.  \n(E)preposição, substantivo, advérbio, pronome, adjetivo.  \nQUESTÃO 05  \nConsidere o seguinte excerto:  \nI. “Na verdade, são histórias de terror góticas”  \nEm relação à regência nominal, assinale a alternativa que apresenta o termo regente e seu respectivo \ntermo regido na sentença dada.  \n(A)verdade - histórias.  \n(B)histórias - de. \n(C)são - terror góticas.  \n(D)histórias - terror.  \n(E)são - histórias.  \nQUESTÃO 06  \nConsidere os excertos:  \nI. “Nem a presença de símbolos pagãos, como a sheel a na gig , é tão misteriosa.”  \nII. “Cada vez surgem mais teorias sobre o seu propósito”  \nNas sentenças dadas, os verbos “é” e “surgem” são, respectivamente:",
+            "alternativas": {
+                "A": "I. verbo de ligação; II. verbo transitivo direto.",
+                "B": "I. verbo de ligação; II. verbo transitivo indireto .",
+                "C": "I. verbo transitivo direto; II. verbo transitivo direto.",
+                "D": "I. verbo transitivo direto; II. verbo transitivo indireto.",
+                "E": "I. verbo de ligação; II. verbo intransitivo.  Prefeitura Municipal de Vinhedo/S P – Processo Seletivo 01/2023                                    INSTITUTO AVANÇA SÃO PAULO  \n \nCUIDADOR                                                                                                                                                   Página 5 de 14 QUESTÃO 07  \nConsidere os excertos:  \nI. “Alguém, provavelmente em meados ou no final dos anos 1300, fez aquelas inscrições”  \nII. “o que dá credibilidade à teoria de que a caverna servia a este tipo de função.”  \nAs palavras “alguém” e “este” nas sentenças dadas são, respectivamente:  \n(A)pronome pessoal, pronome relativo.  \n(B)pronome indefinido, pronome i ndefinido.  \n(C)pronome relativo, pronome demonstrativo.  \n(D)pronome pessoal, pronome indefinido.  \n(E)pronome indefinido, pronome demonstrativo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Analise as palavras:  \n I. incrivelmente e II. desobstrução e assinale a alternativa que apresenta todos os afixos que foram \nincorporados às respectivas palavras primitivas em seus processos de derivação.  \n(A)I. -mente; II. -ção. \n(B)I. in-, -vel, -mente; II. des -, -ção. \n(C)I. in-; II. des -. \n(D)I. incrível -; II. -ção. \n(E)I. in-, -mente; II. -ção. \nQUESTÃO 09  \nAs palavras “serelepes” e “ anunciaram” são flexionadas, respectivamente, em:  \n(A)número; tempo, modo, pessoa e número.  \n(B)número e gênero; tempo, modo, pessoa e gênero.  \n(C)gênero; tempo e pessoa.  \n(D)número; tempo, modo e gênero.  \n(E)número e gênero; tempo.  \nQUESTÃO 10  \nAssinale a alternativa que apresenta a conjunção que expressa valor adversativo.  \n(A)contudo.  \n(B)conforme.  \n(C)caso.  \n(D)conquanto.  \n(E)quando.  \n \n \n \n \n \n Prefeitura Municipal de Vinhedo/S P – Processo Seletivo 01/2023                                    INSTITUTO AVANÇA SÃO PAULO  \n \nCUIDADOR                                                                                                                                                   Página 6 de 14 MATEMÁTICA E RACIOCÍNIO L ÓGICO  \nQUESTÃO 11  \nSabendo -se que a razão entre os lados maior e menor de um retângulo é 4/3, e que a diagonal mede 5 \ncm, o perímetro desse retângulo é:",
+            "alternativas": {
+                "A": "12 cm.",
+                "B": "14 cm.",
+                "C": "8 cm.",
+                "D": "10  cm.",
+                "E": "16 cm."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Ana, Beatriz e Carolina são três amigas. Assuma verdadeira as seguintes proposições:  \n \nI - Ana é um ano mais nova que Beatriz;  \nII – A soma das idades de Carolina e Ana, subtraída da idade de Beatriz é igual a 12;  \nIII – Carolina é um ano mais velha que Beatriz;  \nQual a soma das idades de Ana, Beatriz e Carolina?",
+            "alternativas": {
+                "A": "36.",
+                "B": "38.",
+                "C": "49 .",
+                "D": "62.",
+                "E": "76."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Observe a sequência:  \n2, 3, 5, 8, 12, 17, …  \nMantendo a mesma regularidade, o próximo elemento desta sequência será:",
+            "alternativas": {
+                "A": "21.",
+                "B": "24.",
+                "C": "25.",
+                "D": "22.",
+                "E": "23."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: A razão entre livros de literatura e livros de matemática numa determinada biblioteca é 4/5. Sabe -se \nque há 200 livros de matemática atualmente. Se a biblioteca ganhar mais 60 livros de literatura, qual \nserá a nova razão entre livros de literatura e matemática?",
+            "alternativas": {
+                "A": "31/20.",
+                "B": "10/11.",
+                "C": "11/10.",
+                "D": "20/31.",
+                "E": "5/4.  \n Prefeitura Municipal de Vinhedo/S P – Processo Seletivo 01/2023                                    INSTITUTO AVANÇA SÃO PAULO  \n \nCUIDADOR                                                                                                                                                   Página 7 de 14 QUESTÃO 15 \nUma cliente decide comprar uma mercadoria de R$ 1.200,00 parcelada em 10 vezes com juros simples \nde 2% ao mês. Ao final, o total pago pela cliente será:  \n(A) R$ 2.400,00.  \n(B) R$ 1.480,00.  \n(C) R$ 1.460 ,00. \n(D) R$ 2.440,00.  \n(E) R$ 1.440,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: A média de horas extras trabalhadas de 10 trabalhadores foi 11,0. Sabendo -se que se excluirmos o \nmaior e o menor valor dessa lista a nova média se mantém inalterada, indique a soma entre o maior e \no menor valor:",
+            "alternativas": {
+                "A": "22.",
+                "B": "11.",
+                "C": "24.",
+                "D": "20.",
+                "E": "12."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Uma frota de 20 caminhões consomem juntos 800 litros de óleo diesel em 24 horas. A gerência decidiu \nque vai substituir cada caminhão por um modelo mais econômico que consome 20% menos em relação \nao modelo atual. Abastecendo a mesma quantidade de óleo, quantas horas a mais a nova frota poderá \nrodar em relação à atual?",
+            "alternativas": {
+                "A": "3.0.",
+                "B": "4.8.",
+                "C": "6.4.",
+                "D": "6.0.",
+                "E": "0.6."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Uma transportadora precisa levar para uma excursão 100 pessoas do time A e 60 pessoas do time B. \nEles devem alocar as pessoas em ônibus de forma que:  \n• Todos os ônibus tenham a mesma quantidade de pessoas;  \n• No mesmo ônibus não pode haver pessoas de times diferentes.  \nDesta forma, o menor número de ônibus que a transportadora precisará utilizar será:",
+            "alternativas": {
+                "A": "9.",
+                "B": "8.",
+                "C": "5.",
+                "D": "3.",
+                "E": "20.  \n \n Prefeitura Municipal de Vinhedo/S P – Processo Seletivo 01/2023                                    INSTITUTO AVANÇA SÃO PAULO  \n \nCUIDADOR                                                                                                                                                   Página 8 de 14 QUESTÃO 19 \nUm hexágono regular pode ser formado com seis triângulos equiláteros de lado a, indique a área deste \nhexágono:  \n(A) 𝑎2√3\n2. \n(B) 𝑎2√3\n4. \n(C) 3𝑎2√3\n2. \n(D) 3𝑎2√3\n4. \n(E) 6𝑎2√3\n2."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Observe a sequência a seguir feita com palitos de fósforo:  \n \nQuantos palitos serão utilizados para fazer o desenho do 52° elemento dessa sequência?",
+            "alternativas": {
+                "A": "160.",
+                "B": "109.",
+                "C": "112.",
+                "D": "82.",
+                "E": "96.  \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Pedro, jovem aprendiz, começou recentemente em seu primeiro emprego. Preocupado com o seu futuro \ne buscando o equilibrio financeiro, decidiu registrar todos os seus gastos mensais, para que pudesse ter \nmaior autonomia sobre o dinheiro gasto comparando -o com o salário ganho. Neste sentido, Pedro \ncolocou todas as suas despesas em uma Planilha no Excel, todavia, não sabia qual a formula correta a \nser utilizada para fazer a somatória de suas despesas. Diante da situação narrada, indique a alternativa \nque conten ha corretamente a formula a ser utilizada por Pedro para realizar a somatória de todas as \ndespesas.",
+            "alternativas": {
+                "A": "=MÉDIA.",
+                "B": "=PROCV.",
+                "C": "=MÁXIMO.",
+                "D": "=SOMA.",
+                "E": "=SE.  \nPrefeitura Municipal de Vinhedo/S P – Processo Seletivo 01/2023                                    INSTITUTO AVANÇA SÃO PAULO  \n \nCUIDADOR                                                                                                                                                   Página 9 de 14 QUESTÃO 22 \nMaria está cursando o primeiro semestre da faculdade e um de seus professores passou uma atividade \npara ser entregue, sendo que, o trabalho deve conter a fonte, o tamanho da fonte e o espaçamento entre \nlinhas seguindo a base de um texto simples em conformidade com as normas da ABNT. Neste sentido, \nqual a formatação corre ta que Maria deverá utilizar em seu trabalho?  \n(A) Fonte: Calibri; Tamanho da Fonte: 11; Espaçamento entre linhas: 1,0.  \n(B) Fonte: Verdana; Tamanho da Fonte: 13; Espaçamento entre linhas: 1,0.  \n(C) Fonte: Arial; Tamanho da Fonte: 12; Espaçamento entre linhas: 1,5.  \n(D) Fonte: Times New Roman; Tamanho da Fonte: 14; Espaçamento entre linhas: 2,0.  \n(E) Fonte: Arial; Tamanho da Fonte: 11; Espaçamento entre linhas: 1,0."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Leia o trecho a seguir a assinale a alternativa que atende corretamente ao conce ito trazido no texto:  \n“Serviço de comunicação eletrônica que permite o envio, recebimento e armazenamento de mensagens \neletrônicas entre pessoas ou organizações.”",
+            "alternativas": {
+                "A": "Painel de controle.",
+                "B": "Bloco de notas.",
+                "C": "MS -PowerPoint.",
+                "D": "MS -Word.",
+                "E": "Correio eletrônico."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Ana fechou um contrato de compra e venda de um apartamento, durante o trâmite de assinatura do \ncontrato a empreiteira pediu que Ana enviasse através de e -mail, os seus documentos pessoais originais \npara análise. Diante da sol icitação da empreiteira, assinale a alternativa que contenha a forma correta \nde Ana fazer o envio dos documentos.",
+            "alternativas": {
+                "A": "Ana deverá escanear / digitalizar os documentos solicitados e enviar para a empreiteira através de \ne-mail.",
+                "B": "Ana deverá imprimir os documentos solicitados e enviar para a empreiteira.",
+                "C": "Ana deverá redigir os documentos solicitados e enviar para a empreiteira através de e -mail.",
+                "D": "Ana deverá fotografar de forma ilegível os documentos solicitados e enviar para a empreiteira \natravés de e -mail.",
+                "E": "Ana deverá tirar uma cópia física dos documentos solicitados e enviar para a empreiteira."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Assinale a alternativa que preencha corretamente a lacuna do seguinte trecho:  \n“É uma estrutura hierárquica que permite a criação de uma organização lógica dos dados no sistema \noperacional. As __________ permitem agrupar e categorizar os arquivos de acordo com critérios \nespecíficos, facilitando a localização e o acesso a eles.",
+            "alternativas": {
+                "A": "Configurações.",
+                "B": "Pastas.",
+                "C": "Atualizações d o Windows.",
+                "D": "Apresentações em Slides.",
+                "E": "Formatações no Word.  Prefeitura Municipal de Vinhedo/S P – Processo Seletivo 01/2023                                    INSTITUTO AVANÇA SÃO PAULO  \n \nCUIDADOR                                                                                                                                                   Página 10 de 14 CONHECIMENTOS ESPC ÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: 6 \nQual é o significado da sigla \"CAPS\"?",
+            "alternativas": {
+                "A": "Centros de Atenção Psicossocial",
+                "B": "Conselho de Acompanhamento de \nProgramas Sociais",
+                "C": "Coletivo de Artistas e Produtores Sociais",
+                "D": "Comitê de Atendimento Psicossocial",
+                "E": "Centro de Atendimento Psicológico e Social"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: De acordo com o Estatuto da Criança e do \nAdolescente, Capítulo III - Do Direito à \nConvivência Familiar e Comunitária, assinale a \nalternativa correta.",
+            "alternativas": {
+                "A": "É direito da criança e do adolescente ser \ncriado e educado no seio de sua família e em \nnenhuma hipotese ter uma família substituta.",
+                "B": "É dever da criança e do adolescente ser \ncriado e educado no seio de sua família e, \nexcepcionalmente, em família substituta, \nassegurada a convivência familiar e \ncomunitária, em ambiente que prejudique seu \ndesenvolvimento integral.",
+                "C": "É direito da criança e do adolescente ser \ncriado e educado no seio de sua família e, \nexcepcionalmente, em família substituta, \nassegurada a convivência familiar e \ncomunitária, em ambiente que garanta seu \ndesenvolvimento integral.",
+                "D": "É direito da criança e do adolescente ser \ncriado  e educado em família substituta, \nassegurada a convivência familiar e comunitária \ne, excepcionalmente, no seio de sua família.",
+                "E": "É dever da criança e do adolescente ser \ncriado e educado no seio de sua família parterna \ne, excepcionalmente, em família com a familia \nmaterna.  \n \n \n \n \n \n QUESTÃO 28  \nDe acordo com Lei Orgânica de Assistência \nSocial, As instâncias deliberativas do Suas, de \ncaráter permanente e composição paritária entre \ngoverno e sociedade civil, são:   \n \nI - o Conselho Nacional de Assistência Social;  \nII - os Conselhos Estaduais de Assistência Social;  \nIII - o Conselho de Assistência Social do Distrito \nFederal;  \nIV - os Conselhos Municipais de Assistência \nSocial.  \n(A) I apenas  \n(B) II apenas  \n(C) III  apenas  \n(D) I e II apenas.  \n(E ) Todos os itens estão corretos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: De acordo com a Lei nº 13.146. Institui a Lei \nBrasileira de Inclusão da Pessoa com \nDeficiência, assinale a alternativa correta.",
+            "alternativas": {
+                "A": "Considera -se pessoa com deficiência \naquela que tem impedimento de curto prazo \napenas.",
+                "B": "Considera -se pessoa com deficiência \napenas aquela que possui um impedimento físico.",
+                "C": "Considera -se pessoa com deficiência \naquela que tem um impedimento apenas mental.",
+                "D": "Considera -se pessoa com deficiência \napenas aquela que possui um impedimento \nsensorial.",
+                "E": "Cons idera -se pessoa com deficiência \naquela que tem impedimento de longo prazo de \nnatureza física, mental, intelectual ou sensorial, o \nqual, em interação com uma ou mais barreiras, \npode obstruir sua participação plena e efetiva na \nsociedade em igualdade de cond ições com as \ndemais pessoas.  \n \n \n \n \n Prefeitura Municipal de Vinhedo/S P – Processo Seletivo 01/2023                                    INSTITUTO AVANÇA SÃO PAULO  \n \nCUIDADOR                                                                                                                                                   Página 11 de 14 QUESTÃO 30  \nDe acordo com o Estatuto do Idoso, Art. 9º.  \nDe quem é a obrigação de garantir à pessoa idosa \na proteção à vida e à saúde, mediante efetivação \nde políticas sociais públicas que permitam um \nenvelhecimento saudável e em condições de \ndignidade.  \n(A) Apenas da família.  \n(B) Apenas da comunidade.  \n(C) Do Estado . \n(D) Apenas do poder Judiciário.  \n(E) Da família, da comunidade, da sociedade e \ndo poder público."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Analise os itens abaixo de acordo  com o \nBenefício de Prestação Continuada.  \n \nI - O benefício de prestação continuada é a \ngarantia de um salário -mínimo mensal à pessoa \ncom deficiência e ao idoso com 65 (sessenta e \ncinco) anos ou mais que comprovem não possuir \nmeios de prover a própria manutenção n em de tê -\nla provida por sua família.  \nII - Para efeito de concessão do benefício de \nprestação continuada, considera -se pessoa com \ndeficiência aquela que tem impedimento de \nlongo prazo de natureza física, mental, \nintelectual ou sensorial, o qual, em interaçã o com \numa ou mais barreiras, pode obstruir sua \nparticipação plena e efetiva na sociedade em \nigualdade de condições com as demais pessoas.  \nIII - O benefício de prestação continuada ou o \nbenefício previdenciário no valor de até 1 (um) \nsalário -mínimo concedid o a idoso acima de 55 \n(cinquenta e cinco) anos de idade ou pessoa com \ndeficiência não será computado, para fins de \nconcessão do benefício de prestação continuada \na outro idoso ou pessoa com deficiência da \nmesma família, no cálculo da renda  \nEstão corretos os itens:",
+            "alternativas": {
+                "A": "I apenas",
+                "B": "II e III  apenas",
+                "C": "I e II  apenas",
+                "D": "I e III apenas.  \n(E ) Todos os itens estão corretos.  QUESTÃO 32  \nDe acordo com Lei Orgânica de Assistência \nSocial, O Cras é a unidade pública municipal, de \nbase territorial,  e costuma ser localizada  qual \nárea?   \n(A) Áreas com maiores índices de \nvulnerabilidade e risco social.  \n(B) Regiões urbanas com alto índice de \ndesenvolvimento econômico.  \n(C) Bairros residenciais de classe alta.  \n(D) Zonas rurais com baixa densidade \npopulacional.",
+                "E": "Centros comerciais e empresariais."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: De acordo com a Política Nacional do Idoso (Lei \nnº 8.842, de 4 de janeiro de 1994).  Considera -se \nidoso:",
+            "alternativas": {
+                "A": "A pessoa com idade igual ou superior a 50 \nanos.",
+                "B": "A pessoa com idade igual ou superior a 45 \nanos.",
+                "C": "A pessoa  maior de sessenta anos de idade.",
+                "D": "Apenas  pessoa s  maior de oitenta anos de \nidade.",
+                "E": "A pessoa com idade igual ou superior a 55 \nanos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: As instâncias deliberativas do Suas, de caráter \npermanente e composição paritária entre governo \ne sociedade civil, são:     \n(  ) - o Conselho Nacional de Assistência Social;  \n( ) - os Conselhos Estaduais de Assistência \nSocial;  \n(  ) - o Conselho de Assistênc ia Social do Distrito \nFederal;  \n( ) - os Conselhos Municipais de Assistência \nSocial.",
+            "alternativas": {
+                "A": "F  F  F F",
+                "B": "V V V V",
+                "C": "V F V F",
+                "D": "V V F F",
+                "E": "F F V V  Prefeitura Municipal de Vinhedo/S P – Processo Seletivo 01/2023                                    INSTITUTO AVANÇA SÃO PAULO  \n \nCUIDADOR                                                                                                                                                   Página 12 de 14 QUESTÃO 35  \nDe acordo com o Estatuto da Pessoa Idosa.  \nComplete a lacuna.  \nEm todo atendimento de saúde, os maiores de \n____________ anos terão preferência especial \nsobre as demais pessoas idosas, exceto em caso \nde emergência.  \n(A) 60 sessenta.  \n(B) 65 sessenta e cinco.  \n(C) 70 setenta.  \n(D) 75 setenta e cinco.  \n(E) 80 oitenta."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CUIDADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: De acordo com o Estatuto da Criança e do \nAdolesce nte, Capítulo IV - Das Medidas Sócio -\nEducativas.  \nVerificada a prática de ato infracional, a \nautoridade competente poderá aplicar ao \nadolescente as seguintes medidas:  \nEstão incorretos os itens:  \nI - advertência;  \nII - obrigação de reparar o dano;  \nIII – prisão  perpetua.",
+            "alternativas": {
+                "A": "I apenas",
+                "B": "II e III  apenas",
+                "C": "I e II  apenas",
+                "D": "III apenas.  \n(E ) Todos os itens estão corretos.  \nQUESTÃO 37  \nDe acordo com a Lei nº 13.146. Institui a Lei \nBrasileira de Inclusão da Pessoa com \nDeficiência, assinale a alternativa correta.  \nConsidera -se barreiras nos transportes:  \n(A) A inexistência de qualquer barreira nos \nsistemas de transporte.  \n(B) A presença de barreiras físicas em parques \ne áreas recreativas.  \n(C) as existentes nos edifícios públicos e \nprivados;  \n(D) as existentes nas vias e nos espaços \npúblicos.",
+                "E": "as existentes nos sistemas e meios de \ntransportes;  \n \n \n QUESTÃO 38  \nDe acordo com a Lei nº 13.146. Institui a Lei \nBrasileira de Inclusão da Pessoa com \nDeficiência, assinale a alternativa correta.  \nConsidera -se barreiras arquitetônicas:  \n \n(A) A inexistência de qualquer tipo de barreira \nnos edifícios.  \n(B) A existência de barreiras apenas nos \nedifícios públicos.  \n(C) A presença de barreiras apenas nos \nedifícios privados.  \n(D) as existentes nas vias e nos espaços \npúblicos e privados abertos ao público ou de uso  \ncoletivo.  \n(E) As existentes nos edifícios públicos e \nprivados."
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

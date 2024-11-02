@@ -1,3 +1,368 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e58532eb39e1bb85ac6bcf46367ddf0b0c4578cdee16d324cd086964b67aff92
-size 34702
+{
+    "ARQUITETO E URBANISTA": [
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: Assinale a alternativa que a autora induz o \npensamento de que somente no reino da \nfantasia poderiam existir coisas eternas:",
+            "alternativas": {
+                "A": "Peguei a pequena pastilha cor-de-rosa que \nrepresentava o elixir do longo prazer.",
+                "B": "“[...] parecia-se ter sido transportada para \no reino de histórias de príncipes e fadas [...]”.",
+                "C": "E eis-me com aquela coisa cor-de-rosa, de \naparência tão inocente, tornando possível o \nmundo impossível do qual já começara a me \ndar conta.",
+                "D": "Jamais esquecerei o meu aflitivo e \ndramático contato com a eternidade.",
+                "E": "Eu que, como outras crianças, às vezes \ntirava da boca uma bala ainda inteira, para \nchupar depois, só para fazê-la durar mais.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 3 de 18QUESTÃO 02\n“Peguei a pequena pastilha cor-de-rosa que \nrepresentava o elixir do longo prazer [...]”.\nA palavra destacada no trecho, acima, pode \nser substituída sem perder seu sentido no \ntexto, por:\n(A) poção.\n(B) xarope.\n(C) algo muito saboroso.\n(D) algo milagroso.\n(E) algo que tudo cura."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: Assinale a alternativa que se contrapõe ao \ntexto:",
+            "alternativas": {
+                "A": "Clarice Lispector traz para os leitores o \nrelato breve de seu primeiro contato com o \nchiclete.",
+                "B": "Para a sua construção, a autora utiliza-se de \ndiversas figuras de linguagem",
+                "C": "A crônica que faz uma reflexão a respeito \nde um dos maiores medos da humanidade, que \né a morte.",
+                "D": "Induz o leitor a refletir a respeito da \neternidade, algo complexo para a mentalidade \nfinita do ser humano.",
+                "E": "A crônica apresenta um narrador, em \n3ª pessoa, que conta as memórias de uma \nsituação vivida na infância.QUESTÃO 04\nAssinale a alternativa correta, em relação às \norações, abaixo, quanto ao seu processo de \nformação de palavras:\nI-Aquela moça tem um andar charmoso. \n(regressiva).\nII – Voltamos ao entardecer (prefixal e sufixal)\nIII- O sim da noiva espalhou-se por toda a \nigreja (imprópria)\nIV- Infelizmente, não fomos à inauguração da \npraça. (parassintética)\nV- Tempero salada com bastante vinagre. \n(aglutinação)\n(A) Apenas a I, II e III estão corretas.\n(B) Apenas a II e IV estão corretas.\n(C) Apenas a III e V estão corretas.\n(D) Apenas a I, III e V estão corretas.\n(E) Apenas a III e IV estão corretas.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 4 de 18"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: Analise as placas, abaixo, e assinale a alternativa correta, quanto à concordância nominal:\nI- \n       \n                                                                                                         II-\nIII -",
+            "alternativas": {
+                "A": "Apenas a I está correta.",
+                "B": "Apenas a II está correta.",
+                "C": "Apenas a III está correta.",
+                "D": "Apenas a I e III estão corretas.",
+                "E": "Apenas a II e III estão corretas.\nPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 5 de 18MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: {4x+10y=46\nx+y=10 \n{x-y=8\n6x+zy=10\nDados os sistemas de equações, acima, o valor da incógnita z para que esses sistemas tenham soluções \niguais é:",
+            "alternativas": {
+                "A": "-42",
+                "B": "40",
+                "C": "-44",
+                "D": "48",
+                "E": "-46"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: Em um estádio de futebol compareceram 1200 torcedores, dos quais 40% eram torcedores do time A \ne os demais torcedores do time B. Parte dos torcedores foram expulsos por má conduta, sendo 20% \ntorcedores do time A e x% do time B. Se, do número total de torcedores, 11% foram expulsos, o valor \nde x é",
+            "alternativas": {
+                "A": "2.",
+                "B": "3.",
+                "C": "4.",
+                "D": "5.",
+                "E": "6."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: Bento comprou algumas revistas de automobilismo e outras de arquitetura, num total de 36 revistas. \nSe a razão entre as revistas de automobilismo e as de arquitetura, respectivamente, foi de 2/7, logo, o \nnúmero de revistas de arquitetura compradas foi",
+            "alternativas": {
+                "A": "30.",
+                "B": "28.",
+                "C": "24.",
+                "D": "32.",
+                "E": "26. Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 6 de 18QUESTÃO 09\nAs mesadas de Bartolomeu e Pitágoras estão entre si assim como 5 está para 8. Se o quádruplo da \nmesada de Bartolomeu menos a quarta parte da mesada de Pitágoras equivale a R$180,00, então as \nmesadas dos sois totalizam:\n(A) R$130,00\n(B) R$210,00\n(C) R$150,00\n(D) R$170,00\n(E) R$220,00"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: 9,3 dm equivalem a:",
+            "alternativas": {
+                "A": "0,0093 hm.",
+                "B": "0,093 hm.",
+                "C": "0,93 hm.",
+                "D": "93 hm.",
+                "E": "930 hm.\nATUALIDADES"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: O Brasil queima no Norte e no Sul de seu território. Dados do MapBiomas mostram que 2.932.972 \nhectares foram consumidos por queimadas, nos primeiros sete meses do ano. Embora maior que o \nestado de Alagoas, essa área é 2% menor do que a que foi consumida pelo fogo no ano passado. \nPorém, dois biomas têm se destacado com aumento na área afetada pelo fogo. Em um dos biomas, o \nfogo atingiu uma área de 1.479.739 hectares (aumento de 7%), enquanto que no outro foram 28.610 \nhectares queimados (aumento de 3,372%) entre janeiro e julho de 2022. (Retirado e modificado de \nmapbiomas.org – Dados sobre queimadas no brasil de janeiro a julho de 2022.)\nO trecho, acima, faz menção a dois biomas brasileiros que, entre janeiro e julho de 2022, sofreram \nimpactos em consequências das queimadas. Com base nos dados lidos e seus conhecimentos, escolha, \nabaixo, a alternativa que retrata de forma correta os dois biomas indicados, no trecho anterior.",
+            "alternativas": {
+                "A": "Caatinga e Mediterrâneo",
+                "B": "Pantanal e Pampa",
+                "C": "Cerrado e Mata Atlântica",
+                "D": "Amazônia e Pampa",
+                "E": "Floresta Boreal e AmazôniaPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 7 de 18QUESTÃO 12\nUma frente fria em uma região costeira foi capaz de canalizar a umidade da Amazônia em direção a \num estado que compõe a região sudeste do Brasil. Em razão do relevo do serrano, toda umidade ficou \ncontida na região. A interação complexa de fatores importantes na deflagração do processo de \nmovimentação de massa como: relevo, rocha, solo e vegetação; além das intensas chuvas  provocaram \ndiversos deslizamentos, além de intensas enchentes. Até 15 de março foram confirmadas 233 mortes \ne 4 desaparecimentos.  O evento descrito, anteriormente, diz respeito a:\n(A) Tragédia de Petrópolis – RJ em fevereiro de 2022.\n(B) Tragédia do Transbordamento de dique da barragem da Mina de Pau Branco.\n(C) Chuvas no nordeste brasileiro em função do aquecimento das águas oceânicas.\n(D) Tragédia do rompimento da barragem do Fundão – MG.\n(E) Tragédia de Pernambuco em Junho de 2022."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: O Projeto de Lei, número 191/20, que visa a regulamentar a exploração de recursos minerais, hídricos \ne orgânicos em reservas indígenas vai ao encontro das declarações do atual presidente, que desde a \nposse, defende o aproveitamento econômico de territórios indígenas. O projeto de lei pode ser \nentendido como uma consequência do atual conflito entre Ucrânia x Rússia, já que o Brasil:",
+            "alternativas": {
+                "A": "Importa a maior quantidade de carnes bovinas consumidas no país, da Rússia e dadas as sanções \nprecisa abrir novos espaços ao agronegócio.",
+                "B": "É um dos principais fornecedores de minério de ferro para fabricação de veículos de guerra da \nRussos.",
+                "C": "Teve perdas econômicas em razão das sanções aplicadas a Ucrânia e se inclina a buscar novas \njazidas minerais para sustentar a economia do carvão vegetal.",
+                "D": "Importa grandes quantidades de fertilizantes da Rússia que, em razão do conflito, tem passado \npor diversas sanções. A falta de fertilizantes impacta, diretamente, o agronegócio brasileiro sendo \nnecessário novas áreas de prospecção e extração de recursos que atendam a demanda nacional.",
+                "E": "Tem oferecido civis brasileiros ao exército ucraniano para ajudar no combate. Uma forma de \nfacilitar o envio de homens indígenas é desestabilizando suas propriedades."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Sobre as principais mudanças nas regras para as eleições de 2022, leia abaixo.\nI) A federação partidária, que visa a organizar os partidos em blocos, foi aprovada, em 2022.\nII) Os membros da federação partidária, a partir das eleições de 2022, deverão atuar juntos por um \nperíodo de 4 anos.\nIII) Emenda Constitucional 111, duplica o peso dos votos a mulheres e pessoas negras no cálculo dos \nfundos partidário e eleitoral.\nIV) Ao ato de posse, o presidente da República Federal do Brasil pode anunciar até três projetos de \nleis nacionais que são vetadas, instantaneamente, sem necessidade de votos de demais representantes \npolíticos.\nA opção que indica apenas alternativas verdadeiras é:",
+            "alternativas": {
+                "A": "Apenas III e IV (D) Apenas II e IV",
+                "B": "Apenas I e IV (E)  Apenas I e II",
+                "C": "Apenas I, II e IIIPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 8 de 18\nQUESTÃO 15\nExtraída de: www.fifa.com/fifaplus/pt/articles/copa-do-mundo-2022-selecoes-grupos-datas-ingressos.\nA figura, acima, retrata  a Copa do Mundo FIFA de 2022 a ser realizada, no Qatar. A disputa que \nocorrerá entre 21 de novembro e 18 de dezembro será a 22ª edição da competição, a primeira jogada \nno mundo árabe. Contando com 32 seleções classificadas e com grupos já sorteados, a FIFA anunciou \nno dia 03 de outubro que mais de 2,7 milhões de ingressos já foram vendidos. Desde o \npronunciamento que a copa do mundo FIFA 2022 será sediada no país as pesquisas sobre política, \neconomia, cultura e outros aspectos do Qatar tornaram-se destaque entre os sites de busca. Localizado \nno Oriente Médio o Qatar é considerado um dos países com maiores economias do planeta. Pode-se \nafirmar que o fator primordial quanto ao sucesso da economia do Qatar está, intrinsicamente, ligado \na:\n(A) Jazidas de hidrocarboneto\n(B) Agricultura\n(C) Exportação automobilística",
+                "D": "Fontes e pesquisas de energia nuclear",
+                "E": "Principal produtor e exportador de maquinários bélicos de alta impacto.\nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: Com relação ao Explorador de Arquivos do Windows, o atalho do teclado que fecha a janela ativa é \no mostrado, abaixo, em qual opção?",
+            "alternativas": {
+                "A": "Alt+F6.",
+                "B": "Ctrl + W.",
+                "C": "Shift+G.",
+                "D": "Alt+P.",
+                "E": "Ctrl+L.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 9 de 18QUESTÃO 17\nPara excluir um arquivo permanentemente n Windows podemos leva-lo até a lixeira e de lá removê-\nlo ou usar uma combinação de teclas. Assinale, abaixo, que combinação de teclas é essa.\n(A) Shift+Del.\n(B) Ctrl+O.\n(C) Alt+F4.\n(D) Shift+B.\n(E) Esc+L."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Fontes não são uma unanimidade, podem mudar de projeto para projeto, as padrão são em geral Arial, \nTimes New Roman e Calibri, porém podemos mudar para qualquer uma outra. Indique nas opções, \nabaixo, a extensão de arquivo mais comum para fontes a serem instaladas.",
+            "alternativas": {
+                "A": ".dll.",
+                "B": ".tft.",
+                "C": "ttf.",
+                "D": ".odt.",
+                "E": ".msi."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: Assinale, abaixo, a opção que traz a guia referente no MS Word a função Controlar Alterações.",
+            "alternativas": {
+                "A": "Correspondências.",
+                "B": "Referências.",
+                "C": "Inserir.",
+                "D": "Suplementos.",
+                "E": "Revisão.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 10 de 18QUESTÃO 20\nNo MS Word vemos a imagem, abaixo, ao executar uma função listada, abaixo. Analise a imagem e \nescolha a função correta.\n(A) Ao clicar Ctrl+S.\n(B) Para excluir um arquivo.\n(C) Para renomear um documento.\n(D) Para imprimir todas as páginas do documento.\n(E) Para criar um documento novo.\nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: Sobre o diagrama de Gantt é incorreto afirmar que:",
+            "alternativas": {
+                "A": "é um gráfico de barras horizontais.",
+                "B": "cada barra horizontal nesse tipo de diagrama representa uma tarefa, e o comprimento da barra \nindica o tempo que levará para concluir essa tarefa ou etapa.",
+                "C": "as primeiras versões do diagrama de Gantt foram desenvolvidas por Karol Adamiecki, que \ninventou o que ele chamou de harmonograma em 1896.",
+                "D": "é possível usar esses diagramas para definir quais tarefas precisam ser realizadas de forma que o \nprojeto seja concluído com sucesso e a tempo. Isso é o caminho seguro.",
+                "E": "é utilizado para representar o cronograma de um projeto e das tarefas e eventos relacionados \ndurante o ciclo de vida do projeto.\nPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 11 de 18QUESTÃO 22\nObserve o gráfico, abaixo:\nSobre as representações topográficas, o gráfico representa um sistema de coordenadas:\n(A) cartesianas. \n(B) esféricas.\n(C) polares.\n(D) geográficas.\n(E) geodésicas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: ____________ é o arco de equador contado desde o meridiano de origem (Greenwich) até o \nmeridiano do ponto considerado. Por convenção a longitude varia de 0º a +180º no sentido leste de \nGreenwich e de 0º a -180º por oeste de Greenwich.\nAssinale a alternativa que preenche, corretamente, a lacuna do texto:",
+            "alternativas": {
+                "A": "Latitude medial.",
+                "B": "Longitude medial.",
+                "C": "Latitude astronômica.",
+                "D": "Longitude astronômica.",
+                "E": "Latitude polar.\nPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 12 de 18QUESTÃO 24\nO projeto arquitetônico deverá seguir sequencialmente suas fases. Considerando o fato, não faz parte \nda fase de elaboração:\n(A) Programa de necessidades para arquitetura.\n(B) Anteprojeto arquitetônico.\n(C) Estudo de viabilidade de arquitetura.\n(D) Levantamento de dados para arquitetura; levantamento das informações técnicas específicas a \nserem fornecidas pelo empreendedor ou contratadas no projeto.\n(E) Levantamento das informações técnicas específicas a serem fornecidas pelo empreendedor ou \ncontratadas no projeto."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: A Planta de __________ indica a forma e dimensões do terreno, os lotes e quadras vizinhas, ruas de \nacesso pontos de referência.\nAssinale a alternativa que preenche, corretamente, a lacuna do texto:",
+            "alternativas": {
+                "A": "edificação.",
+                "B": "situação.",
+                "C": "indicação.",
+                "D": "implantação.",
+                "E": "cobertura."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: São obras de Oscar Niemeyer (1907-2012):\nI - Sambódromo, no Rio de Janeiro.\nII - Parque do Ibirapuera, na cidade de São Paulo.\nIII - Palácio do Itamaraty, em Brasília.\nÉ correto o que se afirma em:",
+            "alternativas": {
+                "A": "I, apenas.",
+                "B": "I e II, apenas.",
+                "C": "I e III, apenas.",
+                "D": "II e III, apenas.",
+                "E": "I, II e III.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 13 de 18QUESTÃO 27\nA Casa das Rosas é um projeto do Escritório Técnico Ramos de Azevedo para sua filha Lúcia. De \ncaracterísticas, marcadamente, ecléticas, a construção guarda fortes influências do Renascimento \n__________, expressas no seu telhado em pedras de ardósia, que abrigam uma mansarda. Quase todos \nos materiais foram importados e destacam singularmente os 5.500 m2 de um terreno situado na \navenida mais significativa das residências de uma elite paulistana – a Avenida Paulista.\nAssinale a alternativa que preenche, corretamente, a lacuna do texto:\n(A) Francês.\n(B) Inglês.\n(C) Italiano.\n(D) Português.\n(E) Espanhol."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: A Lei 11428/2006 entende como pousio, a prática que prevê a interrupção de atividades ou usos \nagrícolas, pecuários ou silviculturais do solo por até _______ anos para possibilitar a recuperação de \nsua fertilidade.\nAssinale a alternativa que preenche, corretamente, a lacuna do texto:",
+            "alternativas": {
+                "A": "03 (três).",
+                "B": "08 (oito).",
+                "C": "10 (dez).",
+                "D": "15 (quinze).",
+                "E": "21 (vinte e um)."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: Analise os itens, abaixo, extraídos da Lei 11428/2006:\nI - atividades de segurança nacional e proteção sanitária.\nII - as atividades de manejo agroflorestal sustentável praticadas na pequena propriedade ou posse \nrural familiar que não descaracterizem a cobertura vegetal e não prejudiquem a função ambiental da \nárea;\nIII - as obras essenciais de infraestrutura de interesse nacional destinadas aos serviços públicos de \ntransporte, saneamento e energia, declaradas pelo poder público federal ou dos Estados.\nSão de utilidade pública as citadas em:",
+            "alternativas": {
+                "A": "I, apenas.",
+                "B": "I e II, apenas.",
+                "C": "I e III, apenas.",
+                "D": "II e III, apenas.",
+                "E": "I, II e III.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 14 de 18QUESTÃO 30\nCom relação ao norte geográfico e norte magnético, julgue os itens a seguir e, ao final, assinale a \nalternativa correta: \nI – O norte geográfico é também conhecido como “norte verdadeiro”. \nII – O norte magnético é o norte indicado pela bússola.\nIII – O norte magnético é muito utilizado na navegação, mas não na astronomia. \n(A) Apenas o item I é verdadeiro. \n(B) Apenas o item II é verdadeiro. \n(C) Apenas o item III é verdadeiro. \n(D) Apenas os itens I e II são verdadeiros. \n(E) Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: A Lei Complementar 26/2012 define e dá parâmetros para alguns níveis de planejamento, dos quais \nnão se enquadra:",
+            "alternativas": {
+                "A": "Macrozonas.",
+                "B": "Empreendimentos Urbanos Sustentáveis – EUS.",
+                "C": "Zonas Ordinárias Permanentes.",
+                "D": "Zonas-Plano Operacionais.",
+                "E": "Unidades Territoriais de Planejamento – UTP."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: Responda verdadeiro (V) ou falso (F) às definições trazidas pela Lei Complementar 26/2012 e \nassinale a alternativa que traz a sequência correta:\n(__) gleba é a área de terra que não foi objeto de loteamento ou desmembramento.\n(__) unificação é o procedimento administrativo de aprovação do remembramento individual de \nglebas ou lotes para a formação de uma nova gleba ou lote.\n(__) desdobro é a subdivisão de glebas em lotes destinados à edificação, com abertura de novas vias \nde circulação, de logradouros públicos ou prolongamento, modificação ou ampliação das vias \nexistentes.",
+            "alternativas": {
+                "A": "V – V – V.",
+                "B": "V – F – V.",
+                "C": "V – V – F.",
+                "D": "F – V – V.",
+                "E": "F – F – V.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 15 de 18QUESTÃO 33\nPela NBR 13969 a taxa de aplicação hidráulica superficial é definida da seguinte forma:\n(A) Relação entre o volume total de vazios e o volume total de sólidos, tendo a relação tal que n = \n100 e/(1+e)\n(B) Relação entre o volume total de vazios e o volume total de um meio filtrante, expressa pela relação \nn = 100 (V v /Vt).\n(C) Tempo médio em que os sólidos biológicos permanecem dentro de um reator biológico.\n(D) Tempo médio que a massa hidráulica fica dentro de um tanque.\n(E) Relação entre a vazão de esgoto e a área superficial de uma unidade de tratamento."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: Pela NBR 13969 o tempo de detenção hidráulica é definido da seguinte forma:",
+            "alternativas": {
+                "A": "Relação entre o volume total de vazios e o volume total de sólidos, tendo a relação tal que n = \n100 e/(1+e)",
+                "B": "Relação entre o volume total de vazios e o volume total de um meio filtrante, expressa pela relação \nn = 100 (V v /Vt).",
+                "C": "Tempo médio em que os sólidos biológicos permanecem dentro de um reator biológico.",
+                "D": "Tempo médio que a massa hidráulica fica dentro de um tanque.",
+                "E": "Relação entre a vazão de esgoto e a área superficial de uma unidade de tratamento."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: Pela NBR 10844 a vazão de referência para o dimensionamento de condutores e calhas é chamada de \nvazão de:",
+            "alternativas": {
+                "A": "beiral.",
+                "B": "ralo.",
+                "C": "saída.",
+                "D": "concentração.",
+                "E": "projeto.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 16 de 18QUESTÃO 36\nDe acordo com a NBR 10844\nA imagem representa:\n(A) Duas superfícies planas verticais adjacentes e perpendiculares.\n(B) Duas superfícies planas verticais e opostas.\n(C) Duas superfícies planas opostas.\n(D) Duas superfícies planas verticais adjacentes e opostas.\n(E) Duas superfícies adjacentes inclinadas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: De acordo com a NBR 9050 _______ é definido como espaço, edifcação, mobiliário, equipamento \nurbano ou elemento cujas características originais foram alteradas posteriormente para serem \nacessíveis.\nAssinale a alternativa que preenche, corretamente, a lacuna do texto:",
+            "alternativas": {
+                "A": "adequado.",
+                "B": "adaptado.",
+                "C": "adaptável.",
+                "D": "acessível.",
+                "E": "acessibilidade.\nPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 17 de 18QUESTÃO 38\nApoio para auxiliar qualquer pessoa com dificuldade de circular no ambiente ou de utilizar algum \nequipamento é o conceito da NBR 9050 para:\n(A) serviço tátil.\n(B) serviço acessível.\n(C) uso restrito.\n(D) uso comum.\n(E) serviço assistido."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: De acordo com a Resolução SIMA 05/2021:",
+            "alternativas": {
+                "A": "Considera-se infração penal ambiental toda ação ou omissão que viole as regras jurídicas de uso, \ngozo, promoção, proteção e recuperação do meio ambiente, conforme o disposto nesta resolução.",
+                "B": "Considera-se sujeito passivo da infração administrativa ambiental qualquer pessoa física ou \njurídica, de direito público ou privado, que tenha concorrido, por ação ou por omissão, para a prática \nda infração.",
+                "C": "Ficam assegurados aos agentes públicos designados para o exercício das atividades de \nfiscalização, a entrada e a permanência em áreas e estabelecimentos públicos ou privados, em \nqualquer dia e horário, pelo tempo necessário à constatação e tipificação da infração ambiental, bem \ncomo a solicitação de força policial para vencer eventuais resistências.",
+                "D": "As infrações ambientais serão punidas isoladas, nunca, cumulativamente.",
+                "E": "Se o infrator cometer, simultaneamente, duas ou mais infrações, ser-lhe-á aplicada a sanção maior."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ARQUITETO E URBANISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: Pelo Código Sanitário do Estado de São Paulo, para residências que possuam escadas (quando de uso \nrestrito), exige-se largura mínima de:",
+            "alternativas": {
+                "A": "50 cm.",
+                "B": "75 cm.",
+                "C": "80 cm.",
+                "D": "90 cm.",
+                "E": "1,10 m.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nARQUITETO E URBANISTA                                                                                                                      Página 18 de 18"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

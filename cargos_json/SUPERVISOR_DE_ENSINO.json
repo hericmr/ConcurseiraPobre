@@ -1,3 +1,1600 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6dfacdd7035729a603b7b7ebee37797b413a6bc695ad36b66fef739598a0906c
-size 193261
+{
+    "SUPERVISOR DE ENSINO": [
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: No excerto “Essa galáxia de origem da rajada \nestá tão distante que sua luz levou 8 bilhões de \nanos para nos alcançar.”, o emprego do pronome \npessoal é uma estratégia do autor para:",
+            "alternativas": {
+                "A": "distanciar o público leitor.",
+                "B": "incluir e aproximar o público leitor.",
+                "C": "restringir o público leitor.",
+                "D": "impessoalizar a linguagem.",
+                "E": "objetivar a linguagem. \n \n \n \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 3 de 17 QUESTÃO 02 \nO emprego da conjunção “embora”, no excerto \n“Embora ainda não saibamos o que causa essas \nexplosões massivas de energia, o artigo confirma \nque as FRBs são eventos comuns no cosmos”, \nimprime à relação entre as orações o sentido de: \n(A) concessão. \n(B) oposição. \n(C) adição. \n(D) explicação. \n(E) causa."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Considere o seguinte excerto: “sua origem \nlongínqua foi decifrada por cientistas utilizando \no Very Large Telescope (VLT)”. Das palavras \napresentadas nas alternativas a seguir, aquela que \nsubstitui a palavra “longínqua”, com menor \nprejuízo de sentido, é:",
+            "alternativas": {
+                "A": "recente.",
+                "B": "remota.",
+                "C": "oblíqua.",
+                "D": "próxima.",
+                "E": "longitudinal."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Considere o excerto: “o artigo confirma que as \nFRBs são eventos comuns no cosmos e que \npodemos usá-las para detectar a matéria entre as \ngaláxias”. Nesse contexto, a função do   pronome \noblíquo em posição enclítica é a de:",
+            "alternativas": {
+                "A": "complemento verbal.",
+                "B": "sujeito sentencial.",
+                "C": "adjunto adverbial.",
+                "D": "complemento nominal.",
+                "E": "adjunto adnominal. \n \n QUESTÃO 05 \nAssinale a alternativa em que, no excerto \napresentado, a palavra “que” atua como pronome \nrelativo. \n(A) Acreditamos que a matéria ausente está \nescondida no espaço entre as galáxias. \n(B) A descoberta confirma que as FRBs podem \nser usadas para medir a “matèria perdida” entre \nas galáxias. \n(C) O cientista é autor da relação de Macquart, \nque prevê que, quanto mais distante uma rajada \nrápida de rádio estiver, mais gás difuso ela exibe \nentre as galáxias. \n(D) Nossas medições confirmam que a relação de \nMacquart se mantém além da metade do \nUniverso conhecido. \n(E) A explosão de ondas cósmicas foi tão veloz \nque durou menos de um milissegundo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Quanto â conjugação verbal, no excerto “quanto \nmais distante uma rajada rápida de rádio estiver, \nmais gás difuso ela exibe entre as galáxias.”, os \nverbos “estiver” e “exibe” ocorrem, \nrespectivamente, nos tempos e modos:",
+            "alternativas": {
+                "A": "presente do subjuntivo e presente do \nindicativo.",
+                "B": "futuro do pretérito do indicativo e presente \ndo indicativo.",
+                "C": "futuro do subjuntivo e presente do indicativo.",
+                "D": "particípio e presente do subjuntivo.",
+                "E": "infinitivo e imperativo afirmativo. \n \n \n \n \n \n \n \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 4 de 17 QUESTÃO 07 \nConsidere os excertos: \nI. “a relação de Macquart se mantèm alèm da \nmetade do Universo conhecido”.  \nII. “Algumas FRBs recentes pareciam quebrar \nessa relação”.  \nIII. “Astrônomos detectam mais distante rajada \nde rádio já vista no Universo”.  \nEm relação à regência, nas sentenças dadas, \nocorre verbo pronominal apenas em: \n(A) I. \n(B) II. \n(C) III. \n(D) I e II. \n(E) II e III."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Considere o excerto: “Atè o momento, cerca de \n50 FRBs foram identificadas, com quase metade \ndelas sendo detectadas pelo ASKAP.” Nesse \ncontexto, as expressões “atè o momento” e \n“cerca de” são expressões adverbiais que \nexprimem, respectivamente, noções relacionadas \na:",
+            "alternativas": {
+                "A": "intensidade e dúvida.",
+                "B": "tempo e proximidade.",
+                "C": "tempo e dúvida.",
+                "D": "proximidade e intensidade.",
+                "E": "modo e afirmação."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Considere a sentença: “A exposição estava \nrepleta de obras ignóbeis, que sequer mereciam \nestar ali, naquela galeria.” Nesse contexto, a \nexpressão “ignóbeis” è antônima de:",
+            "alternativas": {
+                "A": "abstratas.",
+                "B": "exíguas.",
+                "C": "nobres.",
+                "D": "modernas.",
+                "E": "desprezíveis. QUESTÃO 10 \nAssinale a alternativa em que, na sentença \napresentada, a palavra “se” atua como conjunção \ncondicional. \n(A) O garoto não imaginava que se colocaria \nnaquela situação. \n(B) O que ela não sabia era se sua amiga estava \nsendo verdadeiramente sincera. \n(C) Seja pontual, se quiser causar boa \nimpressão.   \n(D) Perguntaram se podiam ir à festa.  \n(E) Gostaria de saber se as provas já foram \ncorrigidas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Considere a seguinte sentença, retirada de obra \nde Clarice Lispector: “A palavra è meu domínio \nsobre o mundo.” Quanto âs categorias \ngramaticais, no contexto apresentado, as \npalavras  “meu”, “domínio” e “sobre” \nclassificam-se, respectivamente, como:",
+            "alternativas": {
+                "A": "pronome pessoal, substantivo e preposição.",
+                "B": "pronome possessivo, substantivo e \nconjunção.",
+                "C": "pronome pessoal, adjetivo e conjunção.",
+                "D": "pronome possessivo, substantivo e \npreposição.",
+                "E": "pronome possessivo, substantivo e advérbio. \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 5 de 17 QUESTÃO 12 \nConsidere as seguintes sentenças: \nI. As gramáticas e manuais de língua portuguesa \n____ as formas consideradas corretas. \nII. O erro no artigo do jornal foi ___ ontem à \ntarde. A correção era indispensável. \nIII. Há um risco ____ de deslizamento. Pode \nacontecer a qualquer momento. \nAs palavras que preenchem corretamente cada \numa das lacunas nas sentenças dadas são, \nrespectivamente: \n(A) proscrevem; ratificado; iminente. \n(B) prescrevem; retificado; iminente. \n(C) prescrevem; ratificado; eminente.  \n(D) proscrevem; ratificado; eminente. \n(E) prescrevem; retificado; eminente."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Considere o excerto: “Ao despertar, Lola reparou \nque seus sapatos não estavam ao pé da cama. \nProcurou sob o armário, caminhou até a varanda. \nNão se lembrava de quando foi dormir. Tinha \npressa. Telefonou para Hilda, buscando ajuda \npara rememorar a noite passada. __ sua amiga \nnão a atendeu. O jeito era calçar os chinelos e sair \nassim mesmo, __ do frio que fazia lá fora.” As \nexpressões que preenchem corretamente as \nrespectivas lacunas são:",
+            "alternativas": {
+                "A": "Logo; embora.",
+                "B": "Todavia; mediante.",
+                "C": "Outrossim; não obstante.",
+                "D": "Contudo; a despeito.",
+                "E": "Conquanto; à parte. \n \n \n \n \n \n \n QUESTÃO 14 \nAssinale a alternativa em que a sentença \napresentada está correta quanto ao emprego da \ncrase. \n(A) A herança foi dividida meio à meio entre os \nirmãos. \n(B) Em meio à discussão, ela se retirou da sala.  \n(C) O pagamento desta carga de mercadorias será \nà prazo. \n(D) A equipe ainda tem atividades à fazer. \n(E) Os livros já foram entregues à ela."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Assinale a alternativa em que a sentença \napresentada está correta quanto à colocação \npronominal.",
+            "alternativas": {
+                "A": "Não deixe-me esperando. Estou aqui há \nhoras.",
+                "B": "São eles que explicam-nos os detalhes de que \nteremos que cuidar antes do show.",
+                "C": "Me levantei às 8h para alimentar o Spike e \nnão voltei a dormir.",
+                "D": "Fiquei calado, embora caiba-me opinar nesse \nassunto.",
+                "E": "Eles mantiveram-no confinado até o final dos \ntestes. \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 6 de 17 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Considere as seguintes afirmativas:  \n• Todo ciclista usa capacete;  \n• Todo esqueitista usa capacete;  \n• Alguns paraquedistas usam capacete;  \n• Alguns ciclistas são esqueitistas;  \n• Nenhum paraquedista que usa capacete é ciclista ou esqueitista.  \nIndique o diagrama lógico, dentre as correspondências abaixo, que descreve as afirmativas:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "IV.",
+                "E": "V.  \nCâmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 7 de 17 QUESTÃO 17 \n \nNuma plataforma de vendas de passagens de ônibus online, os gerentes utilizam uma métrica chamada \nde antecedência de compra, que significa o número de dias entre a data da compra da passagem e a \ndata da viagem. O gráfico abaixo mostra a antecedência de compras nesta plataforma para um \ndeterminado mês: \n \n \n \n \nCom base no gráfico, qual antecedência de compra média, em dias, dos usuários dessa plataforma neste  \nmês? \n(A) 1,15. \n(B) 1,74. \n(C) 2,03. \n(D) 2,13. \n(E) 3,11.  \n \n \n \n \n \n \n \n \nCâmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 8 de 17 QUESTÃO 18 \nObserve a seguinte sequência numérica: \n \n3\n2,2\n3,9\n4,4\n9,27\n8,8\n27, . .. \n \nIndique o próximo elemento desta sequência: \n(A) 27/16. \n(B) 27/32. \n(C) 32/81. \n(D) 81/32. \n(E) 81/16."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Estima-se que o Pantanal tenha cerca de 120 mil \nkm2 em solo brasileiro. Para se ter uma \nperspectiva mais tangível desse valor, veículos \nde comunicação frequentemente expressam essa \nárea em números equivalentes de campos de \nfutebol. Sabendo que, em média, um campo de \nfutebol tem 120 metros de comprimento e 80 \nmetros de largura, a quantos campos de futebol \nequivale a área do Pantanal brasileiro?",
+            "alternativas": {
+                "A": "1.250.",
+                "B": "12.500.",
+                "C": "125.000.",
+                "D": "1.250.000.",
+                "E": "12.500.000."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Utilizando uma mangueira cuja vazão é de 2 \nlitros por segundo, uma piscina leva 48 horas \npara ficar completamente cheia. Quanto tempo \nlevará para encher a mesma piscina se \nutilizarmos 4 mangueiras com uma vazão de 8 \nlitros por segundo, cada?",
+            "alternativas": {
+                "A": "1,5 horas.",
+                "B": "3 horas.",
+                "C": "6 horas.",
+                "D": "12 horas.",
+                "E": "15 horas. \n NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Evelyn tem um prazo para entregar um trabalho \nescolar e está imprimindo uma cópia para o \nprofessor. Ela utiliza um checklist para garantir \nque as margens, fonte, espaçamento e numeração \nde páginas estejam corretos. Analise as \nafirmativas a seguir e assinale a alternativa que \ncontenham ações para se obter uma impressão de \nqualidade.  \nI –  Verifique se há tinta ou toner suficiente na \nimpressora para concluir a impressão. Substitua \nos cartuchos ou recarregue-os, se necessário. \nII – Não é necessário alinhar corretamente o \npapel na bandeja; a impressora ajustará \nautomaticamente. \nIII –  Ajuste a resolução da impressora de acordo \ncom suas necessidades. Impressões de alta \nresolução são ideais para imagens, enquanto \ntextos podem ser impressos em uma resolução \nmenor.",
+            "alternativas": {
+                "A": "I, II e III.",
+                "B": "I e II, apenas.",
+                "C": "I e III, apenas.",
+                "D": "II e III, apenas.",
+                "E": "Nenhuma das afirmativas estão corretas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Joana é uma consultora que viaja com frequência \na trabalho. Ela usa o Excel para acompanhar suas \ndespesas de viagem. A fórmula ______  é usada \npara calcular o total de despesas, incluindo \nhospedagem, alimentação e transporte, para \nrelatórios precisos. Neste sentido, assinale a \nalternativa que contenha corretamente a fórmula \nutilizada por Joana.",
+            "alternativas": {
+                "A": "= SOMA.",
+                "B": "= PROCV.",
+                "C": "= MÁXIMO.",
+                "D": "= MÍNIMO.",
+                "E": "= MÉDIA.  Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 9 de 17 QUESTÃO 23 \nIsabela é uma gerente de vendas que está \nacompanhando as vendas de uma equipe de \nrepresentantes de vendas. Ela utiliza a fórmula \n_______ para contar quantas vezes um \nrepresentante atingiu ou excedeu sua cota de \nvendas. Isabela insere critérios na fórmula para \ndeterminar quantos representantes tiveram um \ndesempenho excepcional. Neste sentido, assinale \na alternativa que contenha corretamente a \nfórmula utilizada pela Isabela.  \n(A) = MÁXIMO. \n(B) = PROCV. \n(C) = MÍNIMO. \n(D) = CONT.SE. \n(E) = MÉDIA."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Marcos é um estudante de arte que está \ntrabalhando em um projeto colaborativo com \nseus colegas. Eles decidiram criar um pôster \ndigital para um evento da escola. Cada aluno está \nencarregado de projetar uma seção do pôster. \nMarcos é responsável pela seção superior do \npôster, onde ele deseja incluir uma imagem \nimpressionante. Ele encontra uma imagem \nrelevante na internet, clica com o botão direito do \nmouse e seleciona \"Copiar\" no menu de \ncontexto. Em seguida, ele abre seu software de \nedição de imagens e cola a imagem na seção \nsuperior do pôster usando o atalho ______. \nDiante do contexto apresentado, assinale a \nafirmativa que contenha, o atalho utilizado por \nMarcos.",
+            "alternativas": {
+                "A": "Ctrl + X. \n(B Ctrl + A. \n(C) Ctrl + C. \n(D) Ctrl + V. \n(E) Ctrl + T. \n \n QUESTÃO 25 \nLucas é um analista financeiro em uma empresa \nde consultoria e está preparando um relatório \nfinanceiro crucial para uma reunião importante \ncom um cliente. Ele tem várias planilhas do \nExcel que contêm dados financeiros e gráficos \nque precisam ser incorporados ao seu relatório do \nWord. Neste sentido, indique as afirmativas que \npodem ajudar Lucas a criar este relatório \nutilizando funções do MS – Word 2016.  \n( ) Inserir Gráficos: Para visualizar os dados \nfinanceiros de maneira mais impactante, Lucas \npode criar gráficos diretamente no Word. \n( ) Estilos e Formatação: Para tornar o relatório \nmais profissional, Lucas pode aplicar estilos de \nformatação, como títulos, subtítulos, listas \nnumeradas ou com marcadores. Isso ajuda a dar \numa estrutura clara ao documento e torná-lo \nvisualmente atraente. \n( ) Revisão e Comentários: Lucas pode usar as \nferramentas de revisão e comentários do Word \npara fazer correções gramaticais, verificar a \nortografia e colaborar com colegas ou revisores.  \n(A) F, F, F.",
+                "B": "V, V, V.",
+                "C": "F, F, V.",
+                "D": "V, V, F.",
+                "E": "V, F, F. \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 10 de 17 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Para compreender um pouco sobre a história da \neducação no Brasil, Nogueira Filho, em sua obra: \n“Pontos fora da curva: por que algumas reformas \neducacionais no Brasil são mais efetivas do que \noutras e o que isso significa para o futuro da \neducação básica”, traz um apanhado histórico \ndos principais acontecimentos e seus impactos \npara a realidade educacional brasileira. Leia as \nassertivas posteriores e assinale a que vai de \nencontro com as ponderações apresentadas pelo \nreferido autor na obra supracitada.",
+            "alternativas": {
+                "A": "Ao longo dos últimos 30 anos, a educação \nbrasileira passou por uma série de \ntransformações que possibilitou a \nuniversalização do ensino fundamental.",
+                "B": "Surgimento de inovações nas políticas \neducacionais subnacionais.",
+                "C": "A primeira e a segunda geração de reformas \nforam implementadas dentro de um curto espaço \nde dez anos, em que a primeira geração construiu \nas bases para a educação de massas.",
+                "D": "A terceira onda prioriza a colaboração das \nescolas, secretarias, qualificação de professores e \ndiretores e aprimoramento da relação entre \nformulação e implementação.",
+                "E": "Em função da relevância das ações \nconcernentes ao período constituído pelas \núltimas três décadas, é possível inferir que esse \nperíodo possibilitou a mitigação da herança não \ntão positiva das experiências educacionais que \nconfiguraram na história da educação brasileira \nnos contextos anteriores. \n \n \n \n \n \n \n \n \n QUESTÃO 27 \nNa literatura, há inúmeras obras que abordam as \nteorias de currículo e da aprendizagem, \nobjetivando elencar elementos relacionados com \nas demandas da escola pública. Uma dessas \nobras, escrita por Ronai Rocha, intitulada: \n“Quando ninguèm educa: questionando  Paulo \nFreire” apresenta várias contextualizações que \nmerecem ser analisadas. De acordo com o autor, \nqual a proposta que foi adotada para ampliar o \nnúmero de vagas para a educação básica? \n(A) Politização da escola. \n(B) Criação da Base Nacional Comum \nCurricular. \n(C) Ações pautadas nas teorias de currículo e da \naprendizagem. \n(D) Rediscussão sobre os pressupostos de \natuação do corpo docente. \n(E) Implementação de estratégias pedagógicas \nvoltadas para a formação docente."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: A gestão administrativa no âmbito educacional \nencontra diversos obstáculos que dificultam a \nefetividade das ações implementadas e, por \nconseguinte, os resultados alcançados ficam \naquém do ideal. Tomando por embasamento as \nreflexões de Antônio Gois, ao analisar os \nduzentos anos de atraso educacional e seu \nimpacto nas políticas presentes, é destacado pelo \nautor um dos principais responsáveis por esse \natraso, que remonta desde o Império, assinale-o:",
+            "alternativas": {
+                "A": "Burocracia institucional.",
+                "B": "Descontinuidade das políticas públicas.",
+                "C": "Falta de investimentos na educação.",
+                "D": "Inconsistência em relação à realidade \nvivenciada.",
+                "E": "A educação não é vista como prioridade. \n \n \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 11 de 17 QUESTÃO 29 \nA partir do conceito de didática encontrado no \ndicionário – “análise e desenvolvimento das \ntécnicas e métodos que podem ser utilizados para \nensinar determinado conteúdo para um indivíduo \nou um grupo, sendo responsável por estudar \nprocessos de aprendizagem e ensino”, è possível \ninferir a importância que ela possui dentro da \nrealidade educacional. Logo, é importante \nconhecer as habilidades necessárias para o \nalcance de determinado processo de \naprendizagem e ensino.  \nEspecificamente, ao analisar as variáveis que \ninterferem no ensino da língua, são encontradas \nreflexões que buscam explicar o número \nexpressivo de analfabetos funcionais no Brasil. \nNa obra: “A boa e a má educação: exemplos \ninternacionais” de Inger Enk Vist , tem-se a \nreflexão da autora acerca de algumas habilidades \npreditoras consideradas essenciais para a \nalfabetização. Sobre as habilidades preditoras, \ndescritas pela autora, é impertinente afirmar: \n \n(A) Reconhecimento da forma gráfica da letra. \n(B) Habilidades metafonológicas. \n(C) Conhecimento das grafias das letras. \n(D) Memória auditiva de longo prazo. \n(E) As habilidades preditoras corroboram para o \nsucesso na alfabetização, pois terão relação com \na capacidade da criança desenvolver a \ndecodificação de palavras. \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 30 \nA gestão escolar atua em diferentes vertentes, \ncompreendendo, por exemplo, a gestão do \nconflito escolar, assunto contextualizado por \nÁlvaro Chrispino em sua obra “Gestão do \nconflito escolar: da classificação dos conflitos \naos modelos de mediação”. Dentre s uas \nreflexões, ao analisar a ampliação do acesso à \nescola, o autor revela o aumento proporcional do \nconflito dentro do contexto escolar, referindo-se \nà (s): \n(A) centralização da educação. \n(B) políticas públicas de acesso à escola. \n(C) massificação da educação. \n(D) democratização da educação. \n(E) descentralização da educação."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: A melhoria do desempenho escolar e a eficácia \ndos resultados institucionais têm relação direta \ncom a qualidade do processo ensino e \naprendizagem, em que o papel da supervisão \neducacional contribui significativamente. A \npartir das reflexões de Naura Syria Carapeto \nFerreira, sobre o papel do supervisor \neducacional, é impertinente afirmar:",
+            "alternativas": {
+                "A": "É necessário conhecer a legislação, seus \nlimites e brechas, no intuito de otimizar o seu uso \nem prol da consecução dos objetivos \neducacionais da escola sob sua supervisão.",
+                "B": "Se a supervisão e a escola compreenderem e \nassumirem o trabalho coletivo, ratifica-se que o \nprojeto unificador do esforço de todos os \ntrabalhadores do ensino pode ser traduzido por \nmeio das ideias e perspectivas que compreendem \no plano diretor.",
+                "C": "A compreensão e a caracterização da função \nsupervisora no contexto educacional brasileiro \nnão acontecem de forma independente ou neutra.",
+                "D": "A função supervisora de forma explícita ou \nimplícita representa o reflexo de uma política e, \nao mesmo tempo, está a serviço dela.",
+                "E": "A educação exercida e executada pelos \nespecialistas e controlada pelo supervisor \ncorrobora para o processo de desenvolvimento \nnacional. \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 12 de 17 QUESTÃO 32 \nAo analisar a organização e a gestão da escola, \nLibâneo propõe uma reflexão a fim de \ncompreender os aspectos relativos à gestão \ncentrada na escola, a partir de suas características \norganizacionais. Sobre esse tema, assinale a \nalternativa que vai de encontro à perspectiva \napresentada pelo referido autor. \n(A) Dentro do ideário neoliberal, colocar a escola \ncomo centro das políticas ratifica a \nresponsabilidade do Estado como corresponsável \npela educação. \n(B) De acordo com a perspectiva sociocrítica, \nvaloriza-se a autonomia dos profissionais na \nescola. \n(C) O estilo de gestão revela os tipos de objetivos \ne as formas de relações humanas que vigoram na \ninstituição escolar. \n(D) O sentido de saberes e competências \nprofissionais não se restringe ao saber fazer. \n(E) Ao analisar o papel do professor em relação \nà estrutura e à dinâmica organizacional, é \nobservada a existência de uma concomitância \nentre o desenvolvimento profissional e o \ndesenvolvimento organizacional."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Para Luckesi, a ação pedagógica deve sempre \nestar respaldada em uma reflexão filosófica. Em \nrelação às tendências filosóficas apresentadas \npelo referido autor, qual a alternativa a seguir que \ncorresponde à compreensão da educação na \nsociedade de forma pessimista, por não acreditar \nhaver qualquer saída para ela que não seja a sua \nsubmissão aos seus condicionantes?",
+            "alternativas": {
+                "A": "Tendência transformadora.",
+                "B": "Tendência reprodutiva.",
+                "C": "Tendência redentora.",
+                "D": "Tendência absolutista.",
+                "E": "Tendência dominadora \n \n \n QUESTÃO 34 \nDe acordo com o Ministério da Educação, dentro \ndas análises que compõem o “Subsídio para a \ngestão dos sistemas educacionais inclusivos”, è \nimpertinente afirmar: \n(A) A forma mais irremediável de exclusão \nsocial representa a exclusão da escola de crianças \nna idade própria, seja por incúria do Poder \nPúblico, seja por omissão da família e da \nsociedade, pois nega o direito de cidadania. \n(B) A distorção idade x série provoca custos \nadicionais aos sistemas de ensino. \n(C) A existência de crianças fora da escola e as \ntaxas de analfabetismo são problemas \nlocalizados e que possuem ínfima relação. \n(D) O déficit de vagas é considerado como a \nprincipal causa determinante de existir crianças \nfora da escola, principalmente nas periferias e \nzonas rurais. \n(E) Programas paralelos de assistência a famílias \ncorroboram para melhorar o acesso à escola e a \npermanência nela."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Libâneo propõe cinco objetivos que, segundo ele, \ncontribuem para a construção do papel da escola \nna promoção da democracia social e política. \nLeia o excerto extraído da obra: “Organização e \ngestão da escola: teoria e prática”.  \n“Em resumo, a escola de qualidade promove para \ntodos o domínio dos conhecimentos, da cultura, \nda ciência, da arte, junto com o desenvolvimento \nde capacidades e habilidades de pensamento”. \nAssinale o tipo de objetivo a que se refere o \ntrecho destacado:",
+            "alternativas": {
+                "A": "Desenvolvimento de capacidades cognitivas \ne operativas dos alunos.",
+                "B": "Desenvolvimento da criatividade, da \nsensibilidade e da imaginação.",
+                "C": "Formação da cidadania crítica.",
+                "D": "Preparação para o processo produtivo e para \no mundo tecnológico e comunicacional.",
+                "E": "Formação ética. Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 13 de 17 QUESTÃO 36 \nA gestão democrática depende da postura \nadotada pelo supervisor de ensino. Nesse sentido, \nGiancaterino elenca uma série de ações que \ncorroboram para criar essa atmosfera \ndemocrática dentro do âmbito educacional. São \nexemplos dessas ações, afora: \n(A) Saber utilizar o potencial existente entre \nmuitos cérebros. \n(B) Saber delegar autoridade e responsabilidade. \n(C) Saber reconhecer a importância dos detalhes \npresentes nas situações cotidianas. \n(D) Saber aconselhar de forma amigável \nquestões tanto pessoais quanto profissionais. \n(E) Saber empregar de forma consciente os \nmétodos democráticos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: De acordo com Libãneo, “o currículo e os \nprocessos de ensino e aprendizagem \ncorrespondem aos objetivos da escolarização \nobrigatória, ou seja, realizam as atividades-fim \nna educação escolar, tais como a aquisição do \nconhecimento e da cultura, o desenvolvimento da \npersonalidade, a formação para a cidadania, a \ninserção no mundo do trabalho”. A partir dos \nponderamentos apresentados pelo referido autor, \nqual o principal critério de aferição dos \nresultados obtidos em relação aos objetivos \nanteriormente definidos?",
+            "alternativas": {
+                "A": "Grau de proficiência em leitura.",
+                "B": "Grau em que se obtém a qualidade cognitiva \ne operativa das aprendizagens escolares.",
+                "C": "Grau de domínio das operações mentais.",
+                "D": "Grau de destreza motriz.",
+                "E": "Grau eloquência verbal. \n \n \n \n \n QUESTÃO 38 \nNo primeiro capítulo da obra: “Pensando e \nfazendo educação de qualidade”, intitulado: \n“Qualidade da educação: as armadilhas do \nóbvio”, Nilson Josè Machado estabelece um \nparalelo entre a realidade que constitui o \nambiente organizacional empresarial e o \nambiente organizacional educacional, \ndemonstrando como a qualidade é vista de \nacordo com esses dois ambientes. A partir desse \nparalelo, são destacadas algumas dicotomias \nentre educação e ambiente laboral. Assinale a \nalternativa que não caracteriza uma dessas \ndicotomias. \n(A) Qualidade e quantidade \n(B) Professor e colaborador \n(C) Trabalho e projetos \n(D) Empresa e escola \n(E) Valor e preço"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: De acordo com Cipriano Luckesi, a avaliação da \naprendizagem deve ser praticada a partir da \nabordagem pedagógica do projeto ao qual ela \nserve. Nesse sentido, o que é responsável por dar \nforma ao projeto político-pedagógico da escola, \nno que se refere à avaliação, além de orientar a \ncoleta de dados e servir de critério para a \nquantificação dos resultados obtidos?",
+            "alternativas": {
+                "A": "Metodologia educativa.",
+                "B": "Proposta pedagógica.",
+                "C": "Didática.",
+                "D": "Teoria educativa.",
+                "E": "Ação instrutiva. \n \n \n \n \n \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 14 de 17 QUESTÃO 40 \nO processo de ensino e aprendizagem tem \ncorrelação com o contexto no qual se encontra \ninserido, além das variáveis psicológicas que \nresultam das especificidades de cada ambiente. \nAo analisar a aprendizagem dentro do contexto \ndas Tecnologias da Informação e da \nComunicação (TICs), Coll apresenta uma \nrealidade que se difere do modelo de ensino \nconvencional. Dentre essas mudanças, o referido \nautor relata que as TICs reforçam a tendência de \nprojetar metodologias de trabalho e de ensino \nbaseadas na/no: \n(A) cooperação. \n(B) individualismo. \n(C) competição. \n(D) senso crítico. \n(E) intuição."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: De acordo com a “Política Nacional da Educação \nEspecial na Perspectiva da Educação Inclusiva”, \ncomplete o enunciado a seguir: \nA educação especial se organizou \ntradicionalmente como atendimento educacional \nespecializado, em que essa organização, \nfundamentada no conceito de \nnormalidade/anormalidade, determina formas de \natendimento clínico terapêutico fortemente \nancorados nos testes ___________________ que \ndefinem, por meio de diagnósticos, as práticas \nescolares para os alunos com deficiência.",
+            "alternativas": {
+                "A": "psicométricos",
+                "B": "psicológicos",
+                "C": "motores",
+                "D": "audiovisuais",
+                "E": "sensoriais \n \n \n QUESTÃO 42 \nDe acordo com as diretrizes da Política Nacional \nde Educação Especial na Perspectiva da \nEducação Inclusiva, é pertinente afirmar: \n(A) A educação especial é uma modalidade de \nensino que perpassa todos os níveis, etapas e \nmodalidades, realiza o atendimento educacional \nespecializado, disponibiliza os serviços e \nrecursos próprios desse atendimento e orienta os \nalunos e seus professores quanto a sua utilização \nnas turmas específicas da educação especial. \n(B) O atendimento educacional especializado \nidentifica, elabora e organiza recursos \npedagógicos e de acessibilidade que minimizem \nas barreiras para garantir o mínimo de \nparticipação dos alunos, considerando as suas \nnecessidades específicas. \n(C) Ao longo de todo processo de escolarização, \nesse atendimento deve estar articulado com a \nproposta pedagógica do ensino especializado. \n(D) Do nascimento aos três anos, o atendimento \neducacional especializado se expressa por meio \nde serviços de monitoramento. \n(E) Em todas as etapas e modalidades da \neducação básica, o atendimento educacional \nespecializado é organizado para apoiar o \ndesenvolvimento dos alunos, constituindo oferta \nobrigatória dos sistemas de ensino e deve ser \nrealizado no turno inverso ao da classe comum, \nna própria escola ou centro especializado que \nrealize esse serviço educacional."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: A construção do conhecimento, de acordo com \nVasconcellos, é tratada nos cursos de formação \nde professores a partir das variáveis descritas a \nseguir, exceto:",
+            "alternativas": {
+                "A": "Psicologia da Aprendizagem",
+                "B": "Psicologia do Desenvolvimento",
+                "C": "Enfoque epistemológico",
+                "D": "Didática",
+                "E": "Metodologia \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 15 de 17 QUESTÃO 44 \nDe acordo com a obra: “Nove Olhares sobre a \nSupervisão”, de Silva Jönior e Rangel, as \nestratégias de ação do supervisor pedagógico se \ndiferenciam entre uma ação pedagógica \ntradicional e uma ação pedagógica renovada. \nNesse sentido, são exemplos de uma ação \npedagógica renovada, exceto: \n(A) Trabalhar as diferenças. \n(B) Ser um facilitador \n(C) Criar formas próprias de conhecimento. \n(D) Ter o conhecimento como um dado relativo. \n(E) Trabalhar, tendo em vista o sentido da vida \nhumana."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Conforme Morin, para compreender a gestão \nescolar, a partir da dinâmica da renovação do \npensamento, qual seria a maior contribuição do \nconhecimento do século XX?",
+            "alternativas": {
+                "A": "Conhecimento técnico-científico",
+                "B": "Conhecimento informacional",
+                "C": "Conhecimento dos limites do conhecimento",
+                "D": "Conhecimento absoluto",
+                "E": "Conhecimento ilimitado do ser humano."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Em consonância com as Diretrizes Curriculares \nNacionais para o Ensino Fundamental de 09 \nanos, complete o excerto extraído da respectiva \ndiretriz: \nPor ser direito _________________, o Ensino \nFundamental exige que o Estado determine a sua \nobrigatoriedade, que só pode ser garantida por \nmeio da gratuidade de ensino, o que irá permitir \no usufruto desse direito por parte daqueles que se \nvirem privados dele.",
+            "alternativas": {
+                "A": "público subjetivo",
+                "B": "civil",
+                "C": "político",
+                "D": "social",
+                "E": "cultural QUESTÃO 47 \nDe acordo com as Diretrizes Curriculares \nNacionais para a Educação e Jovens e Adultos, é \npertinente afirmar: \n(A) As diretrizes servem como referência \nobrigatória para as iniciativas autônomas que se \ndesenvolvem sob a forma de processos \nformativos extraescolares na sociedade civil. \n(B) Elas se estendem à oferta dos exames \nsupletivos para efeito de certificados de \nconclusão das etapas do ensino fundamental da \neducação de jovens e adultos. \n(C) A proposta pedagógica segue a orientação \nnormativa, logo não é classificada como registro \ne/ou arquivo histórico. \n(D) Na organização curricular, competência dos \nsistemas, a língua estrangeira é de oferta opcional \nnos anos finais do ensino fundamental. \n(E) Os conteúdos e as competências assinalados \nnas áreas definidas nas diretrizes curriculares \nnacionais do ensino médio serão explicitados \npelos respectivos sistemas, observadas as \nespecificidades da educação de jovens e adultos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: As Diretrizes Curriculares Nacionais para a \nEducação Infantil são articuladas em \nconsonância com as Diretrizes Curriculares \nNacionais da Educação Básica. Elas visam \norientar as políticas públicas nas áreas descritas \na seguir, afora:",
+            "alternativas": {
+                "A": "Elaboração.",
+                "B": "Planejamento.",
+                "C": "Execução e avaliação das propostas \npedagógicas.",
+                "D": "Diagnóstico.",
+                "E": "Execução e avaliação das propostas \ncurriculares. \n \n \n \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 16 de 17 QUESTÃO 49 \nAo analisar uma unidade didática, Zabala elenca \nalgumas constatações em relação aos conteúdos \ne conceituais trabalhados, que foram descritas a \nseguir, exceto: \n(A) Por meio da análise de uma unidade didática, \né possível conhecer os conteúdos que são \ntrabalhados. \n(B) A análise de uma unidade didática, a partir da \ncompreensão de seus conteúdos, possibilita \nestabelecer um paralelo entre o que se faz e o que \nse pretende nos objetivos. \n(C) Para efetuar uma avaliação completa da \nunidade didática basta estudar a pertinência dos \nconteúdos. \n(D) Um ensino que defende a função \npropedêutica universitária prioriza os diferentes \ntipos conceituais. \n(E) A tipologia dos conteúdos permite a \ndefinição das diferentes posições sobre o papel \nque deve ter o ensino. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 50 \nLerner, em sua obra: “Ler e escrever na escola: o \nreal, o possível e o necessário”, destaca alguns \naspectos concernentes à função avaliadora da \nleitura e escrita. Leia as asserções posteriores e \nassinale a que contradiz a perspectiva da autora. \n(A) É preciso delegar provisoriamente às \ncrianças a responsabilidade de revisar seus \nescritos. \n(B) É necessário que o professor tenha uma \nparticipação ativa e contínua no intuito de \nauxiliar as crianças a descobrirem possíveis \nproblemas de escrita que elas sozinhas não teriam \ncondições de descobrir. \n(C) Ao diminuir a pressão do controle, torna-se \npossível outras formas de avaliação da \naprendizagem. \n(D) É mais fácil para o aluno expressar suas \ninterpretações quando o professor não comunica \nde imediato sua opinião. \n(E) A função avaliadora do ato de ler e escrever \ndeve ser compartilhada. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Juquitiba - Concurso Público 01/2023                                             INSTITUTO AVANÇA-SP \n \nSUPERVISOR DE ENSINO                                                                                                                           Página 17 de 17"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Com o final da narrativa, conclui -se que o \npersonagem que toma a iniciativa de telefonar \npara a pessoa com quem havia se desentendido:",
+            "alternativas": {
+                "A": "mantém -se resoluto ao determinar que se \naproximará das pessoas no Ano -Novo.",
+                "B": "não consegue pôr em prática seu projeto \npara o fim do milênio.",
+                "C": "superou o motivo do desentendimento por \ncompleto.",
+                "D": "não estava de fato enternecido pelas \nenxaquecas de Vivinha.",
+                "E": "é consentâneo ao alinhar seu projeto de \nAno-Novo e sua decisão final sobre tal \ndesafeto."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Em “— A vida é muito curta. Você está me \nentendendo? Assim não dá.” , a palavra \n“assim”  é empregada como um recurso \ncoesivo. O elemento do texto a que se refere tal \npalavra é:",
+            "alternativas": {
+                "A": "a vida, por ser muito curta.",
+                "B": "o outro personagem, com quem o \ninterlocutor estava brigado.",
+                "C": "a própria situação, que, para o interlocutor, \nnão deveria continuar da forma como estava.",
+                "D": "as enxaquecas de Vivinha, que persistiam.",
+                "E": "o telefonema, do qual o interlocutor se \narrepende logo depois.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 3 de 14 QUESTÃO 03 \nA palavra “enternecido” , que ocorre no excerto \n“Estava tão enternecido com as enxaquecas da \nVivinha que mal podia falar.” , exprime o \ncontrário de:  \n(A) compadecido.  \n(B) apático.  \n(C) preocupado.  \n(D) condoído.  \n(E) empático."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A transposição do excerto “ — Eu nem me \nlembro mais por que nós brigamos. Juro que \nnão lembro.”, que está em discurso direto, para \ndiscurso indireto resultaria em:",
+            "alternativas": {
+                "A": "Ele disse que nem se lembrava mais por que \neles brigaram, e que jura que não se lembra.",
+                "B": "Ele disse que nem se lembra mais por que \neles brigavam. Jura que não se lembra.",
+                "C": "Ele disse que nem se lembra mais por que \neles brigaram. Jurava que não lembrava.",
+                "D": "Ele disse que nem se lembrava mais por que \neles tinham brigado, e que jurava que não se \nlembrava.",
+                "E": "Ele disse que nem se lembra mais por que \neles brigam. Jura que não lembra."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Analise as sentenças a seguir, retiradas do texto:  \nI. Eu nem me lembro mais por que nós \nbrigamos.   \nII. Juro que não lembro.  \nIII. Tinha se lembrado da bobagem que \nmotivara a briga.  \nNas sentenças dadas, a palavra “que”  ocorre \ncomo pronome relativo apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  \n  \nConsidere o excerto a seguir, retirado da \npágina Wikipedia sobre cães, para \nresponder às questões 6 e 7: \n \n“O cão, no Brasil também chamado de \ncachorro , é um mamífero carnívoro  da família \ndos canídeos, subespécie  do lobo, e talvez  o \nmais antigo animal  domesticado pelo ser \nhumano .”"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Dentre as palavras em destaque, que ocorrem \nno excerto indicado, são trissílabas apenas:",
+            "alternativas": {
+                "A": "cachorro; subespécie; animal.",
+                "B": "cachorro; animal; humano.",
+                "C": "subespécie; animal; humano.",
+                "D": "cachorro; subespécie; animal; humano.",
+                "E": "subespécie; talvez; animal; humano."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Dentre as palavras a seguir, em destaque no \nexcerto indicado, classifica -se como oxítona \napenas:",
+            "alternativas": {
+                "A": "cachorro.",
+                "B": "carnívoro.",
+                "C": "subespécie.",
+                "D": "animal.",
+                "E": "humano."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as palavras a seguir quanto ao emprego \ndo hífen e assinale a alternativa em que se \nverifica o uso correto desse sinal gráfico.",
+            "alternativas": {
+                "A": "manda -chuva.",
+                "B": "mal -de-Chagas.",
+                "C": "meio -dia.",
+                "D": "semi -novo.",
+                "E": "dona -encrenca.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 4 de 14 QUESTÃO 09 \nAnalise as sentenças a seguir quanto ao \nemprego das expressões “porque” , “por que” ,  \n“por quê” e “porquê” . Assinale a alternativa \nem que não ocorre desvio quanto ao uso dessas \nexpressões.   \n(A) Entendo perfeitamente porque  ele me trata \nassim.   \n(B) O motivo por que não fui à festa de \naniversário foi a chuva forte de ontem.  \n(C) Somos amigas; não há porque agradecer.  \n(D) Gostaria de saber o por quê não atende às \nminhas ligações.   \n(E) Ela reagiu daquela forma por que está \ncansada de tanta humilhação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: 0 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica voz verbal \npassiva analítica.",
+            "alternativas": {
+                "A": "Recuperaram -se artefatos anteriores à \nRevolução Industrial.",
+                "B": "A mãe da aluna foi orientada pela direção \ndo colégio a buscar ajuda psicológica.",
+                "C": "Ana fez um relatório sobre os gastos \nmensais do escritório.",
+                "D": "A equipe realizou o resgate dos animais \nabandonados na sexta -feira.",
+                "E": "Realizaram -se coletas de dados de \nmoradores em todos os bairros do município.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Sabe -se que 50% das questões de uma \ndeterminada prova de vestibular são referentes \nao conteúdo de português, 25% são de \nmatemática e os outros 25% são de inglês. Um \ncandidato acertou 80% da prova de português, \n70% da prova de matemática, e 60% da prova \nde inglês. Quantos por cento das questões totais \ndo exame o candidato acertou?",
+            "alternativas": {
+                "A": "75,5%.",
+                "B": "72,5%.",
+                "C": "70,5%.",
+                "D": "79,0%.",
+                "E": "71,0%.  \n QUESTÃO 12 \nA média aritmética simples das idades dos 10 \nalunos de uma turma é 25 anos. Se excluirmos \no mais velho e o mais novo da turma, a nova \nmédia continua sendo 25 anos. Sabendo -se que \na diferença entre as idades do mais velho e do \nmais novo é 10 anos, qual a idade do mais \nnovo?  \n(A) 12 anos.  \n(B) 10 anos.  \n(C) 15 anos.  \n(D) 20 anos.  \n(E) 18 anos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: A figura abaixo mostra um gráfico da vazão de \numa torneira em litros por hora ao longo do \ntempo:  \nAnalisando o gráfico, qual o volume total \ndespejado no período das 12:00 às 18:00, em \nlitros?",
+            "alternativas": {
+                "A": "320.",
+                "B": "280.",
+                "C": "340.",
+                "D": "360.",
+                "E": "380."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Uma máquina perfuratriz é utilizada para fazer \num furo no solo para que geólogos possam \nestudar sua composição. Suponha que a \nmáquina consiga perfurar uma rocha numa \nvelocidade de 0,15 mm por segundo. Quanto \ntempo levará para que a máquina perfure 81 \nmetros dessa rocha?",
+            "alternativas": {
+                "A": "15 horas.",
+                "B": "150 horas.",
+                "C": "170 horas.",
+                "D": "180 horas.",
+                "E": "1500 horas.  \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 5 de 14 QUESTÃO 15 \nUm determinado retângulo tem razão entre seus \nlados de 7/2, e seu perímetro é 27 cm. Indique \na sua área, em centímetros quadrados:  \n(A) 10,5.  \n(B) 15,0.  \n(C) 17,5.  \n(D) 30,0.  \n(E) 31,5."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Cada um dos cientistas Alberto, Breno, Carlos \ne Damásio, visitou um estado diferente da \nregião Norte do país. Eles visitaram Amapá, \nRoraima, Rondônia e Tocantins, não \nnecessariamente nesta ordem. Sabe -se que:  \nI – Alberto viajou para o Amapá;  \nII – Breno não viajou para Rondônia;  \nIII – Carlos e Damásio não viajaram para \nRoraima;  \nIV – Carlos não viajou para o Tocantins;  \nCom base nas afirmativas, podemos concluir \nque:",
+            "alternativas": {
+                "A": "Damásio viajou para o Amapá.",
+                "B": "Breno viajou para o Tocantins.",
+                "C": "Carlos viajou para o Amapá.",
+                "D": "Breno viajou para Roraima.",
+                "E": "Damásio viajou para Rondônia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Numa determinada região, os meteorologistas \ntêm observado que a cada ano, chove -se 6 horas \na menos durante o ano comparado ao ano \nanterior. Se no ano de 2023 choveu 101 dias \ncompletos nessa região, em que ano não \nchoverá nenhum dia, se a previsão dos \nmeteorologistas se mantiver?",
+            "alternativas": {
+                "A": "2426.",
+                "B": "2427.",
+                "C": "2428.",
+                "D": "2332.",
+                "E": "2665.  \n QUESTÃO 18 \nObserve a seguinte sequência figural:  \nDe acordo com as correspondências abaixo, \nindique o elemento que deve ocupar o lugar da \nlacuna:  \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Duas aplicações a juro simples, com o mesmo \ncapital inicial de R$ 10.000,00 foram aplicadas \nno mesmo dia. Após 6 meses, a diferença do \njuro recebido entre as duas aplicações é R$ \n600,00. Neste caso, qual a diferença entre a \nmaior e a menor taxa de juro das duas \naplicações?",
+            "alternativas": {
+                "A": "1,0%.",
+                "B": "1,5%.",
+                "C": "2,0%.",
+                "D": "2,5%.",
+                "E": "3,0%."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Pentágono, Heptágono e Eneágono são \npolígonos regulares que têm o número de lados \nrespectivamente igual a:",
+            "alternativas": {
+                "A": "6, 7, 11.",
+                "B": "5, 7, 11.",
+                "C": "6, 9, 7.",
+                "D": "5, 9, 7.",
+                "E": "5, 7, 9.  \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 6 de 14 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Ao digitar uma redação no Microsoft Word \n2016 e clicar na tecla de atalho Ctrl+E, o \nresultado será:",
+            "alternativas": {
+                "A": "A exclusão da última palavra digitada.",
+                "B": "A centralização da última linha digitada.",
+                "C": "A seleção da última linha digitada.",
+                "D": "A correção do texto já desenvolvido.",
+                "E": "A leitura em voz alta do texto já redigido."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: No Microsoft Excel 2016 a Função SE  é uma \ndas funções mais populares do Excel e permite \nque o usuário:",
+            "alternativas": {
+                "A": "Faça multiplicações simultâneas entre \nvárias células da tabela.",
+                "B": "Faça divisões simultâneas entre várias \ncélulas da tabela.",
+                "C": "Faça seleção de cor sobre valores \nduplicados nas tabelas.",
+                "D": "Faça comparações lógicas entre um valor e \naquilo que se espera.",
+                "E": "Faça a exclusão de dados duplicados das \ntabelas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Para localizar conteúdo em uma tabela ou um \nintervalo por linha utilizando o Microsoft Excel \n2016, o responsável pela extração dos dados \npode usar a função:",
+            "alternativas": {
+                "A": "SOMASE",
+                "B": "PROCV",
+                "C": "SES",
+                "D": "DATINT",
+                "E": "DATFUT"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: No Microsoft Excel 2016, a opção para inserir \ngráficos está acessível na guia:",
+            "alternativas": {
+                "A": "Inserir.",
+                "B": "Fórmulas.",
+                "C": "Correspondência.",
+                "D": "Ilustrações.",
+                "E": "Dados.  QUESTÃO 25 \nUtilizando o Microsoft Excel 2016 e acionando \nas teclas de atalho Ctrl+W o resultado será:  \n(A) Tornar a célula de trabalho em negrito.  \n(B) Limpar todos os dados inseridos na pasta de \ntrabalho.  \n(C) Remover o conteúdo da célula.  \n(D) Fechar a pasta de trabalho do Excel.  \n(E) Adicionar bordas na tabela.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: “O êxito do sistema educacional finlandês não \nse baseia em certa ideologia educativa, mas \nnuma série de decisões que, juntas, criam um \nbom ambiente para o estudo. Ao falar da \neducação finlandesa é preciso mencionar a \nflexibilidade com que se combinam os ní veis \nnacional e o local.”  \n(INGER Enk Vist. A boa e a má educação: \nExemplos Internacionais. Kírion, 2020, \nadaptado ) \nÉ possível concluir, de acordo com o exemplo \ninternacional de boa educação que a autora faz \nmenção no trecho acima, que não há uma \nabordagem única ou uma teoria educacional \ndominante que explique o sucesso da Finlândia \nna educação, mas:",
+            "alternativas": {
+                "A": "a centralização das decisões administrativas \npara garantir uniformidade em todas as escolas.",
+                "B": "a padronização dos currículos para \nassegurar a equivalência de qualidade em todo \no país.",
+                "C": "o fortalecimento da autonomia local, \npermitindo que as decisões sejam tomadas de \nforma descentralizada, de modo a promover a \ndiversidade de modelos educacionais adaptados \nàs necessidades dos alunos e das comunidades \nespecíficas.",
+                "D": "a implementação de métodos de ensino \ncustomizados, para manter a consistência \npedagógica do modelo nacional.",
+                "E": "a instituição de parcerias com instituições \nlocais visando a preservação da identidade \nnacional na educação.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 7 de 14 QUESTÃO 27  \nDe acordo com Amanda Ripley em “As \ncrianças mais inteligentes do mundo”, \npesquisas recentes revelam que o sucesso na \neducação é resultado de uma combinação \ncomplexa de diversos fatores. Dentre esses \nfatores, NÃO podemos destacar:  \n(A) o envolvimento dos pais na educação de \nseus filhos.  \n(B) a excelência na formação dos professores.  \n(C) a valorização atribuída à educação pelo \npaís. \n(D) a importância maior da teoria do que da \nprática em sala de aula durante a formação dos \nprofessores.  \n(E) a motivação, a persistência e a \nautodisciplina dos estudantes."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Na obra “Pontos fora da curva”, Olavo \nNogueira Filho ilustra a evolução do \npensamento e das práticas reformistas na \neducação ao longo das últimas décadas. Ele \ncategoriza as reformas educacionais em 1ª, 2ª e \n3ª geração. Qual das alternativas abaixo melhor \nrepresenta uma das principais características da \n3ª geração de reformas educacionais?",
+            "alternativas": {
+                "A": "Padronização da gestão centrada no tripé \ncurrículo -avaliação -incentivo.",
+                "B": "Descarte das práticas das gerações \nanteriores.",
+                "C": "Foco na lógica da coerência sistêmica, ou \nseja, de que a resolução de problemas \ncomplexos exige medidas em múltiplas frentes \ne muito bem articuladas entre si.",
+                "D": "Centralismo na introdução de práticas de \ngestão em escolas.",
+                "E": "Priorização do acesso à escola com \ninfraestrutura adequada como medida mais \neficaz.  \n \n \n QUESTÃO 29  \n“A escola, como organização social, precisa ser \nvista como um local de aprendizagem para \nalunos e professores, um espaço onde todos \naprendem e todos ensinam, um lugar de \naplicação de saberes científicos, e também de \nprodução de saberes oriundos da prática \npedagógica.”  \n(ALVES, Cecília Pescatore; SASS, Odair. \nFormação de Professores e Campos do \nConhecimento. 1a Edição. São Paulo. Casa do \nPsicólogo, 2004 ) \nAcerca da formação continuada do professor \ncentrada na escola, assinale verdadeiro (V) ou \nfalso (F) para as afirmações a seguir:  \n1. ( ) A formação continuada, quando vista \ncomo uma modalidade centrada na escola, \nnecessita considerar mais as necessidades da \nescola, do que dos próprios professores.  \n2. ( ) As necessidades dos professores devem \nser consideradas o mais abstrato possível e se \nrestringir ao âmbito individual e não como \nnecessidades compartilhadas pelo grupo ao \nqual o professor pertence.  \n3. ( ) Ao considerar as demandas específicas \nenfrentadas pelos professores em suas salas de \naula e escolas, os programas de formação \npodem ser mais direcionados e eficazes na \npromoção do crescimento profissional e na \nmelhoria da prática pedagógica.  \nDe acordo com as afirmações, a sequência \ncorreta é:  \n(A) 1.V; 2.F; 3.V.  \n(B) 1.F; 2. F; 3.V.  \n(C) 1.F; 2.F; 3.F.  \n(D) 1.F; 2.V; 3.F.  \n(E) 1.V; 2.V; 3.F.  \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 8 de 14 QUESTÃO 30  \nEm “Afetividade na escola”, obra organizada \npor Valéria Amorim Arantes, são abordados \ntemas como as relações entre inteligência e \nafetividade, segundo Piaget. A esse respeito, \nassinale a alternativa INCORRETA.  \n(A) As emoções e os afetos desempenham um \npapel importante no processo de aprendizagem \ne desenvolvimento cognitivo.  \n(B) A afetividade não é separada da \ninteligência, mas sim uma parte integrante do \ndesenvolvimento cognitivo.  \n(C) As crianças aprendem melhor quando estão \nemocionalmente envolvidas e motivadas em \nsuas atividades.  \n(D) As crianças podem ficar mais propensas a \nperseverar em uma tarefa difícil se estiverem \nmotivadas e emocionalmente investidas nela.  \n(E) A emoção é irracional e deve ser tratada de \nmaneira independente da cognição."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Lev Vygotsky foi um psicólogo russo \nconhecido por suas contribuições para a \npsicologia do desenvolvimento e a teoria \nsociocultural. Ele enfatizou a importância da \nmediação simbólica no desenvolvimento \ncognitivo das crianças e que:",
+            "alternativas": {
+                "A": "As crianças aprendem e internalizam \nconceitos por meio de interações simbólicas \nsomente com adultos.",
+                "B": "A linguagem é a única forma importante de \naquisição de conhecimento.",
+                "C": "A mediação simbólica ocorre nos primeiros \nestágios de desenvolvimento e se encerra antes \nda vida adulta.",
+                "D": "A mediação simbólica é um processo \nunidimensional.",
+                "E": "É importante reconhecer as diferenças \nculturais ao considerar a eficácia da mediação \nsimbólica em diferentes contextos \neducacionais.  \n \n QUESTÃO 32  \nO livro “Nove Olhares sobre a Supervisão”, \norganizado por Celestino Alves da Silva Jr. e \nMary Rangel, aborda a ação supervisora, que \nengloba o conjunto de atividades e \nresponsabilidades desempenhadas por \nsupervisores escolares em instituições \neducacionais.  Uma característica distintiva da \nação supervisora escolar de cunho tradicional é:  \n(A) Ter como objetivo a harmonia do grupo.  \n(B) Trabalhar as diferenças.  \n(C) Trabalhar buscando criar demandas.  \n(D) Fazer a leitura da escola, considerando sua \nsingularidade.  \n(E) Ser um problematizador."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Na obra “A Avaliação Educacional: \nFundamentos e Práticas”, organizada por Isabel \nCappelletti, é discutida a organização do \nsistema de ciclos com progressão continuada no \nBrasil, juntamente com os aspectos \nrelacionados à avaliação nesses cenários. Nesse \ncontexto, qual dos seguintes aspectos \nrepresenta o principal objetivo da avaliação \nformativa nos ciclos com progressão \ncontinuada?",
+            "alternativas": {
+                "A": "Classificar os alunos de acordo com seu \ndesempenho acadêmico.",
+                "B": "Criar uma competição saudável entre os \nestudantes para estimular o progresso.",
+                "C": "Identificar os alunos com dificuldades de \naprendizagem e separá -los do sistema.",
+                "D": "Monitorar e intervir na aprendizagem dos \nalunos ao longo dos ciclos de forma contínua.",
+                "E": "Estabelecer critérios rígidos de promoção \nde ano para garantir a qualidade educacional.  \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 9 de 14 QUESTÃO 3 4 \nDo ponto de vista tecnológico, especialistas \nidentificaram que o Brasil se encontra no início \nda integração do administrativo e do \npedagógico, ou seja, há um movimento em \ndireção à unificação e integração das redes \nadministrativa e pedagógica, visando aproveitar \no potencial da tecnologia para melhorar tanto a \ngestão escolar quanto os processos de ensino e \naprendizagem. A esse respeito, analise as \nseguintes afirmações a segu ir. \nI. No mercado, há programas de gestão \ntecnológica que buscam integrar todas as \ninformações relacionadas à escola, incluindo \ndados de alunos, famílias, professores, \nfuncionários e fornecedores. Esses sistemas \ntambém abrigam recursos pedagógicos, como \nbancos  de dados para aulas, atividades de \nprofessores, alunos e bibliotecas virtuais.  \nII. As principais instituições de ensino do Brasil \nadotam programas integrados de gestão, \nreduzindo o uso de papel e convertendo \ndocumentos em arquivos digitais organizados \nem pastas eletrônicas por assunto em um \nservidor central.  \nIII. A Internet é importante para comunicação e \ndivulgação escolar, permitindo que cada \ninstituição compartilhe suas atividades, \nprojetos e filosofia pedagógica com \ntransparência perante a comunidade.  \nIV. A tecnologia deve substituir completamente \nmétodos tradicionais de ensino, promovendo a \ncolaboração e a personalização da \naprendizagem.  \nCom base nas afirmativas, estão corretas:  \n(A) Apenas I e II.  \n(B) Apenas II, III e IV.  \n(C) Apenas I, III e IV.  \n(D) Apenas I, II e III.  \n(E) Apenas I, II e IV.  \n \n \n \n QUESTÃO 3 5 \nDe acordo com a obra, organizada por Naura \nSyria C. Ferreira, “Supervisão educacional para \numa escola de qualidade”, há uma mudança no \npapel da supervisão educacional. Agora, além \nde garantir a execução rigorosa do trabalho \neducativo, a supervisão está for temente \ncomprometida com a construção de um novo \ntipo de conhecimento, chamado de \n“conhecimento emancipação”. Nesse sentido, \nos profissionais da educação devem ser \ndesafiados a:  \n(A) Garantir o controle da ação dos professores.  \n(B) Priorizar a transmissão de conteúdos \ncurriculares específicos.  \n(C) Estabelecer hierarquias dentro da escola.  \n(D) Promover uma educação que capacite os \nalunos a pensarem criticamente.  \n(E) Manter um enfoque exclusivo na avaliação \nquantitativa dos alunos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Sobre os direitos, deveres e princípios \nrelacionados à educação no país, previstos na \nConstituição Federal de 1988, assinale a \nalternativa INCORRETA.",
+            "alternativas": {
+                "A": "A educação é um direito de todos e um \ndever do Estado e da família.",
+                "B": "É garantida autonomia didático -científica, \nadministrativa e de gestão financeira das \nuniversidades, e estas devem obedecer ao \nprincípio da indissociabilidade entre ensino, \npesquisa e extensão.",
+                "C": "São deveres do Estado garantir o ensino \nfundamental obrigatório e gratuito, o \natendimento educacional especializado aos \nportadores de deficiência, exclusivamente na \nrede regular de ensino.",
+                "D": "Devem ser fixados conteúdos mínimos para \no ensino fundamental, assegurando a formação \nbásica comum e o respeito aos valores culturais \ne artísticos nacionais e regionais.",
+                "E": "A União, os Estados, o Distrito Federal e os \nMunicípios devem organizar em regime de \ncolaboração seus sistemas de ensino, com \nresponsabilidades específicas para cada ente \nfederativo.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 10 de 14 QUESTÃO 37  \nDe acordo com a Constituição Federal de 1988, \nqual é a responsabilidade prioritária dos \nMunicípios no que tange à educação?  \n(A) Atuar no financiamento das instituições de \nensino públicas federais.   \n(B) Garantir o acesso dos adolescentes ao \nensino médio.   \n(C) Exercer função redistributiva em relação a \ntodas as escolas.  \n(D) Atuar no ensino fundamental e na educação \ninfantil.  \n(E) Definir formas de colaboração entre todos \nos entes federativos, para assegurar a equidade \ndo ensino obrigatório."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Assinale verdadeiro (V) ou falso (F) para as \nafirmações sobre os direitos e deveres \nestabelecidos no Estatuto da Criança e do \nAdolescente:  \n1. ( )  É facultado aos dirigentes de \nestabelecimentos de ensino fundamental \ncomunicar ao Conselho Tutelar casos de maus -\ntratos envolvendo seus alunos.  \n2. ( ) Os municípios devem facilitar a \ndestinação de recursos e espaços para \nprogramações culturais, esportivas e de lazer \nvoltadas para a infância e a juventude, com \napoio dos estados e da União.  \n3. ( ) Os pais ou responsáveis não têm obrigação \nde matricular seus filhos na rede regular de \nensino, desde que ofereçam alternativas \neducacionais em casa.  \nDe acordo com as afirmações, a sequência \ncorreta é:",
+            "alternativas": {
+                "A": "1.V; 2.F; 3.V.",
+                "B": "1.F; 2. F; 3.V.",
+                "C": "1.F; 2.F; 3.F.",
+                "D": "1.F; 2.V; 3.F.",
+                "E": "1.V; 2.V; 3.F.  \n QUESTÃO 39  \nDe acordo com a Lei de Diretrizes e Bases da \nEducação Nacional, o poder público, na esfera \nde sua competência federativa, deverá:  \n(A) Realizar a chamada pública dos estudantes.  \n(B) Recensear semestralmente as crianças e \nadolescentes em idade escolar, bem como os \njovens e adultos que não concluíram a educação \nbásica.  \n(C) Construir novas escolas em áreas de baixa \ndensidade populacional.  \n(D) Elaborar listas de espera para matrícula em \nestabelecimentos de educação básica de todas \nas redes de ensino.  \n(E) Zelar, juntamente com o Poder Judiciário, \npela qualidade de ensino."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Analise as seguintes afirmações sobre a Lei nº \n10.639/2003, que inclui no currículo oficial da \nRede de Ensino a obrigatoriedade da temática \n“História e Cultura Afro -Brasileira”.  \nI. A lei contribui para a promoção do mito da \ndemocracia racial, ao reconhecer e valorizar a \ndiversidade cultural do país.  \nII. O objetivo da inclusão curricular não é \napenas reconhecer a diversidade étnico -cultural \ndo Brasil, mas também combater o racismo \nestrutural e promover a valorização da \nidentidade e do legado histórico dos \nafrodescendentes no país.  \nIII. A abordagem da história e cultura afro -\nbrasileira não deve ser tratada apenas de forma \nisolada, mas sim incorporada de maneira \ntransversal em diversas disciplinas e áreas de \nconhecimento.  \nIV. A lei estabelece a obrigatoriedade do ensino \nsobre História e Cultura Afro -Brasileira nos \nestabelecimentos de ensino fundamental e \nmédio, sejam eles públicos ou privados.  \nCom base nas afirmativas, estão corretas:",
+            "alternativas": {
+                "A": "Apenas I e II.",
+                "B": "Apenas II, III e IV.",
+                "C": "Apenas I, III e IV.",
+                "D": "Apenas I, II e IV.",
+                "E": "Apenas I, II e III.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 11 de 14 QUESTÃO 41  \nA Lei nº 10.436/2002 reconhece a Língua \nBrasileira de Sinais (Libras) como meio legal \nde comunicação e expressão das comunidades \nsurdas do Brasil. A esse respeito, é \nINCORRETO afirmar:  \n(A) A Libras deve ser respeitada e utilizada em \ndiversos contextos sociais, educacionais e \ninstitucionais.  \n(B) A Libras é um sistema linguístico de \nnatureza visual -motora, com estrutura \ngramatical própria.  \n(C) O poder público em geral e empresas \nconcessionárias de serviços públicos devem \ninstitucionalizar formas de apoiar o uso e \ndifusão da Libras como meio de comunicação.  \n(D) O sistema educacional municipal deve \ngarantir a inclusão do ensino da Libras nos \ncursos de formação de Educação Especial, \nFonoaudiologia e Magistério, em seus níveis \nmédio e superior.  \n(E) A Libras pode substituir a modalidade \nescrita da língua portuguesa, devendo as \npessoas surdas escolher entre um dos meios de \ncomunicação."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: O Decreto n° 7.611/2011, que dispõe sobre a \nEducação Especial e o atendimento educacional \nespecializado, assegura um sistema educacional \ninclusivo em todos os níveis, sem \ndiscriminação e baseado na igualdade de \noportunidades. A esse respeito, é CORRETO \nafirmar:",
+            "alternativas": {
+                "A": "Todas as pessoas com a mesma deficiência \ntêm as mesmas necessidades educacionais.",
+                "B": "Todos os estudantes com deficiência devem \ndepender de cuidadores ou profissionais para \nrealizar tarefas ou participar da vida escolar.",
+                "C": "A inclusão de estudantes com deficiência é \nmais do que um direito, é um ato de caridade \npor parte das escolas e sociedade.",
+                "D": "As pessoas com deficiência são aquelas \nincapazes de aprender ou contribuir de forma \nsignificativa para a sociedade.",
+                "E": "O Poder Público deve estimular o acesso ao \natendimento educacional especializado \ncomplementar ou suplementar ao ensino \nregular.  QUESTÃO 43  \nQual é a finalidade da educação infantil, de \nacordo com a Lei de Diretrizes e Bases da \nEducação Nacional?  \n(A) Proporcionar conhecimentos específicos \nem áreas como matemática e língua portuguesa \ndesde cedo.  \n(B) Preparar as crianças para o mercado de \ntrabalho através de atividades práticas.  \n(C) Desenvolver integralmente a criança em \nseus aspectos físico, psicológico, intelectual e \nsocial, complementando a ação da família e da \ncomunidade.  \n(D) Fornecer ensino formal e sistemático desde \na tenra idade.  \n(E) Treinar habilidades específicas para futuras \nprofissões."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: No contexto da educação brasileira, o Plano \nNacional de Educação (PNE) desempenha um \npapel fundamental na formulação de políticas \neducacionais. São diretrizes do PNE, \nEXCETO:",
+            "alternativas": {
+                "A": "Erradicação do analfabetismo.",
+                "B": "Universalização do atendimento escolar.",
+                "C": "Formação para a cidadania, com ênfase na \nabordagem voltada para a transmissão de \nconhecimentos teóricos e acadêmicos.",
+                "D": "Estabelecimento de meta de aplicação de \nrecursos públicos em educação como proporção \ndo Produto Interno Bruto - PIB, que assegure \natendimento às necessidades de expansão, com \npadrão de qualidade e equidade",
+                "E": "Superação das desigualdades educacionais, \ncom ênfase na promoção da cidadania e na \nerradicação de todas as formas de \ndiscriminação.  \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 12 de 14 QUESTÃO 45  \nDe acordo com a Lei nº 13.005/2004, que \naprova o Plano Nacional de Educação, os entes \nfederados estabelecerão nos respectivos planos \nde educação estratégias que:  \n(A) assegurem a autonomia e independência \ndas políticas educacionais com as demais \npolíticas sociais, que devem evitar de dialogar.  \n(B) considerem as necessidades gerais, e não \nindividuais, das populações do campo e das \ncomunidades indígenas e quilombolas.  \n(C) garantam o atendimento das necessidades \nespecíficas na educação especial, com foco na \nadaptação da criança ao ambiente escolar já \npré-estabelecido, sem modificar o ambiente.  \n(D) promovam a articulação interfederativa na \nimplementação das políticas educacionais.  \n(E) permitam a participação de uma parte dos \nrepresentantes da comunidade educacional que \nesteja disposta a realizar as mudanças \nnecessárias."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: A Base Nacional Comum Curricular (BNCC) é \num documento que estabelece os \nconhecimentos, competências e habilidades \nessenciais que todos os alunos da Educação \nBásica devem desenvolver ao longo de sua \ntrajetória escolar no Brasil. Um dos principais \nfundament os pedagógicos da BNCC é o foco no \ndesenvolvimento de competências. Nesse \ncontexto, competência é entendida como:",
+            "alternativas": {
+                "A": "a mobilização de conhecimentos, \nhabilidades, atitudes e valores para resolver \nsituações -problema da vida cotidiana, do \nmundo do trabalho e do exercício da cidadania.",
+                "B": "ênfase no ensino de habilidades técnicas e \nna acumulação de informações específicas.",
+                "C": "a divisão curricular em áreas específicas do \nconhecimento.",
+                "D": "habilidades socioemocionais relacionadas à \ninteração social e ao gerenciamento emocional.",
+                "E": "priorização da transmissão e a aquisição de \nconhecimentos teóricos.  QUESTÃO 47  \nConsiderando os direitos de aprendizagem e \ndesenvolvimento, a Base Nacional Comum \nCurricular (BNCC) estabelece cinco campos de \nexperiências na Educação Infantil, nos quais as \ncrianças podem aprender e se desenvolver. \nQual dos seguintes NÃO é um dos campos de \nexperiências definidos pela BNCC?  \n(A) O eu, o outro e o nós.  \n(B) Corpo, gestos e movimentos.  \n(C) Traços, sons, cores e formas.  \n(D) Escuta, fala, pensamento e imaginação.  \n(E) Identidade de gênero e orientação sexual."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: Na evolução histórica das políticas de \natendimento à infância no Brasil, destaca -se a \ntransição da Educação Infantil de um favor para \nas classes menos favorecidas em um direito \nsocial de todas as crianças. Qual foi o principal \nmarco histórico que represent ou a elevação da \nEducação Infantil como um direito social de \ntodas as crianças?",
+            "alternativas": {
+                "A": "A promulgação da Constituição Federal de \n1988.",
+                "B": "A criação do Estatuto da Criança e do \nAdolescente de 1990.",
+                "C": "A aprovação da Lei de Diretrizes e Bases da \nEducação Nacional em 1996.",
+                "D": "O início dos movimentos sociais de “luta \npor creche” na década de 1950.",
+                "E": "A implementação do Plano Nacional de \nEducação (PNE) em 2001.  \n \n \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 13 de 14 QUESTÃO 49  \nAs creches e pré -escolas, conforme o atual \nordenamento jurídico, são instituições \neducacionais destinadas ao cuidado e educação \nde crianças de zero a cinco anos. Elas possuem \num caráter institucional e educacional distinto \nde outros contextos de cuidado in fantil, sendo \nnecessária a presença de profissionais com \nformação específica legalmente determinada. A \nesse respeito, é INCORRETO afirmar:  \n \n(A) Essas instituições estão sujeitas a \ncredenciamento, reconhecimento e supervisão \ndo sistema de ensino ao qual estão vinculadas.  \n(B) Elas devem oferecer sempre jornadas \nintegrais e o poder público é responsável por \nfornecer vagas próximas à residência das \ncrianças.  \n(C) O papel sociopolítico e pedagógico da \nEducação Infantil é essencialmente delineado \npela legislação, que a integra como parte \nfundamental da Educação Básica.  \n(D) Esta etapa educacional visa o \ndesenvolvimento integral da criança e o \nfornecimento dos meios para sua progressão \nfutura no trabalho e nos estudos  \n(E) As creches e pré -escolas devem promover a \nigualdade de oportunidades entre homens e \nmulheres, complementando a educação das \ncrianças e proporcionando às mulheres \noportunidades além do contexto doméstico, o \nque contribui para a equidade de gênero e o \ndesenvolvimento integral das crianças.  \n \n \n \n \n \n \n \n \n \n QUESTÃO 50  \nAcerca da criança como sujeito no processo de \neducação, assinale verdadeiro (V) ou falso (F) \npara as afirmações a seguir:  \n \n1. ( ) As capacidades da criança são \nuniversalmente determinadas pela biologia \ndesde o nascimento.  \n \n2. ( ) Motricidade, linguagem, pensamento, \nafetividade e sociabilidade se desenvolvem a \npartir das interações desde o nascimento.  \n \n3. ( ) Cada criança apresenta um ritmo e forma \nprópria de se relacionar e interagir, testando e \nmodificando continuamente as significações \nque constrói.  \n \nDe acordo com as afirmações, a sequência \ncorreta é:  \n \n(A) 1.V; 2.F; 3.V.  \n(B) 1.F; 2. F; 3.V.  \n(C) 1.F; 2.F; 3.F.  \n(D) 1.F; 2.V; 3.V.  \n(E) 1.V; 2.V; 3.F.  \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 14 de 14"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, é correto afirmar que:",
+            "alternativas": {
+                "A": "gêmeos idênticos não têm a mesma \nimpressão digital porque não têm o mesmo DNA.",
+                "B": "embora só tenha sido demonstrada com \nauxílio de uma IA, a existência de semelhança \nentre as digitais de um mesmo indivíduo já era \naventada por pesquisadores.",
+                "C": "uma inteligência artificial revelou que cada \num de nossos dedos tem uma impressão digital \núnica.",
+                "D": "utilizando uma inteligência artificial, não \nserá mais necessário cadastrar a impressão digital \npara utilizar catracas ativadas por biometria.",
+                "E": "o uso mais provável da nova inteligência \nartificial será na investigação de crimes em que \nse encontrem marcas latentes de impressão \ndigital."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Assinale a alternativa correta, considerando as \ninformações do texto.",
+            "alternativas": {
+                "A": "A IA aprendeu a identificar quais digitais \npertenciam à mesma pessoa na primeira etapa do \ntreinamento, apenas a partir de impressões \ndigitais artificiais.",
+                "B": "Pelos métodos existentes hoje, ainda não é \npossível identificar um criminoso por suas \ndigitais deixadas em uma cena de crime, porque \nas marcas são latentes.",
+                "C": "Estudos feitos utilizando IA demonstraram \nque as impressões digitais de diferentes dedos de \numa mesma pessoa chegam a 77% de \nsemelhança.",
+                "D": "Para reconhecer um padrão entre diferentes \nimpressões digitais de uma mesma pessoa, o \naprendizado da IA passou por duas etapas, com \ndigitais artificiais e reais, respectivamente.",
+                "E": "Pode -se afirmar que a eficácia da IA é de \n27%, pois 50% de seus acertos foram por pura \nsorte.  \n QUESTÃO 03 \nConsidere a seguinte sentença retirada do texto: \n“Isso explica por que serviços de biometria só \nfuncionam se você usa o mesmo dedo que \ncadastrou inicialmente.” Analise as reescrituras \napresentadas a seguir, baseadas no excerto \napresentado, e assinale a alt ernativa em que se \nverifica o sentido mais próximo daquele expresso \nna sentença dada.     \n(A) Os serviços de biometria só funcionam caso \nvocê use o mesmo dedo que cadastrou \ninicialmente.  \n(B) Os serviços de biometria funcionam desde \nque você use o mesmo dedo que cadastrou \ninicialmente.  \n(C) Os serviços de biometria funcionam quando \nvocê usa o mesmo dedo que cadastrou \ninicialmente.  \n(D) A menos que você use o mesmo dedo que \ncadastrou inicialmente, os serviços de biometria \nfuncionam.   \n(E) Os serviços de biometria só funcionam salvo \nse você usar o mesmo dedo que cadastrou \ninicialmente."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A palavra apresentada a seguir, retirada do texto, \nque apresenta marcas que indicam derivação \nprefixal e flexão de gênero é:",
+            "alternativas": {
+                "A": "criminoso.",
+                "B": "identificação.",
+                "C": "inicialmente.",
+                "D": "pesquisadores.",
+                "E": "desconexas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: A palavra “cada”, que ocorre em “A impressão \ndigital de cada pessoa é única.”, é um:",
+            "alternativas": {
+                "A": "adjetivo.",
+                "B": "substantivo.",
+                "C": "pronome indefinido.",
+                "D": "pronome relativo.",
+                "E": "advérbio.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 4 de 16 QUESTÃO 06 \nConsidere as sentenças a seguir, que ocorrem no \ntexto:  \nI. O primeiro  passo foi treinar a rede neural.  \nII. A IA recebia três imagens: uma do “dedo \nâncora”, que seria comparado; uma de outro \ndedo, da mesma pessoa; e a terceira  do dedo de \numa outra pessoa.  \nIII. A máquina deveria dizer qual dos dois dedos \npertenciam à mesma pessoa do “dedo âncora”.  \nNas sentenças dadas, as palavras em destaque são \nclassificadas gramaticalmente e respectivamente \ncomo numerais dos tipos:  \n(A) cardinal, cardinal e ordinal.  \n(B) ordinal, ordinal e cardinal.  \n(C) fracionário, fracionário e cardinal.  \n(D) multiplicativo, multiplicativo e ordinal.  \n(E) ordinal, ordinal e fracionário."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Nas sentenças a seguir, o pronome em destaque \né oblíquo tônico apenas em:",
+            "alternativas": {
+                "A": "A minha opinião é a de que devemos levá -la \nao médico.",
+                "B": "Nós não saberemos se ficarmos aqui \nparados.",
+                "C": "Celina presenteou a si mesma com rosas e \nbombons.",
+                "D": "Quis fazer uma surpresa ao namorado, mas \nele não foi ao encontro.",
+                "E": "Os amantes se encontraram às escondidas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Nas sentenças a seguir, a conjunção ou locução \nem destaque é condicional apenas em:",
+            "alternativas": {
+                "A": "Leve um casaco, que está frio lá fora.",
+                "B": "Ele não trouxe roupa de frio, se bem que  já \nnão está tão frio.",
+                "C": "As coisas ficarão prontas a tempo, contanto  \nque todos ajudem.",
+                "D": "Fez todas as tarefas, embora  estivesse \ndoente.",
+                "E": "Está liberado para praticar exercícios físicos, \ndesde que o departamento médico o avaliou.  \n QUESTÃO 09 \nA concordância em gênero entre todas as \npalavras nominais está correta em:  \n(A) O rapaz se valeu de uma estratagema para \nsabotar seus inimigos.   \n(B) Incrédulo, o senhor pegou em seu bolso sua \npincenê para observar a cena.   \n(C) Quebrou a grafite da lapiseira ao deixá -la cair \nno chão.   \n(D) Ela foi diagnosticada com uma inflamação \ndo esclera, a parte branca do olho.   \n(E) Aquela seria a estandarte da revolução que \nestava prestes a começar."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as sentenças a seguir e assinale a \nalternativa em que a palavra “porquê” foi \nempregada corretamente.",
+            "alternativas": {
+                "A": "A festa foi cancelada porquê a anfitriã está \ndoente.",
+                "B": "Porquê todas as coisas são belas é que temos \nmotivos para sorrir.",
+                "C": "A polícia conseguiu desvendar o crime. Resta \napenas uma dúvida: porquê?",
+                "D": "Não se sabe o porquê do sumiço da aluna.",
+                "E": "Eu sei bem porquê você está mentindo.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: 1 \nCinco amigos, Alan, Bruna, Caio, Dênis e Erica, \ndecidem ler um livro juntos. Eles só têm um \nexemplar do livro, e vão revezar entre si a leitura. \nA cada dia, um amigo diferente vai ficar com o \nlivro. No primeiro dia o livro estará com Alan, no \nsegundo com B runa, depois Caio, depois Dênis e \nem seguida Erica. Depois o livro deve voltar para \nAlan, e assim sucessivamente. No 2024° dia de \nrevezamento, com que amigo estará o livro?",
+            "alternativas": {
+                "A": "Alan.",
+                "B": "Bruna.",
+                "C": "Caio.",
+                "D": "Dênis.",
+                "E": "Erica.  \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 5 de 16 QUESTÃO 12 \nAna e Bruno investiram seus capitais numa \naplicação a juro simples na mesma data inicial. \nSabe -se que Bruno investiu um valor igual ao \ndobro do capital de Ana, e o que ele ganha de \nlucro em três meses, Ana ganha em um ano. Com \nbase nessas informações, podemos dizer que a \nrazão entre o juro da aplicação de Bruno e de Ana \né: \n(A) 2.  \n(B) 3.  \n(C) 4.  \n(D) 6.  \n(E) 8."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Um fabricante de sapatos contrata dois \nvendedores, Anderson e Beatriz, para vender \nseus produtos. No mês de julho, Anderson \nvendeu 25% produtos a mais que suas vendas no \nmês de junho, enquanto Beatriz não variou o seu \nnúmero de produtos vendidos entre esse s dois \nmeses. Sabendo -se que no mês de junho Beatriz \nvendeu o dobro do número de produtos de \nAnderson, qual a razão entre o número de \nprodutos vendidos de Beatriz e de Anderson no \nmês de julho?",
+            "alternativas": {
+                "A": "8/3.",
+                "B": "4/3.",
+                "C": "7/5.",
+                "D": "8/5.",
+                "E": "5/7."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Observe a seguinte proposição:  \n“O atacante não jogou ou o time perdeu”  \nIndique a alternativa que contém a equivalente \nlógica dessa proposição:",
+            "alternativas": {
+                "A": "O atacante jogou e o time perdeu.",
+                "B": "O atacante jogou ou o time não perdeu.",
+                "C": "O atacante não jogou e o time perdeu.",
+                "D": "Se o atacante não jogou então o time perdeu.",
+                "E": "Se o atacante jogou então o time perdeu.  QUESTÃO 15 \nA figura abaixo mostra um retângulo ABCD cujo \nsegmento AB mede 1 cm, e o segmento BC mede \n2 cm:  \n \nO ponto E é o ponto médio do segmento AD. \nIndique o perímetro do triângulo ACE:  \n(A) √2+2√5. \n(B) 2√2+√5. \n(C) 3+√7. \n(D) 2+√7. \n(E) 1+√2+√5."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Uma cientista faz uma mistura entre duas bebidas \nalcóolicas diferentes, chamadas de A e B. Num \ndado recipiente, ela sabe que preenchendo -se \n40% desse recipiente com a bebida A e o restante \ncom a bebida B, ela obtém uma bebida que tem \n20% de teor alcóolico. Em outro experimento, \npreenchendo -se 60% desse mesmo recipiente \ncom a bebida A e o restante com a bebida B, ela \nobtém uma be bida com 24% de teor alcóolico. \nNessas condições qual o teor alcóolico da bebida \nA?",
+            "alternativas": {
+                "A": "12%.",
+                "B": "32%.",
+                "C": "18%.",
+                "D": "28%.",
+                "E": "30%."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Júnior mede sua altura todo ano. No ano passado, \nsua altura era 1,25 m, e este ano sua altura é 1,40 \nm. Se no ano que vem a altura de Júnior tiver o \nmesmo aumento percentual que este ano, em \nrelação ao ano passado, qual será a altura de \nJúnior, aproximadam ente?",
+            "alternativas": {
+                "A": "1,53 m.",
+                "B": "1,45 m.",
+                "C": "1,65 m.",
+                "D": "1,57 m.",
+                "E": "1,55 m.  \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 6 de 16 QUESTÃO 18 \nA nota de cinco alunos numa determinada prova \nfoi 5,5; 6,8; 7,0; 8,2; 9,5. A média aritmética \nsimples das notas desses alunos é:  \n(A) 7,0.  \n(B) 7,1.  \n(C) 7,2.  \n(D) 7,3.  \n(E) 7,4."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: O gráfico abaixo mostra as curvas típicas de \nvelocidade individuais para peso corporal em \nmeninos e meninas:  \n \nFonte: MALINA, R. M.; BOUCHARD, C. \nAtividade física do atleta jovem: do crescimento \na maturação.  \nSão Paulo: Roca, 2002.  \nO gráfico mostra o ganho de peso em kg/ano no \neixo vertical e a idade (em anos) no eixo \nhorizontal. Com base no gráfico, é INCORRETO \nafirmar que:",
+            "alternativas": {
+                "A": "Até os 9 anos de idade, não há diferenças \nsignificativas entre o ganho de peso de meninos \ne meninas.",
+                "B": "A partir dos 9 anos de idade, as meninas têm \num pico de ganho de peso mais precoce que os \nmeninos.",
+                "C": "O ganho de peso acumulado das meninas é \nmaior que o dos meninos, já que acontece mais \nprecocemente.",
+                "D": "Apesar de o pico de ganho de peso nos \nmeninos acontecer depois das meninas, o ganho \nde peso é maior.",
+                "E": "Após os 16 anos as meninas já não \napresentam ganho de peso significativo, \ndiferentemente dos meninos.  \n QUESTÃO 20 \nUm reservatório é preenchido por uma torneira \nem 24 horas, se colocarmos três torneiras iguais, \nquanto tempo levarão para preencher o volume \nequivalente a 3 reservatórios iguais?  \n \n(A) 18 horas.  \n(B) 15 horas.  \n(C) 8 horas.  \n(D) 24 horas.  \n(E) 72 horas.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Para abrir automaticamente uma nova página de \nnavegação utilizando o Google Chrome é \npossível usar o comando:",
+            "alternativas": {
+                "A": "Ctrl + A.",
+                "B": "Ctrl + N.",
+                "C": "Ctrl + C.",
+                "D": "Alt + C.",
+                "E": "Alt + T."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: O Gmail é um serviço de e -mail baseado na web \nfornecido pela Google, com capacidade de \narmazenamento relativamente confortável.  \nSobre as características do Gmail, é correto \nafirmar que:",
+            "alternativas": {
+                "A": "Não existe limite máximo de tamanho dos \nanexos enviados por e -mail.",
+                "B": "O aplicativo do Gmail está disponível apenas \nem plataformas com sistema operacional IOS.",
+                "C": "Após adicionar um anexo no e -mail, não é \npossível remover esse arquivo antes do envio da \nmensagem.",
+                "D": "O Gmail permite a criação de uma assinatura \nde e-mail com seus dados de contato, adicionado \nautomaticamente ao final das mensagens.",
+                "E": "É possível usar o \"Gmail Off -line\" em uma \njanela do navegador Chrome no \"modo de \nnavegação anônima\".  \n \n \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 7 de 16 QUESTÃO 23 \nConsiderando o Microsoft Excel, analise as \nfuncionalidades ilustradas abaixo e assinale a \nalternativa que relaciona corretamente qual é a \nguia em que ela está localizada:  \n \nFonte: 1 Microsoft Excel  \n(A) Página inicial.  \n(B) Referências.  \n(C) Fórmulas.  \n(D) Revisão.  \n(E) Exibir."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Considerando as formulas presentes no \nMicrosoft Excel, assinale a alternativa que \ndescreve a expressão utilizada para retornar um \nnúmero indicando o tipo de dados de um valor \npresente na tabela:",
+            "alternativas": {
+                "A": "ORIGEM(valor)",
+                "B": "FONTE(valor)",
+                "C": "TIPO(valor)",
+                "D": "CLASSE(valor)",
+                "E": "FORMA(valor)"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: A guia Página Inicial do Microsoft Word \napresenta funcionalidades como:",
+            "alternativas": {
+                "A": "Inserir gráficos.",
+                "B": "Alterar a fonte do texto.",
+                "C": "Inserir tabela.",
+                "D": "Traduzir.",
+                "E": "Iniciar mala direta.  \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Leia os enunciados a seguir, marque V \n(verdadeiro) e F (falso) e assinale, \nposteriormente, a alternativa correta.  \n \n[...] No âmbito educacional, a gestão democrática \nconsidera o caráter unilateral das ações e das \ninterações sociais que estabelecem entre si e com \no contexto sociopolítico.  \n[...] O processo de tomada de decisões, na gestão \ndemocrática, é pautado pela deliberação \nconjunta.  \n[...] O gestor escolar, na dimensão política, \nexerce o princípio da autonomia, que requer \nvínculos mais estreitos com a comunidade \neducativa, os pais, as entidades e organizações \nparalelas à escola.  \n[...] O processo de gestão deve coordenar a \ndinâmica das escolas como um todo.  \n[...] Compete ao diretor fazer a gestão das \natividades, para que o projeto da escola aconteça \na contento.",
+            "alternativas": {
+                "A": "F, V, V, F, V",
+                "B": "F, F, V, V, F",
+                "C": "V, V, V, F, F",
+                "D": "F, F, F, V, V",
+                "E": "V, F, V, F, V  \n \n \n \n \n \n \n \n \n \n \n \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 8 de 16 QUESTÃO 27  \nAo analisar as perspectivas e as mudanças já \nconsolidadas, é possível observar a prevalência \nde certos elementos que influenciam na educação \ne na formação docente. Leia os exemplos a seguir \ne assinale a alternativa que possui um erro \nconceitual.  \n \n(A) As transformações do meio comunicacional \nimpulsionadas pela revolução tecnológica \nrepercutiram de forma significativa na vida \npessoal e institucional, indo de encontro ao \nmodelo tradicional de transmissão de \nconhecimento.  \n(B) A educação deixa de ser patrimônio docente.  \n(C) Impossibilidade de dissociar igualdade e \ndiversidade.  \n(D) Múltiplas formas de compartilhar a \ntransmissão do conhecimento.  \n(E) Uma crescente regulação do Estado com uma \nlógica de mercado e um neoliberalismo \nideológico complementado com um \nneoconservadorismo que vai impregnado o \npensamento educativo e muitas políticas \ngovernamentais."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: A inovação, dentro da gestão escolar, possui \ndiferentes dimensões que variam em função da \nconcepção pedagógica adotada. Assim, assinale \na concepção pedagógica que se encaixa em uma \nproposta que considera o ato de inovar como \nalterar essencialmente os métod os, os modos de \neducar, modificando internamente as \ncaracterísticas, a organização e o funcionamento \ndas instituições escolares.",
+            "alternativas": {
+                "A": "Concepção pedagógica tradicional",
+                "B": "Concepção pedagógica renovadora",
+                "C": "Concepção pedagógica produtivista",
+                "D": "Concepção pedagógica dialética",
+                "E": "Concepção pedagógica histórico -crítica  \n QUESTÃO 29  \nNa literatura, é possível encontrar várias \nreflexões que visam sistematizar a mediação \ndentro da gestão escolar. Assim, em qual das \nalternativas, a seguir, a mediação escolar foi \nelaborada erroneamente?  \n \n(A) A mediação pode reorientar as relações \nsociais.  \n(B) A mediação corrobora para novas formas de \ncooperação.  \n(C) A mediação induz formas mais \nsistematizadas de resolução de diferenças \npessoais ou grupais.  \n(D) A mediação oportuniza a consecução de um \nacordo que seja mutuamente aceitável.  \n(E) A mediação possibilita que a mesma \naprendizagem de regras e princípios seja aplicada \nàs novas aprendizagens."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Por meio das Diretrizes Curriculares Nacionais \nGerais da Educação Básica, observa -se os temas \nconsiderados pertinentes à matéria objeto do \nreferido parecer que são considerados como \nideias -força. Uma dessas ideias -força ratifica que \nas Diretrizes Curricula res Nacionais Gerais para \na Educação Básica devem presidir as demais \ndiretrizes curriculares específicas para as etapas \ne modalidades, contemplando [...] os aspectos \ndescritos a seguir. No entanto, uma das \nalternativas não condiz com o referido \ndocumento, assinale -a:",
+            "alternativas": {
+                "A": "o conceito de Educação Básica",
+                "B": "os princípios de organicidade",
+                "C": "a sequencialidade",
+                "D": "a relação entre as etapas e as modalidades \nteóricas e práticas",
+                "E": "a articulação  \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 9 de 16 QUESTÃO 31  \nAo analisar o contexto descrito por meio das \nDiretrizes Curriculares Nacionais Gerais para a \nEducação Básica, observa -se que a função social \nda Educação Básica deve ser resgatada por meio \nde uma ação que se inicie na Educação Infantil, a \npartir de zero ano e se estenda ao Ensino \nFundamental, Médio e posteriores. O que deve \nser trabalhado para assegurar esse resgate da \nfunção social da Educação Básica?  \n(A) Cuidar e educar  \n(B) Projeto pedagógico  \n(C) Gestão Democrática  \n(D) Pluralidade de ideias  \n(E) Descentralização do ensino"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Um dos aspectos abordados pelas Diretrizes \nCurriculares Nacionais Gerais para a Educação \nBásica contextualiza os Indicadores de \nQualidade na Educação, que possibilita mensurar \no desempenho escolar. “Essa exigência legal \ntraduz a necessidade de se reconhece r que a \navaliação da qualidade associa -se à ação \nplanejada, coletivamente, pelos sujeitos da \nescola e supõe que tais sujeitos tenham clareza \nquanto [...]”. Em relação aos aspectos a serem \nobservados, são verdadeiras as seguintes \nasserções, porém uma delas apresenta um dado \nequivocado, assinale -a:",
+            "alternativas": {
+                "A": "Princípios da educação.",
+                "B": "Finalidades da educação.",
+                "C": "Reconhecimento e análise dos dados \nindicados pelo IDEB e/ou outros indicadores.",
+                "D": "Relevância de um Projeto Político -\nPedagógico concebido e assumido coletivamente \npela comunidade educacional, respeitadas as \nmúltiplas diversidades e a pluralidade cultural.",
+                "E": "Padrões obrigatórios de qualidade (Custo \nAluno Qualidade inicial), que apontam para \nquanto deve ser investido por estudante de cada \netapa e modalidade da Educação Básica, para que \no País ofereça uma educação de qualidade a \ntodos os estudante.  QUESTÃO 33  \nPara analisar as diferentes variáveis presentes no \ncontexto educacional, é necessário compreender \nas dimensões por trás dos possíveis métodos a \nserem implementados, uma vez que eles variam \nem função do significado que possuem. Nesse \nsentido, ao propor uma dimensão metodológica \navaliativa, por meio de uma atividade reflexiva \ndiagnóstica , qual dos significados a seguir \ncorresponde à dimensão destacada?  \n(A) Conhecimento da realidade, busca da rede \ncausal (não unilinear); localização das \nnecessidades e dos motivos.  \n(B) Estabelecimento de finalidades, objetivos, \nintencionalidades e atribuição de valor.  \n(C) Elaboração das formas de mediação, \nconstrução das estratégias de ação.  \n(D) Guia de ação, acompanhamento da ação, \nconsciência prática, vigília.  \n(E) Crítica, julgamento, identificação da \nnecessidade de alterações."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: A avaliação é um conceito amplo que requer \nconhecimento e análise, a fim de prover os \nelementos necessários que ratifiquem a sua \nviabilidade e corroborem para o alcance dos \nobjetivos almejados. Leia os enunciados a seguir \ne destaque a alternativa que foi elaborada \nerroneamente.",
+            "alternativas": {
+                "A": "Avaliação é o exercício da análise crítica por \nexcelência.",
+                "B": "A avaliação, no âmbito escolar, tem sofrido \nmuitas críticas ao longo do tempo, em que se \nobservam críticas em relação à forma como ela é \nrealizada.",
+                "C": "A avaliação, como estratégia crítica, aplica -\nse a todas as dimensões, também a si mesma.",
+                "D": "A obtenção da disciplina em sala de aula é \num dos objetivos do professor, porém não a \nqualquer custo.",
+                "E": "A avaliação da aprendizagem não é feita para \no outro ou para a instituição, mas, antes de tudo, \npara o próprio sujeito regular sua ação.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 10 de 16 QUESTÃO 3 5 \nUm dos aspectos que influenciam \nsistematicamente a prática educativa escolar é a \nconcepção que se tem sobre o currículo. Alguns \ndesses atributos foram descritos abaixo. Marque \nV (verdadeiro) e F (falso) e assinale, \nposteriormente, a alternativa correta.  \n \n[...] O currículo, a partir da visão restrita que \nimperou até os anos 60 do século XX, era \ncompreendido como uma lista de conteúdos.  \n \n[...] A especulação curricular acabou por \ndesprezar o refinamento de conceitos, categorias \ne metáforas, tornando primária a apresentação de \nproposições passíveis de materialização nas \nescolas.  \n \n[...] Ratificando a importância do currículo na \nesfera escolar, observa -se a presença bastante \nsignificativa das questões curriculares, tais \ncomo: base nacional comum curricular, \ndiretrizes, transversalidade, diversidade, novas \npropostas das redes de ensino et c. \n \n[...] Para facilitar a compreensão acerca do \ncurrículo, é preciso que as ações sejam pautadas \nna objetividade e não considerem o “currículo \noculto”.  \n \n(A) F, F, V, V  \n(B) F, V, F, V  \n(C) V, F, F, V  \n(D) V, F, V, F  \n(E) V, V, F, F  \n \n \n \n \n \n \n QUESTÃO 3 6 \nAo elaborar um projeto pedagógico, é importante \ncompreender as finalidades que embasam essa \nação. O conhecimento acerca dessas finalidades, \nalém de dar o suporte necessário para o processo \nde implantação, auxilia também na \nsistematização das avaliações futuras. A seguir, \nforam apresentadas algumas dessas finalidades, \nporém uma alternativa está incorreta, destaque -a. \n \n(A) Resgatar a intencionalidade da ação.  \n(B) Dar um referencial de conjunto em prol de \numa causa comum.  \n(C) Trabalhar a uniformidade no contexto \npedagógico.  \n(D) Propiciar a racionalização dos esforços e \nrecursos considerados essenciais para o processo \neducacional.  \n(E) Corroborar para a construção de um ambiente \neducacional que consiga lidar de forma mais \nefetiva com questões contraditórias, conflitos e \npressões."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Do ponto de vista pautado na teoria educativa \ncrítica, observa -se um paradoxo: o Projeto \nPolítico -Pedagógico e a Proposta Curricular \ndevem balizar um aspecto educacional, porém \nessa ação sofre críticas por representar um \nretrocesso no âmbito curricular. Que aspecto é \nesse?",
+            "alternativas": {
+                "A": "Prática avaliativa",
+                "B": "Matriz pedagógica",
+                "C": "Autonomia educacional",
+                "D": "Descentralização do ensino",
+                "E": "Gestão democrática  \n \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 11 de 16 QUESTÃO 38  \nLeia os enunciados a seguir, defina V \n(verdadeiro) e F (falso) e marque, \nposteriormente, a alternativa correta.  \n \n[...] Os indicadores de desempenho escolar \npermitem identificar e medir aspectos \nconcernentes a um determinado conceito, \nfenômeno ou problema, bem como o resultado de \numa intervenção sobre a realidade educacional.  \n \n[...] Os indicadores de desempenho estabelecem \numa mediação entre teoria e evidências presentes \nna realidade educacional.  \n \n[...] Os indicadores de desempenho servem para \ndiagnosticar uma realidade, porém não se \naplicam ao seu monitoramento.  \n \n[...] Todo indicador oportuniza uma visão global \ndo fenômeno analisado.  \n \n(A) V, V, F, F  \n(B) V, F, V, F  \n(C) F, V, F, V  \n(D) V, V, V, F  \n(E) F, F, F, V  \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 39  \nA Psicologia Educacional é um campo de \natuação da Psicologia, que tem como objetivo a \ninvestigação e a pesquisa sobre os mecanismos \nde aprendizagem em crianças e adultos, as táticas \ne estratégias educacionais e o funcionamento da \ninstituição escolar. Alguns aspectos de sua \nhistoricidad e e contextualização foram descritos \na seguir. Assinale o que apresenta um dado \nequivocado.  \n \n(A) Na década de 1920 e 1930, a Psicologia \nEducacional, a partir do sucesso dos testes \npsicológicos com os recrutas do exército \namericano, popularizando o interesse pela \nmedição da inteligência, começa a se destacar \ncomo uma nova disciplina científica.  \n(B) A partir das décadas de 40 e 50, Skinner foi \nresponsável por levar para a área educacional as \nideias básicas do behaviorismo.  \n(C) Na década de 60, surge a revolução \ncognitiva, que suplantou a abordagem \nbehaviorista. Desde o início, a aprendizagem \napresenta -se como objeto de estudos dos \npsicólogos cognitivistas.  \n(D) Dentro da perspectiva cognitiva, estudiosos \ncomo Piaget e Vygotsky, dentre outros, se \ndestacaram. Piaget é reconhecido mundialmente \npela sua revolução epistemológica.  \n(E) Vygotsky é o grande fundador da escola \nsoviética de Psicologia Histórico -cultural. Os \nadultos devem ajudar a criança a transpor a zona \nde desenvolvimento proximal, que é o intervalo \nentre o que já faz sozinha e o que pode realizar \ncom a ajuda dos adultos.  \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 12 de 16 QUESTÃO 40  \nA Educação Inclusiva vivenciada atualmente é \nresultado de um longo trajeto, de lutas, \nconquistas e desafios que ainda precisam ser \nvencidos. Assim, leia as asserções seguintes e \ndestaque a que não representa fielmente o \nmomento contextualizado.  \n(A) A história da Educação Inclusiva no Brasil é \nmarcada por uma série de práticas \nassistencialistas e excludentes.  \n(B) Durante a segunda metade da década de \n1950, as iniciativas governamentais e \nparticulares isoladas (ONGs, serviços religiosos \nde caridade) ajudavam a cobrir progressivamente \nos diferentes tipos de deficiência, tais como: \nvisual, auditiva, física e menta l. \n(C) O segundo período se inicia no final da \ndécada de 1950, quando o Estado brasileiro passa \na desenvolver campanhas e a estruturar órgãos de \nEducação Especial, fragmentando -os de acordo \ncom as diferentes deficiências.  \n(D) O início da década de 1980 tem um dos \nmaiores marcos históricos, tanto para a Educação \nInclusiva quanto para as políticas \ngovernamentais de direitos humanos em geral no \nâmbito internacional, destacando -se a \nDeclaração de Salamanca.  \n(E) Atualmente, as Legislações dentro do campo \nda Educação Inclusiva são muito melhores \nestruturadas do que em qualquer outro momento \ndo Estado Moderno."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: A tecnologia corrobora significativamente para a \nconsecução de um modelo de educação \nrealmente inclusivo. Nesse sentido, como é \nchamada a tecnologia que engloba diversos tipos \nde hardware e software, combinados com \nmétodos de ensino cada vez mais especiali zados \ne atualizados para acomodar as necessidades de \naprendizagem dos estudantes em sala de aula?",
+            "alternativas": {
+                "A": "Tecnologia instrutiva",
+                "B": "Tecnologia auxiliar",
+                "C": "Suporte tecnológico",
+                "D": "Tecnologia assistiva",
+                "E": "Tecnologia computacional  QUESTÃO 42  \nA organização escolar e pedagógica vista como \num sistema apresenta certas características que \npermitem compreender as variáveis \nintervenientes nesse processo. Nesse sentido, são \npertinentes as seguintes afirmativas, exceto:  \n \n(A) A Constituição Federal e a LDB têm como \nfinalidade precípua da educação escolar a \nformação para o trabalho, indicando que um dos \npapéis fundamentais da educação é qualificar a \nforça de trabalho para o sistema produtivo.  \n(B) Ao observar a relação existente entre política \ne sistema, entre educação e política, revela -se a \ncaracterística pautada na teoria funcionalista, \nsegundo a qual a estabilidade é assegurada pela \nadaptação.  \n(C) O sistema apresenta aspectos estáveis e \nharmoniosos da organização e, em outros \ncontextos, o caráter dinâmico que representa as \npossibilidades de mudanças.  \n(D) Por meio da teoria dialética ou do conflito, \nobserva -se que os sistemas são permeados por \ncontradições, que devem ser trabalhadas \nmediante a participação coletiva, a fim de obter \nas mudanças necessárias.  \n(E) As relações dinâmicas ou adaptativas, abertas \nou fechadas ocorrem não só de forma interna aos \nsistemas, como também externamente, entre os \nsistemas.  \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 13 de 16 QUESTÃO 43  \nSobre os fundamentos da Educação de Jovens e \nAdultos, são verdadeiros os enunciados \nsubsequentes, porém uma das alternativas \napresenta um erro, destaque -a: \n \n(A) A educação de jovens e adultos destina -se \naos que não tiveram, na idade própria, acesso ao \nensino fundamental e médio ou continuidade de \nestudos nesses níveis de ensino.  \n(B) O texto legal (LDB/1996) estimula o acesso \ndo trabalhador à escola e sua permanência nela, \nalém de definir os sistemas de ensino como os \nresponsáveis por garantir a gratuidade nessa \nmodalidade de educação, porém não detalhava \nquais são as ações que vão  assegurar a \npermanência dos jovens e adultos na instituição \nescolar.  \n(C) A Lei do Fundeb não permitia a princípio que \nse utilizassem recursos do ensino fundamental \npara a modalidade de ensino para jovens e \nadultos, embora essa etapa da educação básica, \nconstitucionalmente, se apresente como \nobrigatória e se configure como d ireito público \nsubjetivo. Tal Lei foi revogada em 2007.  \n(D) Direito público subjetivo equivale a \nreconhecer que é plenamente eficaz e de \naplicabilidade imediata, isto é, não exige \nregulamentação. Se não for prestado de forma \nespontânea, pode ser exigido judicialmente.  \n(E) A educação de jovens e adultos prevê cursos \ne exames supletivos a ser realizados no nível de \nconclusão do ensino fundamental, para maiores \nde quinze anos, e no nível de conclusão do ensino \nmédio, para maiores de dezoito anos.  \n \n \n \n \n \n \n \n \n QUESTÃO 44  \nNa literatura, observam -se estudos sobre \norganização e gestão escolar que contribuem \npara ampliar o leque de estilos de gestão a partir \nda sistematização das qualidades de cada uma \ndessas concepções. Uma dessas concepções é a \nconcepção interpretativa que p ossui as \ncaracterísticas explicitadas a seguir. Destaque a \nalternativa que traz uma característica de outra \nconcepção: democrático -participativa.  \n \n(A) A concepção interpretativa baseia -se na \nrelação orgânica entre a direção e a participação \ndos membros da equipe.  \n(B) A concepção interpretativa considera como \nelemento prioritário na análise dos processos de \norganização e gestão os significados subjetivos, \nas intenções e a interação das pessoas.  \n(C) A concepção interpretativa tem um \nposicionamento totalmente contrário à posição \nassumida pela concepção científico -racional.  \n(D) A concepção interpretativa recusa a \npossibilidade de conhecimento mais preciso dos \nmodos de funcionamento de determinada \norganização.  \n(E) A concepção interpretativa vê as práticas \norganizativas como uma construção social.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 14 de 16 QUESTÃO 45  \nO processo de avaliação do desempenho escolar \npassa pelo acompanhamento do trabalho docente \ne dos avanços da aprendizagem, no intuito de \nmensurar o padrão de qualidade nos diferentes \ncontextos educacionais. Nesse sentido, observa -\nse que a qualidade na educ ação é pautada em uma \nvisão polissêmica, já que suas significações \nresultam em percepções e avaliações diversas, \ncom diferentes atores individuais e institucionais, \ndemonstrando sua diversidade de fatores para \nqualificar, avaliar e construir os parâmetros do \nprocesso educativo. Dentre os inúmeros \nindicadores da qualidade na educação, destaque \na alternativa que condiz com as seguintes \nespecificidades: “esse indicador é considerado \nparte complementar e básica do processo \neducativo. Por meio dele, o professor tem ciência \nde como está a aprendizagem e o \ndesenvolvimento dos alunos e obtém indícios \npara refletir e melhorar sua própria prática \npedagógica”.  \n(A) Prática pedagógica  \n(B) Avaliação  \n(C) Acesso, permanência e sucesso na escola  \n(D) Formação e condições dos profissionais da \nescola  \n(E) Ambiente físico escolar"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: O Sistema de Avaliação da Educação Básica \n(SAEB) é um conjunto de avaliações externas em \nlarga escala que permite ao INEP realizar um \ndiagnóstico da educação básica brasileira e de \nfatores que podem interferir no desempenho do \nestudante. A seguir, foram contextualizadas as \nvariáveis que compõem o Índice de \nDesenvolvimento da Educação Básica (IDEB). \nDestaque a alternativa que não corresponde a \numa dessas variáveis.",
+            "alternativas": {
+                "A": "Médias de desempenho dos estudantes \napuradas no SAEB.",
+                "B": "Taxas de aprovação apuradas no Censo \nEscolar.",
+                "C": "Taxas de reprovação apuradas no Censo \nEscolar.",
+                "D": "Taxas de abandono apuradas no Censo \nEscolar.",
+                "E": "Níveis de alfabetização apurados no SAEB.  QUESTÃO 47  \nAlgumas características acerca das pedagogias \ndiferenciadas foram descritas a seguir. No \nentanto, há um aspecto incorreto em uma das \nalternativas, assinale -a: \n(A) As pedagogias diferenciadas são uma \nherança importante dos movimentos \nescolanovistas.  \n(B) As pedagogias diferenciadas têm como fonte \nde inspiração a revolta contra o fracasso escolar \ne contra as desigualdades.  \n(C) Novos modos de planejar e avaliar, novos \nprocedimentos de ensino e de agrupamento dos \nestudantes, novos regimes de organização dos \ntempos e espaços escolares são contextos \nintermitentes nessas pedagogias.  \n(D) A pedagogia diferenciada origina uma nova \nabordagem, mais centrada no discente e em seu \nitinerário no contexto educacional.  \n(E) Um dos problemas enfrentados pelas \npedagogias diferenciadas é o reposicionamento \ndo estudante no centro do processo formativo, o \nque implica pensar que a diferenciação se torna o \ncerne da ação pedagógica."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Nas pedagogias diferenciadas, a seleção dos \nconteúdos é um assunto de grande relevância. \nIsso se confirma, uma vez que é  necessário \nbalizar o conteúdo a ser trabalhado a partir da \nsistematização de critérios específicos. Vale \ndestacar que há um número significativo de \ncritérios que podem ser observados. Um desses \ncritérios demonstra que o professor deve escolher \nconteúdos q ue condizem com a realidade, que \ntenham real importância na vida do aluno e que \nse coadunam com o que a ciência defende como \nmais atualizado na área. Que critério foi \ncontextualizado anteriormente?",
+            "alternativas": {
+                "A": "Validade",
+                "B": "Significação",
+                "C": "Utilidade",
+                "D": "Viabilidade",
+                "E": "Flexibilidade  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 15 de 16 QUESTÃO 49  \nNa avaliação da Educação Básica, o domínio \ncognitivo é um dos eixos mais trabalhados pelo \nprocesso avaliativo. Por isso, é preciso \ncompreender o que exatamente é avaliado dentro \ndesse domínio. Seis aspectos são considerados \nmais relevantes dentro dessa avaliação. Um \ndesses aspectos é a síntese, que tem seu conceito \nexplicitado em qual alternativa?  \n(A) Possibilidade de definir critérios, \ndesenvolver escalas e realizar julgamentos.  \n(B) Habilidade em consolidar dados ou \ninformações. Pensamento criativo e inovador.  \n(C) Possibilidade de criticar um dado ou um \nconhecimento, confrontando -o com outras \ninformações.  \n(D) Habilidade em aplicar o conhecimento retido \ne compreendido, quando necessário.  \n(E) Entendimento do significado do dado ou da \ninformação retido frente às necessidades da vida."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Complete o enunciado a seguir com o termo \ncorrespondente.  \n___________ é, ao mesmo tempo, uma matéria \nde estudo fundamental na formação profissional \ndos professores e um meio de trabalho do qual os \nprofessores se servem para dirigir a atividade de \nensino, cujo resultado é a aprendizagem dos \nconteúdos escolares pel os alunos.",
+            "alternativas": {
+                "A": "Pedagogia",
+                "B": "Matriz curricular",
+                "C": "Didática",
+                "D": "Diretrizes curriculares",
+                "E": "Núcleo da instrução  \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 16 de 16"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Com o final da narrativa, conclui -se que o \npersonagem que toma a iniciativa de telefonar \npara a pessoa com quem havia se desentendido:",
+            "alternativas": {
+                "A": "mantém -se resoluto ao determinar que se \naproximará das pessoas no Ano -Novo.",
+                "B": "não consegue pôr em prática seu projeto \npara o fim do milênio.",
+                "C": "superou o motivo do desentendimento por \ncompleto.",
+                "D": "não estava de fato enternecido pelas \nenxaquecas de Vivinha.",
+                "E": "é consentâneo ao alinhar seu projeto de \nAno-Novo e sua decisão final sobre tal \ndesafeto."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Em “— A vida é muito curta. Você está me \nentendendo? Assim não dá.” , a palavra \n“assim”  é empregada como um recurso \ncoesivo. O elemento do texto a que se refere tal \npalavra é:",
+            "alternativas": {
+                "A": "a vida, por ser muito curta.",
+                "B": "o outro personagem, com quem o \ninterlocutor estava brigado.",
+                "C": "a própria situação, que, para o interlocutor, \nnão deveria continuar da forma como estava.",
+                "D": "as enxaquecas de Vivinha, que persistiam.",
+                "E": "o telefonema, do qual o interlocutor se \narrepende logo depois.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 3 de 14 QUESTÃO 03 \nA palavra “enternecido” , que ocorre no excerto \n“Estava tão enternecido com as enxaquecas da \nVivinha que mal podia falar.” , exprime o \ncontrário de:  \n(A) compadecido.  \n(B) apático.  \n(C) preocupado.  \n(D) condoído.  \n(E) empático."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A transposição do excerto “ — Eu nem me \nlembro mais por que nós brigamos. Juro que \nnão lembro.”, que está em discurso direto, para \ndiscurso indireto resultaria em:",
+            "alternativas": {
+                "A": "Ele disse que nem se lembrava mais por que \neles brigaram, e que jura que não se lembra.",
+                "B": "Ele disse que nem se lembra mais por que \neles brigavam. Jura que não se lembra.",
+                "C": "Ele disse que nem se lembra mais por que \neles brigaram. Jurava que não lembrava.",
+                "D": "Ele disse que nem se lembrava mais por que \neles tinham brigado, e que jurava que não se \nlembrava.",
+                "E": "Ele disse que nem se lembra mais por que \neles brigam. Jura que não lembra."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Analise as sentenças a seguir, retiradas do texto:  \nI. Eu nem me lembro mais por que nós \nbrigamos.   \nII. Juro que não lembro.  \nIII. Tinha se lembrado da bobagem que \nmotivara a briga.  \nNas sentenças dadas, a palavra “que”  ocorre \ncomo pronome relativo apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  \n  \nConsidere o excerto a seguir, retirado da \npágina Wikipedia sobre cães, para \nresponder às questões 6 e 7: \n \n“O cão, no Brasil também chamado de \ncachorro , é um mamífero carnívoro  da família \ndos canídeos, subespécie  do lobo, e talvez  o \nmais antigo animal  domesticado pelo ser \nhumano .”"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Dentre as palavras em destaque, que ocorrem \nno excerto indicado, são trissílabas apenas:",
+            "alternativas": {
+                "A": "cachorro; subespécie; animal.",
+                "B": "cachorro; animal; humano.",
+                "C": "subespécie; animal; humano.",
+                "D": "cachorro; subespécie; animal; humano.",
+                "E": "subespécie; talvez; animal; humano."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Dentre as palavras a seguir, em destaque no \nexcerto indicado, classifica -se como oxítona \napenas:",
+            "alternativas": {
+                "A": "cachorro.",
+                "B": "carnívoro.",
+                "C": "subespécie.",
+                "D": "animal.",
+                "E": "humano."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as palavras a seguir quanto ao emprego \ndo hífen e assinale a alternativa em que se \nverifica o uso correto desse sinal gráfico.",
+            "alternativas": {
+                "A": "manda -chuva.",
+                "B": "mal -de-Chagas.",
+                "C": "meio -dia.",
+                "D": "semi -novo.",
+                "E": "dona -encrenca.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 4 de 14 QUESTÃO 09 \nAnalise as sentenças a seguir quanto ao \nemprego das expressões “porque” , “por que” ,  \n“por quê” e “porquê” . Assinale a alternativa \nem que não ocorre desvio quanto ao uso dessas \nexpressões.   \n(A) Entendo perfeitamente porque  ele me trata \nassim.   \n(B) O motivo por que não fui à festa de \naniversário foi a chuva forte de ontem.  \n(C) Somos amigas; não há porque agradecer.  \n(D) Gostaria de saber o por quê não atende às \nminhas ligações.   \n(E) Ela reagiu daquela forma por que está \ncansada de tanta humilhação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: 0 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica voz verbal \npassiva analítica.",
+            "alternativas": {
+                "A": "Recuperaram -se artefatos anteriores à \nRevolução Industrial.",
+                "B": "A mãe da aluna foi orientada pela direção \ndo colégio a buscar ajuda psicológica.",
+                "C": "Ana fez um relatório sobre os gastos \nmensais do escritório.",
+                "D": "A equipe realizou o resgate dos animais \nabandonados na sexta -feira.",
+                "E": "Realizaram -se coletas de dados de \nmoradores em todos os bairros do município.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Sabe -se que 50% das questões de uma \ndeterminada prova de vestibular são referentes \nao conteúdo de português, 25% são de \nmatemática e os outros 25% são de inglês. Um \ncandidato acertou 80% da prova de português, \n70% da prova de matemática, e 60% da prova \nde inglês. Quantos por cento das questões totais \ndo exame o candidato acertou?",
+            "alternativas": {
+                "A": "75,5%.",
+                "B": "72,5%.",
+                "C": "70,5%.",
+                "D": "79,0%.",
+                "E": "71,0%.  \n QUESTÃO 12 \nA média aritmética simples das idades dos 10 \nalunos de uma turma é 25 anos. Se excluirmos \no mais velho e o mais novo da turma, a nova \nmédia continua sendo 25 anos. Sabendo -se que \na diferença entre as idades do mais velho e do \nmais novo é 10 anos, qual a idade do mais \nnovo?  \n(A) 12 anos.  \n(B) 10 anos.  \n(C) 15 anos.  \n(D) 20 anos.  \n(E) 18 anos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: A figura abaixo mostra um gráfico da vazão de \numa torneira em litros por hora ao longo do \ntempo:  \nAnalisando o gráfico, qual o volume total \ndespejado no período das 12:00 às 18:00, em \nlitros?",
+            "alternativas": {
+                "A": "320.",
+                "B": "280.",
+                "C": "340.",
+                "D": "360.",
+                "E": "380."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Uma máquina perfuratriz é utilizada para fazer \num furo no solo para que geólogos possam \nestudar sua composição. Suponha que a \nmáquina consiga perfurar uma rocha numa \nvelocidade de 0,15 mm por segundo. Quanto \ntempo levará para que a máquina perfure 81 \nmetros dessa rocha?",
+            "alternativas": {
+                "A": "15 horas.",
+                "B": "150 horas.",
+                "C": "170 horas.",
+                "D": "180 horas.",
+                "E": "1500 horas.  \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 5 de 14 QUESTÃO 15 \nUm determinado retângulo tem razão entre seus \nlados de 7/2, e seu perímetro é 27 cm. Indique \na sua área, em centímetros quadrados:  \n(A) 10,5.  \n(B) 15,0.  \n(C) 17,5.  \n(D) 30,0.  \n(E) 31,5."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Cada um dos cientistas Alberto, Breno, Carlos \ne Damásio, visitou um estado diferente da \nregião Norte do país. Eles visitaram Amapá, \nRoraima, Rondônia e Tocantins, não \nnecessariamente nesta ordem. Sabe -se que:  \nI – Alberto viajou para o Amapá;  \nII – Breno não viajou para Rondônia;  \nIII – Carlos e Damásio não viajaram para \nRoraima;  \nIV – Carlos não viajou para o Tocantins;  \nCom base nas afirmativas, podemos concluir \nque:",
+            "alternativas": {
+                "A": "Damásio viajou para o Amapá.",
+                "B": "Breno viajou para o Tocantins.",
+                "C": "Carlos viajou para o Amapá.",
+                "D": "Breno viajou para Roraima.",
+                "E": "Damásio viajou para Rondônia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Numa determinada região, os meteorologistas \ntêm observado que a cada ano, chove -se 6 horas \na menos durante o ano comparado ao ano \nanterior. Se no ano de 2023 choveu 101 dias \ncompletos nessa região, em que ano não \nchoverá nenhum dia, se a previsão dos \nmeteorologistas se mantiver?",
+            "alternativas": {
+                "A": "2426.",
+                "B": "2427.",
+                "C": "2428.",
+                "D": "2332.",
+                "E": "2665.  \n QUESTÃO 18 \nObserve a seguinte sequência figural:  \nDe acordo com as correspondências abaixo, \nindique o elemento que deve ocupar o lugar da \nlacuna:  \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Duas aplicações a juro simples, com o mesmo \ncapital inicial de R$ 10.000,00 foram aplicadas \nno mesmo dia. Após 6 meses, a diferença do \njuro recebido entre as duas aplicações é R$ \n600,00. Neste caso, qual a diferença entre a \nmaior e a menor taxa de juro das duas \naplicações?",
+            "alternativas": {
+                "A": "1,0%.",
+                "B": "1,5%.",
+                "C": "2,0%.",
+                "D": "2,5%.",
+                "E": "3,0%."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Pentágono, Heptágono e Eneágono são \npolígonos regulares que têm o número de lados \nrespectivamente igual a:",
+            "alternativas": {
+                "A": "6, 7, 11.",
+                "B": "5, 7, 11.",
+                "C": "6, 9, 7.",
+                "D": "5, 9, 7.",
+                "E": "5, 7, 9.  \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 6 de 14 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Ao digitar uma redação no Microsoft Word \n2016 e clicar na tecla de atalho Ctrl+E, o \nresultado será:",
+            "alternativas": {
+                "A": "A exclusão da última palavra digitada.",
+                "B": "A centralização da última linha digitada.",
+                "C": "A seleção da última linha digitada.",
+                "D": "A correção do texto já desenvolvido.",
+                "E": "A leitura em voz alta do texto já redigido."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: No Microsoft Excel 2016 a Função SE  é uma \ndas funções mais populares do Excel e permite \nque o usuário:",
+            "alternativas": {
+                "A": "Faça multiplicações simultâneas entre \nvárias células da tabela.",
+                "B": "Faça divisões simultâneas entre várias \ncélulas da tabela.",
+                "C": "Faça seleção de cor sobre valores \nduplicados nas tabelas.",
+                "D": "Faça comparações lógicas entre um valor e \naquilo que se espera.",
+                "E": "Faça a exclusão de dados duplicados das \ntabelas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Para localizar conteúdo em uma tabela ou um \nintervalo por linha utilizando o Microsoft Excel \n2016, o responsável pela extração dos dados \npode usar a função:",
+            "alternativas": {
+                "A": "SOMASE",
+                "B": "PROCV",
+                "C": "SES",
+                "D": "DATINT",
+                "E": "DATFUT"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: No Microsoft Excel 2016, a opção para inserir \ngráficos está acessível na guia:",
+            "alternativas": {
+                "A": "Inserir.",
+                "B": "Fórmulas.",
+                "C": "Correspondência.",
+                "D": "Ilustrações.",
+                "E": "Dados.  QUESTÃO 25 \nUtilizando o Microsoft Excel 2016 e acionando \nas teclas de atalho Ctrl+W o resultado será:  \n(A) Tornar a célula de trabalho em negrito.  \n(B) Limpar todos os dados inseridos na pasta de \ntrabalho.  \n(C) Remover o conteúdo da célula.  \n(D) Fechar a pasta de trabalho do Excel.  \n(E) Adicionar bordas na tabela.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: “O êxito do sistema educacional finlandês não \nse baseia em certa ideologia educativa, mas \nnuma série de decisões que, juntas, criam um \nbom ambiente para o estudo. Ao falar da \neducação finlandesa é preciso mencionar a \nflexibilidade com que se combinam os ní veis \nnacional e o local.”  \n(INGER Enk Vist. A boa e a má educação: \nExemplos Internacionais. Kírion, 2020, \nadaptado ) \nÉ possível concluir, de acordo com o exemplo \ninternacional de boa educação que a autora faz \nmenção no trecho acima, que não há uma \nabordagem única ou uma teoria educacional \ndominante que explique o sucesso da Finlândia \nna educação, mas:",
+            "alternativas": {
+                "A": "a centralização das decisões administrativas \npara garantir uniformidade em todas as escolas.",
+                "B": "a padronização dos currículos para \nassegurar a equivalência de qualidade em todo \no país.",
+                "C": "o fortalecimento da autonomia local, \npermitindo que as decisões sejam tomadas de \nforma descentralizada, de modo a promover a \ndiversidade de modelos educacionais adaptados \nàs necessidades dos alunos e das comunidades \nespecíficas.",
+                "D": "a implementação de métodos de ensino \ncustomizados, para manter a consistência \npedagógica do modelo nacional.",
+                "E": "a instituição de parcerias com instituições \nlocais visando a preservação da identidade \nnacional na educação.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 7 de 14 QUESTÃO 27  \nDe acordo com Amanda Ripley em “As \ncrianças mais inteligentes do mundo”, \npesquisas recentes revelam que o sucesso na \neducação é resultado de uma combinação \ncomplexa de diversos fatores. Dentre esses \nfatores, NÃO podemos destacar:  \n(A) o envolvimento dos pais na educação de \nseus filhos.  \n(B) a excelência na formação dos professores.  \n(C) a valorização atribuída à educação pelo \npaís. \n(D) a importância maior da teoria do que da \nprática em sala de aula durante a formação dos \nprofessores.  \n(E) a motivação, a persistência e a \nautodisciplina dos estudantes."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Na obra “Pontos fora da curva”, Olavo \nNogueira Filho ilustra a evolução do \npensamento e das práticas reformistas na \neducação ao longo das últimas décadas. Ele \ncategoriza as reformas educacionais em 1ª, 2ª e \n3ª geração. Qual das alternativas abaixo melhor \nrepresenta uma das principais características da \n3ª geração de reformas educacionais?",
+            "alternativas": {
+                "A": "Padronização da gestão centrada no tripé \ncurrículo -avaliação -incentivo.",
+                "B": "Descarte das práticas das gerações \nanteriores.",
+                "C": "Foco na lógica da coerência sistêmica, ou \nseja, de que a resolução de problemas \ncomplexos exige medidas em múltiplas frentes \ne muito bem articuladas entre si.",
+                "D": "Centralismo na introdução de práticas de \ngestão em escolas.",
+                "E": "Priorização do acesso à escola com \ninfraestrutura adequada como medida mais \neficaz.  \n \n \n QUESTÃO 29  \n“A escola, como organização social, precisa ser \nvista como um local de aprendizagem para \nalunos e professores, um espaço onde todos \naprendem e todos ensinam, um lugar de \naplicação de saberes científicos, e também de \nprodução de saberes oriundos da prática \npedagógica.”  \n(ALVES, Cecília Pescatore; SASS, Odair. \nFormação de Professores e Campos do \nConhecimento. 1a Edição. São Paulo. Casa do \nPsicólogo, 2004 ) \nAcerca da formação continuada do professor \ncentrada na escola, assinale verdadeiro (V) ou \nfalso (F) para as afirmações a seguir:  \n1. ( ) A formação continuada, quando vista \ncomo uma modalidade centrada na escola, \nnecessita considerar mais as necessidades da \nescola, do que dos próprios professores.  \n2. ( ) As necessidades dos professores devem \nser consideradas o mais abstrato possível e se \nrestringir ao âmbito individual e não como \nnecessidades compartilhadas pelo grupo ao \nqual o professor pertence.  \n3. ( ) Ao considerar as demandas específicas \nenfrentadas pelos professores em suas salas de \naula e escolas, os programas de formação \npodem ser mais direcionados e eficazes na \npromoção do crescimento profissional e na \nmelhoria da prática pedagógica.  \nDe acordo com as afirmações, a sequência \ncorreta é:  \n(A) 1.V; 2.F; 3.V.  \n(B) 1.F; 2. F; 3.V.  \n(C) 1.F; 2.F; 3.F.  \n(D) 1.F; 2.V; 3.F.  \n(E) 1.V; 2.V; 3.F.  \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 8 de 14 QUESTÃO 30  \nEm “Afetividade na escola”, obra organizada \npor Valéria Amorim Arantes, são abordados \ntemas como as relações entre inteligência e \nafetividade, segundo Piaget. A esse respeito, \nassinale a alternativa INCORRETA.  \n(A) As emoções e os afetos desempenham um \npapel importante no processo de aprendizagem \ne desenvolvimento cognitivo.  \n(B) A afetividade não é separada da \ninteligência, mas sim uma parte integrante do \ndesenvolvimento cognitivo.  \n(C) As crianças aprendem melhor quando estão \nemocionalmente envolvidas e motivadas em \nsuas atividades.  \n(D) As crianças podem ficar mais propensas a \nperseverar em uma tarefa difícil se estiverem \nmotivadas e emocionalmente investidas nela.  \n(E) A emoção é irracional e deve ser tratada de \nmaneira independente da cognição."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Lev Vygotsky foi um psicólogo russo \nconhecido por suas contribuições para a \npsicologia do desenvolvimento e a teoria \nsociocultural. Ele enfatizou a importância da \nmediação simbólica no desenvolvimento \ncognitivo das crianças e que:",
+            "alternativas": {
+                "A": "As crianças aprendem e internalizam \nconceitos por meio de interações simbólicas \nsomente com adultos.",
+                "B": "A linguagem é a única forma importante de \naquisição de conhecimento.",
+                "C": "A mediação simbólica ocorre nos primeiros \nestágios de desenvolvimento e se encerra antes \nda vida adulta.",
+                "D": "A mediação simbólica é um processo \nunidimensional.",
+                "E": "É importante reconhecer as diferenças \nculturais ao considerar a eficácia da mediação \nsimbólica em diferentes contextos \neducacionais.  \n \n QUESTÃO 32  \nO livro “Nove Olhares sobre a Supervisão”, \norganizado por Celestino Alves da Silva Jr. e \nMary Rangel, aborda a ação supervisora, que \nengloba o conjunto de atividades e \nresponsabilidades desempenhadas por \nsupervisores escolares em instituições \neducacionais.  Uma característica distintiva da \nação supervisora escolar de cunho tradicional é:  \n(A) Ter como objetivo a harmonia do grupo.  \n(B) Trabalhar as diferenças.  \n(C) Trabalhar buscando criar demandas.  \n(D) Fazer a leitura da escola, considerando sua \nsingularidade.  \n(E) Ser um problematizador."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Na obra “A Avaliação Educacional: \nFundamentos e Práticas”, organizada por Isabel \nCappelletti, é discutida a organização do \nsistema de ciclos com progressão continuada no \nBrasil, juntamente com os aspectos \nrelacionados à avaliação nesses cenários. Nesse \ncontexto, qual dos seguintes aspectos \nrepresenta o principal objetivo da avaliação \nformativa nos ciclos com progressão \ncontinuada?",
+            "alternativas": {
+                "A": "Classificar os alunos de acordo com seu \ndesempenho acadêmico.",
+                "B": "Criar uma competição saudável entre os \nestudantes para estimular o progresso.",
+                "C": "Identificar os alunos com dificuldades de \naprendizagem e separá -los do sistema.",
+                "D": "Monitorar e intervir na aprendizagem dos \nalunos ao longo dos ciclos de forma contínua.",
+                "E": "Estabelecer critérios rígidos de promoção \nde ano para garantir a qualidade educacional.  \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 9 de 14 QUESTÃO 3 4 \nDo ponto de vista tecnológico, especialistas \nidentificaram que o Brasil se encontra no início \nda integração do administrativo e do \npedagógico, ou seja, há um movimento em \ndireção à unificação e integração das redes \nadministrativa e pedagógica, visando aproveitar \no potencial da tecnologia para melhorar tanto a \ngestão escolar quanto os processos de ensino e \naprendizagem. A esse respeito, analise as \nseguintes afirmações a segu ir. \nI. No mercado, há programas de gestão \ntecnológica que buscam integrar todas as \ninformações relacionadas à escola, incluindo \ndados de alunos, famílias, professores, \nfuncionários e fornecedores. Esses sistemas \ntambém abrigam recursos pedagógicos, como \nbancos  de dados para aulas, atividades de \nprofessores, alunos e bibliotecas virtuais.  \nII. As principais instituições de ensino do Brasil \nadotam programas integrados de gestão, \nreduzindo o uso de papel e convertendo \ndocumentos em arquivos digitais organizados \nem pastas eletrônicas por assunto em um \nservidor central.  \nIII. A Internet é importante para comunicação e \ndivulgação escolar, permitindo que cada \ninstituição compartilhe suas atividades, \nprojetos e filosofia pedagógica com \ntransparência perante a comunidade.  \nIV. A tecnologia deve substituir completamente \nmétodos tradicionais de ensino, promovendo a \ncolaboração e a personalização da \naprendizagem.  \nCom base nas afirmativas, estão corretas:  \n(A) Apenas I e II.  \n(B) Apenas II, III e IV.  \n(C) Apenas I, III e IV.  \n(D) Apenas I, II e III.  \n(E) Apenas I, II e IV.  \n \n \n \n QUESTÃO 3 5 \nDe acordo com a obra, organizada por Naura \nSyria C. Ferreira, “Supervisão educacional para \numa escola de qualidade”, há uma mudança no \npapel da supervisão educacional. Agora, além \nde garantir a execução rigorosa do trabalho \neducativo, a supervisão está for temente \ncomprometida com a construção de um novo \ntipo de conhecimento, chamado de \n“conhecimento emancipação”. Nesse sentido, \nos profissionais da educação devem ser \ndesafiados a:  \n(A) Garantir o controle da ação dos professores.  \n(B) Priorizar a transmissão de conteúdos \ncurriculares específicos.  \n(C) Estabelecer hierarquias dentro da escola.  \n(D) Promover uma educação que capacite os \nalunos a pensarem criticamente.  \n(E) Manter um enfoque exclusivo na avaliação \nquantitativa dos alunos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Sobre os direitos, deveres e princípios \nrelacionados à educação no país, previstos na \nConstituição Federal de 1988, assinale a \nalternativa INCORRETA.",
+            "alternativas": {
+                "A": "A educação é um direito de todos e um \ndever do Estado e da família.",
+                "B": "É garantida autonomia didático -científica, \nadministrativa e de gestão financeira das \nuniversidades, e estas devem obedecer ao \nprincípio da indissociabilidade entre ensino, \npesquisa e extensão.",
+                "C": "São deveres do Estado garantir o ensino \nfundamental obrigatório e gratuito, o \natendimento educacional especializado aos \nportadores de deficiência, exclusivamente na \nrede regular de ensino.",
+                "D": "Devem ser fixados conteúdos mínimos para \no ensino fundamental, assegurando a formação \nbásica comum e o respeito aos valores culturais \ne artísticos nacionais e regionais.",
+                "E": "A União, os Estados, o Distrito Federal e os \nMunicípios devem organizar em regime de \ncolaboração seus sistemas de ensino, com \nresponsabilidades específicas para cada ente \nfederativo.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 10 de 14 QUESTÃO 37  \nDe acordo com a Constituição Federal de 1988, \nqual é a responsabilidade prioritária dos \nMunicípios no que tange à educação?  \n(A) Atuar no financiamento das instituições de \nensino públicas federais.   \n(B) Garantir o acesso dos adolescentes ao \nensino médio.   \n(C) Exercer função redistributiva em relação a \ntodas as escolas.  \n(D) Atuar no ensino fundamental e na educação \ninfantil.  \n(E) Definir formas de colaboração entre todos \nos entes federativos, para assegurar a equidade \ndo ensino obrigatório."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Assinale verdadeiro (V) ou falso (F) para as \nafirmações sobre os direitos e deveres \nestabelecidos no Estatuto da Criança e do \nAdolescente:  \n1. ( )  É facultado aos dirigentes de \nestabelecimentos de ensino fundamental \ncomunicar ao Conselho Tutelar casos de maus -\ntratos envolvendo seus alunos.  \n2. ( ) Os municípios devem facilitar a \ndestinação de recursos e espaços para \nprogramações culturais, esportivas e de lazer \nvoltadas para a infância e a juventude, com \napoio dos estados e da União.  \n3. ( ) Os pais ou responsáveis não têm obrigação \nde matricular seus filhos na rede regular de \nensino, desde que ofereçam alternativas \neducacionais em casa.  \nDe acordo com as afirmações, a sequência \ncorreta é:",
+            "alternativas": {
+                "A": "1.V; 2.F; 3.V.",
+                "B": "1.F; 2. F; 3.V.",
+                "C": "1.F; 2.F; 3.F.",
+                "D": "1.F; 2.V; 3.F.",
+                "E": "1.V; 2.V; 3.F.  \n QUESTÃO 39  \nDe acordo com a Lei de Diretrizes e Bases da \nEducação Nacional, o poder público, na esfera \nde sua competência federativa, deverá:  \n(A) Realizar a chamada pública dos estudantes.  \n(B) Recensear semestralmente as crianças e \nadolescentes em idade escolar, bem como os \njovens e adultos que não concluíram a educação \nbásica.  \n(C) Construir novas escolas em áreas de baixa \ndensidade populacional.  \n(D) Elaborar listas de espera para matrícula em \nestabelecimentos de educação básica de todas \nas redes de ensino.  \n(E) Zelar, juntamente com o Poder Judiciário, \npela qualidade de ensino."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Analise as seguintes afirmações sobre a Lei nº \n10.639/2003, que inclui no currículo oficial da \nRede de Ensino a obrigatoriedade da temática \n“História e Cultura Afro -Brasileira”.  \nI. A lei contribui para a promoção do mito da \ndemocracia racial, ao reconhecer e valorizar a \ndiversidade cultural do país.  \nII. O objetivo da inclusão curricular não é \napenas reconhecer a diversidade étnico -cultural \ndo Brasil, mas também combater o racismo \nestrutural e promover a valorização da \nidentidade e do legado histórico dos \nafrodescendentes no país.  \nIII. A abordagem da história e cultura afro -\nbrasileira não deve ser tratada apenas de forma \nisolada, mas sim incorporada de maneira \ntransversal em diversas disciplinas e áreas de \nconhecimento.  \nIV. A lei estabelece a obrigatoriedade do ensino \nsobre História e Cultura Afro -Brasileira nos \nestabelecimentos de ensino fundamental e \nmédio, sejam eles públicos ou privados.  \nCom base nas afirmativas, estão corretas:",
+            "alternativas": {
+                "A": "Apenas I e II.",
+                "B": "Apenas II, III e IV.",
+                "C": "Apenas I, III e IV.",
+                "D": "Apenas I, II e IV.",
+                "E": "Apenas I, II e III.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 11 de 14 QUESTÃO 41  \nA Lei nº 10.436/2002 reconhece a Língua \nBrasileira de Sinais (Libras) como meio legal \nde comunicação e expressão das comunidades \nsurdas do Brasil. A esse respeito, é \nINCORRETO afirmar:  \n(A) A Libras deve ser respeitada e utilizada em \ndiversos contextos sociais, educacionais e \ninstitucionais.  \n(B) A Libras é um sistema linguístico de \nnatureza visual -motora, com estrutura \ngramatical própria.  \n(C) O poder público em geral e empresas \nconcessionárias de serviços públicos devem \ninstitucionalizar formas de apoiar o uso e \ndifusão da Libras como meio de comunicação.  \n(D) O sistema educacional municipal deve \ngarantir a inclusão do ensino da Libras nos \ncursos de formação de Educação Especial, \nFonoaudiologia e Magistério, em seus níveis \nmédio e superior.  \n(E) A Libras pode substituir a modalidade \nescrita da língua portuguesa, devendo as \npessoas surdas escolher entre um dos meios de \ncomunicação."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: O Decreto n° 7.611/2011, que dispõe sobre a \nEducação Especial e o atendimento educacional \nespecializado, assegura um sistema educacional \ninclusivo em todos os níveis, sem \ndiscriminação e baseado na igualdade de \noportunidades. A esse respeito, é CORRETO \nafirmar:",
+            "alternativas": {
+                "A": "Todas as pessoas com a mesma deficiência \ntêm as mesmas necessidades educacionais.",
+                "B": "Todos os estudantes com deficiência devem \ndepender de cuidadores ou profissionais para \nrealizar tarefas ou participar da vida escolar.",
+                "C": "A inclusão de estudantes com deficiência é \nmais do que um direito, é um ato de caridade \npor parte das escolas e sociedade.",
+                "D": "As pessoas com deficiência são aquelas \nincapazes de aprender ou contribuir de forma \nsignificativa para a sociedade.",
+                "E": "O Poder Público deve estimular o acesso ao \natendimento educacional especializado \ncomplementar ou suplementar ao ensino \nregular.  QUESTÃO 43  \nQual é a finalidade da educação infantil, de \nacordo com a Lei de Diretrizes e Bases da \nEducação Nacional?  \n(A) Proporcionar conhecimentos específicos \nem áreas como matemática e língua portuguesa \ndesde cedo.  \n(B) Preparar as crianças para o mercado de \ntrabalho através de atividades práticas.  \n(C) Desenvolver integralmente a criança em \nseus aspectos físico, psicológico, intelectual e \nsocial, complementando a ação da família e da \ncomunidade.  \n(D) Fornecer ensino formal e sistemático desde \na tenra idade.  \n(E) Treinar habilidades específicas para futuras \nprofissões."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: No contexto da educação brasileira, o Plano \nNacional de Educação (PNE) desempenha um \npapel fundamental na formulação de políticas \neducacionais. São diretrizes do PNE, \nEXCETO:",
+            "alternativas": {
+                "A": "Erradicação do analfabetismo.",
+                "B": "Universalização do atendimento escolar.",
+                "C": "Formação para a cidadania, com ênfase na \nabordagem voltada para a transmissão de \nconhecimentos teóricos e acadêmicos.",
+                "D": "Estabelecimento de meta de aplicação de \nrecursos públicos em educação como proporção \ndo Produto Interno Bruto - PIB, que assegure \natendimento às necessidades de expansão, com \npadrão de qualidade e equidade",
+                "E": "Superação das desigualdades educacionais, \ncom ênfase na promoção da cidadania e na \nerradicação de todas as formas de \ndiscriminação.  \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 12 de 14 QUESTÃO 45  \nDe acordo com a Lei nº 13.005/2004, que \naprova o Plano Nacional de Educação, os entes \nfederados estabelecerão nos respectivos planos \nde educação estratégias que:  \n(A) assegurem a autonomia e independência \ndas políticas educacionais com as demais \npolíticas sociais, que devem evitar de dialogar.  \n(B) considerem as necessidades gerais, e não \nindividuais, das populações do campo e das \ncomunidades indígenas e quilombolas.  \n(C) garantam o atendimento das necessidades \nespecíficas na educação especial, com foco na \nadaptação da criança ao ambiente escolar já \npré-estabelecido, sem modificar o ambiente.  \n(D) promovam a articulação interfederativa na \nimplementação das políticas educacionais.  \n(E) permitam a participação de uma parte dos \nrepresentantes da comunidade educacional que \nesteja disposta a realizar as mudanças \nnecessárias."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: A Base Nacional Comum Curricular (BNCC) é \num documento que estabelece os \nconhecimentos, competências e habilidades \nessenciais que todos os alunos da Educação \nBásica devem desenvolver ao longo de sua \ntrajetória escolar no Brasil. Um dos principais \nfundament os pedagógicos da BNCC é o foco no \ndesenvolvimento de competências. Nesse \ncontexto, competência é entendida como:",
+            "alternativas": {
+                "A": "a mobilização de conhecimentos, \nhabilidades, atitudes e valores para resolver \nsituações -problema da vida cotidiana, do \nmundo do trabalho e do exercício da cidadania.",
+                "B": "ênfase no ensino de habilidades técnicas e \nna acumulação de informações específicas.",
+                "C": "a divisão curricular em áreas específicas do \nconhecimento.",
+                "D": "habilidades socioemocionais relacionadas à \ninteração social e ao gerenciamento emocional.",
+                "E": "priorização da transmissão e a aquisição de \nconhecimentos teóricos.  QUESTÃO 47  \nConsiderando os direitos de aprendizagem e \ndesenvolvimento, a Base Nacional Comum \nCurricular (BNCC) estabelece cinco campos de \nexperiências na Educação Infantil, nos quais as \ncrianças podem aprender e se desenvolver. \nQual dos seguintes NÃO é um dos campos de \nexperiências definidos pela BNCC?  \n(A) O eu, o outro e o nós.  \n(B) Corpo, gestos e movimentos.  \n(C) Traços, sons, cores e formas.  \n(D) Escuta, fala, pensamento e imaginação.  \n(E) Identidade de gênero e orientação sexual."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SUPERVISOR DE ENSINO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: Na evolução histórica das políticas de \natendimento à infância no Brasil, destaca -se a \ntransição da Educação Infantil de um favor para \nas classes menos favorecidas em um direito \nsocial de todas as crianças. Qual foi o principal \nmarco histórico que represent ou a elevação da \nEducação Infantil como um direito social de \ntodas as crianças?",
+            "alternativas": {
+                "A": "A promulgação da Constituição Federal de \n1988.",
+                "B": "A criação do Estatuto da Criança e do \nAdolescente de 1990.",
+                "C": "A aprovação da Lei de Diretrizes e Bases da \nEducação Nacional em 1996.",
+                "D": "O início dos movimentos sociais de “luta \npor creche” na década de 1950.",
+                "E": "A implementação do Plano Nacional de \nEducação (PNE) em 2001.  \n \n \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 13 de 14 QUESTÃO 49  \nAs creches e pré -escolas, conforme o atual \nordenamento jurídico, são instituições \neducacionais destinadas ao cuidado e educação \nde crianças de zero a cinco anos. Elas possuem \num caráter institucional e educacional distinto \nde outros contextos de cuidado in fantil, sendo \nnecessária a presença de profissionais com \nformação específica legalmente determinada. A \nesse respeito, é INCORRETO afirmar:  \n \n(A) Essas instituições estão sujeitas a \ncredenciamento, reconhecimento e supervisão \ndo sistema de ensino ao qual estão vinculadas.  \n(B) Elas devem oferecer sempre jornadas \nintegrais e o poder público é responsável por \nfornecer vagas próximas à residência das \ncrianças.  \n(C) O papel sociopolítico e pedagógico da \nEducação Infantil é essencialmente delineado \npela legislação, que a integra como parte \nfundamental da Educação Básica.  \n(D) Esta etapa educacional visa o \ndesenvolvimento integral da criança e o \nfornecimento dos meios para sua progressão \nfutura no trabalho e nos estudos  \n(E) As creches e pré -escolas devem promover a \nigualdade de oportunidades entre homens e \nmulheres, complementando a educação das \ncrianças e proporcionando às mulheres \noportunidades além do contexto doméstico, o \nque contribui para a equidade de gênero e o \ndesenvolvimento integral das crianças.  \n \n \n \n \n \n \n \n \n \n QUESTÃO 50  \nAcerca da criança como sujeito no processo de \neducação, assinale verdadeiro (V) ou falso (F) \npara as afirmações a seguir:  \n \n1. ( ) As capacidades da criança são \nuniversalmente determinadas pela biologia \ndesde o nascimento.  \n \n2. ( ) Motricidade, linguagem, pensamento, \nafetividade e sociabilidade se desenvolvem a \npartir das interações desde o nascimento.  \n \n3. ( ) Cada criança apresenta um ritmo e forma \nprópria de se relacionar e interagir, testando e \nmodificando continuamente as significações \nque constrói.  \n \nDe acordo com as afirmações, a sequência \ncorreta é:  \n \n(A) 1.V; 2.F; 3.V.  \n(B) 1.F; 2. F; 3.V.  \n(C) 1.F; 2.F; 3.F.  \n(D) 1.F; 2.V; 3.V.  \n(E) 1.V; 2.V; 3.F.  \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSUPERVISOR DE ENSINO                                                                                                                             Página 14 de 14"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

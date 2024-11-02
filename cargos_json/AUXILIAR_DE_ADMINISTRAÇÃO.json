@@ -1,3 +1,382 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b88da0dfa7b6f1beb4d9eedc4718fbc0f45d5ccc8985566b64a6980a7e819b2e
-size 34049
+{
+    "AUXILIAR DE ADMINISTRAÇÃO": [
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 1: Tendo em vista uma análise interpretativa do \ntexto, analisando -se as passagens abaixo dele \nretiradas, assinale aquela em que há presença \nde sentido figurado:",
+            "alternativas": {
+                "A": "“ Era conferente da Alfândega — mas isso \nnão tem importância.” (1º p arágrafo).",
+                "B": "“ Pouco importa que nos avaliem pela \ncasca.” (1º parágrafo).",
+                "C": "“ Sua mulher não tinha percebido.” (2º \nparágrafo).",
+                "D": "“ Ao aparecerem nele as primeiras dores, \n(...)” (3º parágrafo).",
+                "E": "“ Santos parecia comprazer -se em estar \ndoente.” (3º parágrafo)."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 2: No percurso temático do texto, a passagem “–\nVocê não sentirá falta de nada, assegurou -lhe \nSantos .” (7º parágrafo), mostra -se:",
+            "alternativas": {
+                "A": "Falsa, pois, a partir de determinado \nmomento, d. Laurinha fica sem a presença de \nSantos e sem o valor monetário com que \ncontava para as despesas.",
+                "B": "Verdadeira, pois d. Laurinha se mantém \ntodo o tempo monetariamente com o valor \nentregue por Santos.",
+                "C": "Parcialmente falsa, pois d. Laurinha perde \napenas a companhia de Santos uma vez por \nmês, já que passa a receber o valor monetário \npor depósito bancário.",
+                "D": "Verdadeira, apesar de d. Laurinha não \nsentir falta do marido em nenhum momento.",
+                "E": "Falsa, pois d. Laurinha consegue se manter \nmonetariamente com a pensão que passa a \nreceber depois do falecimento de San tos. \n \n QUESTÃO 03  \nSobre o texto, assinale a opção com \ninformação correta:  \n(A) Trata -se de uma história real ocorrida com \no casal Laura e Santos, em determinado local \nnão declarado, para preservar a identidade \ndeles.  \n(B) A doença de Santos era muito grave, \nexigindo dele uma internação drástica e \ndefinitiva em ambiente hospitalar até o \nmomento de seu óbito.  \n(C) A esposa Laura demonstra uma forte \npreocupação para com o estado do marido, \ntentando de todas as formas que ele ficasse em \ncasa se tratando, sugerindo  até que se \ncontratasse alguém especializado em \nenfermagem.  \n(D) Percebe -se, pelo final do texto, que d. \nLaurinha se enganara completamente em \nrelação ao marido, não o reconhecendo, \nquando foi à Alfândega procurá -lo, depois de \nnão o encontrar no hospital.  \n(E) Pode -se inferir que a internação de Santos \nfoi falsa, pois ele saiu de casa para assumir uma \noutra família, vivendo uma realidade diferente \nda que compartilhava com a esposa d. \nLaurinha."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 3: Na passagem “ Nisso está o espinho do homem: \nele muda, os outros não percebem .” (1º \nparágrafo), poder -se-ia incluir uma conjunção \ndepois da vírgula corretamente apontada na \nalternativa:",
+            "alternativas": {
+                "A": "Mas.",
+                "B": "Porque.",
+                "C": "Logo.",
+                "D": "Porquanto.",
+                "E": "Sem que.  \n \n \n \n Câmara  Municipal de Taboão da Serra  - SP – Concurso Público  02/2022                      INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE ADMINISTRAÇÃO                                                                                                               Página 4 de 13 QUESTÃO 05  \nAs vírgulas, no fragmento “ Ele, Santos, sentia -\nse vivo e desagradado .” (2º parágrafo), foram \nempregadas, pois:   \n(A) Isolam um vocativo.  \n(B) Destacam uma citação.  \n(C) Marcam um termo adverbial deslocado.  \n(D) Separam um aposto.  \n(E) Marcam a omissão de um verbo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 4: Quanto à flexão verbal,  assinale a alternativa \nque apresenta uma passagem do texto, retirada \ndo 8º parágrafo, com verbo no pretérito mais -\nque-perfeito do modo indicativo:",
+            "alternativas": {
+                "A": "“ Pontualmente, Santos trazia -lhe o \ndinheiro da despesa, (...)”.",
+                "B": "“(...) ficaram até um pouco amigos n essa \nbreve conversa a longos intervalos.”.",
+                "C": "“ Ele chegava e saía curvado, sob a garra do \nreumatismo, (...)”.",
+                "D": "“ A visita não era de todo desagradável, \n(...)”.",
+                "E": "“(...) desde que a doença deixara de ser \nassunto.”."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 5: Há um uso adequado do acento grave \nindicativo de crase apenas na opção:",
+            "alternativas": {
+                "A": "Não me dirigi à ela nem à ninguém durante \na reunião.",
+                "B": "Os viajantes chegaram bem àquele \nterritório inóspito.",
+                "C": "Não costumo comprar nada à prazo.",
+                "D": "Ela se referiu à uma heroína do sécul o \nXIX.",
+                "E": "Por causa da promoção, os produtos \nestavam orçados à partir de 1,99.  \n \n QUESTÃO 08  \nEm relação aos aspectos de concordância \nnominal, assinale a alternativa correta:  \n(A) Era proibida entrada de menores no \nestabelecimento.  \n(B) Escolhemos estampas o mais belas \npossíveis.  \n(C) A porta estava meia aberta quando cheguei \nà sala de aula.  \n(D) Seguem anexas ao e -mail as propostas de \ncompra e venda do imóvel.  \n(E) Compramos bastante livros na feira \nliterária."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 6: O vocábulo corretamente grafado está presente \nna alternativa:",
+            "alternativas": {
+                "A": "Pretencioso.",
+                "B": "Inadmiscível.",
+                "C": "Sisudez.",
+                "D": "Enxarcado.",
+                "E": "Xávena."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 7: O processo de formação da palavra “ esfarelar ” \nestá corretamente apontado em:",
+            "alternativas": {
+                "A": "Sufixação.",
+                "B": "Prefixação.",
+                "C": "Aglutinação.",
+                "D": "Parassíntese.",
+                "E": "Conversão.  \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 8: 12,9 km equivalem a",
+            "alternativas": {
+                "A": "129000 dm.",
+                "B": "12900 dm.",
+                "C": "1290 dm.",
+                "D": "129 dm.",
+                "E": "1,29 dm.  Câmara  Municipal de Taboão da Serra  - SP – Concurso Público  02/2022                      INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE ADMINISTRAÇÃO                                                                                                               Página 5 de 13 QUESTÃO 12  \nNa tesouraria de um supermercado, há dois \nmaços de dinheiro, um deles com 255 cédulas \nde R$100,00 e o outro com 180 cédulas de \nR$50,00. O tesoureiro irá colocar todo esse \ndinheiro em malotes, cada malote com maior o \nnúmero de cédulas possíveis. Sabendo que \ncada malote deverá ter o mesmo número de \ncédulas e que cédulas de R$100,00 e cédulas \nde R$50,00 não podem ficar juntas em um \nmesmo malote, então, a diferença entre o \nnúmero de malotes contendo somente cédulas \nde R$100,00 e o número de malotes contendo \nsomente cédula de R$50,00 é  \n(A) 7.  \n(B) 6.  \n(C) 5.  \n(D) 4.  \n(E) 3."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 9: Um capital de R$7.500,00 foi aplica do à taxa \nsemestral de 5% no regime de capitalização \nsimples. Para que seja obtido um montante de \nR$9.750,00, o prazo dessa aplicação deverá ser \nde",
+            "alternativas": {
+                "A": "3 anos e 6 meses.",
+                "B": "3 anos.",
+                "C": "4 anos e 6 meses.",
+                "D": "4 anos.",
+                "E": "5 an os e 6 meses."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 10: Se cada caixa de uma agência bancária vender \ncerta quantidade de produtos em 8 horas, é \ncorreto afirmar que seis caixas, de mesma \neficiência, venderão essa mesma quantidade de \nprodutos em  \n(A)1h 20min.  \n(B) 1h 40min.  \n(C) 1h 15min.  \n(D) 1h 35min.  \n(E) 1h 45min.  QUESTÃO 15  \nPara incentivar seus colaboradores, uma \nempresa ofereceu aos mesmos um reajuste \nsalarial de 31,6% dividido em três parcelas \nanuais, sendo a primeira parcela no ano \ncorrente e as demais para os anos sequentes. \nUm auxili ar administrativo com o salário de \nR$1.840,00 em 2021, passará a receber, em \n2024, após a liberação da última parcela do \nreajuste, salário",
+            "alternativas": {
+                "A": "superior a R$2.425,00.",
+                "B": "inferior a R$2.415,00.",
+                "C": "inferior a R$2.430,00.",
+                "D": "superior a R$2.435,00",
+                "E": "inferi or a R$2.420,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 11: Altino é carteiro e tinha várias \ncorrespondências para entregar, e, até às 11h \nele já havia entregue 1/5 das correspondências. \nDas 11h até às 13h ele entregou mais 1/4 das \ncorrespondências. Após pausa para o almoço, \naté o fim do  expediente, ele conseguiu entregar \n1/2 do que faltava. A fração correspondente a \nentrega já realizada é:",
+            "alternativas": {
+                "A": "15/41",
+                "B": "17/30",
+                "C": "33/60",
+                "D": "29/40",
+                "E": "19/27"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 12: 64 voluntários fazem a remoção de entulhos \nnuma extensão de 100 metros de uma praia em \n28 dias, trabalhando 7 horas diárias. Em quanto \ntempo 96 voluntários farão a remoção de \nentulhos numa extensão de 180 metros \ntrabalhando 8 horas diárias?",
+            "alternativas": {
+                "A": "27 dias 1 hora e 05 minutos.",
+                "B": "29 dias 5 horas e 18 minutos.",
+                "C": "30 dias 2 horas e 15 minutos.",
+                "D": "27 dias 4 horas e 34 minutos.",
+                "E": "29 dias 3 horas e 12 minutos  Câmara  Municipal de Taboão da Serra  - SP – Concurso Público  02/2022                      INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE ADMINISTRAÇÃO                                                                                                               Página 6 de 13 QUESTÃO 18  \nMagno está economizando para comprar um \ncarro. Ele efetuou um depósito de R$8.000,00 \nem 05/01/2022 e um  de R$12.000,00 em \n05/04/2022. Foram pagos juros compostos à \ntaxa trimestral de 5%, em 05/07/2022 Magno \ntinha um total de  \n(A) R$20.880,00.  \n(B) R$22.880,00.  \n(C) R$22.000,88.  \n(D) R$20.008,80  \n(E) R$22.808,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 13: Gil acertou 51 questões da prova de certo \nconcurso. É sabido que a razão entre o número \nde questões Gil acertou e o número de questões \nrespondidas incorretamente por ele é de 17 \npara 4, e que 7 questões não foram \nrespondidas, pode -se afirmar que o número de \nquestões dessa prova era",
+            "alternativas": {
+                "A": "60.",
+                "B": "72.",
+                "C": "85.",
+                "D": "80.",
+                "E": "65."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 14: Hélio comprou um pacote com menos de 160 \nalfinetes, e pretende utilizar diariamente o \nmesmo número de alfinetes. Após contabilizar \no número total de alfinetes disponíveis no \npacote, percebeu que poderia utilizar por dia, \nou 4 alfinetes, ou 5 alfinetes, ou 6 alfinetes, e, \nqualquer fosse a opção, todos os alfinetes \nseriam utilizados. O número total de alfinetes \ndo pacote é",
+            "alternativas": {
+                "A": "40.",
+                "B": "45.",
+                "C": "50.",
+                "D": "55.",
+                "E": "60.  \n ATUALIDADES"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 15: Além da Covid -19, houve uma epidem ia de \ngripe (vírus influenza) nas primeiras semanas \nde janeiro de 2022. Muitas pessoas contraíram \ncovid e gripe ao mesmo tempo, o que recebeu \no nome de:",
+            "alternativas": {
+                "A": "Cofluenza.",
+                "B": "Flurona.",
+                "C": "Influvid.",
+                "D": "Fluid.",
+                "E": "Gripe C."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 16: Minas Gerais foi bastante castigado pelas \nchuvas em janeiro , de 2022, ocasionadas pelos \nseguintes eventos:  \nI -  Zona de Convergência do Atlântico Sul . \nII - Pelo fenômeno El  Niño.  \nIII – Pelo fenômeno La Niña.  \nÉ correto o que se afirma em:",
+            "alternativas": {
+                "A": "I, apenas.",
+                "B": "I e II, apenas.",
+                "C": "I e III, apenas.",
+                "D": "II e III, apenas.",
+                "E": "I, II e III."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 17: Na Copa do Mundo do Catar, o Brasil estará \nno grupo G, com as seguintes seleções:",
+            "alternativas": {
+                "A": "Noruega, Portugal e China.",
+                "B": "Bolívia, Catar e Suécia.",
+                "C": "Costa Rica, Estados Unidos e França.",
+                "D": "Sérvia, Suíça e Camarões.",
+                "E": "Nigéria, Japão e Polônia.  \n Câmara  Municipal de Taboão da Serra  - SP – Concurso Público  02/2022                      INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE ADMINISTRAÇÃO                                                                                                               Página 7 de 13 QUESTÃO 24  \nNo dia 24 de abril, ____________ foi reeleito \nem segundo turno nas eleiç ões da França. \nForam 17 milhões de votos para o então \npresidente francês contra 12 milhões do \nrepresentante da extrema -direita no país.  \nAssinale a alternativa que preenche, \ncorretamente, a lacuna do texto:  \n(A) Emmanuel Macron.  \n(B) Alain Krivine.  \n(C) Marine Le Pen.  \n(D) Adolphe Pinard.  \n(E) Jean François Edouard Action."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 18: No dia 30 de junho de 2022, tomou posse na \nSuprema Corte dos Estados Unidos da \nAmérica, a primeira mulher negra no corpo \njudiciário mais importante do país. Trata -se de:",
+            "alternativas": {
+                "A": "Ketanji Brown Jackson.",
+                "B": "Michelle Childs.",
+                "C": "Leondra Kruguer.",
+                "D": "Angela Davis.",
+                "E": "Anita Hill  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 19: São efeitos de fonte disponíveis no Word 2016, \nexceto:",
+            "alternativas": {
+                "A": "Versalete.",
+                "B": "Tachado duplo.",
+                "C": "Subscrito.",
+                "D": "Sombreamento.",
+                "E": "Negrito.  \n \n \n QUESTÃO 27  \nObserve o ícone, abaixo, no Word 2016 e \nindique sua nomenclatura:  \n \n \n(A) Nível de Formatação.  \n(B) Espaçamento de Parágrafo.  \n(C) Espaçamento de Linha.  \n(D) Marcadores.  \n(E) Numeração."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 20: No Excel, as fórmulas simples sempre \ncomeçam com o sinal:",
+            "alternativas": {
+                "A": "[",
+                "B": "^",
+                "C": "/",
+                "D": "*",
+                "E": "="
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2022",
+            "questão": "Questão 21: O Excel inser e automaticamente uma fórmula \npara somar números ao clicar na função:",
+            "alternativas": {
+                "A": "Mat.",
+                "B": "AutoSoma.",
+                "C": "Automático.",
+                "D": "SOMASE.",
+                "E": "Totalizando.  \n \n \n \n \n \nCâmara  Municipal de Taboão da Serra  - SP – Concurso Público  02/2022                      INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE ADMINISTRAÇÃO                                                                                                               Página 8 de 13 QUESTÃO 30  \n \nCom base nos seus conhecimentos de internet, a imagem indica um tipo de:  \n(A) Antivírus.  \n(B) Correio eletrônico.  \n(C) Site de busca.  \n(D) Rede Social.  \n(E) Browser.  \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2022",
+            "questão": "Questão 22: Quanto as noções de contabilidade, relacione as colunas e assinale a alternativa com a sequência \ncorreta:  \n1. Ativo.  \n2. Passivo.  \n3. Receita.  \n4. Despesa.  \n5. Investimento.  \n(  ) São as participações  permanentes em outras sociedades e os direitos de qualquer natureza, não \nclassificáveis no Ativo Circulante, e que não se destinem à manutenção da atividade da companhia \nou da empresa.  \n(  ) Obrigação presente, derivada de evento passado, cuja extinção deva resultar na saída de recursos \nda entidade.  \n(    ) Valor gasto com bens e serviços relativos à manutenção da atividade da empresa, bem como aos \nesforços para a obtenção de receitas através da venda dos produtos.  \n(  ) Recurso controlado no presente pela entidade como resultado de evento pas sado.  \n( ) É o ingresso bruto de benefícios econômicos durante o período observado no curso das atividades \nordinárias da entidade que resultam no aumento do seu patrimônio líquido, exceto os aumentos de \npatrimônio líquido relacionados às contribuições dos p roprietários.  \nA sequência correta é:",
+            "alternativas": {
+                "A": "2 – 3 – 1 – 5 – 4",
+                "B": "3 – 1 – 4 – 5 – 2",
+                "C": "5 – 2 – 4 – 1 – 3",
+                "D": "1 – 3 – 2 – 5 - 4",
+                "E": "4 – 2 – 5 – 3 – 1 \nCâmara  Municipal de Taboão da Serra  - SP – Concurso Público  02/2022                      INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE ADMINISTRAÇÃO                                                                                                               Página 9 de 13 QUESTÃO 32  \nConsidere os itens abaixo e a seguir assinale a alternativa correta:  \nI – O princípio da Pru dência determina que os componentes do patrimônio devam ser inicialmente \nregistrados pelos valores originais das transações, expressos em moeda nacional.  \nII – O princípio da Entidade r econhece o patrimônio da empresa como objeto da Contabilidade e \nafirma a  autonomia deste patrimônio e a necessidade da separação do patrimônio empresarial do \npatrimônio particular dos seus sócios, independentemente de pertencer a uma pessoa, um conjunto de \npessoas, uma sociedade ou instituição de qualquer natureza ou finalidad e, com ou sem fins lucrativos.  \nIII – O princípio da Oportunidade r efere -se ao processo de mensuração e apresentação dos \ncomponentes patrimoniais para produzir informações íntegras e tempestivas. A falta de integridade e \ntempestividade pode ocasionar a perd a da relevância dos registros contábeis.  \n(A) Apenas o item I está correto.  \n(B) Apenas o item II está correto.  \n(C) Apenas os itens I e II estão corretos.  \n(D) Apenas os itens II e III estão corretos.  \n(E) Apenas os itens I, II e III estão corretos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2022",
+            "questão": "Questão 23: 3 \nOs princípios da Entidade, da Continuidade, da Oportunidade, do Registro Pelo Valor Original, da \nCompetência e da Prudência são:",
+            "alternativas": {
+                "A": "Princípios Administrativos.",
+                "B": "Princípios da Contabilidade.",
+                "C": "Princípios Orçamentários.",
+                "D": "Princípios Trabalhistas.",
+                "E": "Princípios Tributários."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2022",
+            "questão": "Questão 24: Estabelece que o profissional da contabilidade deva manter uma conduta mais conservadora em \nrelação aos resultados que serão apresentados, evitando que projeções distorcidas sejam feitas pelos \nusuários. A ideia é passar uma imagem de neutralidade, sem denotar otimismo nem pessimismo. Esta \ndefinição trata -se de qual Convenção Contábil?",
+            "alternativas": {
+                "A": "Conservadorismo.",
+                "B": "Consistência.",
+                "C": "Objetividade.",
+                "D": "Materialidade.",
+                "E": "Oportunidade.  \n \n \n \n \n \n Câmara  Municipal de Taboão da Serra  - SP – Concurso Público  02/2022                      INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE ADMINISTRAÇÃO                                                                                                               Página 10 de 13 QUESTÃO 35 \nAssinale a alternativ a correta quanto a definição da modalidade de licitação concurso:  \n(A) Licitação para aquisição de bens e serviços comuns em que a disputa pelo fornecimento é feita \nem sessão pública, por meio de propostas e lances, para classificação e habilitação do licit ante com a \nproposta de menor preço.  \n(B) Modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços \ncomuns e especiais de engenharia.  \n(C) É a modalidade de licitação entre quaisquer interessados para escolha de trabalho técnico, \ncientífico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e \npara concessão de prêmio ou remuneração ao vencedor.  \n(D) É  a modalidade de licitação entre interessados devidamente cadastrados ou que atenderem a todas \nas condições exigidas para cadastramento até o terceiro dia anterior à data do recebimento das \npropostas, observada a necessária qualificação.  \n(E) É a modalidade  de licitação entre interessados do ramo pertinente ao seu objeto, cadastrados ou \nnão, escolhidos e convidados em número mínimo de 3 (três) pela unidade administrativa, a qual \nafixará, em local apropriado, cópia do instrumento convocatório e o estenderá ao s demais cadastrados \nna correspondente especialidade que manifestarem seu interesse com antecedência de até 24 (vinte e \nquatro) horas da apresentação das propostas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2022",
+            "questão": "Questão 25: Assinale a alternativa correta quanto ao conceito de custos:",
+            "alternativas": {
+                "A": "Recurso contro lado no presente pela entidade como resultado de evento passado.",
+                "B": "São os recursos que a empresa tem a receber e que gerarão benefícios presentes ou futuros.",
+                "C": "São tudo o que possui valor econômico e que pode ser convertido em dinheiro, sendo utilizado  \nna realização do objetivo principal de seu proprietário.",
+                "D": "Obrigação presente, derivada de evento passado, cuja extinção deva resultar na saída de recursos \nda entidade.",
+                "E": "São gastos com bens ou serviços utilizados para produção de outros bens ou serv iços."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2022",
+            "questão": "Questão 26: O § 2º do art. 21 da Lei das Licitações estabelece os prazos mínimos para o recebimento das propostas \ndos licitantes. Qual o prazo mínimo para recebimento de propostas da modalidade de licitação \nconcurso?",
+            "alternativas": {
+                "A": "05 dias.",
+                "B": "15 dias.",
+                "C": "20  dias.",
+                "D": "30 dias.",
+                "E": "45 dias.  \n \n Câmara  Municipal de Taboão da Serra  - SP – Concurso Público  02/2022                      INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE ADMINISTRAÇÃO                                                                                                               Página 11 de 13 QUESTÃO 38 \nO que é tributo?  \n(A) É toda prestação pecuniária facultativa, em moeda ou cujo valor nela se possa exprimir, que não \nconstitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa \nplenamente vinculada.  \n(B) É toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que \nconstitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa \nplenamente vinculada.  \n(C) É toda prestação pecuniária facultativa, em moeda ou cujo valor nela se possa exprimir, que não \nconstitua sanção de ato lícito, instituída em lei e cobrada mediante atividade administrativa \nplenamente vinculada.  \n(D) É toda prestação pecuniár ia compulsória, em moeda ou cujo valor nela se possa exprimir, que \nnão constitua sanção de ato lícito, instituída em lei e cobrada mediante atividade administrativa não \nvinculada.  \n(E)  É toda prestação pecuniária compulsór ia, em moeda ou cujo valor nela se possa exprimir, que \nnão constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa \nplenamente vinculada."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE ADMINISTRAÇÃO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2022",
+            "questão": "Questão 27: Dentro do universo da contabilidade, existem quatro convenções contáb eis, são elas: Consistência, \nConservadorismo, Materialidade e Objetividade. Quanto a convenção contábil da Objetividade, \nassinale a alternativa correta:",
+            "alternativas": {
+                "A": "Estabelece que a contabilidade não deve se preocupar com valores ou fatos irrelevantes, tanto \ndo ponto  de vista de registro como de controle. Sendo assim, a informação contábil deve ser relevante, \njusta e adequada e o profissional deve considerar a relação custo x benefício da informação que será \ngerada, evitando perda de recursos e de tempo da entidade. D essa forma, o contador não perde tempo \ncom registros cujos controles podem se tornar mais onerosos (caros) que os próprios valores a serem \nregistrados.",
+                "B": "Refere -se ao sentido de neutralidade que se deve atribuir à Contabilidade nos registros dos \nfatos que envolvem a gestão do patrimônio das entidades. O profissional contábil deve escolher, entre \nvários procedimentos, o mais adequado para descrever um evento contábil. Deve procurar exercer a \nContabilidade de forma objetiva. Os registros devem estar  baseados em documentos que comprovem \na ocorrência das respectivas transações.",
+                "C": "De acordo com essa convenção, os critérios adotados no registro dos atos e fatos \nadministrativos não devem mudar  frequentemente. Refere -se a uniformidade, utilizando método s e \ncritérios uniformes ao longo do tempo para o registro dos fatos contábeis e elaboração das \ndemonstrações financeiras. Os relatórios devem ser elaborados com a forma e o conteúdo das \ninformações consistentes para facilitar sua interpretação e análise pe los diversos usuários.",
+                "D": "É a qualidade da informação que ajuda a assegurar aos usuários que a informação contida nas \ndemonstrações contábeis representa fielmente os fenômenos econômicos ou de outra natureza que se \npropõe a representar.",
+                "E": "É o instrume nto de planejamento que detalha a previsão dos recursos a serem arrecadados \n(impostos e outras receitas estimadas) e a destinação desses recursos (ou seja, em quais despesas esses \nrecursos serão utilizados) a cada ano.  \n Câmara  Municipal de Taboão da Serra  - SP – Concurso Público  02/2022                      INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE ADMINISTRAÇÃO                                                                                                               Página 12 de 13 QUESTÃO 40  \nSão modalidades licitatórias, exceto:  \n(A) Indicação.  \n(B) Concorrência.  \n(C) Convite.  \n(D) Tomada de preços.  \n(E) Concurso.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Câmara  Municipal de Taboão da Serra  - SP – Concurso Público  02/2022                      INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE ADMINISTRAÇÃO                                                                                                               Página 13 de 13"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

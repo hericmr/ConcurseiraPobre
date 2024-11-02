@@ -1,3 +1,340 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:606d4c25400db0f9a7e6a232beb8e9dd9155ff8304fc6e7909dd39562c6b94ed
-size 37439
+{
+    "RECREADOR": [
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, os Jogos Paralímpicos:",
+            "alternativas": {
+                "A": "Tiveram início durante a Segunda Guerra \nMundial, com soldados lesionados que não \npodiam retornar ao confronto.",
+                "B": "Foram resultado de uma abordagem \nrevolucionária de tratamento de pacientes feridos \nno pós-guerra, que incluía artesanato e a prática \nde esportes.",
+                "C": "Foram idealizados pelo médico neurologista \nSir Ludwig Guttman, que também era portador \nde deficiência e não concordava com a \ninatividade de pessoas como ele.",
+                "D": "Aconteceram de forma oficial e internacional \npela primeira vez em julho de 1948, dentro de um \nhospital, sob incentivo do médico Sir Ludwig \nGuttman.",
+                "E": "Aumentou a perspectiva de vida das pessoas \ncom deficiência em geral, uma vez que, ao \npraticar esportes, saem de longos períodos de \ninatividade."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Analise os excertos a seguir, retirados do texto, e \nassinale a alternativa em que o vocábulo “o(s)” \nocorre como pronome demonstrativo, \nconsiderando também a possibilidade de \ncontração com uma preposição.",
+            "alternativas": {
+                "A": "Os Jogos Paralímpicos, como conhecemos \nhoje, não começaram como uma grande \ncompetição mundial de diversos esportes.",
+                "B": "Essas competições continuaram a crescer, \ntornando-se eventos anuais no hospital.",
+                "C": "O que começou com uma competição \nmodesta entre alguns pacientes veio a se tornar \num dos maiores símbolos de inclusão do mundo.",
+                "D": "O impacto foi imediato e transformador.",
+                "E": "O crescimento do movimento paralímpico foi \nacompanhado pela inclusão de atletas com \ndiferentes tipos de deficiência. \n \n \n  \nConsidere o seguinte excerto, retirado do \ntexto, para responder às questões 3 e 4:  \n“Ele acreditava que a prática esportiva não \napenas ajudaria no condicionamento físico, mas \ntambém restauraria a dignidade e a autoestima \ndaquelas pessoas.”"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A expressão “não apenas […] mas também”, que \nocorre no excerto dado, imprime ao contexto um \nsentido:",
+            "alternativas": {
+                "A": "adversativo.",
+                "B": "aditivo.",
+                "C": "conformativo.",
+                "D": "consecutivo.",
+                "E": "concessivo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: O vocábulo “que” , que ocorre no excerto dado, \natua como:",
+            "alternativas": {
+                "A": "pronome relativo.",
+                "B": "pronome interrogativo.",
+                "C": "conjunção integrante.",
+                "D": "conjunção causal.",
+                "E": "preposição."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: O encontro vocálico encontrado em “pedreira ” é \num ditongo decrescente. O mesmo tipo de \nditongo também se encontra em:",
+            "alternativas": {
+                "A": "ouriço.",
+                "B": "rosácea.",
+                "C": "pátria.",
+                "D": "equino.",
+                "E": "névoa. \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nRECREADOR                                                                                                                                              Página 4 de 12 QUESTÃO 06 \nHá o emprego incorreto da vírgula, separando o \nverbo de seu(s) complemento(s), apenas em: \n(A) A mulher questionou a professora, das falas \nsobre seu filho. \n(B) Todo o meu rosto, em razão da insolação, \nardia como fogo.  \n(C) Sua preguiça era tanta, que não conseguiu \nfinalizar suas tarefas. \n(D) Alguns disseram que ela ficou furiosa, \noutros, que apenas se chateou. \n(E) Enquanto ela preparava o jantar, a garotinha \nbrincava de boneca."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: A concordância nominal está incorreta  apenas \nem:",
+            "alternativas": {
+                "A": "A senhora possui muitas joias e outros itens \ncaros em sua casa.",
+                "B": "Delicadas flores e ornamentos enchiam as \nprateleiras das janelas.",
+                "C": "Este manuscrito foi traduzido para as línguas \ninglesa e espanhola.",
+                "D": "Esses dois artigos, por si só, bastariam para \ntorná-lo um gênio.",
+                "E": "Pedro e Ana casaram-se às pressas, um por \namor, o outro, por obrigação."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Ocorre um verbo com regência pronominal e \ntransitiva indireta, simultaneamente, apenas em:",
+            "alternativas": {
+                "A": "Ele estreou-se no programa televisivo, como \nator, na última semana.",
+                "B": "Disseram-lhe que as provas seriam \nremarcadas.",
+                "C": "Sabe-se que as investigações policiais \ncostumam demorar.",
+                "D": "As meninas ajudavam-no a melhorar nos dias \ntristes.",
+                "E": "Perguntaram-me se iria à festa, mas não pude \nrespondê-los.  QUESTÃO 09 \nA sentença cuja palavra em destaque é um \npronome indefinido é: \n(A) Avisem- nos a respeito dos novos prazos de \ninscrição do curso. \n(B) Tudo aquilo  está disponível para doação. \n(C) As pessoas costumam acreditar no que \npodem ver.  \n(D) Alguns  dos alunos não tiveram tempo de \nfinalizar suas redações. \n(E) As suas memórias são o que você tem de \nmais valioso."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Dentre as palavras a seguir, verifica-se um sufixo \nindicador de grau aumentativo apenas em:",
+            "alternativas": {
+                "A": "aldeões.",
+                "B": "muralha.",
+                "C": "cirurgiã.",
+                "D": "estudantes.",
+                "E": "cresceram. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Dado um triângulo retângulo isóscele cuja \nmedida do cateto é igual a 2 cm, qual deve ser o \nlado, aproximadamente, de um quadrado para \nque este tenha a mesma área que o triângulo?",
+            "alternativas": {
+                "A": "2,2 cm.",
+                "B": "1,4 cm.",
+                "C": "1,0 cm.",
+                "D": "0,8 cm.",
+                "E": "0,9 cm. \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nRECREADOR                                                                                                                                              Página 5 de 12 QUESTÃO 12 \nSabe-se que a média aritmética simples das \nidades de uma turma de 100 pessoas é 36 anos e \nque ninguém nesta turma tem idade exatamente \nigual a 36 anos. Além disso, sabe-se que a médias \ndas idades das 50 pessoas mais velhas é 25% \nmaior que a média das idades das 50 pessoas \nmais jovens. Nesta situação, qual a média das \nidades das 50 pessoas mais jovens? \n(A) 34 anos.  \n(B) 28 anos.  \n(C) 31 anos. \n(D) 32 anos. \n(E) 35 anos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Um dodecágono é um polígono regular que tem \n12 lados. Se o perímetro de um dodecágono é 18 \ncm, então pode-se afirmar que seu lado mede:",
+            "alternativas": {
+                "A": "0,2 cm.",
+                "B": "1,0 cm.",
+                "C": "1,5 cm.",
+                "D": "1,8 cm.",
+                "E": "1,2 cm."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Se daqui a 64 dias será uma sexta-feira, qual dia \nda semana será daqui a 268 dias?",
+            "alternativas": {
+                "A": "Quarta-feira.",
+                "B": "Quinta-feira.",
+                "C": "Sexta-feira.",
+                "D": "Sábado.",
+                "E": "Domingo. \n \n \n \n QUESTÃO 15 \nA figura abaixo mostra três elementos de um \nconjunto que contém figuras seguindo uma \nmesma lógica de construção: \n \n \nNas figuras, apenas círculos de cores diferentes \nsão ligados. Observando o padrão das figuras, \nqual elemento dentre as correspondências \nabaixo, poderia ser um elemento desse conjunto? \n \n(A) I.  \n(B) II.  \n(C) III. \n(D) IV. \n(E) V. \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Qual dos seguintes programas é um software \nnativo incluído na versão do sistema operacional \nWindows 7?  \nAssinale a opção que apresenta um aplicativo que \nvem pré-instalado com o sistema e é utilizado \npara tarefas comuns do dia a dia de usuários em \ngeral:",
+            "alternativas": {
+                "A": "Adobe Photoshop.",
+                "B": "Microsoft Office Word.",
+                "C": "VLC Media Player.",
+                "D": "CorelDRAW.",
+                "E": "Windows Media Player. \nPrefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nRECREADOR                                                                                                                                              Página 6 de 12 QUESTÃO 17 \nAnalise a lista de softwares abaixo e assinale a \nalternativa que identifica corretamente o \nprograma utilizado para a criação de desenhos \nsimples e para a edição de imagens no Windows \n7:  \n(A) Microsoft SQL.  \n(B) Microsoft Script. \n(C) Microsoft Paint. \n(D) Microsoft Power. \n(E) Microsoft Scrum."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: No contexto da navegação na internet, é \nimportante compreender os diversos termos e \nconceitos utilizados para descrever elementos e \nfuncionalidades da web. O termo \"home page\" \nestá associado a qual das definições descritas a \nseguir:",
+            "alternativas": {
+                "A": "Trata-se da página principal que carrega por \npadrão ao digitar o endereço de um site.",
+                "B": "Trata-se da página de login de um site \nbancário.",
+                "C": "Trata-se da ferramenta de busca do Google.",
+                "D": "Trata-se da página de configurações de \npreferências de navegação.",
+                "E": "Trata-se da ferramenta de restrição de acessos \ndo Google Chrome."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: É uma área de armazenamento temporário do \nnavegador de internet que guarda arquivos e \ninformações de sites visitados anteriormente, \npara acelerar o tempo de carregamento da página:",
+            "alternativas": {
+                "A": "Histórico de Navegação.",
+                "B": "Favoritos.",
+                "C": "Cache.",
+                "D": "Flash.",
+                "E": "Modo Incognito, \n QUESTÃO 20 \nNos navegadores de internet, também \nconhecidos como browsers, o campo onde o \nusuário digita a URL do site que deseja visitar é \nintitulado de:  \n(A) Barra de Favoritos. \n(B) Barra de Endereços. \n(C) Barra de Opções. \n(D) Barra de Ferramentas. \n(E) Barra de Status. \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: De acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, quantos dias \nconsecutivos um funcionário pode se ausentar do \nserviço por motivo de casamento?",
+            "alternativas": {
+                "A": "Até 1 (um) dia",
+                "B": "Até 3 (três) dias",
+                "C": "Até 5 (cinco) dias",
+                "D": "Até 8 (oito) dias",
+                "E": "Até 10 (dez) dias"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: De acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, o salário família \né um auxílio especial concedido ao funcionário \nem exercício, aposentado ou em disponibilidade \npara ajudar na manutenção de um dependente.  \nA quem é concedido o salário família quando \nambos os pais são funcionários do Município e \nnão vivem em comum?",
+            "alternativas": {
+                "A": "Ao pai",
+                "B": "À mãe",
+                "C": "A ambos os pais",
+                "D": "Será concedido ao que tiver o dependente \nsob sua guarda ou em sua companhia.",
+                "E": "Nenhum dos pais, o critério para receber o \nsalário família é o casamento.  \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nRECREADOR                                                                                                                                              Página 7 de 12 QUESTÃO 23 \nLendas locais. \n \nO Livro de Paraty , conta a história de uma moça \nda cidade, que às vésperas de seu casamento, \namanheceu morta. Após o enterro, no cemitério \nda Igreja da Santa Rita, o noivo, inconsolável, \npermaneceu no jardim da praça da igreja, \nlamentando a sua sorte. À noite, ele viu sair da \nporta do cemitério um vulto vestido de noiva que \nvinha beber água no chafariz da praça. \nAproximou-se e reconheceu sua noiva e \nperguntou-lhe o que fazia ali, àquela hora. Ela \nrespondeu que vinha beber água, pois havia \nmorrido com sede e, sumiu no ar. Desesperado, \nele procurou os pais da moça, as autoridades, \ncontou a história e disse que sua noiva fora \nenterrada viva.  \nO que foi encontrado quando a sepultura da noiva \nfoi aberta pela manhã? \n \n(A) O corpo da moça estava em posição normal \nno caixão. \n(B) Encontraram o corpo da moça fora do caixão. \n(C) O corpo da moça estava com um copo de \nágua ao lado. \n(D) Encontraram o corpo da moça de bruços no \ncaixão.  \n(E) O corpo da moça não estava no caixão."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: De acordo com a Unidade 5 do livro de Paraty, \nque trata sobre Política e Cidadania, qual das \nseguintes opções  não é um dever  do cidadão?",
+            "alternativas": {
+                "A": "Votar para escolher os governantes;",
+                "B": "Cumprir as leis;",
+                "C": "Educar e proteger seus semelhantes;",
+                "D": "Proteger o patrimônio público e social do \nPaís.",
+                "E": "É um dever, à saúde, à educação, à moradia, \nao trabalho, à previdência social, ao lazer, entre \noutros. \n \n \n \n \n QUESTÃO 25 \nDe acordo com a Lei Orgânica Municipal de \nParaty, qual é a duração do mandato do Prefeito? \n \n(A) 2 (dois) anos \n(B) 3 (três) anos \n(C) 5 (cinco) anos \n(D) 4 (quatro) anos \n(E) 6 (seis) anos"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Para entender o desenvolvimento e a \naprendizagem na infância, faz-se necessário \navaliar as diferentes concepções que \ncontextualizam a criança. São inúmeros autores \nque abordam sobre esse tema e, em âmbito \neducacional, as diretrizes curriculares e os \nparâmetros nacionais ampliam a compreensão e, \npor conseguinte, auxiliam a dinâmica das ações a \nserem implementadas na educação infantil.  \nDentro dessa realidade, até o surgimento das \nbases epistemológicas, que fundamentam a \npedagogia para a infância, é possível observar \ndiferentes concepções da criança. A seguir, \nforam destacados alguns exemplos, porém um \nnão se refere a fase anteriormente destacada, \nassinale a referida alternativa.",
+            "alternativas": {
+                "A": "Criança vista como um ser que já nasce \npronto.",
+                "B": "Criança vista como um ser que nasce vazio e \ncarente dos elementos entendidos como \nnecessários à vida adulta.",
+                "C": "Criança vista como sujeito conhecedor, cujo \ndesenvolvimento se dá por sua própria iniciativa \ne capacidade de ação.",
+                "D": "Criança como abstração.",
+                "E": "Criança como um ser produtor e produto da \nhistória e da cultura. \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nRECREADOR                                                                                                                                              Página 8 de 12 QUESTÃO 27 \nAnalise cada enunciado abaixo, marque \nalternativa que foi mal elaborada. \n(A) No contexto da educação infantil, o princípio \nconstitucional da igualdade de condições para o \nacesso e a permanência na escola é considerado \num elemento-chave para a ampliação dos direitos \nda criança independentemente de sua origem, \nraça, sexo, cor, gênero ou necessidades \neducacionais especiais. \n(B) Em 1990, o Estatuto da Criança e do \nAdolescente ratifica (valida) os dispositivos \nenunciados na constituição. \n(C) Em 1996, a Lei nº 9.394/96 foi promulgada, \ncontribuindo de forma decisiva para a instalação \nno país de uma concepção de educação infantil \nvinculada e articulada ao sistema educacional \ncomo um todo. \n(D) A avaliação na educação infantil é definida a \npartir da concepção pautada no desenvolvimento \npsicossocial, e assim deve ser desenvolvida de \nacordo com cada etapa vivenciada. \n(E) De acordo com os dispositivos \nconstitucionais e com a LDB, a responsabilidade \npela educação infantil é de âmbito federal."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: As propostas pedagógicas, em conformidade \ncom as Diretrizes Curriculares Nacionais para a \nEducação Infantil, devem respeitar certos \nprincípios, como por exemplo: os princípios \nestéticos. As alternativas a seguir contextualizam \nos princípios estéticos, no entanto uma \nalternativa não condiz com eles, destaque-a:",
+            "alternativas": {
+                "A": "Liberdade de expressão nas diferentes \nmanifestações artísticas e culturais",
+                "B": "Sensibilidade",
+                "C": "Identidades e singularidades",
+                "D": "Criatividade",
+                "E": "Ludicidade \n \n \n QUESTÃO 29 \nO planejamento, execução de atividades e \navaliação na educação infantil devem ser \napoiados nos instrumentos legais que norteiam \ntais ações, como por exemplo, a LDB e a BNCC. \nAnalise os enunciados abaixo e destaque a \nalternativa que traz uma informação que não \ncondiz com os referidos instrumentos. \n(A) A avaliação na educação infantil é definida a \npartir da concepção de desenvolvimento integral, \nlogo deve ser processual, acontecendo de forma \nsistemática e contínua. \n(B) O acompanhamento e registro na educação \ninfantil têm objetivos de diagnóstico e não de \npromoção ou retenção. \n(C) Na primeira etapa da educação básica, de \nacordo com os eixos estruturantes da educação \ninfantil (brincar e educar) devem ser assegurados \nos direitos de aprendizagem e desenvolvimento \npara que as crianças tenham condições de \naprender e se desenvolver. \n(D) De acordo com a BNCC, os seis direitos de \naprendizagem e desenvolvimento são conviver, \nbrincar, participar, explorar, expressar e \nconhecer-se. \n(E) Um dos campos de experiência definido pela \nBNCC é a oralidade e escrita."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: De acordo com a BNCC, ao analisar o quadro de \ncada campo de experiências na educação infantil: \n“Traços, sons, cores e formas”, é impertinente \nafirmar:",
+            "alternativas": {
+                "A": "O quadro de cada campo de experiências é \norganizado em quatro colunas que correspondem \naos grupos de faixas etárias.",
+                "B": "Cada objetivo definido refere-se a um mesmo \naspecto do campo de experiências.",
+                "C": "Um dos objetivos de aprendizagem e \ndesenvolvimento das crianças de zero a 1 ano e 6 \nmeses é explorar sons produzidos com o próprio \ncorpo e com objetos do ambiente.",
+                "D": "Para as crianças de 1 ano e 7 meses a 3 anos \ne 11 meses, é definido como objetivo criar com \nmateriais, objetos e instrumentos musicais, para \nacompanhar diversos ritmos de música.",
+                "E": "Utilizar sons produzidos por materiais, \nobjetos e instrumentos musicais durante \nbrincadeiras de faz de conta, encenações, \ncriações musicais, festas é o objetivo relativo à \nfaixa etária: de 4 anos a 5 anos 3 e 11 meses. Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nRECREADOR                                                                                                                                              Página 9 de 12 QUESTÃO 31 \nDe acordo com o artigo 53 do Estatuto da Criança \ne do Adolescente (ECA), “a criança e o \nadolescente têm direito à educação, visando ao \npleno desenvolvimento de sua pessoa, preparo \npara o exercício da cidadania e qualificação para \no trabalho [...]”. Nesse i ntuito, o referido estatuto \nelenca alguns aspectos que precisam ser \nassegurados. A seguir, foram destacados alguns \ndireitos (crianças, adolescentes, pais ou \nresponsáveis), porém apenas uma alternativa \ncondiz com o artigo 53 do ECA, destaque-a: \n(A) Garantia de condições que assegurem o \nmaior acesso e permanência da criança em \nrelação ao adolescente na escola. \n(B) Direito das crianças e adolescentes de \ncontestarem a proposta pedagógica da escola. \n(C) Direito das crianças e adolescentes de \ncontestarem a conduta dos educadores. \n(D) Direito das crianças e adolescentes de \norganizar e participar em entidades estudantis. \n(E) Direito dos pais ou responsáveis de avaliar e \nmodificar o processo pedagógico."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Leia os enunciados abaixo, marque a alternativa \nincorreta, em relação a um dos aspectos da \norganização do tempo e do espaço das atividades \nnas instituições de educação infantil.",
+            "alternativas": {
+                "A": "Na educação infantil, a organização do \ntempo e do espaço exerce influência no processo \nde aprendizagem, na formação da autonomia e na \nestabilidade e segurança emocional da criança.",
+                "B": "Ao pensar a organização do tempo e do \nespaço nas instituições de educação infantil, é \nnecessário considerar uma série de dimensões, \ncomo por exemplo a dimensão contextual.",
+                "C": "As aquisições sensoriais e cognitivas das \ncrianças têm estreita relação com o meio físico e \nsocial.",
+                "D": "Para a criança, o ambiente tem gosto, toque, \nsons e palavras.",
+                "E": "O ambiente voltado para a educação infantil \ndeverá ter prioritariamente cores suaves, uma vez \nque elas passam tranquilidade e ajudam a \nestimular a concentração. \n QUESTÃO 33 \nDentro da concepção descrita por meio das \nDiretrizes Curriculares Nacionais para a \nEducação Infantil, leia os enunciados abaixo e \ndestaque a alternativa que condiz corretamente \ncom o referido documento. \n(A) A educação infantil é a primeira etapa da \neducação básica, oferecida em creches e pré-\nescolas, que se caracterizam como espaços livres \npara o cuidado das crianças. \n(B) O atendimento em creches e pré-escolas \ncomo direito educacional das crianças é validado \nna Constituição de 1988, com o reconhecimento \nda educação infantil como dever do Estado com \na educação. \n(C) As Diretrizes Curriculares Nacionais para a \nEducação Infantil são específicas e \nindependentes das Diretrizes Curriculares \nNacionais da Educação Básica. \n(D) A proposta pedagógica é elaborada \ncoletivamente, com a participação da direção, \ndos professores e da comunidade escolar. \n(E) O currículo compreende o conjunto de \npráticas que buscam articular as experiências e os \nsaberes das crianças com os conhecimentos \nteóricos, de modo a promover o desenvolvimento \nintegral de crianças de 0 a 5 anos de idade."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: A proposta pedagógica das instituições de \neducação deve garantir que elas cumpram \nplenamente sua função sociopolítica e \npedagógica. Nesse sentido, elas devem adotar, \ndentre outras medidas, a proposta apresentada em \nqual alternativa?",
+            "alternativas": {
+                "A": "Oferecer condições e recursos para que as \ncrianças usufruam seus direitos em âmbito \neducacional.",
+                "B": "Assumir a responsabilidade substitutiva em \nrelação à educação e ao cuidado das crianças com \nas famílias.",
+                "C": "Possibilitar a convivência estrita entre \ncrianças da mesma faixa etária.",
+                "D": "Suprir as necessidades das crianças de \nclasses sociais menos favorecidas, oferecendo \noportunidades educacionais diferenciadas.",
+                "E": "Construir novas formas de sociabilidade e de \nsubjetividade comprometidas com uma série de \nfatores, dentre eles, destaca-se, por exemplo, \nrompimento de relações de dominação etária. Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nRECREADOR                                                                                                                                              Página 10 de 12 QUESTÃO 35 \nEm relação aos aspectos relativos à contação de \nhistórias, leia as alternativas abaixo e destaque, \nposteriormente, a alternativa correta. \n[...] Há inúmeros recursos que podem ser \nempregados para tornar mais criativa, interativa \ne lúdica a contação de histórias, como por \nexemplo: o uso de fantoches. \n[...] A entonação da voz é um recurso que \nconsegue dar vida ao texto. \n[...] É muito importante ter domínio pleno do \ntexto, no intuito de evitar a necessidade de \nimprovisações que podem resultar em situações \nsem nexo. \n[...] Um tipo de texto muito interessante para ser \ntrabalhado com as crianças são os contos, \ncaracterizados por serem histórias breves que \nmergulham direto no ponto principal, \nenvolvendo geralmente um conflito central e \npoucos personagens. \n[...] Expressões faciais diversas confundem a \ncriança. \n(A) V, V, F, F, F \n(B) F, V, F, F, F \n(C) V, V, V, V, F \n(D) V, V, F, V, F \n(E) V, V, V, F, F"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Ao analisar a inserção da música e dança na \neducação infantil, é impertinente afirmar:",
+            "alternativas": {
+                "A": "Desde os primórdios da educação infantil, a \nmúsica é considerada como uma forma de \nmanutenção da ordem e do controle da sala de \naula, que contribui efetivamente para o \ndesenvolvimento global das crianças.",
+                "B": "Desde a mais tenra idade, observa-se que a \ncriança se identifica com a música.",
+                "C": ". O envolvimento das crianças com o universo \nsonoro começa ainda antes do nascimento.",
+                "D": "O Referencial Curricular Nacional para \nEducação Infantil é considerado um instrumento \nque norteia as ações do trabalho com a música \nfundamentado em estudos de modo a garantir à \ncriança possibilidades de vivenciar e refletir \nsobre questões musicais, num exercício sensível \ne expressivo.",
+                "E": "Por meio da música a criança tem a \npossibilidade de melhorar o seu convívio com \noutras crianças. \n QUESTÃO 37 \nDois conceitos muito importantes no contexto da \neducação infantil são “cuidar e educar”. Sobre \neles, analise cada alternativa e assinale a que \npossui um aspecto incorreto. \n(A) Por um longo tempo, o cuidado com a \ncriança era pautado em um viés de caráter \nelementar, voltado estritamente para o \nassistencialismo. \n(B) A concepção de cuidar da criança na \ncontemporaneidade é pautada na perspectiva da \ncriança enquanto sujeitos que necessitam de \ncuidado e atenção. \n(C) O aprendizado das crianças começa muito \nantes delas ingressarem à escola, sendo \nperceptível desde o primeiro dia de vida. \n(D) O cuidar e educar, dois conceitos \ninseparáveis, para que possam ser efetivados, \ndependem das condições oferecidas para as \ncrianças dessa faixa etária, como por exemplo, \nem relação à apropriação e produção de \nsignificados no mundo da natureza e da cultura. \n(E) O cuidar e educar consiste em compreender \nque o espaço e o tempo em que a criança vive \nexige seu esforço particular e a mediação dos \nadultos como forma de proporcionar ambientes \nque estimulem a curiosidade com consciência e \nresponsabilidade."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "RECREADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Sobre os jogos educativos, é falsa a seguinte \nafirmativa:",
+            "alternativas": {
+                "A": "Todo e qualquer entretenimento é \nconsiderado como educativo.",
+                "B": "Um jogo educativo é uma atividade \ndesenvolvida com um intuito específico, que não \nse restringe ao caráter de divertimento das \ncrianças.",
+                "C": "Os jogos educativos trabalham dois aspectos \nmuito importantes para o desenvolvimento \ninfantil: ludicidade e regras.",
+                "D": "O jogo educativo contribui para a \nassimilação do real, bem como o entendimento \nde diferentes pontos de vista, competências \nessenciais para a vida em sociedade.",
+                "E": "Os jogos educativos digitais são considerados \ncomo um recurso pedagógico efetivo para \nestimular o conhecimento. Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nRECREADOR                                                                                                                                              Página 11 de 12 QUESTÃO 39 \nA partir das reflexões acerca da inclusão na \neducação infantil, leia os enunciados abaixo e \nassinale, a seguir, a resposta correspondente. \nI – A educação infantil, primeira etapa da \neducação básica, é um espaço que tanto pode \ncontribuir para a inclusão como potencializar a \nexclusão. \nII – Um aspecto que contribui para a inclusão \ndestacado por meio do Referencial Curricular \nNacional para a Educação Infantil é “direito de \ntodas as crianças de uma comunidade, meninos e \nmeninas, estudar na mesma escola, não \nimportando as necessidades existentes. \nIII – A educação inclusiva deve ser construída \nprioritariamente por meio da integração das \ncrianças com deficiência a partir da educação \ninfantil. \nIV – Em sala de aula, a inclusão é construída a \npartir da postura adotada pelo professor e da \nescola a fim de garantir que todas as necessidades \ngarantidas por lei sejam respeitadas. \n(A) Todas as alternativas são verdadeiras. \n(B) Todas as alternativas são falsas. \n(C) Apenas a alternativa II possui um aspecto \nincorreto. \n(D) Apenas a alternativa III possui um aspecto \nincorreto. \n(E) Apenas a alternativa IV possui um aspecto \nincorreto. \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 40 \nSobre a mediação pedagógica na educação \ninfantil, leia as afirmativas abaixo e assinale a \nque foi mal elaborada. \n(A) A mediação pedagógica pode ser realizada \npor meio de diversos instrumentos, tais como: \nmateriais, signos, linguagem oral, pictórica etc. \n(B) A mediação acontece em todas as interações \nque exista um adulto ou uma criança mais \nexperiente para intervir. \n(C) A mediação docente tem função de favorecer \numa prática que abranja interações colaborativas \nentre as crianças. \n(D) A mediação docente deve oportunizar \nsituações para as crianças, em que as \nexperiências por elas vividas possam enriquecer \nsuas estruturas intelectuais. \n(E) Na educação infantil, os professores são \nconsiderados os mediadores diretos da ação da \ncriança. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nRECREADOR                                                                                                                                              Página 12 de 12"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

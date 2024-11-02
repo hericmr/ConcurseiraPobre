@@ -1,3 +1,396 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:56d6a50bd9dbcd0aa0b50d05c8f0f127fee908d88f776049f856fda280c1fe7b
-size 47226
+{
+    "MÉDICO ESF": [
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, conclui-se que:",
+            "alternativas": {
+                "A": "As hipóteses acerca da ilusão da Lua ainda \nnão foram comprovadas cientificamente.",
+                "B": "O que causa a ilusão da Lua é o tamanho de \nobjetos em segundo plano.",
+                "C": "A ilusão da Lua é um fenômeno físico \ncausado pela própria atmosfera.",
+                "D": "A ilusão de Ebbinghaus é a teoria que melhor \nexplica a ilusão da Lua.",
+                "E": "A teoria mais bem consolidada a respeito da \nilusão da Lua é a de Aristóteles. \nPrefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 3 de 14 QUESTÃO 02 \nA expressão “satélite natural”  é empregada, no \nprimeiro parágrafo do texto, para se referir à Lua. \nNesse sentido, é um recurso de coesão: \n(A) sequencial por justaposição. \n(B) sequencial por conexão. \n(C) referencial catafórico. \n(D) por elipse. \n(E) lexical."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: A oração introduzida pelo vocábulo “mesmo” , \nno excerto “ Eles também enxergam a ilusão da \nLua, mesmo  sem ter objetos em primeiro plano \ncomo indicação de distância.”,  exprime um \nsentido:",
+            "alternativas": {
+                "A": "conformativo.",
+                "B": "condicional.",
+                "C": "concessivo.",
+                "D": "comparativo.",
+                "E": "causal."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Analise o seguinte excerto: “[...] ainda não existe \numa explicação científica sólida sobre por que \nisso acontece.”  Na expressão “por que” , que \nocorre no excerto dado, a palavra “que” tem \nfunção gramatical de:",
+            "alternativas": {
+                "A": "pronome relativo.",
+                "B": "pronome demonstrativo.",
+                "C": "conjunção integrante.",
+                "D": "conjunção causal.",
+                "E": "advérbio.  \n \n \n \n \n \n \n QUESTÃO 05 \nConsidere a seguinte estrofe da canção O \nquereres , de Caetano Veloso: \n \n “Onde queres prazer, sou o que dói  \nE onde queres tortura, mansidão  \nOnde queres um lar, revolução ”  \n \nAs vírgulas empregadas no segundo e no terceiro \nverso da estrofe indicam: \n \n(A) que as palavras “mansidão” e “revolução” \nsão apostos em seus respectivos versos. \n(B) que as palavras “mansidão” e “revolução” \nsão termos coordenados das orações de seus \nrespectivos versos. \n(C) a elipse do verbo “queres”,  das orações de \nseus respectivos versos. \n(D) a elipse do verbo “sou”,  do primeiro verso \nda estrofe, no segundo e no terceiro verso.  \n(E) a elipse do advérbio “onde” , das orações de \nseus respectivos versos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: A sentença a seguir em que ocorre verbo que \ndenota sentido figurado é:",
+            "alternativas": {
+                "A": "Nesta época do ano escurece mais tarde que \no habitual.",
+                "B": "Seu cansaço era tanto que seus olhos \npestanejavam lentamente.",
+                "C": "Na madrugada, as estrelas fulguravam no \ncéu.",
+                "D": "Seu projeto de futuro desmoronou com a \nperda familiar.",
+                "E": "As caixas caíram e logo as taças se \nestilhaçaram pelo chão. \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 4 de 14 QUESTÃO 07 \nAnalise as sentenças apresentadas a seguir e \nidentifique em qual alternativa ocorre o emprego \nincorreto  do acento indicador de crase. \n(A) À ela tenho que dizer que seu \ncomportamento é nocivo.  \n(B) Ninguém é imune à dor de um coração \npartido.  \n(C) O acesso às universidades públicas e de \nqualidade é um direito de todos. \n(D) O ônibus chega à rodoviária às 19 horas. \n(E) Plantou novas orquídeas, às quais tem \ndedicado muito tempo ultimamente."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Verifica-se o emprego de uma conjunção \nsubordinativa de valor conformativo apenas em:",
+            "alternativas": {
+                "A": "Não se distraia enquanto está em reunião.",
+                "B": "Justifique sua falta, porque corre o risco de \nser reprovado.",
+                "C": "A situação não é bem assim como dizem por \naí.",
+                "D": "Seu desempenho na prova foi ruim, \nconquanto estivesse se preparando há meses.",
+                "E": "Se tivéssemos ido à praia, teríamos encarado \numa forte chuva."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise os substantivos apresentados a seguir \nquanto às suas flexões. Aquele que apresenta \napenas  flexão de número é:",
+            "alternativas": {
+                "A": "poetisas.",
+                "B": "trabalhadores.",
+                "C": "riacho.",
+                "D": "gentalha.",
+                "E": "gerentes. \n \n \n \n QUESTÃO 10 \nNas sentenças a seguir ocorrem diferentes tipos \nde desvios, segundo a norma-padrão da língua \nportuguesa. Identifique-os e assinale a alternativa \nem que o desvio apresentado é apenas de \nnatureza ortográfica.  \n(A) Não sei porquê você não gostou do evento.  \n(B) Estes documentos requerem uma rúbrica em \ncada página.  \n(C) Eu ajudaria-lhe se tivesse me contado sobre \nisso. \n(D) Os rapazes fizeram ele se sentir mal com o \ncomentário. \n(E) Quando ver Ana por aí, diga que estou a \nprocurando. \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: De acordo com a Lei Orgânica Municipal, \nanalise as afirmativas abaixo atribuindo (V) para \nVerdadeira e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta. \n \nAo Município compete prover a tudo quanto diga \nrespeito ao seu peculiar interesse e ao bem-estar \nde sua população, cabendo-lhe privativamente, \ndentre outras, as seguintes atribuições: \n \n( )  planejar o uso e a ocupação do solo em seu \nterritório, especialmente em sua zona urbana; \n( ) disciplinar os serviços de carga e descarga e \nfixar a tonelagem máxima permitida a veículos \nque circulem em vias públicas municipais; \n( ) estabelecer cultos religiosos ou igrejas, \nsubvenciona-los, embaraçar-lhes o \nfuncionamento ou manter com eles ou seus \nrepresentantes, relações de dependência ou \naliança, ressalvada, na forma da lei, a \ncolaboração de interesse público;",
+            "alternativas": {
+                "A": "F V F",
+                "B": "V F F",
+                "C": "V V V",
+                "D": "V V F",
+                "E": "F F V  \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 5 de 14 QUESTÃO 12 \nAnalise os itens a seguir de acordo com a Lei \nMunicipal nº 851 de 1990 de Paraty, e assinale a \nalternativa correta. \nI -  A reintegração é o reingresso do funcionário \nno serviço público municipal por decisão \nadministrativa ou judicial, com ressarcimento \ndos vencimentos e vantagens do cargo efetivo. \nII - É permitido à Administração designar \nfuncionário para desempenhar atribuições \nestranhas às previstas para seu cargo.  \n \n(A) A asserção I é uma proposição falsa, e a II \né uma proposição verdadeira. \n(B) As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I. \n(C) A asserção I é uma proposição verdadeira, \ne a II é uma proposição falsa. \n(D) As asserções I e II são proposições falsas. \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Lendas Locais. “ A Serpente da Matriz”  \n \nA lenda da Serpente da Matriz Conta que uma \ncriança, filha de um relacionamento \nextraconjugal foi deixada sob os pés da imagem \nde Nossa Senhora dos Remédios. Por \nencantamento, esta criança transformou-se em \numa grande serpente, cuja cabeça fica sob os pés \nde imagem da Virgem e o corpo se estende ao \nlongo do Rio Perequê-açu. \n \nDe acordo com a lenda do Livro de Paraty , o \nque pode ocorrer se algum dia tirarem a imagem \ndo lugar? \n \n(A)A serpente se movimentará e destruirá a \ncidade. \n(B)A serpente se tornará uma criança. \n(C)A serpente será vista toda noite. \n(D) A serpente irá desaparecer e o encantamento \nse quebrará. \n(E)A cidade será inundada e coberta por uma \nnova vegetação.  \n \n \n \n QUESTÃO 14 \nQual data é consagrada  ao servidor público \nsegundo a Lei Municipal nº 851 de 1990, que \ntrata do Estatuto dos Funcionários Públicos \nMunicipais de Paraty?",
+            "alternativas": {
+                "A": "15 de agosto",
+                "B": "28 de outubro",
+                "C": "1 de maio",
+                "D": "12 de outubro",
+                "E": "7 de setembro"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: De acordo com o Livro de Paraty , quais são os \nprincipais atrativos naturais do município?",
+            "alternativas": {
+                "A": "Praias, montanhas, lagos, ilhas, cachoeiras, \nmanguezais, trilhas na Mata Atlântica e reservas \nindígenas.",
+                "B": "Praias, rios, Unidades de Conservação da \nNatureza federais, estaduais e municipais e \nformações rochosas, exceto Trilhas na Mata \nAtlântica.",
+                "C": "Praias, cachoeiras, ilhas, manguezais, trilhas \nna Mata Atlântica, Unidades de Conservação da \nNatureza federais, estaduais e municipais.",
+                "D": "Praias, Cavernas, Cachoeiras, Unidades de \nConservação da Natureza, lagoas, montanha, \ntrilhas na Mata Atlântica, praias, ilhas e \nmanguezais.",
+                "E": "Praias, cachoeiras, ilhas, manguezais, trilhas \nna Mata Atlântica, exceto Unidades de \nConservação da Natureza federais, estaduais e \nmunicipais."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: De acordo com a Emenda à Lei Orgânica n° 025, \nde 11 de outubro de 2006, que modifica o caput \ndo artigo 21 da Lei Orgânica do Município de \nParaty, qual é a composição da Mesa da Câmara?",
+            "alternativas": {
+                "A": "Presidente, 1° Vice-Presidente, 2° Vice-\nPresidente, Primeiro Secretário e Segundo \nSecretário.",
+                "B": "Presidente, 1° Vice-Presidente, Primeiro \nSecretário e Tesoureiro.",
+                "C": "Presidente, 1° Vice-Presidente, Primeiro \nSecretário e Segundo Tesoureiro.",
+                "D": "Presidente, 1° Vice-Presidente, 2° Vice-\nPresidente e Tesoureiro.",
+                "E": "Presidente, Primeiro Secretário, Segundo \nSecretário e Tesoureiro. Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 6 de 14 QUESTÃO 17 \nDe acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, qual é a duração \nda licença-prêmio  a que o funcionário tem \ndireito após cada quinquênio de efetivo exercício \nem cargo público do Município, com os direitos \ne vantagens do seu cargo e da função de \nconfiança desde que no período aquisitivo não \nregistre mais de quinze (15) faltas? \n(A) Um mês \n(B) Dois meses \n(C) Três meses \n(D) Quatro meses \n(E) 40 dias"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: De acordo com o Livro de Paraty, analise as \nafirmativas abaixo sobre “ os primeiros \nhabitantes ” atribuindo (V) para verdadeira e (F) \npara falsa, e em seguida assinale a alternativa \ncom a sequência correta.  \n( ) O Município de Paraty era ocupado por duas \ntribos de índios, antes dos portugueses chegarem \naqui: os Xavantes e Goianás. \n( )  A tribo Xavantes era inimiga dos Portugueses \ne praticava a antropofagia, ou seja, comia a carne \nde seus inimigos presos em suas guerras. \n( ) Os Goianás tinham uma aldeia em Taubaté no \nEstado de São Paulo e desciam a serra para o \nlugar onde está hoje a cidade de Paraty nos meses \nde inverno.",
+            "alternativas": {
+                "A": "V V V",
+                "B": "V F V",
+                "C": "F V V",
+                "D": "F F V",
+                "E": "F F F"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: De acordo com a Lei Orgânica Municipal de \nParaty, a partir de qual momento um Vereador \nnão pode ser preso, salvo em flagrante de crime \ninafiançável, nem processado criminalmente sem \nprévia licença da casa?",
+            "alternativas": {
+                "A": "A partir da posse no cargo.",
+                "B": "A partir da assinatura do termo de \ncompromisso.",
+                "C": "Desde a expedição do diploma.",
+                "D": "A partir da primeira sessão legislativa.",
+                "E": "Todas as alternativas estão incorretas. QUESTÃO 20 \nDe acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, qual é uma das \ncondições sob as quais um funcionário pode se \nausentar do serviço sem prejuízo de vencimento, \ndireitos e vantagens legais? \n \n(A) Por até 8 (oito) dias consecutivos para \nregistro de filho. \n(B) Por um dia, a cada 6 (seis) meses, para \ndoação de sangue. \n(C) por até 10 (dez) dias, para casamento. \n(D) Por um dia, a cada 6 (seis) meses, para \natividades de lazer. \n(E) por até 5 (cinco) dias, para casamento."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: De acordo com o Livro de Paraty  sobre as \nUnidades de Conservação no município, quais \nsão as Unidades de Conservação Federais  \nadministradas pelo Instituto Chico Mendes de \nConservação da Biodiversidade (ICMBio)?",
+            "alternativas": {
+                "A": "Parque Nacional da Serra da Bocaina, a Área \nde Proteção Ambiental de Cairuçú e a Estação \nEcológica de Tamoios.",
+                "B": "Reserva Ecológica da Juatinga, Parque \nEstadual da Serra do Mar e Reserva Biológica de \nTamoios.",
+                "C": "Área de Proteção Ambiental Municipal da \nBaía de Paraty Mirim e Saco do Mamanguá, \nReserva Biológica de Cairuçú e Estação \nEcológica de Paraty.",
+                "D": "Área de Proteção Ambiental de Tamoios, \nÁrea urbana, Parque Nacional de Paraty e a \nReserva Ecológica da Juatinga.",
+                "E": "Nenhuma das alternativas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: De acordo com a Lei Orgânica Municipal de \nParaty, se o Prefeito solicitar urgência para a \napreciação de projetos de sua iniciativa, qual é o \nprazo máximo para que a Câmara se manifeste \nsobre a proposição, contado a partir da data em \nque a solicitação for feita?",
+            "alternativas": {
+                "A": "90 dias",
+                "B": "45 dias",
+                "C": "120 dias",
+                "D": "30 dias",
+                "E": "60 dias Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 7 de 14 QUESTÃO 23 \nDe acordo com a Lei Orgânica Municipal de \nParaty, qual é a idade mínima exigida para os \ncargos de Prefeito e Vice-Prefeito? \n \n(A) Prefeito: 21 anos; Vice-Prefeito: 18 anos \n(B) Prefeito e Vice-Prefeito: 21 anos \n(C) Prefeito: 35 anos; Vice-Prefeito: 21 anos \n(D) Prefeito: 30 anos; Vice-Prefeito: 21 anos \n(E) Prefeito e Vice-Prefeito: 25 anos"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: De acordo com a Unidade 4 do livro de Paraty, \nque trata sobre lazer e turismo, analise os itens a \nseguir e assinale a alternativa correta: \n \nI - De acordo com o Livro de Paraty, o turismo é \natualmente é a sua principal atividade \neconômica, sendo o maior fator gerador de \ntrabalho e renda da cidade. \nII - A Praça Monsenhor Hélio Pires, mais \nconhecida como Praça da Matriz, localizada no \nbairro Centro Histórico, que há mais de 200 anos \né um ponto de encontro da população de Paraty. \nIII - Em Paraty os principais segmentos turísticos \nsão o cultural e o de natureza/ecológico. \nIV - Uma das estrelas de Paraty é seu Calendário \nTurístico e Cultural, que é publicado todos os \nanos desde a década de 1980, sendo reconhecido \ne procurado pelos visitantes e moradores. O \ncalendário apresenta eventos e festividades \ntradicionais e contemporâneas, consagrados \nnacional e internacionalmente.",
+            "alternativas": {
+                "A": "Apenas os itens II, III e IV estão corretos.",
+                "B": "Apenas os itens II e IV estão corretos.",
+                "C": "Apenas o item IV está correto.",
+                "D": "Apenas os itens I e II estão incorretos.",
+                "E": "Todos os itens estão corretos. \n \n \n \n \n \n \n \n QUESTÃO 25 \nDe acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, qual é a regra \npara a aposentadoria compulsória? \n(A) A aposentadoria compulsória é concedida \nmediante solicitação do funcionário, \nindependentemente da idade. \n(B) A aposentadoria compulsória é automática \ne o funcionário deve continuar comparecendo ao \nserviço até a formalização do ato. \n(C) A aposentadoria compulsória é automática \ne o funcionário será dispensado do \ncomparecimento ao serviço a partir do dia em \nque atingir a idade-limite. \n(D) A aposentadoria compulsória deve ser \nsolicitada pelo funcionário a partir da idade-\nlimite, mas a decisão é tomada pelo órgão \ncompetente. \n(E) Para a aposentadoria compulsória o \nfuncionário aguardará em exercício a publicação \ndo respectivo ato, salvo se estiver legalmente \nafastado do cargo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: A asma é uma doença crônica que pode \ndesencadear diversos processos inflamatórios \nnas vias aéreas, resultando em complicações de \ndiferentes gravidades. Considerando as \ncomplicações associadas à asma, assinale a \nalternativa correta:",
+            "alternativas": {
+                "A": "A insônia relacionada à asma ocorre \nexclusivamente devido à medicação utilizada \npara controlar os sintomas.",
+                "B": "As alterações permanentes no funcionamento \ndos pulmões podem ser prevenidas em todos os \npacientes com asma, desde que sigam \nrigorosamente o tratamento com \nbroncodilatadores.",
+                "C": "A tosse persistente e a dificuldade de respirar \nsão sinais comuns de descontrole da asma, e, em \ncasos graves, podem levar à necessidade de \nventilação mecânica e hospitalização.",
+                "D": "A mortalidade por asma é um evento \nextremamente raro e ocorre apenas em \nindivíduos idosos ou com outras comorbidades.",
+                "E": "Os efeitos colaterais das medicações para o \ncontrole da asma são invariavelmente leves e \nautolimitados, não representando nenhum risco \nsignificativo para o paciente. \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 8 de 14 QUESTÃO 27 \nUm paciente de 45 anos, com insuficiência renal \ncrônica, foi selecionado para receber um \ntransplante renal de um doador vivo. Durante a \ncirurgia, houve um atraso de 12 minutos entre o \nclampeamento da artéria renal do doador e o \ninício da infusão da solução de preservação a \n4ºC. Após a cirurgia, o paciente apresentou \nfunção renal lenta, necessitando de diálise por \nalguns dias antes do órgão começar a funcionar \nadequadamente. Com base no caso clínico e no \nconceito de isquemia quente inicial, assinale a \nalternativa correta: \n(A) O tempo de isquemia quente inicial se inicia \nno momento em que o órgão é removido do \ndoador e termina quando o órgão é transplantado \nno receptor. \n(B) O tempo de isquemia quente inicial foi \nadequado, pois o limite aceitável é de até 20 \nminutos, não afetando a viabilidade do enxerto. \n(C) O período de isquemia quente inicial é \nirrelevante, desde que o órgão seja resfriado \nadequadamente após a remoção. \n(D) O tempo de isquemia quente inicial é o \nperíodo que vai do clampeamento da artéria do \nórgão até o início do resfriamento do mesmo, e, \nno caso descrito, o tempo superior a 10 minutos \npode ter contribuído para a disfunção inicial do \nenxerto. \n(E) O tempo de isquemia quente inicial foi \nadequado, pois o limite aceitável é de até 35 \nminutos, não afetando a viabilidade do enxerto."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Sobre a insuficiência renal aguda, que ocorre \ndevido a lesões nos rins e resulta em uma rápida \ndiminuição das suas funções, qual das seguintes \ncondições NÃO é considerada uma causa comum \ndesta condição?",
+            "alternativas": {
+                "A": "Choque circulatório.",
+                "B": "Infecção generalizada (sepse).",
+                "C": "Desidratação.",
+                "D": "Hipertensão arterial.",
+                "E": "Obstrução renal. \n \n QUESTÃO 29 \nUma criança de 8 anos, pesando 25 kg, foi picada \npor várias abelhas enquanto brincava no parque. \nMinutos depois, a criança começou a apresentar \nsintomas de anafilaxia, como urticária \ngeneralizada, inchaço nos lábios e dificuldade \npara respirar. A equipe de emergência foi \nchamada e diagnosticou uma reação anafilática. \nDe acordo com o protocolo pediátrico, foi \nadministrada uma dose subcutânea de 0,25 ml de \nadrenalina 1:1000 (0,01 ml/kg). Após 30 \nminutos, a criança ainda apresentava sintomas \nleves de dificuldade respiratória, e uma segunda \ndose foi administrada, sem causar aumento \nexagerado da frequência cardíaca. Com base no \ntratamento descrito e nas recomendações para a \nadministração de adrenalina em crianças, \nassinale a alternativa correta: \n(A) A dose inicial administrada foi adequada \npara uma criança de 25 kg e pode ser repetida \nduas a três vezes, em intervalos de 30 minutos, \ndesde que a frequência cardíaca esteja \ncontrolada. \n(B) O tratamento com adrenalina deve ser \nlimitado a uma única dose em crianças, \nindependentemente da resposta clínica, devido \nao risco de taquicardia. \n(C) Em crianças, a adrenalina deve ser \nadministrada exclusivamente por via intravenosa \npara garantir uma absorção mais rápida e eficaz. \n(D) O intervalo de 30 minutos entre as doses de \nadrenalina é inadequado; a dose deve ser repetida \na cada 10 minutos até que os sintomas \ndesapareçam em crianças. \n(E) A administração de adrenalina em crianças \ndeve sempre ser seguida de um ciclo de anti-\ninflamatórios antes de qualquer outra dose de \nadrenalina, para evitar reações adversas. \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 9 de 14 QUESTÃO 30 \nQuando um coágulo sanguíneo se forma em uma \nveia profunda (na maioria das vezes na perna), \nessa doença é chamada de: \n(A) Aneurisma. \n(B) Acidente Vascular. \n(C) Tromboembolismo. \n(D) Hemofilia. \n(E) Arteriosclerose."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Conforme elucidado pela Constituição Federal, \nanalise as afirmativas abaixo e assinale a \nsequência correta considerando V (Verdadeiro) \nou F (Falso): \n( ) A lei disporá sobre as condições e os requisitos \nque facilitem a remoção de órgãos, tecidos e \nsubstâncias humanas para fins de transplante, \npesquisa e tratamento, bem como a coleta, \nprocessamento e transfusão de sangue e seus \nderivados, sendo vedado todo tipo de doação; \n( ) É vedada a destinação de recursos públicos \npara auxílios ou subvenções às instituições \nprivadas com fins lucrativos; \n( ) A assistência à saúde é livre à iniciativa \nexclusivamente pública.",
+            "alternativas": {
+                "A": "V, F, F.",
+                "B": "F, V, F.",
+                "C": "V, V, F.",
+                "D": "F, F, V.",
+                "E": "Nenhuma das alternativas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Entre as diversas doenças de notificação \ncompulsória no Estado do Rio de Janeiro, \nassinale a alternativa que apresenta uma doença \nde notificação imediata (em até 24 horas):",
+            "alternativas": {
+                "A": "Leishmaniose.",
+                "B": "Esquistossomose",
+                "C": "Hanseníase.",
+                "D": "Infecção pelo Virus da Imunodeficiência \n(HIV).",
+                "E": "Cólera. \n \n QUESTÃO 33 \nLeia o enunciado abaixo, e assinale a alternativa \nque apresenta corretamente a frase responsável \npara completar a lacuna, conforme a Lei Federal \nnº 8.080/1990: \nAs ações e serviços de saúde, executados pelo \nSistema Único de Saúde (SUS), seja diretamente \nou mediante ________________, serão \norganizados de forma regionalizada e \nhierarquizada em níveis de complexidade \ncrescente. \n(A) Participação complementar da iniciativa \npública. \n(B) Parcerias público-privadas obrigatórias. \n(C) Concessão de autarquias estaduais. \n(D) Participação complementar da iniciativa \nprivada. \n(E) Parcerias com organizações internacionais."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Conforme estabelecido pela Constituição \nFederal, compete ao Poder Público, nos termos \nda lei, organizar a Seguridade Social, com base \nnos seguintes objetivos: \n( ) Universalidade da cobertura e do atendimento; \n( ) Seletividade e distributividade na prestação \ndos benefícios e serviços; \n( ) Diversidade da base de financiamento, \nidentificando-se, em rubricas contábeis \nespecíficas para cada área, as receitas e as \ndespesas vinculadas a ações de saúde, \nprevidência e assistência psicológica, preservado \no caráter contributivo da previdência social. \nAssinale a alternativa que corresponde à correta \nveracidade das afirmações:",
+            "alternativas": {
+                "A": "F, V, F.",
+                "B": "V, F, V.",
+                "C": "F, F, V.",
+                "D": "V, V, F.",
+                "E": "Nenhuma das alternativas. \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 10 de 14 QUESTÃO 35 \nAssinale a alternativa que apresenta o Conselho \nresponsável pela representação do Conselho \nNacional de Secretários de Saúde (Conass) e o \nConselho Nacional de Secretários Municipais de \nSaúde (Conasems)? \n(A) Conselho Nacional de Política de Saúde. \n(B) Conselho Nacional de Controle Social. \n(C) Conselho Nacional de Saúde. \n(D) Conselho Nacional de Assistência Social. \n(E) Conselho Federal de Medicina."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: No tratamento das doenças reumáticas, os anti-\ninflamatórios não esteroidais (AINEs) \ndesempenham um papel importante no controle \nda dor e inflamação. Qual é o principal \nmecanismo de ação dos AINEs no contexto \ndessas doenças?",
+            "alternativas": {
+                "A": "Inibição seletiva da ciclo-oxigenase 1 (COX-\n1), prevenindo a produção de prostaglandinas \nproinflamatórias.",
+                "B": "Inibição das enzimas ciclo-oxigenase 1 \n(COX-1) e ciclo-oxigenase 2 (COX-2), \nreduzindo a síntese de prostaglandinas \nenvolvidas na inflamação e dor.",
+                "C": "Estímulo da liberação de cortisol pelas \nglândulas suprarrenais, reduzindo a resposta \nimune inflamatória.",
+                "D": "Inibição dos receptores de leucotrienos, \nbloqueando a migração de neutrófilos para o \nlocal da inflamação.",
+                "E": "Aumento da síntese de prostaglandinas, \npromovendo a vasodilatação e redução da \npressão arterial sistêmica. \n \n \n \n \n \n \n \n QUESTÃO 37 \nSobre os achados semiológicos no aneurisma de \naorta, assinale a alternativa correta: \n(A) A presença de pulso anormal (tipo \n\"baqueteado\") na extremidade distal do membro \ninferior é um sinal clássico de aneurisma de aorta \nabdominal. \n(B) A palpação de uma massa pulsátil e \nexpansível na região abdominal é o principal \nsinal clínico do aneurisma de aorta abdominal. \n(C) A presença de frêmito à palpação da região \ninguinal é sugestiva de aneurisma de aorta \ntorácica, com dissecção da parede aórtica. \n(D) A diminuição ou ausência de pulsos \nperiféricos é um achado comum nos aneurismas \nde aorta, devido à compressão dos vasos \nadjacentes. \n(E) A dor abdominal de forte intensidade é um \nsintoma precoce do aneurisma de aorta, \nindicando risco iminente de ruptura."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Em relação aos achados semiológicos na \ninsuficiência arterial periférica, é correto afirmar \nque:",
+            "alternativas": {
+                "A": "A claudicação intermitente, caracterizada por \ndor na panturrilha durante a deambulação, é um \nsintoma clássico da doença arterial obstrutiva \nperiférica.",
+                "B": "A presença de úlceras tróficas na região distal \ndos membros inferiores é um sinal tardio da \ninsuficiência arterial, geralmente associado à \ndiabetes.",
+                "C": "A diminuição da temperatura cutânea e a \npalidez à elevação do membro são sinais \ncaracterísticos da isquemia arterial aguda.",
+                "D": "A ausência de pulsos periféricos (femoral, \npoplíteo e pedioso) é um achado específico da \ninsuficiência arterial periférica grave.",
+                "E": "O sinal de Buerger-Servelle, com cianose na \nposição dependente e hiperemia na posição \nelevada, é típico da doença de Raynaud. \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 11 de 14 QUESTÃO 39 \nDurante uma reação aguda ao estresse, o sistema \nnervoso simpático é ativado, resultando em uma \nsérie de respostas fisiológicas imediatas. Qual é \no principal mecanismo de ação dos \nbetabloqueadores no controle de sintomas \ncardiovasculares associados a essas reações? \n \n(A) Bloqueio dos receptores beta-adrenérgicos, \nreduzindo a frequência cardíaca e a força de \ncontração. \n(B) Inibição da produção de catecolaminas pela \nmedula suprarrenal. \n(C) Inibição da fosfodiesterase, aumentando a \nconcentração de AMPc nas células cardíacas. \n(D) Aumento da liberação de acetilcolina nos \nreceptores muscarínicos, promovendo \nbradicardia. \n(E) Bloqueio dos receptores alfa-adrenérgicos, \nresultando em vasoconstrição periférica."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: A coqueluche, causada por Bordetella pertussis, \nprovoca uma inflamação intensa das vias aéreas \nrespiratórias. Qual é o principal mecanismo de \nação dos macrolídeos no tratamento da \ncoqueluche?",
+            "alternativas": {
+                "A": "Inibição da síntese de ácidos nucleicos por \nmeio da ligação ao DNA bacteriano.",
+                "B": "Inibição da formação da parede celular \nbacteriana por ligação à enzima transpeptidase.",
+                "C": "Aumento da permeabilidade da membrana \nbacteriana, levando à lise celular.",
+                "D": "Inibição da síntese proteica bacteriana ao se \nligarem à subunidade 50S do ribossomo, \nimpedindo a translocação.",
+                "E": "Inibição da síntese de folato bacteriano, \ninterrompendo a divisão celular. \n \n \n \n \n \n \n \n QUESTÃO 41 \nA doença de Chagas, causada pelo Trypanosoma \ncruzi, pode levar a complicações cardíacas e \ngastrointestinais graves. Qual é o mecanismo de \nação do benzonidazol, fármaco utilizado no \ntratamento da fase aguda da doença de Chagas? \n \n(A) Inibição da replicação do DNA do parasita, \ninterrompendo seu ciclo de vida. \n(B) Inibição da síntese proteica do parasita ao se \nligar aos ribossomos. \n(C) Interferência na produção de energia do \nparasita por bloqueio da cadeia respiratória \nmitocondrial. \n(D) Produção de radicais livres tóxicos, que \nlevam à morte do parasita. \n(E) Inibição da síntese de ácidos fólico e \nnucleicos pelo parasita."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: O metronidazol é um fármaco amplamente \nutilizado no tratamento de infecções por \nbactérias anaeróbias. Qual o principal \nmecanismo de ação desse antimicrobiano?",
+            "alternativas": {
+                "A": "Inibição da síntese da parede celular \nbacteriana.",
+                "B": "Ligação à subunidade 30S do ribossomo \nbacteriano, inibindo a síntese proteica.",
+                "C": "Ligação à subunidade 50S do ribossomo \nbacteriano, inibindo a síntese proteica.",
+                "D": "Inibição da enzima di-hidropteroato sintase, \ninterferindo na síntese de ácido fólico.",
+                "E": "Formação de radicais livres que danificam o \nDNA bacteriano. \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 12 de 14 QUESTÃO 43 \nA terbinafina é um antifúngico comumente \nutilizado no tratamento da tinea capitis. Qual o \nseu mecanismo de ação? \n(A) Inibição da síntese de ergosterol, \ncomponente essencial da membrana celular \nfúngica, através da inibição da enzima esqualeno \nepoxidase. \n(B) Ligação aos esteróis da membrana celular \nfúngica, formando poros e causando a morte \ncelular. \n(C) Inibição da síntese de DNA e RNA fúngico. \n(D) Inibição da síntese da parede celular fúngica. \n(E) Ativação do sistema imune do hospedeiro \ncontra o fungo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: A doxiciclina é frequentemente utilizada em \nesquemas terapêuticos para o tratamento da \nDoença Inflamatória Pélvica (DIP). Qual o seu \nmecanismo de ação?",
+            "alternativas": {
+                "A": "Inibição da síntese da parede celular \nbacteriana.",
+                "B": "Ligação à subunidade 50S do ribossomo \nbacteriano, inibindo a síntese proteica.",
+                "C": "Ligação à subunidade 30S do ribossomo \nbacteriano, inibindo a síntese proteica.",
+                "D": "Formação de radicais livres que danificam o \nDNA bacteriano.",
+                "E": "Inibição da enzima di-hidropteroato sintase, \ninterferindo na síntese de ácido fólico."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Durante o exame físico de um paciente com \ndoença pulmonar obstrutiva crônica (DPOC), \nquais são os achados mais típicos que podem ser \nobservados?",
+            "alternativas": {
+                "A": "Sibilos localizados e expansibilidade \ntorácica aumentada.",
+                "B": "Hipersonoridade à percussão e aumento do \ndiâmetro anteroposterior do tórax.",
+                "C": "Murmúrio vesicular aumentado com ruídos \nadventícios finos.",
+                "D": "Sons respiratórios amplificados na ausculta \npulmonar.",
+                "E": "Matidez à percussão e sopro tubário bilateral. QUESTÃO 46 \nUm paciente com suspeita de leptospirose \napresenta febre, mialgia e icterícia. Qual é o \nmétodo diagnóstico mais indicado para \nconfirmar a infecção na fase precoce da doença? \n(A) Teste de microaglutinação de anticorpos \n(MAT). \n(B) Hemocultura para isolamento do Leptospira. \n(C) Sorologia para anticorpos IgG específicos. \n(D) Detecção de DNA por PCR em amostras de \nsangue ou urina. \n(E) Cultura de amostras fecais para identificar o \npatógeno."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: A pedagogia problematizadora de Paulo Freire é \numa corrente metodológica amplamente \nutilizada na educação em saúde. Qual das \nseguintes alternativas descreve \nCORRETAMENTE um dos princípios \nfundamentais dessa abordagem?",
+            "alternativas": {
+                "A": "Transmissão vertical do conhecimento do \nprofissional de saúde para o paciente, \nconsiderado um receptor passivo de informações.",
+                "B": "Ênfase na memorização de conceitos e \ninformações, com avaliação baseada em provas e \ntestes objetivos.",
+                "C": "Diálogo horizontal entre profissional de \nsaúde e paciente, buscando a construção conjunta \nde conhecimentos e a transformação da \nrealidade.",
+                "D": "Utilização de recursos audiovisuais \nsofisticados como principal ferramenta de \nensino-aprendizagem.",
+                "E": "Foco na prevenção de doenças, sem abordar \naspectos relacionados à promoção da saúde e \nqualidade de vida. \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 13 de 14 QUESTÃO 48 \nUm paciente apresenta eczema de contato, com \nprurido e lesões vesiculares após exposição a \ndeterminado produto químico. Qual método \ndiagnóstico é utilizado para identificar o agente \ncausador? \n(A) Teste de escarificação cutânea. \n(B) Imunofluorescência direta. \n(C) Biópsia de pele para histopatologia. \n(D) Teste de provocação oral. \n(E) Teste de contato (patch test)."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO ESF",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: As talassemias são um grupo de doenças \nhereditárias que afetam a produção de \nhemoglobina. Qual das seguintes alternativas \ndescreve CORRETAMENTE a fisiopatologia da \nbeta-talassemia major?",
+            "alternativas": {
+                "A": "Deficiência na produção da cadeia beta da \nglobina, resultando em excesso de cadeias alfa \nque se precipitam e causam hemólise.",
+                "B": "Deficiência na produção da cadeia alfa da \nglobina, resultando em excesso de cadeias beta \nque se precipitam e causam hemólise.",
+                "C": "Mutação pontual no gene da globina beta, \nlevando à produção de hemoglobina S, que \npolimeriza em condições de baixa oxigenação.",
+                "D": "Deficiência na produção da enzima \nferroquelatase, resultando em acúmulo de ferro \nnos tecidos e danos orgânicos.",
+                "E": "Deficiência na produção da enzima glicose-\n6-fosfato desidrogenase, tornando as hemácias \nmais suscetíveis à hemólise em situações de \nestresse oxidativo. \n \n \n \n \n \n QUESTÃO 50 \nUm paciente apresenta dificuldade na fala e \nincapacidade de formar frases completas após \num AVC isquêmico. A tomografia \ncomputadorizada mostra uma lesão na região \nfrontal esquerda. Qual é a área cerebral mais \nprovável que foi afetada, e qual é sua função \nprincipal? \n \n(A) Área de Wernicke, responsável pela \ncompreensão da linguagem. \n(B) Hipocampo, relacionado à memória e \norientação espacial. \n(C) Giro pós-central, envolvido na percepção \nsensorial. \n(D) Corpo caloso, responsável pela conexão \nentre os hemisférios cerebrais. \n(E) Área de Broca, responsável pela produção da \nfala. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nMÉDICO ESF                                                                                                                                               Página 14 de 14"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

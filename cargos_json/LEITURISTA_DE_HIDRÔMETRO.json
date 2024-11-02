@@ -1,3 +1,424 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c392f90a90068e5c3d7cdacc8040ec26af060b5307894217008b4f6cf8a7a852
-size 31258
+{
+    "LEITURISTA DE HIDRÔMETRO": [
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: O texto 8O primeiro beijo9, de Clarice Lispector é do gênero:",
+            "alternativas": {
+                "A": "novela.",
+                "B": "conto.",
+                "C": "poema.",
+                "D": "romance.",
+                "E": "crônica."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: No trecho <A vida havia jorrado dessa boca, de uma boca para outra.=, a expressão <a vida= se refere:",
+            "alternativas": {
+                "A": "à água.",
+                "B": "ao beijo entre o garoto e a estátua.",
+                "C": "à estátua com forma de mulher.",
+                "D": "à sede.",
+                "E": "à namorada do garoto."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: É sinônimo da palavra 8murmurar9:",
+            "alternativas": {
+                "A": "cantarolar.",
+                "B": "enrolar.",
+                "C": "sussurrar.",
+                "D": "bramar.",
+                "E": "gritar."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Considere o excerto \"Depois de reunida na boca ardente engolia-a lentamente, outra vez e mais outra.\" \nA palavra \"a\", após o verbo \"engolia\", se refere à:",
+            "alternativas": {
+                "A": "saliva.",
+                "B": "água.",
+                "C": "sombra.",
+                "D": "boca.",
+                "E": "sede."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Os verbos \"iniciara\", \"errara\" e \"sentira\" estão conjugados no tempo:",
+            "alternativas": {
+                "A": "pretérito imperfeito.",
+                "B": "pretérito perfeito.",
+                "C": "futuro do pretérito.",
+                "D": "futuro do presente.",
+                "E": "pretérito mais-que-perfeito.  \n \n \n \n \n Sanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 4 de 15 QUESTÃO 06 \nConsidere o trecho \"Ele tentou contar toscamente, não sabia como dizer.\" As classes gramaticais das \npalavras \"ele\", \"toscamente\", \"não\" e \"sabia\" são, respectivamente: \n(A) pronome, advérbio, advérbio, verbo. \n(B) pronome, advérbio, preposição, advérbio. \n(C) substantivo, adjetivo, advérbio, verbo. \n(D) substantivo, adjetivo, conjunção, advérbio. \n(E) pronome, advérbio, conjunção, verbo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Considere as sentenças: \nI. Mas me diga a verdade, só a verdade: você nunca beijou uma mulher antes de me beijar? \nII. Ele, um dos garotos no meio da garotada em algazarra, deixava a brisa fresca bater-lhe no rosto e  \nentrar-lhe pelos cabelos com dedos longos, finos e sem peso como os de uma mãe. \nEm relação à colocação pronominal, observa-se em cada uma das sentenças, respectivamente:",
+            "alternativas": {
+                "A": "próclise e ênclise.",
+                "B": "ênclise e próclise.",
+                "C": "próclise e mesóclise.",
+                "D": "ênclise e mesóclise.",
+                "E": "mesóclise e ênclise."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: A sentença <E se fechasse as narinas e respirasse um pouco menos daquele vento de deserto?= é:",
+            "alternativas": {
+                "A": "condicional hipotética.",
+                "B": "concessiva.",
+                "C": "temporal.",
+                "D": "adversativa.",
+                "E": "explicativa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Considere as seguintes sentenças: \nI. Se continuar chovendo, não vamos ao cinema. \nII. Fiquei pensando se ele iria à festa. \nIII.Ele se pronunciou sobre o caso. \nEm cada uma das sentenças, a palavra <se= é, respectivamente:",
+            "alternativas": {
+                "A": "conjunção condicional; conjunção integrante; partícula integrante de verbo pronominal.",
+                "B": "conjunção condicional; conjunção condicional; conjunção integrante.",
+                "C": "conjunção integrante; conjunção integrante; partícula integrante de verbo pronominal.",
+                "D": "conjunção integrante; conjunção condicional; partícula expletiva.",
+                "E": "conjunção integrante; conjunção integrante; partícula apassivadora.  \n Sanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 5 de 15 QUESTÃO 10 \nConsidere as seguintes sentenças: \nI. Nós fomos ao bosque para passear. \nII. Realizou-se um projeto de pesquisa. \nIII. Pedi pizza ontem. \nO tipo de sujeito de cada sentença é, respectivamente: \n(A) I. sujeito determinado simples; II. sujeito determinado oculto; III. sujeito determinado oculto. \n(B) I. sujeito indeterminado; II. sujeito indeterminado. III. sujeito indeterminado. \n(C) I. sujeito determinado simples; II. sujeito indeterminado; III. sujeito determinado oculto. \n(D) I. sujeito determinado composto; II. sujeito determinado simples; III. sujeito determinado simples. \n(E) I. sujeito indeterminado; II. sujeito indeterminado; III. sujeito determinado composto."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Assinale a alternativa que apresenta uma sentença em que não há erros de concordância.",
+            "alternativas": {
+                "A": "As atividades e o relatório foi feito pelo estagiário.",
+                "B": "Desastres ambientais são consequência das mudanças climáticas.",
+                "C": "Descreve-se os resultados da pesquisa na próxima seção.",
+                "D": "Haviam complexidades das esferas política e econômica.",
+                "E": "Faziam dois meses que ele trabalhava todas as terças-feiras."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Assinale a alternativa que apresenta todas as palavras grafadas corretamente quanto ao uso de hífen.",
+            "alternativas": {
+                "A": "ponta-pé, pé-de-meia, super-homem, co-fundador.",
+                "B": "cravo-da-índia, amoré-guaçu, bem-te-vi, antirracismo.",
+                "C": "anti-higiênico, pé-de-moleque, bicho-de-sete-cabeças, pimenta-do-reino.",
+                "D": "micro-ondas, inter-municipal, mini-saia, sem-terra.",
+                "E": "microagulhamento, re-escrever, ultra-som, aeroespacial."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Considere o excerto: <Aos sábados, Júlia vai _ praça encontrar suas amigas. Depois, elas costumam ir \n_ Campinas para fazer compras. Em geral, voltam para casa _ 16h. Quando chegam em casa, \naproveitam _ compras que fizera m, provando todas _ roupas e acessórios.= Assinale a alternativa que \npreenche corretamente todas as lacunas.",
+            "alternativas": {
+                "A": "à; a; às; as; as.",
+                "B": "à; à; as; as; as.",
+                "C": "a; à; às; as; as.",
+                "D": "a; a; às; às; às.",
+                "E": "à; à; às; às; as. Sanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 6 de 15 QUESTÃO 14 \nAssinale a alternativa que apresenta todas as palavras acentuadas corretamente. \n(A) bóia, herói, linguiça, viúvo, vôo. \n(B) freqüente, heroico, egoísta, caracóis. \n(C) geléia, baú, joia, cântaro, feiúra. \n(D) bonus, hífens, mártir, rebú, alcateia. \n(E) dendê, bambu, refém, júri, plateia."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Considere as seguintes sentenças: \nI. Eles foram ao mercado. \nII. Ela rezou o dia inteiro. \nIII. Nós viajaremos para Nova Iorque. \nEm todas as sentenças dadas, as desinências dos verbos indicam:",
+            "alternativas": {
+                "A": "tempo, modo e pessoa.",
+                "B": "tempo, modo e gênero.",
+                "C": "modo e gênero.",
+                "D": "gênero.",
+                "E": "pessoa. \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Considere que um condomínio exige que, para construção de uma residência, a área construída deve \nocupar pelo menos 80% da área do terreno. Considere uma gleba retangular com lados medindo 30 e \n20 metros. A área da construção de uma residência que atenda ao requisito exigido pelo condomínio, \nem metros quadrados, é de:",
+            "alternativas": {
+                "A": "450.",
+                "B": "480.",
+                "C": "510.",
+                "D": "550.",
+                "E": "600."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Considere as seguintes equações: 2x + 2y = 10 e x + 3y = 9. Neste caso, o valor de x é:",
+            "alternativas": {
+                "A": "1.",
+                "B": "2.",
+                "C": "3.",
+                "D": "4.",
+                "E": "5. \n Sanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 7 de 15 QUESTÃO 18 \nUm construtor deseja colocar uma fita de led em toda a borda de uma banheira circular, a qua l possui \ndois metros de diâmetro. Neste caso, considerando que o cumprimento da circunferência (C) pode ser \nmedido pela equação C = 2.Pi.raio, e considerando Pi = 3, qual o comprimento da fita, em metros, que \nserá utilizada para tal fim? \n(A) 5. \n(B) 6. \n(C) 7. \n(D) 8. \n(E) 9."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Ao abastecer seu veículo, um consumidor se deparou com os seguintes preços: cada litro de óleo diesel \ncusta R$ 5,00 se o pagamento for à vista, ou R$  5,50 se for a prazo. Considerando que ele deseja \nadquirir 50 (cinquenta) litros de combustível, qual a diferença de valor total entre as duas formas de \npagamento disponíveis?",
+            "alternativas": {
+                "A": "R$ 25,00.",
+                "B": "R$ 28,00.",
+                "C": "R$ 30,00.",
+                "D": "R$ 32,00.",
+                "E": "R$ 50,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: O Código Penal prevê que < Nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado \no dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, \na pena será reduzida de um a dois terços. =. Ao aplicar o referido instituto, em seu redutor máximo, a \numa pena de 01 (um) ano de reclusão, teremos uma nova pena de:",
+            "alternativas": {
+                "A": "4 meses.",
+                "B": "6 meses.",
+                "C": "8 meses.",
+                "D": "10 meses.",
+                "E": "12 meses."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: A fim de pagar mensalmente suas contas de luz (R$250,00), água (R$100,00) e internet (R$150,00), \nqual deverá ser o montante total investido por uma pessoa a fim de que adimpla mensalmente tais \ncontas? Considere que o capital será remunerado a taxa de juros simples de 0,8% ao mês.",
+            "alternativas": {
+                "A": "50.000,00.",
+                "B": "55.500,00.",
+                "C": "57.500,00.",
+                "D": "62.500,00.",
+                "E": "70.000,00. Sanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 8 de 15 QUESTÃO 22 \nConsidere um terreno retangular, cujos lado medem dez e vinte metros. Nesta situação, caso o \nproprietário deseje construir um muro que cerque toda a extensão do terreno e cuja altura seja d e dois \nmetros, qual a área total da superfície do referido muro, em metros quadrados? \n(A) 120. \n(B) 130. \n(C) 140. \n(D) 150. \n(E) 160."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Qual o MMC – mínimo múltiplo comum – dos números 150, 30, 75 e 60?",
+            "alternativas": {
+                "A": "45.",
+                "B": "60.",
+                "C": "150.",
+                "D": "300.",
+                "E": "350"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Quais são as raízes da seguinte equação do segundo grau: 2x² + 11x + 5?",
+            "alternativas": {
+                "A": "1 e -5",
+                "B": "0,5 e -5",
+                "C": "-0,5 e -1",
+                "D": "-0,5 e -5",
+                "E": "0,5 e 1"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: No primeiro dia útil do mês, um vendedor logrou êxito em realizar a venda de bens que totalizaram R$ \n500,00 (quinhentos reais). No segundo dia, comercializou outros R$ 750,00 (setecentos e cinquenta \nreais), sendo que, no terceiro dia, alienou R$ 1.125,00 (mil, cento e vinte e cinco reais). Mantendo-se \na proporção, quanto irá vender no quarto dia útil?",
+            "alternativas": {
+                "A": "R$1.575,00.",
+                "B": "R$1.687,50.",
+                "C": "R$1.743,75.",
+                "D": "R$1.800,00.",
+                "E": "R$1.912,50. \n Sanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 9 de 15 QUESTÃO 26 \nO Código Civil prevê que se aplicará o instituto de desconsideração da personalidade jurídica qu ando \nhouver confusão patrimonial, que pode ser caracterizada diante do cumprimento repetitivo pela \nsociedade de obrigações do sócio, ou ainda quando da transferência de ativos ou de passivos sem \nefetivas contraprestações, exceto os de valor proporcionalmente insignificante. Neste situação, assinale \na alternativa falsa: \n(A) Caberá a desconsideração da personalidade jurídica quando a sociedade efetuar o paga mento de \ncontas do sócio. \n(B) Caberá a desconsideração da personalidade jurídica quando houver transferência de ativos \nsignificantes e sem contraprestação entre a sociedade e o sócio. \n(C) Transferência de passivos de valor insignificante entre a sociedade e o sócio não autorizam a \ndesconsideração da personalidade jurídica. \n(D) Não caberá a desconsideração da personalidade jurídica quando houver transferência d e ativos \nsignificantes e sem contraprestação entre a sociedade e o sócio. \n(E) Transferência de ativos de valor insignificante entre a sociedade e o sócio não autorizam a \ndesconsideração da personalidade jurídica."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Considere um triângulo retângulo cujos catetos medem 3 e 4, e a hipotenusa pode ser representada pela \nexpressão x – 7. Nesta situação, qual o valor de x?",
+            "alternativas": {
+                "A": "12.",
+                "B": "13.",
+                "C": "14.",
+                "D": "15.",
+                "E": "16."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Ao adquirir um televisor, o consumidor depara-se com duas opções: à vista o produto custa R$ 900,00 \n(novecentos reais), ou pode ser parcelado em 12 (doze) prestações de mesmo valor, qual seja,  R$ 80,00 \n(oitenta reais). Neste caso, o valor do produto à vista representa qual porcentagem do valor do produto \npago a prazo?",
+            "alternativas": {
+                "A": "90%.",
+                "B": "92%.",
+                "C": "93,25%.",
+                "D": "96%.",
+                "E": "97%. \n \n \n \n Sanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 10 de 15 QUESTÃO 29 \nA tabela abaixo representa o valor da conta de energia de uma família em relação ao mês de  consumo. \nCom base nele, qual foi a porcentagem de aumento no mês em que houve maior variação do valor da \nconta? \n \n \n(A) 5%. \n(B) 10%. \n(C) 15%. \n(D) 20%. \n(E) 25%."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: O gráfico abaixo representa o consumo de água, em litros (eixo Y), cálculo por um hotel em função do \nnúmero de hóspedes (eixo X) que ocupa determinado quarto. Nesta situação, quantos litros consumirá \ncada hóspede quando houver apenas um ocupante no quarto e quando houverem cinco, \nrespectivamente?",
+            "alternativas": {
+                "A": "60 e 100.",
+                "B": "100 e 60.",
+                "C": "160 e 220.",
+                "D": "160 e 300.",
+                "E": "220 e 300. \n Mês Valor \nJaneiro R$ 150,00\nFevereiro R$ 165,00\nMarço R$ 181,50\nAbril R$ 190,58\nMaio R$ 228,69\nSanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 11 de 15 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Em redes de distribuição de água onde se faz necessário a utilização de tubos de maior rigidez  é \nrecomendado a utilização de junta de flanges. Os tubos e conexões com flanges, geralmente, são \nindicados para alguns tipos de instalações hidráulicas, exceto:",
+            "alternativas": {
+                "A": "Estações de Bombeamento.",
+                "B": "Rede de distribuição de água potável enterrada.",
+                "C": "Reservatórios.",
+                "D": "Câmaras de válvulas.",
+                "E": "Travessias aéreas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Conforme NBR 8194 - Medidores de água potável, a numeração dos medidores deve ser única e \nobedecer a um sistema de quantos caracteres alfanuméricos?",
+            "alternativas": {
+                "A": "8 caracteres",
+                "B": "6 caracteres",
+                "C": "9 caracteres",
+                "D": "12 caracteres",
+                "E": "13 caracteres"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Conforme NBR 8194 - Medidores de água potável, os medidores de água devem apresentar uma \nnumeração própria na forma de um código alfanumérico, localizada no máximo em:",
+            "alternativas": {
+                "A": "1 campo do medidor.",
+                "B": "2 campos do medidor.",
+                "C": "3 campos, sendo: 2 no medidor e 1 na Nota Fiscal.",
+                "D": "4 campos, sendo: 2 no medidor e 1 na Nota Fiscal.",
+                "E": "1 campo da Nota Fiscal, somente."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: A participação de uma pessoa na organização se torna eficaz à partir do momento em que ela ati nge os \nseguintes objetivos, exceto:",
+            "alternativas": {
+                "A": "maior produtividade",
+                "B": "inovação",
+                "C": "redução de custos",
+                "D": "maior lucratividade",
+                "E": "maior salário \n \n Sanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 12 de 15 QUESTÃO 35 \nA aferição dos medidores de água é uma medida preventiva no combate ao desperdício de água na rede \npública. A figura abaixo representa as juntas de vedação com sua tolerância. \n \n \n \n \n \n \n \n \n \n \nA norma NBR 8194 - Medidores de água potável, regulamenta que o limite máximo de tolerância +/- \n0,5 mm somente será permitido para os medidores do tipo: \n(A)  DN 15 \n(B)  DN 20 \n(C)  DN 25 \n(D)  DN 32 \n(E)  DN 40"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: Qual é o termo técnico utilizado para se referir a maior vazão em m3/h de um hidrômetro em condições \nde utilização, nas quais exige-se \nque o medidor funcione de maneira satisfatória dentro dos erros máximos admissíveis?",
+            "alternativas": {
+                "A": "vazão máxima",
+                "B": "vazão média",
+                "C": "vazão nominal",
+                "D": "vazão de pico",
+                "E": "vazão mínima"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29: De acordo com a designação dos medidores de água quanto às vazões, o medidor DN 15/20 poderá ser \nutilizado para vazão nominal (Q n) de até:",
+            "alternativas": {
+                "A": "1,5 m3/h",
+                "B": "1,0 m3/h",
+                "C": "2,5 m3/h",
+                "D": "0,5 m3/h",
+                "E": "3,0 m3/h \nSanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 13 de 15 QUESTÃO 38 \nAo se trabalhar com qualidade de serviços, há características específicas que precisam ser avaliadas.  \n \nI - _______: aparência das instalações físicas ou do som transmitido por telefone. \nII - _______: capacidade da empresa e/ou do funcionário de executar o serviço prometido. \nIII - _______: prontidão para ajudar os clientes e promover o socorro às necessidades relatadas. \nIV - _______: capacidade técnica e habilidade para realizar os procedimentos adequados à solução. \n \nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do texto: \n \n(A) confiabilidade - tangibilidade - proatividade - competência. \n(B) proatividade - tangibilidade - confiabilidade - competência. \n(C) competência - tangibilidade - confiabilidade - proatividade. \n(D) tangibilidade - proatividade - confiabilidade - competência. \n(E) tangibilidade - confiabilidade - proatividade - competência."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "LEITURISTA DE HIDRÔMETRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30: A automação dos medidores de água ocorre por meio da interface com sensores eletrônicos, porém, \nnão é um objetivo da utilização de sensores de vazão:",
+            "alternativas": {
+                "A": "controlar o volume de um determinado material que é inserido em um processo.",
+                "B": "determinar o volume envasado de um material.",
+                "C": "determinar o volume de água utilizado em um processo.",
+                "D": "agir diretamente com dispositivo de manobra (abre/fecha), controlando o fluxo de água no medidor.",
+                "E": "determinar volume de água em uma residência ou prédio comercial. \n \n \n \n \n \n \n \n \n \n \n \n Sanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 14 de 15 QUESTÃO 40 \nReferente a algumas ferramentas de trabalho utilizadas em serviços hidráulicos (figura adiante), analise  \nas afirmativas a seguir: \n \n \n \n \n \n \n \n \n \n \n \nI - ponto 1: chave ajustável. \nII - ponto 2: chave hexagonal. \nIII - ponto 3: chaves reta. \nIV - ponto 4: alicate bomba d9água.  \nV - ponto 5: chave de corrente para tubos de grande diâmetro. \nVI ponto 6: chave composta. \n \nÉ correto o que se afirma em: \n(A) II, III, V e VI apenas. \n(B) I, IV e V apenas. \n(C) I, IV, V e VI apenas. \n(D) IV, V e VI apenas. \n(E) I, II, III, IV, V e VI. \n \n \n \n \n \n \n \n \n \nSanebavi - Saneamento Básico Vinhedo - Concurso Público 01/2023                             INSTITUTO AVANÇA SÃO PAULO \n \n \nLEITURISTA DE HIDRÔMETRO                                                                                                                  Página 15 de 15"
+            },
+            "resposta_correta": "B"
+        }
+    ]
+}

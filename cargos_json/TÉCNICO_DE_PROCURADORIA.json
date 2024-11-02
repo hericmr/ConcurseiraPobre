@@ -1,3 +1,368 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:87a00f0463925ce9a8425b769509e31f7ce13ea0e95c9f284b427879ded31fac
-size 38501
+{
+    "TÉCNICO DE PROCURADORIA": [
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, os Jogos Paralímpicos:",
+            "alternativas": {
+                "A": "Tiveram início durante a Segunda Guerra \nMundial, com soldados lesionados que não \npodiam retornar ao confronto.",
+                "B": "Foram resultado de uma abordagem \nrevolucionária de tratamento de pacientes feridos \nno pós-guerra, que incluía artesanato e a prática \nde esportes.",
+                "C": "Foram idealizados pelo médico neurologista \nSir Ludwig Guttman, que também era portador \nde deficiência e não concordava com a \ninatividade de pessoas como ele.",
+                "D": "Aconteceram de forma oficial e internacional \npela primeira vez em julho de 1948, dentro de um \nhospital, sob incentivo do médico Sir Ludwig \nGuttman.",
+                "E": "Aumentou a perspectiva de vida das pessoas \ncom deficiência em geral, uma vez que, ao \npraticar esportes, saem de longos períodos de \ninatividade."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Analise os excertos a seguir, retirados do texto, e \nassinale a alternativa em que o vocábulo “o(s)” \nocorre como pronome demonstrativo, \nconsiderando também a possibilidade de \ncontração com uma preposição.",
+            "alternativas": {
+                "A": "Os Jogos Paralímpicos, como conhecemos \nhoje, não começaram como uma grande \ncompetição mundial de diversos esportes.",
+                "B": "Essas competições continuaram a crescer, \ntornando-se eventos anuais no hospital.",
+                "C": "O que começou com uma competição \nmodesta entre alguns pacientes veio a se tornar \num dos maiores símbolos de inclusão do mundo.",
+                "D": "O impacto foi imediato e transformador.",
+                "E": "O crescimento do movimento paralímpico foi \nacompanhado pela inclusão de atletas com \ndiferentes tipos de deficiência. \n \n \n  \nConsidere o seguinte excerto, retirado do \ntexto, para responder às questões 3 e 4:  \n“Ele acreditava que a prática esportiva não \napenas ajudaria no condicionamento físico, mas \ntambém restauraria a dignidade e a autoestima \ndaquelas pessoas.”"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A expressão “não apenas […] mas também”, que \nocorre no excerto dado, imprime ao contexto um \nsentido:",
+            "alternativas": {
+                "A": "adversativo.",
+                "B": "aditivo.",
+                "C": "conformativo.",
+                "D": "consecutivo.",
+                "E": "concessivo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: O vocábulo “que” , que ocorre no excerto dado, \natua como:",
+            "alternativas": {
+                "A": "pronome relativo.",
+                "B": "pronome interrogativo.",
+                "C": "conjunção integrante.",
+                "D": "conjunção causal.",
+                "E": "preposição."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Analise o seguinte excerto, retirado do texto: “ A \nperspectiva de vida para essas pessoas era de \napenas dois anos, e o tempo de recuperação e \nterapia era marcado por longos períodos de \ninatividade. ” A vírgula é empregada neste \nexcerto pelo mesmo motivo que em:",
+            "alternativas": {
+                "A": "Desde então, as Paralímpiadas passaram a ser \nrealizadas seguindo o mesmo ciclo das \nOlimpíadas, a cada quatro anos.",
+                "B": "Para Guttmann, a importância dessas \natividades ia além dos benefícios físicos e \npsicológicos.",
+                "C": "Assim nasceram as primeiras competições \nem cadeira de rodas, e os 16 participantes viriam \na se tornar os primeiros atletas paralímpicos.",
+                "D": "Naquela ocasião, 400 atletas de 23 países \ncompetiram em oito modalidades.",
+                "E": "“O mais importante é a reintegração social \ndos paralisados na sociedade”, falou o médico na \népoca. \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO DE PROCURADORIA                                                                                                                Página 4 de 12 QUESTÃO 06 \nA expressão que poderia substituir o advérbio \n“principalmente” , que ocorre em “[...] o cuidado \nativo por meio do artesanato e, principalmente, \ndos esportes.” , sem prejuízo de valor e alteração \nde categoria gramatical, é: \n(A) indubitavelmente. \n(B) mormente. \n(C) exclusivamente. \n(D) especial. \n(E) particular."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: O excerto apresentado a seguir está em discurso \ndireto. Analise-o e assinale a alternativa que o \ntranspõe ao discurso indireto corretamente, com \nas modificações necessárias.  \n‘“O mais importante é a reintegração social dos \nparalisados na sociedade”, falou o médico na \népoca.’",
+            "alternativas": {
+                "A": "O médico falou na época que o mais \nimportante será a reintegração social dos \nparalisados na sociedade.",
+                "B": "O médico falou na época que o mais \nimportante fora a reintegração social dos \nparalisados na sociedade.",
+                "C": "Falou o médico na época que o mais \nimportante foi a reintegração social dos \nparalisados na sociedade.",
+                "D": "Falou o médico na época que o mais \nimportante seria a reintegração social dos \nparalisados na sociedade.",
+                "E": "Falou o médico na época que o mais \nimportante era a reintegração social dos \nparalisados na sociedade."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Nas sentenças a seguir, retiradas do texto, ocorre \nverbo irregular apenas em:",
+            "alternativas": {
+                "A": "“Em 1952, Stoke realizou seu primeiro \nevento esportivo internacional”.",
+                "B": "“Essas competições continuaram a crescer”.",
+                "C": "“Foi quando soube que era igual a qualquer \noutra pessoa”.",
+                "D": "“Guttmann não concordava com a \ninatividade dos pacientes”.",
+                "E": "“a trajetória deste evento remonta ao período \npós-Segunda Guerra Mundial”.  \n QUESTÃO 09 \nA palavra “internacional”, que ocorre no texto, é \noxítona, assim como: \n(A) esportivo. \n(B) holandês. \n(C) símbolos. \n(D) paralímpicos. \n(E) jogos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: O encontro vocálico encontrado em “pedreira ” é \num ditongo decrescente. O mesmo tipo de \nditongo também se encontra em:",
+            "alternativas": {
+                "A": "ouriço.",
+                "B": "rosácea.",
+                "C": "pátria.",
+                "D": "equino.",
+                "E": "névoa."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Há o emprego incorreto da vírgula, separando o \nverbo de seu(s) complemento(s), apenas em:",
+            "alternativas": {
+                "A": "A mulher questionou a professora, das falas \nsobre seu filho.",
+                "B": "Todo o meu rosto, em razão da insolação, \nardia como fogo.",
+                "C": "Sua preguiça era tanta, que não conseguiu \nfinalizar suas tarefas.",
+                "D": "Alguns disseram que ela ficou furiosa, \noutros, que apenas se chateou.",
+                "E": "Enquanto ela preparava o jantar, a garotinha \nbrincava de boneca."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: A concordância nominal está incorreta  apenas \nem:",
+            "alternativas": {
+                "A": "A senhora possui muitas joias e outros itens \ncaros em sua casa.",
+                "B": "Delicadas flores e ornamentos enchiam as \nprateleiras das janelas.",
+                "C": "Este manuscrito foi traduzido para as línguas \ninglesa e espanhola.",
+                "D": "Esses dois artigos, por si só, bastariam para \ntorná-lo um gênio.",
+                "E": "Pedro e Ana casaram-se às pressas, um por \namor, o outro, por obrigação. Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO DE PROCURADORIA                                                                                                                Página 5 de 12 QUESTÃO 13 \nOcorre um verbo com regência pronominal e \ntransitiva indireta, simultaneamente, apenas em: \n(A) Ele estreou-se no programa televisivo, como \nator, na última semana. \n(B) Disseram-lhe que as provas seriam \nremarcadas. \n(C) Sabe-se que as investigações policiais \ncostumam demorar.  \n(D) As meninas ajudavam-no a melhorar nos dias \ntristes. \n(E) Perguntaram-me se iria à festa, mas não pude \nrespondê-los."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: A sentença cuja palavra em destaque é um \npronome indefinido é:",
+            "alternativas": {
+                "A": "Avisem- nos a respeito dos novos prazos de \ninscrição do curso.",
+                "B": "Tudo aquilo  está disponível para doação.",
+                "C": "As pessoas costumam acreditar no que \npodem ver.",
+                "D": "Alguns  dos alunos não tiveram tempo de \nfinalizar suas redações.",
+                "E": "As suas memórias são o que você tem de \nmais valioso."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Dentre as palavras a seguir, verifica-se um sufixo \nindicador de grau aumentativo apenas em:",
+            "alternativas": {
+                "A": "aldeões.",
+                "B": "muralha.",
+                "C": "cirurgiã.",
+                "D": "estudantes.",
+                "E": "cresceram. \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: De acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, quantos dias \nconsecutivos um funcionário pode se ausentar do \nserviço por motivo de casamento?",
+            "alternativas": {
+                "A": "Até 1 (um) dia",
+                "B": "Até 3 (três) dias",
+                "C": "Até 5 (cinco) dias",
+                "D": "Até 8 (oito) dias",
+                "E": "Até 10 (dez) dias"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Lendas locais. \n \nO Livro de Paraty , conta a história de uma moça \nda cidade, que às vésperas de seu casamento, \namanheceu morta. Após o enterro, no cemitério \nda Igreja da Santa Rita, o noivo, inconsolável, \npermaneceu no jardim da praça da igreja, \nlamentando a sua sorte. À noite, ele viu sair da \nporta do cemitério um vulto vestido de noiva que \nvinha beber água no chafariz da praça. \nAproximou-se e reconheceu sua noiva e \nperguntou-lhe o que fazia ali, àquela hora. Ela \nrespondeu que vinha beber água, pois havia \nmorrido com sede e, sumiu no ar. Desesperado, \nele procurou os pais da moça, as autoridades, \ncontou a história e disse que sua noiva fora \nenterrada viva.  \nO que foi encontrado quando a sepultura da noiva \nfoi aberta pela manhã?",
+            "alternativas": {
+                "A": "O corpo da moça estava em posição normal \nno caixão.",
+                "B": "Encontraram o corpo da moça fora do caixão.",
+                "C": "O corpo da moça estava com um copo de \nágua ao lado.",
+                "D": "Encontraram o corpo da moça de bruços no \ncaixão.",
+                "E": "O corpo da moça não estava no caixão.  \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO DE PROCURADORIA                                                                                                                Página 6 de 12 QUESTÃO 18 \nDe acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, o salário família \né um auxílio especial concedido ao funcionário \nem exercício, aposentado ou em disponibilidade \npara ajudar na manutenção de um dependente.  \nA quem é concedido o salário família quando \nambos os pais são funcionários do Município e \nnão vivem em comum? \n \n(A) Ao pai \n(B) À mãe \n(C) A ambos os pais \n(D) Será concedido ao que tiver o dependente \nsob sua guarda ou em sua companhia. \n(E) Nenhum dos pais, o critério para receber o \nsalário família é o casamento."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: De acordo com a Unidade 5 do livro de Paraty, \nque trata sobre Política e Cidadania, qual das \nseguintes opções  não é um dever  do cidadão?",
+            "alternativas": {
+                "A": "Votar para escolher os governantes;",
+                "B": "Cumprir as leis;",
+                "C": "Educar e proteger seus semelhantes;",
+                "D": "Proteger o patrimônio público e social do \nPaís.",
+                "E": "É um dever, à saúde, à educação, à moradia, \nao trabalho, à previdência social, ao lazer, entre \noutros."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: De acordo com a Lei Orgânica Municipal de \nParaty, qual é a duração do mandato do Prefeito?",
+            "alternativas": {
+                "A": "2 (dois) anos",
+                "B": "3 (três) anos",
+                "C": "5 (cinco) anos",
+                "D": "4 (quatro) anos",
+                "E": "6 (seis) anos \n \n \n \n \n \n QUESTÃO 21 \nA empresa hipotética BusTur, que atua como \nconcessionária do serviço público de transporte \ncoletivo no Município Alfa, teve Rodrigo, um de \nseus funcionários, realizando o translado de uma \ndas rotas. Durante o percurso, Rodrigo bateu no \ncarro de Vanessa, causando-lhe danos materiais \npela colisão. \nDiante dessa situação, assinale a alternativa \ncorreta sobre a responsabilidade civil da empresa \nBusTur pelos danos causados por seu empregado \nRodrigo.  \n(A) A empresa BusTur não é responsável pelos \ndanos causados a Vanessa, com base na \nresponsabilidade civil aquiliana. \n(B) A responsabilidade civil da empresa BusTur \né objetiva, mas somente para danos causados a \nusuários do serviço público, não se aplicando a \nVanessa. \n(C) A empresa BusTur é responsável pelos danos \ncausados a Vanessa, com base na \nresponsabilidade civil objetiva. \n(D) A responsabilidade civil da empresa BusTur \né subjetiva, ou seja, é necessário comprovar \nculpa ou dolo de Rodrigo para que Vanessa possa \nser indenizada. \n(E) A empresa BusTur não é responsável pelos \ndanos causados a Vanessa e esta somente poderá \najuizar ação indenizatória em face de Rodrigo, \ncuja responsabilidade é objetiva."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: O ato unilateral pelo qual a autoridade \ncompetente atesta a legitimidade formal de outro \nato jurídico, sem manifestar necessária \nconcordância quanto ao conteúdo, é denominado \nde:",
+            "alternativas": {
+                "A": "Licença.",
+                "B": "Autorização.",
+                "C": "Homologação.",
+                "D": "Parecer.",
+                "E": "Visto. \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO DE PROCURADORIA                                                                                                                Página 7 de 12 QUESTÃO 23 \nConsiderando a estabilidade do servidor público \ne as condições para perda de cargo, conforme \ndispõe a Constituição Federal, assinale a \nalternativa correta. \n(A) O servidor público estável pode perder o \ncargo em virtude de advertência administrativa. \n(B) O servidor público estável pode perder o \ncargo em virtude de processo administrativo em \nque lhe seja assegurada ampla defesa. \n(C) O servidor público estável pode perder o \ncargo por decisão da maioria simples do \ncolegiado da comissão do órgão respectivo, \nafastado o contraditório, a depender da urgência \nda decisão. \n(D) O servidor público estável pode perder o \ncargo mediante sua renúncia voluntária ao direito \nde defesa, mesmo sem seguir o processo \nadministrativo. \n(E) O servidor público estável pode perder o \ncargo por ausência injustificada em um período \nsuperior a 30 dias, automaticamente."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Mônica, servidora pública federal, recebeu uma \npenalidade de suspensão de 30 dias após reincidir \nem uma conduta inadequada enquanto \ndesempenhava suas funções. Considerando as \nsanções disciplinares e a sindicância, à luz do \ndisposto na Lei Federal n.º 8.112/1990, assinale \na alternativa correta.",
+            "alternativas": {
+                "A": "Não há direito subjetivo de Mônica para \nexigir a substituição da penalidade de suspensão \npor multa, pois isso se submete à conveniência \ndo serviço.",
+                "B": "A sindicância não é cabível para a penalidade \nde suspensão de 30 dias.",
+                "C": "A autoridade que tiver ciência de \nirregularidade no serviço público não é obrigada \na promover a sua apuração imediata, podendo \noptar por não realizar a sindicância.",
+                "D": "O prazo para conclusão da sindicância não \nexcederá 60 (sessenta) dias, sendo possível \nprorrogar o prazo por igual período, \nindependentemente da decisão da autoridade \nsuperior.",
+                "E": "Monica só poderia receber uma penalidade de \nsuspensão de 20 dias, sendo o máximo previsto \nem Lei.  QUESTÃO 25 \nConsiderando os bens públicos, assinale a \nalternativa correta. \n(A) Os bens públicos dominicais não podem ser \nalienados. \n(B) Os bens públicos estão sujeitos a usucapião. \n(C) Os bens públicos destinados ao uso comum \npodem ter sua utilização gratuita ou retribuída, \nconforme for estabelecido legalmente pela \nentidade a cuja administração pertencerem. \n(D) Os bens dominicais são pertencentes às \npessoas jurídicas de direito privado a que se \ntenha dado estrutura de direito público. \n(E) Os bens públicos de uso especial podem ser \nalienados."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Revogação é o ato administrativo discricionário \npelo qual a Administração extingue um ato \nválido, por razões de oportunidade e \nconveniência. Assinale a alternativa correta.",
+            "alternativas": {
+                "A": "Não podem ser revogados os atos vinculados, \nprecisamente porque nestes não há aspectos \nconcernentes à oportunidade e conveniência.",
+                "B": "A revogação pode atingir os meros atos \nadministrativos, como certidões, atestados e \nvotos.",
+                "C": "A revogação pode ser feita sem necessidade \nde observação dos parâmetros legais implícitos \nou explícitos.",
+                "D": "A revogação não é privativa da \nAdministração e pode ser revista pelo Poder \nJudiciário, que pode avaliar a oportunidade e \nconveniência dos atos administrativos.",
+                "E": "A revogação retroage e pode afetar atos \nanteriores à sua publicação, produzindo efeitos \nex tunc. \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO DE PROCURADORIA                                                                                                                Página 8 de 12 QUESTÃO 27 \nConsiderando as fases do processo \nadministrativo disciplinar, assinale a alternativa \ncorreta. \n(A) Na fase de instrução, não é permitido o \nindiciado assistir à inquirição das testemunhas. \n(B) Na fase de defesa, o indiciado não tem o \ndireito de apresentar a defesa escrita, ou seja, \ndeve ser realizada pessoalmente, sem a presença \nnecessária de advogado. \n(C) Na fase do relatório, a peça tem caráter \nvinculante e deve ser aceita pela autoridade \ncompetente. \n(D) Na fase de instauração, a autoridade \ncompetente deve emitir uma portaria contendo o \nnome dos indiciados, a infração cometida, além \nda indicação dos dispositivos legais infringidos. \n(E) Na fase de decisão, a autoridade competente \npode decidir sem reexame do processo, não \nhavendo possibilidade de novas diligências ou \npedidos de reconsideração."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Considerando os princípios do processo \nadministrativo, assinale a alternativa correta.",
+            "alternativas": {
+                "A": "O principio da legalidade é implícito.",
+                "B": "O princípio do contraditório não é aplicado \nno processo administrativo, pois é uma \ncaracterística exclusiva do processo judicial.",
+                "C": "A administração pode revogar seus atos por \nrazões de conveniência e oportunidade, com \nefeitos retroativos, sem a necessidade de \ncompensar o particular que possa ter sido \nprejudicado, devido à primazia do interesse \npúblico.",
+                "D": "Não é possível restringir a publicidade dos \natos processuais, mesmo quando o interesse \nsocial o exigir.",
+                "E": "A eficiência no direito administrativo \nenvolve a busca por produtividade e \neconomicidade, sendo uma obrigação da \nadministração. \n \n QUESTÃO 29 \nOs ________________ são aqueles que ocupam \ncargos públicos e estão sujeitos a leis próprias, \nenquanto os _________________ são \ncontratados sob a legislação trabalhista e \nexercem funções de emprego público e os \n_________________ são contratados por tempo \ndeterminando, para atender à necessidade breve \nde interesse público. Assinale a alternativa que \ncontenha corretamente os espaços a serem \npreenchidos, respectivamente.  \n(A) Empregados Públicos, Agentes Políticos e \nServidores Temporários. \n(B) Servidores Estatutários, Empregados \nPúblicos e Agentes Políticos. \n(C) Empregados Públicos, Servidores \nTemporários e Servidores Estatutários. \n(D) Servidores Estatutários, Empregados \nPúblicos e Servidores Temporários.   \n(E) Servidores Temporários, Empregados \nPúblicos Servidores Estatutários."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Considerando os atributos dos atos \nadministrativos, assinale a alternativa correta.",
+            "alternativas": {
+                "A": "A autoexecutoriedade pode ser aplicada a \ntodos os atos administrativos, \nindependentemente de previsão legal ou \nurgência.",
+                "B": "Os atos administrativos impõem-se ao \nparticular independentemente de sua \nconcordância, atributo inexistente nos atos \nnegociais.",
+                "C": "A tipicidade existe com relação aos atos \nunilaterais e nos contratos.",
+                "D": "A imperatividade existe em todos os atos \nadministrativos, inclusive nos enunciativos e \nnegociais.",
+                "E": "Impugnado o ato administrativo, ele não \nproduzirá efeitos até que decretada a invalidade \nou a validade do ato pela própria Administração \nou pelo Judiciário. \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO DE PROCURADORIA                                                                                                                Página 9 de 12 QUESTÃO 31 \nQuando uma autoridade, no exercício de \ncompetência administrativa, conclui que um \ndado ato ou relação jurídica válidos não atendem \nao interesse público e por isso resolve eliminá-lo \na fim de prover de maneira mais satisfatória às \nconveniências administrativas, sua extinção se dá \npelo instituto da:  \n(A) anulação. \n(B) revogação. \n(C) cassação. \n(D) invalidação. \n(E) caducidade."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Dentre os princípios do processo administrativo, \nhá um específico que veda à Administração \nPública se ater a rigorismos formais ao \nconsiderar as manifestações do administrado, \nexceto nos procedimentos concorrenciais. Este \nprincípio é:",
+            "alternativas": {
+                "A": "o da oficialidade.",
+                "B": "o do informalismo.",
+                "C": "o da acessibilidade aos elementos do \nexpediente.",
+                "D": "o da motivação.",
+                "E": "o da lealdade e boa-fé."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Nos termos do artigo 29, da Constituição Federal, \no Município reger-se-á por _____________, \nvotada em ______________, com o interstício \nmínimo de ____________, e aprovada por \n________ dos membros da Câmara Municipal, \nque a promulgará, atendidos os princípios \nestabelecidos na Constituição Federal e na \nConstituição do respectivo Estado. Considerando \nas lacunas acima, assinale a opção que as \npreenchem corretamente:",
+            "alternativas": {
+                "A": "lei ordinária, dois turnos, dez dias, dois \nterços.",
+                "B": "lei orgânica, dois turnos, sete dias, dois \nterços.",
+                "C": "lei orgânica, dois turnos, dez dias, dois \nterços.",
+                "D": "lei orgânica, dois turnos, trinta dias, dois \nterços.",
+                "E": "lei ordinária, dois turnos, dez dias, maioria \nabsoluta. \n QUESTÃO 34 \nO Município Alfa possui população estimada em \n44.850 (quarenta e quatro mil, oitocentos e \ncinquenta) habitantes. Nos termos do artigo 29, \ninciso IV, da Constituição Federal, a composição \nda Câmara Municipal deverá observar o limite \nmáximo de: \n(A) 19 vereadores. \n(B) 15 vereadores. \n(C) 17 vereadores. \n(D) 11 vereadores. \n(E) 13 vereadores."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Considerando o quanto disposto na Constituição \nFederal, o limite máximo dos subsídios dos \nvereadores do Município Alfa, que possui \npopulação estimada em 44.850 (quarenta e \nquatro mil, oitocentos e cinquenta) habitantes \ncorresponderá a:",
+            "alternativas": {
+                "A": "quarenta por cento do subsídio dos \nDeputados Federais.",
+                "B": "vinte e cinco por cento do subsídio dos \nDeputados Estaduais.",
+                "C": "trinta por cento do subsídio dos Deputados \nFederais.",
+                "D": "quarenta por cento do subsídio dos \nDeputados Estaduais.",
+                "E": "trinta por cento do subsídio dos Deputados \nEstaduais."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: A Câmara Municipal não gastará mais de setenta \npor cento de sua receita com folha de pagamento, \nincluído o gasto com o subsídio de seus \nVereadores. À luz do disposto na Constituição \nFederal, o Presidente da Câmara Municipal que \nultrapassa esse percentual incorre em:",
+            "alternativas": {
+                "A": "crime eleitoral.",
+                "B": "infração administrativa.",
+                "C": "infração disciplinar.",
+                "D": "crime de responsabilidade.",
+                "E": "infração penal comum. \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO DE PROCURADORIA                                                                                                                Página 10 de 12 QUESTÃO 37 \nNos termos do artigo 165 da Constituição \nFederal, leis de iniciativa do Poder Executivo \nestabelecerão o plano plurianual, as diretrizes \norçamentárias e os orçamentos anuais. Diante \ndesse contexto específico, assinale a opção \ncorreta: \n(A) a lei que instituir o plano plurianual \ncompreenderá as metas e prioridades da \nadministração pública, estabelecerá as diretrizes \nde política fiscal e respectivas metas, em \nconsonância com trajetória sustentável da dívida \npública, orientará a elaboração da lei \norçamentária anual, disporá sobre as alterações \nna legislação tributária e estabelecerá a política \nde aplicação das agências financeiras oficiais de \nfomento. \n(B) o Poder Executivo publicará, até 10 (dez) \ndias após o encerramento de cada bimestre, \nrelatório resumido da execução orçamentária. \n(C) a lei de diretrizes orçamentárias estabelecerá, \nde forma regionalizada, as diretrizes, objetivos e \nmetas da administração pública federal para as \ndespesas de capital e outras delas decorrentes e \npara as relativas aos programas de duração \ncontinuada. \n(D) a lei orçamentária anual não conterá \ndispositivo estranho à previsão da receita e à \nfixação da despesa, não se incluindo na proibição \na autorização para abertura de créditos \nsuplementares e contratação de operações de \ncrédito, ainda que por antecipação de receita, nos \ntermos da lei. \n(E) a administração tem a faculdade de executar \nas programações orçamentárias, adotando os \nmeios e as medidas necessários, com o propósito \nde garantir a efetiva entrega de bens e serviços à \nsociedade. \n \n \n \n \n \n \n QUESTÃO 38 \nAcerca do regramento constitucional incidente \nsobre os orçamentos, assinale a opção correta:  \n(A) é permitida a abertura de crédito suplementar \nou especial independente de prévia autorização \nlegislativa ou indicação dos recursos \ncorrespondentes. \n(B) fica autorizada a criação de fundo público, \nquando seus objetivos puderem ser alcançados \nmediante a vinculação de receitas orçamentárias \nespecíficas ou mediante a execução direta por \nprogramação orçamentária e financeira de órgão \nou entidade da administração pública. \n(C) a transposição, o remanejamento ou a \ntransferência de recursos de uma categoria de \nprogramação para outra ou de um órgão para \noutro, sem prévia autorização legislativa é \nproibida. \n(D) são vedadas a concessão ou utilização de \ncréditos ilimitados, sendo permitida apenas a \nrealização de despesas ou a assunção de \nobrigações diretas que excedam os créditos \norçamentários ou adicionais. \n(E) os programas ou projetos devem ser iniciados \nainda que não incluídos na lei orçamentária \nanual."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO DE PROCURADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Considerando as técnicas de elaboração e \nestruturação das leis, nos termos da Lei Federal \nComplementar nº. 95/1998, sabemos que elas são \nestruturadas em três partes básicas, que são:",
+            "alternativas": {
+                "A": "preâmbulo, ementa e vigência.",
+                "B": "epígrafe, ementa e preâmbulo.",
+                "C": "preliminar, normativa e final.",
+                "D": "introdução, dispositivo e conclusão.",
+                "E": "aplicação, regulamentação e implementação. \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO DE PROCURADORIA                                                                                                                Página 11 de 12 QUESTÃO 40 \nAcerca das técnicas de elaboração e estruturação \ndas leis, reguladas pela Lei Federal \nComplementar nº. 95/1998, as disposições \nnormativas serão redigidas com clareza, precisão \ne ordem lógica. Considerando as disposições \nexpressamente trazidas pela referida Lei, assinale \na opção correta: \n(A) para obtenção de clareza, devem ser reunidas \nsob as categorias de agregação - subseção, seção, \ncapítulo, título e livro - apenas as disposições \nrelacionadas com o objeto da lei. \n(B) para obtenção de clareza, deve se articular a \nlinguagem, técnica ou comum, de modo a ensejar \nperfeita compreensão do objetivo da lei e a \npermitir que seu texto evidencie com clareza o \nconteúdo e o alcance que o legislador pretende \ndar à norma. \n(C) para obtenção de precisão, deve se expressar \na ideia, quando repetida no texto, por meio das \nmesmas palavras, evitando o emprego de \nsinonímia com propósito meramente estilístico. \n(D) para obtenção de ordem lógica, usar os \nrecursos de pontuação de forma judiciosa, \nevitando os abusos de caráter estilístico. \n(E) para obtenção de precisão, usar frases curtas \ne concisas. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO DE PROCURADORIA                                                                                                                Página 12 de 12"
+            },
+            "resposta_correta": "A"
+        }
+    ]
+}

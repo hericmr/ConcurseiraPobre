@@ -1,3 +1,466 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:336d74864f48aaa282e3767211377c7b84af52c6785814e6baf6b259cbfa8e4a
-size 45917
+{
+    "ANALISTA DE GESTÃO PÚBLICA": [
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: Sobre o título:",
+            "alternativas": {
+                "A": "Houve uma incoerência com o texto.",
+                "B": "Foi explicado, no texto.",
+                "C": "Não apresenta relevância em relação ao \ntexto.",
+                "D": "Funciona como uma ameaça, no texto.",
+                "E": "É respeitado e admirado por todos, no \ntexto."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: Encontra -se uma informação correta em \nrelação ao  texto em:",
+            "alternativas": {
+                "A": "O autor critica, principalmente, o excesso \nde barulho, atualmente, mas dá ênfase a esse \nfato, durante as partidas de futebol, tanto por \nparte de jornalistas quanto de narradores.",
+                "B": "O autor concorda que a maioria das faltas \nsão intencionais  e critica a postura violenta de \nmuitos jogadores.",
+                "C": "O autor defende a relevância dos dados \nestatísticos apresentados, durante as partidas \nde futebol, como uma tendência atual.",
+                "D": "O autor declara que os árbitros devem \njulgar as faltas e elogia o bom sen so deles \ninerente às suas personalidades totalmente \nidôneas.",
+                "E": "O autor acha divertido a disputa entre \njornalistas e narradores quando um tenta falar \nmais que o outro, oferecendo ao público \ninformações, extremamente, relevantes.  Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 3 de 15 QUESTÃO 03 \nNo percurso dis cursivo do texto, no 6º \nparágrafo, ocorre uma estratégia de:  \n(A) Síntese.  \n(B) Oposição.  \n(C) Analogia.  \n(D) Citação.  \n(E) Exemplificação."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: A regência verbal está correta, na passagem \n“Como trabalho em casa, assisto  a um grande \nnúmero de jogos e programas esportivos,  (...)” \n(1º parágrafo). Há regência verbal também \ncorreta em:",
+            "alternativas": {
+                "A": "Esse direito não o assiste.",
+                "B": "Assisti o filme que você indicou.",
+                "C": "Ana assiste no Largo de São Francisco.",
+                "D": "O enfermeiro assistiu ao médico com \nafinco, auxiliando -o bem.",
+                "E": "Não concordei com as cenas que assisti \nsem poder me pronunciar."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: No 2º parágrafo, as vírgulas foram empregadas \npara:",
+            "alternativas": {
+                "A": "Separar os termos de uma oração.",
+                "B": "Isolar vocativos.",
+                "C": "Destacar apostos explica tivos.",
+                "D": "Separar termos expositivos.",
+                "E": "Marcar a omissão de verbos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: A conjunção destacada na passagem “ Como  \ntrabalho em casa,  (...)” (1º parágrafo) indica \numa relação de sentido apontada, \ncorretamente, na alternativa:",
+            "alternativas": {
+                "A": "Causa.",
+                "B": "Consequên cia.",
+                "C": "Temporalidade.",
+                "D": "Proporção.",
+                "E": "Concessão.  \n QUESTÃO 07  \nO vocábulo “ colaborar ” apresenta como \núltimo processo de formação a:  \n(A) Regressão.  \n(B) Parassíntese.  \n(C) Conversão.  \n(D) Prefixação.  \n(E) Reduplicação."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: O pronome pessoal oblíquo átono pode mudar \nde posição, somente, na opção:",
+            "alternativas": {
+                "A": "Não a vi mais na cidade.",
+                "B": "Quem te contou isso?",
+                "C": "Ela se ilude muito.",
+                "D": "Quando a viu, desmaiou.",
+                "E": "Alguns se afastaram da cena do crime."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: Os advérbios ou locuções adverbiais, abai xo, \nestão classificados, corretamente, em todas as \nalternativas, EXCETO:",
+            "alternativas": {
+                "A": "Ele quebrou o vidro com o martelo . – \nInstrumento.",
+                "B": "Cheguei a Florianópolis de avião . – Modo.",
+                "C": "O vidro estava quase  cheio. – Intensidade.",
+                "D": "Fiz o trabalho às pressas . – Modo.",
+                "E": "Com sorte , a prova será adiada. – \nCondição."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: Há vocábulo grafado, corretamente, na \nalternativa:",
+            "alternativas": {
+                "A": "Microondas.",
+                "B": "Infra -estrutura.",
+                "C": "Hiperealista.",
+                "D": "Super -inteligente.",
+                "E": "Coabitar.  \n \n Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 4 de 15 MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: Um cachorro precisou tomar três medicações, \npor uma semana. A primeira, devia ser tomada \na cada 4 horas, a segunda, a cada 8 horas e, a \nterceira, a cada 12 horas. Seu dono começou a \nlhe dar as três medicações junta s. Em uma \nsemana, quantas vezes ele tomou as três \nmedicações juntas?",
+            "alternativas": {
+                "A": "21",
+                "B": "12",
+                "C": "14",
+                "D": "7",
+                "E": "3"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Qual é a razão entre a altura de um triângulo \nequilátero de lado 𝑙 e sua área?",
+            "alternativas": {
+                "A": "𝑙√3",
+                "B": "𝑙2\n4",
+                "C": "𝑙2√3\n2",
+                "D": "𝑙²",
+                "E": "2/𝑙"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: Rita fez três atividades avaliativas de \nmatemática, durante o bimestre. A primeira \nteve peso 2 e ela fez 8 pontos; na segunda, de \npeso 3, ela fez 6 pontos e, na terceira, também \nde peso 3, ela fez 9 pontos. Qual foi a média de \nRita nesse bimestre?",
+            "alternativas": {
+                "A": "7,6",
+                "B": "6,1",
+                "C": "7,7",
+                "D": "8,2",
+                "E": "7  \n QUESTÃO 14  \nSobre o Teorema de Pitágoras, analise as \nafirmações e assinale:  \nI. É aplicável em qualquer triângulo.  \nII. É uma relação entre catetos e \nhipotenusa de um triângulo \nretângulo.  \nIII. A hipotenusa é o maior lado do \ntriângulo em que  se aplica o \nteorema.  \n(A) Apenas a afirmação I é verdadeira.  \n(B) Apenas a afirmação II é verdadeira.  \n(C) Apenas a afirmação III é verdadeira.  \n(D) Apenas as afirmações I e II são \nverdadeiras.  \n(E) Apenas as afirmações II e III são \nverdadeiras."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Um relógio de ponteiro marca, exatamente, \n15h. É possível afirmar que o menor ângulo \nformado pelos ponteiros mede:",
+            "alternativas": {
+                "A": "30º",
+                "B": "45º",
+                "C": "90º",
+                "D": "120º",
+                "E": "315º  \nATUALIDADES"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: \"Moça do corpo dourado, do Sol de Ipanema  \nO seu balançado é mais que um poema  \nÉ a coisa mais linda que eu já vi passar\"  \nO trecho, acima, é parte de uma das músicas \nmais conhecidas do Brasil. Quem foi o \ncompositor?",
+            "alternativas": {
+                "A": "Tom Jobim.",
+                "B": "Caetano Veloso.",
+                "C": "Chico Buarque.",
+                "D": "Maria Bethânia.",
+                "E": "Amado Batista.  Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 5 de 15 QUESTÃO 17  \nA guerra da Ucrânia tem trazido muitos \nprejuízos a todo o mundo, o conflito é entre os \npaíses da Rússia e Ucrânia. Quem eram, \nrespectivamente, os líderes políticos desses \nterritórios quando o conflito começou?  \n \n(A) Mikhail Gorbacher e Viktor Yushchenko.  \n(B) Viktor Yushchenko e Mikhail Gorbacher.  \n(C) Vladimir Putin e Volodymyr Zelensky.  \n(D) Vladimir Putin e Viktor Yushchenko.  \n(E) Volodymyr Zelensky e Vladimir Putin."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: No fim de 2021, fortes chuvas atingiram a \nregião sul da Bahia e em Minas Gerais, \ncausando inundações, deslizamentos e \ntragédias. Qual(is) a(s) estação(ões) \nclimática(s) que estávamos, durante esse \nperíodo de tragédias?",
+            "alternativas": {
+                "A": "Inverno.",
+                "B": "Inverno e Outono.",
+                "C": "Verão e Outono.",
+                "D": "Verão.",
+                "E": "Outono."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: Dentre essas cidades brasileiras, qual dessas \nnão é uma capital?",
+            "alternativas": {
+                "A": "Rio Branco.",
+                "B": "Florianópolis.",
+                "C": "Santos.",
+                "D": "Porto Alegre.",
+                "E": "São Paulo.  \n \n \n QUESTÃO 20  \nEm 2022, foi aprovada pelo congresso uma \nProposta de Emenda à Constituição (PEC) que \nconcede uma série de benefícios sociais e foi \nvista pelo presidente como uma forma de \nalavancar sua campanha de reeleição. Essa \nPEC ficou, popularmente, conhecida como:  \n  \n(A) PEC Kamikaze.  \n(B) PEC Auxílio Emergencial.  \n(C) PEC Arriscada.  \n(D) PEC Última chance.  \n(E) PEC Bolsonaro.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: Assinale, abaixo, a opção que completa a \nlacuna, corretamente.  \nEsta é _________________ do Windows 7. É \na primeira tela que aparece no seu computador \nassim que o Windows é iniciado. E é a partir \ndesta janela que os programa s e pastas são \nabertos.",
+            "alternativas": {
+                "A": "A Interface gráfica.",
+                "B": "A Pasta de trabalho.",
+                "C": "A Área de Trabalho.",
+                "D": "O Ambiente de rede.",
+                "E": "O Guia de utilização.  \n \n \n \nCâmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 6 de 15 QUESTÃO 22 \nAnalise a imagem, abaixo, e responda \nescolhendo a opção correta que dá nome ao \nque a imagem mostra.  \n \n \n \n \n \n \n \n \n \n \n(A) Propriedades de Disco.  \n(B) Propriedade do Sistema.  \n(C) Otimização de Disco.  \n(D) Serviços de Disco.  \n(E) Propriedades do HDD."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: Assinale V para verdadeiro e F para falso sobre \nas informações, abaixo.  \nI. ALT+ TAB é o atalho que fecha \numa janela ativa.  \nII. Ctrl + Z desfaz uma ação.  \nIII. Ctrl + D apaga o item selecionado \ne movê -lo para a Lixeira.  \nIV. F4 renomeia o item selecionado.",
+            "alternativas": {
+                "A": "F – F – V – V.",
+                "B": "V – F – F – V.",
+                "C": "V – V – F – F.",
+                "D": "F – V – V – F.",
+                "E": "F – F – V – F. \n \n \n \n QUESTÃO 24 \nObserve a imagem, abaixo, e diga em que guia \ndo MS -Word 2016 ela está inserida.  \n \n \n \n \n \n \n(A) Correspondência.  \n(B) Página Inicial.  \n(C) Revisão.  \n(D) Arquivo.  \n(E) Layout."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: Responda, abaixo, escolhendo a opção que \nmostra o atalho para inclu ir Autosoma, \ndiretamente, pelo teclado numa célula do MS -\nEcxel 2016, no Windows, desde que as células \na serem consideradas estejam selecionadas.",
+            "alternativas": {
+                "A": "ALT+COMMAND+=.",
+                "B": "Shift+Tab.",
+                "C": "Ctrl+Shift+F.",
+                "D": "CTRL+(+).",
+                "E": "ALT+=.  \n \n \n \n \n \n \n \n \n \n \n \nCâmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 7 de 15 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: Os Princípios de Contabilidade representam a \nessência das doutrinas e teorias relativas à \nCiência Contábil, sendo que sua aplicação na \nescrituração contábil decorre de previsão \nexpressa da Interpretação Técnica Geral IT G \n2000 (R1), do Conselho Federal de \nContabilidade. Neste sentido, o Princípio que \ndetermina a adoção do maior valor para os \ncomponentes do Passivo e do menor valor para \nos do Ativo, sempre que se apresentem \nalternativas igualmente válidas para a \nquantifica ção das mutações patrimoniais é o:",
+            "alternativas": {
+                "A": "Princípio do Conservadorismo.",
+                "B": "Princípio da Relevância.",
+                "C": "Princípio da Prudência.",
+                "D": "Princípio da Base de Valor.",
+                "E": "Princípio do Registro pelo Valor Original."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: Suponha que determinada entidade apresente, \nao final do exercício financeiro de 2021, \nPassivo Exigível de R$ 1.325.757,00. Na \nmesma data, seu Ativo Total equivale a 85% \ndeste valor. Nesse caso, é correto afirmar que:",
+            "alternativas": {
+                "A": "A entidade apresenta possível situação de \npatrimônio líquid o nulo.",
+                "B": "Dados os números expostos, o Patrimônio \nLíquido na data referida é positivo.",
+                "C": "A soma dos valores do Patrimônio Líquido \ne do Ativo Total será superior ao total do \nPassivo Exigível.",
+                "D": "A entidade apresenta Passivo a Descoberto \nda ordem de R$ 198.863,55.",
+                "E": "O Ativo Total da Entidade é inferior ao \nvalor do Patrimônio Líquido.  \n \n \n \n \n \n QUESTÃO 28  \nPara resolução das questões 28 e 29, considere \nas seguintes informações, extraídas do \nbalancete de verificação da Cia. Codorna em \n31/12/2021, referentes a  algumas contas \ncontábeis patrimoniais com seus respectivos \nsaldos ao final do exercício.  \n \nPerdas Estimadas com Créditos de Liquidação \nDuvidosa__5.000,00  \nEstoques__22.000,00  \nDuplicatas Descontadas__17.000,00  \nReservas de Lucros__6.700,00  \nDepreciação Acumula da__5.200,00  \nFornecedores__19.000,00  \nAções em Tesouraria__3.500,00  \nCaixa e Equivalentes de Caixa__25.000,00  \nImóveis e Prédios__42.000,00  \nAplicações Financeiras de Longo \nPrazo__15.500,00  \nCapital Social__70.000,00  \nDuplicatas a Receber__18.500,00  \nEmpréstimos Bancários de Longo \nPrazo__32.000,00  \nVeículos__23.000,00  \nInvestimentos em Controladas__17.500,00  \nAdiantamentos de Clientes__20.500,00  \nPrejuízos Acumulados__8.400,00  \n \nTendo por base as informações fornecidas, o \nvalor do Ativo N ão Circulante da Cia. Codorna \nem 31/12/2021 é de:  \n(A) 103.200,00.  \n(B) 77.300,00.  \n(C) 75.300,00.  \n(D) 60.500,00.  \n(E) 92.800,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: Os valores do Passivo Exigível e do \nPatrimônio Líquido da Cia. Codorna em \n31/12/2021 são, respectivamente, de:",
+            "alternativas": {
+                "A": "88.5 00,00 e 64.800,00.",
+                "B": "68.000,00 e 64.800,00.",
+                "C": "68.000,00 e 68.300,00.",
+                "D": "88.500,00 e 68.300,00.",
+                "E": "56.500,00 e 58.100,00.  Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 8 de 15 QUESTÃO 30  \nNo âmbito de Contabilidade de Custos, a \nexpressão ______________ refere -se ao nível \nde vendas em que não há lucro ou prejuízo, ou \nseja, é o ponto onde os custos e despesas totais \nsão iguais às receitas totais. Em outras \npalavras, permite à empresa calcular o \nfaturamento mínimo para cobrir todos os \ncustos e despesas fixas e variáveis, sem restar \nlucro. Assinale a alternat iva que preenche \ncorretamente a lacuna.  \n(A) Ponto de Equilíbrio Contábil.  \n(B) Ponto de Equilíbrio Financeiro.  \n(C) Ponto de Equilíbrio Econômico.  \n(D) Ponto de Anulação de Resultado.  \n(E) Ponto de Convergência de Custos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: Acerca do regramento da Du ração do \nTrabalho, constante da Consolidação das Leis \ndo Trabalho (Decreto -Lei nº 5.452/1943), \ninforme se é verdadeiro (V) ou falso (F) para o \nque se afirma e assinale a alternativa com a \nsequência correta.  \n( ) Em qualquer trabalho contínuo, cuja \nduração e xceda de 6 (seis) horas, é obrigatória \na concessão de um intervalo para repouso ou \nalimentação, o qual será, no mínimo, de 1 \n(uma) hora e, salvo acordo escrito ou contrato \ncoletivo em contrário, não poderá exceder de 2 \n(duas) horas.  \n(  ) Entre 2 (duas) jor nadas de trabalho haverá \num período mínimo de 11 (onze) horas \nconsecutivas para descanso.  \n(  ) Não serão descontadas nem computadas \ncomo jornada extraordinária as variações de \nhorário no registro de ponto não excedentes de \ndez minutos, observado o limite m áximo de \nvinte minutos diários.",
+            "alternativas": {
+                "A": "V – F – F.",
+                "B": "V – V – F.",
+                "C": "F – F – V.",
+                "D": "F – V – F.",
+                "E": "V – F – V. QUESTÃO 32  \nAinda sobre o tema da Duração do Trabalho, \nassinale a alternativa em desacordo com a \ndisciplina da Consolidação das Leis do \nTrabalho:  \n(A) O tempo despendido pelo empregado \ndesde a sua residência até a efetiva ocupação \ndo posto de trabalho e para o seu retorno, \ncaminhando ou por qualquer meio de \ntransporte, inclusive o fornecido pelo \nempregador, não será computado na jornada de \ntrabalho, por não ser tempo à disposição do \nempregador.  \n(B) A hora do trabalho noturno será computada \ncomo de 52 minutos e 30 segundos, e \nconsidera -se noturno o trabalho executado \nentre as 22 horas de um dia e as 5 horas do dia \nseguinte.  \n(C)  A duração diária do tra balho poderá ser \nacrescida de horas extras, em número não \nexcedente de quatro, por acordo individual, \nconvenção coletiva ou acordo coletivo de \ntrabalho.  \n(D) Ocorrendo necessidade imperiosa, poderá \na duração do trabalho exceder do limite legal \nou convencion ado, seja para fazer face a \nmotivo de força maior, seja para atender à \nrealização ou conclusão de serviços inadiáveis \nou cuja inexecução possa acarretar prejuízo \nmanifesto.  \n(E) Poderá ser dispensado o acréscimo de \nsalário se, por força de acordo ou convenç ão \ncoletiva de trabalho, o excesso de horas em um \ndia for compensado pela correspondente \ndiminuição em outro dia, de maneira que não \nexceda, no período máximo de um ano, à soma \ndas jornadas semanais de trabalho previstas, \nnem seja ultrapassado o limite máx imo de dez \nhoras diárias.  \n \n \n \n \n \n \n Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 9 de 15 QUESTÃO 33  \nNo que tange ao direito às Férias Anuais, assinale a alternativa correta, de acordo com o Decreto -Lei \nnº 5.452/1943:  \n(A) Enquanto no gozo de férias, o empregado poderá ter sua remuneração mensal reduzida em até \n50%.  \n(B) Para fins de aposentadoria, o período de gozo de fér ias não será considerado como efetivo tempo \nde serviço.  \n(C) Para efeito da contagem do período de férias, é considerada falta aquela decorrente do \nlicenciamento compulsório da empregada por motivo de maternidade ou aborto.  \n(D) Após cada período de 12 meses  de vigência do contrato de trabalho, o empregado terá direito a \nférias de 30 dias corridos, quando não houver faltado ao serviço mais de 5 (cinco) vezes.  \n(E) As faltas do empregado ao serviço poderão ser descontadas do período de férias."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: Tendo  por base as disposições da Consolidação das Leis do Trabalho a respeito da Segurança e da \nMedicina do Trabalho, informe se é verdadeiro (V) ou falso (F) para o que se afirma e assinale a \nalternativa com a sequência correta.  \n( ) A empresa é obrigada a forn ecer aos empregados equipamento de proteção individual adequado \nao risco e em perfeito estado de conservação e funcionamento, sempre que as medidas de ordem geral \nnão ofereçam completa proteção contra os riscos de acidentes e danos à saúde dos empregados, \npodendo efetuar desconto de custeio, no valor máximo de 6% do vencimento básico.  \n(  ) Serão consideradas atividades ou operações perigosas aquelas que, por sua natureza, condições \nou métodos de trabalho, exponham os empregados a agentes nocivos à saúde, ac ima dos limites de \ntolerância fixados em razão da natureza e da intensidade do agente e do tempo de exposição aos seus \nefeitos.   \n( ) O exercício de trabalho em condições insalubres, acima dos limites de tolerância estabelecidos \npelo Ministério do Trabalho,  assegura a percepção de adicional respectivamente de 40% (quarenta \npor cento), 20% (vinte por cento) e 10% (dez por cento) do salário -mínimo da região, segundo se \nclassifiquem nos graus máximo, médio e mínimo.",
+            "alternativas": {
+                "A": "V – V – F.",
+                "B": "V – F – V.",
+                "C": "F – V – V.",
+                "D": "F – F – V.",
+                "E": "F – V – F. \n \n \n \n \n \n \n Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 10 de 15 QUESTÃO 35  \nSobre a Convenção Coletiva de Trabalho, assinale a alternativa INCORRETA, de acordo com o \nDecreto -Lei nº 5.452/1943:  \n(A) A Convenção Coletiva de Trabalho é um acordo de caráter normativo, pelo qual dois ou mais \nSindicatos representativos de categorias econômicas e profissionais estipulam condições de trabalho \naplicáveis, no âmbito das respectivas representações, às relações individuais de trabalho.  \n(B) Através de Convenção Coletiva de Trabalho, homologada pe la Justiça do Trabalho, poderá ser \nreduzido o valor nominal do décimo terceiro salário da categoria profissional.  \n(C) No âmbito de    suas representações poderão as  Federações e, na falta desta, as Confederações \nrepresentativas de categorias   econômicas ou  profissionais celebrar convenções coletivas de trabalho \npara reger as relações das categorias a elas vinculadas, inorganizadas em Sindicatos.  \n(D) Quando dispuser sobre banco de horas anual e regime de teletrabalho, a Convenção Coletiva de \nTrabalho têm pre valência sobre a lei.  \n(E) Não é permitido estipular duração de convenção coletiva de trabalho superior a dois anos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: Considerando a disciplina constitucional e a doutrina de Direito Administrativo, assinale a alternativa \ncorreta no que tange ao regramento dos servidores públicos.",
+            "alternativas": {
+                "A": "Os cargos, empregos e funções públicas são acessíveis apenas aos brasileiros, natos ou \nnaturalizados.",
+                "B": "Para preenchimento de cargo público é imprescindível a realização de concurso público, inclusive \npara os cargo s em comissão e funções de confiança.",
+                "C": "É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função \nde confiança ou de cargo em comissão à remuneração do cargo efetivo.",
+                "D": "As empresas públicas e as sociedades de econo mia mista estão dispensadas da obrigatoriedade \nde realização de concurso público, ante a natureza celetista de seus vínculos empregatícios.",
+                "E": "É vedada, em qualquer caso, a acumulação remunerada de cargos públicos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: No âmbito dos Processos Admi nistrativos genericamente considerados, os recursos administrativos, \nvia de regra, possuem efeito apenas:",
+            "alternativas": {
+                "A": "Retroativo.",
+                "B": "Suspensivo.",
+                "C": "Conclusivo.",
+                "D": "Objetivo.",
+                "E": "Devolutivo.  \n \n \n Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 11 de 15 QUESTÃO 38  \nDe acordo com a doutrina clássica, são princípios norteadores dos recursos e processos \nadministrativos, EXCETO:  \n(A) Legalidade Objetiva.  \n(B) Oficialidade.  \n(C) Verdade Material.  \n(D) Contraditório e Ampla Defesa.  \n(E) Formalismo Absoluto."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: Os ____________ são aqueles em que a lei confer e certa margem de liberdade à atuação do \nadministrador, possibilitando -lhe decidir sobre a oportunidade e a conveniência da prática do ato por \nmeio da escolha de seu objeto e valoração de seus motivos. Assinale a alternativa que preenche \ncorretamente a lac una:",
+            "alternativas": {
+                "A": "atos administrativos.",
+                "B": "atos discricionários.",
+                "C": "atos jurídicos.",
+                "D": "atos vinculados.",
+                "E": "atos legislativos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 27: Imagine que um agente sanitário, em fiscalização in loco  em determinado estabelecimento, constata \nque estão sendo comercial izados alimentos vencidos. Nesta ocasião, o agente lavra um auto de \ninfração em flagrante, impondo multa e determinando a apreensão imediata do lote vencido. O \natributo que confere ao auto de infração a possibilidade de impor, unilateralmente, restrições a os \nadministrados é:",
+            "alternativas": {
+                "A": "a Imperatividade.",
+                "B": "a Presunção de Legitimidade.",
+                "C": "a Auto -executoriedade.",
+                "D": "a Tipicidade.",
+                "E": "a Uniformidade.  \n \n \n \n \n \n \n Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 12 de 15 QUESTÃO 41  \nCom relação ao regramento do Pregão, constante de Lei Federal 10.520/2002, assinale a alternativa \ncorreta:  \n(A) O Pregão destina -se à aquisição de bens e execução de serviços comuns, cujo valor máximo da \ncontratação seja inferior ao limite determinado para  as Tomadas de Preços.  \n(B) No Pregão ocorre a inversão do processamento normal da licitação, primeiro abrem -se os \nenvelopes contendo as propostas, depois os relativos à habilitação dos interessados.  \n(C) Em hipóteses justificadas, o Pregão poderá ser utiliz ado para contratação de serviços técnicos de \nnatureza singular, com profissionais ou empresas de notória especialização.  \n(D) O Pregão pode ser utilizado para venda, pela administração, de produtos contrabandeados \napreendidos pela fiscalização.  \n(E) Por ser regido por norma própria, não se aplicam ao Pregão as disposições da Lei n° 8.666/1993."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 28: Imagine que o Secretário de Educação deseja adquirir materiais didáticos para a creche municipal. \nApós pesquisa de preços com fornecedores obteve a melhor pr oposta no valor de R$ 14.300,00 para \naquisição do material, à vista. Procedeu então à compra sem levar a efeito procedimento licitatório, \nsendo aquela aquisição a única do ano relativa a este tipo de material. Diante do caso em tela, e \nconsiderando a Lei n º 8.666/1993, o Secretário agiu:",
+            "alternativas": {
+                "A": "corretamente, uma vez que são dispensáveis as aquisições de bens e serviços até R$ 17.600,00, \ndesde que não se refiram a parcelas de uma compra maior que possa ser realizada de uma só vez.",
+                "B": "de forma equivocada, uma v ez que a Lei 8.666/1993 prevê a obrigatoriedade de licitação na \nmodalidade Pregão para esta aquisição.",
+                "C": "corretamente, uma vez que são dispensáveis as aquisições de bens e serviços até R$ 33.000,00, \ndesde que não se refiram a parcelas de uma compra maior  que possa ser realizada de uma só vez.",
+                "D": "de forma equivocada, uma vez que a Lei 8.666/1993 prevê a obrigatoriedade de licitação na \nmodalidade Convite para esta aquisição.",
+                "E": "em desacordo com a Lei, pois, para qualquer tipo de aquisição é necessário procedimento \nlicitatório prévio."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 29: Considere as situações a seguir:  \nI. Escolha de trabalho científico mediante estipulação de remuneração aos vencedores.  \nII. Contratação de profissional artístico consagrado pela crítica especializada ou pela opinião pública.  \nIII. Contratação de serviços de engenharia no valor estimado de R$ 5.000.000,00.  \nIV. Alienação de bens móveis inservíveis para a administração pública.  \nNas hipóteses acima previstas, as contratações serão levadas a ef eito pela administração pública, \nrespectivamente, através de:",
+            "alternativas": {
+                "A": "inexigibilidade de licitação; inexigibilidade de licitação; concorrência; Pregão.",
+                "B": "concurso; convite; tomada de preços; concorrência.",
+                "C": "concurso; inexigibilidade de licitação; concorrê ncia; leilão.",
+                "D": "Tomada de Preços; convite; concorrência; Pregão.",
+                "E": "inexigibilidade de licitação; convite; concorrência; concorrência.  Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 13 de 15 QUESTÃO 44  \nSobre o instituto das Licitações no Brasil, e levando em conta a Lei nº 8.666/1993, informe se é \nverdadeiro  (V) ou falso (F) para o que se afirma e assinale a alternativa com a sequência correta.  \n(  ) É lícito aos agentes públicos incluir nos atos de convocação cláusulas que estabeleçam \npreferências em razão do domicílio dos licitantes, desde que voltadas a pro mover eficiência e redução \nde custos nas contratações.  \n( ) A licitação destina -se, dentre outros propósitos, a assegurar a seleção da proposta mais vantajosa \npara a administração, sendo que as normas de licitações e contratos devem privilegiar o tratamento  \ndiferenciado e favorecido às microempresas e empresas de pequeno porte.  \n(  ) A Lei 8.666/93 prevê que, em igualdade de condições entre os licitantes, como critério de \ndesempate, será assegurada preferência, em primeiro lugar, aos bens e serviços produzido s ou \nprestados por empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País.  \n(A) F – F – F. \n(B) V – F – F. \n(C) F – V – V. \n(D) V – V – F. \n(E) F – V – F."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 30: Com relação à disciplina dos Contratos Administrativos, analise as afirmativas a seguir e assinale a \nalternativa correta.  \nI. Em atenção ao princípio da legalidade, é nulo e de nenhum efeito todo e qualquer contrato verbal \ncelebrado pela administração pública.  \nII. A regra da pessoalidade ( intuitu personae ) não é absoluta, sendo possível, sob determinadas \ncondições, a subcontratação parcial do objeto contratado.  \nIII. É cláusula necessária em todo contrato a que estabeleça o crédito pelo qual correrá a despesa, com \na indicação da classificação funcional programática e da cate goria econômica.",
+            "alternativas": {
+                "A": "Apenas I e II estão corretas.",
+                "B": "Apenas I e III estão corretas.",
+                "C": "Apenas I está correta.",
+                "D": "Apenas II e III estão corretas.",
+                "E": "Apenas III está correta."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 31: São Impostos compreendidos na competência tributária da União, EXCE TO:",
+            "alternativas": {
+                "A": "Imposto Extraordinário de Guerra.",
+                "B": "Impostos Residuais.",
+                "C": "Imposto sobre a Propriedade Territorial Rural.",
+                "D": "Imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários.",
+                "E": "Imposto sobre a Transmissão Cau sa Mortis e Doação de Quaisquer Bens ou Direitos.  \n Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 14 de 15 QUESTÃO 47  \nO Tributo que é instituído para fazer face ao custo de obras públicas de que decorra valorização \nimobiliária, tendo como limite total a despesa realizada e como limite individual o acréscimo de valor \nque da obra resultar para cada imóvel beneficiado é denominado:  \n(A) Imposto sobre a Propriedade Predial e Territorial Urbana.  \n(B) Taxa de Valorização Retida na Fonte.  \n(C) Imposto sobre Grandes Fortunas.  \n(D) Contribuição de Melhoria.  \n(E) Imposto de Renda."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 32: Já em suas primeiras disposições, o Código Tributário Nacional traz a definição de tributo. Neste \nsentido, assinale a alternativa que guarda correlação com o texto legal:",
+            "alternativas": {
+                "A": "Tributo é toda prestação pecuniária compulsória, em  moeda ou cujo valor nela se possa exprimir, \nque não constitua sanção de ato ilícito, instituída por Decreto do Executivo e cobrada mediante \natividade administrativa plenamente discricionária.",
+                "B": "Tributo é toda prestação pecuniária compulsória, em moeda o u cujo valor nela se possa exprimir, \nque não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa \nplenamente vinculada.",
+                "C": "Tributo é toda prestação pecuniária facultativa, em moeda ou cujo valor nela se possa expr imir, \nque não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa \nplenamente vinculada.",
+                "D": "Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, \nque constitua ou não sanç ão de ato ilícito, instituída em lei e cobrada mediante atividade \nadministrativa discricionária.",
+                "E": "Tributo é toda prestação pecuniária compulsória, em moeda apenas, que constitua ou não sanção \nde ato ilícito, instituída em lei e cobrada mediante atividad e administrativa discricionária."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ANALISTA DE GESTÃO PÚBLICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 33: De acordo com a Lei nº 5.172/1966, a natureza jurídica específica do tributo é determinada:",
+            "alternativas": {
+                "A": "Pelo fato gerador da respectiva obrigação.",
+                "B": "Pela sua denominação e demais características formais adotadas pela lei.",
+                "C": "Pela destinação legal do produto de sua arrecadação.",
+                "D": "Pela qualificação pessoal do sujeito passivo.",
+                "E": "Pelo ente constitucionalmente competente pela sua instituição.  \n \n \n \n Câmara Municipal de Ribeirão Pires  - SP – Concurso Público  01/2022                          INSTITUTO AVANÇA SÃO PAULO  \n \n \nANALISTA DE GESTÃO PÚBLICA                                                                                                              Página 15 de 15 QUESTÃO 50  \nA respeito das competências tributárias do Município, analise as afirmativas a seguir e assinale a \nalternativa correta.  \nI. Os municípios, em casos excepcionais, e mediante lei complementar, poderão instituir empréstimos \ncompulsórios.  \nII. Os municípios poderão instituir contribuições sociais e de in tervenção em seu domínio econômico.  \nIII. Os municípios poderão instituir taxas sobre o exercício de poder de polícia, as quais, por sua vez, \nnão poderão ter base de cálculo própria de impostos.  \nIV. Os Municípios e o Distrito Federal poderão instituir contr ibuição, na forma das respectivas leis, \npara o custeio do serviço de iluminação pública.  \n(A) Apenas I, III e IV estão corretas.  \n(B) Apenas II e IV estão corretas.  \n(C) Apenas III e IV estão corretas.  \n(D) Apenas I, II e III estão incorretas.  \n(E) Apenas II, I II e IV estão corretas."
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

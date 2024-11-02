@@ -1,3 +1,816 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d5bd1bf099c741da08aa9ea0a73db933443a33d5cbf8bf16836de90f0d61716
-size 53362
+{
+    "AJUDANTE DE SERVIÇOS GERAIS": [
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Considere a tirinha a seguir. \n \nADAPTADO, Mafalda. QUINO. Disponível em: <https://www.zinecultural.com/blog/melhores-\ntirinhas-da-mafalda>. Acesso em 24 de março de 2023. \n \nNo primeiro quadro da tirinha aparecem os verbos <use=, <compre=, <beba=, <coma=, <prove=. De \nacordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que indica corretamen te \no modo verbal desses verbos.",
+            "alternativas": {
+                "A": "Modo imperativo",
+                "B": "Modo subjuntivo",
+                "C": "Modo indicativo",
+                "D": "Modo infinitivo",
+                "E": "Modo gerúndio"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: De acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta a  forma \ncorreta quanto ao uso do modo imperativo negativo da palavra <falar=.",
+            "alternativas": {
+                "A": "Falarão",
+                "B": "Falaram",
+                "C": "Falou",
+                "D": "Não fale",
+                "E": "Falastes \n  \n \n \n \nDepartamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 3 de 13 QUESTÃO 03 \nDe acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta a  forma \ncorreta de colocação pronominal na frase \"Eu lhe dei o livro ontem\". \n \n(A) \"Lha dei eu o livro ontem\" \n(B) \"Dei eu lhes o livro ontem\" \n(C) \"Dei-lho  livro ontem a ele\" \n(D) \"Dei-te ontem o livro pra ele\" \n(E) \"Eu dei o livro ontem a ele\""
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Considere os itens a seguir: \nI - Descritivo \nII - Complexo \nIII - Decifrável \nIV - Compreensível \nV - Objetivo \nDe acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta \ncorretamente o sinônimo de < enigmático =. \n(A)Apenas o item I está correto. \n(B)Apenas o item II está correto. \n(C)Apenas o item III está correto. \n(D)Apenas o item IV está correto. \n(E)Apenas o item V está correto. \nQUESTÃO 05 \nConsidere os itens a seguir: \nI - Egoísta \nII – Bondoso \nIII - Generoso \nIV - Solidário \nV - Companheiro \nDe acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta \ncorretamente o antônimo de <altruísta=.  \n(A)Apenas o item I está correto. \n(B)Apenas o item II está correto. \n(C)Apenas o item III está correto. \n(D)Apenas o item IV está correto. \n(E)Apenas o item V está correto. Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 4 de 13 ATENÇÃO \nLeia o texto a seguir para responder as questões 06 e 10.  \nA cigarra e a formiga. \nNum belo dia inverno as formigas, que eram conhecidas nas redondezas como trabalhadeiras, estavam \ntendo o maior trabalho para secar suas reservas de comidas. Depois de uma chuvarada, os grãos ti nham \nficado molhados. De repente aparece uma cigarra: \n– Por favor, formiguinhas, me deem um pouco de comida! \nAs formigas pararam de trabalhar, coisas que era contra seus princípios morais, e perguntaram: \n– Mas por quê? O que você fez durante o verão? Por acaso não se lembrou de guardar comida para o \ninverno? \nFalou a cigarra: \n– Para falar a verdade, não tive tempo. Passei o verão todo cantando! \nFalaram as formigas: \n– Bom... Se você passou o verão todo cantando, que tal passar o inverno dançando? \nE voltaram para o trabalho dando risadas. \n(ADAPTADO, ESOPO. A cigarra e a formiga. Disponível em< https://www.culturagenial.com/a-\ncigarra-e-a-formiga/ >.) \n \nQUESTÃO 06 \nCom relação ao texto acima, assinale a alternativa que indica corretamente o gênero textual.",
+            "alternativas": {
+                "A": "Crônica",
+                "B": "Relato Descritivo",
+                "C": "Conto",
+                "D": "Fábula",
+                "E": "Reportagem"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: De acordo com o texto, qual é o tema principal presente no texto \"A cigarra e a formiga\"?",
+            "alternativas": {
+                "A": "A importância de cantar.",
+                "B": "A importância da diversão e da alegria.",
+                "C": "A importância da honestidade.",
+                "D": "A importância de cumprir prazos.",
+                "E": "A importância da responsabilidade e do trabalho. \n \n Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 5 de 13 QUESTÃO 08 \nDe acordo com o texto, qual é o personagem da história \"A cigarra e a formiga\" mais organizado e \nresponsável? \n(A) A formiga \n(B) A cigarra \n(C) O cachorro \n(D) O gato \n(E) O rato"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: No texto, observamos a presença do <travessão=. De acordo com as regras gramaticais da Língua \nPortuguesa, qual é a função do travessão na pontuação de um texto?",
+            "alternativas": {
+                "A": "Indicar o início de um discurso direto.",
+                "B": "Separar itens em uma lista.",
+                "C": "Indicar a omissão de palavras em um texto.",
+                "D": "Indicar uma pausa mais longa do que a vírgula.",
+                "E": "Marcar a finalização de uma fala."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: De acordo com a narrativa, o que era considerado como o importante para as formigas?",
+            "alternativas": {
+                "A": "As estações do ano",
+                "B": "O descanso",
+                "C": "O trabalho",
+                "D": "A dança",
+                "E": "A música"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Considere os itens a seguir: \nI - Redundante \nII - Abundante \nIII - Efêmero \nIV - Desnecessário \nV – Limitado \nDe acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta \ncorretamente o antônimo de < escasso =. \n(A)Apenas o item I está correto. \n(B)Apenas o item II está correto. \n(C)Apenas o item III está correto. \n(D)Apenas o item IV está correto. \n(E)Apenas o item V está correto. \n \n Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 6 de 13 QUESTÃO 12 \nDe acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta \ncorretamente o uso da crase.",
+            "alternativas": {
+                "A": "Vou a praia todos os dias de manhã.",
+                "B": "Ele estava à procura de um emprego novo.",
+                "C": "A prova foi realizada a pedido dos alunos.",
+                "D": "Ela assistiu à filme que tanto queria ver.",
+                "E": "Preciso ir à escritório buscar meus documentos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: De acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta \ncorretamente o uso da crase na frase \"A aluna referiu-se ___ nota que recebeu na última prova\".",
+            "alternativas": {
+                "A": "à",
+                "B": "a",
+                "C": "à última",
+                "D": "a última",
+                "E": "nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Considere os itens a seguir: \nI - Prolixidade \nII - Verbosidade \nIII – Concisão \nIV - Circunlóquio \nV - Loquacidade \nDe acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta \ncorretamente o sinônimo de < laconismo =. \n(A)Apenas o item I está correto. \n(B)Apenas o item II está correto. \n(C)Apenas o item III está correto. \n(D)Apenas o item IV está correto. \n(E)Apenas o item V está correto. \n \n \n \n \n Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 7 de 13 QUESTÃO 15 \nDe acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta \ncorretamente o sentido figurado da palavra \" queimar \".",
+            "alternativas": {
+                "A": "A fogueira queimava intensamente na noite fria.",
+                "B": "A criança queimou a mão no fogão quente.",
+                "C": "O líquido no frasco do novo produto queimou rapidamente.",
+                "D": "A atitude do político queimou a sua imagem perante o eleitorado.",
+                "E": "O sol forte queimou a pele do turista na praia."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Considere os itens a seguir: \nI - Os livros que você me emprestou foi muito útil para o meu trabalho. \nII - O grupo de amigos foram ao cinema juntos. \nIII - A maioria dos alunos daquela turma escolheram História como disciplina optativa. \nIV - Cada um dos candidatos preparou suas propostas de governo. \nV - A cidade e as pessoas que vivem nela sofrem com a falta de saneamento básico. \nDe acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta \ncorretamente o(s) item(ns) escrito(s) com a devida concordância verbal.",
+            "alternativas": {
+                "A": "Apenas os itens I, II e V estão corretos.",
+                "B": "Apenas os itens I, III e IV estão corretos.",
+                "C": "Apenas os itens II e V estão corretos.",
+                "D": "Apenas os itens IV e V estão corretos.",
+                "E": "Apenas os itens I, II, IV e V estão corretos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Considere os itens a seguir: \nI -  A maioria dos professores da escola gostam de ensinarem literatura. \nII - Todos os jogadores da equipe jogaram bem ontem. \nIII - Minha mãe e meu pai me falou sobre a importância da educação. \nIV - A falta de atenção aos estudos são preocupantes. \nV - O número de vagas para o cargo de professor diminuiu neste ano. \nDe acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta \ncorretamente o(s) item(ns) escrito(s) com a devida concordância verbal.",
+            "alternativas": {
+                "A": "Apenas os itens III e V estão corretos.",
+                "B": "Apenas os itens I, III e IV estão corretos.",
+                "C": "Apenas os itens II e V estão corretos.",
+                "D": "Apenas os itens IV e V estão corretos.",
+                "E": "Apenas os itens I, II, IV e V estão corretos. Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 8 de 13 QUESTÃO 18 \nDe acordo com as regras gramaticais e norma culta da Língua Portuguesa, assinale a alternativa que \ncontém o antônimo da palavra < ínfimo =. \n(A) Pequeno. \n(B) Grande. \n(C) Forte. \n(D) Bonito. \n(E) Descuidado."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: De acordo com as regras gramaticais da Língua Portuguesa, assinale a alternativa que apresenta \ncorretamente o sentido próprio da palavra \" janela \".",
+            "alternativas": {
+                "A": "As janelas da casa eram feitas de vidro.",
+                "B": "O navio atravessou a janela do canal.",
+                "C": "A janela do quadro de horários estava alterada.",
+                "D": "O vendedor ofereceu uma janela para as estratégias de vendas.",
+                "E": "Os sonhos saíram janela a fora."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: De acordo com as regras gramaticais e norma culta da Língua Portuguesa, assinale a alternativa que \nindica a classe da palavra < magnífico =. \nA) Interjeição \n(B) Conjunção \n(C) Advérbio \n(D) Adjetivo \n(E) Verbo \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO \nQUESTÃO 21 \nAssinale a alternativa que apresenta o décimo quinto número ímpar sucessor de 589:",
+            "alternativas": {
+                "A": "619",
+                "B": "617",
+                "C": "611",
+                "D": "609",
+                "E": "607 \n Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 9 de 13 QUESTÃO 22 \nUma empresa de transporte possui atualmente uma frota de 1650 caminhões, mas pretende aumentar \nesse número em 20%. Se isso vier a ocorrer, o total de caminhões será de:  \n(A) 1920 \n(B) 1950 \n(C) 1980 \n(D) 1990 \n(E) 1998"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Assinale a alternativa que apresenta o resultado para a seguinte operação de multiplicação:  \n18 x 18 + 180",
+            "alternativas": {
+                "A": "498",
+                "B": "500",
+                "C": "504",
+                "D": "514",
+                "E": "524"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Assinale a alternativa que apresenta corretamente o resultado para a seguinte operação com números \ndecimais:  \n7,8 x 12,9",
+            "alternativas": {
+                "A": "99,10",
+                "B": "100,62",
+                "C": "101,52",
+                "D": "103,55",
+                "E": "105,41"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Uma loja de brinquedos vende 880 carrinhos elétricos por ano. No entanto, com a ampliação do local, \npretende aumentar as vendas em 35%, o que resultaria na seguinte quantidade:",
+            "alternativas": {
+                "A": "1188",
+                "B": "1198",
+                "C": "1210.",
+                "D": "2112.",
+                "E": "2120.  Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 10 de 13 QUESTÃO 26 \nAssinale a alternativa que apresenta o sétimo número par sucessor de 98.  \n(A) 104  \n(B) 106  \n(C) 108 \n(D) 112 \n(E) 114"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática.  \n32 x 9 + 60",
+            "alternativas": {
+                "A": "332",
+                "B": "334",
+                "C": "336",
+                "D": "338",
+                "E": "348"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Uma determinada imobiliária possui atualmente 125 casas para locação, mas em razão da crise \neconômica, acreditam que esse número aumentará em 40%. Se isso realmente se concretizar,  o total de \nresidências será de:",
+            "alternativas": {
+                "A": "170.",
+                "B": "172.",
+                "C": "175",
+                "D": "185",
+                "E": "190."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Assinale a alternativa que apresenta o décimo sexto número par sucessor de 888.",
+            "alternativas": {
+                "A": "910",
+                "B": "912.",
+                "C": "916",
+                "D": "918",
+                "E": "920. \n Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 11 de 13 QUESTÃO 30 \nEm uma determinada cidade há um efetivo policial de 2200 policiais, mas com investimento público, \naumentará esse número em 40%, o que resultará na seguinte quantidade de agentes: \n(A) 3.070 \n(B) 3.080 \n(C) 3.092  \n(D) 3.108 \n(E) 3.120"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Assinale a alternativa que apresenta corretamente o resultado para a seguinte operação com números \ndecimais:  \n116,1 – 45,9",
+            "alternativas": {
+                "A": "66,80",
+                "B": "67,90",
+                "C": "68,40",
+                "D": "69,10",
+                "E": "70,20"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática  \nenvolvendo multiplicação:  \n19 x 9 + 199",
+            "alternativas": {
+                "A": "354",
+                "B": "360",
+                "C": "370",
+                "D": "377",
+                "E": "380"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Uma determinada loja localizada no litoral comercializou no último ano 220 pranchas de surfe. No \nentanto, com mais investimento na área do turismo, pretende aumentar suas vendas em 30%. Se isso \nvier a ocorrer, a quantidade de pranchas vendidas será de:",
+            "alternativas": {
+                "A": "286.",
+                "B": "290.",
+                "C": "292.",
+                "D": "294.",
+                "E": "296.  Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 12 de 13 QUESTÃO 34 \nAssinale a alternativa que apresenta corretamente o oitavo número par antecessor de 715.  \n(A) 700 \n(B) 702.  \n(C) 704.  \n(D) 706 \n(E) 708"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática:  \n45 + 11 x 8",
+            "alternativas": {
+                "A": "119",
+                "B": "121",
+                "C": "123.",
+                "D": "133",
+                "E": "135."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Uma grande cidade do país recebeu, no último ano, 580 peças de teatro. No entanto, com novos teatros \nsendo construídos, pretende aumentar esse número em 15%. Se isso vier a ocorrer, a quantidade de \napresentações será a seguinte:",
+            "alternativas": {
+                "A": "667",
+                "B": "669.",
+                "C": "671.",
+                "D": "672.",
+                "E": "673."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Assinale a alternativa que apresenta corretamente o resultado para a seguinte operação envolvendo \ndivisão  e multiplicação :  \n20 : 5 x 19",
+            "alternativas": {
+                "A": "73.",
+                "B": "74.",
+                "C": "75.",
+                "D": "76",
+                "E": "77. \n \n Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO \n \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                              Página 13 de 13 QUESTÃO 38 \nAssinale a alternativa que apresenta o resultado correto para a seguinte operação envolvendo números \ndecimais:  \n19,4 + 88,7 \n(A) 160,7  \n(B) 107,1 \n(C) 108,1 \n(D) 109,1 \n(E) 110,7"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Assinale a alternativa que apresenta o décimo quarto número par antecessor de 299:",
+            "alternativas": {
+                "A": "270.",
+                "B": "272",
+                "C": "276",
+                "D": "280",
+                "E": "282"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Assinale a alternativa que apresenta corretamente o resultado para a seguinte operação envolvendo \nmultiplicação  e divisão:   \n9 x 11 : 3",
+            "alternativas": {
+                "A": "53",
+                "B": "45",
+                "C": "43",
+                "D": "33",
+                "E": "30"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Na charge apresentada, de Laerte Coutinho, o personagem faz uma referência ao conto infantil “João \ne o pé de feijão”. Isso porque:",
+            "alternativas": {
+                "A": "a árvore de Natal gerada pelo programa de computador é gigante.",
+                "B": "a história de João e o pé de feijão tem o mesmo tema de Natal.",
+                "C": "os ovos de ouro são uma metáfora relacionada ao Natal.",
+                "D": "ele acredita que a árvore de Natal é um pé de feijão.",
+                "E": "a árvore de Natal não era virtual."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: A palavra “programinha”, que ocorre na primeira fala da charge, é um:",
+            "alternativas": {
+                "A": "substantivo comum no aumentativo.",
+                "B": "adjetivo positivo.",
+                "C": "adjetivo superlativo.",
+                "D": "substantivo comum no diminutivo.",
+                "E": "substantivo composto no diminutivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: A expressão “em cima”, que ocorre na última fala da charge, é uma locução adverbial que exprime \numa circunstância de:",
+            "alternativas": {
+                "A": "negação.",
+                "B": "lugar.",
+                "C": "intensidade.",
+                "D": "condição.",
+                "E": "tempo.  \nPrefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                            Página 3 de 11 QUESTÃO 04 \nA forma verbal “acabo”, que ocorre na primeira fala da charge, está conjugada no modo:  \n(A) indicativo.  \n(B) subjuntivo.  \n(C) imperativo.  \n(D) infinitivo.  \n(E) gerúndio."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: As palavras “com” e “em”, que ocorrem na última fala da charge, pertencem à classe gramatical:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "artigo.",
+                "C": "conjunção.",
+                "D": "preposição.",
+                "E": "advérbio."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Todas as palavras que ocorrem no primeiro quadrinho exprimem sentido literal, exceto:",
+            "alternativas": {
+                "A": "programinha.",
+                "B": "clima.",
+                "C": "natal.",
+                "D": "meu.",
+                "E": "computador."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Na sentença “Acabo de instalar um programinha que dá “um clima de Natal” no meu computador”, \nque ocorre na primeira fala da charge, são palavras da classe dos verbos apenas:",
+            "alternativas": {
+                "A": "acabo; instalar.",
+                "B": "acabo; dá.",
+                "C": "acabo; instalar; dá.",
+                "D": "instalar; dá.",
+                "E": "instalar.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                            Página 4 de 11  \nLeia a charge para responder às questões de 8 a 13.   \n \n \nWATTERSON II, W. B. Calvin & Haroldo . 1987."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: A reação de Haroldo no último quadrinho permite inferir que ele:",
+            "alternativas": {
+                "A": "acredita que a vida seja predestinada.",
+                "B": "desdenha da ideia de Calvin.",
+                "C": "tem receio de que as coisas sejam inevitáveis.",
+                "D": "tenta convencer Calvin de que existe destino.",
+                "E": "tenta convencer Calvin de que não existe destino.  \n \n \nPrefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                            Página 5 de 11 QUESTÃO 09 \nEm relação à regência, o verbo “acreditar”, que ocorre no primeiro quadrinho, é:  \n(A) transitivo direto.  \n(B) transitivo indireto.  \n(C) intransitivo.  \n(D) transitivo direto e indireto.  \n(E) pronominal."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: O significado da locução “a gente”, empregada na fala de Calvin, é o mesmo de um pronome pessoal, \nque se refere à:",
+            "alternativas": {
+                "A": "primeira pessoa do singular.",
+                "B": "segunda pessoa do singular.",
+                "C": "terceira pessoa do singular.",
+                "D": "primeira pessoa do plural.",
+                "E": "terceira pessoa do plural."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: As palavras “inevitáveis” e “assustador” pertencem à classe gramatical:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "advérbio.",
+                "C": "adjetivo.",
+                "D": "conjunção.",
+                "E": "verbo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: O elemento que estabelece relação direta de concordância com o verbo “são” é:",
+            "alternativas": {
+                "A": "“as coisas que a gente faz”.",
+                "B": "“faz”.",
+                "C": "“nossa vida”.",
+                "D": "“a gente”.",
+                "E": "“inevitáveis”.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                            Página 6 de 11 QUESTÃO 13  \nA palavra “que”, que ocorre no segundo quadrinho, desempenha o papel gramatical de:  \n(A) pronome interrogativo.  \n(B) conjunção.  \n(C) preposição.  \n(D) pronome relativo.  \n(E) substantivo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Assinale a alternativa em que a palavra destacada é classificada gramaticalmente como advérbio.",
+            "alternativas": {
+                "A": "Eles foram ao mercado .",
+                "B": "José é um ótimo  escritor.",
+                "C": "As entrevistas duraram pouco .",
+                "D": "Lamento  por não ter ido à festa de aniversário.",
+                "E": "Contei a ele tudo o que sabia sobre o ocorrido."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Analise as alternativas a seguir e assinale aquela em que todas as palavras apresentadas são trissílabas.",
+            "alternativas": {
+                "A": "hipótese; malária; portão.",
+                "B": "cafeína; cruzado; prestação.",
+                "C": "cuscuz; corrente; palavra.",
+                "D": "verbas; afunilar; chacoalhar.",
+                "E": "versátil; perfeita; amável."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Assinale a alternativa em que todas as palavras são substantivos femininos.",
+            "alternativas": {
+                "A": "planeta, cometa, luneta.",
+                "B": "mulher, grade, programa.",
+                "C": "moita, luz, alface.",
+                "D": "série, estudante, clima.",
+                "E": "rede, jogo, tipo.  \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                            Página 7 de 11 QUESTÃO 17  \n“Os cozinheiros e serviçais especulavam a respeito do que poderia sobejar  da celebração festiva \nrealizada no palácio.” A palavra “sobejar” exprime o mesmo sentido que:  \n(A) concluir.   \n(B) resultar.  \n(C) carecer.  \n(D) escassear.   \n(E) sobrar."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Assinale a alternativa em que a conjugação do verbo da sentença indica a segunda pessoa do plural.",
+            "alternativas": {
+                "A": "Retornara mais cedo da viagem.",
+                "B": "Os infortúnios desse acontecimento são muitos.",
+                "C": "Pensarás com carinho nessa proposta, em respeito à amizade que temos.",
+                "D": "Subjugastes aquele rapaz injustamente.",
+                "E": "Façamos as pazes!"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Assinale a alternativa em que, na sentença apresentada, o pronome destacado é do tipo pessoal do \ncaso oblíquo.",
+            "alternativas": {
+                "A": "Minhas  coisas foram roubadas.",
+                "B": "Este é o livro de que te falei.",
+                "C": "As meninas  se produziram para a festa de carnaval.",
+                "D": "Não esperava por essa atitude.",
+                "E": "Nós temos um novo acordo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: São palavras oxítonas:",
+            "alternativas": {
+                "A": "beira; fúria; figo.",
+                "B": "cantil; nó; céu.",
+                "C": "círio; avó; perfeito.",
+                "D": "ambiente; catástrofe; mundo.",
+                "E": "tenaz; carniça; música.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                            Página 8 de 11 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Ana está redecorando sua sala e precisa comprar \numa nova mesa. Ela encontrou uma mesa que \npossui um comprimento de 2,5 metros. No \nentanto, Ana quer visualizar essa medida de \nforma mais precisa para garantir que a mesa se \nencaixe perfeitamente no espaço dis ponível em \nsua sala. Para isso, ela decide converter o \ncomprimento da mesa de metros para \ncentímetros. Qual será a medida da mesa em \ncentímetros?",
+            "alternativas": {
+                "A": "25 centímetros",
+                "B": "2.050 centímetros",
+                "C": "100 centímetros",
+                "D": "250 centímetros",
+                "E": "2.500 centímetros"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Considere a sequência: Z, 1, Y, 2, X, 3, W, 4, V, \n5, . Qual é o 20º termo dessa sequência?",
+            "alternativas": {
+                "A": "10",
+                "B": "Q",
+                "C": "O",
+                "D": "9",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Em uma fábrica, 25% dos funcionários têm \ntreinamento em segurança industrial, e o restante \nnão possui esse treinamento.  \nSe o total de funcionários sem treinamento em \nsegurança industrial é igual a 600, então o \nnúmero total de funcionários nesta fábrica é:",
+            "alternativas": {
+                "A": "Maior que 800.",
+                "B": "Maior que 700 e menor que 800.",
+                "C": "Maior que 700 e menor que 750.",
+                "D": "Maior que 1000 e menor que 800.",
+                "E": "Nenhuma das alternativas  \n \n \n QUESTÃO 24  \nEm uma loja de eletrônicos, uma pessoa compra \ndois smartphones e um tablet, gastando no total \nR$ 7.200,00. Se o preço de um smartphone é \ndesconhecido e o preço de um tablet é de R$ \n2.200,00, qual é o preço de um smartphone?  \n(A) R$ 2.200,00  \n(B) R$ 2.100,00  \n(C) R$ 5.000,00  \n(D) R$ 2.500,00  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Na conveniência de um posto de gasolina, Rafael \ntem uma média de vendas diárias de R$ 55,00 em \ncigarros. Se ele mantiver essa  valor de vendas \ndurante 30 dias consecutivos, qual será o total de \nvendas de cigarros ao final dos 30 dias?",
+            "alternativas": {
+                "A": "R$ 1650,00",
+                "B": "R$ 1750,00",
+                "C": "R$ 1850,00",
+                "D": "R$ 1550,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Maria foi fazer compras e percebeu que o troco \ndeveria ser de R$ 7,50 . Porém  o estabelecimento \nsó tinha moedas para dar o troco. Qual seria a \nmenor quantidade de moedas que ela poderia \nreceber como troco, considerando que as moedas \ndisponíveis são de R$ 1,00 e R$ 0,50?",
+            "alternativas": {
+                "A": "15 moedas de R$ 0,50",
+                "B": "6 moedas de R$ 1,00 e 3 moedas de R$ 0,50",
+                "C": "5 moedas de R$ 1,00 e 5 moedas de R$ 0,50",
+                "D": "14 moedas de R$ 0,50 e 1 moeda de R$ 1,00",
+                "E": "7 moedas de R$ 1,00 e 1 moeda de R$ 0,50  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                            Página 9 de 11 QUESTÃO 27  \nQual é o resultado para a seguinte operação:  \n31,5 x 8,4 – 12: \n \n(A) 252,60  \n(B) 264,60  \n(C) 113,4  \n(D) - 113,4  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Um aquário retangular tem as seguintes \ndimensões: comprimento  de 1,5 metros, \nlargura  de 1 metro e altura  de 0,8 metro. Qual é \no volume total de água, em litros, que o aquário \npode armazenar?",
+            "alternativas": {
+                "A": "1.100 litros",
+                "B": "1.080 litros",
+                "C": "2.000 litros",
+                "D": "1.200 litros",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Em um edifício onde todos os andares têm \napenas números pares, e cada andar possui \nexatamente 4 apartamentos, considere um prédio \nde 12 andares. Qual é o número do último \napartamento nesse edifício?",
+            "alternativas": {
+                "A": "46",
+                "B": "48",
+                "C": "60",
+                "D": "96",
+                "E": "Nenhuma das alternativas  \n \n \n \n \n \n \n QUESTÃO 30  \nEm uma loja de eletrônicos, um cliente comprou \num smartphone por R$ 1.200,00 e dois fones de \nouvido por R$ 150,00 cada. O vendedor ofereceu \num desconto de 15% no total da compra. Qual é \no valor final que o cliente pagou por sua compra?  \n \n(A) R$ 1.500,00  \n(B) R$ 1.275,00  \n(C) R$ 1.350,00  \n(D) R$ 1.147,50  \n(E) R$ 1.197,50"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Mariana corrigiu 40% das questões da prova de \nPedro, totalizando 12 questões. Com base nessa \ninformação, é correto concluir que o número de \nquestões da prova é igual a:",
+            "alternativas": {
+                "A": "20",
+                "B": "25",
+                "C": "30",
+                "D": "35",
+                "E": "40"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Para regar seu jardim, Carlos utiliza 10 litros de \nágua para cada 5 metros quadrados de área. Se o \njardim de Carlos possui 20 metros quadrados, \nquantos litros de água ele precisará para regar o \njardim?",
+            "alternativas": {
+                "A": "12 litros",
+                "B": "35 litros",
+                "C": "40 litros",
+                "D": "60 litros",
+                "E": "45 litros  \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                            Página 10 de 11 QUESTÃO 33  \nSe um projeto leva 2 horas para ser concluído por \num funcionário, e ele precisa realizar esse projeto \n12 vezes, qual será o tempo total que ele levará \npara concluir todos os projetos?  \n(A) 20 horas  \n(B) 24 horas  \n(C) 30 horas  \n(D) 26 horas  \n(E) 40 horas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Em uma loja de roupas, uma camiseta custa R$ \n60,00. Durante uma promoção de liquidação, o \npreço da camiseta é reduzido em 20%. Se Maria \ncomprou três dessas camisetas durante a \npromoção, quanto ela pagou no total pelas três \ncamisetas?",
+            "alternativas": {
+                "A": "R$ 144,00",
+                "B": "R$ 180,00",
+                "C": "R$ 72,00",
+                "D": "R$ 160,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Lucas comprou 40 metros de fio elétrico por R$ \n1,20 o metro e uma lâmpada por R$ 6,80. Se ele \npagou com uma nota de R$ 100,00, qual foi o \ntroco que Lucas recebeu?",
+            "alternativas": {
+                "A": "R$ 41,20",
+                "B": "R$ 42,20",
+                "C": "R$ 43,20",
+                "D": "R$ 44,20",
+                "E": "R$ 45,20"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: Para fazer um bolo que serve 8 pessoas, Laura \nutiliza 2 xícaras de farinha de trigo. Quantas \nxícaras de farinha de trigo ela precisará para fazer \num bolo para 12 pessoas?",
+            "alternativas": {
+                "A": "2,5 xícaras",
+                "B": "3 xícaras",
+                "C": "3,5 xícaras",
+                "D": "4 xícaras",
+                "E": "Nenhuma das alternativas  \n \n QUESTÃO 37  \nUm tanque de combustível tem capacidade para \n60 litros de etanol. Se o preço do etanol é R$ 4,50 \npor litro, quanto custa para encher o tanque?  \n \n(A) R$ 260,00  \n(B) R$ 265,00  \n(C) R$ 270,00  \n(D) R$ 275,00  \n(E) R$ 295,00"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29: Paula desafiou seu irmão João a descobrir o dia \nda semana após 42 dias. João, que estava \nconcentrado nos estudos, respondeu \ncorretamente que, se aquele dia fosse uma \nsegunda -feira, dali a 42 dias seria:",
+            "alternativas": {
+                "A": "Terça -feira",
+                "B": "Domingo",
+                "C": "Segunda -feira",
+                "D": "Sábado",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30: Uma loja está oferecendo um desconto de 15% \nem todos os produtos durante uma liquidação. Se \num item custa originalmente R$ 120,00, qual será \no preço final após o desconto?",
+            "alternativas": {
+                "A": "R$ 90,00",
+                "B": "R$ 102,00",
+                "C": "R$ 105,00",
+                "D": "R$ 112,00",
+                "E": "R$ 117,30"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS GERAIS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31: Assinale a alternativa que apresenta o \nSexagésimo primeiro número par antecessor de \n776.",
+            "alternativas": {
+                "A": "716",
+                "B": "654",
+                "C": "837",
+                "D": "898",
+                "E": "Nenhuma das alternativas  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nAJUDANTE DE SERVIÇOS GERAIS                                                                                                            Página 11 de 11"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

@@ -1,3 +1,816 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3152a805fb8d1b3ba84f342ea6c9b4b0fcdcfefe7b45646a15cb5f1cdcdc3203
-size 67933
+{
+    "OPERADOR HIDRÁULICO": [
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, é correto afirmar que:",
+            "alternativas": {
+                "A": "até o final dos anos 2020, o planeta terá \natingido o limite de aquecimento projetado pelo \nAcordo de Paris para 2100.",
+                "B": "o aquecimento global havia diminuído 0,5ºC \nno período pré -industrial.",
+                "C": "na última década, o aquecimento global foi \nde 2,5ºC.",
+                "D": "durante o período pré -industrial, não havia \nqualquer indício de aquecimento global.",
+                "E": "houve um aumento na temperatura do planeta \napenas entre os anos de 2010 e 2012."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: De acordo com o texto, todas as afirmativas a \nseguir a respeito dos esqueletos das esponjas \nutilizados na investigação do aquecimento global \nsão verdadeiras, exceto :",
+            "alternativas": {
+                "A": "funcionam como um termômetro em função \nda variabilidade na proporção de estrôncio e \ncálcio que apresentam.",
+                "B": "são típicas de uma região onde a temperatura \nda água é estável em relação a intempéries.",
+                "C": "são encontradas em uma profundidade cuja \ntemperatura da água está alinhada com a da \natmosfera.",
+                "D": "podem fornecer evidências da temperatura \ndo planeta em séculos passados.",
+                "E": "são evidências mais precisas da temperatura \ndo planeta, em comparação com núcleos de gelo \ne anéis de árvores.  \n \nConsidere o excerto a seguir para responder \nàs questões 3 e 4:   \n \n“Cada proxy de temperatura que encontrarmos \nterá problemas, ressalvas e limitações. Portanto, \né uma questão de juntar o máximo de proxies \npossível”, afirma Hendry.  \n \n QUESTÃO 03 \nO excerto apresentado está em discurso direto. \nAssinale a alternativa em que o mesmo excerto é \npassado para discurso indireto corretamente.   \n(A) Hendry afirmou que cada proxy de \ntemperatura que encontrassem teria problemas, \nressalvas e limitações, e que, portanto, era uma \nquestão de juntar o máximo de proxies possível.  \n(B) Hendry afirma que cada proxy de \ntemperatura que encontrarmos terá problemas, \nressalvas e limitações. Portanto, é uma questão \nde juntar o máximo de proxies possível.  \n(C) Hendry afirma que cada proxy de \ntemperatura que encontrarem terá problemas, \nressalvas e limitações. Portanto, é uma questão \nde juntar o máximo de proxies possível.  \n(D) Hendry afirmou que cada proxy de \ntemperatura que encontrarem teria problemas, \nressalvas e limitações. Portanto, era uma questão \nde juntar o máximo de proxies possível.  \n(E) Hendry afirmou que cada proxy de \ntemperatura que encontrarão terá problemas, \nressalvas e limitações, e que, portanto, foi uma \nquestão de juntar o máximo de proxies possível."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: No excerto dado, o vocábulo “ portanto”  é \nutilizado para:",
+            "alternativas": {
+                "A": "adicionar um novo fato à argumentação.",
+                "B": "explicar a causa para um acontecimento \nenunciado anteriormente.",
+                "C": "contrapor um fato enunciado anteriormente.",
+                "D": "indicar a finalidade de um acontecimento \nenunciado anteriormente.",
+                "E": "concluir uma colocação enunciada \nanteriormente.  \n \nConsidere o excerto a seguir para responder à \nquest ão 5: \n \nSabe -se que a Terra está ficando cada vez mais \nquente devido à atividade humana, mas o \naumento exato relativo aos níveis pré -industriais \né alvo de discussões. Há cientistas que defendem \nque mais estudos precisam ser feitos, utilizando \nmétodos e fontes variados.  SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 4 de 12 QUESTÃO 05 \nOs papéis gramaticais dos vocábulos “que” , em \ndestaque no excerto apresentado, são, \nrespectivamente, de:  \n(A) pronome relativo, pronome relativo e \npronome interrogativo.  \n(B) conjunção integrante, pronome interrogativo \ne conjunção causal.  \n(C) conjunção integrante, pronome relativo e \nconjunção integrante.  \n(D) pronome interrogativo, conjunção integrante \ne conjunção integrante.  \n(E) conjunção causal, pronome relativo e \npronome interrogativo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Analise as sentenças a seguir e assinale a \nalternativa em que a qualidade expressa pelo \nadjetivo está no grau superlativo absoluto \nanalítico.",
+            "alternativas": {
+                "A": "O professor elaborou questões dificílimas \npara a prova de matemática.",
+                "B": "As passistas dessa escola de samba são \nextremamente elegantes.",
+                "C": "Esse roteiro de viagem é tão interessante \nquanto o outro.",
+                "D": "Vanessa está cansada, por isso não foi à \nescola.",
+                "E": "É a aluna mais comportada dentre as de sua \nturma."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Analise as sentenças a seguir e assinale a \nalternativa em que a palavra se atua como \npartícula expletiva.",
+            "alternativas": {
+                "A": "Marina feriu -se com a tesoura.",
+                "B": "Ela não sabe se sua irmã está chateada.",
+                "C": "Foi -se embora sem deixar explicações.",
+                "D": "As coisas ficarão ainda mais complicadas se \nnão tomarmos uma atitude agora.",
+                "E": "Vendem -se pães e doces caseiros.  QUESTÃO 08 \nConsidere a sentença: Amofina -se ___ a falta de \ndinheiro . No contexto apresentado, o verbo \n“amofinar -se” requer a preposição:  \n \n(A) em.  \n(B) para.  \n(C) sobre.  \n(D) com.  \n(E) a."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir e assinale a \nalternativa em que há desvio de concordância \nverbal ou nominal.",
+            "alternativas": {
+                "A": "Tanto criança quanto adulto precisam de \nalimentação saudável.",
+                "B": "Na segunda -feira de carnaval, algumas \nmilhares de pessoas foram às ruas.",
+                "C": "Os povos originários devem ser protegidos e \nrespeitados por todos.",
+                "D": "Foram ao espetáculo a garota e sua mãe.",
+                "E": "Três cães e uma galinha foram encontrados \nnesta manhã em situação de maus -tratos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Assinale a alternativa em que a palavra \napresentada está incorreta quanto à acentuação \ngráfica.",
+            "alternativas": {
+                "A": "fétido.",
+                "B": "quóruns.",
+                "C": "mártires.",
+                "D": "bocaiúva.",
+                "E": "balaústre.  \n \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 5 de 12 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Uma estrutura será feita com barras de aço, que têm todas o mesmo comprimento de 20 cm. As barras \nserão soldadas de modo que no encontro entre duas barras haja um comprimento sobreposto, chamado \nde 𝑎, conforme a figura:  \n \nSabendo -se que foram utilizadas 21 barras, e que o comprimento total da estrutura foi 2,8 metros, \nindique o comprimento 𝑎 da sobreposição:",
+            "alternativas": {
+                "A": "5 cm.",
+                "B": "6 cm.",
+                "C": "7 cm.",
+                "D": "8 cm.",
+                "E": "9 cm."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Um quadrado feito com papel tem lado 20 cm. Do centro deste quadrado será retirado um recorte \ncircular de raio 𝑎 menor que 10 cm. Qual deve ser o valor de 𝑎, aproximadamente, para que a área do \npapel após o recorte seja 81,25% da área do papel original? Considere 𝜋≈3.",
+            "alternativas": {
+                "A": "6,7 cm.",
+                "B": "6,0 cm.",
+                "C": "4,5 cm.",
+                "D": "5,5 cm.",
+                "E": "5,0 cm."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Numa equipe de jogadores de vôlei há 6 jogadores em quadra. Sabe -se que a média das alturas dos seis \njogadores dessa equipe é 2,00 metros. Além disso, sabe -se também que a média das alturas dos três \nprimeiros jogadores é 2,05 m. Qual a média das alturas do s três últimos jogadores?",
+            "alternativas": {
+                "A": "1,95 m.",
+                "B": "2,00 m.",
+                "C": "2,05 m.",
+                "D": "1,90 m.",
+                "E": "1,99 m.  \nSAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 6 de 12 QUESTÃO 1 4 \nUma onça líquida  (fl. oz.) é uma unidade de medida de volume utilizada em alguns países como \nEstados Unidos e Canadá. Comparado ao Sistema Internacional de medidas, 1 fl oz equivale a \naproximadamente 30 ml. Neste caso, quanto vale 600 cm3 em onças líquidas?  \n(A) 0,02.  \n(B) 0,2.  \n(C) 2.  \n(D) 20.  \n(E) 200."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Uma empresa assume a política de devolver o dinheiro da mercadoria ao cliente caso ela apresente \ndefeito. O gráfico abaixo mostra o número de trocas (devoluções) de uma determinada mercadoria em \nfunção do número de meses após a compra:  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSabe -se que se o cliente trocar a mercadoria em até 6 meses após a compra, a empresa devolve \ncompletamente o valor da mercadoria. Se a troca acontecer após os 6 meses iniciais, a empresa devolve \nsomente 20% do valor da mercadoria. Sabendo -se que o valor desse produto é R$120,00, com base nos \ndados do gráfico, quanto foi gasto pela empresa com trocas dessa mercadoria?",
+            "alternativas": {
+                "A": "R$ 15.960,00.",
+                "B": "R$ 19.920,00.",
+                "C": "R$ 17.800,00.",
+                "D": "R$ 18.480,00.",
+                "E": "R$ 16.880,00.  \nSAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 7 de 12 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Entre os novos recursos da interface Aero no \nWindows 7, está a possibilidade de navegação \npelos aplicativos abertos a partir de uma pilha de \njanelas em formato tridimensional, por meio da \ncombinação das teclas ___________. Esse \nrecurso é denominado Flip 3D  e depende da \ninterface Aero estar ativa. Já o método de \nnavegação tradicional pelas teclas ________ \napresenta uma miniatura dos aplicativos em uma \njanela específica.  \nAnalise e indique a alternativa que preenche, \nrespectivamente, as lacunas no texto acima.",
+            "alternativas": {
+                "A": "[CTRL] + [C]; [CTRL] + [V]",
+                "B": "[CTRL] + [P]; [CTRL] + [SHIFT] + [T]",
+                "C": "[ALT] + [A]; [CAPS LOCK]",
+                "D": "[WINDOWS] + [TAB]; [ALT] + [TAB]",
+                "E": "[WINDOWS] + [B]; [CTRL] + [ALT] + \n[DELETE]"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Associe os componentes presentes no MS Word \n2016 com suas respectivas funções:  \nI) Barra de Ferramentas de Acesso Rápido  \nII) Barra de Status  \nIII) Guias de Navegação  \n \na) Exibe informações como número de páginas \nque o documento contém e em que página se está \neditando.  \nb) Acesso aos comandos para trabalhar com o \ndocumento, como formatação de texto, inserção \nde parágrafo, etc.  \nc) Comandos de rápido acesso, normalmente os \nque mais são utilizados, como Salvar, Desfazer e \nRepetir.",
+            "alternativas": {
+                "A": "I - c; II - b; III - a.",
+                "B": "I - b; II - c; III - a.",
+                "C": "I - c; II - a; III - b.",
+                "D": "I - a; II - b; III - c.",
+                "E": "I - a; II - c; III - b. QUESTÃO 18 \nUm usuário do MS Word 2016 digita todo um \ndocumento na ferramenta. Como título do texto \ndigitado, ele insere “Via -Láctea”. O usuário \nseleciona o título e, agora, deseja aumentar o \ntamanho da fonte do título através de um atalho \ndo teclado. Quais teclas de atalho o usuário \nutilizou para completar a ação?  \n \n(A) <Ctrl+>>  \n(B) <Ctrl+<>  \n(C) <Ctrl+I>  \n(D) <Ctrl+B>  \n(E) <Ctrl+A>"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Dentro da ferramenta MS Word 2016, no grupo \nFonte, o Drop -down exerce a principal função \nde:",
+            "alternativas": {
+                "A": "formatar o texto selecionado em itálico.",
+                "B": "negritar o texto selecionado.",
+                "C": "aumentar o tamanho da fonte.",
+                "D": "reduzir o tamanho da fonte.",
+                "E": "abrir um menu suspenso, quando acionado."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Qual das seguintes alternativas apresenta um \ncaso de uso do efeito ‘Subscrito’ no MS Word \n2016?",
+            "alternativas": {
+                "A": "Selecionar o texto e, em seguida, adicionar o \nefeito ‘Subscrito’ para adicionar uma linha de \nsublinhado no texto para destaque.",
+                "B": "Selecionar um caractere e aplicar o efeito \n‘Subscrito’ para inserir o texto selecionado \nabaixo da linha do texto em tamanho reduzido.",
+                "C": "Adicionar um título e adicionar o efeito \n‘Subscrito’ para negrita -lo.",
+                "D": "Inserção de texto com fonte diferente da \nexistente no documento.",
+                "E": "Edição de alinhamento justificado no \ndocumento.  SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 8 de 12 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Atento aos conceitos que envolvem a segurança \nno ambiente de trabalho, um risco representa \numa situação que pode causar um acidente ou \numa fonte potencial de causar danos à saúde do \ntrabalhador.  \n \nAssinale a alternativa que apresenta um exemplo \nde risco no ambiente de trabalho:",
+            "alternativas": {
+                "A": "Leitura de mapa de risco.",
+                "B": "Manuseio de produtos perigosos.",
+                "C": "Uso de Equipamentos de Proteção \nIndividual.",
+                "D": "Treinamento relacionados as normas de \nsegurança.",
+                "E": "Atraso do profissional no horário do início \ndas atividades."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Assinale a alternativa que descreve um dos \ndesvios de comportamento do trabalhador que \nsuscita um ato inseguro, proporcionando a \npossibilidade da ocorrência de um acidente de \ntrabalho:",
+            "alternativas": {
+                "A": "Ficar sob cargas suspensas.",
+                "B": "Emprego apropriado de ferramentas.",
+                "C": "Uso de ferramentas manuais para o trabalho.",
+                "D": "Profundo conhecimento dos riscos de \nacidente presentes em sua área de atuação.",
+                "E": "Participação constante em treinamentos \nsobre as normas de segurança das atividades \ndesenvolvidas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Considerando as normas relacionadas ao uso dos \nEquipamentos de Proteção Individual, assinale a \nalternativa que descreve uma das incumbências \natribuídas exclusivamente ao trabalhador:",
+            "alternativas": {
+                "A": "Comprar o EPI adequado para a atividade \nque será executada.",
+                "B": "Buscar por treinamentos que expliquem de \nmaneira adequada o uso do EPI.",
+                "C": "Responsabilizar -se pela melhoria da \nqualidade do EPI que deu origem ao CA.",
+                "D": "Fiscalizar a qualidade do EPI.",
+                "E": "Responsabilizar -se pela guarda do EPI.  \n QUESTÃO 24  \nConsiderando as definições presentes na \nResolução CONAMA N° 454, de 1º de \nnovembro de 2012, a avaliação da acumulação de \nsubstâncias químicas em organismos por meio do \ncontato direto com o sedimento refere -se a: \n(A) Avaliação de sedimentos.  \n(B) Avaliação de bioacumulação.  \n(C) Avaliação de depósito.  \n(D) Avaliação de eutrofização.  \n(E) Avaliação de secagem."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Em conformidade com a Resolução CONAMA \nN° 454, de 1º de novembro de 2012, que \nestabelece as diretrizes gerais e os procedimentos \nreferenciais para o gerenciamento do material a \nser dragado em águas sob jurisdição nacional e a \nsua disposição final, é correto afirmar que:",
+            "alternativas": {
+                "A": "Terras caídas correspondem ao material que \nserá retirado ou deslocado do leito dos corpos \nd'água por meio da atividade de dragagem.",
+                "B": "Para caracterizar as intervenções e os \nprocessos de dragagem deverá ser apresentado ao \nórgão ambiental licenciador plano conceitual de \ndragagem, que conterá o registro do total de \nprofissionais que atuarão na drenagem.",
+                "C": "Para caracterizar as intervenções e os \nprocessos de dragagem deverá ser apresentado ao \nórgão ambiental licenciador plano conceitual de \ndragagem, que conterá o horário de escavação e \ndas atividades ininterruptas.",
+                "D": "Nas áreas destinadas à disposição do material \ndragado, enquanto ocorrer a disposição, a \natividade de pesca deverá ser suspensa, pelo \nórgão competente.",
+                "E": "É recomendada, para fins de diluição dos \nsedimentos, antes de sua disposição em águas \nsob jurisdição nacional, a mistura com \nsedimentos de melhor qualidade.  \n \n \n \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 9 de 12 QUESTÃO 26  \nAssinale a alternativa que completa corretamente \na lacuna do texto a seguir, em conformidade com \na Resolução CONAMA N° 454, de 1º de \nnovembro de 2012:  \n \nArt. 16. A disposição do material dragado no solo \nou em águas sob jurisdição nacional considerará \na sua caracterização e classificação, as técnicas e \nmetodologias de disposição e as características \nfísicas, químicas e ___________ da área de \ndisposição.  \n(A) econômicas  \n(B) preservacionistas  \n(C) biológicas  \n(D) ambientais  \n(E) culturais"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Resolução CONAMA N° 454, de 1º de \nnovembro de 2012, define que a localização do \npolígono de disposição do material dragado em \náguas sob jurisdição nacional deverá ser definida \ncom base em levantamento prévio que considere, \nentre outros:",
+            "alternativas": {
+                "A": "A opinião pública sobre o as localizações \nelegíveis.",
+                "B": "A temperatura do material que será disposto.",
+                "C": "A compactação do material que será \ndisposto.",
+                "D": "A escoabilidade do material que será \ndisposto.",
+                "E": "A viabilidade econômica da operação de \ndragagem."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: A dragagem é o processo de remoção de \nmateriais como areia, lodo ou rochas do fundo de \ncorpos d’água como rios. Um dos objetivos da \ndragagem corresponde a:",
+            "alternativas": {
+                "A": "Reduzir o volume de água dos rios.",
+                "B": "Reduzir a presença de peixes invasores no \nambiente drenado.",
+                "C": "Melhorar a profundidade dos corpos d’água \npara a navegação segura de embarcações.",
+                "D": "Ampliação da matriz energética regional.",
+                "E": "Ampliação da biodiversidade regional.  \n \n QUESTÃO 29  \nÉ a Draga mecânica que consiste em uma \nretroescavadeira sobre um pontão, capaz de \ndragar solos com altos índices de SPT. \nDependendo do seu porte, pode ser \nautopropelida. Sua capacidade de caçamba pode \nchegar a 40 m³.  \n \n(A) Draga de sucção.  \n(B) Draga Clamshell.  \n(C) Draga estabilizadora.  \n(D) Cutter Suction Dredge.  \n(E) Draga Backhoe."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Em serviços de dragagem o integral \nconhecimento do solo marinho a ser dragado é de \ncapital importância para o sucesso do \nempreendimento.  \nPara a caracterização do solo marinho podem ser \nutilizados dados sonográficos, dados sísmicos e \ndados:",
+            "alternativas": {
+                "A": "Geotécnicos.",
+                "B": "Sísmicos.",
+                "C": "Pluviométricos.",
+                "D": "Cataclísmicos.",
+                "E": "Peripatéticos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: No que diz respeito aos tipos de dragagem \nexistentes, analisar as afirmações a seguir:  \n \nI. A Dragagem de Manutenção é realizada para \nrestabelecer total ou parcialmente as cotas \noriginalmente licenciadas.  \nII. Dragagem de Implantação é realizada para \nimplantação, ampliação ou aprofundamento de \ncanais de navegação, bacias de evolução e outras \nobras ou serviços de engenharia na massa \nlíquida.  \nIII. A Dragagem de Mineração é realizada para a \nmelhoria das condições ambientais ou sanitárias.  \nEstá(ão) Correto(s):",
+            "alternativas": {
+                "A": "Somente o item I.",
+                "B": "Somente o item II.",
+                "C": "Somente o item III.",
+                "D": "Somente os itens I e II.",
+                "E": "Todos os itens.  \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 10 de 12 QUESTÃO 32  \nQual dos instrumentos a seguir é utilizado para \nefetuar a medição de pressão através de uma \nforça aplicada por um fluido em uma superfície:  \n \n(A) Osciloscópio.  \n(B) Manômetro.  \n(C) Micrômetro.  \n(D) Luxímetro.  \n(E) Barômetro."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: O voltímetro é utilizado para:",
+            "alternativas": {
+                "A": "Medir a diferença de potencial entre dois \npontos de um circuito elétrico.",
+                "B": "Medir o tempo de ação da corrente elétrica \nem um circuito elétrico.",
+                "C": "Medir a frequência de ação da corrente \nelétrica em um circuito elétrico.",
+                "D": "Medir a capacidade de ação da corrente \nelétrica em um circuito elétrico.",
+                "E": "Medir a perda de carga da corrente elétrica \nem um circuito elétrico."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: A quantidade em volume de um líquido que \natravessa uma seção em um intervalo de tempo, \ncorresponde a:",
+            "alternativas": {
+                "A": "Vazão superficial.",
+                "B": "Vazão de profundidade.",
+                "C": "Vazão massiva.",
+                "D": "Vazão relativa.",
+                "E": "Vazão volumétrica."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Um medidor de vazão apresenta em seu leitor \numa vazão correspondente a 0,05 m³/min. Dessa \nforma, é corretor afirmar que essa medida \ncorresponde a:",
+            "alternativas": {
+                "A": "1 m³/h.",
+                "B": "2 m³/h.",
+                "C": "3 m³/h.",
+                "D": "4 m³/h.",
+                "E": "5 m³/h.  \n QUESTÃO 36  \nSão tipos de medidores de vazão por área \nvariável nos quais um flutuador varia sua posição \ndentro de um tubo cônico, proporcionalmente à \nvazão do fluído:  \n(A) Luxímetro.  \n(B) Venture.  \n(C) Massa.  \n(D) Pitot.  \n(E) Rotâmetro."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: A hidráulica é a ciência que estuda líquidos em \nescoamento sob pressão. Os sistemas hidráulicos \npodem ser classificados, de acordo com sua \naplicação e natureza da pressão, em:",
+            "alternativas": {
+                "A": "Sistemas de pressão contínua e de pressão \nintermitente.",
+                "B": "Sistemas de pressão nula e de pressão final.",
+                "C": "Sistemas de pressão livre e de pressão \ncondicionante.",
+                "D": "Sistemas de pressão aberta e de pressão \nfechada.",
+                "E": "Sistemas de pressão temporária e de pressão \ndesprezível."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Considerando o esquema geral de um sistema \nhidráulico qualquer, é correto afirmar que é item \nque integra o Sistema de Geração do projeto, \nresponsável por gerar o fluxo de fluído hidráulico \npressurizado:",
+            "alternativas": {
+                "A": "Reservatório do líquido.",
+                "B": "Válvulas direcionais.",
+                "C": "Válvulas de vazão.",
+                "D": "Bomba Hidráulica.",
+                "E": "Osciladores."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Para saber se o regime de escoamento em um \ntubo é laminar ou turbulento, o operador \nhidráulico deve encontrar o número de:",
+            "alternativas": {
+                "A": "McClintock (Mc).",
+                "B": "Reynolds (Re).",
+                "C": "Tesla (Te).",
+                "D": "Hubble (Hu).",
+                "E": "Turing (Tu).  SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 11 de 12 QUESTÃO 40  \nNa manutenção mecânica dos dutos hidráulicos, \nas ferramentas usadas para preparar \nextremidades de tubos e encaixes para a conexão \nde flanges são classificadas como:  \n(A) Medidores de pressão.  \n(B) Medidores de vazão.  \n(C) Chaves de aperto.  \n(D) Ferramentas de Flangeamento.  \n(E) Chaves de pressão.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 12 de 12"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, é correto afirmar que:",
+            "alternativas": {
+                "A": "até o final dos anos 2020, o planeta terá \natingido o limite de aquecimento projetado pelo \nAcordo de Paris para 2100.",
+                "B": "o aquecimento global havia diminuído 0,5ºC \nno período pré -industrial.",
+                "C": "na última década, o aquecimento global foi \nde 2,5ºC.",
+                "D": "durante o período pré -industrial, não havia \nqualquer indício de aquecimento global.",
+                "E": "houve um aumento na temperatura do planeta \napenas entre os anos de 2010 e 2012."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: De acordo com o texto, todas as afirmativas a \nseguir a respeito dos esqueletos das esponjas \nutilizados na investigação do aquecimento global \nsão verdadeiras, exceto :",
+            "alternativas": {
+                "A": "funcionam como um termômetro em função \nda variabilidade na proporção de estrôncio e \ncálcio que apresentam.",
+                "B": "são típicas de uma região onde a temperatura \nda água é estável em relação a intempéries.",
+                "C": "são encontradas em uma profundidade cuja \ntemperatura da água está alinhada com a da \natmosfera.",
+                "D": "podem fornecer evidências da temperatura \ndo planeta em séculos passados.",
+                "E": "são evidências mais precisas da temperatura \ndo planeta, em comparação com núcleos de gelo \ne anéis de árvores.  \n \nConsidere o excerto a seguir para responder \nàs questões 3 e 4:   \n \n“Cada proxy de temperatura que encontrarmos \nterá problemas, ressalvas e limitações. Portanto, \né uma questão de juntar o máximo de proxies \npossível”, afirma Hendry.  \n \n QUESTÃO 03 \nO excerto apresentado está em discurso direto. \nAssinale a alternativa em que o mesmo excerto é \npassado para discurso indireto corretamente.   \n(A) Hendry afirmou que cada proxy de \ntemperatura que encontrassem teria problemas, \nressalvas e limitações, e que, portanto, era uma \nquestão de juntar o máximo de proxies possível.  \n(B) Hendry afirma que cada proxy de \ntemperatura que encontrarmos terá problemas, \nressalvas e limitações. Portanto, é uma questão \nde juntar o máximo de proxies possível.  \n(C) Hendry afirma que cada proxy de \ntemperatura que encontrarem terá problemas, \nressalvas e limitações. Portanto, é uma questão \nde juntar o máximo de proxies possível.  \n(D) Hendry afirmou que cada proxy de \ntemperatura que encontrarem teria problemas, \nressalvas e limitações. Portanto, era uma questão \nde juntar o máximo de proxies possível.  \n(E) Hendry afirmou que cada proxy de \ntemperatura que encontrarão terá problemas, \nressalvas e limitações, e que, portanto, foi uma \nquestão de juntar o máximo de proxies possível."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: No excerto dado, o vocábulo “ portanto”  é \nutilizado para:",
+            "alternativas": {
+                "A": "adicionar um novo fato à argumentação.",
+                "B": "explicar a causa para um acontecimento \nenunciado anteriormente.",
+                "C": "contrapor um fato enunciado anteriormente.",
+                "D": "indicar a finalidade de um acontecimento \nenunciado anteriormente.",
+                "E": "concluir uma colocação enunciada \nanteriormente.  \n \nConsidere o excerto a seguir para responder à \nquest ão 5: \n \nSabe -se que a Terra está ficando cada vez mais \nquente devido à atividade humana, mas o \naumento exato relativo aos níveis pré -industriais \né alvo de discussões. Há cientistas que defendem \nque mais estudos precisam ser feitos, utilizando \nmétodos e fontes variados.  SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 4 de 12 QUESTÃO 05 \nOs papéis gramaticais dos vocábulos “que” , em \ndestaque no excerto apresentado, são, \nrespectivamente, de:  \n(A) pronome relativo, pronome relativo e \npronome interrogativo.  \n(B) conjunção integrante, pronome interrogativo \ne conjunção causal.  \n(C) conjunção integrante, pronome relativo e \nconjunção integrante.  \n(D) pronome interrogativo, conjunção integrante \ne conjunção integrante.  \n(E) conjunção causal, pronome relativo e \npronome interrogativo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Analise as sentenças a seguir e assinale a \nalternativa em que a qualidade expressa pelo \nadjetivo está no grau superlativo absoluto \nanalítico.",
+            "alternativas": {
+                "A": "O professor elaborou questões dificílimas \npara a prova de matemática.",
+                "B": "As passistas dessa escola de samba são \nextremamente elegantes.",
+                "C": "Esse roteiro de viagem é tão interessante \nquanto o outro.",
+                "D": "Vanessa está cansada, por isso não foi à \nescola.",
+                "E": "É a aluna mais comportada dentre as de sua \nturma."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Analise as sentenças a seguir e assinale a \nalternativa em que a palavra se atua como \npartícula expletiva.",
+            "alternativas": {
+                "A": "Marina feriu -se com a tesoura.",
+                "B": "Ela não sabe se sua irmã está chateada.",
+                "C": "Foi -se embora sem deixar explicações.",
+                "D": "As coisas ficarão ainda mais complicadas se \nnão tomarmos uma atitude agora.",
+                "E": "Vendem -se pães e doces caseiros.  QUESTÃO 08 \nConsidere a sentença: Amofina -se ___ a falta de \ndinheiro . No contexto apresentado, o verbo \n“amofinar -se” requer a preposição:  \n \n(A) em.  \n(B) para.  \n(C) sobre.  \n(D) com.  \n(E) a."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir e assinale a \nalternativa em que há desvio de concordância \nverbal ou nominal.",
+            "alternativas": {
+                "A": "Tanto criança quanto adulto precisam de \nalimentação saudável.",
+                "B": "Na segunda -feira de carnaval, algumas \nmilhares de pessoas foram às ruas.",
+                "C": "Os povos originários devem ser protegidos e \nrespeitados por todos.",
+                "D": "Foram ao espetáculo a garota e sua mãe.",
+                "E": "Três cães e uma galinha foram encontrados \nnesta manhã em situação de maus -tratos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Assinale a alternativa em que a palavra \napresentada está incorreta quanto à acentuação \ngráfica.",
+            "alternativas": {
+                "A": "fétido.",
+                "B": "quóruns.",
+                "C": "mártires.",
+                "D": "bocaiúva.",
+                "E": "balaústre.  \n \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 5 de 12 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Uma estrutura será feita com barras de aço, que têm todas o mesmo comprimento de 20 cm. As barras \nserão soldadas de modo que no encontro entre duas barras haja um comprimento sobreposto, chamado \nde 𝑎, conforme a figura:  \n \nSabendo -se que foram utilizadas 21 barras, e que o comprimento total da estrutura foi 2,8 metros, \nindique o comprimento 𝑎 da sobreposição:",
+            "alternativas": {
+                "A": "5 cm.",
+                "B": "6 cm.",
+                "C": "7 cm.",
+                "D": "8 cm.",
+                "E": "9 cm."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Um quadrado feito com papel tem lado 20 cm. Do centro deste quadrado será retirado um recorte \ncircular de raio 𝑎 menor que 10 cm. Qual deve ser o valor de 𝑎, aproximadamente, para que a área do \npapel após o recorte seja 81,25% da área do papel original? Considere 𝜋≈3.",
+            "alternativas": {
+                "A": "6,7 cm.",
+                "B": "6,0 cm.",
+                "C": "4,5 cm.",
+                "D": "5,5 cm.",
+                "E": "5,0 cm."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Numa equipe de jogadores de vôlei há 6 jogadores em quadra. Sabe -se que a média das alturas dos seis \njogadores dessa equipe é 2,00 metros. Além disso, sabe -se também que a média das alturas dos três \nprimeiros jogadores é 2,05 m. Qual a média das alturas do s três últimos jogadores?",
+            "alternativas": {
+                "A": "1,95 m.",
+                "B": "2,00 m.",
+                "C": "2,05 m.",
+                "D": "1,90 m.",
+                "E": "1,99 m.  \nSAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 6 de 12 QUESTÃO 1 4 \nUma onça líquida  (fl. oz.) é uma unidade de medida de volume utilizada em alguns países como \nEstados Unidos e Canadá. Comparado ao Sistema Internacional de medidas, 1 fl oz equivale a \naproximadamente 30 ml. Neste caso, quanto vale 600 cm3 em onças líquidas?  \n(A) 0,02.  \n(B) 0,2.  \n(C) 2.  \n(D) 20.  \n(E) 200."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Uma empresa assume a política de devolver o dinheiro da mercadoria ao cliente caso ela apresente \ndefeito. O gráfico abaixo mostra o número de trocas (devoluções) de uma determinada mercadoria em \nfunção do número de meses após a compra:  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSabe -se que se o cliente trocar a mercadoria em até 6 meses após a compra, a empresa devolve \ncompletamente o valor da mercadoria. Se a troca acontecer após os 6 meses iniciais, a empresa devolve \nsomente 20% do valor da mercadoria. Sabendo -se que o valor desse produto é R$120,00, com base nos \ndados do gráfico, quanto foi gasto pela empresa com trocas dessa mercadoria?",
+            "alternativas": {
+                "A": "R$ 15.960,00.",
+                "B": "R$ 19.920,00.",
+                "C": "R$ 17.800,00.",
+                "D": "R$ 18.480,00.",
+                "E": "R$ 16.880,00.  \nSAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 7 de 12 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Entre os novos recursos da interface Aero no \nWindows 7, está a possibilidade de navegação \npelos aplicativos abertos a partir de uma pilha de \njanelas em formato tridimensional, por meio da \ncombinação das teclas ___________. Esse \nrecurso é denominado Flip 3D  e depende da \ninterface Aero estar ativa. Já o método de \nnavegação tradicional pelas teclas ________ \napresenta uma miniatura dos aplicativos em uma \njanela específica.  \nAnalise e indique a alternativa que preenche, \nrespectivamente, as lacunas no texto acima.",
+            "alternativas": {
+                "A": "[CTRL] + [C]; [CTRL] + [V]",
+                "B": "[CTRL] + [P]; [CTRL] + [SHIFT] + [T]",
+                "C": "[ALT] + [A]; [CAPS LOCK]",
+                "D": "[WINDOWS] + [TAB]; [ALT] + [TAB]",
+                "E": "[WINDOWS] + [B]; [CTRL] + [ALT] + \n[DELETE]"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Associe os componentes presentes no MS Word \n2016 com suas respectivas funções:  \nI) Barra de Ferramentas de Acesso Rápido  \nII) Barra de Status  \nIII) Guias de Navegação  \n \na) Exibe informações como número de páginas \nque o documento contém e em que página se está \neditando.  \nb) Acesso aos comandos para trabalhar com o \ndocumento, como formatação de texto, inserção \nde parágrafo, etc.  \nc) Comandos de rápido acesso, normalmente os \nque mais são utilizados, como Salvar, Desfazer e \nRepetir.",
+            "alternativas": {
+                "A": "I - c; II - b; III - a.",
+                "B": "I - b; II - c; III - a.",
+                "C": "I - c; II - a; III - b.",
+                "D": "I - a; II - b; III - c.",
+                "E": "I - a; II - c; III - b. QUESTÃO 18 \nUm usuário do MS Word 2016 digita todo um \ndocumento na ferramenta. Como título do texto \ndigitado, ele insere “Via -Láctea”. O usuário \nseleciona o título e, agora, deseja aumentar o \ntamanho da fonte do título através de um atalho \ndo teclado. Quais teclas de atalho o usuário \nutilizou para completar a ação?  \n \n(A) <Ctrl+>>  \n(B) <Ctrl+<>  \n(C) <Ctrl+I>  \n(D) <Ctrl+B>  \n(E) <Ctrl+A>"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Dentro da ferramenta MS Word 2016, no grupo \nFonte, o Drop -down exerce a principal função \nde:",
+            "alternativas": {
+                "A": "formatar o texto selecionado em itálico.",
+                "B": "negritar o texto selecionado.",
+                "C": "aumentar o tamanho da fonte.",
+                "D": "reduzir o tamanho da fonte.",
+                "E": "abrir um menu suspenso, quando acionado."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Qual das seguintes alternativas apresenta um \ncaso de uso do efeito ‘Subscrito’ no MS Word \n2016?",
+            "alternativas": {
+                "A": "Selecionar o texto e, em seguida, adicionar o \nefeito ‘Subscrito’ para adicionar uma linha de \nsublinhado no texto para destaque.",
+                "B": "Selecionar um caractere e aplicar o efeito \n‘Subscrito’ para inserir o texto selecionado \nabaixo da linha do texto em tamanho reduzido.",
+                "C": "Adicionar um título e adicionar o efeito \n‘Subscrito’ para negrita -lo.",
+                "D": "Inserção de texto com fonte diferente da \nexistente no documento.",
+                "E": "Edição de alinhamento justificado no \ndocumento.  SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 8 de 12 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Atento aos conceitos que envolvem a segurança \nno ambiente de trabalho, um risco representa \numa situação que pode causar um acidente ou \numa fonte potencial de causar danos à saúde do \ntrabalhador.  \n \nAssinale a alternativa que apresenta um exemplo \nde risco no ambiente de trabalho:",
+            "alternativas": {
+                "A": "Leitura de mapa de risco.",
+                "B": "Manuseio de produtos perigosos.",
+                "C": "Uso de Equipamentos de Proteção \nIndividual.",
+                "D": "Treinamento relacionados as normas de \nsegurança.",
+                "E": "Atraso do profissional no horário do início \ndas atividades."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Assinale a alternativa que descreve um dos \ndesvios de comportamento do trabalhador que \nsuscita um ato inseguro, proporcionando a \npossibilidade da ocorrência de um acidente de \ntrabalho:",
+            "alternativas": {
+                "A": "Ficar sob cargas suspensas.",
+                "B": "Emprego apropriado de ferramentas.",
+                "C": "Uso de ferramentas manuais para o trabalho.",
+                "D": "Profundo conhecimento dos riscos de \nacidente presentes em sua área de atuação.",
+                "E": "Participação constante em treinamentos \nsobre as normas de segurança das atividades \ndesenvolvidas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Considerando as normas relacionadas ao uso dos \nEquipamentos de Proteção Individual, assinale a \nalternativa que descreve uma das incumbências \natribuídas exclusivamente ao trabalhador:",
+            "alternativas": {
+                "A": "Comprar o EPI adequado para a atividade \nque será executada.",
+                "B": "Buscar por treinamentos que expliquem de \nmaneira adequada o uso do EPI.",
+                "C": "Responsabilizar -se pela melhoria da \nqualidade do EPI que deu origem ao CA.",
+                "D": "Fiscalizar a qualidade do EPI.",
+                "E": "Responsabilizar -se pela guarda do EPI.  \n QUESTÃO 24  \nConsiderando as definições presentes na \nResolução CONAMA N° 454, de 1º de \nnovembro de 2012, a avaliação da acumulação de \nsubstâncias químicas em organismos por meio do \ncontato direto com o sedimento refere -se a: \n(A) Avaliação de sedimentos.  \n(B) Avaliação de bioacumulação.  \n(C) Avaliação de depósito.  \n(D) Avaliação de eutrofização.  \n(E) Avaliação de secagem."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Em conformidade com a Resolução CONAMA \nN° 454, de 1º de novembro de 2012, que \nestabelece as diretrizes gerais e os procedimentos \nreferenciais para o gerenciamento do material a \nser dragado em águas sob jurisdição nacional e a \nsua disposição final, é correto afirmar que:",
+            "alternativas": {
+                "A": "Terras caídas correspondem ao material que \nserá retirado ou deslocado do leito dos corpos \nd'água por meio da atividade de dragagem.",
+                "B": "Para caracterizar as intervenções e os \nprocessos de dragagem deverá ser apresentado ao \nórgão ambiental licenciador plano conceitual de \ndragagem, que conterá o registro do total de \nprofissionais que atuarão na drenagem.",
+                "C": "Para caracterizar as intervenções e os \nprocessos de dragagem deverá ser apresentado ao \nórgão ambiental licenciador plano conceitual de \ndragagem, que conterá o horário de escavação e \ndas atividades ininterruptas.",
+                "D": "Nas áreas destinadas à disposição do material \ndragado, enquanto ocorrer a disposição, a \natividade de pesca deverá ser suspensa, pelo \nórgão competente.",
+                "E": "É recomendada, para fins de diluição dos \nsedimentos, antes de sua disposição em águas \nsob jurisdição nacional, a mistura com \nsedimentos de melhor qualidade.  \n \n \n \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 9 de 12 QUESTÃO 26  \nAssinale a alternativa que completa corretamente \na lacuna do texto a seguir, em conformidade com \na Resolução CONAMA N° 454, de 1º de \nnovembro de 2012:  \n \nArt. 16. A disposição do material dragado no solo \nou em águas sob jurisdição nacional considerará \na sua caracterização e classificação, as técnicas e \nmetodologias de disposição e as características \nfísicas, químicas e ___________ da área de \ndisposição.  \n(A) econômicas  \n(B) preservacionistas  \n(C) biológicas  \n(D) ambientais  \n(E) culturais"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Resolução CONAMA N° 454, de 1º de \nnovembro de 2012, define que a localização do \npolígono de disposição do material dragado em \náguas sob jurisdição nacional deverá ser definida \ncom base em levantamento prévio que considere, \nentre outros:",
+            "alternativas": {
+                "A": "A opinião pública sobre o as localizações \nelegíveis.",
+                "B": "A temperatura do material que será disposto.",
+                "C": "A compactação do material que será \ndisposto.",
+                "D": "A escoabilidade do material que será \ndisposto.",
+                "E": "A viabilidade econômica da operação de \ndragagem."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: A dragagem é o processo de remoção de \nmateriais como areia, lodo ou rochas do fundo de \ncorpos d’água como rios. Um dos objetivos da \ndragagem corresponde a:",
+            "alternativas": {
+                "A": "Reduzir o volume de água dos rios.",
+                "B": "Reduzir a presença de peixes invasores no \nambiente drenado.",
+                "C": "Melhorar a profundidade dos corpos d’água \npara a navegação segura de embarcações.",
+                "D": "Ampliação da matriz energética regional.",
+                "E": "Ampliação da biodiversidade regional.  \n \n QUESTÃO 29  \nÉ a Draga mecânica que consiste em uma \nretroescavadeira sobre um pontão, capaz de \ndragar solos com altos índices de SPT. \nDependendo do seu porte, pode ser \nautopropelida. Sua capacidade de caçamba pode \nchegar a 40 m³.  \n \n(A) Draga de sucção.  \n(B) Draga Clamshell.  \n(C) Draga estabilizadora.  \n(D) Cutter Suction Dredge.  \n(E) Draga Backhoe."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Em serviços de dragagem o integral \nconhecimento do solo marinho a ser dragado é de \ncapital importância para o sucesso do \nempreendimento.  \nPara a caracterização do solo marinho podem ser \nutilizados dados sonográficos, dados sísmicos e \ndados:",
+            "alternativas": {
+                "A": "Geotécnicos.",
+                "B": "Sísmicos.",
+                "C": "Pluviométricos.",
+                "D": "Cataclísmicos.",
+                "E": "Peripatéticos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: No que diz respeito aos tipos de dragagem \nexistentes, analisar as afirmações a seguir:  \n \nI. A Dragagem de Manutenção é realizada para \nrestabelecer total ou parcialmente as cotas \noriginalmente licenciadas.  \nII. Dragagem de Implantação é realizada para \nimplantação, ampliação ou aprofundamento de \ncanais de navegação, bacias de evolução e outras \nobras ou serviços de engenharia na massa \nlíquida.  \nIII. A Dragagem de Mineração é realizada para a \nmelhoria das condições ambientais ou sanitárias.  \nEstá(ão) Correto(s):",
+            "alternativas": {
+                "A": "Somente o item I.",
+                "B": "Somente o item II.",
+                "C": "Somente o item III.",
+                "D": "Somente os itens I e II.",
+                "E": "Todos os itens.  \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 10 de 12 QUESTÃO 32  \nQual dos instrumentos a seguir é utilizado para \nefetuar a medição de pressão através de uma \nforça aplicada por um fluido em uma superfície:  \n \n(A) Osciloscópio.  \n(B) Manômetro.  \n(C) Micrômetro.  \n(D) Luxímetro.  \n(E) Barômetro."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: O voltímetro é utilizado para:",
+            "alternativas": {
+                "A": "Medir a diferença de potencial entre dois \npontos de um circuito elétrico.",
+                "B": "Medir o tempo de ação da corrente elétrica \nem um circuito elétrico.",
+                "C": "Medir a frequência de ação da corrente \nelétrica em um circuito elétrico.",
+                "D": "Medir a capacidade de ação da corrente \nelétrica em um circuito elétrico.",
+                "E": "Medir a perda de carga da corrente elétrica \nem um circuito elétrico."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: A quantidade em volume de um líquido que \natravessa uma seção em um intervalo de tempo, \ncorresponde a:",
+            "alternativas": {
+                "A": "Vazão superficial.",
+                "B": "Vazão de profundidade.",
+                "C": "Vazão massiva.",
+                "D": "Vazão relativa.",
+                "E": "Vazão volumétrica."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Um medidor de vazão apresenta em seu leitor \numa vazão correspondente a 0,05 m³/min. Dessa \nforma, é corretor afirmar que essa medida \ncorresponde a:",
+            "alternativas": {
+                "A": "1 m³/h.",
+                "B": "2 m³/h.",
+                "C": "3 m³/h.",
+                "D": "4 m³/h.",
+                "E": "5 m³/h.  \n QUESTÃO 36  \nSão tipos de medidores de vazão por área \nvariável nos quais um flutuador varia sua posição \ndentro de um tubo cônico, proporcionalmente à \nvazão do fluído:  \n(A) Luxímetro.  \n(B) Venture.  \n(C) Massa.  \n(D) Pitot.  \n(E) Rotâmetro."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: A hidráulica é a ciência que estuda líquidos em \nescoamento sob pressão. Os sistemas hidráulicos \npodem ser classificados, de acordo com sua \naplicação e natureza da pressão, em:",
+            "alternativas": {
+                "A": "Sistemas de pressão contínua e de pressão \nintermitente.",
+                "B": "Sistemas de pressão nula e de pressão final.",
+                "C": "Sistemas de pressão livre e de pressão \ncondicionante.",
+                "D": "Sistemas de pressão aberta e de pressão \nfechada.",
+                "E": "Sistemas de pressão temporária e de pressão \ndesprezível."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Considerando o esquema geral de um sistema \nhidráulico qualquer, é correto afirmar que é item \nque integra o Sistema de Geração do projeto, \nresponsável por gerar o fluxo de fluído hidráulico \npressurizado:",
+            "alternativas": {
+                "A": "Reservatório do líquido.",
+                "B": "Válvulas direcionais.",
+                "C": "Válvulas de vazão.",
+                "D": "Bomba Hidráulica.",
+                "E": "Osciladores."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OPERADOR HIDRÁULICO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Para saber se o regime de escoamento em um \ntubo é laminar ou turbulento, o operador \nhidráulico deve encontrar o número de:",
+            "alternativas": {
+                "A": "McClintock (Mc).",
+                "B": "Reynolds (Re).",
+                "C": "Tesla (Te).",
+                "D": "Hubble (Hu).",
+                "E": "Turing (Tu).  SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 11 de 12 QUESTÃO 40  \nNa manutenção mecânica dos dutos hidráulicos, \nas ferramentas usadas para preparar \nextremidades de tubos e encaixes para a conexão \nde flanges são classificadas como:  \n(A) Medidores de pressão.  \n(B) Medidores de vazão.  \n(C) Chaves de aperto.  \n(D) Ferramentas de Flangeamento.  \n(E) Chaves de pressão.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nOPERADOR HIDRÁULICO                                                                                                                            Página 12 de 12"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

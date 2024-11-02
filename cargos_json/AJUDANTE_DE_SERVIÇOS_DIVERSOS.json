@@ -1,3 +1,760 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7aeec15d561ffcdbbc7bbab56319b72c1a5630646eb1f3008f455e3519528a24
-size 54711
+{
+    "AJUDANTE DE SERVIÇOS DIVERSOS": [
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Antes da descoberta dos pesquisadores, os \nanimais denominados pudu eram divididos em:",
+            "alternativas": {
+                "A": "duas espécies, a Pudu puda  e a Pudu \nmephistophiles.",
+                "B": "duas espécies, a Pudu mephistophiles  e a \nPudella carlae.",
+                "C": "três espécies, a Pudu puda , a Pudu \nmephistophiles  e a Pudella carlae .",
+                "D": "apenas dois tipos da mesma espécie, a Pudu \nmephistophiles .",
+                "E": "apenas três tipos de uma mesma espécie, a \nPudu puda . \n \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 3 de 10 QUESTÃO 02 \nAnalise as afirmativas a seguir, a respeito das \ncaracterísticas da nova espécie de pudu \ndescoberta:  \nI.  O formato das orelhas é uma das \ncaracterísticas que a diferencia .   \nII. A coloração do pelo é mais escura do que a da \nespécie Pudu puda.  \nIII. Seu tamanho também permitiu diferenciá -la \ndos pudus da espécie já conhecida como Pudu \nmephistophiles.  \nDe acordo com o texto, é (são) verdadeira(s) \napenas a(s) afirmativa(s) em:  \n(A) I.   \n(B) II.   \n(C) III.  \n(D) I e III.   \n(E) I e III.  \n \nConsidere o excerto a seguir para responder \nàs questões 3 e 4:  \n \nEsta é a primeira descoberta de uma nova espécie \nde cervo em 60 anos na América e a primeira no \nséculo 21 em todo o mundo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: A palavra “esta”, que ocorre no excerto \napresentado, pertence à classe gramatical:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "adjetivo.",
+                "C": "pronome.",
+                "D": "advérbio.",
+                "E": "conjunção."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: As palavras a seguir ocorrem no excerto dado. \nAquela que é um substantivo próprio é:",
+            "alternativas": {
+                "A": "descoberta.",
+                "B": "América.",
+                "C": "século.",
+                "D": "cervo.",
+                "E": "mundo.  \n QUESTÃO 05 \nAnalise as sentenças a seguir, retiradas do texto:  \nI. “A primeira é a sua composição corporal.”  \nII. “Essa segunda espécie vive em regiões de \nmontanha”.  \nIII. “Eles têm duas diferenças”.     \nVerifica -se numeral cardinal apenas em:  \n(A) I.   \n(B) II.  \n(C) III.  \n(D) I e II.  \n(E) I e III.  \n \nConsidere o excerto a seguir para responder \nàs questões de 6 a 8:  \n \nJá faz muitos anos que pesquisadores \ndescobriram o pudu, um pequeno cervo de pele \nescura que habita grandes territórios da \nArgentina à Colômbia."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Em relação ao tempo, o verbo “descobriram” \nexprime uma ação que:",
+            "alternativas": {
+                "A": "ocorreu e terminou no passado.",
+                "B": "ocorre no presente.",
+                "C": "ocorrerá no futuro.",
+                "D": "poderia ter ocorrido no passado.",
+                "E": "ocorria com frequência no passado."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: As palavras a seguir ocorrem no excerto \napresentado. São palavras no gênero masculino \napenas:",
+            "alternativas": {
+                "A": "já; cervo; muitos.",
+                "B": "grandes; pesquisadores; pele.",
+                "C": "pesquisadores; um; pequeno.",
+                "D": "muitos; que; escura.",
+                "E": "pudu; Argentina; pele.  \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 4 de 10 QUESTÃO 08 \nA palavra “à”, que ocorre em “(...) da Argentina \nà Colômbia.”, poderia ser substituída, sem \nprejuízo de significado, pela expressão:  \n(A) perante.  \n(B) entre.  \n(C) para a.  \n(D) até a.   \n(E) desde.  \n \nLeia o poema a seguir para responder às \nquestões de 9 a 12:  \n \nO mais feroz dos animais domésticos  \né o relógio de parede:  \nconheço um que já devorou  \ntrês gerações da minha família.  \n \nMario Quintana"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: No poema, a ferocidade do relógio de parede tem \na ver com:",
+            "alternativas": {
+                "A": "a família à qual pertence.",
+                "B": "a passagem do tempo .",
+                "C": "animais domésticos agressivos.",
+                "D": "a primeira geração da família.",
+                "E": "a terceira geração da família."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: A palavra “feroz”, que ocorre no poema, é \nantônimo de:",
+            "alternativas": {
+                "A": "cerval.",
+                "B": "bravio.",
+                "C": "ferino.",
+                "D": "beluíno.",
+                "E": "brando.  QUESTÃO 11  \nUma das palavras que exprime sentido figurado \nno poema apresentado é:  \n \n(A) família.   \n(B) gerações.   \n(C) relógio.   \n(D) devorou.  \n(E) parede."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: A palavra “já” , que ocorre no penúltimo verso \ndo poema apresentado, é um advérbio que \nexprime:",
+            "alternativas": {
+                "A": "tempo.",
+                "B": "negação.",
+                "C": "modo.",
+                "D": "dúvida.",
+                "E": "lugar."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Analise as sentenças a seguir:  \n \nI. As chaves estão …. do tapete.  \nII. O texto discorre …. dos animais silvestres.  \nIII. Os jovens não se molharam com a chuva \nporque estão sentados …. a marquise.   \nAssinale a alternativa que preenche correta e \nrespectivamente cada uma das lacunas das \nsentenças dadas.",
+            "alternativas": {
+                "A": "embaixo; a cerca; sob.",
+                "B": "embaixo; acerca; sob.",
+                "C": "de baixo; a cerca; sob.",
+                "D": "em baixo; a cerca; sobre.",
+                "E": "abaixo; cerca; sobre.  \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 5 de 10 QUESTÃO 14  \nAnalise as sentenças a seguir e assinale a \nalternativa em que a colocação pronominal é do \ntipo mesóclise.  \n(A) Não soube se colocar naquela discussão.   \n(B) Privar -lhe-ão de todos os seus sonhos.   \n(C) Esqueceram -se do aniversário da própria \nmãe.   \n(D) Eles me avisaram a respeito do jogo de \nfutebol.  \n(E) A mulher esperou -te até não aguentar mais."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: A palavra que apresenta a grafia incorreta é:",
+            "alternativas": {
+                "A": "enigma.",
+                "B": "manteiga.",
+                "C": "individado.",
+                "D": "entrevista.",
+                "E": "humilhante.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Pedro deseja -se embalar todo o açúcar contido \nem 5 sacos de 25 quilogramas cada um em \npacotes contendo 500 gramas de açúcar. Nessas \ncircunstâncias, o total exato de pacotes \nnecessários deve ser:",
+            "alternativas": {
+                "A": "25 pacotes",
+                "B": "2500 pacotes",
+                "C": "250 pacotes",
+                "D": "20 pacotes",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Um ciclista percorreu 840 metros em 14 \nsegundos. Se ele continuar nesse ritmo, quantos \nmetros ele terá percorrido após 42 segundos?",
+            "alternativas": {
+                "A": "2.520 metros",
+                "B": "240 metros",
+                "C": "2.500 metros",
+                "D": "35.280 metros",
+                "E": "Nenhuma das alternativas  QUESTÃO 18  \nAssinale a alternativa que apresenta o \nQuadragésimo segundo número par sucessor de \n98? \n \n(A) 140 \n(B) 138 \n(C) 184 \n(D) 182 \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Ana encontrou um cofrinho contendo 25 notas \nde R$ 10,00 e 60 moedas de R$ 0,50. Qual é o \nvalor total encontrado no cofre?",
+            "alternativas": {
+                "A": "R$ 300,00",
+                "B": "R$ 280,00",
+                "C": "R$ 250,00",
+                "D": "R$ 310,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Um agricultor tem um campo retangular de 50 \nmetros de comprimento por 30 metros de largura. \nSe ele decidir cercar todo o campo com uma \ncerca, quantos metros de cerca ele precisará?",
+            "alternativas": {
+                "A": "80",
+                "B": "1500",
+                "C": "24",
+                "D": "160",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Lucas está economizando para comprar um \ncomputador. Ele conseguiu economizar 30% do \nvalor do computador, que totalizou R$ 2.400,00. \nQual é o valor total do computador que Lucas \ndeseja comprar?",
+            "alternativas": {
+                "A": "R$ 6.000,00",
+                "B": "R$ 7.000,00",
+                "C": "R$ 8.000,00",
+                "D": "R$ 9.000,00",
+                "E": "Nenhuma das alternativas  SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 6 de 10 QUESTÃO 22  \nJoana está escrevendo um livro e estima que \nprecisará de 30 dias para concluí -lo. Se ela \ncomeçou  a escrever em uma quarta -feira,  em \nque dia da semana ela finalizará o livro?  \n \n(A) Domingo  \n(B) Segunda -feira \n(C) Quinta -feira \n(D) Sexta -feira \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Assinale a alternativa que apresenta o \nOctogésimo terceiro número par antecessor de \n998?",
+            "alternativas": {
+                "A": "916",
+                "B": "914",
+                "C": "832",
+                "D": "834",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Qual é o resultado para a seguinte operação:  \n \n77 x 27 – 19:",
+            "alternativas": {
+                "A": "2.079",
+                "B": "277,14",
+                "C": "2.060",
+                "D": "2074",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Um barco consome 12 litros de gasolina por hora \nde navegação. Se o barco vai navegar por 10 \nhoras, quantos litros de gasolina ele precisará?",
+            "alternativas": {
+                "A": "112 litros",
+                "B": "110 litros",
+                "C": "10 litros",
+                "D": "120 litros",
+                "E": "Nenhuma das alternativas  \n QUESTÃO 26  \nAndré comprou um notebook, pagando 70% do \npreço do notebook como entrada e parcelando o \nrestante, sem acréscimos, em quatro parcelas de \nR$ 450,00 cada uma. Nessa compra, o valor pago \ncomo entrada foi igual a:  \n(A) R$ 6.000,00.  \n(B) R$ 1.800,00.  \n(C) R$ 3.500,00.  \n(D) R$ 4.000,00.  \n(E) R$ 4.200,00"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Uma loja de eletrônicos está oferecendo um \ndesconto de 15% em todos os seus produtos \ndurante uma venda especial. Se um laptop custa \nR$ 3.000,00 sem desconto, qual será o preço do \nlaptop durante essa venda?",
+            "alternativas": {
+                "A": "R$ 2.550,00",
+                "B": "R$ 2.700,00",
+                "C": "R$ 2.850,00",
+                "D": "R$ 3.150,00",
+                "E": "R$ 3.250,00"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Em uma festa de aniversário, cada convidado \nconsome 4 fatias de pizza. Se há 20 convidados \npresentes e cada pizza possui 8 fatias, quantas \npizzas serão necessárias para atender a demanda \nda festa?",
+            "alternativas": {
+                "A": "160 pizzas",
+                "B": "80 pizzas",
+                "C": "9 pizzas",
+                "D": "10 pizzas",
+                "E": "12 pizzas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Em uma padaria, cada pão francês custa R$ 0,50. \nSe uma pessoa compra 10 pães, qual o valor total \nque ela pagará?",
+            "alternativas": {
+                "A": "R$ 4,00",
+                "B": "R$ 5,00",
+                "C": "R$ 6,00",
+                "D": "R$ 7,00",
+                "E": "R$ 8,00  \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 7 de 10 QUESTÃO 30  \nUm vendedor recebe uma comissão de 5% sobre \no valor de cada produto que ele vende. Se ele \nvende um produto por R$ 500,00, quanto ele \nreceberá de comissão?  \n(A) R$ 20,00  \n(B) R$ 25,00  \n(C) R$ 30,00  \n(D) R$ 35,00  \n(E) Nenhuma das alternativas  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Em termos técnicos, a pintura é um conjunto de \ncamadas que recobrem o substrato, tendo como \nfunção a proteção da superfície e aparência \ndecorativa, sendo que toda a superfície a ser \npintada deverá estar completamente limpa, isenta \nde gorduras, umidade, fer rugem, incrustações, \nprodutos químicos diversos, pingos de solda, \ncarepa de laminação, furos etc. Toda vez que \numa superfície tiver sido LIXADA, esta deverá \nser:",
+            "alternativas": {
+                "A": "Ser aplicada tinta imediatamente.",
+                "B": "Limpa com água.",
+                "C": "Limpa com escova e pano para remover todo \no pó.",
+                "D": "Limpa com produtos de limpeza doméstico.",
+                "E": "Limpa com pano molhado."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: É o método  de aplicação  mais indicado para \naplicação da primeira de mão de tinta em cordões \nde solda, reentrâncias, cantos vivos, onde outros \nmétodos de aplicação poderiam deixar falhas, \ndevido à dificuldade de penetração ou à cavidade \ne às demais regiões de difícil acesso. O método \ndescrito, se refere ao:",
+            "alternativas": {
+                "A": "Trincha (Pincel de formato chato)",
+                "B": "Rolo",
+                "C": "Pistola Convencional",
+                "D": "Pistola Sem Ar (Airless)",
+                "E": "Pintura Eletrostática  \n QUESTÃO 33  \nA pintura de parede é um trabalho que possui \ninúmeras etapas para assegurar um resultado \nsatisfatório, sendo que a primeira delas é \njustamente preparar a superfície e o ambiente.  \nA __________ é um produto versátil, mas a sua \nprincipal finalidade é preparar as superfícies para \no acabamento. Dessa forma, ela consegue \nnivelar, remover trincas e até mesmo reparar \nparedes estufadas, por exemplo.  \nAssinale a alternativa que completa corretamente \na lacuna do texto acima:  \n \n(A) Tinta  \n(B) Massa corrida  \n(C) Selador de Parede  \n(D) Lixa  \n(E) Thinner"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: O método de aplicação com a ferramenta \nrepresentada na figura abaixo é particularmente \naplicável à pintura de grandes áreas planas ou \ncom grande raio de curvatura, na presença de \nventos.  \n \n \n \n \n \n \n \n \n \n \nQual alternativa corresponde a ferramenta \nacima?",
+            "alternativas": {
+                "A": "Pistola",
+                "B": "Pincel",
+                "C": "Desempenadeira",
+                "D": "Compressor de ar",
+                "E": "Rolo  \nSAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 8 de 10 QUESTÃO 35  \nO assentamento de cerâmicas não apresenta \ngrandes dificuldades, desde que alguns detalhes \nsejam considerados durante a aplicação, \nmantendo assim a beleza, qualidade e \ndurabilidade do piso.  Para a aplicação, não é \nnecessário a utilização de:  \n \n(A) Desempenadeira  \n(B) Pincél  \n(C) Argamassa  \n(D) Espaçador de piso  \n(E) Máquina de corte"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Qual das seguintes afirmações sobre rede elétrica \naérea dispõe de forma correta sua definição?",
+            "alternativas": {
+                "A": "É estruturada abaixo do solo.",
+                "B": "Esse sistema não utiliza de grandes torres de \nmetal.",
+                "C": "Se baseia no uso de cabos aéreos, com \nrevestimento isolante, para o transporte da \nenergia que sai das usinas e geradores até o \nconsumidor.",
+                "D": "São compostas de alimentadores de média \ntensão, chaves de manobra e transformadores, \nque podem ser instalados de forma subterrânea \nou acima do nível do solo, dependendo da \ncaracterística da instalação.",
+                "E": "Se baseia no uso de cabos subterrâneos, sem \nrevestimento isolante, para o transporte da \nenergia que sai das usinas e geradores até o \nconsumidor.  \n \n \n \n \n \n \n QUESTÃO 37  \nDe acordo com a rede elétrica predial, analise os \nitens abaixo.  \n \nI - Instalação em tensão reduzida ou extra baixa \ntensão: consiste nas instalações com tensão \nelétrica reduzida, operando com carga menor ou \nigual a 75 V em corrente contínua ou menor ou \nigual a 50 V em corrente alternada;  \nII - Instalação em baixa tensão (BT): trata -se de \numa infraestrutura na qual a tensão elétrica \nnominal é superior a 75 V e menor ou igual a \n1500 V em corrente contínua ou superior a 50 V \ne menor ou igual a 1.000V em corrente alternada;  \nIII - Instalação em alta tensão (AT): são \ninstalações com valores superiores aos \nestabelecidos nas instalações de baixa tensão, \nsendo que podem atingir centenas de kV. São \nusadas em indústrias ou instalações prediais de \ngrande porte  \n \n(A) Apenas o item I está correto.  \n(B) Apenas os itens I e II estão corretos.  \n(C) Apenas o item III está correto.  \n(D) Apenas o item II está correto.  \n(E) Os itens I, II e III estão corretos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: De acordo com os conhecimentos de \nManutenção em Alvenaria. Analise as \nafirmativas abaixo atribuindo (V) para \nverdadeira e (F) para falsa, em seguida assinale a \nalternativa com a sequência correta.  \n \n( ) A manutenção em alvenaria é fundamental \npara garantir bom funcionamento de instalações \nindustriais, para a segurança das pessoas que \nhabitam ou frequentam a construção, além de \nvalorizar o imóvel e prolongar a sua vida útil.  \n \n( ) A manutenção em alvenaria não é necessária, \numa vez que não exige reparos.  \n \n( ) A manutenção em alvenaria não garante o bom \nfuncionamento de instalações industriais.",
+            "alternativas": {
+                "A": "F - F -F",
+                "B": "V - V- V",
+                "C": "F - V -F",
+                "D": "V - F- F",
+                "E": "F -V -V SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 9 de 10 QUESTÃO 39  \nQual alternativa corresponde a manutenção que é \nfeita antes que algum problema aconteça?  \n \n(A) Manutenção preventiva.  \n(B) Manutenção preditiva.  \n(C) Manutenção corretiva.  \n(D) Manutenção prescritiva.  \n(E)  Manutenção corretora."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Qual alternativa corresponde a imagem abaixo?",
+            "alternativas": {
+                "A": "Tubos.",
+                "B": "Transformador.",
+                "C": "Fio elétrico.",
+                "D": "Disjuntor.",
+                "E": "Interruptor.  \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 10 de 10"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Antes da descoberta dos pesquisadores, os \nanimais denominados pudu eram divididos em:",
+            "alternativas": {
+                "A": "duas espécies, a Pudu puda  e a Pudu \nmephistophiles.",
+                "B": "duas espécies, a Pudu mephistophiles  e a \nPudella carlae.",
+                "C": "três espécies, a Pudu puda , a Pudu \nmephistophiles  e a Pudella carlae .",
+                "D": "apenas dois tipos da mesma espécie, a Pudu \nmephistophiles .",
+                "E": "apenas três tipos de uma mesma espécie, a \nPudu puda . \n \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 3 de 10 QUESTÃO 02 \nAnalise as afirmativas a seguir, a respeito das \ncaracterísticas da nova espécie de pudu \ndescoberta:  \nI.  O formato das orelhas é uma das \ncaracterísticas que a diferencia .   \nII. A coloração do pelo é mais escura do que a da \nespécie Pudu puda.  \nIII. Seu tamanho também permitiu diferenciá -la \ndos pudus da espécie já conhecida como Pudu \nmephistophiles.  \nDe acordo com o texto, é (são) verdadeira(s) \napenas a(s) afirmativa(s) em:  \n(A) I.   \n(B) II.   \n(C) III.  \n(D) I e III.   \n(E) I e III.  \n \nConsidere o excerto a seguir para responder \nàs questões 3 e 4:  \n \nEsta é a primeira descoberta de uma nova espécie \nde cervo em 60 anos na América e a primeira no \nséculo 21 em todo o mundo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: A palavra “esta”, que ocorre no excerto \napresentado, pertence à classe gramatical:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "adjetivo.",
+                "C": "pronome.",
+                "D": "advérbio.",
+                "E": "conjunção."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: As palavras a seguir ocorrem no excerto dado. \nAquela que é um substantivo próprio é:",
+            "alternativas": {
+                "A": "descoberta.",
+                "B": "América.",
+                "C": "século.",
+                "D": "cervo.",
+                "E": "mundo.  \n QUESTÃO 05 \nAnalise as sentenças a seguir, retiradas do texto:  \nI. “A primeira é a sua composição corporal.”  \nII. “Essa segunda espécie vive em regiões de \nmontanha”.  \nIII. “Eles têm duas diferenças”.     \nVerifica -se numeral cardinal apenas em:  \n(A) I.   \n(B) II.  \n(C) III.  \n(D) I e II.  \n(E) I e III.  \n \nConsidere o excerto a seguir para responder \nàs questões de 6 a 8:  \n \nJá faz muitos anos que pesquisadores \ndescobriram o pudu, um pequeno cervo de pele \nescura que habita grandes territórios da \nArgentina à Colômbia."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Em relação ao tempo, o verbo “descobriram” \nexprime uma ação que:",
+            "alternativas": {
+                "A": "ocorreu e terminou no passado.",
+                "B": "ocorre no presente.",
+                "C": "ocorrerá no futuro.",
+                "D": "poderia ter ocorrido no passado.",
+                "E": "ocorria com frequência no passado."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: As palavras a seguir ocorrem no excerto \napresentado. São palavras no gênero masculino \napenas:",
+            "alternativas": {
+                "A": "já; cervo; muitos.",
+                "B": "grandes; pesquisadores; pele.",
+                "C": "pesquisadores; um; pequeno.",
+                "D": "muitos; que; escura.",
+                "E": "pudu; Argentina; pele.  \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 4 de 10 QUESTÃO 08 \nA palavra “à”, que ocorre em “(...) da Argentina \nà Colômbia.”, poderia ser substituída, sem \nprejuízo de significado, pela expressão:  \n(A) perante.  \n(B) entre.  \n(C) para a.  \n(D) até a.   \n(E) desde.  \n \nLeia o poema a seguir para responder às \nquestões de 9 a 12:  \n \nO mais feroz dos animais domésticos  \né o relógio de parede:  \nconheço um que já devorou  \ntrês gerações da minha família.  \n \nMario Quintana"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: No poema, a ferocidade do relógio de parede tem \na ver com:",
+            "alternativas": {
+                "A": "a família à qual pertence.",
+                "B": "a passagem do tempo .",
+                "C": "animais domésticos agressivos.",
+                "D": "a primeira geração da família.",
+                "E": "a terceira geração da família."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: A palavra “feroz”, que ocorre no poema, é \nantônimo de:",
+            "alternativas": {
+                "A": "cerval.",
+                "B": "bravio.",
+                "C": "ferino.",
+                "D": "beluíno.",
+                "E": "brando.  QUESTÃO 11  \nUma das palavras que exprime sentido figurado \nno poema apresentado é:  \n \n(A) família.   \n(B) gerações.   \n(C) relógio.   \n(D) devorou.  \n(E) parede."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: A palavra “já” , que ocorre no penúltimo verso \ndo poema apresentado, é um advérbio que \nexprime:",
+            "alternativas": {
+                "A": "tempo.",
+                "B": "negação.",
+                "C": "modo.",
+                "D": "dúvida.",
+                "E": "lugar."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Analise as sentenças a seguir:  \n \nI. As chaves estão …. do tapete.  \nII. O texto discorre …. dos animais silvestres.  \nIII. Os jovens não se molharam com a chuva \nporque estão sentados …. a marquise.   \nAssinale a alternativa que preenche correta e \nrespectivamente cada uma das lacunas das \nsentenças dadas.",
+            "alternativas": {
+                "A": "embaixo; a cerca; sob.",
+                "B": "embaixo; acerca; sob.",
+                "C": "de baixo; a cerca; sob.",
+                "D": "em baixo; a cerca; sobre.",
+                "E": "abaixo; cerca; sobre.  \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 5 de 10 QUESTÃO 14  \nAnalise as sentenças a seguir e assinale a \nalternativa em que a colocação pronominal é do \ntipo mesóclise.  \n(A) Não soube se colocar naquela discussão.   \n(B) Privar -lhe-ão de todos os seus sonhos.   \n(C) Esqueceram -se do aniversário da própria \nmãe.   \n(D) Eles me avisaram a respeito do jogo de \nfutebol.  \n(E) A mulher esperou -te até não aguentar mais."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: A palavra que apresenta a grafia incorreta é:",
+            "alternativas": {
+                "A": "enigma.",
+                "B": "manteiga.",
+                "C": "individado.",
+                "D": "entrevista.",
+                "E": "humilhante.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Pedro deseja -se embalar todo o açúcar contido \nem 5 sacos de 25 quilogramas cada um em \npacotes contendo 500 gramas de açúcar. Nessas \ncircunstâncias, o total exato de pacotes \nnecessários deve ser:",
+            "alternativas": {
+                "A": "25 pacotes",
+                "B": "2500 pacotes",
+                "C": "250 pacotes",
+                "D": "20 pacotes",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Um ciclista percorreu 840 metros em 14 \nsegundos. Se ele continuar nesse ritmo, quantos \nmetros ele terá percorrido após 42 segundos?",
+            "alternativas": {
+                "A": "2.520 metros",
+                "B": "240 metros",
+                "C": "2.500 metros",
+                "D": "35.280 metros",
+                "E": "Nenhuma das alternativas  QUESTÃO 18  \nAssinale a alternativa que apresenta o \nQuadragésimo segundo número par sucessor de \n98? \n \n(A) 140 \n(B) 138 \n(C) 184 \n(D) 182 \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Ana encontrou um cofrinho contendo 25 notas \nde R$ 10,00 e 60 moedas de R$ 0,50. Qual é o \nvalor total encontrado no cofre?",
+            "alternativas": {
+                "A": "R$ 300,00",
+                "B": "R$ 280,00",
+                "C": "R$ 250,00",
+                "D": "R$ 310,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Um agricultor tem um campo retangular de 50 \nmetros de comprimento por 30 metros de largura. \nSe ele decidir cercar todo o campo com uma \ncerca, quantos metros de cerca ele precisará?",
+            "alternativas": {
+                "A": "80",
+                "B": "1500",
+                "C": "24",
+                "D": "160",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Lucas está economizando para comprar um \ncomputador. Ele conseguiu economizar 30% do \nvalor do computador, que totalizou R$ 2.400,00. \nQual é o valor total do computador que Lucas \ndeseja comprar?",
+            "alternativas": {
+                "A": "R$ 6.000,00",
+                "B": "R$ 7.000,00",
+                "C": "R$ 8.000,00",
+                "D": "R$ 9.000,00",
+                "E": "Nenhuma das alternativas  SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 6 de 10 QUESTÃO 22  \nJoana está escrevendo um livro e estima que \nprecisará de 30 dias para concluí -lo. Se ela \ncomeçou  a escrever em uma quarta -feira,  em \nque dia da semana ela finalizará o livro?  \n \n(A) Domingo  \n(B) Segunda -feira \n(C) Quinta -feira \n(D) Sexta -feira \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Assinale a alternativa que apresenta o \nOctogésimo terceiro número par antecessor de \n998?",
+            "alternativas": {
+                "A": "916",
+                "B": "914",
+                "C": "832",
+                "D": "834",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Qual é o resultado para a seguinte operação:  \n \n77 x 27 – 19:",
+            "alternativas": {
+                "A": "2.079",
+                "B": "277,14",
+                "C": "2.060",
+                "D": "2074",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Um barco consome 12 litros de gasolina por hora \nde navegação. Se o barco vai navegar por 10 \nhoras, quantos litros de gasolina ele precisará?",
+            "alternativas": {
+                "A": "112 litros",
+                "B": "110 litros",
+                "C": "10 litros",
+                "D": "120 litros",
+                "E": "Nenhuma das alternativas  \n QUESTÃO 26  \nAndré comprou um notebook, pagando 70% do \npreço do notebook como entrada e parcelando o \nrestante, sem acréscimos, em quatro parcelas de \nR$ 450,00 cada uma. Nessa compra, o valor pago \ncomo entrada foi igual a:  \n(A) R$ 6.000,00.  \n(B) R$ 1.800,00.  \n(C) R$ 3.500,00.  \n(D) R$ 4.000,00.  \n(E) R$ 4.200,00"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Uma loja de eletrônicos está oferecendo um \ndesconto de 15% em todos os seus produtos \ndurante uma venda especial. Se um laptop custa \nR$ 3.000,00 sem desconto, qual será o preço do \nlaptop durante essa venda?",
+            "alternativas": {
+                "A": "R$ 2.550,00",
+                "B": "R$ 2.700,00",
+                "C": "R$ 2.850,00",
+                "D": "R$ 3.150,00",
+                "E": "R$ 3.250,00"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Em uma festa de aniversário, cada convidado \nconsome 4 fatias de pizza. Se há 20 convidados \npresentes e cada pizza possui 8 fatias, quantas \npizzas serão necessárias para atender a demanda \nda festa?",
+            "alternativas": {
+                "A": "160 pizzas",
+                "B": "80 pizzas",
+                "C": "9 pizzas",
+                "D": "10 pizzas",
+                "E": "12 pizzas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Em uma padaria, cada pão francês custa R$ 0,50. \nSe uma pessoa compra 10 pães, qual o valor total \nque ela pagará?",
+            "alternativas": {
+                "A": "R$ 4,00",
+                "B": "R$ 5,00",
+                "C": "R$ 6,00",
+                "D": "R$ 7,00",
+                "E": "R$ 8,00  \n SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 7 de 10 QUESTÃO 30  \nUm vendedor recebe uma comissão de 5% sobre \no valor de cada produto que ele vende. Se ele \nvende um produto por R$ 500,00, quanto ele \nreceberá de comissão?  \n(A) R$ 20,00  \n(B) R$ 25,00  \n(C) R$ 30,00  \n(D) R$ 35,00  \n(E) Nenhuma das alternativas  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Em termos técnicos, a pintura é um conjunto de \ncamadas que recobrem o substrato, tendo como \nfunção a proteção da superfície e aparência \ndecorativa, sendo que toda a superfície a ser \npintada deverá estar completamente limpa, isenta \nde gorduras, umidade, fer rugem, incrustações, \nprodutos químicos diversos, pingos de solda, \ncarepa de laminação, furos etc. Toda vez que \numa superfície tiver sido LIXADA, esta deverá \nser:",
+            "alternativas": {
+                "A": "Ser aplicada tinta imediatamente.",
+                "B": "Limpa com água.",
+                "C": "Limpa com escova e pano para remover todo \no pó.",
+                "D": "Limpa com produtos de limpeza doméstico.",
+                "E": "Limpa com pano molhado."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: É o método  de aplicação  mais indicado para \naplicação da primeira de mão de tinta em cordões \nde solda, reentrâncias, cantos vivos, onde outros \nmétodos de aplicação poderiam deixar falhas, \ndevido à dificuldade de penetração ou à cavidade \ne às demais regiões de difícil acesso. O método \ndescrito, se refere ao:",
+            "alternativas": {
+                "A": "Trincha (Pincel de formato chato)",
+                "B": "Rolo",
+                "C": "Pistola Convencional",
+                "D": "Pistola Sem Ar (Airless)",
+                "E": "Pintura Eletrostática  \n QUESTÃO 33  \nA pintura de parede é um trabalho que possui \ninúmeras etapas para assegurar um resultado \nsatisfatório, sendo que a primeira delas é \njustamente preparar a superfície e o ambiente.  \nA __________ é um produto versátil, mas a sua \nprincipal finalidade é preparar as superfícies para \no acabamento. Dessa forma, ela consegue \nnivelar, remover trincas e até mesmo reparar \nparedes estufadas, por exemplo.  \nAssinale a alternativa que completa corretamente \na lacuna do texto acima:  \n \n(A) Tinta  \n(B) Massa corrida  \n(C) Selador de Parede  \n(D) Lixa  \n(E) Thinner"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: O método de aplicação com a ferramenta \nrepresentada na figura abaixo é particularmente \naplicável à pintura de grandes áreas planas ou \ncom grande raio de curvatura, na presença de \nventos.  \n \n \n \n \n \n \n \n \n \n \nQual alternativa corresponde a ferramenta \nacima?",
+            "alternativas": {
+                "A": "Pistola",
+                "B": "Pincel",
+                "C": "Desempenadeira",
+                "D": "Compressor de ar",
+                "E": "Rolo  \nSAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 8 de 10 QUESTÃO 35  \nO assentamento de cerâmicas não apresenta \ngrandes dificuldades, desde que alguns detalhes \nsejam considerados durante a aplicação, \nmantendo assim a beleza, qualidade e \ndurabilidade do piso.  Para a aplicação, não é \nnecessário a utilização de:  \n \n(A) Desempenadeira  \n(B) Pincél  \n(C) Argamassa  \n(D) Espaçador de piso  \n(E) Máquina de corte"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Qual das seguintes afirmações sobre rede elétrica \naérea dispõe de forma correta sua definição?",
+            "alternativas": {
+                "A": "É estruturada abaixo do solo.",
+                "B": "Esse sistema não utiliza de grandes torres de \nmetal.",
+                "C": "Se baseia no uso de cabos aéreos, com \nrevestimento isolante, para o transporte da \nenergia que sai das usinas e geradores até o \nconsumidor.",
+                "D": "São compostas de alimentadores de média \ntensão, chaves de manobra e transformadores, \nque podem ser instalados de forma subterrânea \nou acima do nível do solo, dependendo da \ncaracterística da instalação.",
+                "E": "Se baseia no uso de cabos subterrâneos, sem \nrevestimento isolante, para o transporte da \nenergia que sai das usinas e geradores até o \nconsumidor.  \n \n \n \n \n \n \n QUESTÃO 37  \nDe acordo com a rede elétrica predial, analise os \nitens abaixo.  \n \nI - Instalação em tensão reduzida ou extra baixa \ntensão: consiste nas instalações com tensão \nelétrica reduzida, operando com carga menor ou \nigual a 75 V em corrente contínua ou menor ou \nigual a 50 V em corrente alternada;  \nII - Instalação em baixa tensão (BT): trata -se de \numa infraestrutura na qual a tensão elétrica \nnominal é superior a 75 V e menor ou igual a \n1500 V em corrente contínua ou superior a 50 V \ne menor ou igual a 1.000V em corrente alternada;  \nIII - Instalação em alta tensão (AT): são \ninstalações com valores superiores aos \nestabelecidos nas instalações de baixa tensão, \nsendo que podem atingir centenas de kV. São \nusadas em indústrias ou instalações prediais de \ngrande porte  \n \n(A) Apenas o item I está correto.  \n(B) Apenas os itens I e II estão corretos.  \n(C) Apenas o item III está correto.  \n(D) Apenas o item II está correto.  \n(E) Os itens I, II e III estão corretos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: De acordo com os conhecimentos de \nManutenção em Alvenaria. Analise as \nafirmativas abaixo atribuindo (V) para \nverdadeira e (F) para falsa, em seguida assinale a \nalternativa com a sequência correta.  \n \n( ) A manutenção em alvenaria é fundamental \npara garantir bom funcionamento de instalações \nindustriais, para a segurança das pessoas que \nhabitam ou frequentam a construção, além de \nvalorizar o imóvel e prolongar a sua vida útil.  \n \n( ) A manutenção em alvenaria não é necessária, \numa vez que não exige reparos.  \n \n( ) A manutenção em alvenaria não garante o bom \nfuncionamento de instalações industriais.",
+            "alternativas": {
+                "A": "F - F -F",
+                "B": "V - V- V",
+                "C": "F - V -F",
+                "D": "V - F- F",
+                "E": "F -V -V SAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 9 de 10 QUESTÃO 39  \nQual alternativa corresponde a manutenção que é \nfeita antes que algum problema aconteça?  \n \n(A) Manutenção preventiva.  \n(B) Manutenção preditiva.  \n(C) Manutenção corretiva.  \n(D) Manutenção prescritiva.  \n(E)  Manutenção corretora."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE DE SERVIÇOS DIVERSOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Qual alternativa corresponde a imagem abaixo?",
+            "alternativas": {
+                "A": "Tubos.",
+                "B": "Transformador.",
+                "C": "Fio elétrico.",
+                "D": "Disjuntor.",
+                "E": "Interruptor.  \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSAEP - Serviço de Água e Esgoto de Pirassununga – Concurso Público - 01/2024             INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE DE SERVIÇOS DIVERSOS                                                                                                          Página 10 de 10"
+            },
+            "resposta_correta": "A"
+        }
+    ]
+}

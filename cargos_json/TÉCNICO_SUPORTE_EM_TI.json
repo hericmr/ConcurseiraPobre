@@ -1,3 +1,340 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a468394fb108c4ed1f6cccce270a73a89fdaa85d691812adce4dc988ed8e646
-size 33653
+{
+    "TÉCNICO SUPORTE EM TI": [
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: “Silêncio”, de Clarice Lispector, trata -se de um \ntexto narrativo. Enquanto texto desse tipo, suas \nprincipais características são:",
+            "alternativas": {
+                "A": "uso de elementos não verbais para produzir \nsentido.",
+                "B": "caráter instrucional, com linguagem objetiva \ne impessoal.",
+                "C": "presença de um(a) narrador(a), linguagem \nsubjetiva e pessoal.",
+                "D": "exposição de fatos reais com linguagem \nobjetiva e impessoal.",
+                "E": "estrutura em versos ritmados, linguagem \nsubjetiva e presença de um eu lírico."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: No excerto “Os ouvidos se afiam, a cabeça se \ninclina, o corpo todo escuta: nenhum rumor.”, \nobserva-se o uso de linguagem metafórica pela \nnarradora para descrever a cena. O uso de \nmetáfora é evidente apenas na(s) sentença(s):",
+            "alternativas": {
+                "A": "“Os ouvidos se afiam” e “o corpo todo \nescuta”.",
+                "B": "“a cabeça se inclina”.",
+                "C": "“nenhum rumor”.",
+                "D": "“o corpo todo escuta”.",
+                "E": "“a cabeça se inclina” e “nenhum rumor”."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: No excerto “Ele é vazio e sem promessa. Se ao \nmenos houvesse o vento.”, a narradora se refere \nao silêncio da madrugada como algo incômodo. \nA oração condicional “Se ao menos houvesse o \nvento” é utilizada para expressar:",
+            "alternativas": {
+                "A": "o desejo da narradora por algo que disfarce \nou interrompa o silêncio.",
+                "B": "o desagrado da narradora caso o vento \ninterrompa o silêncio.",
+                "C": "as qualidades que o som do vento apresenta.",
+                "D": "a paz de espírito que a narradora sente \nquando percebe o vento.",
+                "E": "o incômodo da narradora tanto em relação ao \nsilêncio quanto ao som do vento. QUESTÃO 04 \nConsidere o seguinte excerto: “Mesmo o \nsofrimento pior, o da amizade perdida, é apenas \nfuga.” Em relação às classes gramaticais, as \npalavras “o”, “pior”, “apenas” e “fuga” são, \nrespectivamente: \n(A) conjunção, adjetivo, advérbio e substantivo. \n(B) artigo, adjetivo, advérbio e substantivo. \n(C) artigo, substantivo, advérbio e substantivo. \n(D) artigo, adjetivo, substantivo e substantivo. \n(E) artigo, adjetivo, advérbio e advérbio."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Considere as seguintes sentenças, retiradas do \ntexto: \nI. “Se és morte, como te alcançar.”  \nII. “Tão suave é para o ser humano enfim mostrar \nsua indignidade”  \nIII. “Quando este se apresenta todo nu, nem é \ncomunicação”  \nAs palavras “te”, “sua” e “este”, que ocorrem nas \nsentenças dadas, são, respectivamente, pronomes \ndos tipos:",
+            "alternativas": {
+                "A": "pronome pessoal do caso oblíquo, pronome \npessoal do caso oblíquo e pronome \ndemonstrativo.",
+                "B": "pronome pessoal do caso oblíquo, pronome \npossessivo, pronome relativo.",
+                "C": "pronome pessoal do caso oblíquo, pronome \npossessivo, pronome demonstrativo.",
+                "D": "pronome pessoal do caso reto, pronome \npossessivo, pronome demonstrativo.",
+                "E": "pronome pessoal do caso reto, pronome \npessoal do caso reto, pronome relativo. \n \n \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo/SP – Concurso Público 01/2023          INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO SUPORTE EM TI                                                                                                                           Página 4 de 12 QUESTÃO 06 \nConsidere as seguintes sentenças, retiradas do \ntexto: \nI. “Ele é o silêncio.”  \nII. “Os ouvidos se afiam.”  \nIII. “Pois nós não fomos feitos senão para o \npequeno silêncio.”  \nOcorre verbo pronominal apenas na(s) \nsentença(s): \n(A) I e II. \n(B) II e III. \n(C) III. \n(D) I. \n(E) II."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Considere as seguintes sentenças, retiradas do \ntexto: \nI. “as folhas das árvores ainda se ajeitarão \nmelhor”  \nII. “Tenta -se em vão trabalhar”  \nNas sentenças dadas, a colocação dos pronomes \ncorresponde, respectivamente, a:",
+            "alternativas": {
+                "A": "próclise e ênclise.",
+                "B": "ênclise e mesóclise.",
+                "C": "próclise e mesóclise.",
+                "D": "mesóclise e ênclise.",
+                "E": "mesóclise e próclise."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Assinale a alternativa que apresenta a sentença \nortograficamente correta.",
+            "alternativas": {
+                "A": "Os neo-nazistas estão se manifestando.",
+                "B": "Foram estudados diferentes tipos de pólens.",
+                "C": "Sou grato àqueles que confiam em mim.",
+                "D": "Dei o livro à João.",
+                "E": "As provas de bio-química já foram \nrealizadas. \n QUESTÃO 09 \nConsidere as seguintes palavras: \nI. Ambivalência. \nII. Artimanhas. \nIII. Soubéssemos. \nNas palavras dadas, observa-se morfema de \nflexão de número apenas em: \n(A) ambivalência. \n(B) artimanhas. \n(C) soubéssemos. \n(D) ambivalência e soubéssemos. \n(E) artimanhas e soubéssemos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Assinale a alternativa que apresenta a palavra \ncorreta em relação ao emprego do hífen.",
+            "alternativas": {
+                "A": "agro-ambiental.",
+                "B": "nano-tecnologia.",
+                "C": "bio-combustível.",
+                "D": "neo-hegelianismo.",
+                "E": "luso-descendente. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Considere que uma torneira, operando com sua \nvazão máxima, é capaz de encher um balde, que \npossui volume total de 20 (vinte) litros, em 2 \n(dois) minutos. Quanto tempo será necessário \npara, utilizando duas torneiras iguais a esta, \nencher completamente uma caixa d´água com \nquinhentos litros de capacidade?",
+            "alternativas": {
+                "A": "15 minutos",
+                "B": "20 minutos",
+                "C": "25 minutos",
+                "D": "30 minutos",
+                "E": "50 minutos Serviço Autônomo De Água e Esgotos De Amparo/SP – Concurso Público 01/2023          INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO SUPORTE EM TI                                                                                                                           Página 5 de 12 QUESTÃO 12  \nConsidere as seguintes equações: 2x + y = 37 e x \n+ 3y = 56. Qual o valor de x? \n(A) 11 \n(B) 13 \n(C) 15 \n(D) 17 \n(E) 19"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Qual o volume, em m³, ocupado por um cilindro \nque possui altura igual a 150 (cento e cinquenta) \ncentímetros e área da base circular igual a 2 m²?",
+            "alternativas": {
+                "A": "1,5",
+                "B": "2,0",
+                "C": "2,2",
+                "D": "3,0",
+                "E": "3,5"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Qual deverá ser o raio, em centímetros, de uma \nforma circular a ser utilizada por uma confeiteira \nque deseja preparar uma torta que possua área de \n147 (cento e quarenta e sete) cm²? Considere Pi \n= 3.",
+            "alternativas": {
+                "A": "6,0",
+                "B": "6,5",
+                "C": "7,0",
+                "D": "7,5",
+                "E": "8,0 \n \n \n \n QUESTÃO 15 \nUm consumidor pactuou um empréstimo no \nvalor de R$ 170.000,00 (cento e setenta mil reais) \ncom uma instituição financeira, sendo \nestabelecido no contrato o pagamento de juros \nsimples mensais de 0,5% (meio porcento). \nAssim, quanto irá pagar, a título de juros, no \nprimeiro mês? \n(A) R$ 700,00 \n(B) R$ 750,00 \n(C) R$ 800,00 \n(D) R$ 850,00 \n(E) R$ 900,00 \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Acerca do uso do Correio Eletrônico, é correto o \nque se afirma em:",
+            "alternativas": {
+                "A": "O e-mail é uma ferramenta essencial para a \ncriação de conteúdo escrito em diversos \ncontextos, desde a elaboração de trabalhos \nacadêmicos até a criação de documentos \nprofissionais.",
+                "B": "O e-mail possui recursos como filtros, \nclassificações e tabelas dinâmicas, facilitando a \nanálise de grandes conjuntos de dados, \nidentificando tendências, padrões e insights.",
+                "C": "O e-mail oferece espaço de armazenamento \nem nuvem, permitindo que os usuários salvem \nseus arquivos online, em vez de ocupar espaço \nnos discos rígidos locais.",
+                "D": "O e-mail permite o envio de anexos, como \ndocumentos, imagens, planilhas e apresentações, \ntornando-o uma ferramenta valiosa para \ncompartilhar informações e colaborar em \nprojetos.",
+                "E": "O e-mail permite o uso de imagens, gráficos \ne outros elementos visuais ajuda a tornar a \napresentação mais atrativa e compreensível. \nEsses elementos podem ilustrar conceitos, \nresumir informações complexas e criar um apelo \nvisual que mantém o interesse da audiência. Serviço Autônomo De Água e Esgotos De Amparo/SP – Concurso Público 01/2023          INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO SUPORTE EM TI                                                                                                                           Página 6 de 12 QUESTÃO 17  \nAcerca do MS - PowerPoint 2016, analise o \ntrecho a seguir: \n“Apresenta uma visão geral da estrutura \nhierárquica dos títulos da apresentação. Ele é útil \npara planejar e organizar de modo sequencial os \nslides, permitindo a visualização e organização \nda apresentação.”  \nDiante da análise, assinale a alternativa que trata \ncorretamente sobre o conceito mencionado. \n(A) Modo de exibição normal. \n(B) Modo de exibição classificação de slides. \n(C) Modo de exibição de anotações. \n(D) Modo de exibição estrutura de tópicos. \n(E) Modo de exibição de apresentação de slides."
+            },
+            "resposta_correta": "Não encontrada"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: As pastas representam elementos fundamentais \nintegrantes do sistema de arquivos inerente ao \nWindows 7, facultando aos usuários a habilidade \nde alocar, ordenar e adentrar seus arquivos de \nmaneira altamente eficaz. Elas funcionam, em \nsua essência, como estruturas virtuais de \ncontenção, contribuindo para a classificação e \naglutinação dos arquivos correlacionados. As \npastas têm a capacidade de abarcar uma \ndiversificada gama de tipos de arquivos, \nabrangendo desde documentos até imagens, \nvídeos e aplicações. \nAlgumas características importantes das pastas \nno Windows 7 incluem, exceto:",
+            "alternativas": {
+                "A": "Nome e identificação.",
+                "B": "Organização e categorização.",
+                "C": "Impressão de imagem.",
+                "D": "Pesquisa.",
+                "E": "Personalização. \n \n QUESTÃO 19  \nA estrutura primordial das apresentações criadas \nno PowerPoint é formada por slides. Cada slide \ncorresponde a uma única página ou tela que \nviabiliza a inclusão de diversos elementos, \nenglobando texto, imagens, gráficos, tabelas, \nmídia, e uma gama ampla de outros recursos. \nEsses slides atuam como os blocos fundamentais \ndas apresentações, desempenhando o papel de \ncomponentes estruturais que permitem a \ntransmissão de ideias, mensagens e informações. \nAcerca da modalidade de transições, é correto \nafirmar. \n(A) Ao entrar no modo de apresentação, os slides \nocupam a tela inteira, permitindo que o \napresentador navegue pelos slides de maneira \nfluida e interativa. \n(B) O PowerPoint oferece diversos layouts de \nslide predefinidos que determinam a organização \ne os espaços reservados para diferentes tipos de \nconteúdo, como títulos, subtítulos, imagens e \nlistas. \n(C) As transições controlam como os slides se \nmovem de um para o outro durante a \napresentação. Elas podem incluir efeitos visuais, \ncomo desvanecimento, dissolução e slide de \nentrada.  \n(D) Geralmente, uma apresentação começa com \num slide de título que introduz o tópico da \napresentação e inclui o nome do apresentador e \noutras informações relevantes. \n(E) As animações permitem controlar como \nelementos individuais dentro de um slide \naparecem ou desaparecem. Isso pode incluir \ntexto, imagens e gráficos que aparecem à medida \nque o apresentador avança. \n \n \n \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo/SP – Concurso Público 01/2023          INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO SUPORTE EM TI                                                                                                                           Página 7 de 12 QUESTÃO 20 \n \nAnalise a imagem a seguir: \n \nAcerca do item destacado na imagem, é possível \nafirmar: \n(A) Trata- se da função “numeração”.  \n(B) Trata- se da função “maiúsculas e \nminúsculas”.  \n(C) Trata- se da função “sobrescrito”.  \n(D) Trata- se da função “lista de vários níveis”.  \n(E) Trata- se da função “subscrito”.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Dentre os inúmeros comandos existentes no \nsistema operacional Linux temos o “TEE”, cuja \nfunção é:",
+            "alternativas": {
+                "A": "Copiar o input  para um standard output e \noutros arquivos.",
+                "B": "Falar com outros usuários que estejam \nlogados no momento.",
+                "C": "Copiar arquivos.",
+                "D": "Encerrar o sistema.",
+                "E": "Comprimir arquivos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: A respeito do sistema operacional Linux, assinale \na alternativa que indica corretamente o nome do \ngerenciador de arquivos:",
+            "alternativas": {
+                "A": "Gnome",
+                "B": "Plancalc",
+                "C": "Konqueror",
+                "D": "Unix",
+                "E": "Shell QUESTÃO 23 \nA respeito do sistema operacional Windows, \nassinale a alternativa INCORRETA : \n(A) CCleaner  é um software que realiza a limpeza \ne remoção de programas em desuso do \ncomputador. \n(B) O Defraggler não é um programa utilizado \npara desfragmentar o disco rígido do computador. \n(C) O Defender é o antivírus padrão do Windows. \n(D) É possível instalar programas através da \nMicrosoft Store . \n(E) A unidade “Disco Local (C:)” armazena o \nsistema operacional."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Em relação aos protocolos de internet, assinale a \nalternativa que indica corretamente o principal \nprotocolo para a transmissão de e-mails.",
+            "alternativas": {
+                "A": "SMTP",
+                "B": "SNMP",
+                "C": "FTP",
+                "D": "SSH",
+                "E": "IRC"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Com relação aos métodos de avaliação de riscos \nem segurança da informação, assinale a \nalternativa INCORRETA .",
+            "alternativas": {
+                "A": "O Método CRAMM possui três etapas \nprincipais de avaliação, sendo elas: objetivos da \nsegurança; análise dos riscos e requisitos de \nsegurança; e identificação e seleção de \ncontramedidas.",
+                "B": "O Método COBIT 5 for risk  consiste em seis \netapas e tem por escopo cenários de risco \nrelevantes e reais do sistema afetos ao negócio.",
+                "C": "O Método ISO 27005 garante a eliminação de \ntodos os riscos de segurança em uma organização, \nindependentemente de sua infraestrutura ou \nsistemas utilizados.",
+                "D": "O Processo GRSIC baseia-se no ciclo PFVA.",
+                "E": "O Método FRAAP tem por etapas pré-\nFRAAP, Sessão FRAAP e Pós-FRAAP.   \nServiço Autônomo De Água e Esgotos De Amparo/SP – Concurso Público 01/2023          INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO SUPORTE EM TI                                                                                                                           Página 8 de 12 QUESTÃO 26 \nNo que diz respeito a arquitetura de \ncomputadores, assinale a alternativa CORRETA . \n(A) O barramento de controle do processador WR \nindica que a operação realizada é de leitura. \n(B) A memória RAM do tipo DRAM é estática \ncomposta por seis transistores. \n(C) O barramento de controle do processador \nINTA indica que a operação realizada é de \ngravação. \n(D) Na avaliação de desempenho do computador, \na vazão ( throughput ) corresponde ao tempo total \nnecessário para o computador completar uma \ntarefa. \n(E) EEPROM são memórias de leitura (ROM) \nque podem ser regravadas eletronicamente."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Com relação a instalação e manutenção de \nperiféricos, assinale a alternativa INCORRETA .",
+            "alternativas": {
+                "A": "PPM é a notação de indica a velocidade de \nimpressão da impressora.",
+                "B": "A impressora térmica imprime as \ninformações com o aquecimento do papel.",
+                "C": "O sistema de cores para impressão utilizado \nem impressoras a jato de tinta é o CMYK.",
+                "D": "As impressoras matriciais são silenciosas \napesar da qualidade da impressão se ilimitada e \nde baixa resolução.",
+                "E": "A impressora a laser possui um cilindro \nrevestido com condutor eletroestático."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Sobre direitos e licenças de softwares, assinale a \nalternativa INCORRETA .",
+            "alternativas": {
+                "A": "Existem três tipos de licenças de software \nlivre, sendo: licença permissiva, licença recíproca \ntotal e licença recíproca parcial.",
+                "B": "A licença AGPL se enquadra no tipo de \nlicença permissiva.",
+                "C": "A licença BSD é uma licença de software \nlivre que assegura a proteção do código original.",
+                "D": "A licença MIT não possui copyright, \nviabilizando a modificação por outros \nutilizadores.",
+                "E": "A licença Apache permite o uso e distribuição \ndo código-fonte. QUESTÃO 29 \nLeia os itens a seguir: \nI – Linux \nII – CD-ROM \nIII – Mouse \nIV – Adobe Reader \nSobre os itens acima apresentados, assinale a \nalternativa que indica corretamente os itens \nclassificados como softwares . \n(A) Apenas os itens I e IV. \n(B) Apenas os itens II, III e IV. \n(C) Apenas os itens I e III. \n(D) Apenas os itens II e IV. \n(E) Apenas os itens III e IV."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Leia os itens a seguir. \nI – MS-Word \nII – Android \nIII  - JAVA \nIV – Unix \nSobre os  programas acima elencados, assinale a \nalternativa que indica, respectivamente, suas \ncategorias.",
+            "alternativas": {
+                "A": "Software Aplicativo/ Software Básico/ \nSoftware Básico/ Software Básico.",
+                "B": "Software Básico/ Software Utilitário/ \nSoftware Básico/ Software Aplicativo.",
+                "C": "Software Utilitário/ Software Aplicativo/ \nSoftware Básico/ Software Aplicativo.",
+                "D": "Software Básico/ Software Aplicativo/ \nSoftware Básico/ Software Utilitário.",
+                "E": "Software Utilitário/ Software Aplicativo/ \nSoftware Aplicativo/ Software Utilitário. \n \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo/SP – Concurso Público 01/2023          INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO SUPORTE EM TI                                                                                                                           Página 9 de 12 QUESTÃO 31 \nA respeitos dos softwares, assinale a alternativa \nINCORRETA . \n(A) Software Básico refere-se ao programa \nessencial para o funcionamento do computador. \n(B) Software de Domínio Público refere-se ao \nprograma que não possui proteção por copyright . \n(C) Software Utilitário refere-se ao programa que \ntem a finalidade de otimizar o sistema e melhorar \no desempenho da máquina. \n(D) Software Shareware é aquele disponibilizado \ngratuitamente e com todas as funcionalidades \nabertas para uso por prazo indeterminado. \n(E) Software Aplicativo refere-se ao programa \nque visa auxiliar o utilizador na realização de \ntarefas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: A respeito do Visual Basic, assinale a alternativa \nCORRETA .",
+            "alternativas": {
+                "A": "O Visual Basic é uma linguagem de \nprogramação exclusivamente voltada para o \ndesenvolvimento de aplicativos móveis.",
+                "B": "O Visual Basic não suporta a criação de \ninterfaces gráficas de usuário (GUI).",
+                "C": "O Visual Basic é uma linguagem compilada, \no que significa que o código-fonte é executado \ndiretamente pelo processador.",
+                "D": "O Visual Basic é frequentemente utilizado \npara o desenvolvimento de aplicativos de desktop \ncom interfaces gráficas.",
+                "E": "O Visual Basic não permite a integração com \nbancos de dados externos.  \n \n \n \n \n \n \n \n QUESTÃO 33 \nA respeito do PHP, assinale a alternativa \nCORRETA . \n(A) O PHP é uma linguagem de programação \nvoltada exclusivamente para o desenvolvimento \nde jogos. \n(B) O PHP é uma linguagem compilada, o que \nresulta em uma execução mais rápida do código. \n(C) O PHP é utilizado apenas para a criação de \npáginas estáticas, não permitindo interações \ndinâmicas. \n(D) O PHP é uma linguagem de script do lado do \nservidor usada principalmente para \ndesenvolvimento web. \n(E) O PHP não possui suporte para conexão com \nbancos de dados externos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: A respeito do MS-Access, assinale a alternativa \nCORRETA.",
+            "alternativas": {
+                "A": "O MS-Access é um sistema operacional de \ncódigo-aberto amplamente utilizado para \ndesenvolvimento web.",
+                "B": "O MS-Access é um software de edição de \nimagens e design gráfico, popular entre os \nprofissionais de marketing e propaganda.",
+                "C": "O MS-Access é um sistema de gerenciamento \nde banco de dados voltado exclusivamente para \nLinux.",
+                "D": "O MS-Access é um sistema de gerenciamento \nde banco de dados desktop que permite a criação, \norganização e manipulação de dados de forma \neficiente.",
+                "E": "O MS-Access é uma linguagem de \nprogramação usada para o desenvolvimento de \nsoftwares móveis em plataformas iOS e Android.  \n \n \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo/SP – Concurso Público 01/2023          INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO SUPORTE EM TI                                                                                                                           Página 10 de 12 QUESTÃO 35 \nA respeito da linguagem C#, assinale a alternativa \nCORRETA  \n(A) C# é uma linguagem de programação \nexclusiva para o desenvolvimento de aplicativos \nmobile. \n(B) C# é uma linguagem de programação \ninterpretada, o que resulta em uma execução mais \nrápida do código-aberto. \n(C) C# é uma linguagem de programação \ndesenvolvida pela Oracle Corporation. \n(D) C# oferece suporte apenas à programação não \norientada a objetos e não permite a mistura de \nparadigmas de programação. \n(E) C# é utilizada no desenvolvimento de \naplicativos, web, games."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: A respeito da instalação e configuração de redes \nde computadores, assinale a alternativa \nINCORRETA .",
+            "alternativas": {
+                "A": "Os bridges atuam nas camadas 2  e 3, \ndesempenhando o papel de filtro de pacotes.",
+                "B": "O gateway atua como porta de entrada e saída \nda rede.",
+                "C": "Os roteadores interligam duas redes, atuam na \nrede.",
+                "D": "Os hubs são repetidores para múltiplas portas.",
+                "E": "Os bridges realizam a comunicação das \nmáquinas em variadas estruturas de redes. \n \n \n \n \n \n \n \n \n \n QUESTÃO 37 \nA respeito da instalação e configuração de redes \nde computadores, assinale a alternativa \nCORRETA . \n(A) Na rede tipo “cliente -servidor”, a \nadministração e segurança não são centralizados \nem um único lugar. \n(B) O servidor web (internet) é responsável pelo \naceite de solicitações HTTP. \n(C) O servidor de FTP é responsável por gerenciar \no envio e recebimento de e-mails. \n(D) O servidor de impressão é responsável pelo \ngerenciamento (download e upload) de arquivos. \n(E) O servidor de arquivos é responsável pelo \ncontrole de tarefas de impressão."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: A respeito da instalação e configuração de redes \nde computadores, assinale a alternativa \nINCORRETA",
+            "alternativas": {
+                "A": "A rede do tipo WAN é responsável pela \ncomunicação e interligação de hardwares \nalocados numa mesma estrutura.",
+                "B": "A rede do tipo MAN é responsável pela \ncomunicação de computadores alocados em um \nperímetro limitado.",
+                "C": "A rede do tipo WAN é responsável pela \ncomunicação entre utilizadores \nindependentemente de sua localização.",
+                "D": "A rede do tipo LAN é responsável pela \ncomunicação de equipamentos alocados em um \nmesmo prédio.",
+                "E": "As redes do tipo LAN, WAN e MAN são as \nmais conhecidas, porém existem outras. \n \n \n \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo/SP – Concurso Público 01/2023          INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO SUPORTE EM TI                                                                                                                           Página 11 de 12 QUESTÃO 39 \nA respeito da instalação e configuração de redes \nde computadores, assinale a alternativa \nCORRETA.  (A) As redes wireless  não permitem \na integração de dispositivos como handhelds . \n(B) A frequência de transmissão atual das redes \nwireless é de no máximo 2.0 GHz no padrão \n802.11. \n(C) No modo ponto a ponto da rede wireless, os \ndispositivos necessitam de um ponto de acesso \n(AP). \n(D) Atualmente o par traçado do tipo UTP é o \nmenos utilizado por oferecer maior interferência \n(crosstalk ). \n(E) Os cabos de fibra óticas são mais seguros pois \nnão apresentam ignição e possuem sinal mais \ndifícil de interceptação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO SUPORTE EM TI",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: A respeito da instalação e configuração de redes \nde computadores, assinale a alternativa \nINCORRETA.",
+            "alternativas": {
+                "A": "No modelo OSI existem apenas quatro \ncamadas: aplicação, transporte, internet e acesso \nà rede.",
+                "B": "No modelo OSI as camadas são nominadas \ncomo aplicação, apresentação, sessão, transporte, \nrede, enlace e físico.",
+                "C": "No modelo TCP/IP existem apenas quatro \ncamadas: aplicação, transporte, internet e acesso \nà rede.",
+                "D": "O DHCP é um protocolo que permite o \ncontrole dos endereços e configuração de IP na \nrede.",
+                "E": "Unicast, broadcast e multicast são as \nclassificações que determinam a quantidade de \ntráfego na rede. \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo/SP – Concurso Público 01/2023          INSTITUTO AVANÇA SÃO PAULO \n \nTÉCNICO SUPORTE EM TI                                                                                                                           Página 12 de 12"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

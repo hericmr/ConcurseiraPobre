@@ -1,3 +1,424 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b6304fd595c7b051fd8bdfc0ea8b35f7d86f4a4e382adffd3f51af118519884a
-size 44495
+{
+    "BACHAREL EM TURISMO": [
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, conclui-se que:",
+            "alternativas": {
+                "A": "As hipóteses acerca da ilusão da Lua ainda \nnão foram comprovadas cientificamente.",
+                "B": "O que causa a ilusão da Lua é o tamanho de \nobjetos em segundo plano.",
+                "C": "A ilusão da Lua é um fenômeno físico \ncausado pela própria atmosfera.",
+                "D": "A ilusão de Ebbinghaus é a teoria que melhor \nexplica a ilusão da Lua.",
+                "E": "A teoria mais bem consolidada a respeito da \nilusão da Lua é a de Aristóteles. \nPrefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 3 de 13 QUESTÃO 02 \nA expressão “satélite natural”  é empregada, no \nprimeiro parágrafo do texto, para se referir à Lua. \nNesse sentido, é um recurso de coesão: \n(A) sequencial por justaposição. \n(B) sequencial por conexão. \n(C) referencial catafórico. \n(D) por elipse. \n(E) lexical."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: A oração introduzida pelo vocábulo “mesmo” , \nno excerto “ Eles também enxergam a ilusão da \nLua, mesmo  sem ter objetos em primeiro plano \ncomo indicação de distância.”,  exprime um \nsentido:",
+            "alternativas": {
+                "A": "conformativo.",
+                "B": "condicional.",
+                "C": "concessivo.",
+                "D": "comparativo.",
+                "E": "causal."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Analise o seguinte excerto: “[...] ainda não existe \numa explicação científica sólida sobre por que \nisso acontece.”  Na expressão “por que” , que \nocorre no excerto dado, a palavra “que” tem \nfunção gramatical de:",
+            "alternativas": {
+                "A": "pronome relativo.",
+                "B": "pronome demonstrativo.",
+                "C": "conjunção integrante.",
+                "D": "conjunção causal.",
+                "E": "advérbio.  \n \n \n \n \n \n \n QUESTÃO 05 \nConsidere a seguinte estrofe da canção O \nquereres , de Caetano Veloso: \n \n “Onde queres prazer, sou o que dói  \nE onde queres tortura, mansidão  \nOnde queres um lar, revolução ”  \n \nAs vírgulas empregadas no segundo e no terceiro \nverso da estrofe indicam: \n \n(A) que as palavras “mansidão” e “revolução” \nsão apostos em seus respectivos versos. \n(B) que as palavras “mansidão” e “revolução” \nsão termos coordenados das orações de seus \nrespectivos versos. \n(C) a elipse do verbo “queres”,  das orações de \nseus respectivos versos. \n(D) a elipse do verbo “sou”,  do primeiro verso \nda estrofe, no segundo e no terceiro verso.  \n(E) a elipse do advérbio “onde” , das orações de \nseus respectivos versos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: A sentença a seguir em que ocorre verbo que \ndenota sentido figurado é:",
+            "alternativas": {
+                "A": "Nesta época do ano escurece mais tarde que \no habitual.",
+                "B": "Seu cansaço era tanto que seus olhos \npestanejavam lentamente.",
+                "C": "Na madrugada, as estrelas fulguravam no \ncéu.",
+                "D": "Seu projeto de futuro desmoronou com a \nperda familiar.",
+                "E": "As caixas caíram e logo as taças se \nestilhaçaram pelo chão. \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 4 de 13 QUESTÃO 07 \nAnalise as sentenças apresentadas a seguir e \nidentifique em qual alternativa ocorre o emprego \nincorreto  do acento indicador de crase. \n(A) À ela tenho que dizer que seu \ncomportamento é nocivo.  \n(B) Ninguém é imune à dor de um coração \npartido.  \n(C) O acesso às universidades públicas e de \nqualidade é um direito de todos. \n(D) O ônibus chega à rodoviária às 19 horas. \n(E) Plantou novas orquídeas, às quais tem \ndedicado muito tempo ultimamente."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Verifica-se o emprego de uma conjunção \nsubordinativa de valor conformativo apenas em:",
+            "alternativas": {
+                "A": "Não se distraia enquanto está em reunião.",
+                "B": "Justifique sua falta, porque corre o risco de \nser reprovado.",
+                "C": "A situação não é bem assim como dizem por \naí.",
+                "D": "Seu desempenho na prova foi ruim, \nconquanto estivesse se preparando há meses.",
+                "E": "Se tivéssemos ido à praia, teríamos encarado \numa forte chuva."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise os substantivos apresentados a seguir \nquanto às suas flexões. Aquele que apresenta \napenas  flexão de número é:",
+            "alternativas": {
+                "A": "poetisas.",
+                "B": "trabalhadores.",
+                "C": "riacho.",
+                "D": "gentalha.",
+                "E": "gerentes. \n \n \n \n QUESTÃO 10 \nNas sentenças a seguir ocorrem diferentes tipos \nde desvios, segundo a norma-padrão da língua \nportuguesa. Identifique-os e assinale a alternativa \nem que o desvio apresentado é apenas de \nnatureza ortográfica.  \n(A) Não sei porquê você não gostou do evento.  \n(B) Estes documentos requerem uma rúbrica em \ncada página.  \n(C) Eu ajudaria-lhe se tivesse me contado sobre \nisso. \n(D) Os rapazes fizeram ele se sentir mal com o \ncomentário. \n(E) Quando ver Ana por aí, diga que estou a \nprocurando. \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: De acordo com a Lei Orgânica Municipal, \nanalise as afirmativas abaixo atribuindo (V) para \nVerdadeira e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta. \n \nAo Município compete prover a tudo quanto diga \nrespeito ao seu peculiar interesse e ao bem-estar \nde sua população, cabendo-lhe privativamente, \ndentre outras, as seguintes atribuições: \n \n( )  planejar o uso e a ocupação do solo em seu \nterritório, especialmente em sua zona urbana; \n( ) disciplinar os serviços de carga e descarga e \nfixar a tonelagem máxima permitida a veículos \nque circulem em vias públicas municipais; \n( ) estabelecer cultos religiosos ou igrejas, \nsubvenciona-los, embaraçar-lhes o \nfuncionamento ou manter com eles ou seus \nrepresentantes, relações de dependência ou \naliança, ressalvada, na forma da lei, a \ncolaboração de interesse público;",
+            "alternativas": {
+                "A": "F V F",
+                "B": "V F F",
+                "C": "V V V",
+                "D": "V V F",
+                "E": "F F V  \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 5 de 13 QUESTÃO 12 \nAnalise os itens a seguir de acordo com a Lei \nMunicipal nº 851 de 1990 de Paraty, e assinale a \nalternativa correta. \nI -  A reintegração é o reingresso do funcionário \nno serviço público municipal por decisão \nadministrativa ou judicial, com ressarcimento \ndos vencimentos e vantagens do cargo efetivo. \nII - É permitido à Administração designar \nfuncionário para desempenhar atribuições \nestranhas às previstas para seu cargo.  \n \n(A) A asserção I é uma proposição falsa, e a II \né uma proposição verdadeira. \n(B) As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I. \n(C) A asserção I é uma proposição verdadeira, \ne a II é uma proposição falsa. \n(D) As asserções I e II são proposições falsas. \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Lendas Locais. “ A Serpente da Matriz”  \n \nA lenda da Serpente da Matriz Conta que uma \ncriança, filha de um relacionamento \nextraconjugal foi deixada sob os pés da imagem \nde Nossa Senhora dos Remédios. Por \nencantamento, esta criança transformou-se em \numa grande serpente, cuja cabeça fica sob os pés \nde imagem da Virgem e o corpo se estende ao \nlongo do Rio Perequê-açu. \n \nDe acordo com a lenda do Livro de Paraty , o \nque pode ocorrer se algum dia tirarem a imagem \ndo lugar? \n \n(A)A serpente se movimentará e destruirá a \ncidade. \n(B)A serpente se tornará uma criança. \n(C)A serpente será vista toda noite. \n(D) A serpente irá desaparecer e o encantamento \nse quebrará. \n(E)A cidade será inundada e coberta por uma \nnova vegetação.  \n \n \n \n QUESTÃO 14 \nQual data é consagrada  ao servidor público \nsegundo a Lei Municipal nº 851 de 1990, que \ntrata do Estatuto dos Funcionários Públicos \nMunicipais de Paraty?",
+            "alternativas": {
+                "A": "15 de agosto",
+                "B": "28 de outubro",
+                "C": "1 de maio",
+                "D": "12 de outubro",
+                "E": "7 de setembro"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: De acordo com o Livro de Paraty , quais são os \nprincipais atrativos naturais do município?",
+            "alternativas": {
+                "A": "Praias, montanhas, lagos, ilhas, cachoeiras, \nmanguezais, trilhas na Mata Atlântica e reservas \nindígenas.",
+                "B": "Praias, rios, Unidades de Conservação da \nNatureza federais, estaduais e municipais e \nformações rochosas, exceto Trilhas na Mata \nAtlântica.",
+                "C": "Praias, cachoeiras, ilhas, manguezais, trilhas \nna Mata Atlântica, Unidades de Conservação da \nNatureza federais, estaduais e municipais.",
+                "D": "Praias, Cavernas, Cachoeiras, Unidades de \nConservação da Natureza, lagoas, montanha, \ntrilhas na Mata Atlântica, praias, ilhas e \nmanguezais.",
+                "E": "Praias, cachoeiras, ilhas, manguezais, trilhas \nna Mata Atlântica, exceto Unidades de \nConservação da Natureza federais, estaduais e \nmunicipais."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: De acordo com a Emenda à Lei Orgânica n° 025, \nde 11 de outubro de 2006, que modifica o caput \ndo artigo 21 da Lei Orgânica do Município de \nParaty, qual é a composição da Mesa da Câmara?",
+            "alternativas": {
+                "A": "Presidente, 1° Vice-Presidente, 2° Vice-\nPresidente, Primeiro Secretário e Segundo \nSecretário.",
+                "B": "Presidente, 1° Vice-Presidente, Primeiro \nSecretário e Tesoureiro.",
+                "C": "Presidente, 1° Vice-Presidente, Primeiro \nSecretário e Segundo Tesoureiro.",
+                "D": "Presidente, 1° Vice-Presidente, 2° Vice-\nPresidente e Tesoureiro.",
+                "E": "Presidente, Primeiro Secretário, Segundo \nSecretário e Tesoureiro. Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 6 de 13 QUESTÃO 17 \nDe acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, qual é a duração \nda licença-prêmio  a que o funcionário tem \ndireito após cada quinquênio de efetivo exercício \nem cargo público do Município, com os direitos \ne vantagens do seu cargo e da função de \nconfiança desde que no período aquisitivo não \nregistre mais de quinze (15) faltas? \n(A) Um mês \n(B) Dois meses \n(C) Três meses \n(D) Quatro meses \n(E) 40 dias"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: De acordo com o Livro de Paraty, analise as \nafirmativas abaixo sobre “ os primeiros \nhabitantes ” atribuindo (V) para verdadeira e (F) \npara falsa, e em seguida assinale a alternativa \ncom a sequência correta.  \n( ) O Município de Paraty era ocupado por duas \ntribos de índios, antes dos portugueses chegarem \naqui: os Xavantes e Goianás. \n( )  A tribo Xavantes era inimiga dos Portugueses \ne praticava a antropofagia, ou seja, comia a carne \nde seus inimigos presos em suas guerras. \n( ) Os Goianás tinham uma aldeia em Taubaté no \nEstado de São Paulo e desciam a serra para o \nlugar onde está hoje a cidade de Paraty nos meses \nde inverno.",
+            "alternativas": {
+                "A": "V V V",
+                "B": "V F V",
+                "C": "F V V",
+                "D": "F F V",
+                "E": "F F F"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: De acordo com a Lei Orgânica Municipal de \nParaty, a partir de qual momento um Vereador \nnão pode ser preso, salvo em flagrante de crime \ninafiançável, nem processado criminalmente sem \nprévia licença da casa?",
+            "alternativas": {
+                "A": "A partir da posse no cargo.",
+                "B": "A partir da assinatura do termo de \ncompromisso.",
+                "C": "Desde a expedição do diploma.",
+                "D": "A partir da primeira sessão legislativa.",
+                "E": "Todas as alternativas estão incorretas. QUESTÃO 20 \nDe acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, qual é uma das \ncondições sob as quais um funcionário pode se \nausentar do serviço sem prejuízo de vencimento, \ndireitos e vantagens legais? \n \n(A) Por até 8 (oito) dias consecutivos para \nregistro de filho. \n(B) Por um dia, a cada 6 (seis) meses, para \ndoação de sangue. \n(C) por até 10 (dez) dias, para casamento. \n(D) Por um dia, a cada 6 (seis) meses, para \natividades de lazer. \n(E) por até 5 (cinco) dias, para casamento."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: De acordo com o Livro de Paraty  sobre as \nUnidades de Conservação no município, quais \nsão as Unidades de Conservação Federais  \nadministradas pelo Instituto Chico Mendes de \nConservação da Biodiversidade (ICMBio)?",
+            "alternativas": {
+                "A": "Parque Nacional da Serra da Bocaina, a Área \nde Proteção Ambiental de Cairuçú e a Estação \nEcológica de Tamoios.",
+                "B": "Reserva Ecológica da Juatinga, Parque \nEstadual da Serra do Mar e Reserva Biológica de \nTamoios.",
+                "C": "Área de Proteção Ambiental Municipal da \nBaía de Paraty Mirim e Saco do Mamanguá, \nReserva Biológica de Cairuçú e Estação \nEcológica de Paraty.",
+                "D": "Área de Proteção Ambiental de Tamoios, \nÁrea urbana, Parque Nacional de Paraty e a \nReserva Ecológica da Juatinga.",
+                "E": "Nenhuma das alternativas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: De acordo com a Lei Orgânica Municipal de \nParaty, se o Prefeito solicitar urgência para a \napreciação de projetos de sua iniciativa, qual é o \nprazo máximo para que a Câmara se manifeste \nsobre a proposição, contado a partir da data em \nque a solicitação for feita?",
+            "alternativas": {
+                "A": "90 dias",
+                "B": "45 dias",
+                "C": "120 dias",
+                "D": "30 dias",
+                "E": "60 dias Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 7 de 13 QUESTÃO 23 \nDe acordo com a Lei Orgânica Municipal de \nParaty, qual é a idade mínima exigida para os \ncargos de Prefeito e Vice-Prefeito? \n \n(A) Prefeito: 21 anos; Vice-Prefeito: 18 anos \n(B) Prefeito e Vice-Prefeito: 21 anos \n(C) Prefeito: 35 anos; Vice-Prefeito: 21 anos \n(D) Prefeito: 30 anos; Vice-Prefeito: 21 anos \n(E) Prefeito e Vice-Prefeito: 25 anos"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: De acordo com a Unidade 4 do livro de Paraty, \nque trata sobre lazer e turismo, analise os itens a \nseguir e assinale a alternativa correta: \n \nI - De acordo com o Livro de Paraty, o turismo é \natualmente é a sua principal atividade \neconômica, sendo o maior fator gerador de \ntrabalho e renda da cidade. \nII - A Praça Monsenhor Hélio Pires, mais \nconhecida como Praça da Matriz, localizada no \nbairro Centro Histórico, que há mais de 200 anos \né um ponto de encontro da população de Paraty. \nIII - Em Paraty os principais segmentos turísticos \nsão o cultural e o de natureza/ecológico. \nIV - Uma das estrelas de Paraty é seu Calendário \nTurístico e Cultural, que é publicado todos os \nanos desde a década de 1980, sendo reconhecido \ne procurado pelos visitantes e moradores. O \ncalendário apresenta eventos e festividades \ntradicionais e contemporâneas, consagrados \nnacional e internacionalmente.",
+            "alternativas": {
+                "A": "Apenas os itens II, III e IV estão corretos.",
+                "B": "Apenas os itens II e IV estão corretos.",
+                "C": "Apenas o item IV está correto.",
+                "D": "Apenas os itens I e II estão incorretos.",
+                "E": "Todos os itens estão corretos. \n \n \n \n \n \n \n \n QUESTÃO 25 \nDe acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, qual é a regra \npara a aposentadoria compulsória? \n(A) A aposentadoria compulsória é concedida \nmediante solicitação do funcionário, \nindependentemente da idade. \n(B) A aposentadoria compulsória é automática \ne o funcionário deve continuar comparecendo ao \nserviço até a formalização do ato. \n(C) A aposentadoria compulsória é automática \ne o funcionário será dispensado do \ncomparecimento ao serviço a partir do dia em \nque atingir a idade-limite. \n(D) A aposentadoria compulsória deve ser \nsolicitada pelo funcionário a partir da idade-\nlimite, mas a decisão é tomada pelo órgão \ncompetente. \n(E) Para a aposentadoria compulsória o \nfuncionário aguardará em exercício a publicação \ndo respectivo ato, salvo se estiver legalmente \nafastado do cargo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Dentro da perspectiva apresentada por meio do \nGlossário de Turismo, em relação aos atrativos \nculturais, são verdadeiras as afirmativas abaixo, \nexceto:",
+            "alternativas": {
+                "A": "Atrativos culturais constituem elementos da \ncultura que, ao serem utilizados para fins \nturísticos, passam a atrair fluxos turísticos.",
+                "B": "Representam os bens e valores culturais de \nnatureza estritamente material produzidos pelo \nhomem e apropriados pelo turismo da pré-\nhistória à época atual.",
+                "C": "São representados pelas formas de expressão, \nmodos de criar, fazer e viver.",
+                "D": "Compreendem conjuntos urbanos e sítios de \nvalor histórico, paisagístico, artístico etc.",
+                "E": "São considerados testemunhos de uma \ncultura. \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 8 de 13 QUESTÃO 27 \nLeia os enunciados abaixo e marque, na \nsequência, a alternativa correta. \nI – Historicamente, o fenômeno turístico possui \nrelação com a mudança de postura do homem, a \npartir do momento em que ele deixa de ser \nsedentário e passa a viajar, motivado pelo \ninteresse de conhecer novos lugares e culturas. \nII – A partir de uma retrospectiva histórica, \nobserva-se que o turismo de negócios antecede o \nturismo de lazer. \nIII – O século XI é marcado pelas viagens das \nfamílias mais abastadas que tinham a \noportunidade de se hospedar, por exemplo em \ncastelos. Observa-se também viagens de estudo e \nintercâmbio cultural. \nIV – O surgimento da sociedade feudal \nrepresenta um momento de crescimento para o \nturismo.  \nV – Com o fim do Império Romano e início da \nsociedade feudal, as viagens tornaram-se mais \nseguras, surgindo novas vias terrestres para o \ntransporte de pessoas e mercadorias. \n(A) V, V, V, V, V \n(B) F, F, F, F, F \n(C) F, V, V, F, F \n(D) V, F, V, V, V \n(E) F, V, V, V, V"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Assinale o conceito abaixo que possui as \nseguintes características: “situado, de modo \ngeral, nas grandes metrópoles e centros \nturísticos. Tem instalações e serviços básicos \npara atender à demanda específica de alojamento \nde segmentos sociais com recursos financeiros \nmodestos, como estudantes e aposentados”.",
+            "alternativas": {
+                "A": "Hospedarias",
+                "B": "Albergues de turismo",
+                "C": "Pousada",
+                "D": "Parador",
+                "E": "Condo-hotel \n QUESTÃO 29 \nAssinale a alternativa que faz referência ao \nseguinte conceito: forma de organizar e integrar \na oferta turística do país, gerando produtos \nrentáveis e comercialmente viáveis. Voltada para \na construção de parcerias, promovendo a \nintegração, o comprometimento, o adensamento \nde negócios, o resgate e a preservação dos \nvalores socioculturais e ambientais da região \n(Brasil, 2018). \n(A) Regionalização do turismo \n(B) Roadshow \n(C) Marketing turístico \n(D) Roteirização turística \n(E) Segmentação do turismo"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Qual das alternativas abaixo realmente refere-se \na um dos conceitos de atrativos turísticos?",
+            "alternativas": {
+                "A": "O conjunto de atrativos turísticos determina \na identidade e a vocação turística da localidade, \nindicando possibilidades de constituição de \nnegócios.",
+                "B": "O conjunto de atrativos turísticos determina \nas tipologias de turismo que podem ser \nimplementadas e consolidadas.",
+                "C": "O atrativo turístico tem potencial para ser \ntransformado em produto, podendo receber \nintervenções, para então, ser comercializado e \nusufruído pelos turistas.",
+                "D": "Atrativo turístico é o mesmo que recurso \nturístico, pois ambos apresentam as mesmas \ncaracterísticas.",
+                "E": "Propriedades privadas ou públicas com \nocorrências naturais, tais como rios, cachoeiras, \nmata, cavernas, trilhas, lagos etc. não são \nexemplos de atrativos turísticos. \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 9 de 13 QUESTÃO 31 \nDentre as inúmeras classificações existentes, \ncomo é definido o turismo voltado para a \npromoção de igualdade de oportunidades, \nequidade, solidariedade e exercício da cidadania \nna perspectiva da inclusão? \n(A) Turismo sustentável \n(B) Turismo social \n(C) Turismo responsável \n(D) Turismo de bem-estar \n(E) Turismo acessível"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: O conhecimento sobre o turismo advém de \naspectos relacionados a várias disciplinas. Nesse \nsentido, quando o foco de análise reside na \ncompreensão dos impactos do turismo ao meio \nambiente natural e as propostas de educação para \no turismo nas respectivas áreas, observa-se que o \naporte teórico nesse caso é decorrente de qual das \ndisciplinas abaixo?",
+            "alternativas": {
+                "A": "Antropologia",
+                "B": "Sociologia",
+                "C": "Geografia",
+                "D": "Ecologia",
+                "E": "Administração"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Algumas informações que devem constar nos \nroteiros turísticos foram descritas abaixo. No \nentanto, uma das informações está incompleta, \nassinale-a:",
+            "alternativas": {
+                "A": "Horários de previsão de partida para as \ncidades onde o visitante irá passar.",
+                "B": "Breve descrição dos locais com os pontos \nturísticos a serem visitados.",
+                "C": "Local das paradas para refeições e \nalojamento.",
+                "D": "Distância em quilômetros de uma cidade para \na outra.",
+                "E": "Informações sobre a presença ou não de guia \nde turismo para conduzir o grupo. QUESTÃO 34 \nObserve as afirmativas abaixo e marque, \nposteriormente, a alternativa correspondente. \nI – O produto turístico pode ser definido como \num produto constituído pelos seguintes \ncomponentes: transporte, alimentação, \nacomodação e entretenimento. \nII – Os atrativos turísticos podem ser definidos \ncomo elementos do produto turístico que \ndeterminam a escolha do turista para visitar uma \nlocalidade específica ao invés de outra. \nIII - As facilidades são os elementos do produto \nturístico que não geram normalmente os fluxos \nturísticos, mas sua ausência pode afastar os \nturistas de determinada atração. \nIV – O acesso é considerado um dos elementos \ndo produto turístico. \n(A) Todas alternativas são corretas. \n(B) Apenas a alternativa I possui um aspecto \nincorreto. \n(C) Apenas a alternativa II possui um aspecto \nincorreto. \n(D) Apenas a alternativa III possui um aspecto \nincorreto. \n(E) Apenas a alternativa IV possui um aspecto \nincorreto."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: O turismo é classificado de acordo com \ndiferentes variáveis. Nesse sentido, o turismo \nemissor recebe essa classificação em função de \nqual dos critérios abaixo?",
+            "alternativas": {
+                "A": "Duração da permanência",
+                "B": "Grau de liberdade administrativa",
+                "C": "Origem dos visitantes",
+                "D": "Organização da viagem",
+                "E": "Repercussões na balança de pagamentos \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 10 de 13 QUESTÃO 36 \nEm relação à hierarquização dos atrativos \nturísticos, assinale a alternativa que foi mal \nelaborada. \n(A) Nível 3 – atrativo turístico excepcional, de \ngrande interesse, que tem capacidade de se \nautomotivar. \n(B) Nível 0 – Atrativos sem méritos suficientes, \nque não são parte do patrimônio turístico. \n(C) Nível 1 – Atrativos com algum aspecto \nexpressivo, capazes de interessar visitantes \noriundos de lugares no próprio país. \n(D) Nível 0 – Podem motivar correntes turísticas \nlocais, em particular a demanda de recreação \npopular. \n(E) Nível 2 – Atrativos com aspectos \nexcepcionais em um país, capazes de motivar em \nconjunto com outros atrativos próximos a eles."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Em relação às características que uma região \nturística clusterizada possui, é possível afirmar \napenas:",
+            "alternativas": {
+                "A": "Conjunto de empresas e instituições \nrelacionadas ao setor turístico, que estão \nlocalizadas em diferentes regiões geográficas, \nmantendo relação de cooperação.",
+                "B": "Intercâmbio de conhecimento e \naprendizagem inteorganizacional.",
+                "C": "Estrutura de governança institucional.",
+                "D": "Geração de externalidades resultantes de \nações particulares.",
+                "E": "Inexistência de empresas e instituições \nlíderes. \n \n \n \n \n \n \n QUESTÃO 38 \nSobre os diferentes tipos de clusters que existem, \nleia as alternativas abaixo e assinale a alternativa \ncorreta. \nI - Cluster informal: predomínio de empresas de \npequeno porte, com baixa qualificação dos \nprofissionais, tecnologias rudimentares, sem \nrepresentatividade no mercado externo. \nII -  Cluster em estágio organizado: grande \ndiversidade de estruturas e características \nempresariais. Prevalência de pequenas e médias \nempresas, ainda que seja frequente a presença de \ngatekeepers e de spillovers  de conhecimento. \nIII - Clusters inovativos: caracterizados pela \ndesverticalização da produção, a abertura de \ncanais de informação o spillover  de \nconhecimento e um elevado grau de sinergia \nentre os diferentes atores do aglomerado. \nIV- Cluster em estágio intermediário: não há o \nentrelaçamento entre firmas o que limita a \ngeração de ganhos resultantes da aproximação \nespacial e a especialização produtiva das \nempresas. \n(A) Todas as alternativas estão corretas. \n(B) Apenas a alternativa I está incorreta. \n(C) Apenas a alternativa II está incorreta. \n(D) Apenas a alternativa III está incorreta. \n(E) Apenas a alternativa IV está incorreta."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Leia os enunciados abaixo e destaque a \nalternativa que possui um aspecto incorreto.",
+            "alternativas": {
+                "A": "Paisagem é o quadro composto de um \nconjunto de objetos naturais ou artificiais, que \nsomente tem significado na existência de um \nobservador.",
+                "B": "A forma refere-se ao aspecto visível da \npaisagem.",
+                "C": "O estudo da forma expressa a concretude do \nespaço geográfico.",
+                "D": "A paisagem é entendida como o resultado da \nformação e das relações sociais de produção na \nsua base territorial.",
+                "E": "A paisagem é tão importante no turismo que \né consumida à distância por intermédio da mídia. Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 11 de 13 QUESTÃO 40 \nDe acordo com a Lei Federal nº 11.771/08, em \nseu artigo 4º “a Política Nacional de Turismo é \nregida por um conjunto de leis e normas, voltadas \nao planejamento e ordenamento do setor, e por \ndiretrizes, metas e programas definidos no Plano \nNacional do Turismo - PNT estabelecido pelo \nGoverno Federal”. Dentro das determinações \nlegais, a referida política obedecerá alguns \nprincípios constitucionais que foram destacados \na seguir. No entanto, uma alternativa não condiz \ncom o referido instrumento legal, destaque-a: \n(A) Livre iniciativa  \n(B) Descentralização  \n(C) Regionalização  \n(D) Desenvolvimento econômico-social justo e \nsustentável  \n(E) Desintegração do setor privado"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: De acordo com a Lei Federal nº 12.591/12, dentre \nas inúmeras funções do turismólogo, assinale a \nfunção relacionada com as potencialidades e as \ndeficiências para o desenvolvimento do turismo \nnos Municípios, regiões e Estados da Federação.",
+            "alternativas": {
+                "A": "Diagnosticar",
+                "B": "Controlar",
+                "C": "Coordenar",
+                "D": "Operacionalizar",
+                "E": "Planejar"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Ao analisar as dimensões acadêmicas do turismo, \né possível observar que muitas vezes a solução \nde um determinado problema depende da \nobtenção de informações de duas ou mais \nciências ou áreas de conhecimento, sem que tais \ndisciplinas sejam modificadas ou enriquecidas. A \nsituação anteriormente contextualizada é um \nexemplo demonstrado por meio de qual \nalternativa?",
+            "alternativas": {
+                "A": "Transdiciplinaridade",
+                "B": "Multidisciplinaridade",
+                "C": "Interdisciplinaridade",
+                "D": "Intradisciplinaridade",
+                "E": "Disciplinaridade QUESTÃO 43 \nQuando se analisa o papel do Estado em relação \nà participação de outros órgãos de governo, da \nsociedade civil organizada e do setor privado em \nrelação ao turismo, com objetivos claramente \ndefinidos de recuperação psicofísica e de \nascensão sociocultural e econômica dos \nindivíduos, observa-se que seu papel \ncompreende qual das alternativas a seguir? \n(A) Agente controlador e fiscalizador \n(B) Agente neutro e diplomático \n(C) Agente incentivador e coordenador \n(D) Agente punitivo e regulatório \n(E) Agente burocrático e normativo"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Para definir a escala hierárquica dos atrativos \nturísticos, há vários fatores que são analisados e \nservem de parâmetros de mensuração. Assim, \nleia os enunciados, coloque V (verdadeiro) e F \n(falso) e, posteriormente, a alternativa correta. \n[...] Por meio do grau de uso atual, analisa-se o \natual volume de fluxo turístico efetivo e sua \nimportância para o município. \n[...] O grau de uso atual difere-se do grau de \ninteresse por representar a situação atual e não \npotencial. \n[...] A representatividade parte da ideia de que \nquanto mais um atrativo for semelhante ao outro, \nmenor será o grau de interesse e prioridade. \n[...] Por meio do estado de conservação da \npaisagem circundante, analisa-se a ambiência do \natrativo.",
+            "alternativas": {
+                "A": "V, V, V, V",
+                "B": "F, V, F, V",
+                "C": "V, F, V, V",
+                "D": "V, F, V, F",
+                "E": "F, V, V, F \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 12 de 13 QUESTÃO 45 \nO produto turístico possui inúmeras \ncaracterísticas que devem ser compreendidas, no \nintuito de garantir seu real aproveitamento. Uma \ndessas características ou atributos foi descrita por \nmeio de qual alternativa? \n(A) Tangibilidade \n(B) Materialidade \n(C) Imperecibilidade \n(D) Continuidade \n(E) Sistêmico"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Segundo o documento Roteirização Turística, o \nponto de partida para o planejamento de um \nroteiro turístico é saber explorar os atrativos de \numa região. Nesse sentido, como são \nclassificados os aquários, museus, observatórios?",
+            "alternativas": {
+                "A": "Atrativos culturais",
+                "B": "Eventos programados",
+                "C": "Atividades econômicas",
+                "D": "Atrativos técnicos, artísticos, científicos",
+                "E": "Atrativos naturais"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: O impacto da exploração do espaço turístico é \nobservado em diferentes vertentes, como por \nexemplo no âmbito econômico. Nesse sentido, \nsão efeitos considerados positivos as alternativas \nelencadas abaixo, exceto:",
+            "alternativas": {
+                "A": "Ganhos de divisas e créditos na balança de \npagamentos",
+                "B": "Faturamento das empresas",
+                "C": "Taxas e impostos para os governos",
+                "D": "Emprego e renda",
+                "E": "Monocultura turística \n \n \n QUESTÃO 48 \nO que significa determinada porção do espaço \nque resulta da combinação dinâmica dos \nelementos físicos, biológicos e antrópicos, que \ninteragindo dialeticamente uns sobre os outros \nformam o quadro momentâneo do espaço por \nmeio dos cinco sentidos do observador? \n(A) Lugar \n(B) Território \n(C) Paisagem \n(D) Região \n(E) Espaço geográfico"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: A conduta ética profissional é importante em \ntodos os segmentos. No caso do ramo turístico, \nao se praticar um turismo antiético, é possível \nobservar as condutas abaixo descritas. Uma das \nalternativas foi elaborada de forma incorreta, \nassinale-a:",
+            "alternativas": {
+                "A": "Práticas xenofóbicas e preconceituosas de \numa forma geral.",
+                "B": "Precarização da mão de obra empregada no \nsetor turístico.",
+                "C": "Exploração devida do meio ambiente em \ndestinos turísticos.",
+                "D": "Fuga de patrocinadores e investidores.",
+                "E": "Estigmatização de um destino turístico."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "BACHAREL EM TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: A partir da historicidade do turismo, complete o \nexcerto abaixo com a alternativa correspondente. \n_______________ organizou a primeira viagem \ncoletiva em 1841, dando início a comercialização \ndas viagens como a conhecemos hoje. Foi o \ncriador do voucher de hotel e utilizou serviços de \nguias de turismo a partir de 1846. Considerado o \npai do turismo moderno.",
+            "alternativas": {
+                "A": "Jerome Cadier",
+                "B": "John Rodgerson",
+                "C": "Thomas Cook",
+                "D": "Danillo Barbizan",
+                "E": "Raphael de Lucca \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nBACHAREL EM TURISMO                                                                                                                        Página 13 de 13"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

@@ -1,3 +1,704 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd202e08e5bab35e9c1d9f232c68ce2d1ad0b39bc07df4ff027e89600045836a
-size 66245
+{
+    "AUXILIAR DE FARMÁCIA": [
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, os Jogos Paralímpicos:",
+            "alternativas": {
+                "A": "Tiveram início durante a Segunda Guerra \nMundial, com soldados lesionados que não \npodiam retornar ao confronto.",
+                "B": "Foram resultado de uma abordagem \nrevolucionária de tratamento de pacientes feridos \nno pós-guerra, que incluía artesanato e a prática \nde esportes.",
+                "C": "Foram idealizados pelo médico neurologista \nSir Ludwig Guttman, que também era portador \nde deficiência e não concordava com a \ninatividade de pessoas como ele.",
+                "D": "Aconteceram de forma oficial e internacional \npela primeira vez em julho de 1948, dentro de um \nhospital, sob incentivo do médico Sir Ludwig \nGuttman.",
+                "E": "Aumentou a perspectiva de vida das pessoas \ncom deficiência em geral, uma vez que, ao \npraticar esportes, saem de longos períodos de \ninatividade."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Analise os excertos a seguir, retirados do texto, e \nassinale a alternativa em que o vocábulo “o(s)” \nocorre como pronome demonstrativo, \nconsiderando também a possibilidade de \ncontração com uma preposição.",
+            "alternativas": {
+                "A": "Os Jogos Paralímpicos, como conhecemos \nhoje, não começaram como uma grande \ncompetição mundial de diversos esportes.",
+                "B": "Essas competições continuaram a crescer, \ntornando-se eventos anuais no hospital.",
+                "C": "O que começou com uma competição \nmodesta entre alguns pacientes veio a se tornar \num dos maiores símbolos de inclusão do mundo.",
+                "D": "O impacto foi imediato e transformador.",
+                "E": "O crescimento do movimento paralímpico foi \nacompanhado pela inclusão de atletas com \ndiferentes tipos de deficiência. \n \n \n  \nConsidere o seguinte excerto, retirado do \ntexto, para responder às questões 3 e 4:  \n“Ele acreditava que a prática esportiva não \napenas ajudaria no condicionamento físico, mas \ntambém restauraria a dignidade e a autoestima \ndaquelas pessoas.”"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A expressão “não apenas […] mas também”, que \nocorre no excerto dado, imprime ao contexto um \nsentido:",
+            "alternativas": {
+                "A": "adversativo.",
+                "B": "aditivo.",
+                "C": "conformativo.",
+                "D": "consecutivo.",
+                "E": "concessivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: O vocábulo “que” , que ocorre no excerto dado, \natua como:",
+            "alternativas": {
+                "A": "pronome relativo.",
+                "B": "pronome interrogativo.",
+                "C": "conjunção integrante.",
+                "D": "conjunção causal.",
+                "E": "preposição."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: O encontro vocálico encontrado em “pedreira ” é \num ditongo decrescente. O mesmo tipo de \nditongo também se encontra em:",
+            "alternativas": {
+                "A": "ouriço.",
+                "B": "rosácea.",
+                "C": "pátria.",
+                "D": "equino.",
+                "E": "névoa. \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE FARMÁCIA                                                                                                                             Página 4 de 11 QUESTÃO 06 \nHá o emprego incorreto da vírgula, separando o \nverbo de seu(s) complemento(s), apenas em: \n(A) A mulher questionou a professora, das falas \nsobre seu filho. \n(B) Todo o meu rosto, em razão da insolação, \nardia como fogo.  \n(C) Sua preguiça era tanta, que não conseguiu \nfinalizar suas tarefas. \n(D) Alguns disseram que ela ficou furiosa, \noutros, que apenas se chateou. \n(E) Enquanto ela preparava o jantar, a garotinha \nbrincava de boneca."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: A concordância nominal está incorreta  apenas \nem:",
+            "alternativas": {
+                "A": "A senhora possui muitas joias e outros itens \ncaros em sua casa.",
+                "B": "Delicadas flores e ornamentos enchiam as \nprateleiras das janelas.",
+                "C": "Este manuscrito foi traduzido para as línguas \ninglesa e espanhola.",
+                "D": "Esses dois artigos, por si só, bastariam para \ntorná-lo um gênio.",
+                "E": "Pedro e Ana casaram-se às pressas, um por \namor, o outro, por obrigação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Ocorre um verbo com regência pronominal e \ntransitiva indireta, simultaneamente, apenas em:",
+            "alternativas": {
+                "A": "Ele estreou-se no programa televisivo, como \nator, na última semana.",
+                "B": "Disseram-lhe que as provas seriam \nremarcadas.",
+                "C": "Sabe-se que as investigações policiais \ncostumam demorar.",
+                "D": "As meninas ajudavam-no a melhorar nos dias \ntristes.",
+                "E": "Perguntaram-me se iria à festa, mas não pude \nrespondê-los.  QUESTÃO 09 \nA sentença cuja palavra em destaque é um \npronome indefinido é: \n(A) Avisem- nos a respeito dos novos prazos de \ninscrição do curso. \n(B) Tudo aquilo  está disponível para doação. \n(C) As pessoas costumam acreditar no que \npodem ver.  \n(D) Alguns  dos alunos não tiveram tempo de \nfinalizar suas redações. \n(E) As suas memórias são o que você tem de \nmais valioso."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Dentre as palavras a seguir, verifica-se um sufixo \nindicador de grau aumentativo apenas em:",
+            "alternativas": {
+                "A": "aldeões.",
+                "B": "muralha.",
+                "C": "cirurgiã.",
+                "D": "estudantes.",
+                "E": "cresceram. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Dado um triângulo retângulo isóscele cuja \nmedida do cateto é igual a 2 cm, qual deve ser o \nlado, aproximadamente, de um quadrado para \nque este tenha a mesma área que o triângulo?",
+            "alternativas": {
+                "A": "2,2 cm.",
+                "B": "1,4 cm.",
+                "C": "1,0 cm.",
+                "D": "0,8 cm.",
+                "E": "0,9 cm. \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE FARMÁCIA                                                                                                                             Página 5 de 11 QUESTÃO 12 \nSabe-se que a média aritmética simples das \nidades de uma turma de 100 pessoas é 36 anos e \nque ninguém nesta turma tem idade exatamente \nigual a 36 anos. Além disso, sabe-se que a médias \ndas idades das 50 pessoas mais velhas é 25% \nmaior que a média das idades das 50 pessoas \nmais jovens. Nesta situação, qual a média das \nidades das 50 pessoas mais jovens? \n(A) 34 anos.  \n(B) 28 anos.  \n(C) 31 anos. \n(D) 32 anos. \n(E) 35 anos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Um dodecágono é um polígono regular que tem \n12 lados. Se o perímetro de um dodecágono é 18 \ncm, então pode-se afirmar que seu lado mede:",
+            "alternativas": {
+                "A": "0,2 cm.",
+                "B": "1,0 cm.",
+                "C": "1,5 cm.",
+                "D": "1,8 cm.",
+                "E": "1,2 cm."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Se daqui a 64 dias será uma sexta-feira, qual dia \nda semana será daqui a 268 dias?",
+            "alternativas": {
+                "A": "Quarta-feira.",
+                "B": "Quinta-feira.",
+                "C": "Sexta-feira.",
+                "D": "Sábado.",
+                "E": "Domingo. \n \n \n \n QUESTÃO 15 \nA figura abaixo mostra três elementos de um \nconjunto que contém figuras seguindo uma \nmesma lógica de construção: \n \n \nNas figuras, apenas círculos de cores diferentes \nsão ligados. Observando o padrão das figuras, \nqual elemento dentre as correspondências \nabaixo, poderia ser um elemento desse conjunto? \n \n(A) I.  \n(B) II.  \n(C) III. \n(D) IV. \n(E) V. \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Qual dos seguintes programas é um software \nnativo incluído na versão do sistema operacional \nWindows 7?  \nAssinale a opção que apresenta um aplicativo que \nvem pré-instalado com o sistema e é utilizado \npara tarefas comuns do dia a dia de usuários em \ngeral:",
+            "alternativas": {
+                "A": "Adobe Photoshop.",
+                "B": "Microsoft Office Word.",
+                "C": "VLC Media Player.",
+                "D": "CorelDRAW.",
+                "E": "Windows Media Player. \nPrefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE FARMÁCIA                                                                                                                             Página 6 de 11 QUESTÃO 17 \nAnalise a lista de softwares abaixo e assinale a \nalternativa que identifica corretamente o \nprograma utilizado para a criação de desenhos \nsimples e para a edição de imagens no Windows \n7:  \n(A) Microsoft SQL.  \n(B) Microsoft Script. \n(C) Microsoft Paint. \n(D) Microsoft Power. \n(E) Microsoft Scrum."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: No contexto da navegação na internet, é \nimportante compreender os diversos termos e \nconceitos utilizados para descrever elementos e \nfuncionalidades da web. O termo \"home page\" \nestá associado a qual das definições descritas a \nseguir:",
+            "alternativas": {
+                "A": "Trata-se da página principal que carrega por \npadrão ao digitar o endereço de um site.",
+                "B": "Trata-se da página de login de um site \nbancário.",
+                "C": "Trata-se da ferramenta de busca do Google.",
+                "D": "Trata-se da página de configurações de \npreferências de navegação.",
+                "E": "Trata-se da ferramenta de restrição de acessos \ndo Google Chrome."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: É uma área de armazenamento temporário do \nnavegador de internet que guarda arquivos e \ninformações de sites visitados anteriormente, \npara acelerar o tempo de carregamento da página:",
+            "alternativas": {
+                "A": "Histórico de Navegação.",
+                "B": "Favoritos.",
+                "C": "Cache.",
+                "D": "Flash.",
+                "E": "Modo Incognito, \n QUESTÃO 20 \nNos navegadores de internet, também \nconhecidos como browsers, o campo onde o \nusuário digita a URL do site que deseja visitar é \nintitulado de:  \n(A) Barra de Favoritos. \n(B) Barra de Endereços. \n(C) Barra de Opções. \n(D) Barra de Ferramentas. \n(E) Barra de Status. \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: De acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, quantos dias \nconsecutivos um funcionário pode se ausentar do \nserviço por motivo de casamento?",
+            "alternativas": {
+                "A": "Até 1 (um) dia",
+                "B": "Até 3 (três) dias",
+                "C": "Até 5 (cinco) dias",
+                "D": "Até 8 (oito) dias",
+                "E": "Até 10 (dez) dias"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: De acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, o salário família \né um auxílio especial concedido ao funcionário \nem exercício, aposentado ou em disponibilidade \npara ajudar na manutenção de um dependente.  \nA quem é concedido o salário família quando \nambos os pais são funcionários do Município e \nnão vivem em comum?",
+            "alternativas": {
+                "A": "Ao pai",
+                "B": "À mãe",
+                "C": "A ambos os pais",
+                "D": "Será concedido ao que tiver o dependente \nsob sua guarda ou em sua companhia.",
+                "E": "Nenhum dos pais, o critério para receber o \nsalário família é o casamento.  \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE FARMÁCIA                                                                                                                             Página 7 de 11 QUESTÃO 23 \nLendas locais. \n \nO Livro de Paraty , conta a história de uma moça \nda cidade, que às vésperas de seu casamento, \namanheceu morta. Após o enterro, no cemitério \nda Igreja da Santa Rita, o noivo, inconsolável, \npermaneceu no jardim da praça da igreja, \nlamentando a sua sorte. À noite, ele viu sair da \nporta do cemitério um vulto vestido de noiva que \nvinha beber água no chafariz da praça. \nAproximou-se e reconheceu sua noiva e \nperguntou-lhe o que fazia ali, àquela hora. Ela \nrespondeu que vinha beber água, pois havia \nmorrido com sede e, sumiu no ar. Desesperado, \nele procurou os pais da moça, as autoridades, \ncontou a história e disse que sua noiva fora \nenterrada viva.  \nO que foi encontrado quando a sepultura da noiva \nfoi aberta pela manhã? \n \n(A) O corpo da moça estava em posição normal \nno caixão. \n(B) Encontraram o corpo da moça fora do caixão. \n(C) O corpo da moça estava com um copo de \nágua ao lado. \n(D) Encontraram o corpo da moça de bruços no \ncaixão.  \n(E) O corpo da moça não estava no caixão."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: De acordo com a Unidade 5 do livro de Paraty, \nque trata sobre Política e Cidadania, qual das \nseguintes opções  não é um dever  do cidadão?",
+            "alternativas": {
+                "A": "Votar para escolher os governantes;",
+                "B": "Cumprir as leis;",
+                "C": "Educar e proteger seus semelhantes;",
+                "D": "Proteger o patrimônio público e social do \nPaís.",
+                "E": "É um dever, à saúde, à educação, à moradia, \nao trabalho, à previdência social, ao lazer, entre \noutros. \n \n \n \n \n QUESTÃO 25 \nDe acordo com a Lei Orgânica Municipal de \nParaty, qual é a duração do mandato do Prefeito? \n(A) 2 (dois) anos \n(B) 3 (três) anos \n(C) 5 (cinco) anos \n(D) 4 (quatro) anos \n(E) 6 (seis) anos"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Garantido no artigo 196 da Constituição Federal, \no SUS é o único sistema de saúde pública do \nmundo que atende mais de 190 milhões de \npessoas, sendo que 80% delas dependem, \nexclusivamente, dos serviços públicos para \nqualquer atendimento de saúde. O princípio do \nSUS que está relacionado à garantia de utilização \ndo sistema por todos é a:",
+            "alternativas": {
+                "A": "Universalidade",
+                "B": "Equidade",
+                "C": "Integralidade",
+                "D": "Descentralização",
+                "E": "Participação Social"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: A RDC Nº 20, de 5 de maio de 2011 da ANVISA, \ndispõe sobre o controle de medicamentos à base \nde substâncias classificadas como \nantimicrobianos, de uso sob prescrição, isoladas \nou em associação. Com relação à legislação \nvigente, é incorreto afirmar que:",
+            "alternativas": {
+                "A": "O farmacêutico não poderá aceitar receitas \nposteriores ao prazo de validade estabelecido nos \ntermos desta Resolução.",
+                "B": "As receitas somente poderão ser dispensadas \npelo farmacêutico quando apresentadas de forma \nlegível e sem rasuras.",
+                "C": "A receita poderá conter a prescrição de outras \ncategorias de medicamentos desde que não sejam \nsujeitos a controle especial.",
+                "D": "A receita de antimicrobianos é válida em \ntodo o território nacional, por 30 (trinta) dias a \ncontar da data de sua emissão.",
+                "E": "Em situações de tratamento prolongado a \nreceita poderá ser utilizada para aquisições \nposteriores dentro de um período de 90 (noventa) \ndias a contar da data de sua emissão Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE FARMÁCIA                                                                                                                             Página 8 de 11 QUESTÃO 28 \nCom relação às boas práticas farmacêuticas em \nfarmácias e drogarias no tocante ao \narmazenamento de medicamentos trazidos pela \nRDC 44 de 2009 da Anvisa, é incorreto afirmar: \n(A) Os ambientes devem ser mantidos em boas \ncondições de higiene e protegidos contra a \nentrada de insetos, roedores ou outros animais. \n(B) O Procedimento Operacional Padrão (POP) \ndeverá definir medidas a serem tomadas quando \nforem verificadas condições inadequadas para o \narmazenamento. \n(C) Os produtos devem ser armazenados \nafastados do piso, parede e teto, a fim de permitir \nsua fácil limpeza e inspeção, exceto as caixas de \ngrandes volumes que podem ficar diretamente no \nchão, desde que esteja limpo. \n(D) O ambiente destinado ao armazenamento \ndeve ter capacidade suficiente para assegurar o \narmazenamento ordenado das diversas categorias \nde produtos. \n(E) O ambiente deve ser mantido limpo, \nprotegido da ação direta da luz solar, umidade e \ncalor, de modo a preservar a identidade e \nintegridade química, física e microbiológica, \ngarantindo a qualidade e segurança dos mesmos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: A portaria Nº 344 de 12 de maio de 1998, \naprovou o regulamento técnico sobre substâncias \ne medicamentos sujeitos a controle especial. \nQuais substâncias são abrangidas pela Portaria \n344/98?",
+            "alternativas": {
+                "A": "Apenas substâncias entorpecentes.",
+                "B": "Apenas substâncias psicotrópicas.",
+                "C": "Substâncias entorpecentes, psicotrópicas e \noutras com potencial de abuso.",
+                "D": "Apenas substâncias controladas pela OMS.",
+                "E": "Todas as substâncias utilizadas na fabricação \nde medicamentos. QUESTÃO 30 \nAs farmácias e drogarias poderão fracionar \nmedicamentos a partir de embalagens \nespecialmente desenvolvidas para essa \nfinalidade. Com relação a RDC 80/2006 sobre o \nassunto, é incorreto afirmar: \n(A) O fracionamento é responsabilidade do \nfarmacêutico. \n(B) A apresentação da prescrição é condição \nessencial para o fracionamento. \n(C) O fracionamento deve ser realizado sob a \nsupervisão e responsabilidade do farmacêutico \ntecnicamente responsável. \n(D) O fracionamento dos medicamentos deve ser \nefetuado na área destinada ao fracionamento \n(E) Empresas com filiais poderão fracionar os \nmedicamentos na matriz e distribuir em suas \nfilias."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Termolábeis são produtos que sofrem alterações \nquando expostos a grandes variações de \ntemperatura. Qual dos medicamentos abaixo é \ncaracterizado como termolábil?",
+            "alternativas": {
+                "A": "Insulina",
+                "B": "Vitamina D",
+                "C": "Nistatina",
+                "D": "Captopril",
+                "E": "Ácido Fólico"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: A receita azul, também conhecida como \nNotificação de Receita B, é um tipo de \nreceituário médico utilizado para prescrever \nmedicamentos psicotrópicos e \nanorexígenos. Qual das substâncias abaixo, \nobrigatoriamente, deve ser prescrita na receita de \ncor azul do tipo B?",
+            "alternativas": {
+                "A": "Carbamazepina",
+                "B": "Clonazepam",
+                "C": "Metilfenidato",
+                "D": "Morfina",
+                "E": "Amitriptilina \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE FARMÁCIA                                                                                                                             Página 9 de 11 QUESTÃO 33 \nOs hipoglicemiantes, também conhecidos como \nantidiabéticos, são medicamentos utilizados para \ntratar o diabetes, controlando os níveis de glicose \nno sangue. Qual dentre os medicamentos abaixo \nrepresenta um hipoglicemiante oral? \n(A) Captopril \n(B) Insulina \n(C) Propanolol \n(D) Metformina \n(E) Alopurinol"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: São preparações de consistência sólida, em que o \nfármaco fica envolto pelo envoltório comestível \nque pode ter uma consistência mole ou dura, \npodendo ser de amido, gelatina e outras \nsubstâncias, com forma e capacidade variáveis. \nO texto acima é a definição de qual forma \nfarmacêutica?",
+            "alternativas": {
+                "A": "Comprimido",
+                "B": "Drágea",
+                "C": "Cápsula",
+                "D": "Óvulo",
+                "E": "Elixir"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Os anti-inflamatórios são medicamentos que \nreduzem ou impedem a inflamação, sendo \nutilizados para tratamento de diversas patologias. \nQual alternativa é um representante dessa classe \nfarmacológica?",
+            "alternativas": {
+                "A": "Dimenidrinato",
+                "B": "Doxazosina",
+                "C": "Codeína",
+                "D": "Nimesulida",
+                "E": "Prometazina \n QUESTÃO 36 \nUma ampola de um medicamento contém 2 mL \nde solução a 50 mg/mL. Foi prescrito para o \npaciente internado em uma unidade hospitalar \ndesse medicamento 200mg de 8/8h. Qual a \nquantidade de ampolas a ser dispensada pela \nfarmácia por dia? \n(A) 4 ampolas  \n(B) 6 ampolas \n(C) 8 ampolas \n(D) 10 ampolas \n(E) 12 ampolas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Foi prescrito para um paciente com doença renal \ncrônica, o medicamento eritropoetina na \ndosagem de 50 UI/Kg, uma vez por semana para \ntratamento da anemia via subcutânea. Levando \nem consideração que o paciente tinha 60 kg e que \no frasco de eritropoetina tem 4000 UI/2mL do \nmedicamento, qual a quantidade em mL deverá \nser administrada a cada semana?",
+            "alternativas": {
+                "A": "0,25 mL",
+                "B": "0,50 mL",
+                "C": "1,00 mL",
+                "D": "1,50 mL",
+                "E": "2,00 mL"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: A logística reversa é um processo importante \npara o descarte adequado de medicamentos \nvencidos ou com problemas de qualidade. Qual \ndas alternativas abaixo NÃO é uma etapa da \nlogística reversa?",
+            "alternativas": {
+                "A": "Coleta dos medicamentos",
+                "B": "Triagem e classificação dos medicamentos.",
+                "C": "Tratamento e acondicionamento dos \nmedicamentos.",
+                "D": "Distribuição dos medicamentos para a \npopulação.",
+                "E": "Descarte final dos medicamentos. Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE FARMÁCIA                                                                                                                             Página 10 de 11 QUESTÃO 39 \nA curva ABC é uma ferramenta fundamental no \ncontrole de estoques de medicamentos. Qual das \nalternativas abaixo descreve corretamente a sua \naplicação? \n(A) Classifica os medicamentos por ordem \nalfabética para facilitar a localização. \n(B) Divide os medicamentos em três categorias \n(A, B e C) de acordo com a sua importância e \nvalor. \n(C) Avalia a qualidade dos medicamentos de \nacordo com critérios pré-estabelecidos. \n(D) Calcula o tempo de reposição de cada \nmedicamento no estoque. \n(E) Determina a quantidade mínima de cada \nmedicamento a ser mantida em estoque."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: As soluções estéreis são produtos que foram \nsubmetidos a um processo de esterilização, \ngarantindo a ausência de microrganismos \nviáveis. Em qual ambiente, geralmente, são \npreparadas as soluções estéreis?",
+            "alternativas": {
+                "A": "Sala comum.",
+                "B": "Capela de fluxo laminar.",
+                "C": "Bancada asséptica",
+                "D": "Estufa de esterilização",
+                "E": "Freezer \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE FARMÁCIA                                                                                                                             Página 11 de 11"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 1: De acordo com o texto, a diferença na formação \ndo diamante rosa em comparação com os demais \ntipos, que o torna um mineral raro, se dá em \ndecorrência da:",
+            "alternativas": {
+                "A": "menor intensidade de forças de calor e \npressão.",
+                "B": "interação de carbono com boro.",
+                "C": "interação do carbono com enxofre.",
+                "D": "distorção em sua estrutura que altera \ncaracterísticas da luz refletida pelo diamante.",
+                "E": "interação do carbono com nitrogênio."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 2: Considere o excerto: “Embora o continente que \nse tornaria a Austrália não tenha se dividido, a \nárea onde Argyle está situada foi esticada”. No \ncontexto em que ocorre, a oração iniciada pela \nconjunção “embora” exprime um sentido de:",
+            "alternativas": {
+                "A": "adversidade.",
+                "B": "proporcionalidade.",
+                "C": "causalidade.",
+                "D": "condicionalidade.",
+                "E": "concessividade."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 3: Em relação à coesão, no excerto “A pesquisa é \ninteressante não só por dar mais pistas sobre a \norigem dos diamantes rosas, mas também por \napontar possíveis condições para a exploração de \nnovas minas.”, a expressão “não só… mas \ntambém” funciona como:",
+            "alternativas": {
+                "A": "operador argumentativo de adição.",
+                "B": "operador argumentativo de oposição.",
+                "C": "operador argumentativo de explicação.",
+                "D": "operador argumentativo de proporção.",
+                "E": "operador argumentativo de conclusão.  QUESTÃO 04  \nConsidere as palavras I. supercontinente, II. \npedrinhas e III. cientistas, que ocorrem no texto. \nEm relação aos processos de formação, aquela(s) \nque apresenta(m) prefixo derivacional é (são):  \n \n(A) I.  \n(B) II.  \n(C) III.  \n(D) I e II.  \n(E) II e III."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 4: Considere o excerto: “Essa é a nova hipótese para \nexplicar como esses minerais – muito mais raros \nque diamantes comuns – se formaram na \nAustrália.” Quanto às classes gramaticais, as \npalavras “essa”, “hipótese”, “raros” e “se” \nclassificam -se, respectivamente, como:",
+            "alternativas": {
+                "A": "pronome relativo, substantivo, adjetivo e \npronome reflexivo.",
+                "B": "pronome demonstrativo, adjetivo, adjetivo e \npronome reflexivo.",
+                "C": "pronome demonstrativo, substantivo, \nadjetivo e pronome reflexivo.",
+                "D": "pronome demonstrativo, substantivo, \nsubstantivo e pronome reflexivo.",
+                "E": "pronome demonstrativo, substantivo, \nadjetivo e conjunção integrante.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 4 de 15 QUESTÃO 06  \nConsidere as seguintes sentenças, retiradas do \ntexto:  \nI. “Só uma minoria é destinada a joias (até porque \nnem todos têm as características necessárias para \nfazê-las)”  \nII. “os pesquisadores descobriram que um grande \ndepósito de diamantes rosa se formou há 1,3 \nbilhões de anos”  \nEm relação à colocação dos pronomes oblíquos, \nnas sentenças dadas observa -se, \nrespectivamente:  \n \n(A) ênclise e próclise.  \n(B) ênclise e ênclise.  \n(C) próclise e ênclise.   \n(D) próclise e mesóclise.  \n(E) mesóclise e próclise."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 5: Considere o excerto: “Para que isso aconteça, ele \ntem que ser submetido a forças intensas de calor \ne pressão.” No contexto apresentado, ocorre(m) \napenas pronome(s) do(s) tipo(s):",
+            "alternativas": {
+                "A": "demonstrativo e pessoal.",
+                "B": "demonstrativo.",
+                "C": "pessoal.",
+                "D": "relativo.",
+                "E": "indefinido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 6: Considere a seguinte sentença: “Avistaram \nalguns homens conduzindo uma cáfila até o \nlago.” Nesse contexto, a palavra “cáfila” se refere \na:",
+            "alternativas": {
+                "A": "um grupo de lobos.",
+                "B": "um grupo de porcos.",
+                "C": "um grupo de camelos.",
+                "D": "um grupo de búfalos.",
+                "E": "um grupo de cabras.  QUESTÃO 09  \nAssinale a alternativa em que a sentença \napresenta apenas voz ativa.   \n(A) O garoto foi atacado por dois cachorros.   \n(B) Encontravam -se cinzas no chão após as \nfestas.  \n(C) O homem suicidou -se em sua própria casa.  \n(D) Um gato foi resgatado na estrada.   \n(E) Pedro e Maria deram uma festa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a palavra “que” atua como pronome \ninterrogativo.",
+            "alternativas": {
+                "A": "Que desânimo!",
+                "B": "Fiquei feliz que você veio.",
+                "C": "O que você fez ontem?",
+                "D": "Ele deduz que foi traído pela esposa.",
+                "E": "Não há perdão para o que você fez.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 8: Considere a seguinte sequência lógica \nnumérica:  \n \n1\n2,1,3\n2,2,5\n2,3,7\n2,…  \n \nObservando o padrão da sequência, podemos \nafirmar que o centésimo termo dessa sequência \né:",
+            "alternativas": {
+                "A": "101/2.",
+                "B": "99/2.",
+                "C": "51/2.",
+                "D": "100.",
+                "E": "50.Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 5 de 15 QUESTÃO 12 \nO gráfico abaixo mostra a população e o número de domicílios ocupados por classe de densidade \npopulacional  \n \n \nFonte: Adaptado do Censo Demográfico 2010 - IBGE  \nAnalisando o gráfico, quantos por cento dos domicílios ocupados estão situados em regiões cuja \ndensidade populacional é superior a 5000 habitantes por quilômetro quadrado aproximadamente?  \n(A) 21,0%.  \n(B) 28,0%.  \n(C) 27,5%.  \n(D) 26,8%.  \n(E) 38,9%."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 9: Um químico misturou uma certa quantidade de cloro em água, mas por descuido esqueceu de anotar \nas respectivas quantidades das substâncias. Para não perder o seu trabalho, ele fez um experimento \npara determinar a proporção entre cloro e água, em volume, que  encontrou ser 1/5. Além disso, ele \nsabe que o volume final da mistura é 1,2 litro. Quanto de cloro ele usou nesta mistura?",
+            "alternativas": {
+                "A": "200 ml.",
+                "B": "400 ml.",
+                "C": "600 ml.",
+                "D": "800 ml.",
+                "E": "1000 ml.  \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 6 de 15 QUESTÃO 14 \nObserve a seguinte sequência lógica figural:  \n \nConforme as correspondências abaixo, indique o elemento faltante (marcado com símbolo de \ninterrogação):  \n \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 10: Um fazendeiro tem 80 hectares de terra onde ele planta milho. Cada hectare ele consegue produzir 6 \ntoneladas de milho, no qual ele ensaca em sacos de 60 kg, e vende a R$ 60,00 R$/saco. Qual o valor \narrecadado numa colheita completa da sua plantação, em reais?",
+            "alternativas": {
+                "A": "4,8 mil.",
+                "B": "48 mil.",
+                "C": "480 mil.",
+                "D": "4,8 milhões.",
+                "E": "48 milhões.  \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 7 de 15 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 11: O Microsoft Outlook 2016 é um cliente de email \nque permite configurar e gerenciar várias contas \nde email  em um único local. Neste sentido, \npode -se afirmar que o Outlook:  \nI - Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente.  \nII - Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais.  \nIII - Permite criar gráficos e visualizações de \ndados para representar informações de maneira \nmais compreensível.",
+            "alternativas": {
+                "A": "Nenhuma das afirmativas estão corretas.",
+                "B": "I e III, apenas.",
+                "C": "II  e III, apenas.",
+                "D": "I, apenas.",
+                "E": "II, apenas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 12: O  Microsoft PowerPoint 2016 é um aplicativo \nusado para criar apresentações visuais. Ele \npermite criar slides que contêm texto, imagens, \ngráficos, vídeos e elementos interativos. Neste \nsentido, pode -se afirmar que o PowerPoint:",
+            "alternativas": {
+                "A": "Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais.",
+                "B": "Oferece uma variedade de modelos de slides \ne opções de design para criar apresentações.",
+                "C": "O software oferece recursos de elaboração \nde planilhas, exibindo anotações de slides para \nauxiliar o orador durante a apresentação.",
+                "D": "Se restringe à configuração e gerenciamento \nde apenas uma conta de email em um único \nlocal.",
+                "E": "Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente.  QUESTÃO 18   \nO Microsoft Word 2016 é um software de \nprocessamento de texto amplamente utilizado \npara criar, editar e formatar documentos. Ele \noferece uma ampla gama de ferramentas para \nformatar texto de maneira profissional e \npersonalizada. Neste sentido, é incorreto \nafirmar que o Word:  \nI – Permite inserir imagens, gráficos e outros \nelementos visuais nos documentos.  \nII - O Word não oferece opções para criar listas \nnumeradas ou com marcadores em um \ndocumento.  \nIII - Para justificar o texto no Word, é preciso \nimprimir o documento e, em seguida, alinhá -lo \nmanualmente com uma régua.  \n(A) Nenhuma das afirmativas estão incorretas.  \n(B) I e II, apenas.  \n(C) II e III, apenas.  \n(D) I, apenas.  \n(E) II, apenas.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 8 de 15 QUESTÃO 19   \nAnalise a imagem a seguir:  \n \nPode -se afirmar que o programa apresentado \npossui as seguintes funções, exceto:  \n(A) Permite realizar cálculos matemáticos, \ncomo adição, subtração, multiplicação e \ndivisão, usando fórmulas.  \n(B) Permite organizar dados em planilhas, que \nsão compostas por células dispostas em linhas e \ncolunas.  \n(C) Pode classificar dados em ordem alfabética \nou numérica e aplicar filtros para exibir apenas \nos dados que atendem a critérios específicos.  \n(D) Possui funções integradas para trabalhar \ncom datas e horas, como calcular diferenças de \ndatas, extrair partes de datas (dia, mês, ano) e \nrealizar cálculos baseados em horários.  \n(E) Permite enviar, receber e organizar emails. \nSendo possível criar, responder, encaminhar e \narquivar mensagens de email de forma eficiente.  \n \n \n \n \n \n \n \n \n \n QUESTÃO 20   \nO Microsoft Word 2016 oferece amplas opções \nde formatação de texto, incluindo formatação de \nfonte, alinhamento, espaçamento entre linhas, \nrecuos e estilos de parágrafo, permitindo \npersonalizar a aparência do documento. Neste \nsentido, pode -se afirmar que o Word:  \n(A) Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de email, \nnúmeros de telefone e detalhes pessoais.  \n(B) Oferece uma variedade de modelos de slides \ne opções de design para criar apresentações.  \n(C) Possui recursos de revisão que facilitam a \ncolaboração. Sendo possível adicionar \ncomentários, fazer alterações e usar o controle de \nalterações para rastrear as edições.  \n(D) O software oferece recursos de elaboração de \nplanilhas, exibindo anotações de slides para \nauxiliar o orador durante a apresentação.  \n(E) Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 13: O conjunto de ações e serviços de saúde, \nprestados por órgãos e instituições públicas \nfederais, estaduais e municipais, da \nAdministração direta e indireta e das fundações \nmantidas pelo Poder Público, constitui o Sistema \nÚnico de Saúde (SUS). São objetivos do SUS, \nexceto:",
+            "alternativas": {
+                "A": "A identificação e divulgação dos fatores \ncondicionantes e determinantes da saúde.",
+                "B": "As ações de vigilância sanitária.",
+                "C": "A ordenação da formação de recursos \nhumanos na área de saúde.",
+                "D": "A colaboração na proteção do meio \nambiente, nele compreendido o do trabalho.",
+                "E": "O controle e a fiscalização do ordenamento \ndo solo.  \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 9 de 15 QUESTÃO 22  \n \nCom relação às competências da Lei 8080/90, \ncompete à direção municipal do Sistema Único \nde Saúde, exceto:  \n(A) Gerir laboratórios públicos de saúde e \nhemocentros.  \n(B) Formar consórcios administrativos \nintermunicipais.  \n(C) Executar a política de insumos e \nequipamentos para a saúde.  \n(D) Formular normas e estabelecer padrões, em \ncaráter suplementar, de procedimentos de \ncontrole de qualidade para produtos e substâncias \nde consumo humano.  \n(E) Controlar e fiscalizar os procedimentos dos \nserviços privados de saúde."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 14: Com relação às Boas Práticas Farmacêuticas para \no controle sanitário do funcionamento, da \ndispensação e da comercialização de produtos e \nda prestação de serviços farmacêuticos em \nfarmácias e drogarias, disposto na RDC 44/2009, \né correto afirmar, exceto:",
+            "alternativas": {
+                "A": "Os funcionários devem permanecer \nidentificados e com uniformes limpos e em boas \ncondições de uso.",
+                "B": "As atribuições e responsabilidades \nindividuais devem estar descritas no Manual de \nBoas Práticas Farmacêuticas do estabelecimento \ne serem compreensíveis a todos os funcionários.",
+                "C": "O farmacêutico responsável técnico pode \ndelegar algumas das atribuições para os \nauxiliares de farmácia com relação à supervisão \ne assistência do estabelecimento.",
+                "D": "Todos os funcionários devem ser capacitados \nquanto ao cumprimento da legislação sanitária \nvigente e aplicável às farmácias e drogarias.",
+                "E": "Os estabelecimentos farmacêuticos deverão \nmanter registros de cursos e treinamentos dos \nfuncionários.  \n \n QUESTÃO 24  \n \nDe acordo com a RDC 80/2006 da Anvisa, as \nfarmácias e drogarias poderão fracionar \nmedicamentos para atender quantidades \nindividualizadas, resguardando as características \ndo produto original. Com base nos \nconhecimentos dessa resolução, embalagem \nprimária é o: \n(A) Acondicionamento aprovado para fins de \nregistro pelo órgão competente do Ministério da \nSaúde.  \n(B) Acondicionamento que está em contato \ndireto com o produto.  \n(C) Acondicionamento para dispensação de \nmedicamentos fracionados ao usuário.  \n(D) Acondicionamento que compreende as \nembalagens destinadas ao fracionamento.  \n(E) Acondicionamento que está em contato com \na embalagem terciária."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 15: A RDC 67/2007, dispõe sobre Boas Práticas de \nManipulação de Preparações Magistrais e \nOficinais para Uso Humano em farmácias. Com \nrelação às boas práticas em farmácias, pode -se \nafirmar que:",
+            "alternativas": {
+                "A": "Na área de pesagem e salas de manipulação \né permitido o uso de cosméticos, joias ou \nquaisquer objetos de adorno de uso pessoal.",
+                "B": "A paramentação, bem como a higiene das \nmãos e antebraços, deve ser realizada após do \ninício da manipulação.",
+                "C": "A manipulação de substâncias voláteis, \ntóxicas, corrosivas, cáusticas e irritantes deve ser \nrealizada em capelas com exaustão.",
+                "D": "Não é permitido à farmácia a manipulação de \nsaneantes domissanitários para consumo próprio.",
+                "E": "A farmácia deve possuir obrigatoriamente \nduas balanças em cada laboratório de \nmanipulação.  \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 10 de 15 QUESTÃO 26  \n \nOs antibióticos são substâncias capazes de \neliminar ou impedir a multiplicação de bactérias, \npor isso são usados no tratamento de infecções \nbacterianas. Com relação aos critérios de \nprescrição, dispensação, controle, embalagem e \nrotulagem dos medicamentos antimicrobianos \ndescritos na legislação vigente, é incorreto \nafirmar:  \n(A) A prescrição de antibióticos só poderá ser \nrealizada por profissional legalmente habilitado.  \n(B) A receita de antimicrobiano é válida em todo \nterritório nacional, por 10 dias a contar da data de \nemissão.  \n(C) A receita de antimicrobianos poderá conter \nprescrição de outras categorias, desde que não \nsejam sujeitas à controle especial.  \n(D) É permitida a devolução de medicamentos \nantimicrobianos industrializados ou manipulados \npara drogarias e farmácias em caso de desistência \ndo consumidor.  \n(E) Em situação de tratamento prolongado a \nreceita poderá ser utilizada para aquisições \nposteriores dentro de um período de 90 dias a \ncontar da data de emissão."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 16: Uma boa prática de manipulação em farmácia \nrequer que as matérias -primas devam ser \nanalisadas, no seu recebimento, efetuando -se um \nmínimo de testes, respeitando -se as suas \ncaracterísticas físicas e mantendo os resultados \npor escrito. São testes mínimos exi gidos, exceto:",
+            "alternativas": {
+                "A": "Características Organolépticas.",
+                "B": "Solubilidade.",
+                "C": "pH.",
+                "D": "Volume.",
+                "E": "Ponto de Ebulição.  \n \n \n QUESTÃO 28  \n \nA Portaria n.º 344, de 12 de maio de 1998 e suas \natualizações, versa sobre o Regulamento Técnico \nsobre substâncias e medicamentos sujeitos a \ncontrole especial. Associe o medicamento à lista \na qual o mesmo pertence descrito na referida \nlegislação e assinale a alternativa correta.  \n \nAssocie o medicamento à lista que o mesmo \npertencente e assinale a alternativa correta.  \n \n1 – Clonazepam  \n2 – Morfina  \n3 – Isotretinoína  \n4 – Sibutramina  \n5 – Carbamazepina  \n \n(   ) Entorpecente pertencente à lista A1  \n(   ) Retinóide pertencente à lista C2  \n(   ) Antiepilético pertencente à lista C1  \n(   ) Benzodiazepínico pertencente à lista B1  \n(   ) Anorexígeno pertencente à lista B2  \n \n(A) 2 – 5 – 3 – 1 – 4. \n(B) 2 – 3 – 5 – 1 – 4. \n(C) 1 – 5 – 3 – 2 – 4. \n(D) 4 – 3 – 5 – 2 – 1. \n(E) 2 – 5 – 3 – 4 – 1. \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 11 de 15 QUESTÃO 29  \n \nÉ aquele que contém o mesmo princípio ativo, na \nmesma dose e forma farmacêutica, é \nadministrado pela mesma via e com a mesma \nposologia e indicação terapêutica do \nmedicamento de referência, apresentando \neficácia e segurança equivalentes à do \nmedicamento de referência podendo, com este, \nser intercambiável. O texto acima é a definição \nde: \n(A) Medicamento de Marca.  \n(B) Medicamento Genérico.  \n(C) Medicamento Similar.  \n(D) Medicamento Fitoterápico.  \n(E) Medicamento Biossimilar."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 17: A Notificação de Receita é o documento que \nacompanhado de receita autoriza a dispensação \nde medicamentos à base de substâncias \nconstantes das listas da Portaria 344/98. Com \nrelação ao modelo de notificação abaixo ( COR \nAMARELA ), qual medicamento \nobrigatoriamente deverá ser prescrito para que \nseja atendida pela farmácia?",
+            "alternativas": {
+                "A": "Clonazepam.",
+                "B": "Mazindol.",
+                "C": "Carbamazepina.",
+                "D": "Metilfenidato.",
+                "E": "Zolpidem.  \n \n \n QUESTÃO 31  \n \nHá vários tipos de sistemas de distribuição de \nmedicamentos em farmácias hospitalares. A \nescolha do método depende das peculiaridades \ndo hospital. Um desses métodos, é o Sistema \nColetivo que apresenta como característica:  \n(A) Maior participação do farmacêutico na \nequipe de Saúde.  \n(B) Menor erro de medicação.  \n(C) Necessidade de maior número de recursos \nhumanos.  \n(D) Alto investimento para funcionamento.  \n(E) Aumento de perdas financeiras por conta de \nfalta de controle do estoque."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 18: Como parte de boas práticas de conservação de \nmedicamentos, toda farmácia hospitalar deve \npossuir refrigerador para conservação de \nmedicamentos termolábeis. Pertencem a esta \nclasse:",
+            "alternativas": {
+                "A": "Insulinas e morfina.",
+                "B": "Insulinas e Imunoglobulina humana.",
+                "C": "Imunoglobulina anti -Rh humana e \nDexametasona Injetável.",
+                "D": "Dexametasona Injetável e Captopril.",
+                "E": "Morfina e Acetilcisteína Xarope."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 19: O Medicamentos Isentos de Prescrição (MIP) são \nmedicamentos que podem ser dispensados sem \nexigência de prescrição, ou seja, são os \nmedicamentos disponíveis ao autosserviço em \nfarmácias e drogarias, que não necessitam de \nreceita médica para que sejam vendid os. São \nexemplos de MIPs, exceto:",
+            "alternativas": {
+                "A": "Acetilcisteína Solução Oral.",
+                "B": "Prometazina Comprimido.",
+                "C": "Ácido Acetilsalicílico Comprimido.",
+                "D": "Bisacodil Comprimido.",
+                "E": "Butilbrometo de Escopolamina Solução Oral.  \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 12 de 15 QUESTÃO 34  \n \nOs antifúngicos são medicamento utilizados para \ntratamento de doenças provocadas por fungos e \nincluem agentes tópicos e sistêmicos. São \nexemplos dessa classe de medicamentos:  \n(A) Cetoconazol e Nistatina.  \n(B) Cetoconazol e Ceftriaxona.  \n(C) Amoxicilina e Itraconazol.  \n(D) Itraconazol e Nimesulida.  \n(E) Itraconazol e Cefepime."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 20: O farmacêutico responsável pela Central de \nAbastecimento Farmacêutica (CAF) de um \ndeterminado hospital solicitou ao auxiliar da \nfarmácia que fizesse um documento com uma \nsolicitação de compra de Ceftriaxona 1g Frasco -\nAmpola para 3 meses de uso. Sabendo que  a \nmédia mensal é de 650 unidades e que há 350 \nunidades em estoque e que o fornecedor trabalha \ncom embalagem mínima de 50 unidades, quantas \ncaixas deverão ser adquiridas para o período? \n(sem considerar estoque mínimo, estoque de \nsegurança e tempo de reposi ção)",
+            "alternativas": {
+                "A": "1600 caixas.",
+                "B": "160 caixas.",
+                "C": "320 caixas.",
+                "D": "32 caixas.",
+                "E": "39 caixas.  \n \n \n \n \n \n \n \n \n QUESTÃO 36  \n \nUm paciente foi à farmácia comprar insulina para \no tratamento de diabetes mellitus tipo 2, com a \nprescrição médica abaixo:  \nInsulina Regular  \n10 UI antes do café da manhã  \n16 UI antes do almoço  \n10 UI antes do jantar  \n \nSabendo -se que na farmácia a única apresentação \ndisponível é na dosagem de 100UI/ml em frasco \nde 10ml, qual a quantidade a ser dispensada para \nesse paciente para 60 dias de tratamento \ncompleto conforme prescrição?  \n(A) 1 frasco.  \n(B) 2 frascos.  \n(C) 3 frascos.  \n(D) 4 frascos.  \n(E) 5 frascos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 21: Um paciente foi ao médico dermatologista para \ntratamento de Acne vulgar e o profissional \nprescreveu um medicamento a ser manipulado \nconforme abaixo:  \n \nFórmula  \nÁcido Azeláico............ 15%.  \nGel (qsp) .................... 50g.  \n \nCom base nesses dados, qual a quantidade \nutilizada do ácido azeláico para essa formulação?",
+            "alternativas": {
+                "A": "750 miligramas.",
+                "B": "0,75 quilogramas.",
+                "C": "75 gramas.",
+                "D": "7500 miligramas.",
+                "E": "750 gramas.  \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 13 de 15 QUESTÃO 38  \n \nUm paciente precisou ser internando em uma \nenfermaria de determina unidade hospitalar. O \nmédico ao avaliar o paciente verificou que o \nmesmo estava com a pressão arterial de \n180mmHg/120mmHg necessitando de \nintervenção farmacológica. O médico liga para \nfarmá cia hospitalar e pergunta sobre quais \ndiuréticos estavam disponíveis. Qual alternativa \nabaixo representar uma resposta correta dada ao \nmédico pela farmácia hospitalar?  \n(A) Furosemida e Captopril.  \n(B) Losartana e Furosemida.  \n(C) Atenolol e Hidroclorotiazida.  \n(D) Furosemida e Hidroclorotiazida.  \n(E) Atenolol e Captopril."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 22: Hipoglicemiantes ou antidiabéticos são \nmedicamentos amplamente utilizados na prática \nmédica com o objetivo de diminuir a quantidade \nde glicose no sangue. São exemplos de \nhipoglicemiantes orais, exceto:",
+            "alternativas": {
+                "A": "Glicazida.",
+                "B": "Metformina.",
+                "C": "Glimepirida.",
+                "D": "Semaglutida.",
+                "E": "Repaglinida."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE FARMÁCIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 23: O metabolismo de fármacos compreende o \nconjunto de reações enzimáticas que \nbiotransformam fármacos e outros compostos \nestranhos (xenobióticos) em metabólitos de \npolaridade crescente, para que sejam excretados. \nCom relação ao assunto, os principais órgãos \nenvolvidos na metabolização e eliminação de \nfármacos, respectivamente, são:",
+            "alternativas": {
+                "A": "Pulmão e Rins .",
+                "B": "Rins e Fígado .",
+                "C": "Fígado e Intestino .",
+                "D": "Rins e Pulmão .",
+                "E": "Fígado e Rins .  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 14 de 15  \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE FARMÁCIA                                                                                                                            Página 15 de 15"
+            },
+            "resposta_correta": "C"
+        }
+    ]
+}

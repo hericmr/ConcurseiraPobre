@@ -1,3 +1,760 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:525b390edea4c98a5b91a33723d4da3f1f4f602226c60c25cb9d41ee9852e23d
-size 99717
+{
+    "ODONTOPEDIATRA": [
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: De acordo com o texto, conclui -se que:",
+            "alternativas": {
+                "A": "Luiz Augusto deixou Beatriz para ficar com \nJacinta por conta da omelete perfeita.",
+                "B": "Jacinta não aprendeu a omelete perfeita \nporque fez apenas a parte teórica do curso de \nculinária.",
+                "C": "Jacinta contava com o apoio de suas amigas \npara recuperar Luiz Augusto.",
+                "D": "Luiz Augusto deu uma segunda chance, mas \nnão aprovou a nova versão da omelete de Jacinta.",
+                "E": "Jacinta não atingiu a omelete perfeita porque \ntinha um entendimento distinto de baveuse . \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 3 de 16 QUESTÃO 02  \nO pronome demonstrativo em “ — Não — disse \nJacinta —, eu chamo isto de baveuse. ” funciona \ncomo um recurso de coesão textual de:  \n(A) anáfora.  \n(B) catáfora.  \n(C) elipse.  \n(D) substituição.   \n(E) sinonímia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Das associações sobre as personagens propostas \nnas alternativas a seguir, aquela que pode ser \ndepreendida corretamente do texto é:",
+            "alternativas": {
+                "A": "Caio Ribeiro – referência de bom preparo de \nomeletes, segundo o gosto de Luiz Augusto.",
+                "B": "Jacinta – atingiu, por fim, o preparo da \nomelete perfeita, ao gosto de Luiz Augusto, após \no curso de culinária, mas perdeu o interesse por \nele.",
+                "C": "Luiz Augusto – apreciador exigente de \nomeletes, demandava que sua companheira \npreparasse omeletes tão bem quanto ele.",
+                "D": "Beatriz – pessoa com quem Luiz Augusto foi \nmorar após se separar de Jacinta, fazia omeletes \nquase tão boas quanto as de Caio Ribeiro.",
+                "E": "Professora do curso de culinária – sugeriu a \nJacinta usar uma frigideira de ferro, para o caso \nde a omelete não ficar perfeita."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Analise as sentenças retiradas do texto e assinale \naquela em que o vocábulo “se” é um pronome \nexpletivo.",
+            "alternativas": {
+                "A": "“Mas Jacinta não se conformava.”",
+                "B": "“Quando alguém — desinformado ou \ndesalmado — perguntava perto da Jacinta se \n“omelete” era masculino ou feminino”.",
+                "C": "“Luiz Augusto sentou -se.”",
+                "D": "“O que se poderia dizer de um homem que \ntinha abandonado a mulher de dez anos de \ncasamento, para não falar em cotas num \ncondomínio horizontal da zona Sul, por uma \nomelete bem -feita?”",
+                "E": "“Luiz Augusto não se cansava de repetir que \na omelete perfeita devia ser tostada por fora e \númida por dentro.”  \n \n \n Considere o excerto a seguir para responder \nàs questões 5, 6 e 7:  \n \nDurante dez anos, Jacinta ouvira críticas à sua \nomelete. Quando Luiz Augusto anunciara que \nencontrara uma mulher que fazia omeletes \nperfeitas — melhores, inclusive, que as do Caio \nRibeiro — e que iria morar com ela, \nacrescentou:   — Você não pode dizer que não lhe \ndei todas as chances, Cintinha."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: No contexto apresentado, em relação à classe \ngramatical, os vocábulos “que” em destaque \natuam, respectivamente, como:",
+            "alternativas": {
+                "A": "conjunção integrante, pronome relativo e \nconjunção comparativa.",
+                "B": "conjunção integrante, pronome relativo e \nconjunção integrante.",
+                "C": "preposição, pronome relativo e preposição.",
+                "D": "conjunção causal, conjunção integrante e \nconjunção integrante.",
+                "E": "conjunção causal, pronome interrogativo e \nconjunção comparativa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Dentre todas as palavras que ocorrem no excerto \napresentado, pertencem à classe gramatical das \npreposições:",
+            "alternativas": {
+                "A": "à, do.",
+                "B": "durante, com.",
+                "C": "a, quando, de, com.",
+                "D": "durante, à, inclusive, do.",
+                "E": "durante, a, de, com."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Os verbos “ouvira”, “anunciara” e “encontrara”, \nque ocorrem no excerto apresentado, estão \nconjugados no tempo:",
+            "alternativas": {
+                "A": "pretérito imperfeito do modo indicativo.",
+                "B": "pretérito perfeito do modo indicativo.",
+                "C": "pretérito mais -que-perfeito do modo \nindicativo.",
+                "D": "futuro do pretérito do modo indicativo.",
+                "E": "pretérito imperfeito do modo subjuntivo.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 4 de 16 QUESTÃO 08 \nDe acordo com a gramática normativa, a ênclise \nestá vetada se:  \nI. O verbo está flexionado em uma oração \nsubordinada.  \nII. A oração é iniciada por palavra interrogativa.  \nIII. Em uma locução verbal, o verbo auxiliar está \nflexionado no presente do indicativo.   \nÉ (são) verdadeira(s) apenas a(s) afirmativa(s) \nem:  \n(A) I.  \n(B) II.  \n(C) III.  \n(D) I e II.  \n(E) II e III."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a qualidade expressa pelo adjetivo é \ncomparativa.",
+            "alternativas": {
+                "A": "Maria é tão caprichosa quanto sua irmã.",
+                "B": "Estou extremamente cansada.",
+                "C": "A atriz estava elegantíssima no desfile de \nmoda.",
+                "D": "Daniel é o mais engajado dentre os \nparticipantes do programa.",
+                "E": "Quando percebeu minha tristeza, passou a ser \ngentil."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale aquela \nem que ocorre desvio ortográfico.",
+            "alternativas": {
+                "A": "O casal se separou recentemente, razão por \nque não foram juntos ao evento.",
+                "B": "Isto é só mais um empecilho para dificultar \nas coisas.",
+                "C": "Os funcionários estão reinvindicando \nmelhores condições de trabalho.",
+                "D": "Que coincidência nos encontrarmos aqui!",
+                "E": "Espetáculos teatrais são ótimas formas de \nentretenimento.  MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: 1 \nEm uma certa loja, o preço das camisas era o \nmesmo para todas as camisas e o preço das calças \nera o mesmo para todas as calças. Leandro \ncomprou nessa loja 2 camisas e 3 calças e pagou \nR$ 510,00. Ele também comprou 1 camisa e 2 \ncalças para seu filho e pagou R$ 320 ,00. \nPodemos afirmar que o preço de cada camisa \nnessa loja é:",
+            "alternativas": {
+                "A": "R$ 60,00.",
+                "B": "R$ 65,00.",
+                "C": "R$ 58,00.",
+                "D": "R$ 72,00.",
+                "E": "R$ 55,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Segundo dados do IBGE de 2021, o município de \nArarendá, no Ceará, possui o maior IDEB (Índice \nde Desenvolvimento da Educação Básica) nos \nanos iniciais do ensino fundamental. No ano de \n2019 o IDEB foi de 8,3 e no ano de 2021 o IDEB \nfoi de 9,5. Podemos afirmar que o crescimento \npercentual do IDEB de 2019 para 2021 foi \naproximadamente de:",
+            "alternativas": {
+                "A": "10%.",
+                "B": "14%.",
+                "C": "25%.",
+                "D": "22%.",
+                "E": "20%.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 5 de 16 QUESTÃO 13  \nUm marceneiro recebe um pedido para fazer uma \nmesa em forma de um coração, composta por \ndois semicírculos e um quadrado, conforme a \nfigura abaixo.  \n \n \n \n \n \n \nSabendo que os gastos com a figura mostrada são \nde R$ 120,00 por metro quadrado, qual é o gasto \ntotal se o quadrado possui lado de 1m? Considere \n𝜋≈3. \n(A) R$ 175,00.  \n(B) R$ 180,00.  \n(C) R$ 190,00.  \n(D) R$ 200,00.  \n(E) R$ 210,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Considere verdadeira a seguinte proposição \ncondicional:  \n“Se Paulo sabe fazer bolo, então ele sabe fazer \nbiscoitos.”  \nA partir dessa proposição, também é verdade \nque:",
+            "alternativas": {
+                "A": "Se Paulo não sabe fazer biscoitos, então ele \nnão sabe fazer bolo.",
+                "B": "Provavelmente Paulo sabe fazer bolo e sabe \nfazer biscoitos.",
+                "C": "Ou Paulo sabe fazer bolo ou Paulo sabe fazer \nbiscoitos.",
+                "D": "Se Paulo souber fazer bolo, também saberá \nfazer biscoitos.",
+                "E": "Paulo não sabe fazer bolo, nem sabe fazer \nbiscoitos.  \n \n QUESTÃO 15  \nO dono de um brechó decidiu fazer uma \npromoção para as camisas que ele vende. Ele \nobservou que as vendas das camisas durante o \nmês anterior ocorreram segundo a tabela:  \nMarca da \ncamisa  Preço da \ncamisa  Número de \ncamisas \nvendidas  \nMarca A  R$ 20,00  20 \nMarca B  R$ 18,00  22 \nMarca C  R$ 25,00  20 \n \nEle decidiu que no mês atual as camisas de todas \nas marcas possuirão o mesmo preço. O dono do \nbrechó definiu o novo preço da camisa como \nsendo o preço médio de todas as camisas \nvendidas independentemente de sua marca. \nAssim, no mês atual, o preço da camisa  é \naproximadamente:  \n(A) R$ 18,90.  \n(B) R$ 20,90.  \n(C) R$ 21,70.  \n(D) R$ 22,80.  \n(E) R$ 24,60."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: A sequência abaixo mostra os 4 primeiros \nnúmeros primos:  \n2,3,5,7… \nOs números primos são números que somente \nsão divisíveis por 1 e por eles mesmos. Qual é o \nsétimo termo dessa sequência?",
+            "alternativas": {
+                "A": "12.",
+                "B": "13.",
+                "C": "15.",
+                "D": "17.",
+                "E": "19.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 6 de 16 QUESTÃO 17  \nCarlos fez uma aplicação de R$ 12.000,00 a uma \ntaxa de 5% ao mês durante 3 anos em regime de \njuros simples. Ao final dessa aplicação qual é o \nmontante que Carlos possuirá?  \n(A) R$ 26.800,00.  \n(B) R$ 30.600,00.  \n(C) R$ 33.600,00.  \n(D) R$ 34.000,00.  \n(E) R$ 36.700,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Suponha que no ano de 2023, 8% de todas as \ndespesas do governo de um determinado país \nforam com Educação. Já dentre as despesas com \na Educação, as despesas com educação \nprofissionalizante representaram 10%. Se o valor \nde todas as despesas do governo foi de  R$ 4 \ntrilhões, então qual o valor as despesas com \neducação profissionalizante?",
+            "alternativas": {
+                "A": "R$ 3,2 bilhões.",
+                "B": "R$ 320 bilhões.",
+                "C": "R$ 32 bilhões.",
+                "D": "R$ 400 bilhões.",
+                "E": "R$ 40 bilhões."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Queremos construir duas figuras geométricas, \num quadrado de lado 𝑎 e um triângulo equilátero \nde lado 𝑑, de modo que os dois tenham o mesmo \nperímetro. Qual é a razão entre a área e o \nperímetro do quadrado em termos de 𝑑?",
+            "alternativas": {
+                "A": "2\n7𝑑.",
+                "B": "3\n8𝑑.",
+                "C": "3\n32𝑑.",
+                "D": "3\n16𝑑.",
+                "E": "1\n2𝑑. \n QUESTÃO 20  \nUm projetista recomenda que para fazer o \nconcreto utilize -se, para cada porção de cimento, \n2 porções de areia e 3 porções de pedra brita, em \nmassa. Sendo assim, na mistura final que o \nprojetista recomenda a quantidade de areia \nrepresenta qual porcentagem da massa total?  \n(A) 19%.  \n(B) 20%.  \n(C) 25%.  \n(D) 30%.  \n(E) 33%.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Sobre a função “responder” no MS -Outlook \n2016, é incorreto o que se afirma em:  \nI - O anexo será mantido na mensagem.  \nII - O campo “Para” deverá ser preenchido.  \nIII - A mensagem de resposta será enviada \napenas para o remetente original.  \nIV - O campo “Assunto” não será preenchido \nautomaticamente.  \nV - O texto original do remetente não será \nmantido.",
+            "alternativas": {
+                "A": "I e III, apenas.",
+                "B": "I, II e V, apenas.",
+                "C": "I, II, IV e V, apenas.",
+                "D": "I, II, III e V, apenas.",
+                "E": "Nenhuma das afirmativas estão incorretas.  \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 7 de 16 QUESTÃO 22  \nO MS -Word 2016 possui diversas ferramentas de \nedição e formatação texto, sendo algumas delas:  \n \nAssinale a alternativa que não contenha um dos \nelementos de formatação dentre os \nrepresentados.  \n(A) Tachado.  \n(B) Sublinhado.  \n(C) Subscrito.  \n(D) Itálico.  \n(E) Negrito."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Analiseas imagens a seguir:  \nI: \n \nII:",
+            "alternativas": {
+                "A": "A imagem I representa um gerenciador de e -\nmails da suíte Microsoft Office.",
+                "B": "A imagem II representa um gerenciador de e -\nmails desenvolvido e mantido pela Google.",
+                "C": "Ambas as imagens representam softwares de \ndesenvolvimento de planilhas eletrônicas.",
+                "D": "Nenhuma das imagens representam \ngerenciadores de e -mails.",
+                "E": "Ambas as imagens representam \ngerenciadores de e -mails.  \n \n \n QUESTÃO 24  \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Nesse \ncontexto, são palavras que integram o significado \nde URL:  \n( ) Uniform.  \n( ) Resource  \n( ) Lover.  \n( ) User.  \n( ) Locator.  \nIndique “V” para verdadeiro e “F” para falso.  \n(A) V, F, V, F, V.  \n(B) F, F, V, V, F.  \n(C) V, V, F, F, V.  \n(D) V, V, F, V, V.  \n(E) F, F, V, F, F."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Leia atentamente os trechos a seguir:  \nTrecho 1: As configurações de impressão \npermitem escolher entre as opções de orientação \nretrato (vertical) e paisagem (horizontal) para \ndeterminar a direção da impressão na página.  \nTrecho 2: É possível selecionar o tamanho do \npapel a ser utilizado na impressão, como A4, \ncarta, ofício, entre outros, para corresponder ao \nformato desejado.  \nTrecho 3: Não é possível ajustar as margens da \npágina, determinando a quantidade de espaço em \nbranco ao redor do conteúdo impresso, \npersonalizando a formatação da página.  \nDiante da análise, assinale a alternativa correta.",
+            "alternativas": {
+                "A": "Todos os trechos apresentados fazem \nafirmações corretas acerca da digitalização de \num documento.",
+                "B": "Todos os trechos apresentados fazem \nafirmações incorretas acerca da impressão de um \ndocumento.",
+                "C": "O trecho 1 está correto ao afirmar que é \npossível selecionar o tamanho do papel a ser \nutilizado na impressão .",
+                "D": "O trecho 3 se equivoca ao mencionar que não \npossível ajustar as margens da página.",
+                "E": "O trecho 2 está correto ao afirmar que as \nconfigurações de impressão permitem escolher \nentre as opções de orientação retrato.  \nPrefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 8 de 16 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: De acordo com o Decreto Federal n° 7.508/2011. \nAssinale a alternativa correta.",
+            "alternativas": {
+                "A": "O SUS é constituído pela conjugação das \nações e serviços de promoção, proteção e \nrecuperação da saúde executados pelos entes \nfederativos, de forma direta ou indireta, sem a \nparticipação da iniciativa privada, sendo \norganizado de forma regionalizada e \nhiera rquizada.",
+                "B": "O SUS é constituído pela conjugação das \nações e serviços de promoção, proteção e \nrecuperação da saúde executados pelos entes \nfederativos, de forma direta ou indireta, mediante \na participação complementar da iniciativa \nprivada, sendo organizado de forma forma \ncentralizada e não regionalizada.",
+                "C": "A organização regionalizada e \nhierarquizada do SUS implica na centralização \nde todas as decisões e recursos no âmbito federal.",
+                "D": "O SUS é constituído pela conjugação das \nações e serviços de proteção e recuperação da \nsaúde executados pelos entes normativos, de \nforma direta ou indireta, mediante a participação \ncomplementar da iniciativa pública, sendo \norganizado de forma regionalizada e \ncentralizada.",
+                "E": "O SUS é constituído pela conjugação das \nações e serviços de promoção, proteção e \nrecuperação da saúde executados pelos entes \nfederativos, de forma direta ou indireta, mediante \na participação complementar da iniciativa \nprivada, sendo organizado de forma \nregionalizada e hierarquizada.  \n \n \n \n \n \n \n QUESTÃO 27  \nDe acordo a Lei Federal 8080, de \n19/09/1990.Complete corretamente a lacuna.  \nEntende -se por saúde bucal o conjunto articulado \nde ações, em todos os níveis de complexidade, \nque visem a garantir promoção, prevenção, \nrecuperação e reabilitação odontológica, \nindividual e coletiva, inseridas no contexto da \nintegralidade________________________.  \n \n(A) da higiene oral.  \n(B) da atenção à saúde  \n(C) do tratamento odontológico.  \n(D) da abordagem curativa.  \n(E) da responsabilidade do indivíduo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Analise os itens a seguir de acordo com a \nConstituição da República Federativa do Brasil e \nassinale a alternativa correta.  \n \nI – O produtor, o parceiro, o meeiro e o \narrendatário rurais e o pescador artesanal, bem \ncomo os respectivos cônjuges, que exerçam suas \natividades em regime de economia familiar, com \nempregados permanentes, contribuirão para a \nseguridade social mediante a aplicação de uma \nalíquota sobre o resultado da comercialização da  \nprodução e farão jus aos benefícios nos termos da \nlei.  \n \nII – São isentas de contribuição para a seguridade \nsocial as entidades beneficentes de assistência \nsocial que atendam às exigências estabelecidas \nem lei.",
+            "alternativas": {
+                "A": "A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.",
+                "B": "As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.",
+                "C": "A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.",
+                "D": "As asserções I e II são proposições falsas.",
+                "E": "As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 9 de 16 QUESTÃO 29  \nDe acordo a Lei Federal 8080, de 19/09/1990. \nanalise as afirmativas abaixo atribuindo (V) para \nVerdadeira e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta.  \n \n( ) O Conselho Nacional de Secretários de Saúde \n(Conass) e o Conselho Nacional de Secretarias \nMunicipais de Saúde (Conasems) são \nreconhecidos como entidades representativas dos \nentes estaduais e municipais para tratar de \nmatérias referentes à saúde e declarado s de \nutilidade pública e de relevante função social, na \nforma do regulamento.     \n \n( ) Os Conselhos de Secretarias Municipais de \nSaúde (Cosems) são reconhecidos como \nentidades que representam os entes municipais, \nno âmbito estadual, para tratar de matérias \nreferentes à saúde, desde que vinculados \ninstitucionalmente ao Conasems, na forma que \ndispuserem seus estatutos.      \n \n( )  No nível municipal, o Sistema Único de \nSaúde (SUS), poderá organizar -se em distritos de \nforma a integrar e articular recursos, técnicas e \npráticas voltadas para a cobertura total das ações \nde saúde.  \n \n(A) V - F -F  \n(B) F - V- V \n(C) V - F -V \n(D) V -V -V \n(E) F -F -V \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 30  \nDe acordo com a Lei 8.142/1990. O Sistema \nÚnico de Saúde (SUS),  contará, em cada esfera \nde governo, sem prejuízo das funções do Poder \nLegislativo, com as seguintes instâncias \ncolegiadas: a Conferência de Saúde; e o \nConselho de Saúde. Em relação ao Conselho de \nSaúde,  assinale a alternativa correta.  \n(A) O Conselho de Saúde, em caráter temporário \ne deliberativo, órgão colegiado composto por \nrepresentantes do SUS, prestadores de serviço, \nprofissionais de saúde e usuários, atua na \nformulação de estratégias e no controle da \nexecução da política de saúde na in stância \ncorrespondente, inclusive nos aspectos \neconômicos e financeiros.  \n(B) O Conselho de Saúde, em caráter \npermanente e deliberativo, órgão colegiado \ncomposto por representantes do governo, \nprestadores de serviço, profissionais de saúde e \nusuários, atua na formulação de estratégias e no \ncontrole da execução da política de saúde n a \ninstância correspondente, inclusive nos aspectos \neconômicos e financeiros, cujas decisões serão \nhomologadas pelo chefe do poder legalmente \nconstituído em cada esfera do governo.  \n(C) O Conselho de Saúde, em caráter temporário \ne deliberativo, órgão colegiado composto por \nrepresentantes da Educação e Saúde, prestadores \nde serviço, profissionais de saúde e usuários, atua \nna formulação de estratégias e no controle da \nexecução da política d e saúde em todas as \ninstâncias, exceto nos aspectos econômicos e \nfinanceiros.  \n(D) O Conselho de Saúde, em caráter \npermanente e deliberativo, órgão colegiado \ncomposto apenas por representantes do governo, \ne profissionais de saúde, atua na formulação de \nestratégias e no controle da execução da política \nde saúde em todas as instâncias.  \n(E) O Conselho de Saúde, em caráter \npermanente não possui caráter deliberativo, é o \nórgão colegiado composto por representantes do \ngoverno, prestadores de serviço e profissionais \nde saúde, exceto usuários, atua na formulação de \nestratégias e no controle da exe cução da política \nde saúde na instância correspondente, inclusive \nnos aspectos econômicos e financeiros, cujas \ndecisões serão homologadas pelo chefe do poder \nlegalmente constituído em cada esfera do \ngoverno.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 10 de 16 QUESTÃO 31  \nO líquido sinovial é um liquido bastante viscoso, \nrico em um polissacarídeo não sulfatado, o ácido \nhialurônico, que lubrifica o interior da \narticulação. O líquido sinovial exerce a função \nde: \n(A) Proteção mecânica.  \n(B) Nutrição da ATM, principalmente do disco  \n(C) Lubrificação do shunting  \n(D) Proteção química  \n(E) Preenchimento do feixe profundo"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: O movimento de lateralidade é executado \nprincipalmente pela contração dos músculos \n__________ e __________ do lado de balanceio.",
+            "alternativas": {
+                "A": "Pterigóideo lateral e pterigóideo medial",
+                "B": "Temporal e pterigóideo medial",
+                "C": "Pterigóideo lateral e Masséter",
+                "D": "Masséter e Temporal",
+                "E": "Pterigóideo lateral e Temporal"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: A resina composta é formada por matriz, \npartícula de carga e agente de união. A \ndesvantagem da partícula de carga é:",
+            "alternativas": {
+                "A": "Aumento das propriedades mecânicas",
+                "B": "Baixo coeficiente de expansão térmica linear",
+                "C": "Redução da contração de polimerização",
+                "D": "Ser mais inerte que a matriz orgânica",
+                "E": "Dificuldade de passagem de luz  \n \n \n \n \n \n \n \n QUESTÃO 34 \nO repasse de recursos do SUS por meio dos \nfundos de saúde ocorre:  \n(A) Através de convênios particulares da União \ncom os municípios  \n(B) Através de convênios e contratos  \n(C) De forma vinculada à Previdência Social  \n(D) De forma direta e automática  \n(E) Através de impostos por compra e vendas de \nserviços"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: 5 \nOs agentes preventivos e terapêuticos, utilizados \nnos dentifrícios, denominados de nitrato de \npotássio e cloreto de estrôncio apresentam a \nfunção:",
+            "alternativas": {
+                "A": "Antiplaca",
+                "B": "Clareadora",
+                "C": "Anti -sensibilidade dentinária",
+                "D": "Antitártaro",
+                "E": "Abrasiva  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 11 de 16 QUESTÃO 36  \nO domínio da odontologia pediátrica, voltado ao \natendimento especializado de crianças, requer \numa análise minuciosa da saúde bucal na fase \ninfantil, com especial ênfase na identificação de \npadrões específicos que permeiam distintos \nestratos etários infanto juvenis. A epidemiologia \nemerge como uma ferramenta vital nesse \ncontexto, desempenhando um papel \npreponderante na avaliação de dados \npopulacionais. Essa abordagem, ao discernir \npadrões epidemiológicos, contribui \ndecisivamente para o delineamento de estraté gias \npreventivas meticulosamente direcionadas à \npromoção da saúde bucal nesse segmento \ndemográfico.  \nÉ incorreto afirmar que?  \n(A) A infância  possui  um papel  significativo  no \nestudo  da odontologia  pediátrica,  exigindo  \natenção  na identificação  de padrões  ligados  à \nidade.  \n(B) A análise  meticulosa  da saúde  bucal  na fase \ninfantil  é fundamental  para o domínio  da \nodontologia  pediátrica.  \n(C) Estratégias preventivas direcionadas à \npromoção da saúde bucal em crianças dependem \ndo discernimento de padrões epidemiológicos.  \n(D) A identificação de padrões específicos em \ndiferentes estratos etários é crucial para o \natendimento especializado em odontopediatria.  \n(E) A epidemiologia desempenha um papel \nsecundário na análise de dados populacionais \nrelacionados à saúde bucal infantojuvenil.  \n \n \n \n \n \n \n \n \n \n QUESTÃO 37  \nA correta implementação de protocolos de \nbiossegurança em ambientes odontopediátricos é \ncrucial para assegurar a segurança tanto dos \nprofissionais quanto dos pequenos pacientes. A \nadoção de práticas específicas contribui para \nprevenir infecções e controlar  riscos biológicos. \nConsiderando esse contexto, avalie as seguintes \nasserções e a relação proposta entre elas.  \nI. O uso de Equipamentos de Proteção Individual \n(EPIs) é uma medida dispensável em \nprocedimentos odontopediátricos.  \nPORQUE  \nII. O tamanho reduzido das crianças e seu \ncomportamento imprevisível durante o \natendimento tornam essencial o uso rigoroso de \nEPIs para a proteção dos profissionais de saúde.  \n(A) As asserções I e II são proposições \nverdadeiras, e a II é uma justificativa da I.  \n(B) As asserções I e II são proposições \nverdadeiras, mas a II não é uma justificativa da I.  \n(C) A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.  \n(D) A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.  \n(E) As asserções I e II são proposições falsas.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 12 de 16 QUESTÃO 38  \nEm odontologia, a sequência adequada de \nprocedimentos é essencial para uma avaliação \nabrangente. Considerando o caso de uma criança \nencaminhada à clínica odontopediátrica devido a \nsuspeitas de anomalias craniofaciais, qual das \nseguintes opções representa a  ordem correta dos \nexames complementares para uma avaliação \ncompleta e diagnóstico adequado?  \n(A) Avaliação Clínica Inicial, Tomografia \nComputadorizada (TC), Radiografias Iniciais, \nFacial, Ressonância Magnética (RM), Avaliação \nOrtodôntica, Avaliação Fonoaudiológica, \nConsulta com Especialistas, Avaliação Genética \ne Consulta Multidisciplinar.  \n(B) Avaliação Clínica Inicial, Radiografias \nIniciais, Avaliação Ortodôntica, Avaliação \nFonoaudiológica, Consulta com Especialistas, \nTomografia Computadorizada (TC) Facial, \nRessonância Magnética (RM), Avaliação \nGenética, Consulta Multidisciplinar.  \n(C) Avaliação Clínica Inicial, Radiografias \nIniciais, Tomografia Computadorizada (TC) \nFacial, Ressonância Magnética (RM), Avaliação \nOrtodôntica, Avaliação Fonoaudiológica, \nConsulta com Especialistas, Avaliação Genética, \nConsulta Multidisciplinar.  \n(D) Avaliação Clínica Inicial, Avaliação \nGenética, Radiografias Iniciais, Tomografia \nComputadorizada (TC) Facial, Ressonância \nMagnética (RM), Consulta com Especialistas, \nAvaliação Ortodôntica, Avaliação \nFonoaudiológica, Consulta Multidisciplinar.  \n(E) Avaliação Clínica Inicial, Radiografias \nIniciais, Tomografia Computadorizada (TC) \nFacial, Avaliação Ortodôntica, Avaliação \nFonoaudiológica, Consulta com Especialistas, \nRessonância Magnética (RM), Avaliação \nGenética, Consulta Multidisciplinar.  \n \n \n \n \n \n \n \n QUESTÃO 39  \nDiante do amplo espectro de conhecimentos \nsobre anestesia loco-regional oral em \nodontopediatria, analise as afirmações a seguir e \nassinale a alternativa que apresenta corretamente \na veracidade das assertivas.  \nI. Os broncodilatadores são utilizados para tratar \nreações respiratórias em emergências durante a \nadministração de anestesia em crianças.  \nII. A ranitidina é um anti -histamínico H2 que \npode ser administrado para tratar complicações \ngastrointestinais durante emergências em \nodontopediatria.  \nIII. A epinefrina é adicionada aos anestésicos \nlocais para prolongar a duração da anestesia e \nreduzir a absorção sistêmica.  \nIV. Corticosteroides podem ser utilizados para \ntratar reações alérgicas, reduzindo a inflamação \nsistêmica.  \nV. A nitroglicerina é uma opção para tratar \nemergências cardiovasculares durante \nprocedimentos odontopediátricos.  \n(A) Apenas os itens I, II e III são verdadeir os. \n(B) Apenas os itens I, II, III e IV são verdadeir os. \n(C) Apenas os itens I, III, IV e V são verdadeir os. \n(D) Apenas os itens I e III são verdadeir os. \n(E) Apenas os itens I, II, III, IV e V são \nverdadeir os. \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 13 de 16 QUESTÃO 40  \nDurante a avaliação inicial de uma criança, um \nodontopediatra observa sinais de ansiedade e \nnervosismo. Considerando a abordagem \nintegrada, qual estratégia comportamental seria \nmais apropriada para lidar com essa situação?  \n(A) Implementação de modelagem \ncomportamental para desensibilizar \ngradualmente a criança ao ambiente \nodontológico.  \n(B) Aplicação de selantes dentários para distrair \na atenção da criança.  \n(C) Uso imediato de ansiolíticos para acalmar a \ncriança.  \n(D) Recomendação de procedimentos invasivos \npara resolver rapidamente o problema, evitando \nprolongar o desconforto da criança.  \n(E) Realização de radiografias para identificar \npossíveis problemas odontológicos que poderiam \nestar contribuindo para a ansiedade da criança."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Durante o tratamento odontopediátrico, uma \ncriança de 6 anos apresenta agenesia dentária nos \nincisivos centrais e laterais permanentes \nsuperiores do lado direito. Qual a opção mais \napropriada, considerando o estágio de \ndesenvolvimento facial?",
+            "alternativas": {
+                "A": "Extração do dente adjacente e espera pelo \ndesenvolvimento maxilar.",
+                "B": "Implante dentário imediato para manutenção \ndo alinhamento dentário.",
+                "C": "Aplicação de coroa pediátrica no dente \nadjacente.",
+                "D": "Uso de prótese parcial removível para \nprevenir movimentações indesejadas.",
+                "E": "Adiamento da intervenção até a adolescência \npara considerar o crescimento facial.  \n \n \n \n \n QUESTÃO 42  \nUma criança de 9 anos sofreu um traumatismo \nque resultou em extrusão de um incisivo central \nsuperior permanente. Após a reposição imediata, \ndurante a avaliação, constata -se que a polpa \nradicular está necrosada. Analise as afirmações a \nseguir assinale a alt ernativa que apresenta \ncorretamente a veracidade das assertivas.  \nI. A pulpotomia é a intervenção mais indicada \npara preservar a vitalidade pulpar nesse caso.  \nII. A aplicação de uma contenção ortodôntica \ntemporária é preconizada como medida imediata \npara estabilizar a posição do dente extruído, \nenquanto a abordagem pulpar é cuidadosamente \nplanejada.  \nIII. O tratamento ortodôntico imediato é a \nprimeira opção para corrigir a extrusão e \nreestabelecer a função estética.  \nVI. A pulpectomia é a abordagem preferencial \nem casos de necrose pulpar.  \n \n(A) Apenas os itens I, II e III são verdadeir os. \n(B) Apenas os itens I, II, III e IV são verdadeir os.  \n(C) Apenas os itens I, III e IV são verdadeir os. \n(D) Apenas os itens I e III são verdadeir os. \n(E) Apenas os itens II e IV são verdadeir os."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Qual é a importância da avaliação do estágio de \nmaturidade óssea ao lidar com um caso de \nimpactação dentária em odontopediatria?",
+            "alternativas": {
+                "A": "A avaliação do estágio de maturidade óssea \najuda a determinar o momento ideal para a \nexposição do dente impactado.",
+                "B": "A maturidade óssea influencia diretamente o \ntipo de anestesia a ser utilizada no procedimento.",
+                "C": "O estágio de maturidade óssea não tem \nrelação significativa com a erupção dentária.",
+                "D": "A maturidade óssea está relacionada apenas \nà estética bucal, não afetando o processo de \nerupção.",
+                "E": "Não há correlação entre a maturidade óssea e \na impactação dentária em crianças.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 14 de 16 QUESTÃO 44  \nAssocie cada tipo de radiografia \nodontopediátrica com sua aplicação mais \napropriada:  \nI. A __________ captura uma visão detalhada de \num ou mais dentes, auxiliando na identificação \nde problemas na raiz, gengiva ou estruturas \nadjacentes.  \nII: A __________ fornece uma visão detalhada \nda arcada dentária superior ou inferior, sendo útil \npara diagnosticar problemas relacionados à \nmordida e ao posicionamento dos dentes.  \nIII. A __________ proporciona uma visão \npanorâmica de toda a boca, sendo valiosa para \navaliação de crescimento facial, \ndesenvolvimento dentário e identificação de \nanomalias.  \nIV. A __________ detecta cárie entre os dentes \nem estágios iniciais, auxiliando na prevenção e \nno diagnóstico precoce de problemas \ninterdentais.  \n \n(A)  Radiografia periapical, radiografia oclusal, \nradiografia panorâmica e radiografia \ninterproximal.  \n(B) Radiografia panorâmica, radiografia oclusal, \nradiografia interproximal e radiografia \nperiapical.  \n(C) Radiografia oclusal, radiografia periapical, \nradiografia interproximal e radiografia \npanorâmica.  \n(D) Radiografia panorâmica, radiografia \nperiapical, radiografia oclusal e radiografia \ninterproximal.  \n(E) Radiografia interproximal, radiografia \noclusal, radiografia panorâmica e radiografia \nperiapical.  \n \n \n \n \n \n QUESTÃO 45 \nOrganize as fases da odontogênese na sequência \ncorreta do desenvolvimento dentário, do início ao \ntérmino.  \n(A) Fase de Iniciação, Fase de Aposição e \nMaturação, Fase de Broto Dentário, Fase de \nCapuz, Fase de Campânula.  \n(B) Fase de Iniciação, Fase de Campânula, Fase \nde Broto Dentário, Fase de Capuz, Fase de \nAposição e Maturação.  \n(C) Fase de Iniciação, Fase de Capuz, Fase de \nCampânula, Fase de Broto Dentário e Fase de \nAposição e Maturação.  \n(D) Fase de Iniciação, Fase de Broto Dentário, \nFase de Capuz, Fase de Campânula e Fase de \nAposição e Maturação.  \n(E) Fase de Iniciação, Fase de Aposição e \nMaturação, Fase de Broto Dentário, Fase de \nCampânula, Fase de Capuz."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: A periodontite é uma doença inflamatória que \nafeta as gengivas e os tecidos de suporte dos \ndentes. É causada pela ação de bactérias que se \nacumulam na superfície dos dentes, formando a \nplaca bacteriana. Essas bactérias produzem \ntoxinas que irritam as gengi vas, levando à \ninflamação. Considerando os principais fatores \nde risco para o desenvolvimento da periodontite \nem crianças e adolescentes, assinale a alternativa \nque apresenta a sequência correta de importância \ndesses fatores:",
+            "alternativas": {
+                "A": "Higiene bucal inadequada → Dieta rica em \naçúcar → Doenças sistêmicas.",
+                "B": "Dieta rica em açúcar → Higiene bucal \ninadequada → Doenças sistêmicas.",
+                "C": "Doenças sistêmicas → Higiene bucal \ninadequada → Dieta rica em açúcar.",
+                "D": "Higiene bucal inadequada → Doenças \nsistêmicas → Dieta rica em açúcar.",
+                "E": "Doenças sistêmicas → Dieta rica em açúcar \n→ Higiene bucal inadequada.  \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 15 de 16 QUESTÃO 47 \nAnalise a situação hipotética. Uma \nodontopediatra  é convocado para depor como \nespecialista em um caso de suspeita de erro \nprofissional em procedimentos odontológicos \ninfantis. Qual é o papel principal desse \nprofissional nessa situação?  \n(A) Avaliar a eficácia dos tratamentos.  \n(B) Identificar casos de negligência.  \n(C) Promover a inovação em procedimentos.  \n(D) Orientar pacientes sobre higiene bucal.  \n(E) Registrar histórico médico detalhado."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: O ionômero de vidro é frequentemente escolhido \npara restaurações em dentes decíduos devido à \nsua capacidade de adesão ____________ ao \nesmalte.",
+            "alternativas": {
+                "A": "Mecânica.",
+                "B": "Química.",
+                "C": "Estética.",
+                "D": "Temporária.",
+                "E": "Biológica."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Com base nas características clínicas da dentição \nmista, qual a importância da troca dos dentes \ndecíduos pelos permanentes no desenvolvimento \nda oclusão?",
+            "alternativas": {
+                "A": "Permitem um ajuste preciso na relação entre \nas arcadas.",
+                "B": "Os dentes decíduos não têm função na \noclusão.",
+                "C": "Os dentes permanentes são mais resistentes à \ncárie.",
+                "D": "A troca não influencia na oclusão.",
+                "E": "A oclusão permanece inalterada na dentição \nmista.  \n \n QUESTÃO 50 \nA relação intrínseca entre o crescimento \ncraniofacial e as maloclusões em odontopediatria \nenvolve uma interconexão dinâmica entre \nvariáveis genéticas, epigenéticas e ambientais. \nAnalise as afirmativas a seguir, indicando a(s) \ncorreta(s).  \nI. O fenótipo craniofacial é fortemente \ninfluenciado por fatores genéticos, mas a \nexpressão desses genes pode ser modulada por \nfatores epigenéticos durante o desenvolvimento.  \nII. O diagnóstico preciso de maloclusões requer \nnão apenas a avaliação clínica e radiográfica, \nmas também a análise computacional avançada \npara compreensão tridimensional das estruturas \ndentárias e esqueléticas.  \nIII. A intervenção terapêutica no crescimento \ncraniofacial pode envolver não apenas \ndispositivos ortodônticos, mas também \nabordagens terapêuticas farmacológicas para \nmodular o processo de crescimento ósseo.  \n(A) Apenas a afirmativa I está correta.  \n(B) Apenas a afirmativa II está correta.  \n(C) Apenas a afirmativa III está correta.  \n(D) As afirmativas I e II estão corretas.  \n(E) As afirmativas I, II e III estão corretas.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 16 de 16"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: De acordo com o texto, conclui -se que:",
+            "alternativas": {
+                "A": "Luiz Augusto deixou Beatriz para ficar com \nJacinta por conta da omelete perfeita.",
+                "B": "Jacinta não aprendeu a omelete perfeita \nporque fez apenas a parte teórica do curso de \nculinária.",
+                "C": "Jacinta contava com o apoio de suas amigas \npara recuperar Luiz Augusto.",
+                "D": "Luiz Augusto deu uma segunda chance, mas \nnão aprovou a nova versão da omelete de Jacinta.",
+                "E": "Jacinta não atingiu a omelete perfeita porque \ntinha um entendimento distinto de baveuse . \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 3 de 16 QUESTÃO 02  \nO pronome demonstrativo em “ — Não — disse \nJacinta —, eu chamo isto de baveuse. ” funciona \ncomo um recurso de coesão textual de:  \n(A) anáfora.  \n(B) catáfora.  \n(C) elipse.  \n(D) substituição.   \n(E) sinonímia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Das associações sobre as personagens propostas \nnas alternativas a seguir, aquela que pode ser \ndepreendida corretamente do texto é:",
+            "alternativas": {
+                "A": "Caio Ribeiro – referência de bom preparo de \nomeletes, segundo o gosto de Luiz Augusto.",
+                "B": "Jacinta – atingiu, por fim, o preparo da \nomelete perfeita, ao gosto de Luiz Augusto, após \no curso de culinária, mas perdeu o interesse por \nele.",
+                "C": "Luiz Augusto – apreciador exigente de \nomeletes, demandava que sua companheira \npreparasse omeletes tão bem quanto ele.",
+                "D": "Beatriz – pessoa com quem Luiz Augusto foi \nmorar após se separar de Jacinta, fazia omeletes \nquase tão boas quanto as de Caio Ribeiro.",
+                "E": "Professora do curso de culinária – sugeriu a \nJacinta usar uma frigideira de ferro, para o caso \nde a omelete não ficar perfeita."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Analise as sentenças retiradas do texto e assinale \naquela em que o vocábulo “se” é um pronome \nexpletivo.",
+            "alternativas": {
+                "A": "“Mas Jacinta não se conformava.”",
+                "B": "“Quando alguém — desinformado ou \ndesalmado — perguntava perto da Jacinta se \n“omelete” era masculino ou feminino”.",
+                "C": "“Luiz Augusto sentou -se.”",
+                "D": "“O que se poderia dizer de um homem que \ntinha abandonado a mulher de dez anos de \ncasamento, para não falar em cotas num \ncondomínio horizontal da zona Sul, por uma \nomelete bem -feita?”",
+                "E": "“Luiz Augusto não se cansava de repetir que \na omelete perfeita devia ser tostada por fora e \númida por dentro.”  \n \n \n Considere o excerto a seguir para responder \nàs questões 5, 6 e 7:  \n \nDurante dez anos, Jacinta ouvira críticas à sua \nomelete. Quando Luiz Augusto anunciara que \nencontrara uma mulher que fazia omeletes \nperfeitas — melhores, inclusive, que as do Caio \nRibeiro — e que iria morar com ela, \nacrescentou:   — Você não pode dizer que não lhe \ndei todas as chances, Cintinha."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: No contexto apresentado, em relação à classe \ngramatical, os vocábulos “que” em destaque \natuam, respectivamente, como:",
+            "alternativas": {
+                "A": "conjunção integrante, pronome relativo e \nconjunção comparativa.",
+                "B": "conjunção integrante, pronome relativo e \nconjunção integrante.",
+                "C": "preposição, pronome relativo e preposição.",
+                "D": "conjunção causal, conjunção integrante e \nconjunção integrante.",
+                "E": "conjunção causal, pronome interrogativo e \nconjunção comparativa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Dentre todas as palavras que ocorrem no excerto \napresentado, pertencem à classe gramatical das \npreposições:",
+            "alternativas": {
+                "A": "à, do.",
+                "B": "durante, com.",
+                "C": "a, quando, de, com.",
+                "D": "durante, à, inclusive, do.",
+                "E": "durante, a, de, com."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Os verbos “ouvira”, “anunciara” e “encontrara”, \nque ocorrem no excerto apresentado, estão \nconjugados no tempo:",
+            "alternativas": {
+                "A": "pretérito imperfeito do modo indicativo.",
+                "B": "pretérito perfeito do modo indicativo.",
+                "C": "pretérito mais -que-perfeito do modo \nindicativo.",
+                "D": "futuro do pretérito do modo indicativo.",
+                "E": "pretérito imperfeito do modo subjuntivo.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 4 de 16 QUESTÃO 08 \nDe acordo com a gramática normativa, a ênclise \nestá vetada se:  \nI. O verbo está flexionado em uma oração \nsubordinada.  \nII. A oração é iniciada por palavra interrogativa.  \nIII. Em uma locução verbal, o verbo auxiliar está \nflexionado no presente do indicativo.   \nÉ (são) verdadeira(s) apenas a(s) afirmativa(s) \nem:  \n(A) I.  \n(B) II.  \n(C) III.  \n(D) I e II.  \n(E) II e III."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a qualidade expressa pelo adjetivo é \ncomparativa.",
+            "alternativas": {
+                "A": "Maria é tão caprichosa quanto sua irmã.",
+                "B": "Estou extremamente cansada.",
+                "C": "A atriz estava elegantíssima no desfile de \nmoda.",
+                "D": "Daniel é o mais engajado dentre os \nparticipantes do programa.",
+                "E": "Quando percebeu minha tristeza, passou a ser \ngentil."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale aquela \nem que ocorre desvio ortográfico.",
+            "alternativas": {
+                "A": "O casal se separou recentemente, razão por \nque não foram juntos ao evento.",
+                "B": "Isto é só mais um empecilho para dificultar \nas coisas.",
+                "C": "Os funcionários estão reinvindicando \nmelhores condições de trabalho.",
+                "D": "Que coincidência nos encontrarmos aqui!",
+                "E": "Espetáculos teatrais são ótimas formas de \nentretenimento.  MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: 1 \nEm uma certa loja, o preço das camisas era o \nmesmo para todas as camisas e o preço das calças \nera o mesmo para todas as calças. Leandro \ncomprou nessa loja 2 camisas e 3 calças e pagou \nR$ 510,00. Ele também comprou 1 camisa e 2 \ncalças para seu filho e pagou R$ 320 ,00. \nPodemos afirmar que o preço de cada camisa \nnessa loja é:",
+            "alternativas": {
+                "A": "R$ 60,00.",
+                "B": "R$ 65,00.",
+                "C": "R$ 58,00.",
+                "D": "R$ 72,00.",
+                "E": "R$ 55,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Segundo dados do IBGE de 2021, o município de \nArarendá, no Ceará, possui o maior IDEB (Índice \nde Desenvolvimento da Educação Básica) nos \nanos iniciais do ensino fundamental. No ano de \n2019 o IDEB foi de 8,3 e no ano de 2021 o IDEB \nfoi de 9,5. Podemos afirmar que o crescimento \npercentual do IDEB de 2019 para 2021 foi \naproximadamente de:",
+            "alternativas": {
+                "A": "10%.",
+                "B": "14%.",
+                "C": "25%.",
+                "D": "22%.",
+                "E": "20%.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 5 de 16 QUESTÃO 13  \nUm marceneiro recebe um pedido para fazer uma \nmesa em forma de um coração, composta por \ndois semicírculos e um quadrado, conforme a \nfigura abaixo.  \n \n \n \n \n \n \nSabendo que os gastos com a figura mostrada são \nde R$ 120,00 por metro quadrado, qual é o gasto \ntotal se o quadrado possui lado de 1m? Considere \n𝜋≈3. \n(A) R$ 175,00.  \n(B) R$ 180,00.  \n(C) R$ 190,00.  \n(D) R$ 200,00.  \n(E) R$ 210,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Considere verdadeira a seguinte proposição \ncondicional:  \n“Se Paulo sabe fazer bolo, então ele sabe fazer \nbiscoitos.”  \nA partir dessa proposição, também é verdade \nque:",
+            "alternativas": {
+                "A": "Se Paulo não sabe fazer biscoitos, então ele \nnão sabe fazer bolo.",
+                "B": "Provavelmente Paulo sabe fazer bolo e sabe \nfazer biscoitos.",
+                "C": "Ou Paulo sabe fazer bolo ou Paulo sabe fazer \nbiscoitos.",
+                "D": "Se Paulo souber fazer bolo, também saberá \nfazer biscoitos.",
+                "E": "Paulo não sabe fazer bolo, nem sabe fazer \nbiscoitos.  \n \n QUESTÃO 15  \nO dono de um brechó decidiu fazer uma \npromoção para as camisas que ele vende. Ele \nobservou que as vendas das camisas durante o \nmês anterior ocorreram segundo a tabela:  \nMarca da \ncamisa  Preço da \ncamisa  Número de \ncamisas \nvendidas  \nMarca A  R$ 20,00  20 \nMarca B  R$ 18,00  22 \nMarca C  R$ 25,00  20 \n \nEle decidiu que no mês atual as camisas de todas \nas marcas possuirão o mesmo preço. O dono do \nbrechó definiu o novo preço da camisa como \nsendo o preço médio de todas as camisas \nvendidas independentemente de sua marca. \nAssim, no mês atual, o preço da camisa  é \naproximadamente:  \n(A) R$ 18,90.  \n(B) R$ 20,90.  \n(C) R$ 21,70.  \n(D) R$ 22,80.  \n(E) R$ 24,60."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: A sequência abaixo mostra os 4 primeiros \nnúmeros primos:  \n2,3,5,7… \nOs números primos são números que somente \nsão divisíveis por 1 e por eles mesmos. Qual é o \nsétimo termo dessa sequência?",
+            "alternativas": {
+                "A": "12.",
+                "B": "13.",
+                "C": "15.",
+                "D": "17.",
+                "E": "19.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 6 de 16 QUESTÃO 17  \nCarlos fez uma aplicação de R$ 12.000,00 a uma \ntaxa de 5% ao mês durante 3 anos em regime de \njuros simples. Ao final dessa aplicação qual é o \nmontante que Carlos possuirá?  \n(A) R$ 26.800,00.  \n(B) R$ 30.600,00.  \n(C) R$ 33.600,00.  \n(D) R$ 34.000,00.  \n(E) R$ 36.700,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Suponha que no ano de 2023, 8% de todas as \ndespesas do governo de um determinado país \nforam com Educação. Já dentre as despesas com \na Educação, as despesas com educação \nprofissionalizante representaram 10%. Se o valor \nde todas as despesas do governo foi de  R$ 4 \ntrilhões, então qual o valor as despesas com \neducação profissionalizante?",
+            "alternativas": {
+                "A": "R$ 3,2 bilhões.",
+                "B": "R$ 320 bilhões.",
+                "C": "R$ 32 bilhões.",
+                "D": "R$ 400 bilhões.",
+                "E": "R$ 40 bilhões."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Queremos construir duas figuras geométricas, \num quadrado de lado 𝑎 e um triângulo equilátero \nde lado 𝑑, de modo que os dois tenham o mesmo \nperímetro. Qual é a razão entre a área e o \nperímetro do quadrado em termos de 𝑑?",
+            "alternativas": {
+                "A": "2\n7𝑑.",
+                "B": "3\n8𝑑.",
+                "C": "3\n32𝑑.",
+                "D": "3\n16𝑑.",
+                "E": "1\n2𝑑. \n QUESTÃO 20  \nUm projetista recomenda que para fazer o \nconcreto utilize -se, para cada porção de cimento, \n2 porções de areia e 3 porções de pedra brita, em \nmassa. Sendo assim, na mistura final que o \nprojetista recomenda a quantidade de areia \nrepresenta qual porcentagem da massa total?  \n(A) 19%.  \n(B) 20%.  \n(C) 25%.  \n(D) 30%.  \n(E) 33%.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Sobre a função “responder” no MS -Outlook \n2016, é incorreto o que se afirma em:  \nI - O anexo será mantido na mensagem.  \nII - O campo “Para” deverá ser preenchido.  \nIII - A mensagem de resposta será enviada \napenas para o remetente original.  \nIV - O campo “Assunto” não será preenchido \nautomaticamente.  \nV - O texto original do remetente não será \nmantido.",
+            "alternativas": {
+                "A": "I e III, apenas.",
+                "B": "I, II e V, apenas.",
+                "C": "I, II, IV e V, apenas.",
+                "D": "I, II, III e V, apenas.",
+                "E": "Nenhuma das afirmativas estão incorretas.  \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 7 de 16 QUESTÃO 22  \nO MS -Word 2016 possui diversas ferramentas de \nedição e formatação texto, sendo algumas delas:  \n \nAssinale a alternativa que não contenha um dos \nelementos de formatação dentre os \nrepresentados.  \n(A) Tachado.  \n(B) Sublinhado.  \n(C) Subscrito.  \n(D) Itálico.  \n(E) Negrito."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Analiseas imagens a seguir:  \nI: \n \nII:",
+            "alternativas": {
+                "A": "A imagem I representa um gerenciador de e -\nmails da suíte Microsoft Office.",
+                "B": "A imagem II representa um gerenciador de e -\nmails desenvolvido e mantido pela Google.",
+                "C": "Ambas as imagens representam softwares de \ndesenvolvimento de planilhas eletrônicas.",
+                "D": "Nenhuma das imagens representam \ngerenciadores de e -mails.",
+                "E": "Ambas as imagens representam \ngerenciadores de e -mails.  \n \n \n QUESTÃO 24  \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Nesse \ncontexto, são palavras que integram o significado \nde URL:  \n( ) Uniform.  \n( ) Resource  \n( ) Lover.  \n( ) User.  \n( ) Locator.  \nIndique “V” para verdadeiro e “F” para falso.  \n(A) V, F, V, F, V.  \n(B) F, F, V, V, F.  \n(C) V, V, F, F, V.  \n(D) V, V, F, V, V.  \n(E) F, F, V, F, F."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Leia atentamente os trechos a seguir:  \nTrecho 1: As configurações de impressão \npermitem escolher entre as opções de orientação \nretrato (vertical) e paisagem (horizontal) para \ndeterminar a direção da impressão na página.  \nTrecho 2: É possível selecionar o tamanho do \npapel a ser utilizado na impressão, como A4, \ncarta, ofício, entre outros, para corresponder ao \nformato desejado.  \nTrecho 3: Não é possível ajustar as margens da \npágina, determinando a quantidade de espaço em \nbranco ao redor do conteúdo impresso, \npersonalizando a formatação da página.  \nDiante da análise, assinale a alternativa correta.",
+            "alternativas": {
+                "A": "Todos os trechos apresentados fazem \nafirmações corretas acerca da digitalização de \num documento.",
+                "B": "Todos os trechos apresentados fazem \nafirmações incorretas acerca da impressão de um \ndocumento.",
+                "C": "O trecho 1 está correto ao afirmar que é \npossível selecionar o tamanho do papel a ser \nutilizado na impressão .",
+                "D": "O trecho 3 se equivoca ao mencionar que não \npossível ajustar as margens da página.",
+                "E": "O trecho 2 está correto ao afirmar que as \nconfigurações de impressão permitem escolher \nentre as opções de orientação retrato.  \nPrefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 8 de 16 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: De acordo com o Decreto Federal n° 7.508/2011. \nAssinale a alternativa correta.",
+            "alternativas": {
+                "A": "O SUS é constituído pela conjugação das \nações e serviços de promoção, proteção e \nrecuperação da saúde executados pelos entes \nfederativos, de forma direta ou indireta, sem a \nparticipação da iniciativa privada, sendo \norganizado de forma regionalizada e \nhiera rquizada.",
+                "B": "O SUS é constituído pela conjugação das \nações e serviços de promoção, proteção e \nrecuperação da saúde executados pelos entes \nfederativos, de forma direta ou indireta, mediante \na participação complementar da iniciativa \nprivada, sendo organizado de forma forma \ncentralizada e não regionalizada.",
+                "C": "A organização regionalizada e \nhierarquizada do SUS implica na centralização \nde todas as decisões e recursos no âmbito federal.",
+                "D": "O SUS é constituído pela conjugação das \nações e serviços de proteção e recuperação da \nsaúde executados pelos entes normativos, de \nforma direta ou indireta, mediante a participação \ncomplementar da iniciativa pública, sendo \norganizado de forma regionalizada e \ncentralizada.",
+                "E": "O SUS é constituído pela conjugação das \nações e serviços de promoção, proteção e \nrecuperação da saúde executados pelos entes \nfederativos, de forma direta ou indireta, mediante \na participação complementar da iniciativa \nprivada, sendo organizado de forma \nregionalizada e hierarquizada.  \n \n \n \n \n \n \n QUESTÃO 27  \nDe acordo a Lei Federal 8080, de \n19/09/1990.Complete corretamente a lacuna.  \nEntende -se por saúde bucal o conjunto articulado \nde ações, em todos os níveis de complexidade, \nque visem a garantir promoção, prevenção, \nrecuperação e reabilitação odontológica, \nindividual e coletiva, inseridas no contexto da \nintegralidade________________________.  \n \n(A) da higiene oral.  \n(B) da atenção à saúde  \n(C) do tratamento odontológico.  \n(D) da abordagem curativa.  \n(E) da responsabilidade do indivíduo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Analise os itens a seguir de acordo com a \nConstituição da República Federativa do Brasil e \nassinale a alternativa correta.  \n \nI – O produtor, o parceiro, o meeiro e o \narrendatário rurais e o pescador artesanal, bem \ncomo os respectivos cônjuges, que exerçam suas \natividades em regime de economia familiar, com \nempregados permanentes, contribuirão para a \nseguridade social mediante a aplicação de uma \nalíquota sobre o resultado da comercialização da  \nprodução e farão jus aos benefícios nos termos da \nlei.  \n \nII – São isentas de contribuição para a seguridade \nsocial as entidades beneficentes de assistência \nsocial que atendam às exigências estabelecidas \nem lei.",
+            "alternativas": {
+                "A": "A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.",
+                "B": "As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.",
+                "C": "A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.",
+                "D": "As asserções I e II são proposições falsas.",
+                "E": "As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 9 de 16 QUESTÃO 29  \nDe acordo a Lei Federal 8080, de 19/09/1990. \nanalise as afirmativas abaixo atribuindo (V) para \nVerdadeira e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta.  \n \n( ) O Conselho Nacional de Secretários de Saúde \n(Conass) e o Conselho Nacional de Secretarias \nMunicipais de Saúde (Conasems) são \nreconhecidos como entidades representativas dos \nentes estaduais e municipais para tratar de \nmatérias referentes à saúde e declarado s de \nutilidade pública e de relevante função social, na \nforma do regulamento.     \n \n( ) Os Conselhos de Secretarias Municipais de \nSaúde (Cosems) são reconhecidos como \nentidades que representam os entes municipais, \nno âmbito estadual, para tratar de matérias \nreferentes à saúde, desde que vinculados \ninstitucionalmente ao Conasems, na forma que \ndispuserem seus estatutos.      \n \n( )  No nível municipal, o Sistema Único de \nSaúde (SUS), poderá organizar -se em distritos de \nforma a integrar e articular recursos, técnicas e \npráticas voltadas para a cobertura total das ações \nde saúde.  \n \n(A) V - F -F  \n(B) F - V- V \n(C) V - F -V \n(D) V -V -V \n(E) F -F -V \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 30  \nDe acordo com a Lei 8.142/1990. O Sistema \nÚnico de Saúde (SUS),  contará, em cada esfera \nde governo, sem prejuízo das funções do Poder \nLegislativo, com as seguintes instâncias \ncolegiadas: a Conferência de Saúde; e o \nConselho de Saúde. Em relação ao Conselho de \nSaúde,  assinale a alternativa correta.  \n(A) O Conselho de Saúde, em caráter temporário \ne deliberativo, órgão colegiado composto por \nrepresentantes do SUS, prestadores de serviço, \nprofissionais de saúde e usuários, atua na \nformulação de estratégias e no controle da \nexecução da política de saúde na in stância \ncorrespondente, inclusive nos aspectos \neconômicos e financeiros.  \n(B) O Conselho de Saúde, em caráter \npermanente e deliberativo, órgão colegiado \ncomposto por representantes do governo, \nprestadores de serviço, profissionais de saúde e \nusuários, atua na formulação de estratégias e no \ncontrole da execução da política de saúde n a \ninstância correspondente, inclusive nos aspectos \neconômicos e financeiros, cujas decisões serão \nhomologadas pelo chefe do poder legalmente \nconstituído em cada esfera do governo.  \n(C) O Conselho de Saúde, em caráter temporário \ne deliberativo, órgão colegiado composto por \nrepresentantes da Educação e Saúde, prestadores \nde serviço, profissionais de saúde e usuários, atua \nna formulação de estratégias e no controle da \nexecução da política d e saúde em todas as \ninstâncias, exceto nos aspectos econômicos e \nfinanceiros.  \n(D) O Conselho de Saúde, em caráter \npermanente e deliberativo, órgão colegiado \ncomposto apenas por representantes do governo, \ne profissionais de saúde, atua na formulação de \nestratégias e no controle da execução da política \nde saúde em todas as instâncias.  \n(E) O Conselho de Saúde, em caráter \npermanente não possui caráter deliberativo, é o \nórgão colegiado composto por representantes do \ngoverno, prestadores de serviço e profissionais \nde saúde, exceto usuários, atua na formulação de \nestratégias e no controle da exe cução da política \nde saúde na instância correspondente, inclusive \nnos aspectos econômicos e financeiros, cujas \ndecisões serão homologadas pelo chefe do poder \nlegalmente constituído em cada esfera do \ngoverno.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 10 de 16 QUESTÃO 31  \nO líquido sinovial é um liquido bastante viscoso, \nrico em um polissacarídeo não sulfatado, o ácido \nhialurônico, que lubrifica o interior da \narticulação. O líquido sinovial exerce a função \nde: \n(A) Proteção mecânica.  \n(B) Nutrição da ATM, principalmente do disco  \n(C) Lubrificação do shunting  \n(D) Proteção química  \n(E) Preenchimento do feixe profundo"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: O movimento de lateralidade é executado \nprincipalmente pela contração dos músculos \n__________ e __________ do lado de balanceio.",
+            "alternativas": {
+                "A": "Pterigóideo lateral e pterigóideo medial",
+                "B": "Temporal e pterigóideo medial",
+                "C": "Pterigóideo lateral e Masséter",
+                "D": "Masséter e Temporal",
+                "E": "Pterigóideo lateral e Temporal"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: A resina composta é formada por matriz, \npartícula de carga e agente de união. A \ndesvantagem da partícula de carga é:",
+            "alternativas": {
+                "A": "Aumento das propriedades mecânicas",
+                "B": "Baixo coeficiente de expansão térmica linear",
+                "C": "Redução da contração de polimerização",
+                "D": "Ser mais inerte que a matriz orgânica",
+                "E": "Dificuldade de passagem de luz  \n \n \n \n \n \n \n \n QUESTÃO 34 \nO repasse de recursos do SUS por meio dos \nfundos de saúde ocorre:  \n(A) Através de convênios particulares da União \ncom os municípios  \n(B) Através de convênios e contratos  \n(C) De forma vinculada à Previdência Social  \n(D) De forma direta e automática  \n(E) Através de impostos por compra e vendas de \nserviços"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: 5 \nOs agentes preventivos e terapêuticos, utilizados \nnos dentifrícios, denominados de nitrato de \npotássio e cloreto de estrôncio apresentam a \nfunção:",
+            "alternativas": {
+                "A": "Antiplaca",
+                "B": "Clareadora",
+                "C": "Anti -sensibilidade dentinária",
+                "D": "Antitártaro",
+                "E": "Abrasiva  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 11 de 16 QUESTÃO 36  \nO domínio da odontologia pediátrica, voltado ao \natendimento especializado de crianças, requer \numa análise minuciosa da saúde bucal na fase \ninfantil, com especial ênfase na identificação de \npadrões específicos que permeiam distintos \nestratos etários infanto juvenis. A epidemiologia \nemerge como uma ferramenta vital nesse \ncontexto, desempenhando um papel \npreponderante na avaliação de dados \npopulacionais. Essa abordagem, ao discernir \npadrões epidemiológicos, contribui \ndecisivamente para o delineamento de estraté gias \npreventivas meticulosamente direcionadas à \npromoção da saúde bucal nesse segmento \ndemográfico.  \nÉ incorreto afirmar que?  \n(A) A infância  possui  um papel  significativo  no \nestudo  da odontologia  pediátrica,  exigindo  \natenção  na identificação  de padrões  ligados  à \nidade.  \n(B) A análise  meticulosa  da saúde  bucal  na fase \ninfantil  é fundamental  para o domínio  da \nodontologia  pediátrica.  \n(C) Estratégias preventivas direcionadas à \npromoção da saúde bucal em crianças dependem \ndo discernimento de padrões epidemiológicos.  \n(D) A identificação de padrões específicos em \ndiferentes estratos etários é crucial para o \natendimento especializado em odontopediatria.  \n(E) A epidemiologia desempenha um papel \nsecundário na análise de dados populacionais \nrelacionados à saúde bucal infantojuvenil.  \n \n \n \n \n \n \n \n \n \n QUESTÃO 37  \nA correta implementação de protocolos de \nbiossegurança em ambientes odontopediátricos é \ncrucial para assegurar a segurança tanto dos \nprofissionais quanto dos pequenos pacientes. A \nadoção de práticas específicas contribui para \nprevenir infecções e controlar  riscos biológicos. \nConsiderando esse contexto, avalie as seguintes \nasserções e a relação proposta entre elas.  \nI. O uso de Equipamentos de Proteção Individual \n(EPIs) é uma medida dispensável em \nprocedimentos odontopediátricos.  \nPORQUE  \nII. O tamanho reduzido das crianças e seu \ncomportamento imprevisível durante o \natendimento tornam essencial o uso rigoroso de \nEPIs para a proteção dos profissionais de saúde.  \n(A) As asserções I e II são proposições \nverdadeiras, e a II é uma justificativa da I.  \n(B) As asserções I e II são proposições \nverdadeiras, mas a II não é uma justificativa da I.  \n(C) A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.  \n(D) A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.  \n(E) As asserções I e II são proposições falsas.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 12 de 16 QUESTÃO 38  \nEm odontologia, a sequência adequada de \nprocedimentos é essencial para uma avaliação \nabrangente. Considerando o caso de uma criança \nencaminhada à clínica odontopediátrica devido a \nsuspeitas de anomalias craniofaciais, qual das \nseguintes opções representa a  ordem correta dos \nexames complementares para uma avaliação \ncompleta e diagnóstico adequado?  \n(A) Avaliação Clínica Inicial, Tomografia \nComputadorizada (TC), Radiografias Iniciais, \nFacial, Ressonância Magnética (RM), Avaliação \nOrtodôntica, Avaliação Fonoaudiológica, \nConsulta com Especialistas, Avaliação Genética \ne Consulta Multidisciplinar.  \n(B) Avaliação Clínica Inicial, Radiografias \nIniciais, Avaliação Ortodôntica, Avaliação \nFonoaudiológica, Consulta com Especialistas, \nTomografia Computadorizada (TC) Facial, \nRessonância Magnética (RM), Avaliação \nGenética, Consulta Multidisciplinar.  \n(C) Avaliação Clínica Inicial, Radiografias \nIniciais, Tomografia Computadorizada (TC) \nFacial, Ressonância Magnética (RM), Avaliação \nOrtodôntica, Avaliação Fonoaudiológica, \nConsulta com Especialistas, Avaliação Genética, \nConsulta Multidisciplinar.  \n(D) Avaliação Clínica Inicial, Avaliação \nGenética, Radiografias Iniciais, Tomografia \nComputadorizada (TC) Facial, Ressonância \nMagnética (RM), Consulta com Especialistas, \nAvaliação Ortodôntica, Avaliação \nFonoaudiológica, Consulta Multidisciplinar.  \n(E) Avaliação Clínica Inicial, Radiografias \nIniciais, Tomografia Computadorizada (TC) \nFacial, Avaliação Ortodôntica, Avaliação \nFonoaudiológica, Consulta com Especialistas, \nRessonância Magnética (RM), Avaliação \nGenética, Consulta Multidisciplinar.  \n \n \n \n \n \n \n \n QUESTÃO 39  \nDiante do amplo espectro de conhecimentos \nsobre anestesia loco-regional oral em \nodontopediatria, analise as afirmações a seguir e \nassinale a alternativa que apresenta corretamente \na veracidade das assertivas.  \nI. Os broncodilatadores são utilizados para tratar \nreações respiratórias em emergências durante a \nadministração de anestesia em crianças.  \nII. A ranitidina é um anti -histamínico H2 que \npode ser administrado para tratar complicações \ngastrointestinais durante emergências em \nodontopediatria.  \nIII. A epinefrina é adicionada aos anestésicos \nlocais para prolongar a duração da anestesia e \nreduzir a absorção sistêmica.  \nIV. Corticosteroides podem ser utilizados para \ntratar reações alérgicas, reduzindo a inflamação \nsistêmica.  \nV. A nitroglicerina é uma opção para tratar \nemergências cardiovasculares durante \nprocedimentos odontopediátricos.  \n(A) Apenas os itens I, II e III são verdadeir os. \n(B) Apenas os itens I, II, III e IV são verdadeir os. \n(C) Apenas os itens I, III, IV e V são verdadeir os. \n(D) Apenas os itens I e III são verdadeir os. \n(E) Apenas os itens I, II, III, IV e V são \nverdadeir os. \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 13 de 16 QUESTÃO 40  \nDurante a avaliação inicial de uma criança, um \nodontopediatra observa sinais de ansiedade e \nnervosismo. Considerando a abordagem \nintegrada, qual estratégia comportamental seria \nmais apropriada para lidar com essa situação?  \n(A) Implementação de modelagem \ncomportamental para desensibilizar \ngradualmente a criança ao ambiente \nodontológico.  \n(B) Aplicação de selantes dentários para distrair \na atenção da criança.  \n(C) Uso imediato de ansiolíticos para acalmar a \ncriança.  \n(D) Recomendação de procedimentos invasivos \npara resolver rapidamente o problema, evitando \nprolongar o desconforto da criança.  \n(E) Realização de radiografias para identificar \npossíveis problemas odontológicos que poderiam \nestar contribuindo para a ansiedade da criança."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Durante o tratamento odontopediátrico, uma \ncriança de 6 anos apresenta agenesia dentária nos \nincisivos centrais e laterais permanentes \nsuperiores do lado direito. Qual a opção mais \napropriada, considerando o estágio de \ndesenvolvimento facial?",
+            "alternativas": {
+                "A": "Extração do dente adjacente e espera pelo \ndesenvolvimento maxilar.",
+                "B": "Implante dentário imediato para manutenção \ndo alinhamento dentário.",
+                "C": "Aplicação de coroa pediátrica no dente \nadjacente.",
+                "D": "Uso de prótese parcial removível para \nprevenir movimentações indesejadas.",
+                "E": "Adiamento da intervenção até a adolescência \npara considerar o crescimento facial.  \n \n \n \n \n QUESTÃO 42  \nUma criança de 9 anos sofreu um traumatismo \nque resultou em extrusão de um incisivo central \nsuperior permanente. Após a reposição imediata, \ndurante a avaliação, constata -se que a polpa \nradicular está necrosada. Analise as afirmações a \nseguir assinale a alt ernativa que apresenta \ncorretamente a veracidade das assertivas.  \nI. A pulpotomia é a intervenção mais indicada \npara preservar a vitalidade pulpar nesse caso.  \nII. A aplicação de uma contenção ortodôntica \ntemporária é preconizada como medida imediata \npara estabilizar a posição do dente extruído, \nenquanto a abordagem pulpar é cuidadosamente \nplanejada.  \nIII. O tratamento ortodôntico imediato é a \nprimeira opção para corrigir a extrusão e \nreestabelecer a função estética.  \nVI. A pulpectomia é a abordagem preferencial \nem casos de necrose pulpar.  \n \n(A) Apenas os itens I, II e III são verdadeir os. \n(B) Apenas os itens I, II, III e IV são verdadeir os.  \n(C) Apenas os itens I, III e IV são verdadeir os. \n(D) Apenas os itens I e III são verdadeir os. \n(E) Apenas os itens II e IV são verdadeir os."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Qual é a importância da avaliação do estágio de \nmaturidade óssea ao lidar com um caso de \nimpactação dentária em odontopediatria?",
+            "alternativas": {
+                "A": "A avaliação do estágio de maturidade óssea \najuda a determinar o momento ideal para a \nexposição do dente impactado.",
+                "B": "A maturidade óssea influencia diretamente o \ntipo de anestesia a ser utilizada no procedimento.",
+                "C": "O estágio de maturidade óssea não tem \nrelação significativa com a erupção dentária.",
+                "D": "A maturidade óssea está relacionada apenas \nà estética bucal, não afetando o processo de \nerupção.",
+                "E": "Não há correlação entre a maturidade óssea e \na impactação dentária em crianças.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 14 de 16 QUESTÃO 44  \nAssocie cada tipo de radiografia \nodontopediátrica com sua aplicação mais \napropriada:  \nI. A __________ captura uma visão detalhada de \num ou mais dentes, auxiliando na identificação \nde problemas na raiz, gengiva ou estruturas \nadjacentes.  \nII: A __________ fornece uma visão detalhada \nda arcada dentária superior ou inferior, sendo útil \npara diagnosticar problemas relacionados à \nmordida e ao posicionamento dos dentes.  \nIII. A __________ proporciona uma visão \npanorâmica de toda a boca, sendo valiosa para \navaliação de crescimento facial, \ndesenvolvimento dentário e identificação de \nanomalias.  \nIV. A __________ detecta cárie entre os dentes \nem estágios iniciais, auxiliando na prevenção e \nno diagnóstico precoce de problemas \ninterdentais.  \n \n(A)  Radiografia periapical, radiografia oclusal, \nradiografia panorâmica e radiografia \ninterproximal.  \n(B) Radiografia panorâmica, radiografia oclusal, \nradiografia interproximal e radiografia \nperiapical.  \n(C) Radiografia oclusal, radiografia periapical, \nradiografia interproximal e radiografia \npanorâmica.  \n(D) Radiografia panorâmica, radiografia \nperiapical, radiografia oclusal e radiografia \ninterproximal.  \n(E) Radiografia interproximal, radiografia \noclusal, radiografia panorâmica e radiografia \nperiapical.  \n \n \n \n \n \n QUESTÃO 45 \nOrganize as fases da odontogênese na sequência \ncorreta do desenvolvimento dentário, do início ao \ntérmino.  \n(A) Fase de Iniciação, Fase de Aposição e \nMaturação, Fase de Broto Dentário, Fase de \nCapuz, Fase de Campânula.  \n(B) Fase de Iniciação, Fase de Campânula, Fase \nde Broto Dentário, Fase de Capuz, Fase de \nAposição e Maturação.  \n(C) Fase de Iniciação, Fase de Capuz, Fase de \nCampânula, Fase de Broto Dentário e Fase de \nAposição e Maturação.  \n(D) Fase de Iniciação, Fase de Broto Dentário, \nFase de Capuz, Fase de Campânula e Fase de \nAposição e Maturação.  \n(E) Fase de Iniciação, Fase de Aposição e \nMaturação, Fase de Broto Dentário, Fase de \nCampânula, Fase de Capuz."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: A periodontite é uma doença inflamatória que \nafeta as gengivas e os tecidos de suporte dos \ndentes. É causada pela ação de bactérias que se \nacumulam na superfície dos dentes, formando a \nplaca bacteriana. Essas bactérias produzem \ntoxinas que irritam as gengi vas, levando à \ninflamação. Considerando os principais fatores \nde risco para o desenvolvimento da periodontite \nem crianças e adolescentes, assinale a alternativa \nque apresenta a sequência correta de importância \ndesses fatores:",
+            "alternativas": {
+                "A": "Higiene bucal inadequada → Dieta rica em \naçúcar → Doenças sistêmicas.",
+                "B": "Dieta rica em açúcar → Higiene bucal \ninadequada → Doenças sistêmicas.",
+                "C": "Doenças sistêmicas → Higiene bucal \ninadequada → Dieta rica em açúcar.",
+                "D": "Higiene bucal inadequada → Doenças \nsistêmicas → Dieta rica em açúcar.",
+                "E": "Doenças sistêmicas → Dieta rica em açúcar \n→ Higiene bucal inadequada.  \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 15 de 16 QUESTÃO 47 \nAnalise a situação hipotética. Uma \nodontopediatra  é convocado para depor como \nespecialista em um caso de suspeita de erro \nprofissional em procedimentos odontológicos \ninfantis. Qual é o papel principal desse \nprofissional nessa situação?  \n(A) Avaliar a eficácia dos tratamentos.  \n(B) Identificar casos de negligência.  \n(C) Promover a inovação em procedimentos.  \n(D) Orientar pacientes sobre higiene bucal.  \n(E) Registrar histórico médico detalhado."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: O ionômero de vidro é frequentemente escolhido \npara restaurações em dentes decíduos devido à \nsua capacidade de adesão ____________ ao \nesmalte.",
+            "alternativas": {
+                "A": "Mecânica.",
+                "B": "Química.",
+                "C": "Estética.",
+                "D": "Temporária.",
+                "E": "Biológica."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ODONTOPEDIATRA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Com base nas características clínicas da dentição \nmista, qual a importância da troca dos dentes \ndecíduos pelos permanentes no desenvolvimento \nda oclusão?",
+            "alternativas": {
+                "A": "Permitem um ajuste preciso na relação entre \nas arcadas.",
+                "B": "Os dentes decíduos não têm função na \noclusão.",
+                "C": "Os dentes permanentes são mais resistentes à \ncárie.",
+                "D": "A troca não influencia na oclusão.",
+                "E": "A oclusão permanece inalterada na dentição \nmista.  \n \n QUESTÃO 50 \nA relação intrínseca entre o crescimento \ncraniofacial e as maloclusões em odontopediatria \nenvolve uma interconexão dinâmica entre \nvariáveis genéticas, epigenéticas e ambientais. \nAnalise as afirmativas a seguir, indicando a(s) \ncorreta(s).  \nI. O fenótipo craniofacial é fortemente \ninfluenciado por fatores genéticos, mas a \nexpressão desses genes pode ser modulada por \nfatores epigenéticos durante o desenvolvimento.  \nII. O diagnóstico preciso de maloclusões requer \nnão apenas a avaliação clínica e radiográfica, \nmas também a análise computacional avançada \npara compreensão tridimensional das estruturas \ndentárias e esqueléticas.  \nIII. A intervenção terapêutica no crescimento \ncraniofacial pode envolver não apenas \ndispositivos ortodônticos, mas também \nabordagens terapêuticas farmacológicas para \nmodular o processo de crescimento ósseo.  \n(A) Apenas a afirmativa I está correta.  \n(B) Apenas a afirmativa II está correta.  \n(C) Apenas a afirmativa III está correta.  \n(D) As afirmativas I e II estão corretas.  \n(E) As afirmativas I, II e III estão corretas.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCIRURGIÃO DENTISTA - ODONTOPEDIATRA                                                                                           Página 16 de 16"
+            },
+            "resposta_correta": "B"
+        }
+    ]
+}

@@ -1,3 +1,844 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b879f65dce4be0911a447093f45c017109a1a248149d6b178ceed6a856cdaee2
-size 58150
+{
+    "MERENDEIRA(O)": [
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 1: O texto sugere que a expressão \"Ele foi tomar um \ncafé\" é usada como uma justificativa para:",
+            "alternativas": {
+                "A": "Evitar pessoas indesejadas.",
+                "B": "Passar o dia inteiro tomando café.",
+                "C": "Preparar uma xícara de café.",
+                "D": "Expressar tristeza e drama.",
+                "E": "Indicar um hábito raro."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 2: Como o autor sugere que as pessoas deixem \nrecados quando forem tomar um café?",
+            "alternativas": {
+                "A": "Deixando um bilhete escrito à mão.",
+                "B": "Enviando mensagens de texto para seus \ncontatos.",
+                "C": "Deixando um chapéu em algum lugar como \nsinal.",
+                "D": "Usando um aplicativo de comunicação.",
+                "E": "Fazendo sinais visuais à distância."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 3: Qual é a visão do autor sobre a atitude de \"tomar \num cafezinho\" como forma de evasão?",
+            "alternativas": {
+                "A": "O autor acha que é uma maneira de lidar com \na vida complicada.",
+                "B": "O autor critica aqueles que usam o \n\"cafezinho\" como desculpa para procrastinar.",
+                "C": "O autor enxerga o \"cafezinho\" como uma \ntradição carioca que deve ser valorizada.",
+                "D": "O autor acredita que a vida é bem mais \ncomplexa do que as pessoas imaginam.",
+                "E": "O autor enxerga que a solução para a vida é \nnão tomar café.  \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 3 de 11 QUESTÃO 04 \nQual é a atitude do repórter em relação ao \ndelegado que foi tomar um cafezinho?  \n(A) Ele fica irritado e impaciente com a demora \ndo delegado.  \n(B) Ele acha normal que o delegado tenha ido \ntomar um café.  \n(C) Ele se retira da situação e vai embora.  \n(D) Ele ri da situação e acha engraçado.  \n(E) Ele fica preocupado com a demora e tenta \nencontrar o delegado."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 4: “Do jeito que as coisas vão, a próxima Olimpíada \nterá a seguinte prova: um cidadão de São Paulo \nsai do trabalho às 5 da tarde e tem que pegar um \ntáxi no aeroporto do Galeão, no Rio, às 6.”  \nO trecho faz uso de uma ironia para criticar qual \nsituação comum na sociedade?",
+            "alternativas": {
+                "A": "O excesso de competições esportivas.",
+                "B": "A necessidade de reforma do aeroporto.",
+                "C": "A falta de pontualidade.",
+                "D": "O trânsito nas grandes cidades.",
+                "E": "As Olimpíadas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 5: Rápido, ela lhe disse: 'Nossos irmãos?' e ele \nrespondeu: 'Agora nós estamos sozinhos na casa. \nNossos irmãos partiram ontem à noite. Não \nsobrou ninguém além de nós dois. Mas agora não \ntemos nada a temer. Eles foram embora e nós \npodemos ficar aqui tranquilos .' Ela o olhou com \nsuspeita, uma suspeita repentina e fria que fez seu \nestômago apertar. A casa, antes barulhenta com \na presença dos irmãos, agora parecia \nestranhamente silenciosa e vazia.  \nCasa Tomada - Julio Cortázar  \nQual é o sentimento apresentado pela \npersonagem feminina ao ouvir a resposta do \npersonagem masculino?",
+            "alternativas": {
+                "A": "Confiança",
+                "B": "Alegria",
+                "C": "Medo",
+                "D": "Indiferença",
+                "E": "Curiosidade  QUESTÃO 07 \n\"Adoro o início da primavera quando o sol \ncomeça a entrar pela janela. É como um grito de \nalegria de alguém que passou a noite inteira \nchorando.\"  \nNo trecho, o autor usa um adjetivo para descrever \no sol. Qual é esse adjetivo?  \n(A) Tímido  \n(B) Triste  \n(C) Silencioso  \n(D) Brilhante  \n(E) Alegre"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 6: \"Numa meia -noite, eu, fraco e cansado, lá do \nestudo, quase adormecido.\"  \nEdgar Allan Poe (O Corvo)  \nNo trecho, a palavra \"fraco\" se opõe \nsemanticamente a:",
+            "alternativas": {
+                "A": "Vigoroso",
+                "B": "Alto",
+                "C": "Escuro",
+                "D": "Velho",
+                "E": "Brilhante"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 7: “Porque, se morrer não custa muito, viver às \nvezes custa um bocado.”  \nNo trecho, o autor utiliza o advérbio \"às vezes\" \npara modificar o verbo \"custa\". Qual é o sentido \nque o advérbio acrescenta à frase?",
+            "alternativas": {
+                "A": "Sempre",
+                "B": "Raramente",
+                "C": "Ocasionalmente",
+                "D": "Nunca",
+                "E": "Constantemente  \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 4 de 11"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 8: Assinale a alternativa que completa as lacunas corretamente:  \nA menina caminhava ____ alegria pelo parque, enquanto segurava um balão vermelho. Ela estava \nacompanhada de sua mãe, que caminhava ____ lado dela com um sorriso no rosto. O sol brilhava no \ncéu, iluminando ____ paisagem e deixando tudo ainda mais bonito.",
+            "alternativas": {
+                "A": "com - a - ao",
+                "B": "com - ao - a",
+                "C": "por - ao - à",
+                "D": "com - sozinha - no - a",
+                "E": "com - acompanhada - no – à"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 9: \"Quando Gregor Samsa acordou de sonhos intranquilos, encontrou -se em sua cama metamorfoseado \nnum inseto monstruoso.\"  \nFranz Kafka (A Metamorfose)  \nNo trecho, a palavra \"metamorfoseado\" poderia ser substituída, sem alterar o sentido da frase, por:",
+            "alternativas": {
+                "A": "Adormecido",
+                "B": "Transformado",
+                "C": "Acelerado",
+                "D": "Emagrecido",
+                "E": "Enfraquecido"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 10: Disponível em: https://tirasarmandinho.tumblr.com/   \nNo diálogo entre Armandinho e sua amiga, o que a amiga quer dizer quando afirma: \"Claro… era \nquestão de tempo\"?",
+            "alternativas": {
+                "A": "Ela acredita que o acidente foi uma coincidência.",
+                "B": "Ela está surpresa com a ocorrência do acidente.",
+                "C": "Ela culpa o poste pelo acidente de carro.",
+                "D": "Ela acredita que o acidente era inevitável devido ao comportamento do motorista.",
+                "E": "Ela acha que o motorista foi muito habilidoso para evitar o acidente.  Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 5 de 11"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 11: Na frase \"Ela entregou os documentos a ele pessoalmente,\" o pronome \"ele\" desempenha qual função \ngramatical?",
+            "alternativas": {
+                "A": "Pronome pessoal do caso reto.",
+                "B": "Pronome pessoal do caso oblíquo.",
+                "C": "Pronome possessivo.",
+                "D": "Pronome demonstrativo",
+                "E": "Pronome relativo"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 12: Identifique o advérbio de modo na seguinte frase: \"Ela cantou lindamente no palco.\"",
+            "alternativas": {
+                "A": "Ela",
+                "B": "Cantou",
+                "C": "Lindamente",
+                "D": "No",
+                "E": "Palco"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 13: Disponível em: https://tirasarmandinho.tumblr.com/   \nO que o pai quis transmitir ao dizer a frase \"A gente não pode abraçar o mundo...\", e como essa \nafirmação se relaciona com a perspectiva de Armandinho sobre a necessidade de abraços no mundo?",
+            "alternativas": {
+                "A": "O pai destaca a impossibilidade física de abraçar o mundo, enquanto Armandinho enfatiza a \nimportância do carinho.",
+                "B": "O pai sugere que não é possível controlar tudo ao redor, enquanto Armandinho compreende que o \nmundo precisa de carinho e afeto.",
+                "C": "O pai indica a futilidade de demonstrações de afeto, e Armandinho contradiz essa visão ao valorizar \nos abraços.",
+                "D": "O pai enfatiza a ideia de que o mundo é hostil, e Armandinho defende a necessidade de mudança.",
+                "E": "O pai se refere à necessidade de viajar pelo mundo, enquanto Armandinho busca abraçar o mundo \ncom amor e empatia.  \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 6 de 11 MATEMÁTICA E RACIOCÍNIO L ÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 14: 6 \n \nQual é o quarto número par antecessor de 50?",
+            "alternativas": {
+                "A": "48",
+                "B": "44",
+                "C": "42",
+                "D": "46",
+                "E": "40"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 15: Qual é o resultado da seguinte operação:  \n20 - 4 + 2 + 15 x 3?",
+            "alternativas": {
+                "A": "63",
+                "B": "45",
+                "C": "43",
+                "D": "99",
+                "E": "103"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 16: Qual é o resultado da seguinte operação de \nmultiplicação: 12 x 5 x 8,2?",
+            "alternativas": {
+                "A": "500",
+                "B": "492",
+                "C": "492,4",
+                "D": "410",
+                "E": "464,6  \n \n \n \n \n \n \n QUESTÃO 19   \nUma sorveteria vende, em média, 60 sorvetes de \nchocolate por dia e, também, 45 sorvetes de \nmorango por dia. Se a sorveteria funcionar \ndurante 5 dias em uma semana, quantos sorvetes \n(de chocolate e morango) serão vendidos nesse \nperíodo?  \n(A) 470  \n(B) 546  \n(C) 525  \n(D) 482  \n(E) 285"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 17: Uma loja de eletrônicos oferece um desconto de \n15% em todos os laptops. Se um laptop custa \nR$2.135,00 sem o desconto, qual será o preço do \nlaptop com o desconto aplicado?",
+            "alternativas": {
+                "A": "R$ 1.814,75",
+                "B": "R$ 1.700,40",
+                "C": "R$ 2.150,80",
+                "D": "R$ 1.750,95",
+                "E": "R$ 1.900,20"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 18: Uma sala de aula tem uma capacidade para 60 \nalunos. Se 70% das cadeiras estiverem ocupadas, \nquantos alunos estão presentes na sala?",
+            "alternativas": {
+                "A": "18 alunos",
+                "B": "42 alunos",
+                "C": "102 alunos",
+                "D": "52 alunos",
+                "E": "19 alunos  \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 7 de 11 QUESTÃO 22   \nQual é o sétimo número ímpar antecessor de \n725?  \n \n(A) 721  \n(B) 717  \n(C) 713  \n(D) 711  \n(E) 705"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 19: Em uma competição de xadrez, um jogador \nganhou 10 partidas, empatou 4 partidas e perdeu \n2 partidas. Quantos pontos esse jogador \nconquistou no total, considerando que cada \nvitória vale 1 ponto, cada empate vale 0,5 ponto \ne cada derrota vale 0 pontos?",
+            "alternativas": {
+                "A": "14 pontos",
+                "B": "11 pontos",
+                "C": "12 pontos",
+                "D": "12,5 pontos",
+                "E": "13 pontos"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 20: Maria tem uma coleção de selos raros. Ela possui \n50 selos no total, sendo que cada selo vale \nR$2,50. Qual é o valor total de sua coleção de \nselos?",
+            "alternativas": {
+                "A": "R$ 100,00",
+                "B": "R$ 125,00",
+                "C": "R$ 75,00",
+                "D": "R$ 150,00",
+                "E": "R$ 50,00  \n \n \n \n QUESTÃO 25   \nQual é o resultado da seguinte operação \nmatemática: 8,5 x 12,3?  \n \n(A) 97,55  \n(B) 101,75  \n(C) 102,55  \n(D) 106,85  \n(E) 104,55"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 21: Qual é o resultado da seguinte operação \nmatemática: 745 + 500 / 4 ?",
+            "alternativas": {
+                "A": "849",
+                "B": "312,00",
+                "C": "311,25",
+                "D": "831",
+                "E": "870"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 22: Uma floricultura vendeu 12 arranjos de flores na \nsegunda -feira. No dia seguinte, terça -feira, a \nquantidade vendida foi o dobro da registrada na \nsegunda -feira, e, por sua vez, na quarta -feira, a \nquantidade vendida foi o triplo do volume \ncomercializado na te rça-feira. Qual é o total de \narranjos de flores que esta floricultura vendeu ao \nlongo desses três dias?",
+            "alternativas": {
+                "A": "70 arranjos de flores",
+                "B": "72 arranjos de flores",
+                "C": "92 arranjos de flores",
+                "D": "108 arranjos de flores",
+                "E": "46 arranjos de flores  \n \n \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 8 de 11 QUESTÃO 28  \nUma sorveteria comercializou 30 sorvetes no \nsábado. No domingo, a quantidade vendida foi o \ntriplo da registrada no sábado, e, posteriormente, \nna segunda -feira, a quantidade vendida foi o \ndobro do volume comercializado no domingo. \nQual é o total de sorvetes  que essa sorveteria \nvendeu ao longo desses três dias?  \n(A) 90 sorvetes  \n(B) 300 sorvetes  \n(C) 210 sorvetes  \n(D) 240 sorvetes  \n(E) 270 sorvetes"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 23: Qual é o trigésimo número par antecessor de \n582?",
+            "alternativas": {
+                "A": "528",
+                "B": "522",
+                "C": "642",
+                "D": "552",
+                "E": "654"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 24: Qual é o resultado da seguinte operação \nmatemática: 420 / 6 + 97?",
+            "alternativas": {
+                "A": "157",
+                "B": "154",
+                "C": "167",
+                "D": "153",
+                "E": "86,16  \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 25: A alimentação inadequada está associada a uma \nsérie de doenças, tanto de ordem física quanto de \nordem psicológica. Sobre o assunto, assinale a \nalternativa que NÃO apresenta uma doença \nassociada aos hábitos alimentardes:",
+            "alternativas": {
+                "A": "obesidade.",
+                "B": "diabetes.",
+                "C": "hipertensão.",
+                "D": "cânceres.",
+                "E": "HIV/Aids."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 26: Todo(a) merendeiro(a) escolar, por ser um(a) \nmanipulador(a) de alimentos, deve \nobrigatoriamente apresentar boas práticas de \nhigiene, evitando a ocorrência de doenças \nprovocadas por comidas contaminadas. Com \nrelação às boas práticas desse profissional, \nanalise os itens a seguir e, ao final, assinale a \nalternativa CORRETA:  \nI – Para o manipulador de alimentos, o uso de \ndesodorante sem prefume é necessário.  \nII – Não se deve usar maquiagem em excesso.  \nIII – É importante usar um creme hidratante para \nmanter a pele macia e impedir o ressecamento e \ndescamação.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e III são verdadeiros.",
+                "E": "Todos os itens são verdadeiros.  \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 9 de 11 QUESTÃO 33  \nAssinale a alternativa que NÃO apresenta um \nequipamento de proteção individual (EPI) \nutilizado pelo(a) merendeiro(a):  \n(A) toca.   \n(B) luva.   \n(C) máscara.   \n(D) relógio.  \n(E) botinas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 27: Com relação às noções básicas de culinária, \nassinale a alternativa que NÃO apresenta uma \nconduta adequada na cozinha:",
+            "alternativas": {
+                "A": "guardar as folhas em um tupperware na \ngeladeira.",
+                "B": "lavar a carne antes de cozinhar.",
+                "C": "cozer macarrão apenas com água e sal.",
+                "D": "descongelar os alimentos no refrigerador ou \nno micro -ondas , se houver urgência.",
+                "E": "utilizar o óleo vegetal apenas uma vez."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 28: Tanto na cozinha quanto no depósito, a limpeza \ndeve ser realizada regularmente. Sobre o assunto, \nanalise as afirmações a seguir e, ao final, assinale \na alternativa CORRETA:  \nI – O piso da cozinha deve ser lavado uma vez \npor semana, preferencialmente nos dias de menor \nmovimento.   \nII – A parede deve ser lavada com água e sabão \nsemanalmente.  \nIII – Os armários, sempre que necessários, devem \nser limpos com um pano levemente úmido.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Apenas os itens I e III são verdadeiros.  \n QUESTÃO 36  \nComo se sabe, os gêneros alimentícios devem ser \nestocados em depósito, com boa ventilação e \niluminação, seco, sem goteira, protegido com \ngrade contra roubos e calor excessivo. No que diz \nrespeito à arrumação dos gêneros alimentícios, \ndeve -se obedecer às se guintes instruções, \nEXCETO:  \n(A) Controlar o estoque de gêneros através de \numa ficha de controle de estoque da escola.  \n(B) Registrar a data de entrada e saída dos \ngêneros na dispensa.  \n(C) Colocar os gêneros mais antigos atrás dos \ngêneros mais novos, a fim de não perder o prazo \nde validade.  \n(D) Não diexar nenhum volume em contato \ndireto com o solo.  \n(E) Não abrir um pacote antes de utilizar o que já \nestá em uso."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 29: No que diz respeito ao processo de higienização \ndos utensílios de cozinha, analise as afirmativas \na seguir e, ao final, assinale a alternativa \nCORRETA:  \nI – Deve -se colocar água nas panelas logo após \ndesocupá -las e ferver um pouco para amolecer os \nresíduos.  \nII – A pia deve ser lavada após o término da \nlavagem dos utensílios.  \nIII – O fogão não deve ser lavado diariamente \npara evitar contaminação com o sabão.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Apenas os itens I e II são verdadeiros.  \n \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 10 de 11 QUESTÃO 38  \nCom relação às noções básicas de culinária, \nassinale a alternativa que NÃO apresenta um \nalimento que contém carboidrato:  \n(A) ovo.    \n(B) arroz.   \n(C) milho.   \n(D) pão.   \n(E) mel."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 30: No que diz respeito à guarda e à disposição dos \nalimentos no freezer e na geladeira, analise as \nafirmativas a seguir e , ao final, assinale a \nalternativa CORRETA:   \nI – Os alimentos prontos para o consumo devem \nser colocados nas prateleiras superiores.  \nII – Os alimentos semiprontos ou pré -preparados \ndevem ser colocados nas prateleiras inferiores.  \nIII – Os alimentos crus devem ser colocados nas \nprateleiras do meio.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.  \n(D) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e III são verdadeiros.  \n(E) Apenas os itens II e III são verdadeiros.  \n \nQUESTÃO 40  \nAcidentes sempre são indesejáveis, já que podem \nnos limitar fisicamente e nos tornarem \nincapacitados para o trabalho. No que diz \nrespeito especificamente aos cuidados que se \ndeve ter na cozinha, assinale a alternativa \nINCORRETA:  \n(A) não se deve usar brincos.",
+                "B": "não se deve deixar fios elétricos soltos.",
+                "C": "deve -se usar pano molhado para pegar na \npanela quente.",
+                "D": "não se deve usar aparelhos elétricos em más \ncondições.",
+                "E": "não se deve  usar canecas e pratos rechados.     \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 11 de 11"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 1: O texto sugere que a expressão \"Ele foi tomar um \ncafé\" é usada como uma justificativa para:",
+            "alternativas": {
+                "A": "Evitar pessoas indesejadas.",
+                "B": "Passar o dia inteiro tomando café.",
+                "C": "Preparar uma xícara de café.",
+                "D": "Expressar tristeza e drama.",
+                "E": "Indicar um hábito raro."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 2: Como o autor sugere que as pessoas deixem \nrecados quando forem tomar um café?",
+            "alternativas": {
+                "A": "Deixando um bilhete escrito à mão.",
+                "B": "Enviando mensagens de texto para seus \ncontatos.",
+                "C": "Deixando um chapéu em algum lugar como \nsinal.",
+                "D": "Usando um aplicativo de comunicação.",
+                "E": "Fazendo sinais visuais à distância."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 3: Qual é a visão do autor sobre a atitude de \"tomar \num cafezinho\" como forma de evasão?",
+            "alternativas": {
+                "A": "O autor acha que é uma maneira de lidar com \na vida complicada.",
+                "B": "O autor critica aqueles que usam o \n\"cafezinho\" como desculpa para procrastinar.",
+                "C": "O autor enxerga o \"cafezinho\" como uma \ntradição carioca que deve ser valorizada.",
+                "D": "O autor acredita que a vida é bem mais \ncomplexa do que as pessoas imaginam.",
+                "E": "O autor enxerga que a solução para a vida é \nnão tomar café.  \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 3 de 11 QUESTÃO 04 \nQual é a atitude do repórter em relação ao \ndelegado que foi tomar um cafezinho?  \n(A) Ele fica irritado e impaciente com a demora \ndo delegado.  \n(B) Ele acha normal que o delegado tenha ido \ntomar um café.  \n(C) Ele se retira da situação e vai embora.  \n(D) Ele ri da situação e acha engraçado.  \n(E) Ele fica preocupado com a demora e tenta \nencontrar o delegado."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 4: “Do jeito que as coisas vão, a próxima Olimpíada \nterá a seguinte prova: um cidadão de São Paulo \nsai do trabalho às 5 da tarde e tem que pegar um \ntáxi no aeroporto do Galeão, no Rio, às 6.”  \nO trecho faz uso de uma ironia para criticar qual \nsituação comum na sociedade?",
+            "alternativas": {
+                "A": "O excesso de competições esportivas.",
+                "B": "A necessidade de reforma do aeroporto.",
+                "C": "A falta de pontualidade.",
+                "D": "O trânsito nas grandes cidades.",
+                "E": "As Olimpíadas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 5: Rápido, ela lhe disse: 'Nossos irmãos?' e ele \nrespondeu: 'Agora nós estamos sozinhos na casa. \nNossos irmãos partiram ontem à noite. Não \nsobrou ninguém além de nós dois. Mas agora não \ntemos nada a temer. Eles foram embora e nós \npodemos ficar aqui tranquilos .' Ela o olhou com \nsuspeita, uma suspeita repentina e fria que fez seu \nestômago apertar. A casa, antes barulhenta com \na presença dos irmãos, agora parecia \nestranhamente silenciosa e vazia.  \nCasa Tomada - Julio Cortázar  \nQual é o sentimento apresentado pela \npersonagem feminina ao ouvir a resposta do \npersonagem masculino?",
+            "alternativas": {
+                "A": "Confiança",
+                "B": "Alegria",
+                "C": "Medo",
+                "D": "Indiferença",
+                "E": "Curiosidade  QUESTÃO 07 \n\"Adoro o início da primavera quando o sol \ncomeça a entrar pela janela. É como um grito de \nalegria de alguém que passou a noite inteira \nchorando.\"  \nNo trecho, o autor usa um adjetivo para descrever \no sol. Qual é esse adjetivo?  \n(A) Tímido  \n(B) Triste  \n(C) Silencioso  \n(D) Brilhante  \n(E) Alegre"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 6: \"Numa meia -noite, eu, fraco e cansado, lá do \nestudo, quase adormecido.\"  \nEdgar Allan Poe (O Corvo)  \nNo trecho, a palavra \"fraco\" se opõe \nsemanticamente a:",
+            "alternativas": {
+                "A": "Vigoroso",
+                "B": "Alto",
+                "C": "Escuro",
+                "D": "Velho",
+                "E": "Brilhante"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 7: “Porque, se morrer não custa muito, viver às \nvezes custa um bocado.”  \nNo trecho, o autor utiliza o advérbio \"às vezes\" \npara modificar o verbo \"custa\". Qual é o sentido \nque o advérbio acrescenta à frase?",
+            "alternativas": {
+                "A": "Sempre",
+                "B": "Raramente",
+                "C": "Ocasionalmente",
+                "D": "Nunca",
+                "E": "Constantemente  \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 4 de 11"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 8: Assinale a alternativa que completa as lacunas corretamente:  \nA menina caminhava ____ alegria pelo parque, enquanto segurava um balão vermelho. Ela estava \nacompanhada de sua mãe, que caminhava ____ lado dela com um sorriso no rosto. O sol brilhava no \ncéu, iluminando ____ paisagem e deixando tudo ainda mais bonito.",
+            "alternativas": {
+                "A": "com - a - ao",
+                "B": "com - ao - a",
+                "C": "por - ao - à",
+                "D": "com - sozinha - no - a",
+                "E": "com - acompanhada - no – à"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 9: \"Quando Gregor Samsa acordou de sonhos intranquilos, encontrou -se em sua cama metamorfoseado \nnum inseto monstruoso.\"  \nFranz Kafka (A Metamorfose)  \nNo trecho, a palavra \"metamorfoseado\" poderia ser substituída, sem alterar o sentido da frase, por:",
+            "alternativas": {
+                "A": "Adormecido",
+                "B": "Transformado",
+                "C": "Acelerado",
+                "D": "Emagrecido",
+                "E": "Enfraquecido"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 10: Disponível em: https://tirasarmandinho.tumblr.com/   \nNo diálogo entre Armandinho e sua amiga, o que a amiga quer dizer quando afirma: \"Claro… era \nquestão de tempo\"?",
+            "alternativas": {
+                "A": "Ela acredita que o acidente foi uma coincidência.",
+                "B": "Ela está surpresa com a ocorrência do acidente.",
+                "C": "Ela culpa o poste pelo acidente de carro.",
+                "D": "Ela acredita que o acidente era inevitável devido ao comportamento do motorista.",
+                "E": "Ela acha que o motorista foi muito habilidoso para evitar o acidente.  Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 5 de 11"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 11: Na frase \"Ela entregou os documentos a ele pessoalmente,\" o pronome \"ele\" desempenha qual função \ngramatical?",
+            "alternativas": {
+                "A": "Pronome pessoal do caso reto.",
+                "B": "Pronome pessoal do caso oblíquo.",
+                "C": "Pronome possessivo.",
+                "D": "Pronome demonstrativo",
+                "E": "Pronome relativo"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 12: Identifique o advérbio de modo na seguinte frase: \"Ela cantou lindamente no palco.\"",
+            "alternativas": {
+                "A": "Ela",
+                "B": "Cantou",
+                "C": "Lindamente",
+                "D": "No",
+                "E": "Palco"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 13: Disponível em: https://tirasarmandinho.tumblr.com/   \nO que o pai quis transmitir ao dizer a frase \"A gente não pode abraçar o mundo...\", e como essa \nafirmação se relaciona com a perspectiva de Armandinho sobre a necessidade de abraços no mundo?",
+            "alternativas": {
+                "A": "O pai destaca a impossibilidade física de abraçar o mundo, enquanto Armandinho enfatiza a \nimportância do carinho.",
+                "B": "O pai sugere que não é possível controlar tudo ao redor, enquanto Armandinho compreende que o \nmundo precisa de carinho e afeto.",
+                "C": "O pai indica a futilidade de demonstrações de afeto, e Armandinho contradiz essa visão ao valorizar \nos abraços.",
+                "D": "O pai enfatiza a ideia de que o mundo é hostil, e Armandinho defende a necessidade de mudança.",
+                "E": "O pai se refere à necessidade de viajar pelo mundo, enquanto Armandinho busca abraçar o mundo \ncom amor e empatia.  \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 6 de 11 MATEMÁTICA E RACIOCÍNIO L ÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 14: 6 \n \nQual é o quarto número par antecessor de 50?",
+            "alternativas": {
+                "A": "48",
+                "B": "44",
+                "C": "42",
+                "D": "46",
+                "E": "40"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 15: Qual é o resultado da seguinte operação:  \n20 - 4 + 2 + 15 x 3?",
+            "alternativas": {
+                "A": "63",
+                "B": "45",
+                "C": "43",
+                "D": "99",
+                "E": "103"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 16: Qual é o resultado da seguinte operação de \nmultiplicação: 12 x 5 x 8,2?",
+            "alternativas": {
+                "A": "500",
+                "B": "492",
+                "C": "492,4",
+                "D": "410",
+                "E": "464,6  \n \n \n \n \n \n \n QUESTÃO 19   \nUma sorveteria vende, em média, 60 sorvetes de \nchocolate por dia e, também, 45 sorvetes de \nmorango por dia. Se a sorveteria funcionar \ndurante 5 dias em uma semana, quantos sorvetes \n(de chocolate e morango) serão vendidos nesse \nperíodo?  \n(A) 470  \n(B) 546  \n(C) 525  \n(D) 482  \n(E) 285"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 17: Uma loja de eletrônicos oferece um desconto de \n15% em todos os laptops. Se um laptop custa \nR$2.135,00 sem o desconto, qual será o preço do \nlaptop com o desconto aplicado?",
+            "alternativas": {
+                "A": "R$ 1.814,75",
+                "B": "R$ 1.700,40",
+                "C": "R$ 2.150,80",
+                "D": "R$ 1.750,95",
+                "E": "R$ 1.900,20"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 18: Uma sala de aula tem uma capacidade para 60 \nalunos. Se 70% das cadeiras estiverem ocupadas, \nquantos alunos estão presentes na sala?",
+            "alternativas": {
+                "A": "18 alunos",
+                "B": "42 alunos",
+                "C": "102 alunos",
+                "D": "52 alunos",
+                "E": "19 alunos  \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 7 de 11 QUESTÃO 22   \nQual é o sétimo número ímpar antecessor de \n725?  \n \n(A) 721  \n(B) 717  \n(C) 713  \n(D) 711  \n(E) 705"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 19: Em uma competição de xadrez, um jogador \nganhou 10 partidas, empatou 4 partidas e perdeu \n2 partidas. Quantos pontos esse jogador \nconquistou no total, considerando que cada \nvitória vale 1 ponto, cada empate vale 0,5 ponto \ne cada derrota vale 0 pontos?",
+            "alternativas": {
+                "A": "14 pontos",
+                "B": "11 pontos",
+                "C": "12 pontos",
+                "D": "12,5 pontos",
+                "E": "13 pontos"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 20: Maria tem uma coleção de selos raros. Ela possui \n50 selos no total, sendo que cada selo vale \nR$2,50. Qual é o valor total de sua coleção de \nselos?",
+            "alternativas": {
+                "A": "R$ 100,00",
+                "B": "R$ 125,00",
+                "C": "R$ 75,00",
+                "D": "R$ 150,00",
+                "E": "R$ 50,00  \n \n \n \n QUESTÃO 25   \nQual é o resultado da seguinte operação \nmatemática: 8,5 x 12,3?  \n \n(A) 97,55  \n(B) 101,75  \n(C) 102,55  \n(D) 106,85  \n(E) 104,55"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 21: Qual é o resultado da seguinte operação \nmatemática: 745 + 500 / 4 ?",
+            "alternativas": {
+                "A": "849",
+                "B": "312,00",
+                "C": "311,25",
+                "D": "831",
+                "E": "870"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 22: Uma floricultura vendeu 12 arranjos de flores na \nsegunda -feira. No dia seguinte, terça -feira, a \nquantidade vendida foi o dobro da registrada na \nsegunda -feira, e, por sua vez, na quarta -feira, a \nquantidade vendida foi o triplo do volume \ncomercializado na te rça-feira. Qual é o total de \narranjos de flores que esta floricultura vendeu ao \nlongo desses três dias?",
+            "alternativas": {
+                "A": "70 arranjos de flores",
+                "B": "72 arranjos de flores",
+                "C": "92 arranjos de flores",
+                "D": "108 arranjos de flores",
+                "E": "46 arranjos de flores  \n \n \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 8 de 11 QUESTÃO 28  \nUma sorveteria comercializou 30 sorvetes no \nsábado. No domingo, a quantidade vendida foi o \ntriplo da registrada no sábado, e, posteriormente, \nna segunda -feira, a quantidade vendida foi o \ndobro do volume comercializado no domingo. \nQual é o total de sorvetes  que essa sorveteria \nvendeu ao longo desses três dias?  \n(A) 90 sorvetes  \n(B) 300 sorvetes  \n(C) 210 sorvetes  \n(D) 240 sorvetes  \n(E) 270 sorvetes"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 23: Qual é o trigésimo número par antecessor de \n582?",
+            "alternativas": {
+                "A": "528",
+                "B": "522",
+                "C": "642",
+                "D": "552",
+                "E": "654"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 24: Qual é o resultado da seguinte operação \nmatemática: 420 / 6 + 97?",
+            "alternativas": {
+                "A": "157",
+                "B": "154",
+                "C": "167",
+                "D": "153",
+                "E": "86,16  \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 25: A alimentação inadequada está associada a uma \nsérie de doenças, tanto de ordem física quanto de \nordem psicológica. Sobre o assunto, assinale a \nalternativa que NÃO apresenta uma doença \nassociada aos hábitos alimentardes:",
+            "alternativas": {
+                "A": "obesidade.",
+                "B": "diabetes.",
+                "C": "hipertensão.",
+                "D": "cânceres.",
+                "E": "HIV/Aids."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 26: Todo(a) merendeiro(a) escolar, por ser um(a) \nmanipulador(a) de alimentos, deve \nobrigatoriamente apresentar boas práticas de \nhigiene, evitando a ocorrência de doenças \nprovocadas por comidas contaminadas. Com \nrelação às boas práticas desse profissional, \nanalise os itens a seguir e, ao final, assinale a \nalternativa CORRETA:  \nI – Para o manipulador de alimentos, o uso de \ndesodorante sem prefume é necessário.  \nII – Não se deve usar maquiagem em excesso.  \nIII – É importante usar um creme hidratante para \nmanter a pele macia e impedir o ressecamento e \ndescamação.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens I e III são verdadeiros.",
+                "E": "Todos os itens são verdadeiros.  \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 9 de 11 QUESTÃO 33  \nAssinale a alternativa que NÃO apresenta um \nequipamento de proteção individual (EPI) \nutilizado pelo(a) merendeiro(a):  \n(A) toca.   \n(B) luva.   \n(C) máscara.   \n(D) relógio.  \n(E) botinas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 27: Com relação às noções básicas de culinária, \nassinale a alternativa que NÃO apresenta uma \nconduta adequada na cozinha:",
+            "alternativas": {
+                "A": "guardar as folhas em um tupperware na \ngeladeira.",
+                "B": "lavar a carne antes de cozinhar.",
+                "C": "cozer macarrão apenas com água e sal.",
+                "D": "descongelar os alimentos no refrigerador ou \nno micro -ondas , se houver urgência.",
+                "E": "utilizar o óleo vegetal apenas uma vez."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 28: Tanto na cozinha quanto no depósito, a limpeza \ndeve ser realizada regularmente. Sobre o assunto, \nanalise as afirmações a seguir e, ao final, assinale \na alternativa CORRETA:  \nI – O piso da cozinha deve ser lavado uma vez \npor semana, preferencialmente nos dias de menor \nmovimento.   \nII – A parede deve ser lavada com água e sabão \nsemanalmente.  \nIII – Os armários, sempre que necessários, devem \nser limpos com um pano levemente úmido.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Apenas os itens I e III são verdadeiros.  \n QUESTÃO 36  \nComo se sabe, os gêneros alimentícios devem ser \nestocados em depósito, com boa ventilação e \niluminação, seco, sem goteira, protegido com \ngrade contra roubos e calor excessivo. No que diz \nrespeito à arrumação dos gêneros alimentícios, \ndeve -se obedecer às se guintes instruções, \nEXCETO:  \n(A) Controlar o estoque de gêneros através de \numa ficha de controle de estoque da escola.  \n(B) Registrar a data de entrada e saída dos \ngêneros na dispensa.  \n(C) Colocar os gêneros mais antigos atrás dos \ngêneros mais novos, a fim de não perder o prazo \nde validade.  \n(D) Não diexar nenhum volume em contato \ndireto com o solo.  \n(E) Não abrir um pacote antes de utilizar o que já \nestá em uso."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 29: No que diz respeito ao processo de higienização \ndos utensílios de cozinha, analise as afirmativas \na seguir e, ao final, assinale a alternativa \nCORRETA:  \nI – Deve -se colocar água nas panelas logo após \ndesocupá -las e ferver um pouco para amolecer os \nresíduos.  \nII – A pia deve ser lavada após o término da \nlavagem dos utensílios.  \nIII – O fogão não deve ser lavado diariamente \npara evitar contaminação com o sabão.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Apenas os itens I e II são verdadeiros.  \n \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 10 de 11 QUESTÃO 38  \nCom relação às noções básicas de culinária, \nassinale a alternativa que NÃO apresenta um \nalimento que contém carboidrato:  \n(A) ovo.    \n(B) arroz.   \n(C) milho.   \n(D) pão.   \n(E) mel."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MERENDEIRA(O)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 30: No que diz respeito à guarda e à disposição dos \nalimentos no freezer e na geladeira, analise as \nafirmativas a seguir e , ao final, assinale a \nalternativa CORRETA:   \nI – Os alimentos prontos para o consumo devem \nser colocados nas prateleiras superiores.  \nII – Os alimentos semiprontos ou pré -preparados \ndevem ser colocados nas prateleiras inferiores.  \nIII – Os alimentos crus devem ser colocados nas \nprateleiras do meio.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.  \n(D) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e III são verdadeiros.  \n(E) Apenas os itens II e III são verdadeiros.  \n \nQUESTÃO 40  \nAcidentes sempre são indesejáveis, já que podem \nnos limitar fisicamente e nos tornarem \nincapacitados para o trabalho. No que diz \nrespeito especificamente aos cuidados que se \ndeve ter na cozinha, assinale a alternativa \nINCORRETA:  \n(A) não se deve usar brincos.",
+                "B": "não se deve deixar fios elétricos soltos.",
+                "C": "deve -se usar pano molhado para pegar na \npanela quente.",
+                "D": "não se deve usar aparelhos elétricos em más \ncondições.",
+                "E": "não se deve  usar canecas e pratos rechados.     \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista  – SP – Processo Seletivo 0 2/2023                     INSTITUTO AVANÇA SÃO PAULO  \n \nMERENDEIRA(O)                                                                                                                                      Página 11 de 11"
+            },
+            "resposta_correta": "C"
+        }
+    ]
+}

@@ -1,3 +1,354 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:191ff0698bc2a205d6f664014ceefd985e19e6beaff3969eff1279b2c58759b6
-size 37129
+{
+    "AGENTE DE TURISMO": [
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 1: Ao dizer que “Mas quantas vezes a insônia é um \ndom.” , a narradora refere-se:",
+            "alternativas": {
+                "A": "Ao fato de tornar-se mais produtiva no \ntrabalho durante a madrugada.",
+                "B": "Às vantagens da solidão da madrugada, \nexperienciadas em suas noites de insônia.",
+                "C": "Ao tédio que sente por passar a madrugada \ntoda de forma solitária.",
+                "D": "À impressão de passagem mais lenta do \ntempo, o que a permite fazer coisas de que gosta \ncom mais calma.",
+                "E": "À solidão como um recurso criativo para \nescrever e criar."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 2: Nas sentenças a seguir, retiradas do texto, ocorre \nverbo impessoal apenas em:",
+            "alternativas": {
+                "A": "E as horas não passam.",
+                "B": "Mas e o vício que nos espreita?",
+                "C": "Ninguém me interrompe o nada.",
+                "D": "Depois vai amanhecendo.",
+                "E": "As nuvens se clareando sob um sol às vezes \npálido como uma lua, às vezes de fogo puro."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 3: Em “ Não, não se pensa.” , o vocábulo ‘se’ \ndesempenha o papel gramatical de:",
+            "alternativas": {
+                "A": "conjunção integrante.",
+                "B": "conjunção condicional.",
+                "C": "partícula expletiva.",
+                "D": "partícula apassivadora.",
+                "E": "índice de indeterminação do sujeito. \n \nConsidere o excerto a seguir para responder \nàs questões de 4 a 7:  \n \nE ainda por cima com um desses horríveis \nsubstitutos do açúcar, porque Dr. José Carlos \nCabral de Almeida, dietista, acha que preciso \nperder os quatro quilos que aumentei com a \nsuperalimentação depois do incêndio. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE DE TURISMO                                                                                                                                 Página 3 de 12 QUESTÃO 04 \nA locução “ ainda por cima” , que ocorre no \nexcerto dado, classifica-se, do ponto de vista \ngramatical, como: \n(A) locução adjetiva. \n(B) locução adverbial. \n(C) locução prepositiva. \n(D) locução substantiva. \n(E) locução conjuntiva."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 4: As ocorrências do vocábulo ‘ que’, destacadas no \nexcerto dado, correspondem, respectivamente, às \nseguintes classes gramaticais:",
+            "alternativas": {
+                "A": "conjunção integrante e pronome relativo.",
+                "B": "conjunção integrante e conjunção integrante.",
+                "C": "pronome relativo e conjunção integrante.",
+                "D": "pronome relativo e pronome relativo.",
+                "E": "pronome relativo e conjunção causal."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 5: O prefixo apresentado em ‘ superalimentação’ , \npalavra que ocorre no excerto dado, imprime à \nsua palavra primitiva um sentido de:",
+            "alternativas": {
+                "A": "posição.",
+                "B": "modo.",
+                "C": "excesso.",
+                "D": "negação.",
+                "E": "falta."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 6: O termo “dietista” , que ocorre no excerto dado, \nse encontra entre vírgulas porque, na sentença, é \num(a):",
+            "alternativas": {
+                "A": "adjunto adnominal.",
+                "B": "adjunto adverbial.",
+                "C": "aposto.",
+                "D": "vocativo.",
+                "E": "sujeito. \n QUESTÃO 08 \nAssinale a alternativa em que há o emprego \nincorreto de verbo abundante.  \n(A) Os alunos que praticaram bullying  ficaram \nsuspensos por uma semana. \n(B) A prefeitura havia pago todos os ingressos do \nespetáculo para os alunos da escola municipal. \n(C) As botas que estavam sujas de lama foram \nlimpas pela garotinha. \n(D) Sua performance foi eleita a melhor do \nfestival de talentos. \n(E) Ela perguntou se a garota tinha imprimido \ncópias do trabalho."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 7: Identifique em qual das sentenças a seguir uma \nvírgula é empregada para introduzir uma oração \nsubordinada adjetiva explicativa.",
+            "alternativas": {
+                "A": "Ana foi logo tratando de resolver o problema, \nenquanto ele ainda não tinha a menor ideia do \nque fazer.",
+                "B": "Conforme instruiu o professor, os alunos \nfinalizaram a prova em quarenta minutos.",
+                "C": "O fim de semana parecia ideal para a viagem, \nse não fosse o clima chuvoso.",
+                "D": "Recém-acordado da cirurgia, o rapaz, que \nnão sabia de toda a história, ficou espantado ao \nouvi-la.",
+                "E": "No inverno, as cores do pôr do Sol costumam \nser menos intensas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 8: Nas palavras a seguir, identifique aquela em que \nocorre um prefixo indicativo de intensidade.",
+            "alternativas": {
+                "A": "avermelhado.",
+                "B": "apatia.",
+                "C": "relutante.",
+                "D": "inevitável.",
+                "E": "desapartar. \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE DE TURISMO                                                                                                                                 Página 4 de 12 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 9: Um investidor investe um montante de R$ \n100,00 a juros simples de 50% por mês. Após 4 \nmeses, ele retira o valor final deste investimento \ne guarda 80% do que retirou. Quanto restou sem \nestar guardado?",
+            "alternativas": {
+                "A": "R$ 80.",
+                "B": "R$ 60.",
+                "C": "R$ 100.",
+                "D": "R$ 50.",
+                "E": "R$ 20."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 10: Em um triângulo retângulo, a proporção da \nhipotenusa para o maior cateto é 5/4. Sabendo \nque o menor cateto mede 6cm, qual o valor da \nhipotenusa?",
+            "alternativas": {
+                "A": "8 cm.",
+                "B": "6 cm.",
+                "C": "10 cm.",
+                "D": "4 cm.",
+                "E": "12 cm."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 11: Em uma dada confeitaria, a proporção usada é de \n75g de fermento para se obter, ao final, 500g de \nbolo. Ao longo de um ano, esta confeitaria \nproduziu 3,5 milhões de quilos de bolo. Quantos \nquilos de fermento foram usados ao longo do \nano?",
+            "alternativas": {
+                "A": "57500000.",
+                "B": "525000.",
+                "C": "52500000.",
+                "D": "575000.",
+                "E": "555000. \n \n \n QUESTÃO 14 \nEm um campeonato de xadrez, existem jogadores \nruins, médios e bons. A razão de jogadores ruins \npara jogadores bons é 2/3. A razão de jogadores \nruins para jogadores médios é 1/7. Sabemos que \ntemos, no total, 57 jogadores. Quantos jogadores \nsão bons? \n(A) 6.  \n(B) 8. \n(C) 15. \n(D) 9. \n(E) 42."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 12: Para decidir qual roupa comprar, um matemático \ncriou uma fórmula. A fórmula criada por ele \nconsistia em uma média ponderada de algumas \ncaracterísticas. Ele atribuiu peso 4 para o \nconforto, peso 3 para a estética e peso 3 para o \npreço. Para cada roupa, essas características \nforam atribuídas valores de 0 a 10 conforme a \ntabela abaixo mostra. Sabendo que ele escolherá \na roupa que obtiver o maior valor na sua fórmula, \nqual roupa ele irá escolher? \n Conforto Estética Preço \nRoupa 1 6 7 5 \nRoupa 2 8 9 2 \nRoupa 3 7 7 6 \nRoupa 4 5 8 6 \nRoupa 5 7 5 7",
+            "alternativas": {
+                "A": "Roupa 1.",
+                "B": "Roupa 2.",
+                "C": "Roupa 3.",
+                "D": "Roupa 4.",
+                "E": "Roupa 5. \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE DE TURISMO                                                                                                                                 Página 5 de 12 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2024",
+            "questão": "Questão 13: No Windows é o nome dado a uma estrutura \nutilizada para organizar arquivos em um \ncomputador:",
+            "alternativas": {
+                "A": "Mouse.",
+                "B": "Tela.",
+                "C": "Periférico.",
+                "D": "Pasta.",
+                "E": "Auxiliares."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2024",
+            "questão": "Questão 14: Qual das pastas a seguir é local que armazena \ntemporariamente os arquivos excluídos no \nSistema Operacional Windows:",
+            "alternativas": {
+                "A": "Downloads.",
+                "B": "Lixeira.",
+                "C": "Imagens.",
+                "D": "Nuvem.",
+                "E": "Fontes de dados."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2024",
+            "questão": "Questão 15: Qual dos seguintes atalhos de teclado é \namplamente reconhecido e utilizado para \ndesfazer a ação mais recente executada pelo \nusuário no Windows?",
+            "alternativas": {
+                "A": "Ctrl + C.",
+                "B": "Ctrl + A.",
+                "C": "Ctrl + S",
+                "D": "Ctrl + T.",
+                "E": "Ctrl + Z. \n \n \n \n \n \n \n QUESTÃO 19 \nAs extensões de arquivos são sufixos \nacrescentados ao nome dos arquivos para mostrar \no tipo de dado que eles contêm e o programa \nnecessário para abri-los. \nAnalise as alternativas a seguir e assine-la a \nextensão que faz referência a um arquivo de texto \nsimples, sem formatação:  \n(A) .cpo \n(B) .ogx \n(C) .olx \n(D) .xll. \n(E) .txt"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2024",
+            "questão": "Questão 16: Assinale a opção que indica corretamente qual é \no programa do Sistema Operacional Windows \nutilizado para abrir arquivos com extensão .XLS:",
+            "alternativas": {
+                "A": "Microsoft Acrobat.",
+                "B": "Microsoft Eclipse.",
+                "C": "Microsoft PowerPoint.",
+                "D": "Microsoft Excel.",
+                "E": "Microsoft Dell. \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2024",
+            "questão": "Questão 17: Leia o enunciado abaixo, e assinale a alternativa \nque preenche a lacuna corretamente no que tange \nas definições na área do turismo: \n______________ É todo lugar, objeto ou \nacontecimento de interesse para o turismo, \npodendo serem classificados em naturais, \nculturais, manifestações e usos tradicionais e \npopulares, realizações técnicas e científicas \ncontemporâneas e acontecimentos programados.",
+            "alternativas": {
+                "A": "Destino Turístico.",
+                "B": "Atrativo de Eventos.",
+                "C": "Local de Visitação.",
+                "D": "Atrativo Turístico.",
+                "E": "Ponto de interesse Turístico. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE DE TURISMO                                                                                                                                 Página 6 de 12 QUESTÃO 22 \nAnálise as afirmativas abaixo, e assinale a \nalternativa que apresenta a sequência correta, \napontando como (V) Verdadeiro ou (F) Falso: \nA Política Nacional de Turismo tem por \nobjetivos: \n(  )  Reduzir as disparidades exclusivamente \nsociais de ordem regional, promovendo a \ninclusão social pelo crescimento da oferta de \ntrabalho e melhor distribuição de renda; \n(  ) Propiciar o suporte a programas estratégicos \nde captação e apoio à realização de feiras e \nexposições de negócios, viagens de incentivo, \ncongressos e eventos no âmbito exclusivo do \nBrasil; \n(  ) Propiciar a prática de turismo sustentável nas \náreas naturais, promovendo a atividade como \nveículo de educação e interpretação ambiental e \nincentivando a adoção de condutas e práticas de \nmínimo impacto compatíveis com a conservação \ndo meio ambiente natural. \n(A) F, V, F. \n(B) V, F, V. \n(C) F, F, V. \n(D) V, V, F. \n(E) Nenhuma das alternativas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2024",
+            "questão": "Questão 18: O fenômeno do turismo remonta desde tempos \npré-históricos até a era contemporânea, \ncaracterizando-se pela exploração de novos \nterritórios, a descoberta de paisagens naturais \ndiversificadas e a busca por formas variadas de \nentretenimento.  \nConsiderando o surgimento do turismo como um \nfenômeno cultural e econômico fundamental, \nqual evento canônico pode ser identificado como \nseu marco inicial?",
+            "alternativas": {
+                "A": "Expansão do Império Inglês.",
+                "B": "Primeiras peregrinações religiosas no Brasil.",
+                "C": "Expedições viárias na Inglaterra.",
+                "D": "Jogos Olímpicos na Grécia Antiga.",
+                "E": "Festivais de música na Idade Média. \n QUESTÃO 24 \nCom base nas definições e conceitos de roteiro \nturístico, analise as seguintes afirmações e \nassinale a alternativa que apresenta as \npreposições corretas: \nI - Caracteriza-se Roteiro Turístico o conjunto de \narquivos e documentos que orientam os turistas e \no guia posteriormente a viagem. Contendo as \natividades que serão desenvolvidas pela empresa \nde turismo. \nII - Define-se Roteiro Turístico como um \nitinerário caracterizado por um ou mais \nelementos que lhe conferem identidade, definido \ne estruturado para fins de planejamento, gestão, \npromoção e comercialização turística das \nlocalidades que formam o roteiro \nIII - Roteiro Turístico é concernente ou relativo a \ncaminhos; descrição de viagem, roteiro; caminho \nque se vai percorrer, ou se percorreu; caminho, \ntrajeto, percurso. \n(A) F, V, V. \n(B) V, F, V. \n(C) F, V, F. \n(D) V, V, F. \n(E) Nenhuma das alternativas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2024",
+            "questão": "Questão 19: Análise as afirmativas abaixo, e assinale a \nalternativa que apresenta a sequência correta, \napontando como (V) Verdadeiro ou (F) Falso: \n( ) A paisagem natural é aquela que apresenta \nsomente a natureza, ou seja, não passou pela ação \nantrópica. \n( ) A paisagem filantrópica é designada por toda \npaisagem que tenha passado pela ação antrópica. \n( ) Paisagem cultural é uma paisagem que \ncombina elementos culturais e naturais dentro de \num recorte territorial. Também chamada de \npaisagem humanizada.",
+            "alternativas": {
+                "A": "V, F, V.",
+                "B": "F, V, F.",
+                "C": "V, V, F.",
+                "D": "F, F, V.",
+                "E": "Nenhuma das alternativas. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE DE TURISMO                                                                                                                                 Página 7 de 12 QUESTÃO 26 \nDurante um cruzeiro, um guia turístico enfrenta \num dilema. Ele descobre que um grupo de \nturistas está interessado em nadar em uma área \nisolada, conhecida por sua beleza natural e \nimportância ecológica. No entanto, a área é \ndesignada como uma zona de preservação \nmarinha, onde a interferência humana pode \nprejudicar os ecossistemas. \nComo o guia deve agir diante do caso em tela \nvisando resguardar a Ética profissional? \n(A) Informar os turistas sobre as \nregulamentações ambientais e a importância da \npreservação marinha, desencorajando-os a nadar. \n(B) Conduzir os turistas para outra parte da costa \nque não seja tão exposta as fiscalizações \ngovernamentais. \n(C) Ignorar as regulamentações e permitir que os \nturistas nadem, argumentando que experiências \npessoais positivas podem levar a um maior apoio \nà conservação. \n(D) Deixar que os próprios turistas decidam se \nquerem nadar na enseada, assumindo que o \nimpacto ambiental é mínimo e que a experiência \npessoal supera quaisquer considerações \nambientais no âmbito do turismo. \n(E) Ocultar informações sobre a natureza \npreservada da enseada para evitar conflitos com \nos turistas, permitindo-lhes nadar na área sem \nrestrições. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 27 \nDe acordo com a Lei Federal nº 11.771/2008, \nconsideram-se transportadoras turísticas as \nempresas que tenham por objeto social a \nprestação de serviços de transporte turístico de \nsuperfície, caracterizado pelo deslocamento de \npessoas em veículos e embarcações por vias \nterrestres e aquáticas, compreendendo a \nmodalidade e sua definição: \n(A) Traslado: itinerário realizado para visitação a \nlocais de interesse turístico do município ou \nvizinhança, sem incluir pernoite. \n(B) Especial: ajustado diretamente por entidades \ncivis associativas, sindicais, de classe, \ndesportivas, educacionais, culturais, religiosas, \nrecreativas e grupo de pessoas físicas e de \npessoas jurídicas, sem objetivo de lucro, com  \ntransportadoras turísticas,  em âmbito municipal, \nintermunicipal, interestadual e internacional. \n(C) Pacote de viagem: itinerário realizado em \nâmbito exclusivamente  internacional que \nincluam, além do transporte, outros serviços \nturísticos como hospedagem, visita a locais \nturísticos, alimentação e outros. \n(D) Passeio local:  itinerário realizado para \nvisitação a locais de interesse turístico do \nmunicípio ou vizinhança, incluída a pernoite. \n(E) Passeio Externo: grupo de pessoas \nexclusivamente jurídicas, com objetivo de lucro, \ncom  transportadoras turísticas. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE DE TURISMO                                                                                                                                 Página 8 de 12 QUESTÃO 28 \nNo contexto da multidisciplinaridade na área do \nturismo, analise as afirmativas abaixo e \nidentifique aquela que não se enquadra como \numa disciplina usualmente associada ao estudo \ndo turismo, juntamente com sua respectiva \ninfluência:  \n(A) Administração: estuda o turismo como um \nproduto a ser comercializado, suas estratégias de \nmarketing para o destino e a gestão estratégica do \nmesmo. \n(B) Antropologia: análise das condições culturais \nque levam um grupo a viajar. \n(C) Geografia: analisa o turismo existente dentro \nde um espaço que é construído a partir de pessoas \ninseridas num meio ambiente.  \n(D) Sociologia: compreende o turismo como um \nfenômeno social total e o estuda a partir das \ncaracterísticas sociais dos grupos viajantes, como \nreligião, gênero, nível educacional, classe, dentre \noutros. \n(E) Arquitetura: analisa a relação entre os estilos \narquitetônicos locais e o impacto estético do \nturismo na preservação do patrimônio histórico-\ncultural dos destinos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2024",
+            "questão": "Questão 20: Entre as atividades de um Turismólogo definida \nna Legislação Federal, assinale a alternativa que \nnão completa nenhuma das lacunas abaixo: \nCoordenar e ________ trabalhos de seleção e \nclassificação de locais e áreas de interesse \nturístico, visando ao adequado aproveitamento \ndos recursos ________ e culturais, de acordo \ncom sua natureza geográfica, _______, artística \ne _______, bem como realizar estudos de \nviabilidade econômica ou técnica",
+            "alternativas": {
+                "A": "Cultural.",
+                "B": "Orientar.",
+                "C": "Histórica.",
+                "D": "Direcionar.",
+                "E": "Naturais. \n \n \n \n QUESTÃO 30 \nA Política Nacional de Turismo tem por objetivo, \nexceto o que se apresenta em: \n(A) Propiciar o suporte a programas estratégicos \nde captação e apoio à realização de feiras e \nexposições de negócios, viagens de incentivo, \ncongressos e eventos nacionais e internacionais. \n(B) Criar e implantar empreendimentos \ndestinados às atividades de expressão cultural, de \nanimação turística, entretenimento e lazer e de \noutros atrativos com capacidade de retenção e \nprolongamento do tempo de permanência dos \nturistas nas localidades. \n(C) Preservar a identidade visual das \ncomunidades e populações tradicionais \neventualmente afetadas pela atividade turística. \n(D) Implementar o inventário do patrimônio \nturístico nacional, atualizando-o regularmente. \n(E) Ampliar os fluxos turísticos, a permanência e \no gasto médio dos turistas nacionais e \nestrangeiros no País, mediante a promoção e o \napoio ao desenvolvimento do produto turístico \nbrasileiro."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2024",
+            "questão": "Questão 21: Leia o enunciado abaixo, e assinale a alternativa \nque preenche a lacuna corretamente no que tange \nas definições no turismo: \n______________ pode ser conceituado como a \naglomeração em um mesmo território geográfico \nde empresas e outras organizações ligadas ao \nturismo que competem e cooperam entre si. Em \numa definição mais intuitiva, pode ainda  ser  \nconsiderado  um  grupo  de  produtos  ou  \natividades  semelhantes  que desenvolvem ações \nem conjunto sob uma determinada governança.",
+            "alternativas": {
+                "A": "Segmentação do Turismo.",
+                "B": "Amenities.",
+                "C": "Trade Turístico.",
+                "D": "Area settlement plan.",
+                "E": "Cluster Turístico. \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE DE TURISMO                                                                                                                                 Página 9 de 12 QUESTÃO 32 \nNo âmbito das evoluções do Turismo, Thomas \nCook marcou a transição do turismo para a era \nindustrial, particularmente no aspecto comercial. \nSocialmente, ele impulsionou um avanço \nsubstancial ao tornar as viagens mais acessíveis. \nNeste sentido qual das seguintes afirmações \nsobre o marco de 1841 no desenvolvimento do \nturismo está correta? \n(A) Thomas Cook organizou uma viagem de \ntrem entre Lancester e Lougborough, na \nInglaterra, e comprou e revendeu 300 passagens, \nimpulsionando-o a montar a primeira agência de \nturismo do mundo. \n(B) Thomas Cook organizou uma excursão de \nbarco entre Lancester e Lougborough, vendendo \n600 passagens e estabelecendo a primeira \nempresa de cruzeiros do mundo. \n(C) Thomas Cook organizou uma viagem de trem \nentre Lancester e Lougborough, na Inglaterra, e \ncomprou e revendeu 570 passagens, \nimpulsionando-o a montar a primeira agência de \nviagens do mundo. \n(D) Thomas Cook, organizou uma excursão de \nônibus entre Lancester e Londres, vendendo 570 \npassagens, e posteriormente fundou a primeira \nagência de viagens do mundo. \n(E) Thomas Cook organizou uma viagem de trem \nentre Londres e Paris, comprando e revendendo \n300 passagens, o que o levou a fundar a primeira \nagência de turismo do mundo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2024",
+            "questão": "Questão 22: De acordo com a legislação brasileira, qual órgão \nda administração pública federal direta, tem \ncomo área de competência a política nacional de \ndesenvolvimento do turismo sustentável?",
+            "alternativas": {
+                "A": "Municípios.",
+                "B": "Ministério do Turismo.",
+                "C": "Distrito Federal.",
+                "D": "Tribunal de Contas.",
+                "E": "Estados. \n \n \n QUESTÃO 34 \nA interdisciplinaridade no turismo é diretamente \nproporcional ao fato de que ele não é \nteoricamente substantivo. Isto é, o turismo não \nnos dá um programa de percepção a partir do qual \na realidade possa ser cientificamente construída \nde uma maneira particular. \nConsiderando essa perspectiva, qual das \nseguintes afirmações reflete corretamente a \nimportância da interdisciplinaridade no estudo e \nna prática do turismo? \n(A) A interdisciplinaridade no turismo limita a \ncompreensão das complexidades do fenômeno \nturístico ao focar apenas em uma única \ndisciplina. \n(B) A interdisciplinaridade no turismo permite \numa abordagem holística, integrando \nconhecimentos de diversas áreas para uma \ncompreensão mais ampla do fenômeno turístico. \n(C) A interdisciplinaridade no turismo é \nimportante, porém dispensável, pois o turismo \npode ser completamente entendido através de \nestudos específicos de hospitalidade. \n(D) A interdisciplinaridade no turismo impede o \ndesenvolvimento de uma teoria unificada, \ntornando os estudos turísticos menos científicos \ne mais subjetivos. \n(E) A interdisciplinaridade no turismo é aplicada \napenas na área de marketing turístico, sendo \nirrelevante para outras áreas como gestão de \ndestinos e planejamento urbano. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE DE TURISMO                                                                                                                                 Página 10 de 12 QUESTÃO 35 \nAnálise as afirmativas abaixo, e assinale a \nalternativa que apresenta a sequência correta, \napontando como (V) Verdadeiro ou (F) Falso: \nA Política Nacional de Turismo obedecerá aos \nprincípios constitucionais da(o): \n( ) Livre iniciativa. \n( ) Descentralização. \n( ) Regionalização. \n( ) Desenvolvimento político-social justo e \nsustentável. \n(A) V, V, V, F. \n(B) F, V, F, V. \n(C) V, F, V, V. \n(D) F, F, V, F. \n(E) Nenhuma das alternativas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2024",
+            "questão": "Questão 23: No contexto das atribuições de um Turismólogo, \nLucio, um profissional nesta área, enfrenta uma \nincerteza ao questionar se diagnosticar as \npotencialidades e as deficiências para o \ndesenvolvimento do turismo nos Municípios, \nregiões e Estados da Federação é uma atividade \nque se enquadra dentro de suas competências.  \nComo conhecedor da Legislação Federal \npertinente, qual das seguintes afirmações \ncorretamente esclarece esta questão?",
+            "alternativas": {
+                "A": "Sim, está entre uma das atividades do \nTurismólogo.",
+                "B": "Não, esta atividade é de competência \nexclusiva dos gestores públicos e urbanistas.",
+                "C": "Sim, desde que o Turismólogo atue apenas \nem âmbito estadual.",
+                "D": "Não, pois cabe apenas aos economistas \nfederais realizar esses diagnósticos.",
+                "E": "Sim, desde que o Turismólogo atue apenas \nem âmbito municipal. \n \n \n \n \n \n QUESTÃO 37 \nAnalise os itens a seguir e assinale a alternativa \ncorreta sobre a Ética Profissional: \nI - A atuação profissional do Turismólogo deve \nser pautada pela verdade, dignidade, \nindependência e improbidade; \nII - O Trabalho do Turismólogo deve ser pautado \nna atuação em prol das diferenças e pela \ntolerância; \nIII - Ao profissional cabe atuar para que o desejo \npelo ganho material se sobreponha aos fins \nsociais de seu trabalho que é de interesse da \nsociedade da qual faz parte; \nIV - O sigilo quanto a informações privilegiadas \ne/ou confidenciais deve ser utilizado pelo \nprofissional, objetivando resguardar as relações \ncom o contratante, desde que seu silêncio não \npropicie prejuízo ao direito do deslocamento, \nintegridade do turista ou das comunidades \nreceptoras. \n(A) Apenas os itens I e II estão corretos. \n(B) Apenas o item IV está correto. \n(C) Apenas os itens, I, II e III estão corretos. \n(D) Apenas os itens II e IV estão corretos. \n(E) Nenhuma das alternativas estão corretas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2024",
+            "questão": "Questão 24: Leia o enunciado abaixo, e assinale a alternativa \nque preenche a lacuna corretamente: \n_____________ tem por definição tudo que pode \nser oferecido a um meio para satisfazer uma \nnecessidade que esse meio venha a ter, ou ainda, \nrealizar o desejo dos consumidores. Portanto, o \nproduto turístico é o resultado desse conjunto de \nnecessidades, sendo elas, culturais ou naturais, \ntudo isso com o objetivo de resultar um interesse \nnessas pessoas.",
+            "alternativas": {
+                "A": "Demanda Turística.",
+                "B": "Produto Turístico.",
+                "C": "Sustentabilidade Turística.",
+                "D": "Oferta Comercial.",
+                "E": "Infraestrutura Turística. \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE DE TURISMO                                                                                                                                 Página 11 de 12 QUESTÃO 39 \nDe acordo com a Lei Federal nº 12.591/2012, não \npode ser considerada uma atividade do \nTurismólogo o que se apresenta em: \n(A) Organizar eventos de âmbito público e \nprivado, em diferentes escalas e tipologias. \n(B) Coordenar e orientar levantamentos, estudos \ne pesquisas relativamente a instituições, \nempresas e estabelecimentos privados que \natendam ao setor turístico. \n(C) Emitir laudos e pareceres técnicos referentes \nà capacitação ou não de locais e estabelecimentos \nvoltados ao atendimento do turismo receptivo, \nconforme normas estabelecidas pelos órgãos \ncompetentes. \n(D) Planejar, organizar, controlar, implantar, \ngerir e operacionalizar empresas turísticas de \ntodas as esferas, em conjunto com outros \nprofissionais afins, como agências de viagens e \nturismo, transportadoras e terminais turísticos, \norganizadoras de eventos, serviços de animação, \nparques temáticos, hotelaria e demais \nempreendimento do setor. \n(E) Lecionar em estabelecimentos de ensino \nfundamental, técnico ou superior."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE TURISMO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2024",
+            "questão": "Questão 25: Analise os itens a seguir e assinale a alternativa \ncorreta sobre as dimensões dos Clusters: \nI - Dimensão horizontal: Empresas    com    \ncapacidades    e    atividades    produtivas \nsimilares. \nII - Vertical: Empresas  com capacidades  \ndistintas  e  complementares que se apoiam \nmutuamente. \nIII - Expandida: Redes de relacionamento interno \nao cluster.",
+            "alternativas": {
+                "A": "Apenas os itens I e II estão corretos.",
+                "B": "Apenas o item III está correto.",
+                "C": "Apenas os itens, I, II e III estão corretos.",
+                "D": "Apenas os itens II e III estão corretos.",
+                "E": "Nenhuma das alternativas estão corretas. \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE DE TURISMO                                                                                                                                 Página 12 de 12"
+            },
+            "resposta_correta": "A"
+        }
+    ]
+}

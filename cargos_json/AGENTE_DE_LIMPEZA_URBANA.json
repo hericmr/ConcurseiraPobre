@@ -1,3 +1,788 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92cdc2813649d92f6545fe720be9f6f49cf27b343616859035bb239e5c46b01c
-size 55087
+{
+    "AGENTE DE LIMPEZA URBANA": [
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, pode -se concluir que:",
+            "alternativas": {
+                "A": "o homem que dormia era a vítima do homem \nque lia o jornal.",
+                "B": "o homem que olhava pela janela percebeu \nque ainda poderia estar em risco no quinto túnel.",
+                "C": "o homem que dormia era o assassino do \nhomem que lia o jornal.",
+                "D": "as duas mortes foram cometidas por engano.",
+                "E": "o homem que olhava pela janela era a vítima \ndos outros dois homens, mas agiu primeiro."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: A extensão do sentido primitivo ou original de \ndeterminada palavra, determinada pelos \ncontextos de uso, é denominada sentido figurado. \nUm exemplo de uso em que a palavra exprime \nsentido figurado, e não próprio, ocorre no excerto \n“Ele podia me estrangular, sei lá.”, com a \npalavra:",
+            "alternativas": {
+                "A": "ele.",
+                "B": "podia.",
+                "C": "estrangular.",
+                "D": "sei.",
+                "E": "lá.  Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 3 de 10 QUESTÃO 03 \nA palavra “estampido”, empregada no texto, \npode ser entendida como um:  \n(A) estrondo.  \n(B) silvo.  \n(C) suspiro.  \n(D) rumorejo.  \n(E) alarido."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: O adjetivo “letal”, que ocorre em “ — É a única \ncoisa remotamente letal que ele carregava.”, é \nrelativo à palavra:",
+            "alternativas": {
+                "A": "“letargia”.",
+                "B": "“legalidade”.",
+                "C": "“morte”.",
+                "D": "“perigo”.",
+                "E": "“lético”."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Analise as sentenças a seguir, retiradas do texto:  \nI. Os três não se mexeram.  \nII. Ouve -se uma voz. \nIII. Eles não se conhecem.  \nO pronome pessoal “se”, que ocorre nas \nsentenças dadas, é empregado com sentido \nreflexivo recíproco  apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  \n \n \n \n \n \n \n \n \n QUESTÃO 06 \nConsidere o seguinte excerto: “E o homem que \ndormia está de olhos arregalados.” Neste \ncontexto, a palavra “que”, em destaque, atua \ngramaticalmente como:  \n(A) conjunção.  \n(B) pronome relativo.  \n(C) pronome indefinido.  \n(D) pronome demonstrativo.  \n(E) preposição."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Analise as sentenças a seguir, retiradas do texto:  \nI. Os três não se mexeram.  \nII. Eu o matei primeiro.  \nIII. Ele ia me matar no próximo túnel, mas eu agi \nantes.   \nEm todas as sentenças dadas, o pronome pessoal \noblíquo ocorre em posição de próclise. A(s) \nsentença(s) que apresenta(m) condições que \npermitiriam também a ênclise é (são):",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "II e III."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir, retiradas do texto, \ne assinale a alternativa em que a palavra em \ndestaque é um advérbio que exprime restrição.",
+            "alternativas": {
+                "A": "Estão em silêncio desde  que o trem saiu da \nestação.",
+                "B": "Os três continuam como antes .",
+                "C": "É a única coisa remotamente  letal que ele \ncarregava.",
+                "D": "Só se fosse com este charuto — diz o homem \nque dormia, depois de examinar os bolsos do \nmorto.",
+                "E": "Não ouvi nada.  \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 4 de 10 QUESTÃO 09 \nNo excerto “O trem entra em outro túnel”, o verbo “entrar” apresenta regência:  \n(A) intransitiva.  \n(B) transitiva direta.  \n(C) transitiva indireta.  \n(D) de ligação.   \n(E) pronominal."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: A palavra “túnel”, que ocorre no texto, tem a mesma tonicidade que a palavra:",
+            "alternativas": {
+                "A": "vítima.",
+                "B": "assassino.",
+                "C": "próximo.",
+                "D": "única.",
+                "E": "trem.  \n \nLeia a tirinha a seguir para responder às questões de 11 a 15.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nWATTERSON, B. Calvin e Haroldo , 2010.\nPrefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 5 de 10 QUESTÃO 11  \nSabendo -se que Calvin é o garoto e Haroldo, o \ntigre, na tirinha apresentada, o sentido de humor \né provocado por:  \n(A) o entendimento de Haroldo sobre a palavra \n“pronome”.  \n(B) a dificuldade de Calvin para fazer a tarefa de \ncasa.  \n(C) o entendimento de Haroldo ser exatamente o \nmesmo de Calvin.  \n(D) Calvin ter dúvidas a respeito dos pronomes.  \n(E) Haroldo ter o conhecimento necessário sobre \no tema do qual Calvin tem dúvida."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: A definição de “pronome” sugerida por Haroldo:",
+            "alternativas": {
+                "A": "está incorreta, porque se aplica a outra classe \nde palavras que não a dos pronomes.",
+                "B": "não considera o significado da palavra \n“nome”.",
+                "C": "é baseada apenas no significado da palavra \n“nome”.",
+                "D": "é baseada no significado original da palavra \n“pronome”.",
+                "E": "estende o significado da palavra “pronome”, \nconsiderando o significado do prefixo “pró”, que \nsignifica “em favor de”, em sua composição."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: A fala de Calvin no último quadrinho da tira \npermite concluir que:",
+            "alternativas": {
+                "A": "Calvin pressente que a resposta de Haroldo \npode estar incorreta.",
+                "B": "Calvin considera Haroldo inteligente por sua \nresposta.",
+                "C": "A resposta de Calvin seria a mesma de \nHaroldo, mesmo que o tigre não a dissesse.",
+                "D": "Haroldo é inteligente porque é original.",
+                "E": "Calvin tem certeza de que a resposta sugerida \npor Haroldo está correta.  \n QUESTÃO 14  \nA palavra “minha”, no primeiro quadrinho, é \nclassificada gramaticalmente como:  \n(A) pronome demonstrativo.  \n(B) pronome pessoal.  \n(C) pronome possessivo.  \n(D) pronome relativo.  \n(E) pronome indefinido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: O verbo “conseguir”, que ocorre no último \nquadrinho, está conjugado no modo subjuntivo, e \nexprime uma ação:",
+            "alternativas": {
+                "A": "hipotética e futura.",
+                "B": "concreta e presente.",
+                "C": "concreta e passada.",
+                "D": "em curso no presente.",
+                "E": "hipotética e passada."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Analise as sentenças a seguir e assinale a \nalternativa em que ocorre desvio de concordância \nverbal ou nominal.",
+            "alternativas": {
+                "A": "A batata e o ovo cozidos estão na geladeira.",
+                "B": "Nem ela nem eu fomos ao evento.",
+                "C": "Comprados as mantas, faremos as doações à \ninstituição de caridade.",
+                "D": "Tanto Luana quanto Pedro tiraram dez na \nprova de física.",
+                "E": "A agonia, o medo da solidão, a angústia, tudo \na deixava triste.  \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 6 de 10 QUESTÃO 17  \nAnalise as sentenças a seguir e assinale a \nalternativa em que a regência verbal está \nincorreta.  \n(A) O resultado do estudo corrobora à hipótese \ninicial da pesquisa.  \n(B) A mulher de que falei está trabalhando no \nturno da manhã.  \n(C) O corte de verba resultou em demissões em \nmassa.  \n(D) O advogado lhe orientou a permanecer em \nsilêncio.  \n(E) A garota não aguentava de felicidade."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Considere as sentenças a seguir:  \nI. Ele escreveu uma carta à Ana.  \nII. Não trabalha e vive à custa dos pais.  \nIII. Disse péssimas falas à sua namorada.  \nO emprego do acento indicativo de crase é \nfacultativo apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Considere as seguintes sentenças:  \nI. Ele andou rapidamente em direção ao posto de \ngasolina.  \nII. Coincidentemente, nos encontramos no \nrestaurante.   \nIII. As coisas se resolveram naturalmente.  \nNas sentenças dadas, a função de cada advérbio \nempregado é:",
+            "alternativas": {
+                "A": "exprimir uma circunstância de modo sobre a \nação denotada pelo verbo com o qual ocorre.",
+                "B": "exprimir uma circunstância de tempo sobre a \nação denotada pelo verbo com o qual ocorre.",
+                "C": "exprimir uma circunstância de lugar sobre a \nação denotada pelo verbo com o qual ocorre.",
+                "D": "modificar o adjetivo com o qual ocorre.",
+                "E": "modificar outro advérbio com o qual ocorre.  QUESTÃO 20  \nAnalise as sentenças a seguir quanto ao emprego \ndas expressões “porque”, “por que”, “porquê” e \n“por quê”:  \nI. Estou resfriada, …… tomei chuva.  \nII. …… você está tão zangado?  \nIII. Ficou chateada durante o jantar, mas não \ndisse o …… .  \nAssinale a alternativa que apresenta opções que \npreencham correta e respectivamente cada uma \ndas lacunas das sentenças apresentadas.  \n(A) por que; por que; porque.  \n(B) porquê; por que; porque.  \n(C) porquê; porquê; por que.  \n(D) porque; por que; porquê.  \n(E) por quê; porque; porquê.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Em uma prova de natação, o nadador Pedro \ncompletou 10 voltas em uma piscina olímpica. \nCada volta tem 50 metros. Quantos metros \nPedro percorreu no total?",
+            "alternativas": {
+                "A": "250 metros",
+                "B": "500 metros",
+                "C": "750 metros",
+                "D": "1000 metros",
+                "E": "1250 metros"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Maria está planejando um piquenique para seus \namigos e precisa comprar refrigerante. No último \npiquenique, ela comprou 60 latas de refrigerante. \nEste ano, o número de convidados aumentou em \n20%. Quantas latas de refrigerante Maria precisa \ncomprar para o piquenique deste ano?",
+            "alternativas": {
+                "A": "65",
+                "B": "70",
+                "C": "72",
+                "D": "75",
+                "E": "Nenhuma das alternativas  \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 7 de 10 QUESTÃO 23  \nMaria está colocando carpete em seu quarto. O \nquarto tem formato retangular, com 4 metros de \ncomprimento e 5 metros de largura. Qual é a área \ntotal do quarto?  \n(A) 16 metros quadrados  \n(B) 18 metros quadrados  \n(C) 20 metros quadrados  \n(D) 22 metros quadrados  \n(E) 24 metros quadrados"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Em uma loja de música incomum, os CDs são \norganizados de forma peculiar: \"Rock\", \"Jazz\", \n\"Clássica\", \"Rock\", \"Jazz\"... Qual é o próximo \ngênero musical que o vendedor colocará após \n\"Clássica\"?",
+            "alternativas": {
+                "A": "Rock",
+                "B": "Jazz",
+                "C": "Pop",
+                "D": "Clássica",
+                "E": "Eletrônica"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Assinale a alternativa que apresenta o \nquinquagésimo terceiro número par antecessor \nde 400.",
+            "alternativas": {
+                "A": "346",
+                "B": "348",
+                "C": "292",
+                "D": "294",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Um grupo de voluntários está montando kits de \nalimentos para distribuição em uma comunidade \ncarente. Eles conseguem montar 20 kits em 30 \nminutos. Se continuarem nesse ritmo, quantos \nkits de alimentos eles terão montado após 60 \nminutos?",
+            "alternativas": {
+                "A": "02 kits",
+                "B": "40 kits",
+                "C": "50 kits",
+                "D": "60 kits",
+                "E": "Nenhuma das alternativas  \n QUESTÃO 27  \nPedro está reformando o piso de seu quintal e \nprecisa calcular a área de um retângulo para \ncomprar a quantidade certa de azulejos. O \ncomprimento do quintal é 10 metros e a largura é \n4 metros. Qual é a área total do quintal?  \n(A) 12 metros quadrados  \n(B) 24 metros quadrados  \n(C) 36 metros quadrados  \n(D) 40 metros quadrados  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Um empresário decidiu fazer doações para três \ninstituições de caridade. Ele separou R$ 2.000,00 \npara essa finalidade. Se ele pretende doar 30% do \ntotal para a primeira instituição, 25% para a \nsegunda e o restante para a terceira, quanto cada \ninstituição re ceberá?",
+            "alternativas": {
+                "A": "R$ 800,00, R$ 550,00, R$ 650,00",
+                "B": "R$ 650,00, R$ 450,00, R$ 900,00",
+                "C": "R$ 700,00, R$ 550,00, R$ 750,00",
+                "D": "R$ 750,00, R$ 600,00, R$ 650,00",
+                "E": "R$ 600,00, R$ 500,00, R$ 900,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Assinale a alternativa que apresenta o  \nseptuagésimo nono número ímpar antecessor de \n507?",
+            "alternativas": {
+                "A": "427",
+                "B": "425",
+                "C": "345",
+                "D": "347",
+                "E": "349"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Um fazendeiro possui um pomar de maçãs que \nocupa 5 hectares. Se ele consegue colher 500 kg \nde maçãs por hectare, quantos quilogramas de \nmaçãs ele poderá colher no total?",
+            "alternativas": {
+                "A": "2.000 kg",
+                "B": "2.500 kg",
+                "C": "2.800 kg",
+                "D": "3.000 kg",
+                "E": "Nenhuma das alternativas  Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 8 de 10 QUESTÃO 31  \nUm grupo de pesquisadores realizou um estudo \nsobre o consumo de café. Eles entrevistaram 150 \npessoas e descobriram que 80% delas consomem \ncafé diariamente. Quantas pessoas entrevistadas \nconsomem café diariamente?  \n \n(A) 90 pessoas  \n(B) 100 pessoas  \n(C) 110 pessoas  \n(D) 120 pessoas  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Gabriel gastou parte de seu salário em três \ncategorias diferentes:  \n \n• 30% em transporte  \n• 20% em educação  \n• 10% em saúde  \n \nSe a despesa total foi de R$ 600,00, qual é o \nsalário mensal de Gabriel?",
+            "alternativas": {
+                "A": "R$ 1.000,00",
+                "B": "R$ 1.200,00",
+                "C": "R$ 1.500,00",
+                "D": "R$ 2.000,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Um agricultor colhe 30 melancias por dia em sua \nfazenda. Se ele trabalha 5 dias por semana, \nquantas melancias ele colherá em 4 semanas?",
+            "alternativas": {
+                "A": "150 melancias",
+                "B": "120 melancias",
+                "C": "900 melancias",
+                "D": "600 melancias",
+                "E": "Nenhuma das alternativas  \n \n \n \n QUESTÃO 34  \nPedro está organizando uma festa e comprou \nrefrigerantes para os convidados. Ele adquiriu 6 \npacotes de refrigerantes, cada um contendo 12 \nlatas. Seu plano é utilizar metade dessas latas \npara os convidados adultos  e a outra metade para \nos convidados infantis . No entanto, após já ter \nutilizado 23 latas para os convidados infantis, \nPedro quer saber quantas latas ainda restam para \nserem utilizadas especificamente para os \nconvidados infantis.  \n \n(A) 12 latas  \n(B) 13 latas  \n(C) 24 latas  \n(D) 49 latas  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Um pacote de açúcar tem 12 kg. Se uma receita \nde bolo requer 250 gramas de açúcar, quantas \nvezes podemos fazer essa receita com um único \npacote?",
+            "alternativas": {
+                "A": "12 vezes",
+                "B": "16 vezes",
+                "C": "32 vezes",
+                "D": "48 vezes",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Um grupo de pesquisadores realizou um estudo \nsobre o hábito de leitura. Eles entrevistaram 250 \npessoas e descobriram que 70% delas leem pelo \nmenos um livro por mês. Quantas pessoas \nentrevistadas leem pelo menos um livro por mês?",
+            "alternativas": {
+                "A": "150 pessoas",
+                "B": "175 pessoas",
+                "C": "200 pessoas",
+                "D": "225 pessoas",
+                "E": "Nenhuma das alternativas  \n \n \n \n \n \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 9 de 10 QUESTÃO 37  \nEm uma competição de natação, Ana ganhou \n75% de suas provas. Sabendo que ela venceu 9 \nprovas, qual é o número total de provas que Ana \ndisputou na competição?  \n \n(A) 12  \n(B) 10  \n(C) 08  \n(D) 20  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Uma loja de sorvetes utiliza 1,5 litros de calda \npor dia em suas produções. Se ela funciona \ndurante 5 dias por semana, quantos litros de calda \na loja utilizará em 4 semanas?",
+            "alternativas": {
+                "A": "18 litros",
+                "B": "22,5 litros",
+                "C": "30 litros",
+                "D": "45 litros",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Em uma loja de roupas, Pedro comprou um terno, \npagando 60% do preço como entrada e \nparcelando o restante, sem acréscimos, em quatro \nparcelas de R$ 150,00 cada uma. Se o valor total \ndo terno foi de R$ 1.500,00, qual foi o valor pago \ncomo entrada?",
+            "alternativas": {
+                "A": "R$ 700,00",
+                "B": "R$ 800,00",
+                "C": "R$ 900,00",
+                "D": "R$ 1.000,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Uma empresa possui 10 salas de escritório. Cada \nsala possui 20 funcionários e cada funcionário \ntem 2 computadores. Qual é a quantidade total de \ncomputadores nessa empresa?",
+            "alternativas": {
+                "A": "400 computadores",
+                "B": "300 computadores",
+                "C": "200 computadores",
+                "D": "100 computadores",
+                "E": "50 computadores   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 10 de 10"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, pode -se concluir que:",
+            "alternativas": {
+                "A": "o homem que dormia era a vítima do homem \nque lia o jornal.",
+                "B": "o homem que olhava pela janela percebeu \nque ainda poderia estar em risco no quinto túnel.",
+                "C": "o homem que dormia era o assassino do \nhomem que lia o jornal.",
+                "D": "as duas mortes foram cometidas por engano.",
+                "E": "o homem que olhava pela janela era a vítima \ndos outros dois homens, mas agiu primeiro."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: A extensão do sentido primitivo ou original de \ndeterminada palavra, determinada pelos \ncontextos de uso, é denominada sentido figurado. \nUm exemplo de uso em que a palavra exprime \nsentido figurado, e não próprio, ocorre no excerto \n“Ele podia me estrangular, sei lá.”, com a \npalavra:",
+            "alternativas": {
+                "A": "ele.",
+                "B": "podia.",
+                "C": "estrangular.",
+                "D": "sei.",
+                "E": "lá.  Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 3 de 10 QUESTÃO 03 \nA palavra “estampido”, empregada no texto, \npode ser entendida como um:  \n(A) estrondo.  \n(B) silvo.  \n(C) suspiro.  \n(D) rumorejo.  \n(E) alarido."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: O adjetivo “letal”, que ocorre em “ — É a única \ncoisa remotamente letal que ele carregava.”, é \nrelativo à palavra:",
+            "alternativas": {
+                "A": "“letargia”.",
+                "B": "“legalidade”.",
+                "C": "“morte”.",
+                "D": "“perigo”.",
+                "E": "“lético”."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Analise as sentenças a seguir, retiradas do texto:  \nI. Os três não se mexeram.  \nII. Ouve -se uma voz. \nIII. Eles não se conhecem.  \nO pronome pessoal “se”, que ocorre nas \nsentenças dadas, é empregado com sentido \nreflexivo recíproco  apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  \n \n \n \n \n \n \n \n \n QUESTÃO 06 \nConsidere o seguinte excerto: “E o homem que \ndormia está de olhos arregalados.” Neste \ncontexto, a palavra “que”, em destaque, atua \ngramaticalmente como:  \n(A) conjunção.  \n(B) pronome relativo.  \n(C) pronome indefinido.  \n(D) pronome demonstrativo.  \n(E) preposição."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Analise as sentenças a seguir, retiradas do texto:  \nI. Os três não se mexeram.  \nII. Eu o matei primeiro.  \nIII. Ele ia me matar no próximo túnel, mas eu agi \nantes.   \nEm todas as sentenças dadas, o pronome pessoal \noblíquo ocorre em posição de próclise. A(s) \nsentença(s) que apresenta(m) condições que \npermitiriam também a ênclise é (são):",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "II e III."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir, retiradas do texto, \ne assinale a alternativa em que a palavra em \ndestaque é um advérbio que exprime restrição.",
+            "alternativas": {
+                "A": "Estão em silêncio desde  que o trem saiu da \nestação.",
+                "B": "Os três continuam como antes .",
+                "C": "É a única coisa remotamente  letal que ele \ncarregava.",
+                "D": "Só se fosse com este charuto — diz o homem \nque dormia, depois de examinar os bolsos do \nmorto.",
+                "E": "Não ouvi nada.  \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 4 de 10 QUESTÃO 09 \nNo excerto “O trem entra em outro túnel”, o verbo “entrar” apresenta regência:  \n(A) intransitiva.  \n(B) transitiva direta.  \n(C) transitiva indireta.  \n(D) de ligação.   \n(E) pronominal."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: A palavra “túnel”, que ocorre no texto, tem a mesma tonicidade que a palavra:",
+            "alternativas": {
+                "A": "vítima.",
+                "B": "assassino.",
+                "C": "próximo.",
+                "D": "única.",
+                "E": "trem.  \n \nLeia a tirinha a seguir para responder às questões de 11 a 15.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nWATTERSON, B. Calvin e Haroldo , 2010.\nPrefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 5 de 10 QUESTÃO 11  \nSabendo -se que Calvin é o garoto e Haroldo, o \ntigre, na tirinha apresentada, o sentido de humor \né provocado por:  \n(A) o entendimento de Haroldo sobre a palavra \n“pronome”.  \n(B) a dificuldade de Calvin para fazer a tarefa de \ncasa.  \n(C) o entendimento de Haroldo ser exatamente o \nmesmo de Calvin.  \n(D) Calvin ter dúvidas a respeito dos pronomes.  \n(E) Haroldo ter o conhecimento necessário sobre \no tema do qual Calvin tem dúvida."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: A definição de “pronome” sugerida por Haroldo:",
+            "alternativas": {
+                "A": "está incorreta, porque se aplica a outra classe \nde palavras que não a dos pronomes.",
+                "B": "não considera o significado da palavra \n“nome”.",
+                "C": "é baseada apenas no significado da palavra \n“nome”.",
+                "D": "é baseada no significado original da palavra \n“pronome”.",
+                "E": "estende o significado da palavra “pronome”, \nconsiderando o significado do prefixo “pró”, que \nsignifica “em favor de”, em sua composição."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: A fala de Calvin no último quadrinho da tira \npermite concluir que:",
+            "alternativas": {
+                "A": "Calvin pressente que a resposta de Haroldo \npode estar incorreta.",
+                "B": "Calvin considera Haroldo inteligente por sua \nresposta.",
+                "C": "A resposta de Calvin seria a mesma de \nHaroldo, mesmo que o tigre não a dissesse.",
+                "D": "Haroldo é inteligente porque é original.",
+                "E": "Calvin tem certeza de que a resposta sugerida \npor Haroldo está correta.  \n QUESTÃO 14  \nA palavra “minha”, no primeiro quadrinho, é \nclassificada gramaticalmente como:  \n(A) pronome demonstrativo.  \n(B) pronome pessoal.  \n(C) pronome possessivo.  \n(D) pronome relativo.  \n(E) pronome indefinido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: O verbo “conseguir”, que ocorre no último \nquadrinho, está conjugado no modo subjuntivo, e \nexprime uma ação:",
+            "alternativas": {
+                "A": "hipotética e futura.",
+                "B": "concreta e presente.",
+                "C": "concreta e passada.",
+                "D": "em curso no presente.",
+                "E": "hipotética e passada."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Analise as sentenças a seguir e assinale a \nalternativa em que ocorre desvio de concordância \nverbal ou nominal.",
+            "alternativas": {
+                "A": "A batata e o ovo cozidos estão na geladeira.",
+                "B": "Nem ela nem eu fomos ao evento.",
+                "C": "Comprados as mantas, faremos as doações à \ninstituição de caridade.",
+                "D": "Tanto Luana quanto Pedro tiraram dez na \nprova de física.",
+                "E": "A agonia, o medo da solidão, a angústia, tudo \na deixava triste.  \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 6 de 10 QUESTÃO 17  \nAnalise as sentenças a seguir e assinale a \nalternativa em que a regência verbal está \nincorreta.  \n(A) O resultado do estudo corrobora à hipótese \ninicial da pesquisa.  \n(B) A mulher de que falei está trabalhando no \nturno da manhã.  \n(C) O corte de verba resultou em demissões em \nmassa.  \n(D) O advogado lhe orientou a permanecer em \nsilêncio.  \n(E) A garota não aguentava de felicidade."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Considere as sentenças a seguir:  \nI. Ele escreveu uma carta à Ana.  \nII. Não trabalha e vive à custa dos pais.  \nIII. Disse péssimas falas à sua namorada.  \nO emprego do acento indicativo de crase é \nfacultativo apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Considere as seguintes sentenças:  \nI. Ele andou rapidamente em direção ao posto de \ngasolina.  \nII. Coincidentemente, nos encontramos no \nrestaurante.   \nIII. As coisas se resolveram naturalmente.  \nNas sentenças dadas, a função de cada advérbio \nempregado é:",
+            "alternativas": {
+                "A": "exprimir uma circunstância de modo sobre a \nação denotada pelo verbo com o qual ocorre.",
+                "B": "exprimir uma circunstância de tempo sobre a \nação denotada pelo verbo com o qual ocorre.",
+                "C": "exprimir uma circunstância de lugar sobre a \nação denotada pelo verbo com o qual ocorre.",
+                "D": "modificar o adjetivo com o qual ocorre.",
+                "E": "modificar outro advérbio com o qual ocorre.  QUESTÃO 20  \nAnalise as sentenças a seguir quanto ao emprego \ndas expressões “porque”, “por que”, “porquê” e \n“por quê”:  \nI. Estou resfriada, …… tomei chuva.  \nII. …… você está tão zangado?  \nIII. Ficou chateada durante o jantar, mas não \ndisse o …… .  \nAssinale a alternativa que apresenta opções que \npreencham correta e respectivamente cada uma \ndas lacunas das sentenças apresentadas.  \n(A) por que; por que; porque.  \n(B) porquê; por que; porque.  \n(C) porquê; porquê; por que.  \n(D) porque; por que; porquê.  \n(E) por quê; porque; porquê.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Em uma prova de natação, o nadador Pedro \ncompletou 10 voltas em uma piscina olímpica. \nCada volta tem 50 metros. Quantos metros \nPedro percorreu no total?",
+            "alternativas": {
+                "A": "250 metros",
+                "B": "500 metros",
+                "C": "750 metros",
+                "D": "1000 metros",
+                "E": "1250 metros"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Maria está planejando um piquenique para seus \namigos e precisa comprar refrigerante. No último \npiquenique, ela comprou 60 latas de refrigerante. \nEste ano, o número de convidados aumentou em \n20%. Quantas latas de refrigerante Maria precisa \ncomprar para o piquenique deste ano?",
+            "alternativas": {
+                "A": "65",
+                "B": "70",
+                "C": "72",
+                "D": "75",
+                "E": "Nenhuma das alternativas  \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 7 de 10 QUESTÃO 23  \nMaria está colocando carpete em seu quarto. O \nquarto tem formato retangular, com 4 metros de \ncomprimento e 5 metros de largura. Qual é a área \ntotal do quarto?  \n(A) 16 metros quadrados  \n(B) 18 metros quadrados  \n(C) 20 metros quadrados  \n(D) 22 metros quadrados  \n(E) 24 metros quadrados"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Em uma loja de música incomum, os CDs são \norganizados de forma peculiar: \"Rock\", \"Jazz\", \n\"Clássica\", \"Rock\", \"Jazz\"... Qual é o próximo \ngênero musical que o vendedor colocará após \n\"Clássica\"?",
+            "alternativas": {
+                "A": "Rock",
+                "B": "Jazz",
+                "C": "Pop",
+                "D": "Clássica",
+                "E": "Eletrônica"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Assinale a alternativa que apresenta o \nquinquagésimo terceiro número par antecessor \nde 400.",
+            "alternativas": {
+                "A": "346",
+                "B": "348",
+                "C": "292",
+                "D": "294",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Um grupo de voluntários está montando kits de \nalimentos para distribuição em uma comunidade \ncarente. Eles conseguem montar 20 kits em 30 \nminutos. Se continuarem nesse ritmo, quantos \nkits de alimentos eles terão montado após 60 \nminutos?",
+            "alternativas": {
+                "A": "02 kits",
+                "B": "40 kits",
+                "C": "50 kits",
+                "D": "60 kits",
+                "E": "Nenhuma das alternativas  \n QUESTÃO 27  \nPedro está reformando o piso de seu quintal e \nprecisa calcular a área de um retângulo para \ncomprar a quantidade certa de azulejos. O \ncomprimento do quintal é 10 metros e a largura é \n4 metros. Qual é a área total do quintal?  \n(A) 12 metros quadrados  \n(B) 24 metros quadrados  \n(C) 36 metros quadrados  \n(D) 40 metros quadrados  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Um empresário decidiu fazer doações para três \ninstituições de caridade. Ele separou R$ 2.000,00 \npara essa finalidade. Se ele pretende doar 30% do \ntotal para a primeira instituição, 25% para a \nsegunda e o restante para a terceira, quanto cada \ninstituição re ceberá?",
+            "alternativas": {
+                "A": "R$ 800,00, R$ 550,00, R$ 650,00",
+                "B": "R$ 650,00, R$ 450,00, R$ 900,00",
+                "C": "R$ 700,00, R$ 550,00, R$ 750,00",
+                "D": "R$ 750,00, R$ 600,00, R$ 650,00",
+                "E": "R$ 600,00, R$ 500,00, R$ 900,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Assinale a alternativa que apresenta o  \nseptuagésimo nono número ímpar antecessor de \n507?",
+            "alternativas": {
+                "A": "427",
+                "B": "425",
+                "C": "345",
+                "D": "347",
+                "E": "349"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Um fazendeiro possui um pomar de maçãs que \nocupa 5 hectares. Se ele consegue colher 500 kg \nde maçãs por hectare, quantos quilogramas de \nmaçãs ele poderá colher no total?",
+            "alternativas": {
+                "A": "2.000 kg",
+                "B": "2.500 kg",
+                "C": "2.800 kg",
+                "D": "3.000 kg",
+                "E": "Nenhuma das alternativas  Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 8 de 10 QUESTÃO 31  \nUm grupo de pesquisadores realizou um estudo \nsobre o consumo de café. Eles entrevistaram 150 \npessoas e descobriram que 80% delas consomem \ncafé diariamente. Quantas pessoas entrevistadas \nconsomem café diariamente?  \n \n(A) 90 pessoas  \n(B) 100 pessoas  \n(C) 110 pessoas  \n(D) 120 pessoas  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Gabriel gastou parte de seu salário em três \ncategorias diferentes:  \n \n• 30% em transporte  \n• 20% em educação  \n• 10% em saúde  \n \nSe a despesa total foi de R$ 600,00, qual é o \nsalário mensal de Gabriel?",
+            "alternativas": {
+                "A": "R$ 1.000,00",
+                "B": "R$ 1.200,00",
+                "C": "R$ 1.500,00",
+                "D": "R$ 2.000,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Um agricultor colhe 30 melancias por dia em sua \nfazenda. Se ele trabalha 5 dias por semana, \nquantas melancias ele colherá em 4 semanas?",
+            "alternativas": {
+                "A": "150 melancias",
+                "B": "120 melancias",
+                "C": "900 melancias",
+                "D": "600 melancias",
+                "E": "Nenhuma das alternativas  \n \n \n \n QUESTÃO 34  \nPedro está organizando uma festa e comprou \nrefrigerantes para os convidados. Ele adquiriu 6 \npacotes de refrigerantes, cada um contendo 12 \nlatas. Seu plano é utilizar metade dessas latas \npara os convidados adultos  e a outra metade para \nos convidados infantis . No entanto, após já ter \nutilizado 23 latas para os convidados infantis, \nPedro quer saber quantas latas ainda restam para \nserem utilizadas especificamente para os \nconvidados infantis.  \n \n(A) 12 latas  \n(B) 13 latas  \n(C) 24 latas  \n(D) 49 latas  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Um pacote de açúcar tem 12 kg. Se uma receita \nde bolo requer 250 gramas de açúcar, quantas \nvezes podemos fazer essa receita com um único \npacote?",
+            "alternativas": {
+                "A": "12 vezes",
+                "B": "16 vezes",
+                "C": "32 vezes",
+                "D": "48 vezes",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Um grupo de pesquisadores realizou um estudo \nsobre o hábito de leitura. Eles entrevistaram 250 \npessoas e descobriram que 70% delas leem pelo \nmenos um livro por mês. Quantas pessoas \nentrevistadas leem pelo menos um livro por mês?",
+            "alternativas": {
+                "A": "150 pessoas",
+                "B": "175 pessoas",
+                "C": "200 pessoas",
+                "D": "225 pessoas",
+                "E": "Nenhuma das alternativas  \n \n \n \n \n \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 9 de 10 QUESTÃO 37  \nEm uma competição de natação, Ana ganhou \n75% de suas provas. Sabendo que ela venceu 9 \nprovas, qual é o número total de provas que Ana \ndisputou na competição?  \n \n(A) 12  \n(B) 10  \n(C) 08  \n(D) 20  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Uma loja de sorvetes utiliza 1,5 litros de calda \npor dia em suas produções. Se ela funciona \ndurante 5 dias por semana, quantos litros de calda \na loja utilizará em 4 semanas?",
+            "alternativas": {
+                "A": "18 litros",
+                "B": "22,5 litros",
+                "C": "30 litros",
+                "D": "45 litros",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Em uma loja de roupas, Pedro comprou um terno, \npagando 60% do preço como entrada e \nparcelando o restante, sem acréscimos, em quatro \nparcelas de R$ 150,00 cada uma. Se o valor total \ndo terno foi de R$ 1.500,00, qual foi o valor pago \ncomo entrada?",
+            "alternativas": {
+                "A": "R$ 700,00",
+                "B": "R$ 800,00",
+                "C": "R$ 900,00",
+                "D": "R$ 1.000,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE LIMPEZA URBANA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Uma empresa possui 10 salas de escritório. Cada \nsala possui 20 funcionários e cada funcionário \ntem 2 computadores. Qual é a quantidade total de \ncomputadores nessa empresa?",
+            "alternativas": {
+                "A": "400 computadores",
+                "B": "300 computadores",
+                "C": "200 computadores",
+                "D": "100 computadores",
+                "E": "50 computadores   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE LIMPEZA URBANA                                                                                                            Página 10 de 10"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

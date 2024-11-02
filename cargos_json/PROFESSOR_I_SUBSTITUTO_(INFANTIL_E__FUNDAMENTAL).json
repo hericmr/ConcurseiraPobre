@@ -1,3 +1,928 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51dfcc9bcbb06dc1b135459e3c53008d1e163098a8ae61f39d45b15ecf3e9bae
-size 89936
+{
+    "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)": [
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Com o final da narrativa, conclui -se que o \npersonagem que toma a iniciativa de telefonar \npara a pessoa com quem havia se desentendido:",
+            "alternativas": {
+                "A": "mantém -se resoluto ao determinar que se \naproximará das pessoas no Ano -Novo.",
+                "B": "não consegue pôr em prática seu projeto \npara o fim do milênio.",
+                "C": "superou o motivo do desentendimento por \ncompleto.",
+                "D": "não estava de fato enternecido pelas \nenxaquecas de Vivinha.",
+                "E": "é consentâneo ao alinhar seu projeto de \nAno-Novo e sua decisão final sobre tal \ndesafeto."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Em “— A vida é muito curta. Você está me \nentendendo? Assim não dá.” , a palavra \n“assim”  é empregada como um recurso \ncoesivo. O elemento do texto a que se refere tal \npalavra é:",
+            "alternativas": {
+                "A": "a vida, por ser muito curta.",
+                "B": "o outro personagem, com quem o \ninterlocutor estava brigado.",
+                "C": "a própria situação, que, para o interlocutor, \nnão deveria continuar da forma como estava.",
+                "D": "as enxaquecas de Vivinha, que persistiam.",
+                "E": "o telefonema, do qual o interlocutor se \narrepende logo depois.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 3 de 13 QUESTÃO 03 \nA palavra “enternecido” , que ocorre no excerto \n“Estava tão enternecido com as enxaquecas da \nVivinha que mal podia falar.” , exprime o \ncontrário de:  \n(A) compadecido.  \n(B) apático.  \n(C) preocupado.  \n(D) condoído.  \n(E) empático."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A transposição do excerto “ — Eu nem me \nlembro mais por que nós brigamos. Juro que \nnão lembro.”, que está em discurso direto, para \ndiscurso indireto resultaria em:",
+            "alternativas": {
+                "A": "Ele disse que nem se lembrava mais por que \neles brigaram, e que jura que não se lembra.",
+                "B": "Ele disse que nem se lembra mais por que \neles brigavam. Jura que não se lembra.",
+                "C": "Ele disse que nem se lembra mais por que \neles brigaram. Jurava que não lembrava.",
+                "D": "Ele disse que nem se lembrava mais por que \neles tinham brigado, e que jurava que não se \nlembrava.",
+                "E": "Ele disse que nem se lembra mais por que \neles brigam. Jura que não lembra."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Analise as sentenças a seguir, retiradas do texto:  \nI. Eu nem me lembro mais por que nós \nbrigamos.   \nII. Juro que não lembro.  \nIII. Tinha se lembrado da bobagem que \nmotivara a briga.  \nNas sentenças dadas, a palavra “que”  ocorre \ncomo pronome relativo apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  \n  \nConsidere o excerto a seguir, retirado da \npágina Wikipedia sobre cães, para \nresponder às questões 6 e 7: \n \n“O cão, no Brasil também chamado de \ncachorro , é um mamífero carnívoro  da família \ndos canídeos, subespécie  do lobo, e talvez  o \nmais antigo animal  domesticado pelo ser \nhumano .”"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Dentre as palavras em destaque, que ocorrem \nno excerto indicado, são trissílabas apenas:",
+            "alternativas": {
+                "A": "cachorro; subespécie; animal.",
+                "B": "cachorro; animal; humano.",
+                "C": "subespécie; animal; humano.",
+                "D": "cachorro; subespécie; animal; humano.",
+                "E": "subespécie; talvez; animal; humano."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Dentre as palavras a seguir, em destaque no \nexcerto indicado, classifica -se como oxítona \napenas:",
+            "alternativas": {
+                "A": "cachorro.",
+                "B": "carnívoro.",
+                "C": "subespécie.",
+                "D": "animal.",
+                "E": "humano."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as palavras a seguir quanto ao emprego \ndo hífen e assinale a alternativa em que se \nverifica o uso correto desse sinal gráfico.",
+            "alternativas": {
+                "A": "manda -chuva.",
+                "B": "mal-de-Chagas.",
+                "C": "meio -dia.",
+                "D": "semi -novo.",
+                "E": "dona -encrenca.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 4 de 13 QUESTÃO 09 \nAnalise as sentenças a seguir quanto ao \nemprego das expressões “porque” , “por que” ,  \n“por quê” e “porquê” . Assinale a alternativa \nem que não ocorre desvio quanto ao uso dessas \nexpressões.   \n(A) Entendo perfeitamente porque ele me trata \nassim.   \n(B) O motivo por que não fui à festa de \naniversário foi a chuva forte de ontem.  \n(C) Somos amigas; não há porque agradecer.  \n(D) Gostaria de saber o por quê não atende às \nminhas ligações.   \n(E) Ela reagiu daquela forma por que está \ncansada de tanta humilhação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: 0 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica voz verbal \npassiva analítica.",
+            "alternativas": {
+                "A": "Recuperaram -se artefatos anteriores à \nRevolução Industrial.",
+                "B": "A mãe da aluna foi orientada pela direção \ndo colégio a buscar ajuda psicológica.",
+                "C": "Ana fez um relatório sobre os gastos \nmensais do escritório.",
+                "D": "A equipe realizou o resgate dos animais \nabandonados na sexta -feira.",
+                "E": "Realizaram -se coletas de dados de \nmoradores em todos os bairros do município.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Sabe -se que 50% das questões de uma \ndeterminada prova de vestibular são referentes \nao conteúdo de português, 25% são de \nmatemática e os outros 25% são de inglês. Um \ncandidato acertou 80% da prova de português, \n70% da prova de matemática, e 60% da prova \nde inglês. Quantos por cento das questões totais \ndo exame o candidato acertou?",
+            "alternativas": {
+                "A": "75,5%.",
+                "B": "72,5%.",
+                "C": "70,5%.",
+                "D": "79,0%.",
+                "E": "71,0%.  \n QUESTÃO 12 \nA média aritmética simples das idades dos 10 \nalunos de uma turma é 25 anos. Se excluirmos \no mais velho e o mais novo da turma, a nova \nmédia continua sendo 25 anos. Sabendo -se que \na diferença entre as idades do mais velho e do \nmais novo é 10 anos, qual a idad e do mais \nnovo?  \n(A) 12 anos.  \n(B) 10 anos.  \n(C) 15 anos.  \n(D) 20 anos.  \n(E) 18 anos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: A figura abaixo mostra um gráfico da vazão de \numa torneira em litros por hora ao longo do \ntempo:  \nAnalisando o gráfico, qual o volume total \ndespejado no período das 12:00 às 18:00, em \nlitros?",
+            "alternativas": {
+                "A": "320.",
+                "B": "280.",
+                "C": "340.",
+                "D": "360.",
+                "E": "380."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Uma máquina perfuratriz é utilizada para fazer \num furo no solo para que geólogos possam \nestudar sua composição. Suponha que a \nmáquina consiga perfurar uma rocha numa \nvelocidade de 0,15 mm por segundo. Quanto \ntempo levará para que a máquina perfure 81 \nmetros dessa rocha?",
+            "alternativas": {
+                "A": "15 horas.",
+                "B": "150 horas.",
+                "C": "170 horas.",
+                "D": "180 horas.",
+                "E": "1500 horas.  \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 5 de 13 QUESTÃO 15 \nUm determinado retângulo tem razão entre seus \nlados de 7/2, e seu perímetro é 27 cm. Indique \na sua área, em centímetros quadrados:  \n(A) 10,5.  \n(B) 15,0.  \n(C) 17,5.  \n(D) 30,0.  \n(E) 31,5."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Cada um dos cientistas Alberto, Breno, Carlos \ne Damásio, visitou um estado diferente da \nregião Norte do país. Eles visitaram Amapá, \nRoraima, Rondônia e Tocantins, não \nnecessariamente nesta ordem. Sabe -se que:  \nI – Alberto viajou para o Amapá;  \nII – Breno não viajou para Rondônia;  \nIII – Carlos e Damásio não viajaram para \nRoraima;  \nIV – Carlos não viajou para o Tocantins;  \nCom base nas afirmativas, podemos concluir \nque:",
+            "alternativas": {
+                "A": "Damásio viajou para o Amapá.",
+                "B": "Breno viajou para o Tocantins.",
+                "C": "Carlos viajou para o Amapá.",
+                "D": "Breno viajou para Roraima.",
+                "E": "Damásio viajou para Rondônia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Numa determinada região, os meteorologistas \ntêm observado que a cada ano, chove -se 6 horas \na menos durante o ano comparado ao ano \nanterior. Se no ano de 2023 choveu 101 dias \ncompletos nessa região, em que ano não \nchoverá nenhum dia, se a previsão dos \nmeteorologistas se mantiver?",
+            "alternativas": {
+                "A": "2426.",
+                "B": "2427.",
+                "C": "2428.",
+                "D": "2332.",
+                "E": "2665.  \n QUESTÃO 18 \nObserve a seguinte sequência figural:  \nDe acordo com as correspondências abaixo, \nindique o elemento que deve ocupar o lugar da \nlacuna:  \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Duas aplicações a juro simples, com o mesmo \ncapital inicial de R$ 10.000,00 foram aplicadas \nno mesmo dia. Após 6 meses, a diferença do \njuro recebido entre as duas aplicações é R$ \n600,00. Neste caso, qual a diferença entre a \nmaior e a menor taxa de juro das duas  \naplicações?",
+            "alternativas": {
+                "A": "1,0%.",
+                "B": "1,5%.",
+                "C": "2,0%.",
+                "D": "2,5%.",
+                "E": "3,0%."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Pentágono, Heptágono e Eneágono são \npolígonos regulares que têm o número de lados \nrespectivamente igual a:",
+            "alternativas": {
+                "A": "6, 7, 11.",
+                "B": "5, 7, 11.",
+                "C": "6, 9, 7.",
+                "D": "5, 9, 7.",
+                "E": "5, 7, 9.  \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 6 de 13 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Ao digitar uma redação no Microsoft Word \n2016 e clicar na tecla de atalho Ctrl+E, o \nresultado será:",
+            "alternativas": {
+                "A": "A exclusão da última palavra digitada.",
+                "B": "A centralização da última linha digitada.",
+                "C": "A seleção da última linha digitada.",
+                "D": "A correção do texto já desenvolvido.",
+                "E": "A leitura em voz alta do texto já redigido."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: No Microsoft Excel 2016 a Função SE  é uma \ndas funções mais populares do Excel e permite \nque o usuário:",
+            "alternativas": {
+                "A": "Faça multiplicações simultâneas entre \nvárias células da tabela.",
+                "B": "Faça divisões simultâneas entre várias \ncélulas da tabela.",
+                "C": "Faça seleção de cor sobre valores \nduplicados nas tabelas.",
+                "D": "Faça comparações lógicas entre um valor e \naquilo que se espera.",
+                "E": "Faça a exclusão de dados duplicados das \ntabelas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Para localizar conteúdo em uma tabela ou um \nintervalo por linha utilizando o Microsoft Excel \n2016, o responsável pela extração dos dados \npode usar a função:",
+            "alternativas": {
+                "A": "SOMASE",
+                "B": "PROCV",
+                "C": "SES",
+                "D": "DATINT",
+                "E": "DATFUT"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: No Microsoft Excel 2016, a opção para inserir \ngráficos está acessível na guia:",
+            "alternativas": {
+                "A": "Inserir.",
+                "B": "Fórmulas.",
+                "C": "Correspondência.",
+                "D": "Ilustrações.",
+                "E": "Dados.  QUESTÃO 25 \nUtilizando o Microsoft Excel 2016 e acionando \nas teclas de atalho Ctrl+W o resultado será:  \n \n(A) Tornar a célula de trabalho em negrito.  \n(B) Limpar todos os dados inseridos na pasta de \ntrabalho.  \n(C) Remover o conteúdo da célula.  \n(D) Fechar a pasta de trabalho do Excel.  \n(E) Adicionar bordas na tabela.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Ao analisar o pensamento e a linguagem, a \npartir das reflexões de Piaget, observa -se que a \n“linguagem só se transforma, pois, em \npensamento, na medida em que este se encontra \napto a se deixar transformar”. Nesse contexto, \nsão verdadeiras as afirmativas, excet o:",
+            "alternativas": {
+                "A": "Não é na vida social em bloco que se \nencontram as explicações sobre a linguagem.",
+                "B": "É no conjunto das relações sociais que \nafetam cada indivíduo à sua maneira que se \nencontram as explicações sobre a linguagem.",
+                "C": "Os diferentes tipos de interação (pressão, \ncooperação, imitação, discussão etc.) exercem \ninfluência direta na construção da linguagem e \nem sua transformação em pensamento.",
+                "D": "A sociedade é constituída por um sistema \nde relações.",
+                "E": "Compete à Educação distinguir essas \nrelações e analisar separadamente os seus \nefeitos respectivos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: De acordo com a interpretação de Vygotsky, o \nestudo sobre o pensamento e a linguagem passa \npela compreensão acerca do egocentrismo \ninfantil que representa a forma transitória de \npensamento que caracteriza essa fase do \nprocesso de desenvolvimento do indivíd uo. \nNesse sentido, como é conhecida a forma \nprimária de pensamento que obedeceria às \nnecessidades orgânicas da criança?",
+            "alternativas": {
+                "A": "Pensamento autístico",
+                "B": "Pensamento lógico",
+                "C": "Pensamento socializado",
+                "D": "Pensamento rudimentar",
+                "E": "Pensamento prático  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 7 de 13 QUESTÃO 28  \nDestaque, dentre as variáveis a seguir, de \nacordo com a teoria piagetiana sobre o \npensamento infantil, a alternativa que \ncorresponde ao elo de todas as características \nespecíficas da lógica das crianças.  \n(A) Egocentrismo  \n(B) Sincretismo  \n(C) Realismo intelectual  \n(D) Dificuldade de compreender as relações  \n(E) Imaturidade cognitiva"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Tomando por parâmetro a relação existente \nentre ludicidade, alfabetização e letramento, é \nincorreta a afirmativa:",
+            "alternativas": {
+                "A": "Por meio de materiais, brinquedos e \nbrincadeiras, o educador tem condições de \ninteragir com a realidade histórico -cultural, \nelencando os fatores auxiliares no processo de \nalfabetização e letramento.",
+                "B": "No reconhecimento da importância da \nludicidade no processo alfabetizador, cabe ao \neducador instituir conceitos integralizados às \nbrincadeiras, aos gêneros, aos comportamentos \nou dimensões.",
+                "C": "As explicações psicológicas sobre as \nbrincadeiras das crianças é um campo cheio de \ncontrovérsias.",
+                "D": "Para as crianças, as brincadeiras não \nrepresentam um momento de descontração.",
+                "E": "Nas brincadeiras, as crianças estão expostas \na diversas formas de instruções e têm a \npossibilidade de aprender a segui -las, como \ntambém de formular novas instruções."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Alfabetização e letramento são dois conceitos \nque merecem atenção e análise, no intuito de \nserem trabalhados efetivamente no contexto \neducacional. Na literatura, observa -se uma \nvisão unânime que ratifica a necessidade de \nalfabetizar letrando. De uma maneir a simples, \npara alfabetizar letrando é preciso que a escrita \nalfabética seja reconhecida como um:",
+            "alternativas": {
+                "A": "objeto de conhecimento",
+                "B": "código",
+                "C": "sistema de codificação/decodificação",
+                "D": "sistema convencional",
+                "E": "objeto de ensino assistemático  QUESTÃO 31  \nEm sala de aula, é importante trabalhar os mais \nvariados gêneros textuais, no intuito de facilitar \ntanto o processo de leitura quanto a produção \ntextual pelos alunos. Ao trabalhar, por exemplo, \ncom o jornal impresso ou digital, o professor \nconsegue extrair os mais variados exemplos de \ngêneros textuais. Nesse contexto, destaque a \nseguir o tipo de gênero textual que pode ser \ntrabalhado com esses elementos: obituário, \nroteiro, indicadores e campanhas:  \n \n(A) De informação  \n(B) De utilidade pública  \n(C) De opinião  \n(D) De propaganda  \n(E) De ilustração"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Ao estudar o processo histórico da escrita, \ndestaca -se a importância da escrita cuneiforme. \nLeia os enunciados a seguir e destaque a \nalternativa que traz uma das características \ndesse tipo de escrita.",
+            "alternativas": {
+                "A": "A escrita cuneiforme ficou conhecida como \n“escrita sagrada”.",
+                "B": "A escrita cuneiforme foi decifrada no \nséculo XVIII.",
+                "C": "O nome cuneiforme é uma derivação de \nóstraco (fragmento de cerâmica).",
+                "D": "A escrita cuneiforme era a escrita do dia a \ndia dos mesopotâmios, mais rápida e de \ndesenho mais livre e veio a ser a escrita dos \nsacerdotes.",
+                "E": "Com a escrita cuneiforme, a literatura teve \ninício, os textos literários mais antigos do \nmundo apareceram em tabuletas sumerianas.  \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 8 de 13 QUESTÃO 33  \nAlgumas reflexões foram propostas a seguir no \nintuito de abordar certos aspectos que \ncaracterizam a resolução de problemas como \nprática pedagógica para a Educação Infantil. \nLeia atentamente cada enunciado e destaque \naquele que traz um termo que altera seu \ncontexto, tornando -o incorreto.  \n \n(A) A Resolução de Problemas (RP) reflete \nimplicações estritamente práticas do fazer \nmatemático, apresentando -se como uma \ntendência metodológica de grande \naplicabilidade para a Educação Matemática.  \n(B) A RP possui relevância desde as primeiras \ncivilizações, ainda que naquele momento não \nhouvesse quaisquer relações com a proposta \nmetodológica do ensino matemático que se \nconhece.  \n(C) A RP não se pauta apenas na seleção e \nresolução de problemas.  \n(D) A RP, no ensino de Matemática na \nEducação Infantil, oportuniza às crianças o \ncontato com a cultura de vencer obstáculos e \nresolver situações.  \n(E) O trabalho desenvolvido na Educação \nInfantil além de trabalhar as explorações \nMatemáticas deve proporcionar às crianças o \ncontato com a RP que, com a mediação do \nprofessor, corroborará para a construção de \nnovos saberes."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Ao estabelecer um comparativo entre \nproblemas e exercícios, observa -se alguns \naspectos que os diferenciam. Nesse sentido, os \nproblemas podem ser caracterizados pelos \natributos descritos a seguir, salvo:",
+            "alternativas": {
+                "A": "Originalidade.",
+                "B": "Relação com a realidade.",
+                "C": "Análises que indicam as respostas.",
+                "D": "Distanciamento da artificialidade.",
+                "E": "Proposição de desafios.  \n QUESTÃO 35  \nSobre os Referenciais Curriculares Nacionais \npara a Educação Infantil, são verdadeiras as \nseguintes asserções, salvo:  \n(A) É uma proposta aberta, flexível e \nobrigatória que visa subsidiar os sistemas \neducacionais em prol de implementação de \nprogramas e currículos mais condizentes com \nas necessidades dos educandos.  \n(B) Os referenciais são pautados nas realidades \ne singularidades que caracterizam a sociedade \nbrasileira.  \n(C) Os refer encias não têm o intuito de prover \nsoluções para os problemas complexos da \nEducação Infantil brasileira.  \n(D) Os refer encias visam contribuir para a \nbusca da qualidade do atendimento envolvendo \n“n” questões, das mais variadas naturezas, ou \nseja, de ordem prática, legal, pública, \neconômica etc.  \n(E) Ao analisar os princípios que as crianças \ntêm direito, observa -se que, antes de tudo, elas \ntêm direito de viver experiências prazerosas nas \ninstituições."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: De acordo com o Referencial Curricular \nNacional para a Educação Infantil, “educar \nsignifica, portanto, propiciar situações de \ncuidados, brincadeiras e aprendizagens \norientadas de forma integrada e que possam \ncontribuir para o desenvolvimento das \ncapacidade s infantis de relação interpessoal, de \nser e estar com os outros em uma atitude básica \nde aceitação, respeito e confiança, e o acesso, \npelas crianças, aos conhecimentos mais amplos \nda realidade social e cultural”. Ainda, em \nconformidade com o mesmo documen to, a \neducação pode contribuir para a formação de \ncrianças felizes e saudáveis, corroborando para \no desenvolvimento das capacidades de \napropriação e conhecimento de certas \npotencialidades, como a descrita em qual \nalternativa?",
+            "alternativas": {
+                "A": "cognitivas",
+                "B": "intelectuais",
+                "C": "sensório -motoras",
+                "D": "éticas",
+                "E": "sensoriais  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 9 de 13 QUESTÃO 37  \nNos Parâmetros Curriculares Nacionais, a \nopção do termo “área” no Ensino Fundamental, \né justificada em função de que um tratamento \ndisciplinar, entendido como \npreponderantemente lógico e formal, distancia -\nse das possibilidades de aprendizagem da \ngrande mai oria dos alunos. Além disso, parte -\nse de abordagens mais amplas em direção às \nmais específicas e particulares. O tratamento \ndos conteúdos deve integrar conhecimentos de \ndiferentes disciplinas, que contribuem para a \nconstrução de instrumentos de compreensão  e \nintervenção na realidade em que vivem os \nalunos. As áreas de conhecimento abordadas \nnos Parâmetros Curriculares Nacionais são \nLíngua Portuguesa, Matemática, História, \nGeografia, Ciências Naturais, Educação Física, \nArte e Língua Estrangeira (BRASIL, 1998 ). \n \nAo analisar as áreas de conhecimento \nanteriormente descritas, qual a dimensão que é \nevidenciada em todas elas, em prol da \nconstrução da cidadania?  \n \n(A) Dimensão pedagógica  \n(B) Dimensão política  \n(C) Dimensão sociocrítica  \n(D) Dimensão social  \n(E) Dimensão ética  \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 38  \nPor meio dos Parâmetros Curriculares \nNacionais de Matemática, observa -se que \nalguns propósitos são definidos, objetivando \nassegurar o seu cumprimento. Leia as asserções \nseguintes e assinale a que não representa \nfielmente uma das ações definidas pelo referido \ndocumento no intuito de garantir o \ncumprimento dos propósitos estabelecidos.  \n \n(A) Recomendam o uso de calculadoras nas \naulas de Matemática.  \n(B) Incorporam o estudo dos recursos \nestatísticos que constitui um bloco de conteúdo \ndenominado Tratamento de Informação.  \n(C) Estudo dos números e operações – \nprivilegia -se o desenvolvimento do sentido \nnumérico e a compreensão de diferentes \nsignificados das operações.  \n(D) Álgebra – privilegia -se o desenvolvimento \ndo pensamento algébrico.  \n(E) Enfatizam a importância do pensamento \ncrítico e analítico e oferecem sugestões de \ncomo trabalhar com explicações, \nargumentações e demonstrações."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Os Parâmetros Curriculares Nacionais de \nGeografia são fundamentados numa abordagem \nteórica e metodológica que procura contemplar \nos principais avanços que ocorreram no interior \ndessa disciplina. Entre tais avanços, o referido \ndocumento destaca as contribuições dadas por \numa determinada orientação no surgimento de \nnovas correntes teóricas do pensamento \ngeográfico, assinale -a:",
+            "alternativas": {
+                "A": "Fenomenologia ou Geografia humanística",
+                "B": "Determinismo geográfico",
+                "C": "Possibilismo geográfico",
+                "D": "Geografia teorética",
+                "E": "Geografia crítica  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 10 de 13 QUESTÃO 40  \nTomando como parâmetro as Diretrizes \nCurriculares Nacionais, é possível compreender \nos direitos de aprendizagem e desenvolvimento \npara a Educação Infantil. Um desses direitos \nassinala uma ação que deve ser trabalhada \n“cotidianamente de diversas formas, em \ndiferentes espaços e tempos, com diferentes \nparceiros (crianças e adultos), ampliando e \ndiversificando seu acesso a produções culturais, \nseus conhecimentos, sua imaginação, sua \ncriatividade, suas experiências emocionais, \ncorporais, sensoriais, expressivas,  cognitivas, \nsociais e relacionais”. Que ação é essa?  \n(A) Conviver  \n(B) Brincar  \n(C) Participar  \n(D) Explorar  \n(E) Expressar"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: “O Estatuto da Criança e do Adolescente \n(ECA), sancionado em 13 de julho de 1990, é o \nprincipal instrumento normativo do Brasil \nsobre os direitos da criança e do adolescente. O \nECA incorporou os avanços preconizados na \nConvenção sobre os Direitos da Crianç a das \nNações Unidas e trouxe o caminho para se \nconcretizar o Artigo 227 da Constituição \nFederal, que determinou direitos e garantias \nfundamentais a crianças e adolescentes” \n(BRASIL, 2022).  \nNa interpretação da referida lei, apresentada em \nseu artigo 6º, destacam -se os aspectos que \ndeverão ser levados em conta. Um desses \naspectos foi descrito em uma das alternativas a \nseguir, assinale -o:",
+            "alternativas": {
+                "A": "Fins democráticos a que ela se dirige.",
+                "B": "Exigências do bem comum.",
+                "C": "Direitos humanos.",
+                "D": "Deveres legais.",
+                "E": "Condição peculiar da criança e do \nadolescente com indivíduo incapaz de assumir \nas responsabilidades por seus atos.  QUESTÃO 42  \nDe acordo com o Capítulo IV do Estatuto da \nCriança e do Adolescente, o acesso ao ensino \nobrigatório e gratuito é caracterizado por um \nforma de direito que tem os seguintes atributos: \n“direito público que põe o seu titular em \nsituação dotada de determinadas  faculdades \njurídicas que são garantidas por meio de \nnormas”. Como é reconhecido esse tipo de \ndireito?  \n(A) Direito jurídico  \n(B) Direito subjetivo  \n(C) Direito civil  \n(D) Direito social  \n(E) Direito constitucional"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Em 2015, foi aprovada a Lei Brasileira de \nInclusão da Pessoa com Deficiência (Estatuto \nda Pessoa com Deficiência). De acordo com a \nreferida lei, o poder público deverá assegurar, \ncriar, desenvolver, implementar, incentivar, \nacompanhar e avaliar a adoção de  medidas de \napoio que favoreçam o desenvolvimento dos \naspectos linguísticos, culturais, vocacionais e \nprofissionais do estudante com deficiência, \nlevando -se em conta vários aspectos, como por \nexemplo, o descrito em qual alternativa?",
+            "alternativas": {
+                "A": "Talento",
+                "B": "Limitação",
+                "C": "Curiosidade",
+                "D": "Familiaridade",
+                "E": "Facilidade"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: De acordo com a LDB, o Conselho Escolar, \nórgão deliberativo, possui um membro nato, \nqual é ele?",
+            "alternativas": {
+                "A": "Diretor da Escola",
+                "B": "Professores",
+                "C": "Orientadores educacionais",
+                "D": "Supervisores escolares",
+                "E": "Administradores escolares  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 11 de 13 QUESTÃO 45  \nA III Seção da LDB, em seu parágrafo único, \nafirma que o fechamento de escolas do campo, \nindígenas e quilombolas será precedido de \nmanifestação do órgão normativo do respectivo \nsistema de ensino, que considerará alguns \ncritérios, como o destacado em qual \nalternativa?  \n(A) Justificativa do Ministério da Educação.  \n(B) Análise das contas públicas da região em \nque se encontra a escola a ser fechada.  \n(C) Informações do Censo Escolar.  \n(D) Análise do diagnóstico do impacto da ação.  \n(E) Análise do número de vagas versus \nquantidade de alunos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31: Para analisar algumas das variáveis que \ncaracterizam os ciclos de aprendizagem, foram \npropostos os enunciados a seguir. Destaque a \nalternativa que foi mal elaborada, ou seja, que \npossui um aspecto incorreto.",
+            "alternativas": {
+                "A": "A abordagem do ciclo de políticas, \nformulada pelo sociólogo Stephen J. Ball, \ncorroborou para a estruturação do Projeto \nCiclos de Aprendizagem.",
+                "B": "Um dos conceitos que ofereceu suporte \nteórico para a formação e desenvolvimento do \ndiscurso da organização da escolaridade em \nciclos no Brasil foi a recontextualização do \ndiscurso. De acordo com a Teoria da \nRecontextualização do Discurso, observa -se \nque a base linguística nos processos discursivos \nnão é negada, porém as relações de poder são \nconsideradas na produção e reprodução do \ndiscurso.",
+                "C": "Desde a década de 1980, observam -se \nvárias iniciativas voltadas para a reorganização \ne melhorias do Ensino Fundamental no Brasil.",
+                "D": "A organização da escolaridade em ciclos \nobjetiva tornar o sistema de ensino mais seriado \ne, nesse sentido, contribui para tornar a \neducação menos seletiva e excludente.",
+                "E": "No Brasil, a “Escola em Ciclos” teve início \nno Estado de São Paulo, no ano de 1984.  QUESTÃO 47  \nDestaque a seguir um tipo de percepção que é \natribuída de forma equivoca ao emprego dos \naspectos lúdicos no contexto educacional.  \n \n(A) Utilitarista  \n(B) Informativa  \n(C) Interativa  \n(D) Experimental  \n(E) Socializadora"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32: Qual das asserções a seguir não pode ser \nconsiderada correta em sua completude?",
+            "alternativas": {
+                "A": "A avaliação qualitativa tem características \nespecíficas que possibilitam diferenciá -la \nefetivamente da avaliação quantitativa.",
+                "B": "A avaliação, por si só, não é responsável \npela resolução de problemas.",
+                "C": "Por avaliação, entende -se o processo de \ninvestigação da qualidade de alguma coisa, \nproduto, pessoa ou situação, possibilitando a \nbase para atos regulatórios.",
+                "D": "A avaliação, tanto em sua forma intuitiva \nquanto em sua forma com rigor metodológico, \ntem o papel de subsidiar o sujeito da ação em \nseus atos criativos e construtivos.",
+                "E": "A avaliação exige um rigor metodológico \nque garanta sua validade, logo não pode se \npautar estritamente na subjetividade.  \n \n \n \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 12 de 13 QUESTÃO 49  \nSobre o paradigma da integração, é falsa a \nafirmativa:  \n(A) A ideia de integração tem estreita \nassociação com a utilização do conceito de \nnecessidades educativas especiais.  \n(B) A necessidade de integração advém dos \ndireitos dos alunos pautado no acesso à \neducação de forma não segregadora.  \n(C) Para promover a integração dos alunos com \nnecessidades educativas especiais, houve a \nnecessidade de promover mudanças na forma \nde organização da Educação Especial.  \n(D) Por meio da integração dos alunos com \nnecessidades educativas especiais, foram \ntrabalhados duas prescrições específicas: a \nexigência de educar todos os alunos na mesma \nescola e a necessidade de empreender uma \nreforma no conjunto do sistema educacional.  \n(E) Ao longo do paradigma da integração, \nsurgem instituições especializadas por tipo de \ndeficiência."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33: A emergência de novos paradigmas ratifica a \ndinamicidade do curso da história que contribui \npara o afloramento de novas linhas de ação para \nos modelos já consagrados, possibilitando \nampliar a zona de atuação em quaisquer áreas \nde conhecimento. No caso dos paradigmas na \neducação de alunos com deficiência, destaque a \nseguir o paradigma que é fundado na ideia de \nproteção, em que são criados ambientes \nespeciais para as pessoas com deficiência, \nseparando -as de suas famílias e da comunidade. \nCom esse modelo, as p essoas com deficiência \nsão colocadas e mantidas em ambientes onde se \nrealizam atividades e práticas consagradas \ncomo atendimentos especializados.",
+            "alternativas": {
+                "A": "Paradigma da institucionalização",
+                "B": "Paradigma de serviço",
+                "C": "Paradigma de suporte",
+                "D": "Paradigma de exclusão",
+                "E": "Paradigma de inclusão   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 13 de 13"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Com o final da narrativa, conclui -se que o \npersonagem que toma a iniciativa de telefonar \npara a pessoa com quem havia se desentendido:",
+            "alternativas": {
+                "A": "mantém -se resoluto ao determinar que se \naproximará das pessoas no Ano -Novo.",
+                "B": "não consegue pôr em prática seu projeto \npara o fim do milênio.",
+                "C": "superou o motivo do desentendimento por \ncompleto.",
+                "D": "não estava de fato enternecido pelas \nenxaquecas de Vivinha.",
+                "E": "é consentâneo ao alinhar seu projeto de \nAno-Novo e sua decisão final sobre tal \ndesafeto."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Em “— A vida é muito curta. Você está me \nentendendo? Assim não dá.” , a palavra \n“assim”  é empregada como um recurso \ncoesivo. O elemento do texto a que se refere tal \npalavra é:",
+            "alternativas": {
+                "A": "a vida, por ser muito curta.",
+                "B": "o outro personagem, com quem o \ninterlocutor estava brigado.",
+                "C": "a própria situação, que, para o interlocutor, \nnão deveria continuar da forma como estava.",
+                "D": "as enxaquecas de Vivinha, que persistiam.",
+                "E": "o telefonema, do qual o interlocutor se \narrepende logo depois.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 3 de 13 QUESTÃO 03 \nA palavra “enternecido” , que ocorre no excerto \n“Estava tão enternecido com as enxaquecas da \nVivinha que mal podia falar.” , exprime o \ncontrário de:  \n(A) compadecido.  \n(B) apático.  \n(C) preocupado.  \n(D) condoído.  \n(E) empático."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A transposição do excerto “ — Eu nem me \nlembro mais por que nós brigamos. Juro que \nnão lembro.”, que está em discurso direto, para \ndiscurso indireto resultaria em:",
+            "alternativas": {
+                "A": "Ele disse que nem se lembrava mais por que \neles brigaram, e que jura que não se lembra.",
+                "B": "Ele disse que nem se lembra mais por que \neles brigavam. Jura que não se lembra.",
+                "C": "Ele disse que nem se lembra mais por que \neles brigaram. Jurava que não lembrava.",
+                "D": "Ele disse que nem se lembrava mais por que \neles tinham brigado, e que jurava que não se \nlembrava.",
+                "E": "Ele disse que nem se lembra mais por que \neles brigam. Jura que não lembra."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Analise as sentenças a seguir, retiradas do texto:  \nI. Eu nem me lembro mais por que nós \nbrigamos.   \nII. Juro que não lembro.  \nIII. Tinha se lembrado da bobagem que \nmotivara a briga.  \nNas sentenças dadas, a palavra “que”  ocorre \ncomo pronome relativo apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  \n  \nConsidere o excerto a seguir, retirado da \npágina Wikipedia sobre cães, para \nresponder às questões 6 e 7: \n \n“O cão, no Brasil também chamado de \ncachorro , é um mamífero carnívoro  da família \ndos canídeos, subespécie  do lobo, e talvez  o \nmais antigo animal  domesticado pelo ser \nhumano .”"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Dentre as palavras em destaque, que ocorrem \nno excerto indicado, são trissílabas apenas:",
+            "alternativas": {
+                "A": "cachorro; subespécie; animal.",
+                "B": "cachorro; animal; humano.",
+                "C": "subespécie; animal; humano.",
+                "D": "cachorro; subespécie; animal; humano.",
+                "E": "subespécie; talvez; animal; humano."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Dentre as palavras a seguir, em destaque no \nexcerto indicado, classifica -se como oxítona \napenas:",
+            "alternativas": {
+                "A": "cachorro.",
+                "B": "carnívoro.",
+                "C": "subespécie.",
+                "D": "animal.",
+                "E": "humano."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as palavras a seguir quanto ao emprego \ndo hífen e assinale a alternativa em que se \nverifica o uso correto desse sinal gráfico.",
+            "alternativas": {
+                "A": "manda -chuva.",
+                "B": "mal-de-Chagas.",
+                "C": "meio -dia.",
+                "D": "semi -novo.",
+                "E": "dona -encrenca.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 4 de 13 QUESTÃO 09 \nAnalise as sentenças a seguir quanto ao \nemprego das expressões “porque” , “por que” ,  \n“por quê” e “porquê” . Assinale a alternativa \nem que não ocorre desvio quanto ao uso dessas \nexpressões.   \n(A) Entendo perfeitamente porque ele me trata \nassim.   \n(B) O motivo por que não fui à festa de \naniversário foi a chuva forte de ontem.  \n(C) Somos amigas; não há porque agradecer.  \n(D) Gostaria de saber o por quê não atende às \nminhas ligações.   \n(E) Ela reagiu daquela forma por que está \ncansada de tanta humilhação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: 0 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica voz verbal \npassiva analítica.",
+            "alternativas": {
+                "A": "Recuperaram -se artefatos anteriores à \nRevolução Industrial.",
+                "B": "A mãe da aluna foi orientada pela direção \ndo colégio a buscar ajuda psicológica.",
+                "C": "Ana fez um relatório sobre os gastos \nmensais do escritório.",
+                "D": "A equipe realizou o resgate dos animais \nabandonados na sexta -feira.",
+                "E": "Realizaram -se coletas de dados de \nmoradores em todos os bairros do município.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Sabe -se que 50% das questões de uma \ndeterminada prova de vestibular são referentes \nao conteúdo de português, 25% são de \nmatemática e os outros 25% são de inglês. Um \ncandidato acertou 80% da prova de português, \n70% da prova de matemática, e 60% da prova \nde inglês. Quantos por cento das questões totais \ndo exame o candidato acertou?",
+            "alternativas": {
+                "A": "75,5%.",
+                "B": "72,5%.",
+                "C": "70,5%.",
+                "D": "79,0%.",
+                "E": "71,0%.  \n QUESTÃO 12 \nA média aritmética simples das idades dos 10 \nalunos de uma turma é 25 anos. Se excluirmos \no mais velho e o mais novo da turma, a nova \nmédia continua sendo 25 anos. Sabendo -se que \na diferença entre as idades do mais velho e do \nmais novo é 10 anos, qual a idad e do mais \nnovo?  \n(A) 12 anos.  \n(B) 10 anos.  \n(C) 15 anos.  \n(D) 20 anos.  \n(E) 18 anos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: A figura abaixo mostra um gráfico da vazão de \numa torneira em litros por hora ao longo do \ntempo:  \nAnalisando o gráfico, qual o volume total \ndespejado no período das 12:00 às 18:00, em \nlitros?",
+            "alternativas": {
+                "A": "320.",
+                "B": "280.",
+                "C": "340.",
+                "D": "360.",
+                "E": "380."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Uma máquina perfuratriz é utilizada para fazer \num furo no solo para que geólogos possam \nestudar sua composição. Suponha que a \nmáquina consiga perfurar uma rocha numa \nvelocidade de 0,15 mm por segundo. Quanto \ntempo levará para que a máquina perfure 81 \nmetros dessa rocha?",
+            "alternativas": {
+                "A": "15 horas.",
+                "B": "150 horas.",
+                "C": "170 horas.",
+                "D": "180 horas.",
+                "E": "1500 horas.  \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 5 de 13 QUESTÃO 15 \nUm determinado retângulo tem razão entre seus \nlados de 7/2, e seu perímetro é 27 cm. Indique \na sua área, em centímetros quadrados:  \n(A) 10,5.  \n(B) 15,0.  \n(C) 17,5.  \n(D) 30,0.  \n(E) 31,5."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Cada um dos cientistas Alberto, Breno, Carlos \ne Damásio, visitou um estado diferente da \nregião Norte do país. Eles visitaram Amapá, \nRoraima, Rondônia e Tocantins, não \nnecessariamente nesta ordem. Sabe -se que:  \nI – Alberto viajou para o Amapá;  \nII – Breno não viajou para Rondônia;  \nIII – Carlos e Damásio não viajaram para \nRoraima;  \nIV – Carlos não viajou para o Tocantins;  \nCom base nas afirmativas, podemos concluir \nque:",
+            "alternativas": {
+                "A": "Damásio viajou para o Amapá.",
+                "B": "Breno viajou para o Tocantins.",
+                "C": "Carlos viajou para o Amapá.",
+                "D": "Breno viajou para Roraima.",
+                "E": "Damásio viajou para Rondônia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Numa determinada região, os meteorologistas \ntêm observado que a cada ano, chove -se 6 horas \na menos durante o ano comparado ao ano \nanterior. Se no ano de 2023 choveu 101 dias \ncompletos nessa região, em que ano não \nchoverá nenhum dia, se a previsão dos \nmeteorologistas se mantiver?",
+            "alternativas": {
+                "A": "2426.",
+                "B": "2427.",
+                "C": "2428.",
+                "D": "2332.",
+                "E": "2665.  \n QUESTÃO 18 \nObserve a seguinte sequência figural:  \nDe acordo com as correspondências abaixo, \nindique o elemento que deve ocupar o lugar da \nlacuna:  \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Duas aplicações a juro simples, com o mesmo \ncapital inicial de R$ 10.000,00 foram aplicadas \nno mesmo dia. Após 6 meses, a diferença do \njuro recebido entre as duas aplicações é R$ \n600,00. Neste caso, qual a diferença entre a \nmaior e a menor taxa de juro das duas  \naplicações?",
+            "alternativas": {
+                "A": "1,0%.",
+                "B": "1,5%.",
+                "C": "2,0%.",
+                "D": "2,5%.",
+                "E": "3,0%."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Pentágono, Heptágono e Eneágono são \npolígonos regulares que têm o número de lados \nrespectivamente igual a:",
+            "alternativas": {
+                "A": "6, 7, 11.",
+                "B": "5, 7, 11.",
+                "C": "6, 9, 7.",
+                "D": "5, 9, 7.",
+                "E": "5, 7, 9.  \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 6 de 13 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Ao digitar uma redação no Microsoft Word \n2016 e clicar na tecla de atalho Ctrl+E, o \nresultado será:",
+            "alternativas": {
+                "A": "A exclusão da última palavra digitada.",
+                "B": "A centralização da última linha digitada.",
+                "C": "A seleção da última linha digitada.",
+                "D": "A correção do texto já desenvolvido.",
+                "E": "A leitura em voz alta do texto já redigido."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: No Microsoft Excel 2016 a Função SE  é uma \ndas funções mais populares do Excel e permite \nque o usuário:",
+            "alternativas": {
+                "A": "Faça multiplicações simultâneas entre \nvárias células da tabela.",
+                "B": "Faça divisões simultâneas entre várias \ncélulas da tabela.",
+                "C": "Faça seleção de cor sobre valores \nduplicados nas tabelas.",
+                "D": "Faça comparações lógicas entre um valor e \naquilo que se espera.",
+                "E": "Faça a exclusão de dados duplicados das \ntabelas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Para localizar conteúdo em uma tabela ou um \nintervalo por linha utilizando o Microsoft Excel \n2016, o responsável pela extração dos dados \npode usar a função:",
+            "alternativas": {
+                "A": "SOMASE",
+                "B": "PROCV",
+                "C": "SES",
+                "D": "DATINT",
+                "E": "DATFUT"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: No Microsoft Excel 2016, a opção para inserir \ngráficos está acessível na guia:",
+            "alternativas": {
+                "A": "Inserir.",
+                "B": "Fórmulas.",
+                "C": "Correspondência.",
+                "D": "Ilustrações.",
+                "E": "Dados.  QUESTÃO 25 \nUtilizando o Microsoft Excel 2016 e acionando \nas teclas de atalho Ctrl+W o resultado será:  \n \n(A) Tornar a célula de trabalho em negrito.  \n(B) Limpar todos os dados inseridos na pasta de \ntrabalho.  \n(C) Remover o conteúdo da célula.  \n(D) Fechar a pasta de trabalho do Excel.  \n(E) Adicionar bordas na tabela.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Ao analisar o pensamento e a linguagem, a \npartir das reflexões de Piaget, observa -se que a \n“linguagem só se transforma, pois, em \npensamento, na medida em que este se encontra \napto a se deixar transformar”. Nesse contexto, \nsão verdadeiras as afirmativas, excet o:",
+            "alternativas": {
+                "A": "Não é na vida social em bloco que se \nencontram as explicações sobre a linguagem.",
+                "B": "É no conjunto das relações sociais que \nafetam cada indivíduo à sua maneira que se \nencontram as explicações sobre a linguagem.",
+                "C": "Os diferentes tipos de interação (pressão, \ncooperação, imitação, discussão etc.) exercem \ninfluência direta na construção da linguagem e \nem sua transformação em pensamento.",
+                "D": "A sociedade é constituída por um sistema \nde relações.",
+                "E": "Compete à Educação distinguir essas \nrelações e analisar separadamente os seus \nefeitos respectivos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: De acordo com a interpretação de Vygotsky, o \nestudo sobre o pensamento e a linguagem passa \npela compreensão acerca do egocentrismo \ninfantil que representa a forma transitória de \npensamento que caracteriza essa fase do \nprocesso de desenvolvimento do indivíd uo. \nNesse sentido, como é conhecida a forma \nprimária de pensamento que obedeceria às \nnecessidades orgânicas da criança?",
+            "alternativas": {
+                "A": "Pensamento autístico",
+                "B": "Pensamento lógico",
+                "C": "Pensamento socializado",
+                "D": "Pensamento rudimentar",
+                "E": "Pensamento prático  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 7 de 13 QUESTÃO 28  \nDestaque, dentre as variáveis a seguir, de \nacordo com a teoria piagetiana sobre o \npensamento infantil, a alternativa que \ncorresponde ao elo de todas as características \nespecíficas da lógica das crianças.  \n(A) Egocentrismo  \n(B) Sincretismo  \n(C) Realismo intelectual  \n(D) Dificuldade de compreender as relações  \n(E) Imaturidade cognitiva"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Tomando por parâmetro a relação existente \nentre ludicidade, alfabetização e letramento, é \nincorreta a afirmativa:",
+            "alternativas": {
+                "A": "Por meio de materiais, brinquedos e \nbrincadeiras, o educador tem condições de \ninteragir com a realidade histórico -cultural, \nelencando os fatores auxiliares no processo de \nalfabetização e letramento.",
+                "B": "No reconhecimento da importância da \nludicidade no processo alfabetizador, cabe ao \neducador instituir conceitos integralizados às \nbrincadeiras, aos gêneros, aos comportamentos \nou dimensões.",
+                "C": "As explicações psicológicas sobre as \nbrincadeiras das crianças é um campo cheio de \ncontrovérsias.",
+                "D": "Para as crianças, as brincadeiras não \nrepresentam um momento de descontração.",
+                "E": "Nas brincadeiras, as crianças estão expostas \na diversas formas de instruções e têm a \npossibilidade de aprender a segui -las, como \ntambém de formular novas instruções."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Alfabetização e letramento são dois conceitos \nque merecem atenção e análise, no intuito de \nserem trabalhados efetivamente no contexto \neducacional. Na literatura, observa -se uma \nvisão unânime que ratifica a necessidade de \nalfabetizar letrando. De uma maneir a simples, \npara alfabetizar letrando é preciso que a escrita \nalfabética seja reconhecida como um:",
+            "alternativas": {
+                "A": "objeto de conhecimento",
+                "B": "código",
+                "C": "sistema de codificação/decodificação",
+                "D": "sistema convencional",
+                "E": "objeto de ensino assistemático  QUESTÃO 31  \nEm sala de aula, é importante trabalhar os mais \nvariados gêneros textuais, no intuito de facilitar \ntanto o processo de leitura quanto a produção \ntextual pelos alunos. Ao trabalhar, por exemplo, \ncom o jornal impresso ou digital, o professor \nconsegue extrair os mais variados exemplos de \ngêneros textuais. Nesse contexto, destaque a \nseguir o tipo de gênero textual que pode ser \ntrabalhado com esses elementos: obituário, \nroteiro, indicadores e campanhas:  \n \n(A) De informação  \n(B) De utilidade pública  \n(C) De opinião  \n(D) De propaganda  \n(E) De ilustração"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Ao estudar o processo histórico da escrita, \ndestaca -se a importância da escrita cuneiforme. \nLeia os enunciados a seguir e destaque a \nalternativa que traz uma das características \ndesse tipo de escrita.",
+            "alternativas": {
+                "A": "A escrita cuneiforme ficou conhecida como \n“escrita sagrada”.",
+                "B": "A escrita cuneiforme foi decifrada no \nséculo XVIII.",
+                "C": "O nome cuneiforme é uma derivação de \nóstraco (fragmento de cerâmica).",
+                "D": "A escrita cuneiforme era a escrita do dia a \ndia dos mesopotâmios, mais rápida e de \ndesenho mais livre e veio a ser a escrita dos \nsacerdotes.",
+                "E": "Com a escrita cuneiforme, a literatura teve \ninício, os textos literários mais antigos do \nmundo apareceram em tabuletas sumerianas.  \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 8 de 13 QUESTÃO 33  \nAlgumas reflexões foram propostas a seguir no \nintuito de abordar certos aspectos que \ncaracterizam a resolução de problemas como \nprática pedagógica para a Educação Infantil. \nLeia atentamente cada enunciado e destaque \naquele que traz um termo que altera seu \ncontexto, tornando -o incorreto.  \n \n(A) A Resolução de Problemas (RP) reflete \nimplicações estritamente práticas do fazer \nmatemático, apresentando -se como uma \ntendência metodológica de grande \naplicabilidade para a Educação Matemática.  \n(B) A RP possui relevância desde as primeiras \ncivilizações, ainda que naquele momento não \nhouvesse quaisquer relações com a proposta \nmetodológica do ensino matemático que se \nconhece.  \n(C) A RP não se pauta apenas na seleção e \nresolução de problemas.  \n(D) A RP, no ensino de Matemática na \nEducação Infantil, oportuniza às crianças o \ncontato com a cultura de vencer obstáculos e \nresolver situações.  \n(E) O trabalho desenvolvido na Educação \nInfantil além de trabalhar as explorações \nMatemáticas deve proporcionar às crianças o \ncontato com a RP que, com a mediação do \nprofessor, corroborará para a construção de \nnovos saberes."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Ao estabelecer um comparativo entre \nproblemas e exercícios, observa -se alguns \naspectos que os diferenciam. Nesse sentido, os \nproblemas podem ser caracterizados pelos \natributos descritos a seguir, salvo:",
+            "alternativas": {
+                "A": "Originalidade.",
+                "B": "Relação com a realidade.",
+                "C": "Análises que indicam as respostas.",
+                "D": "Distanciamento da artificialidade.",
+                "E": "Proposição de desafios.  \n QUESTÃO 35  \nSobre os Referenciais Curriculares Nacionais \npara a Educação Infantil, são verdadeiras as \nseguintes asserções, salvo:  \n(A) É uma proposta aberta, flexível e \nobrigatória que visa subsidiar os sistemas \neducacionais em prol de implementação de \nprogramas e currículos mais condizentes com \nas necessidades dos educandos.  \n(B) Os referenciais são pautados nas realidades \ne singularidades que caracterizam a sociedade \nbrasileira.  \n(C) Os refer encias não têm o intuito de prover \nsoluções para os problemas complexos da \nEducação Infantil brasileira.  \n(D) Os refer encias visam contribuir para a \nbusca da qualidade do atendimento envolvendo \n“n” questões, das mais variadas naturezas, ou \nseja, de ordem prática, legal, pública, \neconômica etc.  \n(E) Ao analisar os princípios que as crianças \ntêm direito, observa -se que, antes de tudo, elas \ntêm direito de viver experiências prazerosas nas \ninstituições."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: De acordo com o Referencial Curricular \nNacional para a Educação Infantil, “educar \nsignifica, portanto, propiciar situações de \ncuidados, brincadeiras e aprendizagens \norientadas de forma integrada e que possam \ncontribuir para o desenvolvimento das \ncapacidade s infantis de relação interpessoal, de \nser e estar com os outros em uma atitude básica \nde aceitação, respeito e confiança, e o acesso, \npelas crianças, aos conhecimentos mais amplos \nda realidade social e cultural”. Ainda, em \nconformidade com o mesmo documen to, a \neducação pode contribuir para a formação de \ncrianças felizes e saudáveis, corroborando para \no desenvolvimento das capacidades de \napropriação e conhecimento de certas \npotencialidades, como a descrita em qual \nalternativa?",
+            "alternativas": {
+                "A": "cognitivas",
+                "B": "intelectuais",
+                "C": "sensório -motoras",
+                "D": "éticas",
+                "E": "sensoriais  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 9 de 13 QUESTÃO 37  \nNos Parâmetros Curriculares Nacionais, a \nopção do termo “área” no Ensino Fundamental, \né justificada em função de que um tratamento \ndisciplinar, entendido como \npreponderantemente lógico e formal, distancia -\nse das possibilidades de aprendizagem da \ngrande mai oria dos alunos. Além disso, parte -\nse de abordagens mais amplas em direção às \nmais específicas e particulares. O tratamento \ndos conteúdos deve integrar conhecimentos de \ndiferentes disciplinas, que contribuem para a \nconstrução de instrumentos de compreensão  e \nintervenção na realidade em que vivem os \nalunos. As áreas de conhecimento abordadas \nnos Parâmetros Curriculares Nacionais são \nLíngua Portuguesa, Matemática, História, \nGeografia, Ciências Naturais, Educação Física, \nArte e Língua Estrangeira (BRASIL, 1998 ). \n \nAo analisar as áreas de conhecimento \nanteriormente descritas, qual a dimensão que é \nevidenciada em todas elas, em prol da \nconstrução da cidadania?  \n \n(A) Dimensão pedagógica  \n(B) Dimensão política  \n(C) Dimensão sociocrítica  \n(D) Dimensão social  \n(E) Dimensão ética  \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 38  \nPor meio dos Parâmetros Curriculares \nNacionais de Matemática, observa -se que \nalguns propósitos são definidos, objetivando \nassegurar o seu cumprimento. Leia as asserções \nseguintes e assinale a que não representa \nfielmente uma das ações definidas pelo referido \ndocumento no intuito de garantir o \ncumprimento dos propósitos estabelecidos.  \n \n(A) Recomendam o uso de calculadoras nas \naulas de Matemática.  \n(B) Incorporam o estudo dos recursos \nestatísticos que constitui um bloco de conteúdo \ndenominado Tratamento de Informação.  \n(C) Estudo dos números e operações – \nprivilegia -se o desenvolvimento do sentido \nnumérico e a compreensão de diferentes \nsignificados das operações.  \n(D) Álgebra – privilegia -se o desenvolvimento \ndo pensamento algébrico.  \n(E) Enfatizam a importância do pensamento \ncrítico e analítico e oferecem sugestões de \ncomo trabalhar com explicações, \nargumentações e demonstrações."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Os Parâmetros Curriculares Nacionais de \nGeografia são fundamentados numa abordagem \nteórica e metodológica que procura contemplar \nos principais avanços que ocorreram no interior \ndessa disciplina. Entre tais avanços, o referido \ndocumento destaca as contribuições dadas por \numa determinada orientação no surgimento de \nnovas correntes teóricas do pensamento \ngeográfico, assinale -a:",
+            "alternativas": {
+                "A": "Fenomenologia ou Geografia humanística",
+                "B": "Determinismo geográfico",
+                "C": "Possibilismo geográfico",
+                "D": "Geografia teorética",
+                "E": "Geografia crítica  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 10 de 13 QUESTÃO 40  \nTomando como parâmetro as Diretrizes \nCurriculares Nacionais, é possível compreender \nos direitos de aprendizagem e desenvolvimento \npara a Educação Infantil. Um desses direitos \nassinala uma ação que deve ser trabalhada \n“cotidianamente de diversas formas, em \ndiferentes espaços e tempos, com diferentes \nparceiros (crianças e adultos), ampliando e \ndiversificando seu acesso a produções culturais, \nseus conhecimentos, sua imaginação, sua \ncriatividade, suas experiências emocionais, \ncorporais, sensoriais, expressivas,  cognitivas, \nsociais e relacionais”. Que ação é essa?  \n(A) Conviver  \n(B) Brincar  \n(C) Participar  \n(D) Explorar  \n(E) Expressar"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: “O Estatuto da Criança e do Adolescente \n(ECA), sancionado em 13 de julho de 1990, é o \nprincipal instrumento normativo do Brasil \nsobre os direitos da criança e do adolescente. O \nECA incorporou os avanços preconizados na \nConvenção sobre os Direitos da Crianç a das \nNações Unidas e trouxe o caminho para se \nconcretizar o Artigo 227 da Constituição \nFederal, que determinou direitos e garantias \nfundamentais a crianças e adolescentes” \n(BRASIL, 2022).  \nNa interpretação da referida lei, apresentada em \nseu artigo 6º, destacam -se os aspectos que \ndeverão ser levados em conta. Um desses \naspectos foi descrito em uma das alternativas a \nseguir, assinale -o:",
+            "alternativas": {
+                "A": "Fins democráticos a que ela se dirige.",
+                "B": "Exigências do bem comum.",
+                "C": "Direitos humanos.",
+                "D": "Deveres legais.",
+                "E": "Condição peculiar da criança e do \nadolescente com indivíduo incapaz de assumir \nas responsabilidades por seus atos.  QUESTÃO 42  \nDe acordo com o Capítulo IV do Estatuto da \nCriança e do Adolescente, o acesso ao ensino \nobrigatório e gratuito é caracterizado por um \nforma de direito que tem os seguintes atributos: \n“direito público que põe o seu titular em \nsituação dotada de determinadas  faculdades \njurídicas que são garantidas por meio de \nnormas”. Como é reconhecido esse tipo de \ndireito?  \n(A) Direito jurídico  \n(B) Direito subjetivo  \n(C) Direito civil  \n(D) Direito social  \n(E) Direito constitucional"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Em 2015, foi aprovada a Lei Brasileira de \nInclusão da Pessoa com Deficiência (Estatuto \nda Pessoa com Deficiência). De acordo com a \nreferida lei, o poder público deverá assegurar, \ncriar, desenvolver, implementar, incentivar, \nacompanhar e avaliar a adoção de  medidas de \napoio que favoreçam o desenvolvimento dos \naspectos linguísticos, culturais, vocacionais e \nprofissionais do estudante com deficiência, \nlevando -se em conta vários aspectos, como por \nexemplo, o descrito em qual alternativa?",
+            "alternativas": {
+                "A": "Talento",
+                "B": "Limitação",
+                "C": "Curiosidade",
+                "D": "Familiaridade",
+                "E": "Facilidade"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: De acordo com a LDB, o Conselho Escolar, \nórgão deliberativo, possui um membro nato, \nqual é ele?",
+            "alternativas": {
+                "A": "Diretor da Escola",
+                "B": "Professores",
+                "C": "Orientadores educacionais",
+                "D": "Supervisores escolares",
+                "E": "Administradores escolares  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 11 de 13 QUESTÃO 45  \nA III Seção da LDB, em seu parágrafo único, \nafirma que o fechamento de escolas do campo, \nindígenas e quilombolas será precedido de \nmanifestação do órgão normativo do respectivo \nsistema de ensino, que considerará alguns \ncritérios, como o destacado em qual \nalternativa?  \n(A) Justificativa do Ministério da Educação.  \n(B) Análise das contas públicas da região em \nque se encontra a escola a ser fechada.  \n(C) Informações do Censo Escolar.  \n(D) Análise do diagnóstico do impacto da ação.  \n(E) Análise do número de vagas versus \nquantidade de alunos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31: Para analisar algumas das variáveis que \ncaracterizam os ciclos de aprendizagem, foram \npropostos os enunciados a seguir. Destaque a \nalternativa que foi mal elaborada, ou seja, que \npossui um aspecto incorreto.",
+            "alternativas": {
+                "A": "A abordagem do ciclo de políticas, \nformulada pelo sociólogo Stephen J. Ball, \ncorroborou para a estruturação do Projeto \nCiclos de Aprendizagem.",
+                "B": "Um dos conceitos que ofereceu suporte \nteórico para a formação e desenvolvimento do \ndiscurso da organização da escolaridade em \nciclos no Brasil foi a recontextualização do \ndiscurso. De acordo com a Teoria da \nRecontextualização do Discurso, observa -se \nque a base linguística nos processos discursivos \nnão é negada, porém as relações de poder são \nconsideradas na produção e reprodução do \ndiscurso.",
+                "C": "Desde a década de 1980, observam -se \nvárias iniciativas voltadas para a reorganização \ne melhorias do Ensino Fundamental no Brasil.",
+                "D": "A organização da escolaridade em ciclos \nobjetiva tornar o sistema de ensino mais seriado \ne, nesse sentido, contribui para tornar a \neducação menos seletiva e excludente.",
+                "E": "No Brasil, a “Escola em Ciclos” teve início \nno Estado de São Paulo, no ano de 1984.  QUESTÃO 47  \nDestaque a seguir um tipo de percepção que é \natribuída de forma equivoca ao emprego dos \naspectos lúdicos no contexto educacional.  \n \n(A) Utilitarista  \n(B) Informativa  \n(C) Interativa  \n(D) Experimental  \n(E) Socializadora"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32: Qual das asserções a seguir não pode ser \nconsiderada correta em sua completude?",
+            "alternativas": {
+                "A": "A avaliação qualitativa tem características \nespecíficas que possibilitam diferenciá -la \nefetivamente da avaliação quantitativa.",
+                "B": "A avaliação, por si só, não é responsável \npela resolução de problemas.",
+                "C": "Por avaliação, entende -se o processo de \ninvestigação da qualidade de alguma coisa, \nproduto, pessoa ou situação, possibilitando a \nbase para atos regulatórios.",
+                "D": "A avaliação, tanto em sua forma intuitiva \nquanto em sua forma com rigor metodológico, \ntem o papel de subsidiar o sujeito da ação em \nseus atos criativos e construtivos.",
+                "E": "A avaliação exige um rigor metodológico \nque garanta sua validade, logo não pode se \npautar estritamente na subjetividade.  \n \n \n \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 12 de 13 QUESTÃO 49  \nSobre o paradigma da integração, é falsa a \nafirmativa:  \n(A) A ideia de integração tem estreita \nassociação com a utilização do conceito de \nnecessidades educativas especiais.  \n(B) A necessidade de integração advém dos \ndireitos dos alunos pautado no acesso à \neducação de forma não segregadora.  \n(C) Para promover a integração dos alunos com \nnecessidades educativas especiais, houve a \nnecessidade de promover mudanças na forma \nde organização da Educação Especial.  \n(D) Por meio da integração dos alunos com \nnecessidades educativas especiais, foram \ntrabalhados duas prescrições específicas: a \nexigência de educar todos os alunos na mesma \nescola e a necessidade de empreender uma \nreforma no conjunto do sistema educacional.  \n(E) Ao longo do paradigma da integração, \nsurgem instituições especializadas por tipo de \ndeficiência."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I SUBSTITUTO (INFANTIL E \nFUNDAMENTAL)",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33: A emergência de novos paradigmas ratifica a \ndinamicidade do curso da história que contribui \npara o afloramento de novas linhas de ação para \nos modelos já consagrados, possibilitando \nampliar a zona de atuação em quaisquer áreas \nde conhecimento. No caso dos paradigmas na \neducação de alunos com deficiência, destaque a \nseguir o paradigma que é fundado na ideia de \nproteção, em que são criados ambientes \nespeciais para as pessoas com deficiência, \nseparando -as de suas famílias e da comunidade. \nCom esse modelo, as p essoas com deficiência \nsão colocadas e mantidas em ambientes onde se \nrealizam atividades e práticas consagradas \ncomo atendimentos especializados.",
+            "alternativas": {
+                "A": "Paradigma da institucionalização",
+                "B": "Paradigma de serviço",
+                "C": "Paradigma de suporte",
+                "D": "Paradigma de exclusão",
+                "E": "Paradigma de inclusão   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nPROFESSOR I SUBSTITUTO (INFANTIL E FUNDAMENTAL)                                                                     Página 13 de 13"
+            },
+            "resposta_correta": "A"
+        }
+    ]
+}

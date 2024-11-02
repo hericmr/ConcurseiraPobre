@@ -1,3 +1,760 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00bcd109703176499d07fa932c4dca4f16ec1f31393e64180aefec0e2f00e4a5
-size 103609
+{
+    "MÉDICO VASCULAR": [
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: De acordo com o texto, conclui-se que:",
+            "alternativas": {
+                "A": "Luiz Augusto deixou Beatriz para ficar com \nJacinta por conta da omelete perfeita.",
+                "B": "Jacinta não aprendeu a omelete perfeita \nporque fez apenas a parte teórica do curso de \nculinária.",
+                "C": "Jacinta contava com o apoio de suas amigas \npara recuperar Luiz Augusto.",
+                "D": "Luiz Augusto deu uma segunda chance, mas \nnão aprovou a nova versão da omelete de Jacinta.",
+                "E": "Jacinta não atingiu a omelete perfeita porque \ntinha um entendimento distinto de baveuse . \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 3 de 16 QUESTÃO 02 \nO pronome demonstrativo em “—  Não — disse \nJacinta —, eu chamo isto de baveuse. ” funciona \ncomo um recurso de coesão textual de: \n(A) anáfora. \n(B) catáfora. \n(C) elipse. \n(D) substituição.  \n(E) sinonímia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Das associações sobre as personagens propostas \nnas alternativas a seguir, aquela que pode ser \ndepreendida corretamente do texto é:",
+            "alternativas": {
+                "A": "Caio Ribeiro – referência de bom preparo de \nomeletes, segundo o gosto de Luiz Augusto.",
+                "B": "Jacinta – atingiu, por fim, o preparo da \nomelete perfeita, ao gosto de Luiz Augusto, após \no curso de culinária, mas perdeu o interesse por \nele.",
+                "C": "Luiz Augusto – apreciador exigente de \nomeletes, demandava que sua companheira \npreparasse omeletes tão bem quanto ele.",
+                "D": "Beatriz – pessoa com quem Luiz Augusto foi \nmorar após se separar de Jacinta, fazia omeletes \nquase tão boas quanto as de Caio Ribeiro.",
+                "E": "Professora do curso de culinária – sugeriu a \nJacinta usar uma frigideira de ferro, para o caso \nde a omelete não ficar perfeita."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Analise as sentenças retiradas do texto e assinale \naquela em que o vocábulo “se” è um pronome \nexpletivo.",
+            "alternativas": {
+                "A": "“Mas Jacinta não se conformava.”",
+                "B": "“Quando alguèm —  desinformado ou \ndesalmado — perguntava perto da Jacinta se \n“omelete” era masculino ou feminino”.",
+                "C": "“Luiz Augusto sentou -se.”",
+                "D": "“O que se poderia dizer de um homem que \ntinha abandonado a mulher de dez anos de \ncasamento, para não falar em cotas num \ncondomínio horizontal da zona Sul, por uma \nomelete bem- feita?”",
+                "E": "“Luiz Augusto não se cansava de repetir que \na omelete perfeita devia ser tostada por fora e \númida por dentro.”  \n \n \n Considere o excerto a seguir para responder \nàs questões 5, 6 e 7:  \n \nDurante dez anos, Jacinta ouvira críticas à sua \nomelete. Quando Luiz Augusto anunciara que \nencontrara uma mulher que fazia omeletes \nperfeitas — melhores, inclusive, que as do Caio \nRibeiro — e que iria morar com ela, \nacrescentou:  — Você não pode dizer que não lhe \ndei todas as chances, Cintinha."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: No contexto apresentado, em relação à classe \ngramatical, os vocábulos “que” em destaque \natuam, respectivamente, como:",
+            "alternativas": {
+                "A": "conjunção integrante, pronome relativo e \nconjunção comparativa.",
+                "B": "conjunção integrante, pronome relativo e \nconjunção integrante.",
+                "C": "preposição, pronome relativo e preposição.",
+                "D": "conjunção causal, conjunção integrante e \nconjunção integrante.",
+                "E": "conjunção causal, pronome interrogativo e \nconjunção comparativa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Dentre todas as palavras que ocorrem no excerto \napresentado, pertencem à classe gramatical das \npreposições:",
+            "alternativas": {
+                "A": "à, do.",
+                "B": "durante, com.",
+                "C": "a, quando, de, com.",
+                "D": "durante, à, inclusive, do.",
+                "E": "durante, a, de, com."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Os verbos “ouvira”, “anunciara” e “encontrara”, \nque ocorrem no excerto apresentado, estão \nconjugados no tempo:",
+            "alternativas": {
+                "A": "pretérito imperfeito do modo indicativo.",
+                "B": "pretérito perfeito do modo indicativo.",
+                "C": "pretérito mais-que-perfeito do modo \nindicativo.",
+                "D": "futuro do pretérito do modo indicativo.",
+                "E": "pretérito imperfeito do modo subjuntivo. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 4 de 16 QUESTÃO 08 \nDe acordo com a gramática normativa, a ênclise \nestá vetada se: \nI. O verbo está flexionado em uma oração \nsubordinada. \nII. A oração é iniciada por palavra interrogativa. \nIII. Em uma locução verbal, o verbo auxiliar está \nflexionado no presente do indicativo.  \nÉ (são) verdadeira(s) apenas a(s) afirmativa(s) \nem:  \n(A) I. \n(B) II. \n(C) III. \n(D) I e II. \n(E) II e III."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a qualidade expressa pelo adjetivo é \ncomparativa.",
+            "alternativas": {
+                "A": "Maria é tão caprichosa quanto sua irmã.",
+                "B": "Estou extremamente cansada.",
+                "C": "A atriz estava elegantíssima no desfile de \nmoda.",
+                "D": "Daniel é o mais engajado dentre os \nparticipantes do programa.",
+                "E": "Quando percebeu minha tristeza, passou a ser \ngentil."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale aquela \nem que ocorre desvio ortográfico.",
+            "alternativas": {
+                "A": "O casal se separou recentemente, razão por \nque não foram juntos ao evento.",
+                "B": "Isto é só mais um empecilho para dificultar \nas coisas.",
+                "C": "Os funcionários estão reinvindicando \nmelhores condições de trabalho.",
+                "D": "Que coincidência nos encontrarmos aqui!",
+                "E": "Espetáculos teatrais são ótimas formas de \nentretenimento. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Em uma certa loja, o preço das camisas era o \nmesmo para todas as camisas e o preço das calças \nera o mesmo para todas as calças. Leandro \ncomprou nessa loja 2 camisas e 3 calças e pagou \nR$ 510,00. Ele também comprou 1 camisa e 2 \ncalças para seu filho e pagou R$ 320,00. \nPodemos afirmar que o preço de cada camisa \nnessa loja é:",
+            "alternativas": {
+                "A": "R$ 60,00.",
+                "B": "R$ 65,00.",
+                "C": "R$ 58,00.",
+                "D": "R$ 72,00.",
+                "E": "R$ 55,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Segundo dados do IBGE de 2021, o município de \nArarendá, no Ceará, possui o maior IDEB (Índice \nde Desenvolvimento da Educação Básica) nos \nanos iniciais do ensino fundamental. No ano de \n2019 o IDEB foi de 8,3 e no ano de 2021 o IDEB \nfoi de 9,5. Podemos afirmar que o crescimento \npercentual do IDEB de 2019 para 2021 foi \naproximadamente de:",
+            "alternativas": {
+                "A": "10%.",
+                "B": "14%.",
+                "C": "25%.",
+                "D": "22%.",
+                "E": "20%.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 5 de 16 QUESTÃO 13 \nUm marceneiro recebe um pedido para fazer uma \nmesa em forma de um coração, composta por \ndois semicírculos e um quadrado, conforme a \nfigura abaixo. \n \n \n \n \n \n \nSabendo que os gastos com a figura mostrada são \nde R$ 120,00 por metro quadrado, qual é o gasto \ntotal se o quadrado possui lado de 1m? Considere \n𝜋 ≈ 3 . \n(A) R$ 175,00. \n(B) R$ 180,00. \n(C) R$ 190,00.  \n(D) R$ 200,00. \n(E) R$ 210,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Considere verdadeira a seguinte proposição \ncondicional: \n“Se Paulo sabe fazer bolo, então ele sabe fazer \nbiscoitos.”  \nA partir dessa proposição, também é verdade \nque:",
+            "alternativas": {
+                "A": "Se Paulo não sabe fazer biscoitos, então ele \nnão sabe fazer bolo.",
+                "B": "Provavelmente Paulo sabe fazer bolo e sabe \nfazer biscoitos.",
+                "C": "Ou Paulo sabe fazer bolo ou Paulo sabe fazer \nbiscoitos.",
+                "D": "Se Paulo souber fazer bolo, também saberá \nfazer biscoitos.",
+                "E": "Paulo não sabe fazer bolo, nem sabe fazer \nbiscoitos.  \n \n QUESTÃO 15 \nO dono de um brechó decidiu fazer uma \npromoção para as camisas que ele vende. Ele \nobservou que as vendas das camisas durante o \nmês anterior ocorreram segundo a tabela: \nMarca da \ncamisa Preço da \ncamisa Número de \ncamisas \nvendidas  \nMarca A R$ 20,00 20 \nMarca B R$ 18,00 22 \nMarca C R$ 25,00 20 \n \nEle decidiu que no mês atual as camisas de todas \nas marcas possuirão o mesmo preço. O dono do \nbrechó definiu o novo preço da camisa como \nsendo o preço médio de todas as camisas \nvendidas independentemente de sua marca. \nAssim, no mês atual, o preço da camisa é \naproximadamente: \n(A) R$ 18,90. \n(B) R$ 20,90. \n(C) R$ 21,70. \n(D) R$ 22,80.  \n(E) R$ 24,60."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: A sequência abaixo mostra os 4 primeiros \nnúmeros primos: \n2,3,5,7 …  \nOs números primos são números que somente \nsão divisíveis por 1 e por eles mesmos. Qual é o \nsétimo termo dessa sequência?",
+            "alternativas": {
+                "A": "12.",
+                "B": "13.",
+                "C": "15.",
+                "D": "17.",
+                "E": "19. \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 6 de 16 QUESTÃO 17 \nCarlos fez uma aplicação de R$ 12.000,00 a uma \ntaxa de 5% ao mês durante 3 anos em regime de \njuros simples. Ao final dessa aplicação qual é o \nmontante que Carlos possuirá? \n(A) R$ 26.800,00.  \n(B) R$ 30.600,00. \n(C) R$ 33.600,00. \n(D) R$ 34.000,00. \n(E) R$ 36.700,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Suponha que no ano de 2023, 8% de todas as \ndespesas do governo de um determinado país \nforam com Educação. Já dentre as despesas com \na Educação, as despesas com educação \nprofissionalizante representaram 10%. Se o valor \nde todas as despesas do governo foi de R$ 4 \ntrilhões, então qual o valor as despesas com \neducação profissionalizante?",
+            "alternativas": {
+                "A": "R$ 3,2 bilhões.",
+                "B": "R$ 320 bilhões.",
+                "C": "R$ 32 bilhões.",
+                "D": "R$ 400 bilhões.",
+                "E": "R$ 40 bilhões."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Queremos construir duas figuras geométricas, \num quadrado de lado 𝑎 e um triângulo equilátero \nde lado 𝑑, de modo que os dois tenham o mesmo \nperímetro. Qual é a razão entre a área e o \nperímetro do quadrado em termos de 𝑑?",
+            "alternativas": {
+                "A": "2\n7𝑑.",
+                "B": "3\n8𝑑.",
+                "C": "3\n32𝑑.",
+                "D": "3\n16𝑑.",
+                "E": "1\n2𝑑. \n QUESTÃO 20 \nUm projetista recomenda que para fazer o \nconcreto utilize-se, para cada porção de cimento, \n2 porções de areia e 3 porções de pedra brita, em \nmassa. Sendo assim, na mistura final que o \nprojetista recomenda a quantidade de areia \nrepresenta qual porcentagem da massa total? \n(A) 19%.  \n(B) 20%. \n(C) 25%. \n(D) 30%. \n(E) 33%. \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "Não encontrada"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Sobre a função “responder” no MS -Outlook \n2016, é incorreto o que se afirma em: \nI - O anexo será mantido na mensagem. \nII - O campo “Para” deverá ser preenchido.  \nIII - A mensagem de resposta será enviada \napenas para o remetente original. \nIV - O campo “Assunto” não será preenchido \nautomaticamente. \nV - O texto original do remetente não será \nmantido.",
+            "alternativas": {
+                "A": "I e III, apenas.",
+                "B": "I, II e V, apenas.",
+                "C": "I, II, IV e V, apenas.",
+                "D": "I, II, III e V, apenas.",
+                "E": "Nenhuma das afirmativas estão incorretas. \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 7 de 16 QUESTÃO 22 \nO MS-Word 2016 possui diversas ferramentas de \nedição e formatação texto, sendo algumas delas: \n \nAssinale a alternativa que não contenha um dos \nelementos de formatação dentre os \nrepresentados. \n(A) Tachado.  \n(B) Sublinhado. \n(C) Subscrito.  \n(D) Itálico. \n(E) Negrito."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Analiseas imagens a seguir: \nI: \n \nII:",
+            "alternativas": {
+                "A": "A imagem I representa um gerenciador de e-\nmails da suíte Microsoft Office.",
+                "B": "A imagem II representa um gerenciador de e-\nmails desenvolvido e mantido pela Google.",
+                "C": "Ambas as imagens representam softwares de \ndesenvolvimento de planilhas eletrônicas.",
+                "D": "Nenhuma das imagens representam \ngerenciadores de e-mails.",
+                "E": "Ambas as imagens representam \ngerenciadores de e-mails. \n \n \n QUESTÃO 24 \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Nesse \ncontexto, são palavras que integram o significado \nde URL: \n( ) Uniform.  \n( ) Resource  \n( ) Lover. \n( ) User. \n( ) Locator. \nIndique “V” para verdadeiro e “F” para falso.  \n(A) V, F, V, F, V. \n(B) F, F, V, V, F. \n(C) V, V, F, F, V. \n(D) V, V, F, V, V.  \n(E) F, F, V, F, F."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Leia atentamente os trechos a seguir: \nTrecho 1: As configurações de impressão \npermitem escolher entre as opções de orientação \nretrato (vertical) e paisagem (horizontal) para \ndeterminar a direção da impressão na página. \nTrecho 2: É possível selecionar o tamanho do \npapel a ser utilizado na impressão, como A4, \ncarta, ofício, entre outros, para corresponder ao \nformato desejado. \nTrecho 3: Não é possível ajustar as margens da \npágina, determinando a quantidade de espaço em \nbranco ao redor do conteúdo impresso, \npersonalizando a formatação da página. \nDiante da análise, assinale a alternativa correta.",
+            "alternativas": {
+                "A": "Todos os trechos apresentados fazem \nafirmações corretas acerca da digitalização de \num documento.",
+                "B": "Todos os trechos apresentados fazem \nafirmações incorretas acerca da impressão de um \ndocumento.",
+                "C": "O trecho 1 está correto ao afirmar que é \npossível selecionar o tamanho do papel a ser \nutilizado na impressão .",
+                "D": "O trecho 3 se equivoca ao mencionar que não \npossível ajustar as margens da página.",
+                "E": "O trecho 2 está correto ao afirmar que as \nconfigurações de impressão permitem escolher \nentre as opções de orientação retrato. \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 8 de 16 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: De acordo com o Decreto Federal n° 7.508/2011. \nAssinale a alternativa incorreta.",
+            "alternativas": {
+                "A": "Contrato Organizativo da Ação Pública da \nSaúde - acordo de colaboração firmado entre entes \nfederativos com a finalidade de organizar e integra r \nas ações e serviços de saúde na rede regionalizada \ne hierarquizada, com definição de \nresponsabilidades, indicadores e metas de saúde, \ncritérios de avaliação de desempenho, recursos \nfinanceiros que serão disponibilizados, forma de \ncontrole e fiscalização de sua execução e demais \nelementos necessários à implementação integrada \ndas ações e serviços de saúde;",
+                "B": "Portas de Entrada - serviços de \natendimento inicial à saúde do usuário no SUS;",
+                "C": "Comissões Intergestores - instâncias de \npactuação consensual entre os entes federativos \npara definição das regras da gestão \ncompartilhada do SUS;",
+                "D": "Região de Saúde - descrição geográfica da \ndistribuição de recursos humanos e de ações e \nserviços de saúde ofertados pelo SUS e pela \niniciativa privada, considerando-se a capacidade \ninstalada existente, os investimentos e o \ndesempenho aferido a partir dos indicadores de \nsaúde do sistema;",
+                "E": "Rede de Atenção à Saúde - conjunto de \nações e serviços de saúde articulados em níveis \nde complexidade crescente, com a finalidade de \ngarantir a integralidade da assistência à saúde; \n \n \n \n \n \n QUESTÃO 27 \nDe acordo com a Lei 8.142/1990. O Sistema \nÚnico de Saúde (SUS), contará, em cada esfera \nde governo, sem prejuízo das funções do Poder \nLegislativo, com as seguintes instâncias \ncolegiadas: a Conferência de Saúde; e o \nConselho de Saúde. Em relação a Conferência \nde Saúde , assinale a alternativa correta. \n(A) A Conferência de Saúde reúne-se a cada \ndois anos para avaliar a situação de saúde e \npropor diretrizes para a política de saúde nos \nníveis correspondentes. \n(B) A Conferência de Saúde é convocada \nexclusivamente pelo Conselho de Saúde, sem a \npossibilidade de convocação pelo Poder \nExecutivo. \n(C) A periodicidade da Conferência de Saúde é \ndeterminada pelo Conselho de Saúde, sem a \nnecessidade de convocação pelo Poder \nExecutivo. \n(D) A Conferência de Saúde é convocada a \ncada cinco anos, com a representação de diversos \nsegmentos sociais, para registrar a situação de \nsaúde e propor diretrizes para a política de saúde \nnos níveis correspondentes, podendo ser \nconvocada extraordinariamente pelo Poder \nExecutivo ou pelo Conselho de Saúde. \n(E) A Conferência de Saúde reunir-se-á a cada \nquatro anos com a representação dos vários \nsegmentos sociais, para avaliar a situação de \nsaúde e propor as diretrizes para a formulação da \npolítica de saúde nos níveis correspondentes, \nconvocada pelo Poder Executivo ou, \nextraordinariamente, por esta ou pelo Conselho \nde Saúde. \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 9 de 16 QUESTÃO 28 \nDe acordo a Lei Federal 8080, de 19/09/1990. \nanalise as afirmativas abaixo atribuindo (V) para \nVerdadeira e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta.  \n \n( ) Entende-se por saúde do trabalhador um \nconjunto de ações que proporcionam o \nconhecimento, a detecção ou prevenção de \nqualquer mudança nos fatores determinantes e \ncondicionantes de saúde individual ou coletiva, \ncom a finalidade de recomendar e adotar as \nmedidas de prevenção e controle das doenças ou \nagravos. \n \n( ) Entende-se por vigilância sanitária, um \nconjunto de atividades que se destina, através das \nações de vigilância epidemiológica, à promoção \ne proteção da saúde dos trabalhadores, assim \ncomo visa à recuperação e reabilitação da saúde \ndos trabalhadores submetidos aos riscos e \nagravos advindos das condições de trabalho. \n \n( )  Entende-se por saúde bucal o conjunto \narticulado de ações, em todos os níveis de \ncomplexidade, que visem a garantir promoção, \nprevenção, recuperação e reabilitação \nodontológica, individual e coletiva, inseridas no \ncontexto da integralidade da atenção à saúde. \n \n(A) V- F -F  \n(B) F- V- V \n(C) V- F -V \n(D) V -V -V \n(E) F -F -V \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 29 \nAnalise os itens a seguir de acordo com a \nConstituição da República Federativa do Brasil e \nassinale a alternativa correta. \n \nI – A seguridade social compreende um conjunto \nintegrado de ações de iniciativa dos Poderes \nPúblicos e Privado, destinadas a assegurar os \ndireitos relativos à saúde, à educação e a \nsociedade. \n \nII –  A pessoa jurídica em débito com o sistema \nda seguridade social, como estabelecido em lei, \nnão poderá contratar com o Poder Público nem \ndele receber benefícios ou incentivos fiscais ou \ncreditícios. \n \n(A) A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira. \n \n(B) As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I. \n \n(C) A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa. \n \n(D) As asserções I e II são proposições falsas. \n \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 10 de 16 QUESTÃO 30 \nDe acordo a Lei Federal 8080, de \n19/09/1990.Complete corretamente a lacuna. \nAs ações e serviços de saúde, executados pelo \nSistema Único de Saúde (SUS), seja diretamente \nou mediante participação complementar da \niniciativa privada, serão organizados de forma \n_____________________________________. \n \n(A) regionalizada e hierarquizada em níveis de \ncomplexidade crescente. \n(B) hierarquizada e centralizada em todos os \nníveis de complexidade. \n(C) centralizada e e hierarquizada sem \ndiferenciação de complexidade. \n(D) descentralizada e com autonomia individual. \n(E) estruturada conforme critérios políticos e \neconômicos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Um homem de 55 anos, obeso, hipertenso e \ndiabético, apresenta dor no peito ao realizar \nesforço físico. O eletrocardiograma (ECG) \nmostra alterações compatíveis com isquemia \nmiocárdica. Qual é o diagnóstico mais provável?",
+            "alternativas": {
+                "A": "Insuficiência cardíaca.",
+                "B": "Acidente vascular cerebral.",
+                "C": "Insuficiência coronariana.",
+                "D": "Angina estável.",
+                "E": "Angina instável. \n \n \n \n \n \n \n \n \n \n QUESTÃO 32 \nA fração de ejeção (FE) é a percentagem do \nsangue na câmara de bombeamento principal que \né ejetada com cada batimento. Quando a FE é \nreduzida devido a uma lesão do músculo \ncardíaco, como após um ataque cardíaco, a \ncontração do músculo cardíaco é mais fraca e a \ncapacidade de bombeamento é reduzida. Qual \ndas seguintes afirmações sobre a insuficiência \ncardíaca com fração de ejeção reduzida (ICFEr) \nestá correta?  \n(A)A ICFEr ocorre quando a porcentagem de \nsangue bombeada para fora do coração a cada \nbatimento é menor ou igual a 40%.  \n(B)A ICFEr ocorre quando a porcentagem de \nsangue bombeada para fora do coração a cada \nbatimento fica entre 41 e 49%.  \n(C)A ICFEr ocorre quando a porcentagem de \nsangue bombeada para fora do coração a cada \nbatimento é maior ou igual a 50%.  \n(D)A ICFEr ocorre quando a porcentagem de \nsangue bombeada para fora do coração a cada \nbatimento é maior ou igual a 60%.  \n(E)A ICFEr ocorre quando a porcentagem de \nsangue bombeada para fora do coração a cada \nbatimento é menor ou igual a 30%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Um paciente com insuficiência renal crônica está \nem tratamento com diálise peritoneal. Qual é a \ncausa mais comum de peritonite em pacientes em \ndiálise peritoneal?",
+            "alternativas": {
+                "A": "Infecção por Staphylococcus aureus.",
+                "B": "Infecção por Streptococcus pneumoniae.",
+                "C": "Infecção por Escherichia coli.",
+                "D": "Infecção por fungos.",
+                "E": "Infecção por Candida albicans. \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 11 de 16 QUESTÃO 34 \nA Doença Pulmonar Obstrutiva Crônica (DPOC) \né uma condição médica que envolve a obstrução \ncrônica do fluxo de ar nas vias aéreas, \ndificultando a respiração. Sobre esse tema, \nanalise as afirmativas abaixo:  \nI- As principais doenças que compõem a DPOC \nsão a bronquite crônica, o enfisema pulmonar e a \nfibrose cística. \nII- O tratamento da DPOC geralmente envolve \numa combinação de mudanças no estilo de vida, \nmedicamentos, fisioterapia respiratória e, em \nalguns casos, cirurgia. \nIII- Os principais mecanismos fisiopatológicos \nda DPOC são Inflamação crônica das vias aéreas, \nobstrução das vias aéreas e hiperinflação \npulmonar. \nIV- As principais manifestações clínicas da \nDPOC são: falta de ar, tosse, expectoração e dor \nabdominal. \nEstão corretas as afirmativas: \n(A) Somente II e III. \n(B) Somente II e IV. \n(C) Somente I e III. \n(D) Somente I e IV. \n(E) Somente III e IV. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 35 \nDe acordo com o Estudo Longitudinal de Saúde \ndos Idosos Brasileiros (ELSI-Brasil), 7 em cada \n10 idosos sofrem de ao menos uma doença \ncrônica. Sobre esse tema, analise as afirmativas: \nI- Doenças cardiovasculares representam a maior \ntaxa de mortalidade entre os idosos e envolvem \ndoenças como hipertensão arterial, doença \ncoronariana, infarto e angina. \nII- Com o aumento da gordura e perda de massa \nmuscular, o corpo passa a não responder e \nprocessar tão bem a insulina e contribui com o \naparecimento da diabetes tipo 2. A doença \npromove consequências em efeito cascata e afeta \nos rins, o coração e a visão. \nIII- A osteoporose atinge mais os homens e está \nrelacionada à diminuição da massa óssea, que já \né menor no sexo masculino. As consequências, \napesar de não serem aparentes, são um grande \nproblema aos idosos, que são mais suscetíveis às \nfraturas. \nIV- As doenças cerebrovasculares, como o \nacidente vascular cerebral, são a segunda causa \nde morte em pessoas com 65 anos ou mais. \nEstão corretas as afirmativas  \n(A) Somente I, II e III. \n(B) Somente II e IV. \n(C) Somente I e III. \n(D) Somente I. II e IV. \n(E) Somente III e IV. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 12 de 16 QUESTÃO 36 \nUm estudante de medicina está aprendendo sobre \na estrutura e função do aparelho cardiovascular. \nUm aspecto fundamental da fisiologia \ncardiovascular é a regulação do débito cardíaco. \nQual das seguintes afirmações explica \ncorretamente um dos principais fatores que \ninfluenciam o débito cardíaco?  \n(A) O débito cardíaco é diretamente proporcional \nà frequência cardíaca e inversamente \nproporcional à pressão arterial sistêmica. \n(B) A pré-carga, definida como o volume de \nsangue no ventrículo ao final da diástole, não tem \nimpacto significativo no débito cardíaco. \n(C) O débito cardíaco aumenta \nproporcionalmente com o aumento da pós-carga, \nque é a resistência vascular contra a qual o \ncoração precisa ejetar sangue. \n(D) A contratilidade cardíaca, referindo-se à \nforça de contração do músculo cardíaco, é um \ndeterminante chave do débito cardíaco. \n(E) O débito cardíaco é regulado primariamente \npela concentração de oxigênio no sangue, \naumentando à medida que os níveis de oxigênio \ndiminuem."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Durante um exame cardiológico, um médico \nrealiza a ausculta do coração de um paciente e \nidentifica um sopro cardíaco. Os sopros \ncardíacos são sons anormais ouvidos durante o \nciclo cardíaco que podem indicar uma variedade \nde condições patológicas. Qual das seguintes \nafirmações descreve corretamente a \ncaracterização de um sopro cardíaco comum na \nsemiologia do aparelho cardiovascular?",
+            "alternativas": {
+                "A": "Um sopro sistólico de ejeção, audível no foco \naórtico, sugere estenose aórtica.",
+                "B": "Um sopro diastólico de alta frequência no \nápice cardíaco é indicativo de estenose \ntricúspide.",
+                "C": "Um sopro contínuo, ouvido melhor na borda \nesternal esquerda, é característico de \nregurgitação pulmonar.",
+                "D": "Um sopro sistólico regurgitativo ouvido no \nfoco pulmonar é um sinal clássico de \ninsuficiência mitral.",
+                "E": "Sopros diastólicos de enchimento são \ncomumente associados à regurgitação aórtica. \n QUESTÃO 38 \nDurante uma avaliação de rotina, um \neletrocardiograma (ECG) é realizado em um \npaciente de 50 anos que se queixa de episódios \nintermitentes de palpitações. O ECG é uma \nferramenta diagnóstica essencial na cardiologia, \nfornecendo informações valiosas sobre a \natividade elétrica do coração. Qual das seguintes \nalterações no ECG é mais consistente com um \ndiagnóstico de taquicardia supraventricular?  \n(A) Bradicardia sinusal com frequência cardíaca \ninferior a 60 bpm e intervalo PR prolongado. \n(B) Ritmo regular com frequência cardíaca \nsuperior a 100 bpm e ausência de ondas P \ndiscerníveis. \n(C) Complexos QRS alargados e um padrão de \nonda delta, indicativos de síndrome de Wolff-\nParkinson-White.  \n(D) Elevação do segmento ST em derivações \nprecordiais, sugerindo infarto agudo do \nmiocárdio. \n(E) Ondas T invertidas nas derivações \nprecordiais, indicativas de isquemia miocárdica."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Um cardiologista realiza um ecocardiograma em \num paciente de 65 anos que apresenta dispneia e \nedema de membros inferiores. A ecocardiografia \né um exame diagnóstico chave na avaliação de \ndiversas patologias cardíacas. Qual dos seguintes \nachados na ecocardiografia é mais indicativo de \ninsuficiência cardíaca com fração de ejeção \npreservada?",
+            "alternativas": {
+                "A": "Dilatação do ventrículo esquerdo com \nredução significativa da fração de ejeção.",
+                "B": "Hipocinesia segmentar do ventrículo \nesquerdo, sugerindo isquemia miocárdica.",
+                "C": "Hipertrofia ventricular esquerda com função \nsistólica preservada.",
+                "D": "Prolapso da válvula mitral com regurgitação \nmitral significativa.",
+                "E": "Derrame pericárdico com sinais de \ntamponamento cardíaco. \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 13 de 16 QUESTÃO 40 \nDurante uma consulta de cardiologia, um \npaciente com histórico de dor torácica é \nencaminhado para um exame de medicina \nnuclear. A medicina nuclear oferece várias \ntécnicas de diagnóstico que utilizam isótopos \nradioativos para avaliar a função e estrutura de \ndiferentes órgãos. Qual das seguintes técnicas de \nmedicina nuclear é mais apropriada para avaliar \na perfusão miocárdica e detectar possíveis áreas \nde isquemia em um paciente com suspeita de \ndoença arterial coronariana? \n(A) Tomografia por emissão de pósitrons (PET) \nutilizando FDG (fluordesoxiglicose) para \nidentificar áreas de viabilidade miocárdica. \n(B) Cintilografia renal com Tc-99m DMSA para \navaliar a função renal. \n(C) Cintilografia óssea com Tc-99m MDP para \ndetectar metástases ósseas. \n(D) Cintilografia de ventilação/perfusão \npulmonar para diagnosticar embolia pulmonar. \n(E) Cintilografia de perfusão miocárdica com Tc-\n99m sestamibi em repouso e após estresse."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Um paciente de 58 anos com história de angina \nestável é submetido a um cateterismo cardíaco \npara avaliação hemodinâmica. A hemodinâmica \né um campo fundamental na cardiologia, focando \nno estudo da dinâmica do fluxo sanguíneo e das \npressões dentro do sistema cardiovascular. Qual \ndas seguintes afirmações descreve corretamente \num aspecto importante da hemodinâmica \navaliado durante um cateterismo cardíaco?",
+            "alternativas": {
+                "A": "Medição da pressão intra-auricular esquerda, \nque é um indicador direto da função diastólica do \nventrículo esquerdo.",
+                "B": "Avaliação da pressão arterial pulmonar para \ndiagnosticar diretamente doença arterial \ncoronariana.",
+                "C": "Determinação do gradiente de pressão \natravés da válvula aórtica para avaliar a presença \nde insuficiência mitral.",
+                "D": "Medição da pressão arterial sistêmica para \ndeterminar a presença de hipertensão pulmonar.",
+                "E": "Avaliação da pressão intracavitária do \nventrículo esquerdo e a reserva de fluxo \ncoronariano para identificar estenoses \ncoronarianas significativas. \n QUESTÃO 42 \nUm paciente de 45 anos com histórico de \nepilepsia refratária é encaminhado para uma \nressonância magnética (RM) do cérebro. A RM é \numa ferramenta diagnóstica avançada que \nfornece imagens detalhadas de estruturas \ninternas do corpo. No contexto da epilepsia \nrefratária, qual dos seguintes achados na \nressonância magnética cerebral é mais \nconsistente com uma possível causa subjacente \ndessa condição?  \n(A) Atrofia cerebral generalizada, típica de \ndoenças neurodegenerativas. \n(B) Lesões hiperintensas na substância branca, \nindicativas de esclerose múltipla. \n(C) Evidência de esclerose mesial temporal, \ncaracterística de epilepsia do lobo temporal. \n(D) Hemorragia subaracnoide, geralmente \nresultante de trauma craniano. \n(E) Calcificação na glândula pineal, um achado \nfrequentemente incidental."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Um pediatra avalia um recém-nascido com sinais \nde cianose e suspeita de cardiopatia congênita. \nAs cardiopatias congênitas podem ser \nclassificadas como cianóticas ou acianóticas, \ncom base na presença ou ausência de cianose. \nQual das seguintes cardiopatias congênitas é \nclassificada como cianótica e requer uma \nintervenção cirúrgica precoce para a \nsobrevivência da criança?",
+            "alternativas": {
+                "A": "Comunicação interatrial (CIA), que permite \no fluxo sanguíneo entre os átrios direito e \nesquerdo.",
+                "B": "Tetralogia de Fallot, uma combinação de \nquatro anormalidades cardíacas estruturais.",
+                "C": "Estenose pulmonar, caracterizada por um \nestreitamento da válvula pulmonar.",
+                "D": "Persistência do canal arterial (PCA), uma \nconexão patológica entre a aorta e a artéria \npulmonar.",
+                "E": "Coarctação da aorta, um estreitamento da \naorta que pode limitar o fluxo sanguíneo para a \nparte inferior do corpo. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 14 de 16 QUESTÃO 44 \nEm uma consulta de rotina, um paciente de 55 \nanos é diagnosticado com hipertensão arterial. A \nhipertensão é uma condição crônica que aumenta \nsignificativamente o risco de doenças \ncardiovasculares. Qual das seguintes afirmações \nrepresenta a abordagem inicial mais apropriada \npara o manejo da hipertensão arterial em um \npaciente sem comorbidades significativas?  \n(A) Tratamento agressivo com corticosteroides \npara reduzir rapidamente a pressão arterial. \n(B) Utilização de anti-hipertensivos de ação \ncentral como primeira linha de tratamento. \n(C) Prescrição exclusiva de mudanças no estilo \nde vida, como dieta e exercícios, sem medicação \ninicial. \n(D) Início imediato de uma terapia combinada \ncom três anti-hipertensivos de diferentes classes. \n(E) Implementação de uma monoterapia com um \ndiurético tiazídico, um inibidor da ECA, um \nbloqueador dos receptores de angiotensina II ou \num bloqueador de canal de cálcio."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Um cardiologista avalia um paciente de 60 anos \nque se queixa de dor no peito durante esforços \nfísicos. Suspeitando de isquemia miocárdica, o \nmédico solicita exames adicionais. A isquemia \nmiocárdica ocorre quando o suprimento de \nsangue ao coração é reduzido, geralmente devido \nà obstrução das artérias coronárias. Qual dos \nseguintes exames é o mais indicado para \nconfirmar o diagnóstico de isquemia miocárdica \nneste paciente?",
+            "alternativas": {
+                "A": "Ecocardiograma transtorácico em repouso \npara avaliar a função sistólica do ventrículo \nesquerdo.",
+                "B": "Teste ergométrico para avaliar a resposta do \ncoração ao esforço físico.",
+                "C": "Radiografia de tórax para visualizar a \nsilhueta cardíaca e descartar outras patologias.",
+                "D": "Cateterismo cardíaco para medir diretamente \nas pressões intracardíacas.",
+                "E": "Holter de 24 horas para monitorar arritmias \ncardíacas. QUESTÃO 46 \nUm paciente de 45 anos com um histórico \nprolongado de artrite reumatoide (AR) \napresenta-se com dor, inchaço e limitação de \nmovimento em várias articulações. \nRecentemente, ele também começou a \ndesenvolver nódulos subcutâneos e apresentar \nsintomas sistêmicos, como fadiga e perda de \npeso. Dada a progressão da doença, o \nreumatologista considera adicionar uma terapia \nadicional ao regime atual do paciente. Qual das \nseguintes opções representa a abordagem \nterapêutica mais adequada para um paciente com \nAR moderada a grave com manifestações \nsistêmicas e que já está sob tratamento com \nmetotrexato?  \n(A) Adicionar um agente biológico anti-TNF ou \num inibidor de JAK, caso haja resposta \ninadequada ao metotrexato. \n(B) Iniciar uma terapia de alta dose com \ncorticosteroides para controle rápido dos \nsintomas inflamatórios. \n(C) Substituir o metotrexato por terapia com anti-\ninflamatórios não esteroidais (AINEs) devido \naos sintomas sistêmicos. \n(D) Introdução de terapia com antimaláricos \ncomo hidroxicloroquina, preferencialmente em \nmonoterapia. \n(E) Implementar exclusivamente terapia física e \nde reabilitação, descontinuando o metotrexato. \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 15 de 16 QUESTÃO 47 \nUm cardiologista avalia um paciente de 70 anos \nque apresenta dispneia de esforço e fadiga. Um \necocardiograma revela um gradiente \nsignificativo através da válvula aórtica, \nsugerindo estenose valvar. As valvopatias são \ncondições que afetam o funcionamento das \nválvulas cardíacas. Qual das seguintes opções \nmelhor descreve a abordagem terapêutica \napropriada para um paciente idoso com estenose \naórtica grave sintomática?  \n(A) Administração de diuréticos para aliviar os \nsintomas de insuficiência cardíaca congestiva. \n(B) Início de terapia anticoagulante para prevenir \na formação de trombos na válvula aórtica. \n(C) Realização de valvoplastia com balão para \naliviar temporariamente a obstrução valvar. \n(D) Implantação de uma válvula aórtica por \ncateter (TAVI) ou substituição valvar aórtica \ncirúrgica. \n(E) Prescrição de inibidores da ECA para reduzir \na carga de trabalho do ventrículo esquerdo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Um paciente de 55 anos com insuficiência \ncardíaca congestiva avançada apresenta-se com \nfração de ejeção de 25%, edema de membros \ninferiores e dispneia em repouso. Ele já está \nrecebendo terapia padrão, incluindo diuréticos, \ninibidores da ECA e beta-bloqueadores. Dada a \nprogressão da doença apesar do tratamento, qual \ndas seguintes opções representa a abordagem \nterapêutica mais avançada e específica para este \npaciente?",
+            "alternativas": {
+                "A": "Início de terapia com digoxina para aumentar \na contratilidade cardíaca.",
+                "B": "Implantação de um desfibrilador \ncardioversor implantável (DCI) para prevenção \nde arritmias fatais.",
+                "C": "Administração de um inibidor da neprilisina \ne do receptor da angiotensina (ARNI), como \nsubstituição ao inibidor da ECA.",
+                "D": "Transplante cardíaco, considerado em \npacientes com insuficiência cardíaca refratária a \noutras terapias.",
+                "E": "Aumento da dose de diuréticos de alça para \ncontrolar mais efetivamente a retenção de \nlíquidos. \n QUESTÃO 49 \nUm paciente de 40 anos, nascido em uma região \nendêmica para a doença de Chagas, apresenta-se \ncom sintomas de insuficiência cardíaca e \narritmias ventriculares. Um exame sorológico \nconfirma a infecção pelo Trypanosoma cruzi, o \nagente etiológico da doença de Chagas. \nConsiderando o envolvimento cardíaco na \ndoença de Chagas crônica, qual das seguintes \nmanifestações é mais tipicamente associada a \nesta condição?  \n(A) Estenose valvar mitral progressiva. \n(B) Prolapso agudo da válvula mitral com \nregurgitação severa. \n(C) Hipertrofia concêntrica do ventrículo \nesquerdo. \n(D) Espessamento e calcificação das válvulas \naórtica e mitral. \n(E) Cardiomegalia com dilatação biventricular e \ndisfunção sistólica."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Um paciente de 30 anos, com histórico de uso de \ndrogas intravenosas, é admitido no hospital com \nfebre, mal-estar e um novo sopro cardíaco. \nExames de sangue revelam leucocitose e \nhemoculturas positivas. Um ecocardiograma \nmostra vegetações na válvula tricúspide. Com \nbase nestes achados, o diagnóstico de \nendocardite infecciosa é considerado. Qual das \nseguintes opções de tratamento é mais apropriada \npara a endocardite infecciosa aguda na válvula \ntricúspide em um paciente usuário de drogas \nintravenosas?",
+            "alternativas": {
+                "A": "Administração imediata de corticosteroides \npara reduzir a inflamação valvar.",
+                "B": "Cirurgia valvar urgente para remoção das \nvegetações e reconstrução valvar.",
+                "C": "Anticoagulação intensiva para prevenir a \nformação de trombos nas vegetações valvares.",
+                "D": "Terapia antibiótica empírica de amplo \nespectro, seguida de ajuste conforme resultados \nde culturas.",
+                "E": "Implantação de marca-passo cardíaco para \ngerenciar possíveis arritmias associadas. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 16 de 16"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: De acordo com o texto, conclui-se que:",
+            "alternativas": {
+                "A": "Luiz Augusto deixou Beatriz para ficar com \nJacinta por conta da omelete perfeita.",
+                "B": "Jacinta não aprendeu a omelete perfeita \nporque fez apenas a parte teórica do curso de \nculinária.",
+                "C": "Jacinta contava com o apoio de suas amigas \npara recuperar Luiz Augusto.",
+                "D": "Luiz Augusto deu uma segunda chance, mas \nnão aprovou a nova versão da omelete de Jacinta.",
+                "E": "Jacinta não atingiu a omelete perfeita porque \ntinha um entendimento distinto de baveuse . \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 3 de 16 QUESTÃO 02 \nO pronome demonstrativo em “—  Não — disse \nJacinta —, eu chamo isto de baveuse. ” funciona \ncomo um recurso de coesão textual de: \n(A) anáfora. \n(B) catáfora. \n(C) elipse. \n(D) substituição.  \n(E) sinonímia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Das associações sobre as personagens propostas \nnas alternativas a seguir, aquela que pode ser \ndepreendida corretamente do texto é:",
+            "alternativas": {
+                "A": "Caio Ribeiro – referência de bom preparo de \nomeletes, segundo o gosto de Luiz Augusto.",
+                "B": "Jacinta – atingiu, por fim, o preparo da \nomelete perfeita, ao gosto de Luiz Augusto, após \no curso de culinária, mas perdeu o interesse por \nele.",
+                "C": "Luiz Augusto – apreciador exigente de \nomeletes, demandava que sua companheira \npreparasse omeletes tão bem quanto ele.",
+                "D": "Beatriz – pessoa com quem Luiz Augusto foi \nmorar após se separar de Jacinta, fazia omeletes \nquase tão boas quanto as de Caio Ribeiro.",
+                "E": "Professora do curso de culinária – sugeriu a \nJacinta usar uma frigideira de ferro, para o caso \nde a omelete não ficar perfeita."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Analise as sentenças retiradas do texto e assinale \naquela em que o vocábulo “se” è um pronome \nexpletivo.",
+            "alternativas": {
+                "A": "“Mas Jacinta não se conformava.”",
+                "B": "“Quando alguèm —  desinformado ou \ndesalmado — perguntava perto da Jacinta se \n“omelete” era masculino ou feminino”.",
+                "C": "“Luiz Augusto sentou -se.”",
+                "D": "“O que se poderia dizer de um homem que \ntinha abandonado a mulher de dez anos de \ncasamento, para não falar em cotas num \ncondomínio horizontal da zona Sul, por uma \nomelete bem- feita?”",
+                "E": "“Luiz Augusto não se cansava de repetir que \na omelete perfeita devia ser tostada por fora e \númida por dentro.”  \n \n \n Considere o excerto a seguir para responder \nàs questões 5, 6 e 7:  \n \nDurante dez anos, Jacinta ouvira críticas à sua \nomelete. Quando Luiz Augusto anunciara que \nencontrara uma mulher que fazia omeletes \nperfeitas — melhores, inclusive, que as do Caio \nRibeiro — e que iria morar com ela, \nacrescentou:  — Você não pode dizer que não lhe \ndei todas as chances, Cintinha."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: No contexto apresentado, em relação à classe \ngramatical, os vocábulos “que” em destaque \natuam, respectivamente, como:",
+            "alternativas": {
+                "A": "conjunção integrante, pronome relativo e \nconjunção comparativa.",
+                "B": "conjunção integrante, pronome relativo e \nconjunção integrante.",
+                "C": "preposição, pronome relativo e preposição.",
+                "D": "conjunção causal, conjunção integrante e \nconjunção integrante.",
+                "E": "conjunção causal, pronome interrogativo e \nconjunção comparativa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Dentre todas as palavras que ocorrem no excerto \napresentado, pertencem à classe gramatical das \npreposições:",
+            "alternativas": {
+                "A": "à, do.",
+                "B": "durante, com.",
+                "C": "a, quando, de, com.",
+                "D": "durante, à, inclusive, do.",
+                "E": "durante, a, de, com."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Os verbos “ouvira”, “anunciara” e “encontrara”, \nque ocorrem no excerto apresentado, estão \nconjugados no tempo:",
+            "alternativas": {
+                "A": "pretérito imperfeito do modo indicativo.",
+                "B": "pretérito perfeito do modo indicativo.",
+                "C": "pretérito mais-que-perfeito do modo \nindicativo.",
+                "D": "futuro do pretérito do modo indicativo.",
+                "E": "pretérito imperfeito do modo subjuntivo. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 4 de 16 QUESTÃO 08 \nDe acordo com a gramática normativa, a ênclise \nestá vetada se: \nI. O verbo está flexionado em uma oração \nsubordinada. \nII. A oração é iniciada por palavra interrogativa. \nIII. Em uma locução verbal, o verbo auxiliar está \nflexionado no presente do indicativo.  \nÉ (são) verdadeira(s) apenas a(s) afirmativa(s) \nem:  \n(A) I. \n(B) II. \n(C) III. \n(D) I e II. \n(E) II e III."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a qualidade expressa pelo adjetivo é \ncomparativa.",
+            "alternativas": {
+                "A": "Maria é tão caprichosa quanto sua irmã.",
+                "B": "Estou extremamente cansada.",
+                "C": "A atriz estava elegantíssima no desfile de \nmoda.",
+                "D": "Daniel é o mais engajado dentre os \nparticipantes do programa.",
+                "E": "Quando percebeu minha tristeza, passou a ser \ngentil."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale aquela \nem que ocorre desvio ortográfico.",
+            "alternativas": {
+                "A": "O casal se separou recentemente, razão por \nque não foram juntos ao evento.",
+                "B": "Isto é só mais um empecilho para dificultar \nas coisas.",
+                "C": "Os funcionários estão reinvindicando \nmelhores condições de trabalho.",
+                "D": "Que coincidência nos encontrarmos aqui!",
+                "E": "Espetáculos teatrais são ótimas formas de \nentretenimento. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Em uma certa loja, o preço das camisas era o \nmesmo para todas as camisas e o preço das calças \nera o mesmo para todas as calças. Leandro \ncomprou nessa loja 2 camisas e 3 calças e pagou \nR$ 510,00. Ele também comprou 1 camisa e 2 \ncalças para seu filho e pagou R$ 320,00. \nPodemos afirmar que o preço de cada camisa \nnessa loja é:",
+            "alternativas": {
+                "A": "R$ 60,00.",
+                "B": "R$ 65,00.",
+                "C": "R$ 58,00.",
+                "D": "R$ 72,00.",
+                "E": "R$ 55,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Segundo dados do IBGE de 2021, o município de \nArarendá, no Ceará, possui o maior IDEB (Índice \nde Desenvolvimento da Educação Básica) nos \nanos iniciais do ensino fundamental. No ano de \n2019 o IDEB foi de 8,3 e no ano de 2021 o IDEB \nfoi de 9,5. Podemos afirmar que o crescimento \npercentual do IDEB de 2019 para 2021 foi \naproximadamente de:",
+            "alternativas": {
+                "A": "10%.",
+                "B": "14%.",
+                "C": "25%.",
+                "D": "22%.",
+                "E": "20%.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 5 de 16 QUESTÃO 13 \nUm marceneiro recebe um pedido para fazer uma \nmesa em forma de um coração, composta por \ndois semicírculos e um quadrado, conforme a \nfigura abaixo. \n \n \n \n \n \n \nSabendo que os gastos com a figura mostrada são \nde R$ 120,00 por metro quadrado, qual é o gasto \ntotal se o quadrado possui lado de 1m? Considere \n𝜋 ≈ 3 . \n(A) R$ 175,00. \n(B) R$ 180,00. \n(C) R$ 190,00.  \n(D) R$ 200,00. \n(E) R$ 210,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Considere verdadeira a seguinte proposição \ncondicional: \n“Se Paulo sabe fazer bolo, então ele sabe fazer \nbiscoitos.”  \nA partir dessa proposição, também é verdade \nque:",
+            "alternativas": {
+                "A": "Se Paulo não sabe fazer biscoitos, então ele \nnão sabe fazer bolo.",
+                "B": "Provavelmente Paulo sabe fazer bolo e sabe \nfazer biscoitos.",
+                "C": "Ou Paulo sabe fazer bolo ou Paulo sabe fazer \nbiscoitos.",
+                "D": "Se Paulo souber fazer bolo, também saberá \nfazer biscoitos.",
+                "E": "Paulo não sabe fazer bolo, nem sabe fazer \nbiscoitos.  \n \n QUESTÃO 15 \nO dono de um brechó decidiu fazer uma \npromoção para as camisas que ele vende. Ele \nobservou que as vendas das camisas durante o \nmês anterior ocorreram segundo a tabela: \nMarca da \ncamisa Preço da \ncamisa Número de \ncamisas \nvendidas  \nMarca A R$ 20,00 20 \nMarca B R$ 18,00 22 \nMarca C R$ 25,00 20 \n \nEle decidiu que no mês atual as camisas de todas \nas marcas possuirão o mesmo preço. O dono do \nbrechó definiu o novo preço da camisa como \nsendo o preço médio de todas as camisas \nvendidas independentemente de sua marca. \nAssim, no mês atual, o preço da camisa é \naproximadamente: \n(A) R$ 18,90. \n(B) R$ 20,90. \n(C) R$ 21,70. \n(D) R$ 22,80.  \n(E) R$ 24,60."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: A sequência abaixo mostra os 4 primeiros \nnúmeros primos: \n2,3,5,7 …  \nOs números primos são números que somente \nsão divisíveis por 1 e por eles mesmos. Qual é o \nsétimo termo dessa sequência?",
+            "alternativas": {
+                "A": "12.",
+                "B": "13.",
+                "C": "15.",
+                "D": "17.",
+                "E": "19. \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 6 de 16 QUESTÃO 17 \nCarlos fez uma aplicação de R$ 12.000,00 a uma \ntaxa de 5% ao mês durante 3 anos em regime de \njuros simples. Ao final dessa aplicação qual é o \nmontante que Carlos possuirá? \n(A) R$ 26.800,00.  \n(B) R$ 30.600,00. \n(C) R$ 33.600,00. \n(D) R$ 34.000,00. \n(E) R$ 36.700,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Suponha que no ano de 2023, 8% de todas as \ndespesas do governo de um determinado país \nforam com Educação. Já dentre as despesas com \na Educação, as despesas com educação \nprofissionalizante representaram 10%. Se o valor \nde todas as despesas do governo foi de R$ 4 \ntrilhões, então qual o valor as despesas com \neducação profissionalizante?",
+            "alternativas": {
+                "A": "R$ 3,2 bilhões.",
+                "B": "R$ 320 bilhões.",
+                "C": "R$ 32 bilhões.",
+                "D": "R$ 400 bilhões.",
+                "E": "R$ 40 bilhões."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Queremos construir duas figuras geométricas, \num quadrado de lado 𝑎 e um triângulo equilátero \nde lado 𝑑, de modo que os dois tenham o mesmo \nperímetro. Qual é a razão entre a área e o \nperímetro do quadrado em termos de 𝑑?",
+            "alternativas": {
+                "A": "2\n7𝑑.",
+                "B": "3\n8𝑑.",
+                "C": "3\n32𝑑.",
+                "D": "3\n16𝑑.",
+                "E": "1\n2𝑑. \n QUESTÃO 20 \nUm projetista recomenda que para fazer o \nconcreto utilize-se, para cada porção de cimento, \n2 porções de areia e 3 porções de pedra brita, em \nmassa. Sendo assim, na mistura final que o \nprojetista recomenda a quantidade de areia \nrepresenta qual porcentagem da massa total? \n(A) 19%.  \n(B) 20%. \n(C) 25%. \n(D) 30%. \n(E) 33%. \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "Não encontrada"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Sobre a função “responder” no MS -Outlook \n2016, é incorreto o que se afirma em: \nI - O anexo será mantido na mensagem. \nII - O campo “Para” deverá ser preenchido.  \nIII - A mensagem de resposta será enviada \napenas para o remetente original. \nIV - O campo “Assunto” não será preenchido \nautomaticamente. \nV - O texto original do remetente não será \nmantido.",
+            "alternativas": {
+                "A": "I e III, apenas.",
+                "B": "I, II e V, apenas.",
+                "C": "I, II, IV e V, apenas.",
+                "D": "I, II, III e V, apenas.",
+                "E": "Nenhuma das afirmativas estão incorretas. \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 7 de 16 QUESTÃO 22 \nO MS-Word 2016 possui diversas ferramentas de \nedição e formatação texto, sendo algumas delas: \n \nAssinale a alternativa que não contenha um dos \nelementos de formatação dentre os \nrepresentados. \n(A) Tachado.  \n(B) Sublinhado. \n(C) Subscrito.  \n(D) Itálico. \n(E) Negrito."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Analiseas imagens a seguir: \nI: \n \nII:",
+            "alternativas": {
+                "A": "A imagem I representa um gerenciador de e-\nmails da suíte Microsoft Office.",
+                "B": "A imagem II representa um gerenciador de e-\nmails desenvolvido e mantido pela Google.",
+                "C": "Ambas as imagens representam softwares de \ndesenvolvimento de planilhas eletrônicas.",
+                "D": "Nenhuma das imagens representam \ngerenciadores de e-mails.",
+                "E": "Ambas as imagens representam \ngerenciadores de e-mails. \n \n \n QUESTÃO 24 \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Nesse \ncontexto, são palavras que integram o significado \nde URL: \n( ) Uniform.  \n( ) Resource  \n( ) Lover. \n( ) User. \n( ) Locator. \nIndique “V” para verdadeiro e “F” para falso.  \n(A) V, F, V, F, V. \n(B) F, F, V, V, F. \n(C) V, V, F, F, V. \n(D) V, V, F, V, V.  \n(E) F, F, V, F, F."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Leia atentamente os trechos a seguir: \nTrecho 1: As configurações de impressão \npermitem escolher entre as opções de orientação \nretrato (vertical) e paisagem (horizontal) para \ndeterminar a direção da impressão na página. \nTrecho 2: É possível selecionar o tamanho do \npapel a ser utilizado na impressão, como A4, \ncarta, ofício, entre outros, para corresponder ao \nformato desejado. \nTrecho 3: Não é possível ajustar as margens da \npágina, determinando a quantidade de espaço em \nbranco ao redor do conteúdo impresso, \npersonalizando a formatação da página. \nDiante da análise, assinale a alternativa correta.",
+            "alternativas": {
+                "A": "Todos os trechos apresentados fazem \nafirmações corretas acerca da digitalização de \num documento.",
+                "B": "Todos os trechos apresentados fazem \nafirmações incorretas acerca da impressão de um \ndocumento.",
+                "C": "O trecho 1 está correto ao afirmar que é \npossível selecionar o tamanho do papel a ser \nutilizado na impressão .",
+                "D": "O trecho 3 se equivoca ao mencionar que não \npossível ajustar as margens da página.",
+                "E": "O trecho 2 está correto ao afirmar que as \nconfigurações de impressão permitem escolher \nentre as opções de orientação retrato. \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 8 de 16 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: De acordo com o Decreto Federal n° 7.508/2011. \nAssinale a alternativa incorreta.",
+            "alternativas": {
+                "A": "Contrato Organizativo da Ação Pública da \nSaúde - acordo de colaboração firmado entre entes \nfederativos com a finalidade de organizar e integra r \nas ações e serviços de saúde na rede regionalizada \ne hierarquizada, com definição de \nresponsabilidades, indicadores e metas de saúde, \ncritérios de avaliação de desempenho, recursos \nfinanceiros que serão disponibilizados, forma de \ncontrole e fiscalização de sua execução e demais \nelementos necessários à implementação integrada \ndas ações e serviços de saúde;",
+                "B": "Portas de Entrada - serviços de \natendimento inicial à saúde do usuário no SUS;",
+                "C": "Comissões Intergestores - instâncias de \npactuação consensual entre os entes federativos \npara definição das regras da gestão \ncompartilhada do SUS;",
+                "D": "Região de Saúde - descrição geográfica da \ndistribuição de recursos humanos e de ações e \nserviços de saúde ofertados pelo SUS e pela \niniciativa privada, considerando-se a capacidade \ninstalada existente, os investimentos e o \ndesempenho aferido a partir dos indicadores de \nsaúde do sistema;",
+                "E": "Rede de Atenção à Saúde - conjunto de \nações e serviços de saúde articulados em níveis \nde complexidade crescente, com a finalidade de \ngarantir a integralidade da assistência à saúde; \n \n \n \n \n \n QUESTÃO 27 \nDe acordo com a Lei 8.142/1990. O Sistema \nÚnico de Saúde (SUS), contará, em cada esfera \nde governo, sem prejuízo das funções do Poder \nLegislativo, com as seguintes instâncias \ncolegiadas: a Conferência de Saúde; e o \nConselho de Saúde. Em relação a Conferência \nde Saúde , assinale a alternativa correta. \n(A) A Conferência de Saúde reúne-se a cada \ndois anos para avaliar a situação de saúde e \npropor diretrizes para a política de saúde nos \nníveis correspondentes. \n(B) A Conferência de Saúde é convocada \nexclusivamente pelo Conselho de Saúde, sem a \npossibilidade de convocação pelo Poder \nExecutivo. \n(C) A periodicidade da Conferência de Saúde é \ndeterminada pelo Conselho de Saúde, sem a \nnecessidade de convocação pelo Poder \nExecutivo. \n(D) A Conferência de Saúde é convocada a \ncada cinco anos, com a representação de diversos \nsegmentos sociais, para registrar a situação de \nsaúde e propor diretrizes para a política de saúde \nnos níveis correspondentes, podendo ser \nconvocada extraordinariamente pelo Poder \nExecutivo ou pelo Conselho de Saúde. \n(E) A Conferência de Saúde reunir-se-á a cada \nquatro anos com a representação dos vários \nsegmentos sociais, para avaliar a situação de \nsaúde e propor as diretrizes para a formulação da \npolítica de saúde nos níveis correspondentes, \nconvocada pelo Poder Executivo ou, \nextraordinariamente, por esta ou pelo Conselho \nde Saúde. \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 9 de 16 QUESTÃO 28 \nDe acordo a Lei Federal 8080, de 19/09/1990. \nanalise as afirmativas abaixo atribuindo (V) para \nVerdadeira e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta.  \n \n( ) Entende-se por saúde do trabalhador um \nconjunto de ações que proporcionam o \nconhecimento, a detecção ou prevenção de \nqualquer mudança nos fatores determinantes e \ncondicionantes de saúde individual ou coletiva, \ncom a finalidade de recomendar e adotar as \nmedidas de prevenção e controle das doenças ou \nagravos. \n \n( ) Entende-se por vigilância sanitária, um \nconjunto de atividades que se destina, através das \nações de vigilância epidemiológica, à promoção \ne proteção da saúde dos trabalhadores, assim \ncomo visa à recuperação e reabilitação da saúde \ndos trabalhadores submetidos aos riscos e \nagravos advindos das condições de trabalho. \n \n( )  Entende-se por saúde bucal o conjunto \narticulado de ações, em todos os níveis de \ncomplexidade, que visem a garantir promoção, \nprevenção, recuperação e reabilitação \nodontológica, individual e coletiva, inseridas no \ncontexto da integralidade da atenção à saúde. \n \n(A) V- F -F  \n(B) F- V- V \n(C) V- F -V \n(D) V -V -V \n(E) F -F -V \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 29 \nAnalise os itens a seguir de acordo com a \nConstituição da República Federativa do Brasil e \nassinale a alternativa correta. \n \nI – A seguridade social compreende um conjunto \nintegrado de ações de iniciativa dos Poderes \nPúblicos e Privado, destinadas a assegurar os \ndireitos relativos à saúde, à educação e a \nsociedade. \n \nII –  A pessoa jurídica em débito com o sistema \nda seguridade social, como estabelecido em lei, \nnão poderá contratar com o Poder Público nem \ndele receber benefícios ou incentivos fiscais ou \ncreditícios. \n \n(A) A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira. \n \n(B) As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I. \n \n(C) A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa. \n \n(D) As asserções I e II são proposições falsas. \n \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 10 de 16 QUESTÃO 30 \nDe acordo a Lei Federal 8080, de \n19/09/1990.Complete corretamente a lacuna. \nAs ações e serviços de saúde, executados pelo \nSistema Único de Saúde (SUS), seja diretamente \nou mediante participação complementar da \niniciativa privada, serão organizados de forma \n_____________________________________. \n \n(A) regionalizada e hierarquizada em níveis de \ncomplexidade crescente. \n(B) hierarquizada e centralizada em todos os \nníveis de complexidade. \n(C) centralizada e e hierarquizada sem \ndiferenciação de complexidade. \n(D) descentralizada e com autonomia individual. \n(E) estruturada conforme critérios políticos e \neconômicos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Um homem de 55 anos, obeso, hipertenso e \ndiabético, apresenta dor no peito ao realizar \nesforço físico. O eletrocardiograma (ECG) \nmostra alterações compatíveis com isquemia \nmiocárdica. Qual é o diagnóstico mais provável?",
+            "alternativas": {
+                "A": "Insuficiência cardíaca.",
+                "B": "Acidente vascular cerebral.",
+                "C": "Insuficiência coronariana.",
+                "D": "Angina estável.",
+                "E": "Angina instável. \n \n \n \n \n \n \n \n \n \n QUESTÃO 32 \nA fração de ejeção (FE) é a percentagem do \nsangue na câmara de bombeamento principal que \né ejetada com cada batimento. Quando a FE é \nreduzida devido a uma lesão do músculo \ncardíaco, como após um ataque cardíaco, a \ncontração do músculo cardíaco é mais fraca e a \ncapacidade de bombeamento é reduzida. Qual \ndas seguintes afirmações sobre a insuficiência \ncardíaca com fração de ejeção reduzida (ICFEr) \nestá correta?  \n(A)A ICFEr ocorre quando a porcentagem de \nsangue bombeada para fora do coração a cada \nbatimento é menor ou igual a 40%.  \n(B)A ICFEr ocorre quando a porcentagem de \nsangue bombeada para fora do coração a cada \nbatimento fica entre 41 e 49%.  \n(C)A ICFEr ocorre quando a porcentagem de \nsangue bombeada para fora do coração a cada \nbatimento é maior ou igual a 50%.  \n(D)A ICFEr ocorre quando a porcentagem de \nsangue bombeada para fora do coração a cada \nbatimento é maior ou igual a 60%.  \n(E)A ICFEr ocorre quando a porcentagem de \nsangue bombeada para fora do coração a cada \nbatimento é menor ou igual a 30%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Um paciente com insuficiência renal crônica está \nem tratamento com diálise peritoneal. Qual é a \ncausa mais comum de peritonite em pacientes em \ndiálise peritoneal?",
+            "alternativas": {
+                "A": "Infecção por Staphylococcus aureus.",
+                "B": "Infecção por Streptococcus pneumoniae.",
+                "C": "Infecção por Escherichia coli.",
+                "D": "Infecção por fungos.",
+                "E": "Infecção por Candida albicans. \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 11 de 16 QUESTÃO 34 \nA Doença Pulmonar Obstrutiva Crônica (DPOC) \né uma condição médica que envolve a obstrução \ncrônica do fluxo de ar nas vias aéreas, \ndificultando a respiração. Sobre esse tema, \nanalise as afirmativas abaixo:  \nI- As principais doenças que compõem a DPOC \nsão a bronquite crônica, o enfisema pulmonar e a \nfibrose cística. \nII- O tratamento da DPOC geralmente envolve \numa combinação de mudanças no estilo de vida, \nmedicamentos, fisioterapia respiratória e, em \nalguns casos, cirurgia. \nIII- Os principais mecanismos fisiopatológicos \nda DPOC são Inflamação crônica das vias aéreas, \nobstrução das vias aéreas e hiperinflação \npulmonar. \nIV- As principais manifestações clínicas da \nDPOC são: falta de ar, tosse, expectoração e dor \nabdominal. \nEstão corretas as afirmativas: \n(A) Somente II e III. \n(B) Somente II e IV. \n(C) Somente I e III. \n(D) Somente I e IV. \n(E) Somente III e IV. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 35 \nDe acordo com o Estudo Longitudinal de Saúde \ndos Idosos Brasileiros (ELSI-Brasil), 7 em cada \n10 idosos sofrem de ao menos uma doença \ncrônica. Sobre esse tema, analise as afirmativas: \nI- Doenças cardiovasculares representam a maior \ntaxa de mortalidade entre os idosos e envolvem \ndoenças como hipertensão arterial, doença \ncoronariana, infarto e angina. \nII- Com o aumento da gordura e perda de massa \nmuscular, o corpo passa a não responder e \nprocessar tão bem a insulina e contribui com o \naparecimento da diabetes tipo 2. A doença \npromove consequências em efeito cascata e afeta \nos rins, o coração e a visão. \nIII- A osteoporose atinge mais os homens e está \nrelacionada à diminuição da massa óssea, que já \né menor no sexo masculino. As consequências, \napesar de não serem aparentes, são um grande \nproblema aos idosos, que são mais suscetíveis às \nfraturas. \nIV- As doenças cerebrovasculares, como o \nacidente vascular cerebral, são a segunda causa \nde morte em pessoas com 65 anos ou mais. \nEstão corretas as afirmativas  \n(A) Somente I, II e III. \n(B) Somente II e IV. \n(C) Somente I e III. \n(D) Somente I. II e IV. \n(E) Somente III e IV. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 12 de 16 QUESTÃO 36 \nUm estudante de medicina está aprendendo sobre \na estrutura e função do aparelho cardiovascular. \nUm aspecto fundamental da fisiologia \ncardiovascular é a regulação do débito cardíaco. \nQual das seguintes afirmações explica \ncorretamente um dos principais fatores que \ninfluenciam o débito cardíaco?  \n(A) O débito cardíaco é diretamente proporcional \nà frequência cardíaca e inversamente \nproporcional à pressão arterial sistêmica. \n(B) A pré-carga, definida como o volume de \nsangue no ventrículo ao final da diástole, não tem \nimpacto significativo no débito cardíaco. \n(C) O débito cardíaco aumenta \nproporcionalmente com o aumento da pós-carga, \nque é a resistência vascular contra a qual o \ncoração precisa ejetar sangue. \n(D) A contratilidade cardíaca, referindo-se à \nforça de contração do músculo cardíaco, é um \ndeterminante chave do débito cardíaco. \n(E) O débito cardíaco é regulado primariamente \npela concentração de oxigênio no sangue, \naumentando à medida que os níveis de oxigênio \ndiminuem."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Durante um exame cardiológico, um médico \nrealiza a ausculta do coração de um paciente e \nidentifica um sopro cardíaco. Os sopros \ncardíacos são sons anormais ouvidos durante o \nciclo cardíaco que podem indicar uma variedade \nde condições patológicas. Qual das seguintes \nafirmações descreve corretamente a \ncaracterização de um sopro cardíaco comum na \nsemiologia do aparelho cardiovascular?",
+            "alternativas": {
+                "A": "Um sopro sistólico de ejeção, audível no foco \naórtico, sugere estenose aórtica.",
+                "B": "Um sopro diastólico de alta frequência no \nápice cardíaco é indicativo de estenose \ntricúspide.",
+                "C": "Um sopro contínuo, ouvido melhor na borda \nesternal esquerda, é característico de \nregurgitação pulmonar.",
+                "D": "Um sopro sistólico regurgitativo ouvido no \nfoco pulmonar é um sinal clássico de \ninsuficiência mitral.",
+                "E": "Sopros diastólicos de enchimento são \ncomumente associados à regurgitação aórtica. \n QUESTÃO 38 \nDurante uma avaliação de rotina, um \neletrocardiograma (ECG) é realizado em um \npaciente de 50 anos que se queixa de episódios \nintermitentes de palpitações. O ECG é uma \nferramenta diagnóstica essencial na cardiologia, \nfornecendo informações valiosas sobre a \natividade elétrica do coração. Qual das seguintes \nalterações no ECG é mais consistente com um \ndiagnóstico de taquicardia supraventricular?  \n(A) Bradicardia sinusal com frequência cardíaca \ninferior a 60 bpm e intervalo PR prolongado. \n(B) Ritmo regular com frequência cardíaca \nsuperior a 100 bpm e ausência de ondas P \ndiscerníveis. \n(C) Complexos QRS alargados e um padrão de \nonda delta, indicativos de síndrome de Wolff-\nParkinson-White.  \n(D) Elevação do segmento ST em derivações \nprecordiais, sugerindo infarto agudo do \nmiocárdio. \n(E) Ondas T invertidas nas derivações \nprecordiais, indicativas de isquemia miocárdica."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Um cardiologista realiza um ecocardiograma em \num paciente de 65 anos que apresenta dispneia e \nedema de membros inferiores. A ecocardiografia \né um exame diagnóstico chave na avaliação de \ndiversas patologias cardíacas. Qual dos seguintes \nachados na ecocardiografia é mais indicativo de \ninsuficiência cardíaca com fração de ejeção \npreservada?",
+            "alternativas": {
+                "A": "Dilatação do ventrículo esquerdo com \nredução significativa da fração de ejeção.",
+                "B": "Hipocinesia segmentar do ventrículo \nesquerdo, sugerindo isquemia miocárdica.",
+                "C": "Hipertrofia ventricular esquerda com função \nsistólica preservada.",
+                "D": "Prolapso da válvula mitral com regurgitação \nmitral significativa.",
+                "E": "Derrame pericárdico com sinais de \ntamponamento cardíaco. \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 13 de 16 QUESTÃO 40 \nDurante uma consulta de cardiologia, um \npaciente com histórico de dor torácica é \nencaminhado para um exame de medicina \nnuclear. A medicina nuclear oferece várias \ntécnicas de diagnóstico que utilizam isótopos \nradioativos para avaliar a função e estrutura de \ndiferentes órgãos. Qual das seguintes técnicas de \nmedicina nuclear é mais apropriada para avaliar \na perfusão miocárdica e detectar possíveis áreas \nde isquemia em um paciente com suspeita de \ndoença arterial coronariana? \n(A) Tomografia por emissão de pósitrons (PET) \nutilizando FDG (fluordesoxiglicose) para \nidentificar áreas de viabilidade miocárdica. \n(B) Cintilografia renal com Tc-99m DMSA para \navaliar a função renal. \n(C) Cintilografia óssea com Tc-99m MDP para \ndetectar metástases ósseas. \n(D) Cintilografia de ventilação/perfusão \npulmonar para diagnosticar embolia pulmonar. \n(E) Cintilografia de perfusão miocárdica com Tc-\n99m sestamibi em repouso e após estresse."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Um paciente de 58 anos com história de angina \nestável é submetido a um cateterismo cardíaco \npara avaliação hemodinâmica. A hemodinâmica \né um campo fundamental na cardiologia, focando \nno estudo da dinâmica do fluxo sanguíneo e das \npressões dentro do sistema cardiovascular. Qual \ndas seguintes afirmações descreve corretamente \num aspecto importante da hemodinâmica \navaliado durante um cateterismo cardíaco?",
+            "alternativas": {
+                "A": "Medição da pressão intra-auricular esquerda, \nque é um indicador direto da função diastólica do \nventrículo esquerdo.",
+                "B": "Avaliação da pressão arterial pulmonar para \ndiagnosticar diretamente doença arterial \ncoronariana.",
+                "C": "Determinação do gradiente de pressão \natravés da válvula aórtica para avaliar a presença \nde insuficiência mitral.",
+                "D": "Medição da pressão arterial sistêmica para \ndeterminar a presença de hipertensão pulmonar.",
+                "E": "Avaliação da pressão intracavitária do \nventrículo esquerdo e a reserva de fluxo \ncoronariano para identificar estenoses \ncoronarianas significativas. \n QUESTÃO 42 \nUm paciente de 45 anos com histórico de \nepilepsia refratária é encaminhado para uma \nressonância magnética (RM) do cérebro. A RM é \numa ferramenta diagnóstica avançada que \nfornece imagens detalhadas de estruturas \ninternas do corpo. No contexto da epilepsia \nrefratária, qual dos seguintes achados na \nressonância magnética cerebral é mais \nconsistente com uma possível causa subjacente \ndessa condição?  \n(A) Atrofia cerebral generalizada, típica de \ndoenças neurodegenerativas. \n(B) Lesões hiperintensas na substância branca, \nindicativas de esclerose múltipla. \n(C) Evidência de esclerose mesial temporal, \ncaracterística de epilepsia do lobo temporal. \n(D) Hemorragia subaracnoide, geralmente \nresultante de trauma craniano. \n(E) Calcificação na glândula pineal, um achado \nfrequentemente incidental."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Um pediatra avalia um recém-nascido com sinais \nde cianose e suspeita de cardiopatia congênita. \nAs cardiopatias congênitas podem ser \nclassificadas como cianóticas ou acianóticas, \ncom base na presença ou ausência de cianose. \nQual das seguintes cardiopatias congênitas é \nclassificada como cianótica e requer uma \nintervenção cirúrgica precoce para a \nsobrevivência da criança?",
+            "alternativas": {
+                "A": "Comunicação interatrial (CIA), que permite \no fluxo sanguíneo entre os átrios direito e \nesquerdo.",
+                "B": "Tetralogia de Fallot, uma combinação de \nquatro anormalidades cardíacas estruturais.",
+                "C": "Estenose pulmonar, caracterizada por um \nestreitamento da válvula pulmonar.",
+                "D": "Persistência do canal arterial (PCA), uma \nconexão patológica entre a aorta e a artéria \npulmonar.",
+                "E": "Coarctação da aorta, um estreitamento da \naorta que pode limitar o fluxo sanguíneo para a \nparte inferior do corpo. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 14 de 16 QUESTÃO 44 \nEm uma consulta de rotina, um paciente de 55 \nanos é diagnosticado com hipertensão arterial. A \nhipertensão é uma condição crônica que aumenta \nsignificativamente o risco de doenças \ncardiovasculares. Qual das seguintes afirmações \nrepresenta a abordagem inicial mais apropriada \npara o manejo da hipertensão arterial em um \npaciente sem comorbidades significativas?  \n(A) Tratamento agressivo com corticosteroides \npara reduzir rapidamente a pressão arterial. \n(B) Utilização de anti-hipertensivos de ação \ncentral como primeira linha de tratamento. \n(C) Prescrição exclusiva de mudanças no estilo \nde vida, como dieta e exercícios, sem medicação \ninicial. \n(D) Início imediato de uma terapia combinada \ncom três anti-hipertensivos de diferentes classes. \n(E) Implementação de uma monoterapia com um \ndiurético tiazídico, um inibidor da ECA, um \nbloqueador dos receptores de angiotensina II ou \num bloqueador de canal de cálcio."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Um cardiologista avalia um paciente de 60 anos \nque se queixa de dor no peito durante esforços \nfísicos. Suspeitando de isquemia miocárdica, o \nmédico solicita exames adicionais. A isquemia \nmiocárdica ocorre quando o suprimento de \nsangue ao coração é reduzido, geralmente devido \nà obstrução das artérias coronárias. Qual dos \nseguintes exames é o mais indicado para \nconfirmar o diagnóstico de isquemia miocárdica \nneste paciente?",
+            "alternativas": {
+                "A": "Ecocardiograma transtorácico em repouso \npara avaliar a função sistólica do ventrículo \nesquerdo.",
+                "B": "Teste ergométrico para avaliar a resposta do \ncoração ao esforço físico.",
+                "C": "Radiografia de tórax para visualizar a \nsilhueta cardíaca e descartar outras patologias.",
+                "D": "Cateterismo cardíaco para medir diretamente \nas pressões intracardíacas.",
+                "E": "Holter de 24 horas para monitorar arritmias \ncardíacas. QUESTÃO 46 \nUm paciente de 45 anos com um histórico \nprolongado de artrite reumatoide (AR) \napresenta-se com dor, inchaço e limitação de \nmovimento em várias articulações. \nRecentemente, ele também começou a \ndesenvolver nódulos subcutâneos e apresentar \nsintomas sistêmicos, como fadiga e perda de \npeso. Dada a progressão da doença, o \nreumatologista considera adicionar uma terapia \nadicional ao regime atual do paciente. Qual das \nseguintes opções representa a abordagem \nterapêutica mais adequada para um paciente com \nAR moderada a grave com manifestações \nsistêmicas e que já está sob tratamento com \nmetotrexato?  \n(A) Adicionar um agente biológico anti-TNF ou \num inibidor de JAK, caso haja resposta \ninadequada ao metotrexato. \n(B) Iniciar uma terapia de alta dose com \ncorticosteroides para controle rápido dos \nsintomas inflamatórios. \n(C) Substituir o metotrexato por terapia com anti-\ninflamatórios não esteroidais (AINEs) devido \naos sintomas sistêmicos. \n(D) Introdução de terapia com antimaláricos \ncomo hidroxicloroquina, preferencialmente em \nmonoterapia. \n(E) Implementar exclusivamente terapia física e \nde reabilitação, descontinuando o metotrexato. \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 15 de 16 QUESTÃO 47 \nUm cardiologista avalia um paciente de 70 anos \nque apresenta dispneia de esforço e fadiga. Um \necocardiograma revela um gradiente \nsignificativo através da válvula aórtica, \nsugerindo estenose valvar. As valvopatias são \ncondições que afetam o funcionamento das \nválvulas cardíacas. Qual das seguintes opções \nmelhor descreve a abordagem terapêutica \napropriada para um paciente idoso com estenose \naórtica grave sintomática?  \n(A) Administração de diuréticos para aliviar os \nsintomas de insuficiência cardíaca congestiva. \n(B) Início de terapia anticoagulante para prevenir \na formação de trombos na válvula aórtica. \n(C) Realização de valvoplastia com balão para \naliviar temporariamente a obstrução valvar. \n(D) Implantação de uma válvula aórtica por \ncateter (TAVI) ou substituição valvar aórtica \ncirúrgica. \n(E) Prescrição de inibidores da ECA para reduzir \na carga de trabalho do ventrículo esquerdo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Um paciente de 55 anos com insuficiência \ncardíaca congestiva avançada apresenta-se com \nfração de ejeção de 25%, edema de membros \ninferiores e dispneia em repouso. Ele já está \nrecebendo terapia padrão, incluindo diuréticos, \ninibidores da ECA e beta-bloqueadores. Dada a \nprogressão da doença apesar do tratamento, qual \ndas seguintes opções representa a abordagem \nterapêutica mais avançada e específica para este \npaciente?",
+            "alternativas": {
+                "A": "Início de terapia com digoxina para aumentar \na contratilidade cardíaca.",
+                "B": "Implantação de um desfibrilador \ncardioversor implantável (DCI) para prevenção \nde arritmias fatais.",
+                "C": "Administração de um inibidor da neprilisina \ne do receptor da angiotensina (ARNI), como \nsubstituição ao inibidor da ECA.",
+                "D": "Transplante cardíaco, considerado em \npacientes com insuficiência cardíaca refratária a \noutras terapias.",
+                "E": "Aumento da dose de diuréticos de alça para \ncontrolar mais efetivamente a retenção de \nlíquidos. \n QUESTÃO 49 \nUm paciente de 40 anos, nascido em uma região \nendêmica para a doença de Chagas, apresenta-se \ncom sintomas de insuficiência cardíaca e \narritmias ventriculares. Um exame sorológico \nconfirma a infecção pelo Trypanosoma cruzi, o \nagente etiológico da doença de Chagas. \nConsiderando o envolvimento cardíaco na \ndoença de Chagas crônica, qual das seguintes \nmanifestações é mais tipicamente associada a \nesta condição?  \n(A) Estenose valvar mitral progressiva. \n(B) Prolapso agudo da válvula mitral com \nregurgitação severa. \n(C) Hipertrofia concêntrica do ventrículo \nesquerdo. \n(D) Espessamento e calcificação das válvulas \naórtica e mitral. \n(E) Cardiomegalia com dilatação biventricular e \ndisfunção sistólica."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MÉDICO VASCULAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Um paciente de 30 anos, com histórico de uso de \ndrogas intravenosas, é admitido no hospital com \nfebre, mal-estar e um novo sopro cardíaco. \nExames de sangue revelam leucocitose e \nhemoculturas positivas. Um ecocardiograma \nmostra vegetações na válvula tricúspide. Com \nbase nestes achados, o diagnóstico de \nendocardite infecciosa é considerado. Qual das \nseguintes opções de tratamento é mais apropriada \npara a endocardite infecciosa aguda na válvula \ntricúspide em um paciente usuário de drogas \nintravenosas?",
+            "alternativas": {
+                "A": "Administração imediata de corticosteroides \npara reduzir a inflamação valvar.",
+                "B": "Cirurgia valvar urgente para remoção das \nvegetações e reconstrução valvar.",
+                "C": "Anticoagulação intensiva para prevenir a \nformação de trombos nas vegetações valvares.",
+                "D": "Terapia antibiótica empírica de amplo \nespectro, seguida de ajuste conforme resultados \nde culturas.",
+                "E": "Implantação de marca-passo cardíaco para \ngerenciar possíveis arritmias associadas. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nMÉDICO VASCULAR                                                                                                                                 Página 16 de 16"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}
