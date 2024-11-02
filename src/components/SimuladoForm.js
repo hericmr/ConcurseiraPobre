@@ -1,4 +1,3 @@
-// SimuladoForm.js
 import React, { useState, useEffect } from "react";
 import QuestionCard from "./QuestionCard";
 
@@ -9,18 +8,23 @@ const SimuladoForm = () => {
   const [numQuestions, setNumQuestions] = useState(1);
   const [questions, setQuestions] = useState([]);
   const [totalQuestions, setTotalQuestions] = useState(0);
+  const [isLoading, setIsLoading] = useState(true); // Novo estado para controle de carregamento
 
   useEffect(() => {
+    setIsLoading(true); // Inicia o carregamento
     fetch(`https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/provas_com_respostas.json`)
-
-        .then(response => response.json())
-        .then(data => {
-            setData(data);
-            populateCargoOptions(data);
-            countTotalQuestions(data);
-        })
-        .catch(error => console.error('Erro:', error));
-}, []);
+      .then(response => response.json())
+      .then(data => {
+        setData(data);
+        populateCargoOptions(data);
+        countTotalQuestions(data);
+        setIsLoading(false); // Finaliza o carregamento
+      })
+      .catch(error => {
+        console.error('Erro:', error);
+        setIsLoading(false); // Finaliza o carregamento mesmo em erro
+      });
+  }, []);
 
   const populateCargoOptions = (data) => {
     const uniqueCargos = new Set();
@@ -102,15 +106,19 @@ const SimuladoForm = () => {
       <p className="text-center text-gray-700 mb-4">
         Foram encontradas {totalQuestions} questões em nosso banco de dados do site.
       </p>
-      <div className="mt-6">
-        {questions.length > 0 ? (
-          questions.map((item, index) => (
-            <QuestionCard key={index} question={item} index={index} />
-          ))
-        ) : (
-          <p className="text-center">Nenhuma questão para exibir</p>
-        )}
-      </div>
+      {isLoading ? ( // Verifica se está carregando
+        <p className="text-center">Carregando questões, por favor aguarde...</p>
+      ) : (
+        <div className="mt-6">
+          {questions.length > 0 ? (
+            questions.map((item, index) => (
+              <QuestionCard key={index} question={item} index={index} />
+            ))
+          ) : (
+            <p className="text-center">Nenhuma questão para exibir</p>
+          )}
+        </div>
+      )}
     </section>
   );
 };
