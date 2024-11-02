@@ -8,22 +8,26 @@ const SimuladoForm = () => {
   const [numQuestions, setNumQuestions] = useState(1);
   const [questions, setQuestions] = useState([]);
   const [totalQuestions, setTotalQuestions] = useState(0);
-  const [isLoading, setIsLoading] = useState(true); // Novo estado para controle de carregamento
+  const [isLoading, setIsLoading] = useState(true); // Estado de carregamento
 
   useEffect(() => {
-    setIsLoading(true); // Inicia o carregamento
-    fetch(`https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/provas_com_respostas.json`)
-      .then(response => response.json())
-      .then(data => {
+    const fetchData = async () => {
+      setIsLoading(true); // Inicia o carregamento
+      try {
+        const response = await fetch(`https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/provas_com_respostas.json`);
+        const data = await response.json();
+        
         setData(data);
         populateCargoOptions(data);
         countTotalQuestions(data);
-        setIsLoading(false); // Finaliza o carregamento
-      })
-      .catch(error => {
-        console.error('Erro:', error);
-        setIsLoading(false); // Finaliza o carregamento mesmo em erro
-      });
+      } catch (error) {
+        console.error('Erro ao carregar os dados:', error);
+      } finally {
+        setIsLoading(false); // Finaliza o carregamento após sucesso ou erro
+      }
+    };
+
+    fetchData();
   }, []);
 
   const populateCargoOptions = (data) => {
@@ -83,6 +87,7 @@ const SimuladoForm = () => {
             className="border border-gray-300 rounded p-2 w-full"
             value={selectedCargo}
             onChange={(e) => setSelectedCargo(e.target.value)}
+            disabled={isLoading} // Desabilita enquanto carrega
           >
             <option value="">Selecione...</option>
             {cargoOptions.map((cargo) => (
@@ -99,14 +104,17 @@ const SimuladoForm = () => {
             value={numQuestions}
             onChange={(e) => setNumQuestions(Number(e.target.value))}
             min="1"
+            disabled={isLoading} // Desabilita enquanto carrega
           />
         </div>
-        <button type="submit" className="bg-gray-700 text-white px-4 py-2 rounded">Gerar Simulado</button>
+        <button type="submit" className="bg-gray-700 text-white px-4 py-2 rounded" disabled={isLoading}>
+          {isLoading ? "Carregando..." : "Gerar Simulado"}
+        </button>
       </form>
       <p className="text-center text-gray-700 mb-4">
         Foram encontradas {totalQuestions} questões em nosso banco de dados do site.
       </p>
-      {isLoading ? ( // Verifica se está carregando
+      {isLoading ? ( // Exibe mensagem de carregamento
         <p className="text-center">Carregando questões, por favor aguarde...</p>
       ) : (
         <div className="mt-6">
