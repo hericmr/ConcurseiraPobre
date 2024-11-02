@@ -2,26 +2,30 @@ import React, { useState, useEffect } from "react";
 import QuestionCard from "./QuestionCard";
 
 const SimuladoForm = () => {
-  const [cargoOptions, setCargoOptions] = useState([]);
+  const [cargoOptions, setCargoOptions] = useState({});
   const [selectedCargo, setSelectedCargo] = useState("");
   const [numQuestions, setNumQuestions] = useState(1);
   const [questions, setQuestions] = useState([]);
   const [totalQuestions, setTotalQuestions] = useState(0);
   const [isLoading, setIsLoading] = useState(false);
+  const [errorMessage, setErrorMessage] = useState("");
 
+  // Carrega a lista de cargos ao montar o componente
   useEffect(() => {
     const fetchCargos = async () => {
       setIsLoading(true);
+      setErrorMessage(""); // Reseta a mensagem de erro
       try {
-        // Lista dos cargos que existem na pasta cargos_json
         const response = await fetch(
-          `https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/cargos_list.json`
+          `https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/mapa_cargos.json`
         );
         const cargoList = await response.json();
-
+        
+        // Armazena a lista de cargos e seus arquivos JSON
         setCargoOptions(cargoList);
       } catch (error) {
         console.error("Erro ao carregar a lista de cargos:", error);
+        setErrorMessage("Erro ao carregar a lista de cargos. Tente novamente mais tarde.");
       } finally {
         setIsLoading(false);
       }
@@ -30,18 +34,28 @@ const SimuladoForm = () => {
     fetchCargos();
   }, []);
 
+  // Carrega o JSON de questões para o cargo selecionado
   const loadCargoData = async (cargo) => {
     setIsLoading(true);
+    setErrorMessage(""); // Reseta a mensagem de erro
     try {
+      // Busca o nome do arquivo JSON correspondente ao cargo selecionado
+      const cargoFile = cargoOptions[cargo];
+      if (!cargoFile) {
+        setErrorMessage("Cargo selecionado não é válido.");
+        return;
+      }
+
       const response = await fetch(
-        `https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/cargos_json/${cargo}.json`
+        `https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/cargos_json/${cargoFile}`
       );
       const cargoData = await response.json();
-
-      setQuestions(cargoData[cargo] || []);
-      setTotalQuestions(cargoData[cargo]?.length || 0);
+      const loadedQuestions = cargoData[cargo] || [];
+      setQuestions(loadedQuestions); // Carrega as questões para o cargo
+      setTotalQuestions(loadedQuestions.length);
     } catch (error) {
       console.error("Erro ao carregar os dados do cargo:", error);
+      setErrorMessage("Erro ao carregar as questões para o cargo selecionado. Tente novamente.");
       setQuestions([]);
       setTotalQuestions(0);
     } finally {
@@ -49,14 +63,18 @@ const SimuladoForm = () => {
     }
   };
 
+  // Gera as questões aleatórias para o simulado
   const handleGenerateQuestions = (e) => {
     e.preventDefault();
-    if (!selectedCargo || questions.length === 0) return;
+    if (!selectedCargo || questions.length === 0 || numQuestions <= 0) return;
 
     const selectedQuestions = [];
     const filteredData = [...questions];
 
-    for (let i = 0; i < Math.min(numQuestions, filteredData.length); i++) {
+    // Garante que o número de questões não exceda o total disponível
+    const limit = Math.min(numQuestions, filteredData.length);
+
+    for (let i = 0; i < limit; i++) {
       const randomIndex = Math.floor(Math.random() * filteredData.length);
       selectedQuestions.push(filteredData[randomIndex]);
       filteredData.splice(randomIndex, 1);
@@ -82,7 +100,7 @@ const SimuladoForm = () => {
             disabled={isLoading}
           >
             <option value="">Selecione...</option>
-            {cargoOptions.map((cargo) => (
+            {Object.keys(cargoOptions).map((cargo) => (
               <option key={cargo} value={cargo}>
                 {cargo}
               </option>
@@ -100,6 +118,7 @@ const SimuladoForm = () => {
             value={numQuestions}
             onChange={(e) => setNumQuestions(Number(e.target.value))}
             min="1"
+            max={totalQuestions} // Limita o máximo ao número de questões disponíveis
             disabled={isLoading}
           />
         </div>
@@ -107,6 +126,7 @@ const SimuladoForm = () => {
           {isLoading ? "Carregando..." : "Gerar Simulado"}
         </button>
       </form>
+      {errorMessage && <p className="text-red-500 text-center">{errorMessage}</p>} {/* Mensagem de erro */}
       <p className="text-center text-gray-700 mb-4">
         Foram encontradas {totalQuestions} questões para o cargo selecionado.
       </p>
