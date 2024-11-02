@@ -10,7 +10,6 @@
     const [questions, setQuestions] = useState([]);
     const [totalQuestions, setTotalQuestions] = useState(0);
 
-<<<<<<< HEAD
   useEffect(() => {
     fetch(`https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/provas_com_respostas.json`)
 
@@ -22,9 +21,6 @@
         })
         .catch(error => console.error('Erro:', error));
 }, []);
-=======
-    useEffect(() => {fetch(`${process.env.PUBLIC_URL}/provas_com_respostas.json`)
->>>>>>> 334df9fa627bc8315e165cadfa4e54f9c535fb04
 
         .then(response => response.json())
         .then(data => {
