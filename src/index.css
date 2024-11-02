@@ -3,19 +3,36 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --primary-blue: #3b82f6;
+  --primary-purple: #9333ea;
+  --text-gray: #gray-800;
+}
+
 html {
   scroll-behavior: smooth;
 }
 
 body {
-  @apply text-gray-800 font-sans leading-relaxed antialiased;
-  background: linear-gradient(to right, #3b82f6, #9333ea); /* Gradiente do azul ao roxo */
+  @apply text-gray-800 font-sans leading-relaxed antialiased text-sm; /* Reduzindo o tamanho da fonte */
+  background: linear-gradient(to right, var(--primary-blue), var(--primary-purple)); /* Gradiente do azul ao roxo */
 }
 
-
 /* Estilo para os cabeçalhos */
-h1, h2, h3, h4 {
-  @apply font-extrabold text-gray-900;
+h1 {
+  @apply font-extrabold text-gray-900 text-2xl; /* Tamanho do cabeçalho 1 reduzido */
+}
+
+h2 {
+  @apply font-extrabold text-gray-900 text-xl; /* Tamanho do cabeçalho 2 reduzido */
+}
+
+h3 {
+  @apply font-extrabold text-gray-900 text-lg; /* Tamanho do cabeçalho 3 reduzido */
+}
+
+h4 {
+  @apply font-extrabold text-gray-900 text-base; /* Tamanho do cabeçalho 4 reduzido */
 }
 
 /* Estilo para links */
@@ -38,6 +55,11 @@ button {
   @apply bg-white p-6 rounded-lg shadow-lg border border-gray-200 transform hover:scale-105 duration-200;
 }
 
+.card:hover, .panel:hover {
+  transform: scale(1.05) rotate(1deg);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
 /* Para seções */
 .section {
   @apply py-8 sm:py-12 md:py-16 bg-gray-100;
@@ -50,7 +72,7 @@ button {
 
 /* Adicionando um toque especial para inputs de texto e áreas de formulário */
 input[type="text"], input[type="email"], input[type="password"], textarea {
-  @apply bg-gray-100 border border-gray-300 rounded-lg py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-400 transition-shadow duration-200;
+  @apply bg-gray-100 border border-gray-300 rounded-lg py-2 px-4 focus:outline-none focus:border-blue-500 focus:ring focus:ring-blue-200 focus:ring-opacity-50 transition-shadow duration-200;
 }
 
 /* Estilo para feedback de mensagens */
@@ -79,5 +101,36 @@ ul, ol {
 
 /* Adicionando estilos para o rodapé */
 footer {
-  @apply bg-gray-200 text-gray-600 py-4 text-center;
+  @apply bg-gray-200 text-gray-600 py-4 text-center border-t border-gray-300;
+}
+
+/* Animações para o popup */
+.popup-enter {
+  animation: popupEnter 4.5s forwards;
+}
+
+@keyframes popupEnter {
+  from {
+    transform: translateY(150%) scale(0.9) rotate(-2deg); /* Começa fora da tela */
+    opacity: 0; /* Começa invisível */
+  }
+  to {
+    transform: translateY(0) scale(1) rotate(0deg); /* Termina na posição original */
+    opacity: 1; /* Torna-se visível */
+  }
+}
+
+/* Efeito de escala ao clicar em botões */
+button:active {
+  transform: scale(0.95);
+}
+
+/* Adicionando sombra suave para imagens arredondadas */
+img.rounded-full {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Transições suaves */
+* {
+  transition: all 0.3s ease;
 }
