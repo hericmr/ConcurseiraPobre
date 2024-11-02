@@ -1,3 +1,1670 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76f9da3bcfe73003fb0b1781295df9907ca9ce539e17aabbedcd344d8545fe87
-size 161337
+{
+    "FISCAL DE OBRAS": [
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: O texto <Precisa -se=, de Clarice Lispector, é do \ngênero:",
+            "alternativas": {
+                "A": "classificados de jornal.",
+                "B": "artigo de opinião.",
+                "C": "reportagem.",
+                "D": "receita.",
+                "E": "poesia."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: No trecho <É urgente pois a alegria dessa pessoa \né fugaz como estrelas cadentes=, a palavra \n<fugaz= tem o sentido de:",
+            "alternativas": {
+                "A": "imutável; constante.",
+                "B": "breve; efêmero.",
+                "C": "indelével; permanente.",
+                "D": "interminável; duradouro.",
+                "E": "sagaz; estável. QUESTÃO 03 \nO trecho <P.S. Não se precisa de prática= faz \nalusão a: \n(A) anúncios de vagas de emprego. \n(B) anúncios de automóveis à venda. \n(C) anúncios de bolsas de estudo. \n(D) anúncios de imóveis à venda. \n(E) anúncios publicitários de produtos quaisquer."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: O uso da partícula <se= nos verbos <precisa -se=, \n<implora -se= e <paga -se= indica:",
+            "alternativas": {
+                "A": "sujeito determinado simples.",
+                "B": "sujeito determinado composto.",
+                "C": "sujeito indeterminado.",
+                "D": "sujeito inexistente.",
+                "E": "sujeito oculto."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Considere os excertos: \nI. Paga-se extraordinariamente bem. \nII. Não se precisa de prática. \nIII. Dá-se o direito de dispor da copa e da \ncozinha, e da sala de estar. \nEm relação à colocação pronominal, nas \nsentenças dadas ocorre, respectivamente:",
+            "alternativas": {
+                "A": "I. próclise; II. ênclise; III. próclise.",
+                "B": "I. ênclise; II. mesóclise; III. ênclise.",
+                "C": "I. próclise; II. mesóclise; III. próclise.",
+                "D": "I. mesóclise; II. próclise; III. Mesóclise.",
+                "E": "I. ênclise; II. próclise; III. ênclise."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Considere os excertos: \nI. vou pôr um anúncio em negrito; \nII. precisa-se de alguém homem ou mulher que \najude uma pessoa a ficar contente; \nIII. a alegria dessa pessoa é fugaz como estrelas \ncadentes. \nOs verbos <pôr=, <ajude= e <é= que ocorrem nas \nsentenças dadas são, respectivamente:",
+            "alternativas": {
+                "A": "I. verbo transitivo direto; II. verbo \nbitransitivo; III. verbo de ligação.",
+                "B": "I. verbo transitivo indireto; II. verbo \ntransitivo direto; III. verbo de ligação.",
+                "C": "I. verbo transitivo direto; II. verbo transitivo \nindireto; III. verbo de ligação.",
+                "D": "I. verbo transitivo direto; II. verbo transitivo \ndireto; III. verbo transitivo direto.",
+                "E": "I. verbo intransitivo; II. verbo bitransitivo; \nIII. verbo intransitivo.  Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                         Página 3 de 11 QUESTÃO 07 \nConsidere o trecho <minuto por minuto paga -se \ncom a próp ria alegria.= Em relação à classe \ngramatical, as palavras <por=, <se=, <com= e \n<própria= nessa sentença são, respectivamente:  \n(A) conjunção, pronome, conjunção, adjetivo. \n(B) preposição, conjunção, preposição, adjetivo. \n(C) preposição, conjunção, preposição, advérbio. \n(D) preposição, pronome, preposição, adjetivo. \n(E) conjunção, preposição, conjunção, advérbio."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Assinale a alternativa que apresenta uma oração \nsubordinada adverbial com valor condicional.",
+            "alternativas": {
+                "A": "Quando fui ao mercado, encontrei Maria.",
+                "B": "Apesar de tudo, ainda o considero meu \namigo.",
+                "C": "Ela não irá à escola, pois sofreu um acidente.",
+                "D": "As coisas sairão como planejadas, a menos \nque ele estrague tudo.",
+                "E": "Fiquei esperando até que ele chegasse."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Considere as palavras <abdômen=, <tátil=, <sem -\nterra= e <pólen=. Assinale a alternativa que \napresenta corretamente as formas pluralizadas \ndas palavras dadas.",
+            "alternativas": {
+                "A": "abdômenes; táteis; sem-terra; pólenes.",
+                "B": "abdômens; tátis; sem-terras; pólenes.",
+                "C": "abdômenes; táteis; sem-terra; pólens.",
+                "D": "abdomenes; táteis; sem-terras; pólens.",
+                "E": "abdômens; tátiles; sem-terras; pólens."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Assinale a alternativa que apresenta a sentença \ncorreta em relação ao emprego da crase.",
+            "alternativas": {
+                "A": "A carta foi endereçada à ambos.",
+                "B": "Ana foi à loja comprar xícaras.",
+                "C": "Perguntei a garota se ela se interessava por \nliteratura.",
+                "D": "Ele dedicou o livro à ela.",
+                "E": "Ela disse à Pedro que estava furiosa. \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Se toda a motocicleta é um veículo e todo o \nveículo é movido a gasolina, pode-se concluir \nque:",
+            "alternativas": {
+                "A": "É possível existir uma motocicleta que não \nseja um veículo.",
+                "B": "É possível existir um veículo que não seja \nmotocicleta.",
+                "C": "Nenhum veículo é uma motocicleta.",
+                "D": "Todos os veículos são motocicletas.",
+                "E": "É possível existir uma motocicleta que não \nseja movida a gasolina."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Andréia é uma maratonista profissional que corre \ndiariamente 26 km (quilômetros) em um total de \n1,7 horas. Logo, se Andréia mantiver o mesmo \nritmo de corrida, qual seria a distância \naproximada percorrida por ela em 145 minutos?",
+            "alternativas": {
+                "A": "33 km.",
+                "B": "35 km.",
+                "C": "37 km.",
+                "D": "39 km.",
+                "E": "40 km."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: A distância entre duas casas é igual a 8720000 \nmilímetros. Logo, pode-se afirmar que metade \ndesta distância é igual a:",
+            "alternativas": {
+                "A": "4,360 km.",
+                "B": "43,600 km.",
+                "C": "0,436 km.",
+                "D": "4,360 hm.",
+                "E": "436,000 hm. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                         Página 4 de 11 QUESTÃO 14 \nConsidere que o 3º, o 4º e o 5º elemento de uma \nsequência numérica são respectivamente iguais a \n– 58; – 51 e – 44. Logo, sabendo que a soma dos \nvalores do 1º e do 25º termo da referida sequência \nnumérica é igual a 52, pode-se afirmar que o \ntriplo do valor do 13º termo da sequência é igual \na \n(A) 36. \n(B) 57. \n(C) 78. \n(D) 99. \n(E) 120."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Sabendo que os ângulos A e B são suplementares \nentre si e que o triplo do ângulo A equivale a \n157,50º, pode-se afirmar que o valor do ângulo B \né:",
+            "alternativas": {
+                "A": "37,5º.",
+                "B": "105,0º.",
+                "C": "127,5º.",
+                "D": "217,5º.",
+                "E": "307,5º. \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Analise do texto a seguir e assinale a alternativa \nque complete a lacuna de acordo com o conceito \napresentado no trecho: \n<______ no Windows é uma interface gráfica \nque exibe opções e comandos em uma lista \nsuspensa, geralmente organizada em uma \nestrutura hierárquica. Fornece uma maneira \nconveniente de acessar e navegar pelas \nfuncionalidades e configurações do sistema \noperacional, bem como de programas e \naplicativos instalados no computador.=",
+            "alternativas": {
+                "A": "Pasta.",
+                "B": "Menu.",
+                "C": "Bloco de notas.",
+                "D": "Área de transferência.",
+                "E": "Browser. \n \n QUESTÃO 17 \n \nAs fórmulas do Excel são recursos funcionais \nque podem fornecer apoio aos usuários deste \nsoftware, permitindo-lhes extrair o máximo de \ninformações em uma planilha. Neste sentido, \nanalise a fórmula a seguir e assinale a alternativa \ncorreta:  \n=MÉDIA(A1:B1) \n(A) A função \"MÉDIA\" no Excel é uma \nferramenta muito útil para tirar média entre \nvalores em planilhas. \n(B) A função \" MÉDIA\" no Excel é uma \nferramenta muito útil para fazer contas simples e \né frequentemente usada em planilhas para somar \nvalores de células ou grupos de células \ndiferentes. \n(C) A função <MÉDIA= no  Excel é uma \nferramenta bastante flexível e pode ser utilizada \npara lidar com condições mais complexas. Ela é \namplamente utilizada para tomada de decisão, \nfiltragem de dados e automatização de tarefas no \nExcel. \n(D) A função \"MÉDIA\" no Excel é uma \nferramenta para realizar pesquisas rápidas e \nautomatizar tarefas no Excel. \n(E) A função \" MÉDIA\" no Excel é uma \nferramenta que pode ser aplicada em uma \nvariedade de situações, como procurar nomes em \numa lista e retornar informações associadas, \nencontrar preços de produtos em uma tabela de \nestoque, entre outras aplicações onde a busca e \ncorrespondência de dados são necessárias."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: No MS-Excel 2016 há diversos tipos de atalhos \nque ajudam na formatação, edição e alteração das \nfórmulas e células. Neste sentido, assinale a \nalternativa que indique corretamente quais teclas \nque devem ser utilizadas como forma de atalho \npara copiar a seleção.",
+            "alternativas": {
+                "A": "CTRL + Y.",
+                "B": "CTRL + B.",
+                "C": "CTRL + A.",
+                "D": "CTRL + C.",
+                "E": "CTRL + Z. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                         Página 5 de 11 QUESTÃO 19 \n \nAnalise a imagem e indique qual programa do \nMS-Office 2016 ela representa. \n \n(A) Edge. \n(B) Windows. \n(C) Explorer. \n(D) Word. \n(E) Outlook."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Uma URL ( Uniform Resource Locator ) é um \nidentificador exclusivo que estabelece a \nlocalização precisa de um recurso específico na \nvastidão da internet. Ela desempenha um papel \nfundamental ao fornecer acesso a páginas da \nweb, documentos eletrônicos, imagens, vídeos e \numa ampla gama de conteúdos digitais \ndisponíveis online. A estrutura de uma URL é \ncomposta por uma combinação de diversos \nelementos essenciais, incluindo: \n \nI – Protocolo. \nII – Número de rastreiro. \nIII – Domínio. \nIV – Dados do protocolo. \nV – Caminho.",
+            "alternativas": {
+                "A": "Apenas II e IV.",
+                "B": "Apenas I, II e IV.",
+                "C": "Apenas I, III e V.",
+                "D": "Itens I, II, III, IV e V.",
+                "E": "Nenhum dos itens. \n \n \n \n \n \n CONHECIMNETOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Um conceito muito importante que faz parte da \nrotina de trabalho de um fiscal de obra é o \nzoneamento urbano. De uma maneira geral, é \npertinente afirmar acerca deste tema, exceto: \n(A)Por meio do zoneamento urbano, um \ndeterminado espaço (cidade) é dividido em zonas \nterritoriais, sendo que, para cada uma dessas \nzonas, há regulamentações específicas em \nrelação ao uso e ocupação do solo. \n(B)A divisão da cidade em zonas é feita a partir \nde diferentes variáveis em prol do alcance de um \ndeterminado objetivo, como por exemplo: o \nzoneamento de uma área por questões \ncomerciais, industriais, residenciais etc. \n(C)O zoneamento, geralmente, é regido por leis \nestaduais. \n(D)O zoneamento urbano regulamenta uma série \nde diretrizes, como por exemplo: tamanho \nmínimo do lote, taxa de permeabilidade, taxa de \nocupação máxima permitida, altura máxima da \nconstrução ou gabarito, dentre outras. \n(E)O Estatuto da Cidade é o instrumento legal \npara qual são convergidas todas as leis \nmunicipais, sendo considerado como um guia \npara o desenvolvimento das cidades. \n \nQUESTÃO 22 \nO Estatuto da Cidade - Lei no 10.257, de 10 de \njulho de 2001, estabelece normas de ordem \npública e interesse social que regulam o uso da \npropriedade urbana em prol do bem coletivo, da \nsegurança e do bem-estar dos cidadãos, bem \ncomo do equilíbrio ambiental. Em seu capítulo II \nsão definidos os instrumentos de Política Urbana, \ndestacados a seguir, exceto: \n(A)(Planos nacionais, regionais e estaduais de \nordenação do território e de desenvolvimento \neconômico e social. \n(B)Plano diretor. \n(C)Disciplina do parcelamento, do uso e da \nocupação do solo. \n(D)Plano plurianual. \n(E)Orçamento semestral. \nPrefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                         Página 6 de 11 QUESTÃO 23 \nDe acordo com a Norma Regulamentadora NBR \n9050 que regulamenta a acessibilidade a \nedificações, mobiliário, espaços e equipamentos \nurbanos, os assentos para pessoas obesas (P.O.) \ndevem suportar uma carga de até:",
+            "alternativas": {
+                "A": "100 kg",
+                "B": "150 kg",
+                "C": "200 kg",
+                "D": "250 kg",
+                "E": "300 kg"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: De acordo com a Constituição da República \nFederativa do Brasil de 1988, em seu Art. 41, é \nimpertinente afirmar: \n \n(A)São estáveis após três anos de efetivo \nexercício os servidores nomeados para cargo de \nprovimento efetivo em virtude de concurso \npúblico. \n(B)O servidor público poderá perder o cargo em \nvirtude de sentença judicial transitada em \njulgado. \n(C)O servidor público poderá perder o cargo \nmediante processo administrativo em que lhe \nseja assegurada ampla defesa. \n(D)O servidor público poderá perder o cargo \nmediante procedimento de avaliação periódica \nde desempenho, na forma de lei complementar, \nassegurada ampla defesa. \n(E)(O servidor público poderá perder o cargo \nmediante a extinção do cargo ou declarada a sua \ndesnecessidade. \n \n \n \n \n \n QUESTÃO 25 \nAo analisar os aspectos relativos à poluição, é \nnecessário considerar uma série de fatores \nrelacionados aos poluentes, destacados a seguir, \nexceto:",
+            "alternativas": {
+                "A": "Fonte do(s) poluente (s).",
+                "B": "Características fisioquímicas e \nmicrobiológicas do poluente.",
+                "C": "Meio de transporte ou de dispersão no meio.",
+                "D": "Receptor do poluente.",
+                "E": "Pessoal envolvido."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: A Lei de Crimes Ambientais - Lei no 9.605, de \n12 de fevereiro de 1998 - Dispõe sobre as sanções \npenais e administrativas derivadas de condutas e \natividades lesivas ao meio ambiente, e dá outras \nprovidencias. Em relação às penalidades \nprevistas para quem pratica crimes ambientais, é \nfalso afirmar: \n(A)Pena de reclusão, de um a quatro anos, e \nmulta para quem causar poluição de qualquer \nnatureza em níveis tais que resultem ou possam \nresultar em danos à saúde humana. \n(B)Pena de reclusão, de um a quatro anos, e \nmulta para quem provocar a mortandade de \nanimais ou a destruição significativa da flora. \n(C)Pena de detenção, de seis meses a um ano, e \nmulta – se o crime é culposo. \n(D)Pena de reclusão, de três a seis anos – se o \ncrime ocorrer por lançamento de resíduos \nsólidos, líquidos ou gasosos, ou detritos óleos ou \nsubstancias oleosas, em desacordo com as \nexigências estabelecidas em leis ou \nregulamentos. \n(E)Pena de reclusão, de um a cinco anos - causar \npoluição hídrica que torne necessária a \ninterrupção do abastecimento público de água de \numa comunidade. \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                         Página 7 de 11 QUESTÃO 27 \nA Lei nº 6.938, de 31 de agosto de 1981, dispõe \nsobre a Política Nacional do Meio Ambiente, \nseus fins e mecanismos de formulação e \naplicação, e dá outras providências. No Art. 4º é \nratificada a necessidade de compatibilizar dois \naspectos até certo ponto considerados \nantagônicos, quais seriam eles? \n(A)Riqueza mineral e diversidade vegetal. \n(B)Desenvolvimento econômico-social e \npreservação do meio ambiente. \n(C)Proteção ambiental e área de preservação \npermanente. \n(D)Qualidade ambiental e recursos naturais. \n(E)Desenvolvimento tecnológico e manejo. \nQUESTÃO 28 \nDe acordo com Yanagiya (2021), <a poluição \nsonora é considerada uma das piores formas de \npoluição pela Organização Mundial da Saúde. \nEfeitos bem conhecidos da exposição ao ruído \nincluem aumento do risco de doença cardíaca, \ndistúrbios do sono, comprometimento cognitivo \nem crianças, incômodo, riscos à saúde mental \nrelacionados ao estresse e zumbido=. Nesse \nsentido, é importante implementar estratégias \nvoltadas para a redução do ruído urbano. Os \nmétodos de redução sonora podem ser \ncategorizados em mudanças na fonte; mudanças \nno caminho; mudanças no receptor; \nplanejamento de uso e ocupação do solo; e \neducação e comunicação. Sobre cada um desses \ntipos, são verdadeiras as seguintes afirmações, \nexceto: \n(A)Os métodos de redução sonora por meio do \nuso e ocupação do solo são métodos de longo \nprazo com grande eficácia. \n(B)Os métodos de redução sonora pela fonte \npodem ser efetivos, mas demandam de \nmanutenção periódica, geralmente, tem custos \nelevados. \n(C)Os métodos de redução sonora a partir da \nconscientização e educação da sociedade tem \nmédia eficácia e são métodos de curto prazo. \n(D)Os métodos entre fonte e recepção são menos \nefetivos que os demais, além de interferir no \nvisual. \n(E)Os métodos na recepção podem ser efetivos, \nmas são geralmente custosos. QUESTÃO 29 \nA necessidade de licenciamento é regulamentada \nlegalmente. A âmbito estadual, há atividades que \ndemandam a obtenção de Licenciamento Prévio \nna CETESB. São exemplos desse tipo de \natividade, exceto: \n(A)Atividades/empreendimentos que não \nestejam sujeitas à avaliação de impacto \nambiental. \n(B)Geradores. \n(C)Postos e Sistemas Retalhistas de \nCombustíveis. \n(D)Postos de Recebimento e Centrais de \nRecolhimento de Embalagens Vazias de \nAgrotóxicos e afins. \n(E)Atividades/empreendimentos que estejam \nsujeitas à avaliação de impacto ambiental. \nQUESTÃO 30 \nArborização urbana, como o próprio nome \nsugere, refere-se ao ato de plantar árvores em \nvias urbanas. Sobre este tema, é impertinente \nafirmar: \n(A)Historicamente, a arborização urbana no \nBrasil teve início ainda no século XVIII e, por \nisso, tem grande aceitação e popularidade, \nprincipalmente, nos grandes centros. \n(B)Ecologicamente, a arborização urbana \ncorrobora para a melhoria microclimática, \nameniza a poluição atmosférica e acústica e \nprotege o solo e a fauna. \n(C) Em muitos casos, ela é vista apenas como um \nelemento meramente estético na paisagem \nurbana. \n(D)Dentre os diversos aspectos analisados pelo \nCenso Demográfico, o IBGE avalia algumas \ncaracterísticas do entorno das residências, dentre \nelas a arborização urbana. \n(E)Projetos de arborização urbana mal \nelaborados encontram equipamentos urbanos \ncomo barreiras.  \n \n \n \n \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                         Página 8 de 11 QUESTÃO 31 \nQual Norma Brasileira especifica os requisitos \nexigíveis para classificação, fabricação, \nidentificação, unidade de compra, conteúdo do \nmanual técnico, armazenamento, instalação, \nfuncionamento, manutenção e ensaios de portas \ncorta-fogo do tipo de abrir, com eixo vertical, \npara saída de emergência? \n \n(A)NBR 10897  \n(B)NBR 10898  \n(C)NBR 11742  \n(D)NBR 12615  \n(E)NBR 14276 \nQUESTÃO 32 \nA poluição pode ter as seguintes origens: \nI - _______: poluentes emitidos. \nII - _______: monóxido de carbono, fumos, \ndióxido metálico, gás sulfuroso, fumos de \nchumbo, cinzas. \nIII - _______: sulfeto de hidrogênio, algumas \npartículas. \nIV - _______: gases explosivos, poeiras em \ngeral, monóxido de carbono. \nV - _______: substâncias clor íferas. \n \n(A)mineração  - metalúrgica - industrial - \nindústrias de papel -  - produtos alimentícios \n(B)indústrias de papel - metalúrgica - industrial - \nmineração - produtos alimentícios \n(C)metalúrgica - industrial - indústrias de papel - \nmineração - produtos alimentícios \n(D)produtos alimentícios - industrial - \nmetalúrgica - indústrias de papel - mineração \n(E)industrial - metalúrgica - indústrias de papel - \nmineração - produtos alimentícios \n \n \n \n QUESTÃO 33 \nOs princípios da administração pública são \nregras que determinam o modo de \nfuncionamento dos órgãos que integram a \nadministração, sendo eles: legalidade, \nimpessoalidade, moralidade, publicidade e \neficiência; relação entre o poder público e o \ncidadão. Esses princípios em relação aos \npressupostos legais definidos por meio da \nConstituição Federal de 1988 são denominados \ncomo: \n(A)Objetivos \n(B)Subjetivos \n(C)Explícitos \n(D)Implícitos \n(E)Complementares \n \n \nQUESTÃO 34 \nDentro do serviço público, um conceito muito \nrelevante é a transparência da informação. Sobre \nesse conceito, é possível afirmar, salvo: \n(A)A transparência administrativa corresponde \nespecificamente à divulgação dos serviços \npúblicos realizados ou prestados à sociedade. \n(B)Por meio da transparência administrativa, a \nsociedade participa ativamente dos rumos do \nEstado, salvo as exceções normativas. \n(C)A transparência é um princípio basilar da \nideia de democracia. \n(D)Na Administração Pública brasileira, a \ntransparência decorre do Estado Democrático de \nDireito, concebido constitucionalmente. \n(E)Transparência não é apenas disponibilizar \ndados, mas fazê-lo em linguagem clara e \nacessível a toda a sociedade interessada. \n \n \n \n \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                         Página 9 de 11 QUESTÃO 35 \nA seguir, foram elencadas algumas das \natribuições legais do cargo de fiscal. Assinale a \núnica alternativa incorreta, ou seja, que não \ncondiz com uma dessas atribuições. \n(A)Fiscalizar o cumprimento do Código de \nObras e Edificações, do Plano Diretor \nParticipativo e da Lei Municipal de Parcelamento \ndo Solo. \n(B)Reprimir as edificações clandestinas, a \nformação de favelas e os agrupamentos \nsemelhantes que vem a ocorrer em âmbito \nmunicipal. \n(C)Elaborar o relatório de fiscalização. \n(D)Realizar especificamente vistoria para a \nexpedição de <Habite -se= das edificações novas.  \n(E)Emitir notificações, lavrar autos de infração e \nexpedir multas aos infratores da legislação \nurbanística municipal. \nQUESTÃO 36 \nDe acordo com a NR 17, que trata da ergonomia, \nas condições ambientais de trabalho devem estar \nadequadas as características psicofisiol ógicas \ndos trabalhadores e à natureza do trabalho a ser \nexecutado. Nos locais de trabalho onde são \nexecutadas atividades que exijam esforço \nintelectual e atenção constantes, como salas de \ncontrole, laboratórios, escritórios, salas de \ndesenvolvimento ou análise de projetos, entre \noutros, são recomendadas as seguintes condições \nde conforto: \nInterprete as afirmativas a seguir: \nI - índice de temperatura efetiva entre 18 e 30 oC. \nII - velocidade do ar não superior a 0,75 m/s. \nIII -  umidade relativa do ar não inferior a 30%. \n \nÉ correto o que se afirma em:",
+            "alternativas": {
+                "A": "I apenas.",
+                "B": "II apenas.",
+                "C": "III apenas.",
+                "D": "I e II apenas.",
+                "E": "II e III apenas. \n QUESTÃO 37 \nO Código de Defesa do Consumidor (CDC) é um \nconjunto de normas que estabelece os direitos \ndos consumidores e os deveres dos fornecedores \nde produtos e serviços, possui um forte aliado na \nluta pela manutenção e garantia dos direitos dos \ncidadãos. Para fiscalizar sua aplicabilidade, há \numa ação conjunta de órgãos governamentais e a \nsociedade de maneira geral. De maneira \nespecífica, há um órgão subordinado ao \nMinistério da Justiça responsável pelo \nmonitoramento do CDC. Qual é esse órgão?  \n(A)PROCON \n(B)DEFENSORIAS \n(C)SENACON \n(D)SERASA \n(E)MINISTÉRIOS PÚBLICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, é incorreto  afirmar que:",
+            "alternativas": {
+                "A": "os cânceres caninos se desenvolvem da \nmesma maneira que os cânceres humanos.",
+                "B": "a vacina anticâncer em desenvolvimento se \naplica a cães que já foram diagnosticados com \ncâncer.",
+                "C": "os anticorpos da vacina anticâncer atuam em \nvias responsáveis pelo crescimento tumoral.",
+                "D": "a quimioterapia permite que cães com algum \ntipo de câncer tenham até 60% de chance de \nsobrevivência.",
+                "E": "o câncer do tipo osteossarcoma pode levar \ncães à óbito em um período de doze meses. \n Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                        Pág ina 3 de 10 QUESTÃO 02 \nAnalise os excertos a seguir quanto à forma de \ndiscurso empregado: \nI. O especialista conta que perdeu seu próprio \ncachorro para um câncer inoperável há cerca de \n11 anos atrás.  \nII. “Se pudermos fornecer algum benefício, \nalgum alívio – uma vida sem dor – esse é o \nmelhor resultado que poderíamos ter”, ele \nafirma. \nIII. “Recebo muitos e -mails de proprietários de \ncães gratos que foram informados de que seus \nanimais de estimação teriam semanas ou meses \nde vida, mas que agora estão dois ou três anos \nalém de seu diagnóstico de câncer”, ele relata.  \nNos excertos apresentados, verifica-se o \nemprego de discurso indireto apenas em: \n(A) I. \n(B) II. \n(C) III. \n(D) I e II. \n(E) II e III."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: No quinto parágrafo do texto, em “(...) eles \ncrescem, metastatizam e mutam  (...)”, o pronome \npessoal é utilizado para se referir aos:",
+            "alternativas": {
+                "A": "cães.",
+                "B": "cânceres caninos.",
+                "C": "cânceres humanos.",
+                "D": "testes clínicos da vacina anticâncer.",
+                "E": "tratamentos convencionais."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: As palavras “osteossarcoma”  e \n“quimioterapia” , que ocorrem no texto, são \nformadas por composição por justaposição. São \nformadas pelo mesmo tipo de processo as \npalavras:",
+            "alternativas": {
+                "A": "anticâncer e probabilidade.",
+                "B": "vacinação e atualmente.",
+                "C": "anticorpos e tumoral.",
+                "D": "imunoterapia e agricultura.",
+                "E": "reumatologia e especialista. \n QUESTÃO 05 \nConsidere o seguinte excerto: “Até agora, mais \nde 300 cães foram tratados com o imunizante \ndurante uma série de ensaios clínicos (...)”. \nDentre as palavras a seguir, que ocorrem no \nexcerto apresentado, atua como advérbio apenas: \n(A) até. \n(B) agora. \n(C) durante. \n(D) série. \n(E) clínicos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Analise as sentenças a seguir e assinale a \nalternativa em que o elemento em destaque \nfunciona como um recurso de coesão sequencial.",
+            "alternativas": {
+                "A": "O carro está estacionado naquela  vaga.",
+                "B": "A blusa branca e a cor-de-rosa estão na \nsecadora.",
+                "C": "Esses  livros são muito bem escritos.",
+                "D": "Se tirarmos férias na mesma época, podemos \nir à praia.",
+                "E": "Já cedo ouvia-se a britadeira. Não existe \nferramenta  mais barulhenta do que essa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Analise as sentenças a seguir e assinale a \nalternativa em que o aspecto semântico da \nconstrução verbal em destaque equivale àquele \nexpresso pelo pretérito mais-que-perfeito \nsimples do modo indicativo.",
+            "alternativas": {
+                "A": "Os animais foram abandonados  na praça \ncentral da cidade.",
+                "B": "Não havia  uma testemunha sequer que \npudesse ajudá-la no tribunal.",
+                "C": "A organização do evento estaria  melhor se \nhouvesse mais funcionários no local.",
+                "D": "Quando soubermos  os detalhes da viagem, \ncontaremos tudo.",
+                "E": "Antes que sua mãe mandasse, a garotinha já \ntinha feito  as malas. Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                        Pág ina 4 de 10 QUESTÃO 08 \nAnalise os pares de palavras a seguir e assinale a \nalternativa em que se verificam termos \nparônimos.  \n(A) deferir; diferir. \n(B) martírio; suplício. \n(C) crédulo; ímpio. \n(D) automóvel; carro.  \n(E) cordado; animal."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir quanto ao emprego \ndo vocábulo “ a” em destaque e assinale a \nalternativa em que sua função é a de pronome \ndemonstrativo.",
+            "alternativas": {
+                "A": "Meus pais e eu já estamos a caminho do \nrestaurante.",
+                "B": "Os executivos começaram a discutir a \nrespeito do preço do dólar.",
+                "C": "A prateleira de livros já foi instalada e está \npronta para uso.",
+                "D": "Não compare sua forma de ver o mundo com \na de Cecília.",
+                "E": "A garota gostaria que a tratassem de outra \nforma."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as sentenças a seguir quanto ao emprego \ndo acento indicativo de crase: \nI. Escreva as respostas da prova à lápis. \nII. Ficou cara à cara com o criminoso. \nIII. Costuma acender velas aromáticas à noite. \nEstá(ão) correta(s) apenas:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "II e III. \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Uma pessoa deseja juntar uma quantia de 1 \nbilhão de reais durante um período de 40 anos. \nQuantos reais por mês essa pessoa precisaria \nguardar para conseguir atingir sua meta? Indique \no valor mais próximo:",
+            "alternativas": {
+                "A": "20 milhões.",
+                "B": "2 milhões.",
+                "C": "200 mil.",
+                "D": "20 mil.",
+                "E": "2 mil."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Um motorista fará um trajeto saindo da cidade A \ne passando pelas cidades B, C e D, nesta ordem. \nSabe-se que a distância percorrida entre as \ncidades A e B é 10 km, a distância percorrida \nentre as cidades A e C é 22 km, e a distância \npercorrida entre as cidades B e D é 36 km. Nesta \nsituação, qual a distância percorrida entre as \ncidades C e D?",
+            "alternativas": {
+                "A": "14 km.",
+                "B": "16 km.",
+                "C": "18 km.",
+                "D": "20 km.",
+                "E": "24 km."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Duas circunferências de raio 𝑟 serão inscritas \ndentro de uma circunferência maior, de raio 𝑅, \nconforme a figura:  \n \nSe a área da circunferência menor é 𝐴𝑟, a área da \ncircunferência maior será:",
+            "alternativas": {
+                "A": "3𝐴𝑟.",
+                "B": "𝐴𝑟\n2.",
+                "C": "6𝐴𝑟.",
+                "D": "4𝐴𝑟.",
+                "E": "2𝐴𝑟. \nPrefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                        Pág ina 5 de 10 QUESTÃO 14 \nUma foto 3x4 ocupa a área de um retângulo de 3 \ncm de largura e 4 cm de altura. Considere que \numa folha de papel no formato Carta tem \ndimensões 216 x 249 mm. Quantas fotos 3x4 \ncabem impressas nessa folha, no máximo? Todas \nas fotos serão impressas numa mesma direção em \nrelação à folha. \n(A) 40. \n(B) 42. \n(C) 43. \n(D) 44. \n(E) 45."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Observe a seguinte sequência lógica numérica: \n \n7/2, 5/2, 3/2, 1/2,   − 1/2,   …  \n \nO próximo elemento desta sequência será:",
+            "alternativas": {
+                "A": "-1.",
+                "B": "-3/2.",
+                "C": "-5/2.",
+                "D": "-7/2.",
+                "E": "-2/3. \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: No Windows 7 o local onde são apresentadas as \njanelas que estão abertas pelo usuário, mesmo \nque minimizadas ou ocultas, possibilitando que \nesse usuário alterne entre elas, é a:",
+            "alternativas": {
+                "A": "Área de armazenamento.",
+                "B": "Área de tráfego.",
+                "C": "Barra de tarefas.",
+                "D": "Barra de rolagem.",
+                "E": "Barra de orientação. \n QUESTÃO 17 \nAo deixar o cursor sobre uma pasta do Windows \n7, clicar com o botão direito sobre ela e \nselecionar a opção “Propriedades”, uma das \ninformações que serão apresentadas na guia \n“Geral” da tela aberta é:  \n(A) O tamanho da pasta. \n(B) Os usuários que estão acessando a pasta no \nmomento. \n(C) O espaço disponível na pasta. \n(D) A senha de acesso para os arquivos presentes \nna pasta. \n(E) A opção de selecionar arquivos para serem \nexcluídos da pasta."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: A respeito das funcionalidades disponíveis no \nMicrosoft Word 2016, marcar C para as \nafirmativas Certas, E para as Erradas e, após, \nassinalar a alternativa que apresenta a sequência \nCORRETA:  \n(_) O Microsoft Word 2016 permite criar e \nformatar os documentos usando Temas.  \n(_) É possível revisar os trabalhos feitos no \nMicrosoft Word 2016 com o recurso \n“Controlar Alterações”.  \n(_) O Microsoft Word 2016 permite salvar no \nOneDrive para acessar seus documentos no \ncomputador, tablet ou celular.",
+            "alternativas": {
+                "A": "C – C – C.",
+                "B": "C – E – C.",
+                "C": "C – E – E.",
+                "D": "E – C – C.",
+                "E": "E – E – C."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: O Microsoft Word 2016 disponibiliza aos seus \nusuários o recurso de substituir palavras ou frases \ndo texto produzido.  \nEsse recurso pode ser facilmente acessado com \num click, na guia:",
+            "alternativas": {
+                "A": "Design.",
+                "B": "Referências.",
+                "C": "Correções.",
+                "D": "Anotações.",
+                "E": "Página Inicial. Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                        Pág ina 6 de 10 QUESTÃO 20 \nPara selecionar todas as celular do Microsoft \nExcel 2016 ao mesmo tempo, pode-se utilizar \nqual dos comandos a seguir: \n(A) Ctrl + A \n(B) Ctrl + C \n(C) Ctrl + T \n(D) Ctrl + L \n(E) Ctrl + E \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: De acordo com a Lei Nº 8.078, de 11 de setembro \nde 1990, consumidor é:",
+            "alternativas": {
+                "A": "Somente a pessoa física que adquire um \nproduto qualquer.",
+                "B": "Somente a pessoa jurídica que adquire um \nproduto qualquer.",
+                "C": "Somente a pessoa jurídica que adquire um \nserviço qualquer.",
+                "D": "Somente a pessoa física que adquire um \nserviço qualquer.",
+                "E": "Toda pessoa física ou jurídica que adquire ou \nutiliza produto ou serviço como destinatário \nfinal."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: A  Lei Nº 8.078, de 11 de setembro de 1990, \ndefine como sendo um produto:",
+            "alternativas": {
+                "A": "Somente o bem móvel material.",
+                "B": "Somente o bem imóvel material.",
+                "C": "Qualquer atividade fornecida no mercado de \nconsumo.",
+                "D": "Qualquer bem, móvel ou imóvel, material ou \nimaterial.",
+                "E": "Qualquer atividade financeira de crédito. \n \n \n QUESTÃO 23 \nA adequada e eficaz prestação dos serviços \npúblicos em geral, segundo o Código de Defesa \ndo Consumidor, é: \n(A) Um direito básico do consumidor. \n(B) Um dos princípios da Política Nacional de \nDefesa ao Consumidor. \n(C) Uma das diretrizes do CONFCONS. \n(D) Um dos objetivos do Sistema Nacional de \nEstímulo ao Consumo. \n(E) Uma das metas anuais do Código de Defesa \ndo Consumidor."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Assinale a alternativa que completa corretamente \na lacuna do texto a seguir, de acordo com o \nCódigo de Defesa do Consumidor: \nO ____________é igualmente responsável, \nquando o produto for fornecido sem identificação \nclara do seu fabricante, produtor, construtor ou \nimportador.",
+            "alternativas": {
+                "A": "transportador",
+                "B": "comerciante",
+                "C": "consumidor",
+                "D": "fiscal sanitário",
+                "E": "fiscal municipal"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: É um dos princípios da Política Nacional do \nMeio Ambiente a(o):",
+            "alternativas": {
+                "A": "Preservação de áreas degradadas.",
+                "B": "Planejamento e fiscalização do uso de \ninfraestrutura rodoviária.",
+                "C": "Acompanhamento do estado da qualidade \nambiental.",
+                "D": "Acompanhamento do estado da qualidade de \nvida da população.",
+                "E": "Contenção do surto de doenças de \ntransmissão hídrica. \n Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                        Pág ina 7 de 10 QUESTÃO 26 \nEstabelecer, privativamente, normas e padrões \nnacionais de controle da poluição por veículos \nautomotores, aeronaves e embarcações, mediante \naudiência dos Ministérios competentes é uma das \natribuições de qual dos órgãos a seguir: \n(A) CONAMA. \n(B) IBAMA. \n(C) INMETRO. \n(D) SEFAZ. \n(E) IPMET."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Em conformidade com a Política Nacional de \nMeio Ambiente, a construção, instalação, \nampliação e funcionamento de estabelecimentos \ne atividades utilizadores de recursos ambientais, \nefetiva ou potencialmente poluidores ou capazes, \nsob qualquer forma, de causar degradação \nambiental, dependerão de:",
+            "alternativas": {
+                "A": "Posterior licenciamento de segurança.",
+                "B": "Posterior licenciamento de produtos.",
+                "C": "Prévio licenciamento estrutural.",
+                "D": "Prévio licenciamento biológico.",
+                "E": "Prévio licenciamento ambiental."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Assinale a alternativa que completa corretamente \na lacuna do texto a seguir, de acordo com a \nlegislação relacionada aos crimes ambientais: \nPara imposição e gradação da penalidade, a \nautoridade competente observará a gravidade do \nfato, tendo em vista os motivos da infração e suas \nconsequências para a __________ e para o meio \nambiente.",
+            "alternativas": {
+                "A": "saúde pública",
+                "B": "política nacional",
+                "C": "economia",
+                "D": "segurança nacional",
+                "E": "comunicação QUESTÃO 29 \nDe acordo com as sanções penais aplicadas às \natividades lesivas ao meio ambiente, uma das \ncircunstâncias que podem atenuar as penas \naplicadas ao infrator é: \n(A) Concorrência para danos a propriedade \nalheia. \n(B) Crime cometido exclusivamente em áreas \nurbanas. \n(C) Crime cometido exclusivamente em áreas \nparticulares. \n(D) O baixo grau de instrução ou escolaridade do \nagente. \n(E) O alto grau de instrução do agente."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: A pena aplicada para o infrator que praticar ato \nde abuso, maus-tratos, ferir ou mutilar animais \nsilvestres, domésticos ou domesticados, nativos \nou exóticos, corresponde a:",
+            "alternativas": {
+                "A": "Detenção, de um a três anos, ou multa, ou \nambas cumulativamente.",
+                "B": "Detenção, de três meses a um ano, e multa.",
+                "C": "Reclusão de um ano a cinco anos.",
+                "D": "Reclusão de dois anos a cinco anos.",
+                "E": "Reclusão de três anos a cinco anos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: De acordo com a Constituição da República \nFederativa do Brasil, a Administração Pública \ndeve obedecer ao princípio da:",
+            "alternativas": {
+                "A": "Pessoalidade.",
+                "B": "Legalidade.",
+                "C": "Paridade.",
+                "D": "Concorrência.",
+                "E": "Informalidade. \n \n \n Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                        Pág ina 8 de 10 QUESTÃO 32 \nDe acordo com a Constituição da República \nFederativa do Brasil, a fixação dos padrões de \nvencimento e dos demais componentes do \nsistema remuneratório dos servidores públicos \ndeve observar: \n(A) O tempo de contrato da função. \n(B) A localidade em que o cargo será exercido. \n(C) A idade do candidato aprovado no concurso. \n(D) Os requisitos para investidura ao cargo. \n(E) O tempo de estudo para o certame."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: A subdivisão de gleba em lotes destinados a \nedificação, com abertura de novas vias de \ncirculação, de logradouros públicos ou \nprolongamento, modificação ou ampliação das \nvias existentes é considerado como um(a):",
+            "alternativas": {
+                "A": "Desmembramento.",
+                "B": "Apropriação.",
+                "C": "Loteamento.",
+                "D": "Urbanização.",
+                "E": "Ocupação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Com relação às legislações sobre zoneamento e \nloteamento do solo, é correto afirmar que:",
+            "alternativas": {
+                "A": "O registro do loteamento só poderá ser \ncancelado por decisão administrativa proferida \npela prefeitura.",
+                "B": "O projeto de loteamento aprovado deverá ser \nexecutado no prazo constante do cronograma de \nexecução, sob pena de perda da área loteada.",
+                "C": "É autorizada a aprovação de projeto de \nloteamento e desmembramento em áreas de risco \ndefinidas como não edificáveis, no plano diretor \nou em legislação dele derivada.",
+                "D": "É vedado vender ou prometer vender parcela \nde loteamento ou desmembramento não \nregistrado.",
+                "E": "O registro do loteamento só poderá ser \ncancelado por fato infortúnio associado ao \nadministrador do empreendimento. \n QUESTÃO 35 \nAssinale a alternativa que completa corretamente \na lacuna do texto a seguir, de acordo com a \nlegislação de parcelamento do solo urbano: \nAo longo da faixa de domínio das ferrovias, será \nobrigatória a reserva de uma faixa não edificável \nde, no mínimo, _________ de cada lado. \n(A) 10 (dez) metros \n(B) 15 (quinze) metros \n(C) 20 (vinte) metros \n(D) 25 (vinte e cinco) metros \n(E) 30 (trinta) metros"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: De acordo com a NBR 9050 que estabelece as \nnormas de acessibilidade de pessoas portadoras \nde deficiência a edificações, espaços, mobiliário \ne equipamentos urbanos, a altura mínima \nrecomendada para o acionamento de interruptor \npara pessoas em cadeiras de rodas é de:",
+            "alternativas": {
+                "A": "0,3 m.",
+                "B": "0,4 m.",
+                "C": "0,5 m.",
+                "D": "0,8 m.",
+                "E": "1,20 m."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Conforme a NBR 9050 que estabelece as normas \nde acessibilidade de pessoas portadoras de \ndeficiência a edificações, espaços, mobiliário e \nequipamentos urbanos, a altura máxima \nrecomendada para o acionamento de tomadas \npara pessoas em cadeiras de rodas é de:",
+            "alternativas": {
+                "A": "1,15 m.",
+                "B": "1,25 m.",
+                "C": "1,30 m.",
+                "D": "1,35 m.",
+                "E": "1,40 m. \n Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                        Pág ina 9 de 10 QUESTÃO 38 \nConsiderando a NBR 9050 que estabelece as \nnormas de acessibilidade de pessoas portadoras \nde deficiência a edificações, espaços, mobiliário \ne equipamentos urbanos, assinale a alternativa \nque apresenta uma afirmação correta sobre as \nesteiras rolantes: \n(A) A velocidade máxima da esteira deve ser de \n0,1 m/s, em qualquer sentido de operação. \n(B) A velocidade máxima da esteira deve ser de \n0,4 m/s, em qualquer sentido de operação. \n(C) A velocidade máxima da esteira deve ser de \n0,6 m/s, em qualquer sentido de operação. \n(D) A velocidade máxima da esteira deve ser de \n1,1 m/s, em qualquer sentido de operação. \n(E) A velocidade máxima da esteira deve ser de \n1,5 m/s, em qualquer sentido de operação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Assinale a alternativa que completa corretamente \na lacuna do texto a seguir, em conformidade com \na NBR 9050: \nAs portas, inclusive de elevadores, devem ter um \nvão livre mínimo de ________ e pelo menos uma \ndas portas com mais de uma folha deve atender a \nesta condição.",
+            "alternativas": {
+                "A": "0,50 m",
+                "B": "0,80 m",
+                "C": "0,90 m",
+                "D": "0,95 m",
+                "E": "2,10 m \n \n \n \n \n \n \n \n \n QUESTÃO 40 \nEm conformidade com os conceitos básicos de \nsegurança e proteção contra incêndio, os \nextintores de incêndio apropriados para ação em \nmateriais, equipamentos e instalações elétricas, \nsão os dispositivos voltados para: \n(A) Incêndios de classe A. \n(B) Incêndios de classe B. \n(C) Incêndios de classe C. \n(D) Incêndios de classe D. \n(E) Incêndios de classe E. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nFISCAL DE OBRAS                                                                                                                                        Pág ina 10 de 10"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: A leitura da narrativa permite concluir que:",
+            "alternativas": {
+                "A": "Einstein resistia à explicação metafísica de \nque um rato o ajudava.",
+                "B": "Einstein interpreta como sinal divino a \ncosquinha causada pelo ratinho.",
+                "C": "O pensamento de Einstein contava com um \nmecanismo autodesenvolvido para se ater à \nrealidade.",
+                "D": "Einstein acreditava contar com ajuda divina \npor ter desenvolvido a teoria da relatividade.",
+                "E": "O admirador revelou a Einstein a origem da \ncosquinha em seu pé."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Analise os excertos a seguir quanto à forma de \nlinguagem apresentada. Assinale a alternativa \nem que se verifica o emprego de discurso \nindireto livre.",
+            "alternativas": {
+                "A": "O visitante ficou em pânico. O que fazer?",
+                "B": "Este desculpou -se, disse que não pretendia \nacordá -lo, mas Einstein o silenciou com um \ngesto.",
+                "C": "Einstein nem abriu os olhos. Fez que sim \ncom a cabeça.",
+                "D": "— E o senhor tem... uma explicação para a \ncosquinha no dedão?",
+                "E": "— Aí é que está. Só pode ser explicada \ncomo um sinal divino.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nFISCAL DE OBRAS                                                                                                                                              Página 3 de 9 QUESTÃO 03 \nAnalise as expressões indicadas a seguir, que \nocorrem no texto, e assinale a alternativa em \nque todas elas são empregadas para se referir a \nAlbert Einstein.   \n(A) o mestre - o professor - este - o senhor.  \n(B) um admirador - o visitante - este. \n(C) o visitante - o professor - ele. \n(D) o mestre - o professor - ele - o senhor.  \n(E) um admirador - o visitante - o senhor."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: No excerto “(...) passinhos curtos mas \nresolutos (...)” , a palavra “resoluto”  poderia \nser substituída, sem modificação de significado, \npor:",
+            "alternativas": {
+                "A": "vacilantes.",
+                "B": "hesitantes.",
+                "C": "testos.",
+                "D": "devolutos.",
+                "E": "hirsutos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Considere o excerto: “Felizmente, sempre que \nisto acontecia, ele sentia uma cosquinha no \ndedão.”  No contexto apresentado, o advérbio \n“felizmente”  modifica:",
+            "alternativas": {
+                "A": "o advérbio “sempre”.",
+                "B": "o verbo “acontecia”.",
+                "C": "o verbo “sentia”.",
+                "D": "toda a declaração “sempre que isto \nacontecia, ele sentia uma cosquinha no dedão”.",
+                "E": "apenas a oração “isto acontecia”."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Considere as sentenças a seguir:  \nI. A menina, filha única do casal, tem parecido \nmuito deprimida e solitária.   \nII. Desde o desaparecimento do cãozinho, a \nfamília tenta ser mais unida.   \nIII. A escola não será mais a mesma sem você, \nmeu amigo.   \nNas sentenças dadas, o emprego da vírgula \nintroduz um aposto apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  \n QUESTÃO 07 \nAnalise as sentenças a seguir e assinale aquela \nem que deveria haver o emprego do acento \nindicativo de crase.   \n(A) Está muito estressada por levar tudo a ferro \ne fogo.  \n(B) As respostas da prova não podem ser a \nlápis.   \n(C) Não esperava que fosse desistir a esta altura \ndo campeonato.  \n(D) Ele redige textos jornalísticos a William \nBonner.   \n(E) Gosto de me juntar a pessoas preocupadas \ncom causas sociais."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir e assinale a \nalternativa em que se verifica desvio gramatical \nna(s) forma(s) verbal(is) empregada(s).",
+            "alternativas": {
+                "A": "Certamente, opor -se-ão fortemente ao \nrelacionamento.",
+                "B": "Digamos que este quadro valha uma \nfortuna; você o compraria?",
+                "C": "Era comum que maldissesse os amigos.",
+                "D": "Essa semana, maqueei trinta pessoas para \num evento de moda.",
+                "E": "Os rapazes a expunham na escola, a troco \nde popularidade."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Dentre as palavras a seguir, aquela que é \nparoxítona é:",
+            "alternativas": {
+                "A": "gerontólogo.",
+                "B": "harmonioso.",
+                "C": "vatapá.",
+                "D": "límpido.",
+                "E": "estudantil."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: 0 \nAnalise as palavras a seguir quanto à realização \nsonora. Assinale a alternativa em que ocorre \ndígrafo.",
+            "alternativas": {
+                "A": "águia.",
+                "B": "páscoa.",
+                "C": "exíguo.",
+                "D": "escavação.",
+                "E": "carga.  \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nFISCAL DE OBRAS                                                                                                                                              Página 4 de 9 MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Uma loja online mede o número de \nvisualizações que eles tiveram em um \ndeterminado produto, e também o número de \nvendas efetivadas desse mesmo produto. Eles \ncalculam a razão entre o número de vendas e o \nnúmero de visualizações. No mês de janeiro, \nessa razão  foi de 2%. No mês seguinte, o \nnúmero de visualizações aumentou em 20%, e \na razão mencionada se manteve constante. \nPortanto, pode -se afirmar que o número de \nvendas sofreu um aumento de:",
+            "alternativas": {
+                "A": "18%.",
+                "B": "20%.",
+                "C": "22%.",
+                "D": "4%.",
+                "E": "40%."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Numa prova, um candidato acertou 70% da \nprova de português, 80% da prova de \nmatemática e 90% da prova de inglês. Sabendo -\nse que havia o mesmo número de questões de \ncada uma das três disciplinas nesta prova, \nquantos por cento do total da prova este \ncandidato ace rtou?",
+            "alternativas": {
+                "A": "80%.",
+                "B": "75%.",
+                "C": "77%.",
+                "D": "85%.",
+                "E": "82%."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Observe a seguinte sequência lógica numérica:  \n0, 1, -2, 3, -4, 6, -6, 10, -8, 15, …  \nA diferença entre o 13° e o 12° termo dessa \nsequência é:",
+            "alternativas": {
+                "A": "-9.",
+                "B": "-12.",
+                "C": "33.",
+                "D": "9.",
+                "E": "-33. \n QUESTÃO 14 \nObserve o octaedro abaixo:  \n \nIndique o seu número de arestas:  \n(A) 16.  \n(B) 12.  \n(C) 8.  \n(D) 6.  \n(E) 4."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Considere VERDADEIRA a seguinte \nproposição lógica:  \n“Sociologia ou Filosofia são ciências humanas”  \nIndique a proposição que necessariamente é \nFALSA:",
+            "alternativas": {
+                "A": "Sociologia e Filosofia não são ciências \nhumanas.",
+                "B": "Filosofia não é uma ciência humana.",
+                "C": "Sociologia e Filosofia são ciências \nhumanas.",
+                "D": "Sociologia não é uma ciência humana.",
+                "E": "Sociologia ou Filosofia não são ciências \nhumanas.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Utilizando o Windows 7, o comando de teclado \nCtrl + Shift + Esc é utilizado parada:",
+            "alternativas": {
+                "A": "Abrir o menu geral do sistema.",
+                "B": "Abrir o calendário.",
+                "C": "Abrir o controle de bateria do computador.",
+                "D": "Abrir o gerenciador de tarefas.",
+                "E": "Abrir o explorador de arquivos.  \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nFISCAL DE OBRAS                                                                                                                                              Página 5 de 9 QUESTÃO 17 \nNo Microsoft Word 2016, as palavras Arial, \nVerdana e Tahoma  estão associadas a qual dos \nelementos do programa:  \n \n(A) Fontes.  \n(B) Imagens.  \n(C) Gráficos.  \n(D) Cor de realce de texto.  \n(E) Equações."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: A revisão ortográfica e gramatical, está \ndisponível no Microsoft Windows 7 em qual \ndas guias relacionadas a seguir:",
+            "alternativas": {
+                "A": "Exibir.",
+                "B": "Alocar.",
+                "C": "Rever.",
+                "D": "Revisão.",
+                "E": "Design."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: A respeito do Microsoft Word 2016, marcar C \npara as afirmativas Certas, E para as Erradas e, \napós, assinalar a alternativa que apresenta a \nsequência CORRETA:  \n \n(_) O Microsoft Word 2016 permite \ncriptografar documentos produzidos.  \n(_) É possível compartilhar documentos com \noutros colegas de trabalho utilizando o \nMicrosoft Word 2016.  \n(_) Não é possível alterar um documento no \nMicrosoft Word 2016 depois de criar uma \nsenha de acesso, mesmo tendo o controle \ndessa senha.",
+            "alternativas": {
+                "A": "C – C – C.",
+                "B": "C – C – E.",
+                "C": "C – E – C.",
+                "D": "E – C – C.",
+                "E": "E – E – C. \n QUESTÃO 20 \nPara abrir um novo documento no Microsoft \nWord 2016, o usuário pode optar por selecionar \no comando:  \n \n(A) Ctrl+I  \n(B) Ctrl+P  \n(C) Ctrl+T  \n(D) Ctrl+N  \n(E) Ctrl+O  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: 1 \nA organização deve providenciar para todos os \ntrabalhadores informações sobre:",
+            "alternativas": {
+                "A": "Utilização dos equipamentos de combate ao \nincêndio.",
+                "B": "Cálculos de lucratividade econômica sobre \no período contábil da empresa.",
+                "C": "Noções de defesa pessoal contra assaltos.",
+                "D": "Noções de planejamento estrutural nas \ncontrações de edificações.",
+                "E": "Boas práticas de planejamento das \natividades a serem desempenhas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Nos ambientes de trabalho, às aberturas, saídas \ne vias de passagem de emergência, como por \nexemplo, na ocorrência de um incêndio, devem \nser mantidas:",
+            "alternativas": {
+                "A": "Ocultas.",
+                "B": "Com sinalização sonora.",
+                "C": "Desobstruídas.",
+                "D": "Trancadas.",
+                "E": "Com difícil acesso."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: No combate a incêndio provenientes da queima \nde gasolina, o extintor indicado para uso é o \ncompartimento a base de:",
+            "alternativas": {
+                "A": "Água.",
+                "B": "Pó químico.",
+                "C": "Pó de cerra.",
+                "D": "Gás hidrogênio.",
+                "E": "Gás metano.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nFISCAL DE OBRAS                                                                                                                                              Página 6 de 9 QUESTÃO 24  \nO pilar básico para disseminação das boas \npráticas de preservação ambiental está \nassociado a(o):  \n(A) Redução da fiscalização das áreas de \npreservação ambientais.  \n(B) Aumento do consumo descontrolado e sem \nconsciência dos recursos naturais.  \n(C) Investimento maciço na extração de \nenergias não renováveis dos recursos naturais.  \n(D) Promoção da conscientização ambiental, \neducação pública e engajamento da \ncomunidade em práticas sustentáveis e na \nproteção do meio ambiente.  \n(E) Aumento do uso de recursos naturais não \nrenováveis para o desenvolvimento econômico \nregional."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Assinale a alternativa que descreve \ncorretamente um dos métodos utilizados para a \npreservação do meio ambiente e aumento da \neficiência energética do Brasil:",
+            "alternativas": {
+                "A": "Ampliação da produção de energia \nfotovoltaica.",
+                "B": "Investimento em fontes energéticas \nprovenientes de combustíveis fósseis.",
+                "C": "Desenvolvimento de novas indústrias de \nprodução energética por meio da queima do \ncarvão mineral.",
+                "D": "Intensificação da extração mineral não \nlegalizada em regiões do norte do Brasil.",
+                "E": "Aumento a emissão de dióxido de carbono \nna atmosfera para redução do aquecimento \nglobal."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Um dos parâmetros básicos para a avaliação da \nqualidade da água presente nos corpos d’agua, \ncomo rios, lagos e águas costeiras é a:",
+            "alternativas": {
+                "A": "Solubilidade.",
+                "B": "Energização.",
+                "C": "Dureza.",
+                "D": "Turbidez.",
+                "E": "Escoamento.  QUESTÃO 27  \nEm conformidade com a Norma \nRegulamentadora N.º 03 – Embargo e \nInterdição, o embargo implica:  \n(A) Sempre na paralização total da obra.  \n(B) Sempre na paralização parcial da obra.  \n(C) Na manutenção da obra, com ajustes \npontuais.  \n(D) Na paralisação parcial ou total da obra.  \n(E) Na prisão dos envolvidos na construção da \nobra."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: São riscos físicos presentes no ambiente de \ntrabalho, com potencial para proporcionas \ndoenças do trabalho, se não identificados e \ncontrolados:",
+            "alternativas": {
+                "A": "Vibrações mecânicas no local de trabalho.",
+                "B": "Variações de diretrizes.",
+                "C": "Indefinição de cronograma de projetos.",
+                "D": "Ausência de ruídos no ambiente de \ntrabalho.",
+                "E": "Temperatura deleitosa no ambiente de \ntrabalho."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: A má postura no processo laboral, pode dar \norigem a doenças do trabalho de cunho:",
+            "alternativas": {
+                "A": "Psicológico.",
+                "B": "Comportamental.",
+                "C": "Pessoal.",
+                "D": "Ergonômico.",
+                "E": "Econômico."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: De acordo com a NR 20 - Segurança e Saúde no \nTrabalho com Inflamáveis e Combustíveis, os \nlíquidos que possuem ponto de fulgor ≤ 60ºC \n(sessenta graus Celsius), são considerados:",
+            "alternativas": {
+                "A": "Líquidos solúveis.",
+                "B": "Líquidos estático.",
+                "C": "Líquidos amostrais.",
+                "D": "Líquidos ionizantes.",
+                "E": "Líquidos inflamáveis.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nFISCAL DE OBRAS                                                                                                                                              Página 7 de 9 QUESTÃO 31  \nA administração pública direta e indireta, deve \nter como um dos seus princípios básicos a \nserem observados em suas ações o princípio da:  \n(A) Persuasão.  \n(B) Publicidade.  \n(C) Indivisibilidade.  \n(D) Paridade econômica.  \n(E) Concussão."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: De acordo com a Constituição da República \nFederativa do Brasil de 1988, pode ser afirmar \nque as pessoas jurídicas de direito público e as \nde direito privado prestadoras de serviços \npúblicos responderão pelos danos que seus \nagentes, nessa qualidade, causarem a terceiros, \nassegurado o direito de regresso contra o \nresponsável nos casos de dolo ou:",
+            "alternativas": {
+                "A": "Culpa.",
+                "B": "Abstenção.",
+                "C": "Intensão.",
+                "D": "Desinformação.",
+                "E": "Falta."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: A Constituição da República Federativa do \nBrasil de 1988 define que o regime próprio de \nprevidência social dos servidores titulares de \ncargos efetivos terá caráter contributivo e \nsolidário, mediante contribuição do respectivo \nente federativo, de servidores ativos, de \naposentados e de:",
+            "alternativas": {
+                "A": "Servidores privados.",
+                "B": "Empresas privadas.",
+                "C": "Impostos públicos.",
+                "D": "Pensionistas.",
+                "E": "Taxas públicas.  \n \n QUESTÃO 34  \nAssinale a alternativa que descreve um crime \nambiental previsto na legislação brasileira:  \n \n(A) Apropriar -se de dinheiro ou qualquer \nutilidade que, no exercício do cargo, recebeu \npor erro de outrem.  \n(B) Executar pesquisa, lavra ou extração de \nrecursos minerais sem a competente \nautorização.  \n(C) Modificar ou alterar, o funcionário, sistema \nde informações ou programa de informática \nsem autorização ou solicitação de autoridade \ncompetente.  \n(D) Exigir, para si ou para outrem, direta ou \nindiretamente, ainda que fora da função ou \nantes de assumi -la, mas em razão dela, \nvantagem indevida.  \n(E) Patrocinar, direta ou indiretamente, \ninteresse privado perante a administração \npública, valendo -se da qualidade de \nfuncionário."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Para àquele que construir, em qualquer parte do \nterritório nacional, estabelecimentos, obras ou \nserviços potencialmente poluidores, sem \nlicença ou autorização dos órgãos ambientais \ncompetentes, ou contrariando as normas legais \ne regulamentares pertinentes, aplicar -se-á a \npena de:",
+            "alternativas": {
+                "A": "Detenção, de quatro a vinte meses, ou \nmulta, ou ambas as penas cumulativamente.",
+                "B": "Detenção, de doze a vinte meses, ou multa, \nou ambas as penas cumulativamente.",
+                "C": "Detenção, de um a seis meses, ou multa, ou \nambas as penas cumulativamente.",
+                "D": "Reclusão, de doze a vinte meses, ou multa, \nou ambas as penas cumulativamente.",
+                "E": "Reclusão, de quatro a vinte meses, ou multa, \nou ambas as penas cumulativamente.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nFISCAL DE OBRAS                                                                                                                                              Página 8 de 9 QUESTÃO 36  \nReferente aos crimes ambientais, marcar C para \nas afirmativas Certas, E para as Erradas e, após, \nassinalar a alternativa que apresenta a sequência \nCORRETA:  \n \n(_) Disseminar doença  que possam causar \ndanos à agricultura não representa um crime \nambiental.  \n \n(_) Disseminar doença  que possam causar \ndanos à fauna representa um crime \nambiental.  \n \n(_) Disseminar doença  que possam causar \ndanos à flora representa um crime ambiental.  \n \n(A) C – C – C. \n(B) C – C – E. \n(C) E – E – C. \n(D) E – C – C. \n(E) E – E – E."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: A legislação federal define como sendo um dos \nmeios em que o parcelamento do solo pode ser \nfeito nos municípios:",
+            "alternativas": {
+                "A": "Desmembramento.",
+                "B": "Acareação.",
+                "C": "Preterição.",
+                "D": "Deslocamento.",
+                "E": "Adensamento."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Os projetos de loteamento do solo devem ser \nexecutados dentro do prazo constante no \ncronograma de conclusão dos trabalhos, sob \npena de:",
+            "alternativas": {
+                "A": "Desapropriação da obra.",
+                "B": "Leilão da obra.",
+                "C": "Perda da obra.",
+                "D": "Caducidade da aprovação.",
+                "E": "Reabilitação da aprovação.  \n QUESTÃO 39  \nAssinale a alternativa que descreve um dos \ndireitos básicos do consumidor, previsto no \nCódigo de Defesa do Consumidor:  \n \n(A) Proteção à segurança c ontra os riscos \nprovocados por práticas no fornecimento de \nprodutos e serviços considerados perigosos ou \nnocivos.  \n(B) Proteção à preservação econômica \nrelacionada à importação de itens produzidos \ndentro do país.  \n(C) Proteção à livre escolha de produtos que \napresentem grau de intoxicação superior aos \nrecomendados pela ANVISA.  \n(D) Proteção ao consumo consciente e \nindividualizado.  \n(E) Proteção á relação entre fornecimento e \nconsumo de matérias primas essenciais para a \nvida humana."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Assinale a alternativa que completa \ncorretamente a lacuna do texto a seguir, de \nacordo com o Código de Defesa do \nConsumidor:  \n \nO fornecedor de produtos e serviços que, \nposteriormente à sua introdução no mercado de \nconsumo, tiver conhecimento da periculosidade \nque apresentem, deverá comunicar o fato \nimediatamente às autoridades competentes e \naos consumidores, mediante ______________.",
+            "alternativas": {
+                "A": "cartas direcionadas",
+                "B": "anúncios publicitários.",
+                "C": "e -mail eletrônico",
+                "D": "aviso pessoal",
+                "E": "contato individualizado  \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nFISCAL DE OBRAS                                                                                                                                              Página 9 de 9"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: A partir do que é exposto no texto, conclui -se que \na língua materna:",
+            "alternativas": {
+                "A": "não tem qualquer relação com as áreas do \ncérebro associadas à linguagem e ao raciocínio \ncognitivo.",
+                "B": "é responsável por moldar as conexões \ninternas das áreas do cérebro associadas à \nlinguagem.",
+                "C": "é o único componente responsável por \nestabelecer a conectividade cerebral.",
+                "D": "não é impactante o suficiente para moldar \nconexões cerebrais e afetar o raciocínio \ncognitivo.",
+                "E": "é indiferente ao processo de aprendizagem, já \nque falantes nativos de línguas diferentes \napresentam exatamente as mesmas conexões \ncerebrais.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nFISCAL DE OBRAS                                                                                                                                      Página 3 de 12 QUESTÃO 02 \nConsidere as afirmativas a seguir:  \nI. A conectividade mais forte entre os \nhemisférios esquerdo e direito explica por que os \nfalantes nativos de árabe são capazes de fazer \nconexões entre ideias mais rápido que os falantes \nnativos de alemão.    \nII. Tanto o árabe quanto o alemão apresentam \ncomplexidades próprias, que podem influenciar \nna conectividade cerebral de seus falantes \nnativos.   \nIII. As particularidades de uma língua materna \npodem afetar as regiões cerebrais associadas à \nlinguagem.  \nIV. A anatomia cerebral facilita conexões mais \npróximas no cérebro, que favorecem o \naprendizado de alemão frente ao de árabe.   \nO texto permite concluir apenas as afirmativas \nem: \n(A) I e IV. \n(B) II e III.  \n(C) II e IV.   \n(D) I e III.   \n(E) II, III e IV.  \n \nConsidere o excerto a seguir para responder \nàs questões 3 e 4:  \n \nEm uma próxima análise, a equipe pretende \ninvestigar mudanças estruturais longitudinais no \ncérebro de adultos de língua árabe à medida que  \naprendem alemão ao longo de seis meses."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: A locução em destaque no excerto apresentado é \ntípica das orações subordinadas adverbiais que \nexprimem, em relação à oração principal à qual \nse relacionam, um valor:",
+            "alternativas": {
+                "A": "condicional.",
+                "B": "concessivo.",
+                "C": "temporal.",
+                "D": "proporcional.",
+                "E": "comparativo.  QUESTÃO 04 \nConforme a função que desempenha e sua \ncomposição interna, a classificação gramatical da \nlocução “à medida que” é:  \n \n(A) locução conjuntiva.  \n(B) locução adverbial.  \n(C) locução adjetiva.  \n(D) locução prepositiva.  \n(E) locução verbal."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A expressão “ não apenas … mas também ”, que \nocorre em “As imagens de alta resolução não \napenas mostram a anatomia do cérebro, mas \ntambém permitem derivar a conectividade entre \nas áreas cerebrais (...)”, é empregada como um \nrecurso de coesão sequencial, que imprime ao \ncontexto em que ocorre o sentido de:",
+            "alternativas": {
+                "A": "adição.",
+                "B": "restrição.",
+                "C": "oposição.",
+                "D": "alternância.",
+                "E": "explicação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Assinale a alternativa que apresenta um termo \nsinônimo da palavra em destaque na seguinte \noração: “A consciência política resulta na \nexprobração  àqueles que se apoiam em falsas \npromessas.”",
+            "alternativas": {
+                "A": "validação.",
+                "B": "apoio.",
+                "C": "confiança.",
+                "D": "censura.",
+                "E": "encômio.  \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nFISCAL DE OBRAS                                                                                                                                      Página 4 de 12 QUESTÃO 07 \nAnalise as sentenças a seguir quanto aos \nelementos em destaque:   \nI. Candidatei -me ao conselho da universidade, já \nque ninguém se dispôs.  \nII. Continuaremos batalhando em prol dos \ntrabalhadores, não obstante  as críticas e as \nsabotagens.   \nIII. O acampamento foi cancelado, porquanto  os \nescoteiros se perderam na mata.   \nIV. O evento será ao ar livre, contanto  que não \nchova.  \nA alternativa que apresenta elementos de \nsentidos e funções correspondentes, que \nsubstituem, correta e respectivamente, as \nexpressões em destaque nas sentenças dadas é \n(em caso de encontro entre preposição e artigo ao \nsubstituir, considere que ocorre contr ação):  \n(A) I. uma vez que; II. porquanto; III. porque; IV. \nainda que.   \n(B) I. pois; II. a despeito de; III. porque; IV. a \nmenos.   \n(C) I. pois; II. apesar de; III. visto que; IV. desde \nque.  \n(D) I. malgrado; II. desde que; III. embora; IV. \ndesde que.  \n(E) I. ainda que; II. porquanto; III. embora; IV. \nainda que."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Analise as sentenças a seguir quanto à classe \ngramatical das palavras que as compõem. \nAssinale a alternativa em que se verifica uma \npreposição acidental.",
+            "alternativas": {
+                "A": "Ainda não somos casados perante a lei.",
+                "B": "As próprias colegas de time se posicionam \ncontra ela.",
+                "C": "O aluno não parou de conversar durante a \naula.",
+                "D": "Começou a organizar os preparativos de sua \nfesta.",
+                "E": "As chaves da casa estão sob o tapete da sala.  \n QUESTÃO 09 \nAnalise a estrutura das palavras a seguir e \nassinale a alternativa em que a palavra dada é \nformada pelo processo de derivação \nparassintética.  \n \n(A) clarividente.  \n(B) amendoado.   \n(C) intraocular.  \n(D) esclarecer.  \n(E) desenvolvimento."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: 0 \nO emprego do acento indicativo de crase está \ncorreto em:",
+            "alternativas": {
+                "A": "Qualquer atitude é desnecessária à essa altura \ndo campeonato.",
+                "B": "O garoto deu flores à ela.",
+                "C": "Joana tem que ir à uma reunião de trabalho.",
+                "D": "Não pude responder à sua mensagem antes.",
+                "E": "Dedicou a sua vida à apresentações de teatro.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: 1 \nUm carro tem 4 rodas e uma moto tem 2  rodas. \nSabe -se que em um pátio há 100 veículos, \nsomente carros e motos. Adalberto contou o \nnúmero de rodas dos veículos deste pátio e \nencontrou o valor de 336. Quantos carros tem no \npátio?",
+            "alternativas": {
+                "A": "68.",
+                "B": "32.",
+                "C": "44.",
+                "D": "96.",
+                "E": "64.  \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nFISCAL DE OBRAS                                                                                                                                      Página 5 de 12 QUESTÃO 12 \nObserve o trecho:  \n“Aberta em 2021, a piscina mais funda do mundo \ntem 60 metros de profundidade e abriga até uma \n“cidade” subaquática. Com 14 milhões de litros \nde água e temperatura média de 30°C, a Deep \nDive Dubai é certificada pelo Guinness World \nRecords como ‘a piscina ma is profunda para o \nmergulho’ do mundo.”  \nFonte: CNN Brasil.  \nIndique o valor do volume de água da piscina \nmencionada na unidade de metros cúbicos:  \n(A) 140.  \n(B) 1.400.  \n(C) 14.000.  \n(D) 140.000.  \n(E) 1.400.000."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Pedro tem 5 filhos, sendo 4 deles maiores de 10 \nanos. Para todo filho maior de 10 anos, ele dá \nmensalmente uma mesada, no mesmo valor para \ntodos. O 5° filho, que ainda não recebia a \nmesada, irá completar 10 anos em breve, e deverá \nreceber uma mesada também. Porém, Pedro não \nquer aume ntar o seu custo geral com a mesada \ndos filhos, e, portanto, o valor total atualmente \npago será igualmente dividido entre os 5. Com \nisso, qual o decréscimo percentual sofrido no \nvalor de cada filho que já recebia a mesada antes?",
+            "alternativas": {
+                "A": "15%.",
+                "B": "20%.",
+                "C": "25%.",
+                "D": "12%.",
+                "E": "18%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Júlio escreveu um livro à mão, resultando em 210 \npáginas. Quando ele estava redigitando o livro no \ncomputador, ele percebeu que a cada 5 páginas \nescritas à mão, equivale a 3 páginas digitadas. \nNessas condições, quantas páginas digitadas terá \no livro de Júl io?",
+            "alternativas": {
+                "A": "350.",
+                "B": "126.",
+                "C": "123.",
+                "D": "35.",
+                "E": "96.  \n \n QUESTÃO 15 \nObserve a seguinte sequência lógica numérica:  \n \n \nA sequência continua indefinidamente. Quantos \ncaracteres ‘A’ serão utilizados para fazer o 11° \nelemento desta sequência?  \n(A) 144.  \n(B) 121.  \n(C) 99.  \n(D) 169.  \n(E) 155.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Considerando os aplicativos e programas \npresentes no Windows 7, qual dos executáveis a \nseguir é caracterizado por ser um processador de \ntextos incluído na instalação desta versão do \nWindows:",
+            "alternativas": {
+                "A": "Mypone.",
+                "B": "Getgo.",
+                "C": "Wordpad.",
+                "D": "Google Chrome.",
+                "E": "Rclone."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: O Windows 7, desenvolvido pela Microsoft, é \nclassificado como um:",
+            "alternativas": {
+                "A": "Sistema operacional.",
+                "B": "Banco de dados.",
+                "C": "Navegador da web.",
+                "D": "Antivírus.",
+                "E": "Gerenciador de e -mail."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: As teclas de atalho podem ser usadas para acessar \nrapidamente funções comuns do Windows 7.  O \ncomando presente ao clicar na tecla do logotipo \ndo Windows é responsável por:",
+            "alternativas": {
+                "A": "Desligar o computador.",
+                "B": "Abrir ou fechar o menu iniciar.",
+                "C": "Minimizar todas as janelas abertas.",
+                "D": "Mover uma janela de um monitor para outro.",
+                "E": "Percorrer os gadgets.  \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nFISCAL DE OBRAS                                                                                                                                      Página 6 de 12 QUESTÃO 19 \nPara recordar um item selecionado no Windows \n7 o usuário pode fazer uso da tecla de atalho:  \n(A) Ctrl + T.  \n(B) Ctrl + R.  \n(C) Ctrl + Y.  \n(D) Ctrl + X  \n(E) Alt + Enter."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Observa a imagem a seguir, extraída do \nnavegador Google Chrome, e assinale a \nalternativa que relaciona corretamente e \nrespectivamente as funções das três primeiras \nopções ilustradas:  \n \n \n \nFonte: 1 Google Chrome",
+            "alternativas": {
+                "A": "Retroceder, avançar e recarregar a página.",
+                "B": "Apagar, digitar e recarregar página.",
+                "C": "Recarregar página, acessar histórico e \natualização versão.",
+                "D": "Recarregar página, avançar para próxima \npágina e exclusão de versão.",
+                "E": "Excluir histórico, armazenar dados e atualizar \ndados.  \n \n \n \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: 1 \nAssinale a alternativa que preenche corretamente \nas 03 lacunas.  \n____________ espaços, mobiliários, \nequipamentos urbanos, edificações, transportes, \ninformação e comunicação, inclusive seus \nsistemas e tecnologias ou elemento que possa ser \nalcançado, acionado, utilizado e vivenciado por \nqualquer pessoa.  \n____________ espaço, edificação, mobiliário, \nequipamento urbano ou elemento cujas \ncaracterísticas foram originalmente planejadas \npara serem acessíveis.  \n____________ espaço, edificação, mobiliário, \nequipamento urbano ou elemento cujas \ncaracterísticas originais foram alteradas \nposteriormente para serem acessíveis.",
+            "alternativas": {
+                "A": "acessível - adequado - adaptado",
+                "B": "acessível - adaptado - adequado",
+                "C": "acessibilidade - adaptado - adequado",
+                "D": "adequado – adaptável - ajuda técnica",
+                "E": "adequado – adaptável - acessível"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Leia atentamente o trecho a seguir:  \n“Os fornecedores de produtos de consumo \n________________ respondem solidariamente \npelos vícios de ______________ que os tornem \nimpróprios ou inadequados ao consumo a que se \ndestinam ou lhes diminuam o valor, assim como \npor aqueles decorrentes da_________ ,  com a \nindicações constantes do recipiente, da \nembalagem, rotulagem ou_______________ , \nrespeitadas as variações decorrentes de sua \nnatureza, podendo o consumidor exigir a \nsubstituição das partes viciadas.”  \nAgora, assinale a alternativa que não completa \ncorretamente uma das lacunas.",
+            "alternativas": {
+                "A": "duráveis ou não duráveis",
+                "B": "disparidade",
+                "C": "mensagem publicitária",
+                "D": "qualidade ou quantidade",
+                "E": "validade  \n \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nFISCAL DE OBRAS                                                                                                                                      Página 7 de 12 QUESTÃO 23  \nDe acordo com A NBR 9050, em relação aos \nMobiliários na rota acessível, complete \ncorretamente a lacuna.  \nMobiliários com altura entre 0,60 m até 2,10 m do \npiso podem representar riscos \n______________________, caso tenham \nsaliências com mais de 0,10 m de profundidade.  \n \n(A) para pessoas com deficiências auditivas  \n(B) para pessoas com mobilidade reduzida  \n(C) para pessoas com deficiências  visuais  \n(D) para pessoas que usam cadeiras de rodas  \n(E) para pessoas sem deficiências"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Em relação ao Código de Defesa do Consumidor, \nIndique “V” para verdadeiro e “F” para falso.  \n( ) Consumidor é toda pessoa física ou jurídica \nque adquire ou utiliza produto ou serviço como \ndestinatário inicial.  \n( ) Comerciante é toda pessoa física ou jurídica, \npública ou privada, nacional ou estrangeira, bem \ncomo os entes despersonalizados, que \ndesenvolvem atividade de produção, montagem, \ncriação, construção, transformação, importação, \nexportação, distribuição ou  comercialização de \nprodutos ou prestação de serviços.  \n( ) Produto é qualquer bem, móvel ou imóvel, \nmaterial ou imaterial.  \n( ) Serviço é qualquer atividade fornecida no \nmercado de consumo, mediante remuneração, \ninclusive as de natureza bancária, financeira, de \ncrédito e securitária, salvo as decorrentes das \nrelações de caráter trabalhista.",
+            "alternativas": {
+                "A": "F, V, F, V",
+                "B": "V, V, V, V",
+                "C": "F, F, V, V",
+                "D": "V, F, V, F",
+                "E": "F, V,  V, F  \n \n \n QUESTÃO 25  \nA Política Nacional do Meio Ambiente tem por \nobjetivo a preservação, melhoria e recuperação \nda qualidade ambiental propícia à vida, visando \nassegurar, no País, condições ao \ndesenvolvimento sócio -econômico, aos \ninteresses da segurança nacional e à proteção da \ndignidade da vida humana, atendidos os \nseguintes princípios:  \n \n I -  ação governamental na manutenção do \nequilíbrio ecológico, considerando o meio \nambiente como um patrimônio público a ser \nnecessariamente assegurado e protegido, tendo \nem vista o uso coletivo;  \nII - ao desenvolvimento de pesquisas e de \ntecnologias nacionais orientadas para o uso \nracional de recursos ambientais;  \nIII – incentivos ao estudo e à pesquisa de \ntecnologias orientadas para o uso racional e a \nproteção dos recursos ambientais;  \nIV – proteção de áreas ameaçadas de \ndegradação;  \n \n(A) Apenas os itens I e II e III estão corretos.  \n(B) Apenas os itens I e IV estão corretos.  \n(C) Apenas os itens II e III estão incorretos.  \n(D) Apenas o item II está incorreto.  \n(E) Todos os itens estão corretos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: De acordo com o Código de Defesa do \nConsumidor, o direito de reclamar pelos vícios \naparentes ou de fácil constatação caduca em:  \n \nI – quarenta e cinco, tratando -se de fornecimento \nde serviço e de produtos não duráveis;  \nII – sessenta dias, tratando -se de fornecimento de \nserviço e de produtos duráveis.",
+            "alternativas": {
+                "A": "A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.",
+                "B": "As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.",
+                "C": "A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.",
+                "D": "As asserções I e II são proposições falsas.",
+                "E": "As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nFISCAL DE OBRAS                                                                                                                                      Página 8 de 12 QUESTÃO 27  \nPara a execução da Política Nacional das \nRelações de Consumo, contará o poder público \ncom os seguintes instrumentos, entre outros:  \n \nI – estudo  constante das modificações do mercado \nde consumo;  \nII – manutenção de assistência jurídica, integral e \ngratuita para o consumidor carente;  \nIII – concessão de estímulos à criação e \ndesenvolvimento das Associações de Defesa do \nConsumidor;  \n \nEstá(ão) correta(s) a(s) afirmativa(s):  \n \n(A) I, II e III  \n(B) II e III apenas  \n(C) II apenas  \n(D) I apenas  \n(E) I e II apenas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: As áreas de alcance em superfícies de trabalho, \nem vista lateral, devem atender à Figura 19 e ao \nseguinte:   \n \n \n \n \nI - profundidade inferior de no mínimo 0,63 m \nentre o piso e a superfície inferior;  \nII - altura entre 0,75 m a 0,85 m entre o piso e a \nsua superfície superior;  \nIII - altura livre mínima de 0,75 m para garantir a \naproximação da pessoa em cadeira de rodas;  \n \nEstá(ão) incorreta(s) a(s) afirmativa(s):",
+            "alternativas": {
+                "A": "I, II e III",
+                "B": "II e III apenas",
+                "C": "I e III apenas",
+                "D": "I apenas",
+                "E": "III apenas  \n QUESTÃO 29  \nAssinale a alternativa incorreta de acordo com o \nCódigo de Defesa do Consumidor.  \n \n(A) É abusiva qualquer modalidade de \ninformação ou comunicação de caráter \npublicitário, inteira ou parcialmente falsa, ou, por \nqualquer outro modo, mesmo por omissão, capaz \nde induzir em erro o consumidor a respeito da \nnatureza, características, qualidade, quantidade, \npropriedades, origem, pr eço e quaisquer outros \ndados sobre produtos e serviços.  \n(B) No caso de fornecimento de produtos ou de \nserviços sujeitos ao regime de controle ou de \ntabelamento de preços, os fornecedores deverão \nrespeitar os limites oficiais sob pena de não o \nfazendo, responderem pela restituição da quantia \nrecebida em excesso, mon etariamente atualizada, \npodendo o consumidor exigir à sua escolha, o \ndesfazimento do negócio, sem prejuízo de outras \nsanções cabíveis.  \n(C) Na cobrança de débitos, o consumidor \ninadimplente não será exposto a ridículo, nem \nserá submetido a qualquer tipo de \nconstrangimento ou ameaça.  \n(D) Os cadastros e dados de consumidores devem \nser objetivos, claros, verdadeiros e em linguagem \nde fácil compreensão, não podendo conter \ninformações negativas referentes a período \nsuperior a cinco anos.  \n(E) As cláusulas contratuais serão interpretadas \nde maneira mais favorável ao consumidor.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nFISCAL DE OBRAS                                                                                                                                      Página 9 de 12 QUESTÃO 30  \nAnalise as afirmativas abaixo de acordo com o \nCódigo de Defesa do Consumidor.  \nO fabricante, o construtor, o produtor ou \nimportador só não será responsabilizado quando \nprovar:  \n \nI -  que não colocou o produto no mercado;  \nII - a culpa exclusiva do consumidor ou de \nterceiro.  \nIII - que, embora haja colocado o produto no \nmercado, o defeito inexiste  \nEstá(ão) correta(s) a(s) afirmativa(s):  \n(A) I, II e III  \n(B) II e III apenas  \n(C) I e II apenas  \n(D) I apenas  \n(E) III apenas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Assinale a alternativa que preenche corretamente \nas 03 lacunas.  \n \n___________, o conjunto de condições, leis, \ninfluências e interações de ordem física, química \ne biológica, que permite, abriga e rege a vida em \ntodas as suas formas;  \n \n____________, a alteração adversa das \ncaracterísticas do meio ambiente;  \n \n___________, a atmosfera, as águas interiores, \nsuperficiais e subterrâneas, os estuários, o mar \nterritorial, o solo, o subsolo, os elementos da \nbiosfera, a fauna e a flora.",
+            "alternativas": {
+                "A": "poluidor – poluição - recursos ambientais",
+                "B": "recursos ambientais – poluição -  Poluidor",
+                "C": "meio ambiente - degradação da qualidade \nambiental – recursos ambientais",
+                "D": "meio ambiente - recursos ambientais – \npoluição",
+                "E": "meio ambiente – poluição - degradação da \nqualidade ambiental  \n \n \n QUESTÃO 3 2 \nEm relação ao Símbolo internacional de pessoas \ncom deficiência  visual, assinale a alternativa \ncorreta.  \n \n(A) A representação do símbolo internacional de \npessoal com deficiência  visual consiste em um \npictograma branco sobre fundo amarelo \n(referência Munsell 10B 5/10 ou Pantone 2925 \nC). Este símbolo deve, obrigatoriamente  ser \nrepresentado em branco e preto (pictograma \nbranco sobre fundo preto ou pictograma preto \nsobre fundo branco) e deve estar sempre voltado \npara direita.  \n(B) A representação do símbolo internacional de \npessoal com deficiência  visual consiste em um \npictograma branco sobre fundo azul (referência \nMunsell 10B 5/10 ou Pantone 2925 C). Este \nsímbolo obrigatoriamente  deve ser representado \nem branco e preto (pictograma branco sobre \nfundo preto ou pictograma preto sobre fundo \nbranco) e deve estar sempre voltado para \nesquerda.  \n(C) A representação do símbolo internacional de \npessoal com deficiência  visual consiste em um \npictograma azul sobre fundo branco (referência \nMunsell 10B 5/10 ou Pantone 2925 C). Este \nsímbolo pode, opcionalmente, ser representado \nem branco e amarelo (pictograma branco sobre \nfundo preto ou pictograma preto sobre fundo \nbranco) e  deve estar sempre voltado para direita.  \n(D) A representação do símbolo internacional de \npessoal com deficiência  visual consiste em um \npictograma azul sobre fundo branco (referência \nMunsell 10B 5/10 ou Pantone 2925 C). Este \nsímbolo deve obrigatoriamente , ser representado \nem branco e preto (pictograma branco sobre \nfundo preto ou pictograma preto sobre fundo \nbranco) e deve estar sempre voltado para \nesquerda.  \n(E) A representação do símbolo internacional de \npessoal com deficiência  visual consiste em um \npictograma branco sobre fundo azul (referência \nMunsell 10B 5/10 ou Pantone 2925 C). Este \nsímbolo pode, opcionalmente, ser representado \nem branco e preto (pictograma branco sobre \nfundo preto ou pictograma preto sobre fundo \nbranco) e d eve estar sempre voltado para direita.  \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nFISCAL DE OBRAS                                                                                                                                      Página 10 de 12 QUESTÃO 33  \nSão princípios da Política Nacional de Resíduos \nSólidos: EXCETO.  \n(A) o reconhecimento do resíduo sólido \nreutilizável e reciclável como um bem \neconômico e de valor social, gerador de trabalho \ne renda e promotor de cidadania;  \n(B) a redução do volume e da periculosidade dos \nresíduos perigosos;  \n(C) a prevenção e a precaução;  \n(D) o direito da sociedade à informação e ao \ncontrole social;  \n(E) a razoabilidade e a proporcionalidade;"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: A imagem a seguir representa qual o símbolo \ninternacional?",
+            "alternativas": {
+                "A": "A representação do símbolo internacional da \nPessoa idosa",
+                "B": "A representação do símbolo internacional de \npessoal com deficiência  auditiva",
+                "C": "A representação do símbolo internacional de \npessoas com deficiência  visual",
+                "D": "A representação do símbolo internacional da \nPessoa com criança de colo",
+                "E": "Nenhuma das alternativas  \n \n \n \n \n QUESTÃO 35  \nDe acordo com as normas de segurança no \ntrabalho, qual é a exigência relacionada às saídas \nde emergência nos locais de trabalho?  \n \n(A) As saídas de emergência não são \nobrigatórias se o local de trabalho tiver outros \nequipamentos de segurança adequados.  \n(B) As saídas de emergência devem ser \nmantidas fechadas durante o expediente para \nevitar o uso indevido.  \n(C) Os locais de trabalho devem ter saídas de \nemergência em número suficiente e dispostas de \nmodo que os trabalhadores possam abandoná -los \nrapidamente e em segurança em caso de \nemergência.  \n(D) As aberturas, saídas e vias de passagem \ndevem ser mantidas obstruídas.  \n(E) A presença de saídas de emergência não é \nobrigatória se houver planos de evacuação bem \nelaborados e não podem ser equipadas com \ndispositivos de travamento, ainda que permitam \nfácil abertura do interior do estabelecimento."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Leia:  \n \nconjunto de mecanismos e procedimentos que \ngarantem à sociedade informações, \nrepresentações técnicas e participação nos \nprocessos de formulação de políticas, de \nplanejamento e de avaliação relacionados com os \nserviços públicos de saneamento básico;   \n \nDe acordo com a Política Nacional de \nSaneamento, o conceito acima refere -se à:",
+            "alternativas": {
+                "A": "gestão associada",
+                "B": "controle social",
+                "C": "saneamento básico",
+                "D": "subsídios",
+                "E": "serviços públicos de saneamento básico de \ninteresse local  \n \n \n \n \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nFISCAL DE OBRAS                                                                                                                                      Página 11 de 12 QUESTÃO 3 7 \nDe acordo com a Política Nacional de Resíduos \nSólidos, analise as alternativas abaixo:  \n    \n I - ciclo de vida do produto: ato de natureza \ncontratual firmado entre o poder público e \nfabricantes, importadores, distribuidores ou \ncomerciantes, tendo em vista a implantação da \nresponsabilidade compartilhada pelo ciclo de vida \ndo produto;   \nII - disposição final ambientalmente adequada: \ndistribuição ordenada de rejeitos em aterros, \nobservando normas operacionais específicas de \nmodo a evitar danos ou riscos à saúde pública e à \nsegurança e a minimizar os impactos ambientais \nadversos;  \nIII- padrões sustentáveis de produção e consumo: \nprocesso de transformação dos resíduos sólidos \nque envolve a alteração de suas propriedades \nfísicas, físico -químicas ou biológicas, com vistas \nà transformação em insumos ou novos produtos, \nobservadas as condições  e os padrões \nestabelecidos pelos órgãos competentes do \nSisnama e, se couber, do SNVS e do Suasa;   \n(A) Apenas II e III estão corretos.  \n(B) Apenas I está incorreto.  \n(C) Apenas I e III estão incorretos.  \n(D) Todos os itens estão corretos.  \n(E) Todos os itens estão incorretos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: A organização deve providenciar para todos os \ntrabalhadores informações sobre:  \nI -  utilização dos equipamentos de combate ao \nincêndio;  \nII -  procedimentos  de resposta aos cenários de \nemergências e para evacuação dos locais de  \ntrabalho com segurança; e  \nIII -  dispositivos de alarme existentes.",
+            "alternativas": {
+                "A": "Apenas II e III estão corretos.",
+                "B": "Apenas I está incorreto.",
+                "C": "Apenas I e III estão incorretos.",
+                "D": "Todos os itens estão corretos.",
+                "E": "Todos os itens estão incorretos.  QUESTÃO 3 9 \nIndique “V” para verdadeiro e “F” para falso. De \nacordo com a NBR 9050, em relação aos \nSímbolos táteis.  \nPara a sinalização dos ambientes, a altura do \nsímbolo deve ter a proporção de 1/200 da \ndistância de visada com o mínimo de 80 mm. O \ndesenho do símbolo deve atender às seguintes \ncondições:  \n \n( ) contornos fortes e bem defnidos;  \n( ) simplicidade nas formas e poucos detalhes;  \n( ) estabilidade da forma;  \n( ) altura dos símbolos: no mínimo 90 mm;  \n( ) altura do relevo: 0,6 mm a 1,20 mm;  \n \n(A) V, V, V, F, V  \n(B) V, V, V, V, V  \n(C) V, F, V, V, V  \n(D) V, F, V, V, F  \n(E) V, F, V, F, F"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Em qual das seguintes situações o abate de animal \nnão é considerado crime?",
+            "alternativas": {
+                "A": "Quando realizado por diversão ou \nentretenimento do agente.",
+                "B": "Para fins de comércio ilegal de partes do \nanimal.",
+                "C": "por ser inócuo o animal, desde que assim \ncaracterizado pelo órgão competente.",
+                "D": "Em estado de necessidade, para saciar a fome \ndo agente ou de sua família.",
+                "E": "para proteger lavouras, pomares e rebanhos \nda ação predatória ou destruidora de animais, \ndesde que legal e expressamente vedado pela \nautoridade competente.  \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nFISCAL DE OBRAS                                                                                                                                      Página 12 de 12"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 1: De acordo com o texto, a diferença na formação \ndo diamante rosa em comparação com os demais \ntipos, que o torna um mineral raro, se dá em \ndecorrência da:",
+            "alternativas": {
+                "A": "menor intensidade de forças de calor e \npressão.",
+                "B": "interação de carbono com boro.",
+                "C": "interação do carbono com enxofre.",
+                "D": "distorção em sua estrutura que altera \ncaracterísticas da luz refletida pelo diamante.",
+                "E": "interação do carbono com nitrogênio."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 2: Considere o excerto: “Embora o continente que \nse tornaria a Austrália não tenha se dividido, a \nárea onde Argyle está situada foi esticada”. No \ncontexto em que ocorre, a oração iniciada pela \nconjunção “embora” exprime um sentido de:",
+            "alternativas": {
+                "A": "adversidade.",
+                "B": "proporcionalidade.",
+                "C": "causalidade.",
+                "D": "condicionalidade.",
+                "E": "concessividade."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 3: Em relação à coesão, no excerto “A pesquisa é \ninteressante não só por dar mais pistas sobre a \norigem dos diamantes rosas, mas também por \napontar possíveis condições para a exploração de \nnovas minas.”, a expressão “não só… mas \ntambém” funciona como:",
+            "alternativas": {
+                "A": "operador argumentativo de adição.",
+                "B": "operador argumentativo de oposição.",
+                "C": "operador argumentativo de explicação.",
+                "D": "operador argumentativo de proporção.",
+                "E": "operador argumentativo de conclusão. QUESTÃO 04 \nConsidere as palavras I. supercontinente, II. \npedrinhas e III. cientistas, que ocorrem no texto. \nEm relação aos processos de formação, aquela(s) \nque apresenta(m) prefixo derivacional é (são): \n \n(A) I. \n(B) II. \n(C) III. \n(D) I e II. \n(E) II e III."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 4: Considere o excerto: “Essa é a nova hipótese para \nexplicar como esses minerais – muito mais raros \nque diamantes comuns – se formaram na \nAustrália.” Quanto às classes gramaticais, as \npalavras “essa”, “hipótese”, “raros” e “se” \nclassificam-se, respectivamente, como:",
+            "alternativas": {
+                "A": "pronome relativo, substantivo, adjetivo e \npronome reflexivo.",
+                "B": "pronome demonstrativo, adjetivo, adjetivo e \npronome reflexivo.",
+                "C": "pronome demonstrativo, substantivo, \nadjetivo e pronome reflexivo.",
+                "D": "pronome demonstrativo, substantivo, \nsubstantivo e pronome reflexivo.",
+                "E": "pronome demonstrativo, substantivo, \nadjetivo e conjunção integrante. \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 4 de 14 QUESTÃO 06 \nConsidere as seguintes sentenças, retiradas do \ntexto: \nI. “Só uma minoria é destinada a joias (até porque \nnem todos têm as características necessárias para \nfazê- las)”  \nII. “os pesquisadores descobriram que um grande \ndepósito de diamantes rosa se formou há 1,3 \nbilhões de anos”  \nEm relação à colocação dos pronomes oblíquos, \nnas sentenças dadas observa-se, \nrespectivamente: \n \n(A) ênclise e próclise. \n(B) ênclise e ênclise. \n(C) próclise e ênclise.  \n(D) próclise e mesóclise. \n(E) mesóclise e próclise."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 5: Considere o excerto: “Para que isso aconteça, ele \ntem que ser submetido a forças intensas de calor \ne pressão.” No contexto apresentado, ocorre(m) \napenas pronome(s) do(s) tipo(s):",
+            "alternativas": {
+                "A": "demonstrativo e pessoal.",
+                "B": "demonstrativo.",
+                "C": "pessoal.",
+                "D": "relativo.",
+                "E": "indefinido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 6: Considere a seguinte sentença: “Avistaram \nalguns homens conduzindo uma cáfila até o \nlago.” Nesse contexto, a palavra “cáfila” se refere \na:",
+            "alternativas": {
+                "A": "um grupo de lobos.",
+                "B": "um grupo de porcos.",
+                "C": "um grupo de camelos.",
+                "D": "um grupo de búfalos.",
+                "E": "um grupo de cabras. QUESTÃO 09 \nAssinale a alternativa em que a sentença \napresenta apenas voz ativa.  \n(A) O garoto foi atacado por dois cachorros.  \n(B) Encontravam-se cinzas no chão após as \nfestas. \n(C) O homem suicidou-se em sua própria casa. \n(D) Um gato foi resgatado na estrada.  \n(E) Pedro e Maria deram uma festa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a palavra “que” atua como pronome \ninterrogativo.",
+            "alternativas": {
+                "A": "Que desânimo!",
+                "B": "Fiquei feliz que você veio.",
+                "C": "O que você fez ontem?",
+                "D": "Ele deduz que foi traído pela esposa.",
+                "E": "Não há perdão para o que você fez. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 8: Considere a seguinte sequência lógica \nnumérica: \n \n1\n2, 1,3\n2, 2,5\n2, 3,7\n2, …  \n \nObservando o padrão da sequência, podemos \nafirmar que o centésimo termo dessa sequência \né:",
+            "alternativas": {
+                "A": "101/2.",
+                "B": "99/2.",
+                "C": "51/2.",
+                "D": "100.",
+                "E": "50.Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 5 de 14 QUESTÃO 12 \nO gráfico abaixo mostra a população e o número de domicílios ocupados por classe de densidade \npopulacional  \n \n \nFonte: Adaptado do Censo Demográfico 2010 - IBGE \nAnalisando o gráfico, quantos por cento dos domicílios ocupados estão situados em regiões cuja \ndensidade populacional é superior a 5000 habitantes por quilômetro quadrado aproximadamente? \n(A) 21,0%. \n(B) 28,0%. \n(C) 27,5%. \n(D) 26,8%. \n(E) 38,9%."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 9: Um químico misturou uma certa quantidade de cloro em água, mas por descuido esqueceu de anotar \nas respectivas quantidades das substâncias. Para não perder o seu trabalho, ele fez um experime nto \npara determinar a proporção entre cloro e água, em volume, que encontrou ser 1/5. Além disso, ele \nsabe que o volume final da mistura é 1,2 litro. Quanto de cloro ele usou nesta mistura?",
+            "alternativas": {
+                "A": "200 ml.",
+                "B": "400 ml.",
+                "C": "600 ml.",
+                "D": "800 ml.",
+                "E": "1000 ml. \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 6 de 14 QUESTÃO 14 \nObserve a seguinte sequência lógica figural: \n \nConforme as correspondências abaixo, indique o elemento faltante (marcado com símbolo de \ninterrogação):  \n \n(A) I. \n(B) II. \n(C) III. \n(D) IV. \n(E) V."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 10: Um fazendeiro tem 80 hectares de terra onde ele planta milho. Cada hectare ele consegue produzir 6 \ntoneladas de milho, no qual ele ensaca em sacos de 60 kg, e vende a R$ 60,00 R$/saco. Qual o valor \narrecadado numa colheita completa da sua plantação, em reais?",
+            "alternativas": {
+                "A": "4,8 mil.",
+                "B": "48 mil.",
+                "C": "480 mil.",
+                "D": "4,8 milhões.",
+                "E": "48 milhões. \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 7 de 14 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 11: O Microsoft Outlook 2016 é um cliente de email \nque permite configurar e gerenciar várias contas \nde email em um único local. Neste sentido, \npode-se afirmar que o Outlook: \nI - Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente. \nII - Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais. \nIII - Permite criar gráficos e visualizações de \ndados para representar informações de maneira \nmais compreensível.",
+            "alternativas": {
+                "A": "Nenhuma das afirmativas estão corretas.",
+                "B": "I e III, apenas.",
+                "C": "II  e III, apenas.",
+                "D": "I, apenas.",
+                "E": "II, apenas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 12: O  Microsoft PowerPoint 2016 é um aplicativo \nusado para criar apresentações visuais. Ele \npermite criar slides que contêm texto, imagens, \ngráficos, vídeos e elementos interativos. Neste \nsentido, pode-se afirmar que o PowerPoint:",
+            "alternativas": {
+                "A": "Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais.",
+                "B": "Oferece uma variedade de modelos de slides \ne opções de design para criar apresentações.",
+                "C": "O software oferece recursos de elaboração \nde planilhas, exibindo anotações de slides para \nauxiliar o orador durante a apresentação.",
+                "D": "Se restringe à configuração e gerenciamento \nde apenas uma conta de email em um único \nlocal.",
+                "E": "Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente. QUESTÃO 18  \nO Microsoft Word 2016 é um software de \nprocessamento de texto amplamente utilizado \npara criar, editar e formatar documentos. Ele \noferece uma ampla gama de ferramentas para \nformatar texto de maneira profissional e \npersonalizada. Neste sentido, é incorreto \nafirmar que o Word:  \nI – Permite inserir imagens, gráficos e outros \nelementos visuais nos documentos. \nII - O Word não oferece opções para criar listas \nnumeradas ou com marcadores em um \ndocumento. \nIII - Para justificar o texto no Word, é preciso \nimprimir o documento e, em seguida, alinhá-lo \nmanualmente com uma régua. \n(A) Nenhuma das afirmativas estão incorretas.  \n(B) I e II, apenas. \n(C) II e III, apenas.  \n(D) I, apenas. \n(E) II, apenas. \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 8 de 14 QUESTÃO 19  \nAnalise a imagem a seguir: \n \nPode-se afirmar que o programa apresentado \npossui as seguintes funções, exceto: \n(A) Permite realizar cálculos matemáticos, \ncomo adição, subtração, multiplicação e \ndivisão, usando fórmulas. \n(B) Permite organizar dados em planilhas, que \nsão compostas por células dispostas em linhas e \ncolunas. \n(C) Pode classificar dados em ordem alfabética \nou numérica e aplicar filtros para exibir apenas \nos dados que atendem a critérios específicos. \n(D) Possui funções integradas para trabalhar \ncom datas e horas, como calcular diferenças de \ndatas, extrair partes de datas (dia, mês, ano) e \nrealizar cálculos baseados em horários. \n(E) Permite enviar, receber e organizar emails. \nSendo possível criar, responder, encaminhar e \narquivar mensagens de email de forma eficiente. \n \n \n \n \n \n \n \n \n \n QUESTÃO 20  \nO Microsoft Word 2016 oferece amplas opções \nde formatação de texto, incluindo formatação de \nfonte, alinhamento, espaçamento entre linhas, \nrecuos e estilos de parágrafo, permitindo \npersonalizar a aparência do documento. Neste \nsentido, pode-se afirmar que o Word: \n(A) Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais. \n(B) Oferece uma variedade de modelos de slides \ne opções de design para criar apresentações. \n(C) Possui recursos de revisão que facilitam a \ncolaboração. Sendo possível adicionar \ncomentários, fazer alterações e usar o controle \nde alterações para rastrear as edições. \n(D) O software oferece recursos de elaboração \nde planilhas, exibindo anotações de slides para \nauxiliar o orador durante a apresentação. \n(E) Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente. \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 13: De acordo com a (Lei 10.257/2001), qual é uma \ndas principais finalidades da legislação sobre \nzoneamento, loteamento e posturas no contexto \nurbano?",
+            "alternativas": {
+                "A": "Regulamentar o comércio exterior nas \náreas urbanas.",
+                "B": "Padronizar a construção de edifícios \nresidenciais em todas as cidades.",
+                "C": "Promover a especulação imobiliária sem \nrestrições.",
+                "D": "Orientar o uso do solo urbano, visando ao \nbem-estar da coletividade.",
+                "E": "Impedir o desenvolvimento de áreas verdes \nnas cidades. \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 9 de 14 QUESTÃO 22 \nQual das seguintes medidas não está entre as \nprincipais medidas de prevenção em \nsaneamento básico, de acordo com a Política \nNacional de Saneamento: \n(A) Abastecimento de água. \n(B) Coleta, remoção e destinação final do lixo. \n(C) Controle de insetos e roedores. \n(D) Saneamento aplicado ao planejamento \nterritorial. \n(E) Controle da qualidade do ar."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 14: A Norma Brasileira de Acessibilidade (NBR \n9050) estabelece diretrizes e critérios técnicos \npara a promoção da acessibilidade a pessoas \ncom deficiência ou com mobilidade reduzida. \nDe acordo com essa norma, qual das seguintes \nafirmativas está correta sobre o \ndimensionamento de sinalizações táteis no piso?",
+            "alternativas": {
+                "A": "Sinalizações táteis no piso não são \nobrigatórias de acordo com a NBR 9050.",
+                "B": "Devem ser utilizados pisos táteis de cores \ndiversas sem seguir um padrão.",
+                "C": "O piso tátil de alerta deve ser utilizado em \nlocais de circulação de pedestres.",
+                "D": "O piso tátil de alerta deve ser instalado em \náreas de estacionamento de veículos.",
+                "E": "O piso tátil de alerta deve ter uma altura de \n5 cm."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 15: De acordo com a Constituição Federal \nbrasileira, qual dos seguintes princípios não é \naplicável à Administração Pública direta e \nindireta de qualquer dos Poderes da União, dos \nEstados, do Distrito Federal e dos Municípios?",
+            "alternativas": {
+                "A": "Legalidade",
+                "B": "Impessoalidade",
+                "C": "Proporcionalidade",
+                "D": "Moralidade",
+                "E": "Publicidade \n QUESTÃO 25 \nA Terra abriga diversas espécies de seres vivos \nque, apesar de suas diferenças, desempenham \npapéis interligados na manutenção do equilíbrio \nda natureza e na preservação da vida. Além das \ncaracterísticas das espécies, outros fatores como \nespaço, temperatura e localização são cruciais \nna análise de grupos de seres vivos. Essa \nvariedade de formas de vida e sua distribuição \nglobal são referidas como biodiversidade, \ncombinando \" bio\" (vida) e \" diversidade \" \n(grande variedade). \nCada espécie pertence a um ecossistema e é \nconstituído de: \nI - Fatores bióticos: os efeitos causados pelas \ndiversas populações umas nas outras estão \nrelacionados à interação entre as espécies em \num ecossistema, como predação, competição, \nmutualismo etc. \nII - Fatores abióticos: os efeitos causados por \nfatores externos, como água, solo, ar, sol, são \nparte importante de um ecossistema e \ninfluenciam a distribuição e a sobrevivência das \nespécies. \nIII - Biocenose: refere-se à comunidade de seres \nvivos em geral, incluindo fauna, flora e \nmicróbios que coexistem em um ecossistema. \nIV - Fatores geobióticos: os efeitos causados \npela geologia e pelos minerais presentes no \necossistema não desempenham nenhum papel \nna determinação da distribuição e das \ncaracterísticas das espécies. \n \nÉ correto o que se afirma em: \n(A) I e II apenas \n(B) II e III apenas \n(C) I, II e III apenas \n(D) III e IV apenas \n(E) IV apenas \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 10 de 14 QUESTÃO 26 \nCom relação à Política Nacional do Meio \nAmbiente (Lei nº 6.938/1981), interprete as \nafirmativas a seguir e escreva verdadeiro (V) ou \nfalso (F) e assinale a alternativa correta: \n(.) A Lei de Mudanças Climáticas do Reino \nUnido prevalece sobre a Lei nº 6.938/1981, que \nestabelece os princípios da Política Nacional do \nMeio Ambiente no Brasil, sendo, \nconsequentemente, considerada uma lei de \nhierarquia superior. \n(.) Um dos objetivos da Política Nacional do \nMeio Ambiente no Brasil é a preservação, \nmelhoria e recuperação da qualidade ambiental. \n(.) O licenciamento ambiental no Brasil é um \nmecanismo de formulação e aplicação da \npolítica ambiental que visa avaliar e autorizar \nprojetos que possam impactar o meio ambiente. \n(.) A Política Nacional do Meio Ambiente no \nBrasil é exclusivamente de responsabilidade do \ngoverno federal, sem envolvimento de órgãos \nestaduais ou municipais. \n(.) No Brasil, a Política Nacional do Meio \nAmbiente não visa conciliar o desenvolvimento \neconômico com a proteção do meio ambiente, \nfavorecendo o uso industrial dos recursos \nnaturais. \n \n(A) F - V - V - F - V \n(B) V - V - V - F - F \n(C) F - V - V - V - F \n(D) F - F - V - F - F \n(E) F - V - V - F – F \n \n \n \n \n \n \n QUESTÃO 27 \nDe acordo com a Lei no 9.605, que trata das \nsanções penais e administrativas derivadas de \ncondutas e atividades lesivas ao meio ambiente, \nqual das seguintes afirmativas é incorreta? \n(A) A lei prevê sanções penais, como detenção \ne multa, para crimes ambientais. \n(B) A lei estabelece que pessoas jurídicas \npodem ser responsabilizadas criminalmente por \ncrimes ambientais. \n(C) As sanções administrativas incluem a \nsuspensão de atividades que causem danos ao \nmeio ambiente. \n(D) A lei isenta totalmente de responsabilidade \nas pessoas físicas que cometem crimes \nambientais. \n(E) A lei permite a apreensão de produtos e \ninstrumentos utilizados na prática de crimes \nambientais."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 16: De acordo com a normas técnicas de segurança \ncontra incêndio, qual afirmativa é correta sobre \nportas corta-fogo para saída de emergência?",
+            "alternativas": {
+                "A": "Não são necessárias em edifícios \nresidenciais pequenos.",
+                "B": "Devem ser instaladas apenas em edifícios \ncomerciais.",
+                "C": "Não estabelece requisitos específicos para \nessas portas.",
+                "D": "Devem atender a requisitos rigorosos de \nresistência ao fogo, durabilidade e \nacessibilidade.",
+                "E": "Recomenda exclusivamente portas de \nmadeira para facilitar a evacuação em \nincêndios. \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 11 de 14 QUESTÃO 29 \nO licenciamento ambiental é um processo \nadministrativo estabelecido pela legislação \nambiental brasileira (Lei Federal nº 6938/1981) \npara regular empreendimentos e atividades que \npossam causar poluição ou degradação \nambiental. Em São Paulo, a CETESB é a \nentidade responsável por emitir as licenças \nambientais, embora algumas prefeituras \ntambém tenham essa autoridade para atividades \nespecíficas, conforme a Deliberação 01/2014 do \nCONSEMA - Conselho do Meio Ambiente. O \nobjetivo principal é garantir que essas \natividades sejam realizadas de maneira \ncompatível com a proteção do meio ambiente e \nda qualidade de vida das comunidades locais. \nAssim, sobre o licenciamento ambiental é \nincorreto afirmar que: \n(A) A licença prévia é emitida na primeira \netapa do processo e avalia a localização e a \nviabilidade do empreendimento. \n(B) A licença de instalação autoriza a \nconstrução e a instalação de máquinas e \nequipamentos do empreendimento. \n(C) A licença de operação é requerida antes da \nedificação da empresa e da verificação da \neficácia das medidas de controle ambiental. \n(D) A renovação da licença de operação é \nnecessária para validar as informações da \nlicença inicial emitida. \n(E) A CETESB não é a única autarquia \nresponsável pela emissão de licenças ambientais \nem todas as prefeituras municipais de São \nPaulo. \n \n \n \n \n \n \n QUESTÃO 30 \nDe acordo com o Estatuto da Cidade (Lei \nfederal nº 10.257/2001), qual das seguintes \npreocupações está entre os principais objetivos \nda legislação para democratizar o processo de \norganização das cidades brasileiras? \n(A)Incentivar a concentração de benefícios em \náreas urbanas centrais. \n(B)Priorizar investimentos que gerem o \nenriquecimento individual. \n(C)Promover o uso não sustentável dos recursos \nnaturais. \n(D)Garantir o direito de todos a cidades \nsustentáveis, saneamento básico, moradia e \noutros serviços públicos. \n(E)Restringir a cooperação entre as esferas do \ngoverno para manter a autonomia municipal."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 17: Quando o ser humano est á sujeito a pressões \nmaiores que a pressão atmosférica, por \nexemplo, profissionais que trabalham nas \nplataformas de petróleo e nas tubulações \nsubmersas do oceano, e também os \nmergulhadores, diz-se que o ser humano está \nsob que tipo de pressão?",
+            "alternativas": {
+                "A": "Hipob árica",
+                "B": "Gravitacional",
+                "C": "Hidrostática",
+                "D": "Hiperb árica",
+                "E": "Adiabática \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 12 de 14 QUESTÃO 32 \nUm dos principais objetivos do IPTU \nprogressivo no tempo é: \n \n(A) Arrecadar recursos municipais. \n(B) Financiar a construção em áreas de risco. \n(C) Constituir e preservar a ordem urbanística \nda cidade. \n(D) Subsidiar programas habitacionais para \ncomunidades de baixa renda. \n(E) Financiar a infraestrutura urbana."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 18: Qual é o principal objetivo da Política Nacional \nde Meio Ambiente estabelecida pela Lei Federal \nnº 6.938/1981?",
+            "alternativas": {
+                "A": "Promover a exploração irrestrita dos \nrecursos naturais.",
+                "B": "Controlar a ocupação das áreas urbanas.",
+                "C": "Proteger e preservar o meio ambiente, bem \ncomo promover o desenvolvimento sustentável.",
+                "D": "Estabelecer normas para a poluição \nambiental.",
+                "E": "Fomentar a degradação dos ecossistemas \nnaturais."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 19: De acordo com a NBR 10152, que trata dos \nníveis de pressão sonora em ambientes internos \na edificações, qual é o valor máximo \nrecomendado para o nível de pressão sonora \ncontínuo equivalente em decibéis (dB) para \náreas de descanso, como quartos de dormir, \ndurante o período noturno?",
+            "alternativas": {
+                "A": "30 dB",
+                "B": "35 dB",
+                "C": "40 dB",
+                "D": "50 dB",
+                "E": "60 Db \n \n QUESTÃO 35 \nUma grande metrópole brasileira enfrenta \nproblemas graves de gestão de resíduos sólidos, \nincluindo poluição do solo e da água. Qual ação \nseria a mais adequada para cumprir a Lei Nº \n12.305/2010 e melhorar a gestão de resíduos? \n(A) Investir em um incinerador para eliminar \nresíduos. \n(B) Estabelecer parcerias com empresas locais \nde reciclagem. \n(C) Aumentar a capacidade dos aterros \nsanitários. \n(D) Exportar resíduos para o exterior. \n(E) Ignorar as diretrizes da lei."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 20: Qual é o princípio fundamental estabelecido \npelo Código de Defesa do Consumidor (Lei nº \n8.078/1990) que coloca a proteção dos \ninteresses dos consumidores como prioridade?",
+            "alternativas": {
+                "A": "Princípio da livre concorrência.",
+                "B": "Princípio da economicidade.",
+                "C": "Princípio da publicidade.",
+                "D": "Princípio da vulnerabilidade do \nconsumidor.",
+                "E": "Princípio da prescrição rápida."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 21: Em um determinado mapa geográfico, a escala \nindicada é de 1:500.000. Se um trecho de uma \nmontanha tem uma elevação de 2.000 metros no \nmapa orográfico, qual seria a elevação \nequivalente desse trecho na carta topográfica e \nna planta cadastral, considerando que elas \nutilizam a mesma escala?",
+            "alternativas": {
+                "A": "2.000 metros na carta topográfica e 2.000 \nmetros na planta cadastral.",
+                "B": "200 metros na carta topográfica e 2.000 \nmetros na planta cadastral.",
+                "C": "2.000 metros na carta topográfica e 200 \nmetros na planta cadastral.",
+                "D": "200 metros na carta topográfica e 200 \nmetros na planta cadastral.",
+                "E": "20.000 metros na carta topográfica e 2.000 \nmetros na planta cadastral. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 13 de 14 QUESTÃO 38 \nCom relação a iluminação de emergência, \ninterprete as afirmativas a seguir e escreva \nverdadeiro (V) ou falso (F) e assinale a \nalternativa correta: \n(.) A iluminação de emergência é necessária \napenas em edifícios comerciais e industriais. \n(.) As luzes de saída de emergência devem ser \nmais brilhantes do que as luzes de iluminação \nnormal. \n(.) A iluminação de emergência deve ser \nabastecida por uma fonte independente que seja \nacionada automaticamente. \n(.) A iluminação de emergência não é \nregulamentada por normas específicas. \n \n(A) F - F - V - F \n(B) F - F - F - F \n(C) F - F - V - V \n(D) V - F - V - F \n(E) V - F - V – V"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "FISCAL DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 22: Qual é a principal finalidade da Lei no \n6.766/1979 em relação ao parcelamento do solo \nurbano no Brasil?",
+            "alternativas": {
+                "A": "Promover a ocupação desordenada de áreas \nurbanas.",
+                "B": "Estabelecer critérios rigorosos para o \nparcelamento de áreas rurais.",
+                "C": "Regulamentar a construção de edifícios em \náreas de preservação ambiental.",
+                "D": "Definir diretrizes e normas para o \nparcelamento de terrenos urbanos.",
+                "E": "Limitar o acesso à propriedade de terras \nurbanas. \n \n QUESTÃO 40 \nO processo de obtenção do alvará de construção \nenvolve várias etapas e requisitos, exceto: \n(A) O alvará de construção é emitido pela \nSecretaria Municipal de Urbanismo ou \nequivalente. \n(B) O Registro de Responsabilidade Técnica \n(RRT) é necessário para arquitetos, enquanto a \nAnotação de Responsabilidade Técnica (ART) \né necessária para engenheiros. \n(C) A análise do Estudo de Impacto de \nVizinhança (EIV) é um requisito padrão em \ntodos os municípios. \n(D) O alvará de construção, por lei, deverá ser \nemitido sem a necessidade de um projeto \narquitetônico completo, desde que a construção \nseja considerada de pequeno porte. \n(E) O contrato de compra e venda do terreno é \num dos documentos comuns exigidos no \nprocesso. \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nFISCAL DE OBRAS                                                                                                                                       Página 14 de 14"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

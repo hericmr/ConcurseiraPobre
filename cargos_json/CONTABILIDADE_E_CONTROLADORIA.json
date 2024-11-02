@@ -1,3 +1,410 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d4a94c7a5200c18ece61637b298b77864bce8858c43aa2909681b68edd61f08
-size 42927
+{
+    "CONTABILIDADE E CONTROLADORIA": [
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: “Silêncio”, de Clarice Lispector, trata -se de um \ntexto narrativo. Enquanto texto desse tipo, suas \nprincipais características são:",
+            "alternativas": {
+                "A": "uso de elementos não verbais para produzir \nsentido.",
+                "B": "caráter instrucional, com linguagem objetiva \ne impessoal.",
+                "C": "presença de um(a) narrador(a), linguagem \nsubjetiva e pessoal.",
+                "D": "exposição de fatos reais com linguagem \nobjetiva e impessoal.",
+                "E": "estrutura em versos ritmados, linguagem \nsubjetiva e presença de um eu lírico."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: No excerto “Os ouvidos se afiam, a cabeça se \ninclina, o corpo todo escuta: nenhum rumor.”, \nobserva -se o uso de linguagem metafórica pela \nnarradora para descrever a cena. O uso de \nmetáfora é evidente apenas na(s) sentença(s):",
+            "alternativas": {
+                "A": "“Os ouvidos se afiam” e “o corpo todo \nescuta”.",
+                "B": "“a cabeça se inclina”.",
+                "C": "“nenhum rumor”.",
+                "D": "“o corpo todo escuta”.",
+                "E": "“a cabeça se inclina” e “nenhum rumor”."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: No excerto “Ele é vazio e sem promessa. Se ao \nmenos houvesse o vento.”, a narradora se refere \nao silêncio da madrugada como algo incômodo. \nA oração condicional “Se ao menos houvesse o \nvento” é utilizada para expressar:",
+            "alternativas": {
+                "A": "o desejo da narradora por algo que disfarce \nou interrompa o silêncio.",
+                "B": "o desagrado da narradora caso o vento \ninterrompa o silêncio.",
+                "C": "as qualidades que o som do vento apresenta.",
+                "D": "a paz de espírito que a narradora sente \nquando percebe o vento.",
+                "E": "o incômodo da narradora tanto em relação ao \nsilêncio quanto ao som do vento.  QUESTÃO 04  \nConsidere o seguinte excerto: “Mesmo o \nsofrimento pior, o da amizade perdida, é apenas \nfuga.” Em relação às classes gramaticais, as \npalavras “o”, “pior”, “apenas” e “fuga” são, \nrespectivamente:  \n(A) conjunção, adjetivo, advérbio e substantivo.  \n(B) artigo, adjetivo, advérbio e substantivo.  \n(C) artigo, substantivo, advérbio e substantivo.  \n(D) artigo, adjetivo, substantivo e substantivo.  \n(E) artigo, adjetivo, advérbio e advérbio."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Considere as seguintes sentenças, retiradas do \ntexto:  \nI. “Se és morte, como te alcançar.”  \nII. “Tão suave é para o ser humano enfim mostrar \nsua indignidade”  \nIII. “Quando este se apresenta todo nu, nem é \ncomunicação”  \nAs palavras “te”, “sua” e “este”, que ocorrem nas \nsentenças dadas, são, respectivamente, pronomes \ndos tipos:",
+            "alternativas": {
+                "A": "pronome pessoal do caso oblíquo, pronome \npessoal do caso oblíquo e pronome \ndemonstrativo.",
+                "B": "pronome pessoal do caso oblíquo, pronome \npossessivo, pronome relativo.",
+                "C": "pronome pessoal do caso oblíquo, pronome \npossessivo, pronome demonstrativo .",
+                "D": "pronome pessoal do caso reto, pronome \npossessivo, pronome demonstrativo.",
+                "E": "pronome pessoal do caso reto, pronome \npessoal do caso reto, pronome relativo.  \n \n \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 4 de 14 QUESTÃO 06  \nConsidere as seguintes sentenças, retiradas do \ntexto:  \nI. “Ele é o silêncio.”  \nII. “Os ouvidos se afiam.”  \nIII. “Pois nós não fomos feitos senão para o \npequeno silêncio.”  \nOcorre verbo pronominal apenas na(s) \nsentença(s):  \n(A) I e II.  \n(B) II e III.  \n(C) III.  \n(D) I.  \n(E) II."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Considere as seguintes sentenças, retiradas do \ntexto:  \nI. “as folhas das árvores ainda se ajeitarão \nmelhor”  \nII. “Tenta -se em vão trabalhar”  \nNas sentenças dadas, a colocação dos pronomes \ncorresponde, respectivamente, a:",
+            "alternativas": {
+                "A": "próclise e ênclise.",
+                "B": "ênclise e mesóclise.",
+                "C": "próclise e mesóclise.",
+                "D": "mesóclise e ênclise.",
+                "E": "mesóclise e próclise."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Assinale a alternativa que apresenta a sentença \nortograficamente correta.",
+            "alternativas": {
+                "A": "Os neo -nazistas estão se manifestando.",
+                "B": "Foram estudados diferentes tipos de pólens.",
+                "C": "Sou grato àqueles que confiam em mim.",
+                "D": "Dei o livro à João.",
+                "E": "As provas de bio -química já foram \nrealizadas.  QUESTÃO 09  \nConsidere as seguintes palavras:  \nI. Ambivalência.  \nII. Artimanhas.  \nIII. Soubéssemos.  \nNas palavras dadas, observa -se morfema de \nflexão de número apenas em:  \n(A) ambivalência.  \n(B) artimanhas.  \n(C) soubéssemos.  \n(D) ambivalência e soubéssemos.  \n(E) artimanhas e soubéssemos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Assinale a alternativa que apresenta a palavra \ncorreta em relação ao emprego do hífen.",
+            "alternativas": {
+                "A": "agro-ambiental.",
+                "B": "nano -tecnologia.",
+                "C": "bio -combustível.",
+                "D": "neo -hegelianismo.",
+                "E": "luso -descendente.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Considere que uma torneira, operando com sua \nvazão máxima, é capaz de encher um balde, que \npossui volume total de 20 (vinte) litros, em 2 \n(dois) minutos. Quanto tempo será necessário \npara, utilizando duas torneiras iguais a esta, \nencher completamente uma c aixa d´água com \nquinhentos litros de capacidade?",
+            "alternativas": {
+                "A": "15 minutos",
+                "B": "20 minutos",
+                "C": "25 minutos",
+                "D": "30 minutos",
+                "E": "50 minutos  Serviço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 5 de 14 QUESTÃO 12   \nConsidere as seguintes equações: 2x + y = 37 e x \n+ 3y = 56. Qual o valor de x?  \n(A) 11  \n(B) 13  \n(C) 15  \n(D) 17  \n(E) 19"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Qual o volume, em m³, ocupado por um cilindro \nque possui altura igual a 150 (cento e cinquenta) \ncentímetros e área da base circular igual a 2 m²?",
+            "alternativas": {
+                "A": "1,5",
+                "B": "2,0",
+                "C": "2,2",
+                "D": "3,0",
+                "E": "3,5"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Qual deverá ser o raio, em centímetros, de uma \nforma circular a ser utilizada por uma confeiteira \nque deseja preparar uma torta que possua área de \n147 (cento e quarenta e sete) cm²? Considere Pi \n= 3.",
+            "alternativas": {
+                "A": "6,0",
+                "B": "6,5",
+                "C": "7,0",
+                "D": "7,5",
+                "E": "8,0 \n \n \n \n QUESTÃO 15  \nUm consumidor pactuou um empréstimo no \nvalor de R$ 170.000,00 (cento e setenta mil reais) \ncom uma instituição financeira, sendo \nestabelecido no contrato o pagamento de juros \nsimples mensais de 0,5% (meio porcento). \nAssim, quanto irá pagar, a título de juros, no \nprimeiro mês?  \n(A) R$ 700,00  \n(B) R$ 750,00  \n(C) R$ 800,00  \n(D) R$ 850,00  \n(E) R$ 900,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Para adquirir dois telefones celulares idênticos \nem uma loja, um consumidor gastou a quantia \ntotal de R$ 1.750,00 (mil, setecentos e cinquenta \nreais). Caso retorne ao estabelecimento, quanto \nirá gastar, no total, se adquirir cinco aparelhos \nidênticos aos dois primeiros, pagando por eles o \nmesmo valor unitário que na compra anterior?",
+            "alternativas": {
+                "A": "R$ 4.250,00",
+                "B": "R$ 4.375,00",
+                "C": "R$ 4.500,00",
+                "D": "R$ 4.775,00",
+                "E": "R$ 5.000,00"
+            },
+            "resposta_correta": "Não encontrada"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Considere um terreno retângular, cujo \ncomprimento de um dos lado seja igual a 20 \nmetros. Considerando que a área total do terreno \né de 250 m² (duzentos e cinquenta metros \nquadrados), bem como que o comprimento do \noutro lado do terreno, representando por L,  é \ndado pela equação L = x + 10. Neste caso, \nobedecendo -se aos dados indicados no \nenunciado, qual o valor de x, em metros?",
+            "alternativas": {
+                "A": "1,0",
+                "B": "1,5",
+                "C": "2,0",
+                "D": "2,5",
+                "E": "3,0  Serviço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 6 de 14 QUESTÃO 18  \nDeterminada empresa, com ações negociadas na \nbolsa de valores, paga dividendos semestrais aos \nseus acionistas. No primeiro semestre de 2021 \npagou a quantia de R$ 150,00 (cento e cinquenta \nreais) para cada lote de 100 (cem) ações. No \nsegundo semestre, outros  R$ 225,00 (duzentos e \nvinte e cinco reais), certo que no primeiro \nsemestre de 2022 foram pagos R$ 337,50 \n(trezentos e trinta e sete reais e cinquenta \ncentavos). Mantida essa proporção, qual será o \nvalor pago no segundo semestre de 2022?   \n(A) R$ 502,25  \n(B) R$ 505,50  \n(C) R$ 506,25  \n(D) R$ 508,50  \n(E) R$ 512,25"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Ao final de um ano de trabalho, determinada \nempresa costuma realizar a avaliação de seus \ntrabalhadores, atribuindo pesos a diferentes \naspectos das atividades prestadas. Considerando \nque um funcionário obteve as seguintes notas, \nqual será sua média total? Considere os \ndiferentes pesos e calcule utilizando a média \nponderada.",
+            "alternativas": {
+                "A": "7,0",
+                "B": "7,4",
+                "C": "7,6",
+                "D": "8,0",
+                "E": "8,2 QUESTÃO 20  \nO MMC – mínimo múltiplo comum – dos \nnúmeros 45, 90 e 75 é:  \n \n(A) 350  \n(B) 400  \n(C) 450  \n(D) 500 \n(E) 600 \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Acerca do uso do Correio Eletrônico, é correto o \nque se afirma em:",
+            "alternativas": {
+                "A": "O e -mail é uma ferramenta essencial para a \ncriação de conteúdo escrito em diversos \ncontextos, desde a elaboração de trabalhos \nacadêmicos até a criação de documentos \nprofissionais.",
+                "B": "O e -mail possui recursos como filtros, \nclassificações e tabelas dinâmicas, facilitando a \nanálise de grandes conjuntos de dados, \nidentificando tendências, padrões e insights.",
+                "C": "O e -mail oferece espaço de armazenamento \nem nuvem, permitindo que os usuários salvem \nseus arquivos online, em vez de ocupar espaço \nnos discos rígidos locais.",
+                "D": "O e -mail permite o envio de anexos, como \ndocumentos, imagens, planilhas e apresentações, \ntornando -o uma ferramenta valiosa para \ncompartilhar informações e colaborar em \nprojetos.",
+                "E": "O e -mail permite o uso de imagens, gráficos \ne outros elementos visuais ajuda a tornar a \napresentação mais atrativa e compreensível. \nEsses elementos podem ilustrar conceitos, \nresumir informações complexas e criar um apelo \nvisual que mantém o interesse d a audiência.  \n \nPeso Quesito Nota\n1 Iniciativa 6\n3 Organização 8\n2 Eficiência 7,5\n2 Comunicação 6,5\n2 Assiduidade 8Serviço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 7 de 14 QUESTÃO 22   \nAcerca do MS - PowerPoint 2016, analise o \ntrecho a seguir:  \n“Apresenta uma visão geral da estrutura \nhierárquica dos títulos da apresentação. Ele é útil \npara planejar e organizar de modo sequencial os \nslides, permitindo a visualização e organização \nda apresentação.”  \nDiante da análise, assinale a alternativa que trata \ncorretamente sobre o conceito mencionado.  \n(A) Modo de exibição normal.  \n(B) Modo de exibição classificação de slides.  \n(C) Modo de exibição de anotações.  \n(D) Modo de exibição estrutura de tópicos.  \n(E) Modo de exibição de apresentação de slides."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: As pastas representam elementos fundamentais \nintegrantes do sistema de arquivos inerente ao \nWindows 7, facultando aos usuários a habilidade \nde alocar, ordenar e adentrar seus arquivos de \nmaneira altamente eficaz. Elas funcionam, em \nsua essência, como estruturas virtuais de \ncontenção, contribuindo para a classificação e \naglutinação dos  arquivos correlacionados. As \npastas têm a capacidade de abarcar uma \ndiversificada gama de tipos de arquivos, \nabrangendo desde documentos até imagens, \nvídeos e aplicações.  \nAlgumas características importantes das pastas \nno Windows 7 incluem, exceto:",
+            "alternativas": {
+                "A": "Nome e identificação.",
+                "B": "Organização e categorização.",
+                "C": "Impressão de imagem.",
+                "D": "Pesquisa.",
+                "E": "Personalização.  \n \n QUESTÃO 24   \nA estrutura primordial das apresentações criadas \nno PowerPoint é formada por slides. Cada slide \ncorresponde a uma única página ou tela que \nviabiliza a inclusão de diversos elementos, \nenglobando texto, imagens, gráficos, tabelas, \nmídia, e uma gama ampla de outros recursos. \nEsses slides atuam como os blocos fundamentais \ndas apresentações, desempenhando o papel de \ncomponentes estruturais que permitem a \ntransmissão de ideias, mensagens e informações. \nAcerca da modalidade de transições, é correto \nafirmar.  \n(A) Ao entrar no modo de apresentação, os slides \nocupam a tela inteira, permitindo que o \napresentador navegue pelos slides de maneira \nfluida e interativa.  \n(B) O PowerPoint oferece diversos layouts de \nslide predefinidos que determinam a organização \ne os espaços reservados para diferentes tipos de \nconteúdo, como títulos, subtítulos, imagens e \nlistas.  \n(C) As transições controlam como os slides se \nmovem de um para o outro durante a \napresentação. Elas podem incluir efeitos visuais, \ncomo desvanecimento, dissolução e slide de \nentrada.  \n(D) Geralmente, uma apresentação começa com \num slide de título que introduz o tópico da \napresentação e inclui o nome do apresentador e \noutras informações relevantes.  \n(E) As animações permitem controlar como \nelementos individuais dentro de um slide \naparecem ou desaparecem. Isso pode incluir \ntexto, imagens e gráficos que aparecem à medida \nque o apresentador avança.  \n \n \n \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 8 de 14 QUESTÃO 25   \nAnalise a imagem a seguir:  \n \nAcerca do item destacado na imagem, é possível \nafirmar:  \n(A) Trata -se da função “numeração”.  \n(B) Trata -se da função “maiúsculas e \nminúsculas”.  \n(C) Trata -se da função “sobrescrito”.  \n(D) Trata -se da função “lista de vários níveis”.  \n(E) Trata -se da função “subscrito”.  \n \nCONHECIM ENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: 6 \nOs Princípios de Contabilidade são pilares \nconceituais e devem ser adotados na escrituração \npor força de Norma do CFC. Um destes \nPrincípios consagra que os ativos e passivos de \numa entidade devem ser mensurados e \nreconhecidos sob a premissa de que a entidade \nnão encerrará suas atividades em um futuro \nconhecido. Trata -se do:",
+            "alternativas": {
+                "A": "Princípio do Conservadorismo.",
+                "B": "Princípio da Oportunidade.",
+                "C": "Princípio da Prudência.",
+                "D": "Princípio da Continuidade.",
+                "E": "Princípio da Entidade.  \n \n \n \n \n QUESTÃO 27  \nA NBC TG – Estrutura Conceitual para Relatório \nFinanceiro, do Conselho Federal de \nContabilidade, dispõe sobre os conceitos \nfundamentais a serem observados na elaboração \ndas demonstrações contábeis, dentre eles as \ncaracterísticas qualitativas fundamentais de \ninformações financeiras úteis, que são:  \n(A) a Relevância e a Materialidade.  \n(B) a Compreensibilidade e a Tempestividade.  \n(C) a Materialidade e a Representação Fidedigna.  \n(D) a Comparabilidade e a Relevância.  \n(E) a Relevância e a Representação Fidedigna."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Nos termos da NBC TG - Estrutura Conceitual \npara Relatório Financeiro, do Conselho Federal \nde Contabilidade, ativo é _____________ \npresente __________ pela entidade como \nresultado de eventos _________. Assinale a \nalternativa que corretamente preenche as la cunas \nno enunciado.",
+            "alternativas": {
+                "A": "um bem ou direito / possuído / passados",
+                "B": "um recurso econômico / controlado / \npassados",
+                "C": "uma propriedade legal / controlada / passados",
+                "D": "uma propriedade legal / controlada / passados \nou futuros",
+                "E": "um recurso econômico / possuído / passados \nou futuros  \n \n \n \n \n \n \n \n \n \n \n \n \nServiço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 9 de 14 QUESTÃO 29  \nSuponha que uma empresa que comercializa \ngêneros alimentícios decida vender um de seus \nveículos por R$ 92.000,00. O ativo está \nregistrado pelo valor contábil de R$ 100.000,00, \ne tem depreciação acumulada de R$ 25.000,00 na \ndata da venda. Neste caso, assina le a alternativa \nque evidencia a correta escrituração contábil do fato \n(suponha que já tenha sido efetuado o lançamento de \nbaixa da depreciação acumulada).  \n \n(A) D - Caixa e Equivalentes de Caixa 92.000,00  \n C - Veículos 75.000,00  \n C - Ganho c/ Venda de Imobilizado 17.000,00  \n \n(B) D - Caixa e Equivalentes de Caixa 92.000,00  \n D - Veículos 75.000,00  \n C - Ganho c/ Venda de Imobilizado 17.000,00  \n \n(C) D - Ganho c/ Venda de Imobilizado 17.000,00  \n C - Veículos 75.000,00  \n C - Caixa e Equivalentes de Caixa 92.000,00  \n \n(D) D - Ganho c/ Venda de Imobilizado 17.000,00  \n D - Veículos 75.000,00  \n C - Caixa e Equivalentes de Caixa 92.000,00  \n \n(E) D - Caixa e Equivalentes de Caixa 92.000,00  \n C - Veículos 17.000,00  \n C - Ganho c/ Venda de Imobilizado 75.000,00  \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 30  \nAtenção! Utilize as informações a seguir para \nresponder às questões 30 a 32.  \n \nA Cia. Cisne Negro é uma empresa industrial que \natua produzindo bebidas. Em 2021 ela \napresentou os seguintes dados de custos:  \nEmbalagens adquiridas prontas 20.000,00  \nServiços de manutenção das máquinas fabris \n30.000,00  \nAluguel do galpão da Fábrica 60.000,00  \nMão de Obra Indireta e Encargos 50.000,00  \nDepreciação anual das Máquinas e Instalações fabris \n60.000,00  \nMatéria -prima aplicada 110.000,00  \nCusto dos Produtos Vendidos 210.000,00  \nMão de Obra Direta e Encargos 150.000,00  \n*O estoque de produtos acabados no início do período \nimportava em 80.000,00 e, ao final do período, não \nhavia estoques de matéria -prima, nem de produtos em \nelaboração.  \nCom base nas informações disponibilizadas, é \ncorreto afirmar que os custos primários \nincorridos no período importam em:  \n(A) R$ 240.000,00.  \n(B) R$ 280.000,00.  \n(C) R$ 260.000,00.  \n(D) R$ 300.000,00.  \n(E) R$ 320.000,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Com base nos dados fornecidos, é correto afirmar \nque valor do estoque final em 31/12/2021, com \nbase no custeio por absorção, é de:",
+            "alternativas": {
+                "A": "R$ 290.000,00.",
+                "B": "R$ 270.000,00.",
+                "C": "R$ 330.000,00.",
+                "D": "R$ 310.000,00.",
+                "E": "R$ 350.000,00.  \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 10 de 14 QUESTÃO 32  \nAinda com base nos dados informados, é correto \nafirmar que os custos indiretos incorridos no \nperíodo equivalem a:  \n(A) R$ 170.000,00.  \n(B) R$ 200.000,00.  \n(C) R$ 230.000,00.  \n(D) R$ 150.000,00.  \n(E) R$ 220.000,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Uma empresa industrial adquire uma sofisticada \nmáquina importada para cortar chapas de metal, \npelo preço de R$ 263.000,00. Para tanto, incorre \nem gastos com Imposto de Importação, no valor \nde R$ 22.000,00, Taxas de alfândega, de R$ \n8.000,00 e Frete de Transporte, de R$ 17.000,00. \nA máquina é entregue em 01/02/2022, mas antes \nde operar são necessárias adaptações na rede \nelétrica, que custam R$ 10.000,00. Finalmente, \nem 01/03/2022 a máquina entra em operação. \nSua vida útil é de 10 anos e o valor residual é \nestimado em R$ 140.000,00.  \nCom base nestas informações, é correto afirmar \nque o valor depreciável do ativo em questão é de:",
+            "alternativas": {
+                "A": "R$ 180.000,00.",
+                "B": "R$ 320.000,00.",
+                "C": "R$ 200.000,00.",
+                "D": "R$ 140.000,00.",
+                "E": "R$ 197.000,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Ainda com base nas informações fornecidas na \nquestão anterior, é correto afirmar que a despesa \ncom depreciação do ativo em questão registrada \nno ano de 2022 equivale a:",
+            "alternativas": {
+                "A": "R$ 16.500,00.",
+                "B": "R$ 26.666,67.",
+                "C": "R$ 16.416,67.",
+                "D": "R$ 15.000,00.",
+                "E": "R$ 18.000,00.  QUESTÃO 35  \nAtenção! Utilize as informações a seguir para \nresponder às questões 35 a 38.  \n \nUma empresa comercial registra as seguintes \ncontas patrimoniais e respectivos saldos em seu \nbalancete de encerramento do exercício (após a \napuração e incorporação do resultado do \nexercício):  \nVeículos 30.000,00  \nDuplicatas a Receber (LP) 15.000,00  \nEstoques 22.000,00  \nAjuste a Valor Presente de Duplicatas de Longo \nPrazo* 2.000,00  \nObrigações Tributárias a recolher 8.000,00  \nAplicações Financeiras (LP) 11.000,00  \nAções em Tesouraria 4.000,00  \nIR a recolher (LP) 6.000,00  \nPrédios e Edificações 60.000,00  \nSeguros a Apropriar 5.000,00  \nCapital Social 130.000,00  \nAdiantamentos de Clientes 30.000,00  \nAjuste a valor recuperável de Ativo Imobilizado* \n12.000,00  \nEncargos Financeiros a Transcorrer (LP) 3.000,00  \nEmpréstimos a Diretores 9.000,00  \nPrejuízos Acumulados 37.000,00  \nDuplicatas a Receber 17.000,00  \nCaixa e Equivalentes de Caixa 13.000,00  \nDuplicatas Descontadas 5.000,00  \nReservas de Capital 9.000,00  \nDepreciação Acumulada 25.000,00  \nReservas de Lucros 7.000,00  \nEmpréstimos e Financiamentos (LP) 32.000,00  \nParticipações Societárias Permanentes 40.000,00  \n*Ajustes constituídos integralmente no exercício.  \nCom base nos dados fornecidos, é correto afirmar \nque o valor do Passivo Não -Circulante ao final \ndo exercício é de:  \n \n(A) R$ 41.000,00.  \n(B) R$ 35.000,00.  \n(C) R$ 40.000,00.  \n(D) R$ 48.000,00.  \n(E) R$ 78.000,00.  \n \n Serviço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 11 de 14 QUESTÃO 36  \nAo final do exercício, o valor do Patrimônio \nLíquido da referida empresa importa em:  \n(A) R$ 187.000,00.  \n(B) R$ 105.000,00.  \n(C) R$ 109.000,00.  \n(D) R$ 115.000,00.  \n(E) R$ 137.000,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: O Índice de Liquidez Corrente da referida \nempresa ao final do exercício é de, \naproximadamente:",
+            "alternativas": {
+                "A": "1,39.",
+                "B": "1,29.",
+                "C": "1,37.",
+                "D": "1,42.",
+                "E": "1,33."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: O Endividamento Geral da empresa ao final do \nexercício é de, aproximadamente:",
+            "alternativas": {
+                "A": "48,4%.",
+                "B": "37,4%.",
+                "C": "42,6%.",
+                "D": "55,7%.",
+                "E": "29,1%."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: A Constituição da República de 1988 veda a \ntransposição, o remanejamento ou a transferência \nde recursos orçamentários de uma categoria de \nprogramação para outra ou de um órgão para \noutro, sem prévia autorização legislativa. Tal \ndeterminação é alçada ao status de princípio \norçamentário, nominado:",
+            "alternativas": {
+                "A": "Princípio do Orçamento Impositivo.",
+                "B": "Princípio da Proibição de Estorno.",
+                "C": "Princípio do Orçamento Bruto.",
+                "D": "Princípio da Unidade.",
+                "E": "Princípio da Exclusividade.  QUESTÃO 40  \nAs classificações orçamentárias servem para \nevidenciar informações sobre receitas e despesas \nno Orçamento Público. Uma delas é a \nclassificação por natureza, que é utilizada por \ntodos os entes da Federação e, no caso da receita, \nvisa identificar a origem do  recurso segundo o \nfato gerador. Desta forma, assinale a alternativa \ncorreta sobre a rubrica de receita \n“1.7.x.x.xx.x.x”.  \n(A) Trata -se de uma receita corrente, da origem \nde Receita de Serviços.  \n(B) Trata -se de uma receita de capital, da origem \nde Operações de Crédito.  \n(C) Trata -se de uma receita corrente, da origem \nde Outras Receitas Correntes.  \n(D) Trata -se de uma receita de capital, da origem \nde Amortização de Empréstimos.  \n(E) Trata -se de uma receita corrente, da origem \nde Transferências Correntes."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Suponha que durante de um trabalho de \nauditoria, o auditor decide que a melhor forma de \ncoletar evidência é verificar in loco  a realização \nde determinada tarefa pelos empregados da \nentidade auditada. Assim, ele acompanha a \nexpedição de mercadoria para venda e a \nrespectiva emissão de Nota Fiscal. Nesse caso, o \nprocedimento adotado é denominado:",
+            "alternativas": {
+                "A": "Observação.",
+                "B": "Reexecução.",
+                "C": "Inspeção.",
+                "D": "Revisão Analítica.",
+                "E": "Conferência.  \n \n \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 12 de 14 QUESTÃO 42  \nNo ato da arrecadação de uma receita \norçamentária de Taxas, que já havia sido objeto \nde lançamento pela repartição competente, a \nconta -contábil a ser creditada na natureza de \ninformação patrimonial do Plano de Contas \nAplicado ao Setor Público é:  \n(A) 6.2.1.2.x.xx.xx – Receita Realizada  \n(B) 5.2.1.1.x.xx.xx – Previsão da Receita  \n(C) 4.1.1.1.x.xx.xx – Impostos, Taxas e \nContribuições de Melhoria  \n(D) 1.1.2.1.x.xx.xx – Créditos Tributários a \nReceber  \n(E) 6.2.1.1.x.xx.xx – Receita a Realizar"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: A Lei nº 4.320/1964 dispõe que a Lei de \nOrçamentos compreenderá todas as receitas, \ninclusive as de operações de crédito autorizadas \nem lei. No entanto, a referida Lei faz algumas \nressalvas, ou seja, ingressos financeiros que não \nsão considerados receitas orçamentárias. \nAssinale a alternativa que representa uma destas \nexceções.",
+            "alternativas": {
+                "A": "As doações em dinheiro recebidas de pessoas \nfísicas pelo ente.",
+                "B": "As transferências voluntárias recebidas de \noutros entes da federação.",
+                "C": "Os valores provenientes de multas aplicadas \npelo ente.",
+                "D": "Os valores arrecadados com a alienação de \nbens públicos.",
+                "E": "As entradas compensatórias no ativo e \npassivo financeiros."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: De acordo com a Lei nº 4.320/1964, são \nDemonstrações Contábeis de elaboração \nobrigatória pelas entidades do Setor Público, \nEXCETO:",
+            "alternativas": {
+                "A": "a Demonstração das Variações Patrimoniais.",
+                "B": "o Balanço Patrimonial.",
+                "C": "o Relatório Resumido da Execução \nOrçamentária.",
+                "D": "o Balanço Financeiro.",
+                "E": "o Balanço Orçamentário.  QUESTÃO 45  \nO Orçamento Anual não é uma peça fixa, pois \npode sofrer alterações diante de repriorizações \norçamentárias, calamidades e outras situações, \natravés dos chamados créditos adicionais, que se \nclassificam, segundo a Lei nº 4.320/1964, em:  \n(A) suplementares, incrementais e especiais.  \n(B) suplementares, especiais e extraordinários.  \n(C) complementares, especiais e extraordinários.  \n(D)complementares, incrementais e \nextraordinários.  \n(E) suplementares, especiais e calamitosos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Com base no regramento da Lei de \nResponsabilidade Fiscal (Lei Complementar nº \n101/2000), assinale a alternativa INCORRETA:",
+            "alternativas": {
+                "A": "É vedada a aplicação das disponibilidades de \ncaixa dos entes da Federação em empréstimos, de \nqualquer natureza, aos segurados e ao Poder \nPúblico, inclusive a suas empresas controladas.",
+                "B": "Empresa estatal dependente é a empresa \ncontrolada que receba do ente controlador \nrecursos financeiros para pagamento de despesas \ncom pessoal ou de custeio em geral ou de capital, \nexcluídos, no último caso, aqueles provenientes \nde aumento de participaçã o acionária.",
+                "C": "Todas as despesas relativas à dívida pública, \nmobiliária ou contratual, e as receitas que as \natenderão, constarão da lei orçamentária anual.",
+                "D": "É lícito consignar na lei orçamentária crédito \ncom finalidade imprecisa ou com dotação \nilimitada, desde destinado ao atendimento de \npassivos contingentes e riscos fiscais.",
+                "E": "A lei orçamentária não consignará dotação \npara investimento com duração superior a um \nexercício financeiro que não esteja previsto no \nplano plurianual ou em lei que autorize a sua \ninclusão.  \n \n \n \n Serviço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 13 de 14 QUESTÃO 47  \nNos termos da Lei nº 8.666/1993, a modalidade \nde licitação entre quaisquer interessados para a \nvenda de bens móveis inservíveis para a \nadministração ou de produtos legalmente \napreendidos ou penhorados é denominada:  \n(A) Diálogo Competitivo.  \n(B) Pregão.  \n(C) Concorrência.  \n(D) Convite.  \n(E) Leilão."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: A Receita Corrente Líquida é o parâmetro \nelencado pela Lei de Responsabilidade Fiscal \npara aferição dos limites de Despesas com \nPessoal e Dívida dos entes federados. Sobre o \ntema, informe se é verdadeiro (V) ou falso (F) \npara o que se afirma e assinale a a lternativa com \na sequência correta.  \n( ) A receita corrente líquida será apurada \nsomando -se as receitas arrecadadas no mês em \nreferência e nos onze anteriores, excluídas as \nduplicidades.  \n( ) As Transferências de Capital em dinheiro, \nrecebidas pelo ente mediante auxílio para \ninvestimentos, integram a receita corrente líquida \nem sua integralidade.  \n( ) Não estão compreendidos na receita corrente \nlíquida os valores recebidos pelo ente em \ndecorrência da contratação de operações de \ncrédito.",
+            "alternativas": {
+                "A": "F – F – V.",
+                "B": "V – F – V.",
+                "C": "F – V – V.",
+                "D": "V – V – F.",
+                "E": "V – F – F. \n \n \n \n QUESTÃO 49  \nComo forma de moralizar a gestão pública e \ncoibir práticas clientelistas verificadas antes de \nsua vigência, a LRF instituiu limites para as \nDespesas com Pessoal dos entes da federação. \nNo caso dos Municípios, é correto afirmar que \ntais limites, aferidos em  percentual da Receita \nCorrente Líquida do ente, são de:  \n(A) 52% para o Poder Executivo e 8% para o \nPoder Legislativo.  \n(B) 56% para o Poder Executivo e 4% para o \nPoder Legislativo.  \n(C) 53% para o Poder Executivo e 7% para o \nPoder Legislativo.  \n(D) 55% para o Poder Executivo e 5% para o \nPoder Legislativo.  \n(E) 54% para o Poder Executivo e 6% para o \nPoder Legislativo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CONTABILIDADE E CONTROLADORIA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29: Avalie as afirmativas a seguir com base na Lei de \nImprobidade Administrativa (Lei nº 8.429/1992).  \nI. Para os efeitos da Lei nº 8.429/1992, não são \nconsiderados agentes públicos aqueles que \nexerçam função pública de forma transitória ou \nsem remuneração.  \nII. Não configura improbidade a ação ou omissão \ndecorrente de divergência interpretativa da lei, \nbaseada em jurisprudência, ainda que não \npacificada, mesmo que não venha a ser \nposteriormente prevalecente nas decisões dos \nórgãos de controle ou dos tribunais  do Poder \nJudiciário.  \nIII. Os atos de improbidade praticados contra o \npatrimônio de entidade privada que receba \nsubvenção, benefício ou incentivo, fiscal ou \ncreditício, de entes públicos ou governamentais \ntambém estão sujeitos às sanções da Lei nº \n8.429/1992.  \nEstá correto o que se afirma em:",
+            "alternativas": {
+                "A": "I e II, apenas.",
+                "B": "I e III, apenas.",
+                "C": "II e III, apenas.",
+                "D": "I, II e III.",
+                "E": "III, apenas.  Serviço Autônomo De Água e Esgotos De Amparo /SP– Concurso Público 01/2023           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTABILIDADE E CONTROLADORIA                                                                                                       Página 14 de 14"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

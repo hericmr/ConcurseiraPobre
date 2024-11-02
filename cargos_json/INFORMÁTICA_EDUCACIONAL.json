@@ -1,3 +1,368 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:40c57d369bec0c42984b6f490e2e01d9f91573093451bed4f3c6172dd091e324
-size 36177
+{
+    "INFORMÁTICA EDUCACIONAL": [
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 1: De acordo com o texto, todos os eventos listados \na seguir podem se relacionar, de alguma forma, à \norigem do Halloween, exceto:",
+            "alternativas": {
+                "A": "a queima do joio no Samhain .",
+                "B": "a festa galesa Calan Gaeaf.",
+                "C": "a colheita do milho, nos Estados Unidos.",
+                "D": "festivais pagãos e cristãos misturados.",
+                "E": "rituais para repelir pestes da época."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 2: Na sentença “O Halloween tem suas raízes não \nna cultura americana, mas no Reino Unido.”, o \nemprego da conjunção “mas”, no contexto de \nconexão oracional, exprime:",
+            "alternativas": {
+                "A": "dúvida.",
+                "B": "reiteração.",
+                "C": "causa.",
+                "D": "ressalva.",
+                "E": "restrição. \n \n QUESTÃO 03 \nAssinale a alternativa em que todas as palavras \napresentadas remetem ao mesmo referente no \ntexto.  \n(A) celebração - Halloween - festival. \n(B) Halloween - festa - Dia das Bruxas. \n(C) Halloween - festa - Dia do Saci. \n(D) festa - celebração - Halloween.  \n(E) festa - celebração - Dia de Todos os Santos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 3: Assinale a alternativa em que o acento que indica \ncrase está empregado de forma incorreta .",
+            "alternativas": {
+                "A": "As reuniões do grupo rebelde ocorrem às \nescuras.",
+                "B": "Há muitas coisas à resolver até a festa de \naniversário.",
+                "C": "Os candidatos responderam às acusações \nnesta terça-feira.",
+                "D": "Os livros são catalogados em relação às \ndisciplinas às quais pertencem.",
+                "E": "As canções de Maria foram as indicadas às \npremiações do show de talentos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 4: Assinale a alternativa cuja sentença está correta \nortograficamente.",
+            "alternativas": {
+                "A": "O dicenso entre os especialistas da área foi \nvisível.",
+                "B": "As redações dos alunos mostram que a \ndesjunção é um fenômeno textual recorrente.",
+                "C": "Laura destendeu o abdômem.",
+                "D": "Os amigos admoestavam-no a seguir com seu \npropósito.",
+                "E": "Tentaram advinhar os próximos \nacontecimentos, mas foram surpreendidos. \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA  PEB II - INFORMÁTICA EDUCACIONAL                                   Página 4 de 13 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 5: Um proprietário deseja efetuar a venda de seu \nterreno, pedindo a eventuais compradores que \nseja pago o preço de R$ 2.000,00 (dois mil reais) \npor cada metro quadrado. Considerando que o \nterreno tem o formato retangular, com \ncomprimento de 25 (vinte e cinco) metros e \nfrente medindo 12 (doze) metros, e considerando \nque, após negociações, a venda foi acordada com \num desconto de 20% (vinte por cento) sobre o \npreço inicialmente pedido pelo vendedor, qual \nfoi o valor final da transação?",
+            "alternativas": {
+                "A": "R$ 400.000",
+                "B": "R$ 440.000",
+                "C": "R$ 480.000",
+                "D": "R$ 500.000",
+                "E": "R$ 550.000"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 6: Um consumidor dirigiu-se até um supermercado \na fim de adquirir ovos. Lá, deparou-se com as \nseguintes opções: na primeira, uma dúzia de ovos \ncusta R$ 10,00 (dez reais). Na segunda, uma \ncartela com 20 (vinte) ovos é vendida por R$ \n22,00 (vinte e dois reais), e na terceira, 30 (trinta) \novos custam R$ 39,00 (trinta e nove) reais. Nessa \nsituação, qual das opções apresenta o menor \ncusto unitário por ovo adquirido?",
+            "alternativas": {
+                "A": "1ª",
+                "B": "1ª e 2ª, pois possuem o mesmo valor unitário",
+                "C": "2ª",
+                "D": "2ª e 3ª, pois possuem o mesmo valor unitário",
+                "E": "3ª \n \n \n \n \n QUESTÃO 08 \nDeterminada receita prevê que, para a elaboração \nde um bolo, para cada parte do ingrediente A, \ndevem ser misturadas três partes do ingrediente \nB e sete partes do ingrediente C. Assim, \nconsiderando que um confeiteiro utiliza 150g \n(cento e cinquenta gramas) do ingrediente B, \nqual a massa total do bolo, em gramas, a ser \nelaborado, considerando a soma dos três \ningredientes utilizados? \n(A) 400 \n(B) 550 \n(C) 750 \n(D) 1.100 \n(E) 1.650"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 7: Considere o seguinte sistema de equações:  x + y \n= 7 e 2x – y = 2. Neste caso, a razão entre x e y é \ndada por:",
+            "alternativas": {
+                "A": "0,25",
+                "B": "0,50",
+                "C": "0,75",
+                "D": "1,25",
+                "E": "3,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 8: Qual o MMC – mínimo múltiplo comum –  dos \nnúmeros 27, 54 e 11 é:",
+            "alternativas": {
+                "A": "198",
+                "B": "396",
+                "C": "554",
+                "D": "594",
+                "E": "616 \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA  PEB II - INFORMÁTICA EDUCACIONAL                                   Página 5 de 13 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 9: Pastas de trabalho são lugares onde se guarda \narquivos para abri-los de qualquer computador \nou dispositivo, mesmo sem estar online. As \npastas de trabalho no Windows 7 permitem o \nacesso de arquivos em um computador com esse \nsistema operacional, sob certas condições, sendo \nelas: \n( ) Pastas de trabalho são usadas exclusivamente \npara armazenar arquivos de música.  \n( ) Pastas de trabalho do Windows 7 não \npermitem o acesso a partir de dispositivos \nmóveis. \n( ) Quando a empresa disponibiliza pastas de \ntrabalho e configura isso na conta do usuário. \n( ) Pastas de trabalho garantem que você sempre \ntenha acesso aos arquivos, mesmo em casos de \npane no sistema.",
+            "alternativas": {
+                "A": "F, F, F, F.",
+                "B": "V, V, V, V.",
+                "C": "F, F, V, V.",
+                "D": "F, F, V, F.",
+                "E": "V, V, F, F. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 12  \nSobre as funções do MS – Word 2016, analise os \nconceitos a seguir:  \n \nI - Pode ser usada para atribuir automaticamente \nnúmeros a cada página do documento. Isso é útil \npara criar documentos longos, como relatórios ou \nlivros, para que os leitores possam navegar \nfacilmente e referenciar páginas específicas. \n \nII - São rótulos ou descrições associados a \nfiguras, tabelas, equações e outros objetos no \ndocumento. São usadas para identificar e explicar \no conteúdo de objetos e geralmente são geradas \nautomaticamente no Word. \n \n \nIII - São listas organizadas de termos, tópicos ou \npalavras-chave e as páginas onde podem ser \nencontrados no documento. Eles podem se \ndeterminar em ordem alfabética que listam \npalavras, podendo ser remissivos que listam \ntópicos, geralmente criados automaticamente \npelo Word. \n \nAssinale a afirmativa que contenha corretamente \ne, respectivamente, o conceito das afirmativas. \n \n  \n(A) I - Legendas; II - Numeração de páginas; III \n- Índices. \n(B) I - Índices; II - Numeração de páginas; III - \nLegendas. \n(C) I - Numeração de páginas; II - Índices; III - \nLegendas. \n(D) I - Legendas; II - Índices; III - Numeração de \npáginas. \n(E) I - Numeração de páginas; II - Legendas; III \n- Índices. \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA  PEB II - INFORMÁTICA EDUCACIONAL                                   Página 6 de 13 QUESTÃO 13 \nMaria trabalha como redatora em uma agência \nde publicidade e estava finalizando um \nimportante projeto que havia consumido dias de \ntrabalho. No entanto, em um momento crucial, o \nseu computador travou completamente, e ela \nnão conseguia mais acessar o aplicativo onde \nestava escrevendo o documento. Maria, sabendo \nda utilidade do atalho ________, pressionou-o \npara abrir o Gerenciador de Tarefas e, a partir \ndaí, conseguiu encerrar o aplicativo travado e \nrecuperar o seu trabalho, evitando uma perda de \nhoras de esforço. \nDiante do contexto apresentado, assinale a \nafirmativa que contenha o atalho utilizado por \nMaria.   \n \n(A) Ctrl + Alt + Esc. \n(B Ctrl + Fn + Esc. \n(C) Ctrl + Alt + Del. \n(D) Ctrl + Enter + Del. \n(E) Ctrl + Tab + Del."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 10: Ana é uma estudante universitária que está \nescrevendo um relatório importante para um \ntrabalho final. Ela precisa utilizar o Word para \nformatar o documento, aplicando estilos de \ntítulo, criando uma lista numerada para suas \nreferências e ajustando o espaçamento entre \nlinhas de acordo com as diretrizes da faculdade. \nVocê, possuidor de um vasto conhecimento na \nutilização do Word 2016, afirmou para Ana que \nsão funções do Software referenciado: \n( ) O Word oferece vários estilos de texto \npredefinidos que permitem consistência na \nformatação de títulos, subtítulos, parágrafos, etc. \n( ) É possível selecionar fontes, tamanhos de \nfonte, cores e estilos (negrito, itálico, sublinhado) \npara realçar o texto. \n( ) O Word 2016 não permite criar tabelas ou \ngráficos dentro de um documento. \n( ) Permite alinhar o texto à esquerda, direita, \ncentralizado ou justificado.",
+            "alternativas": {
+                "A": "F, F, F, F.",
+                "B": "V, V, V, V.",
+                "C": "F, F, V, V.",
+                "D": "V, V, F, V.",
+                "E": "V, V, F, F. \n QUESTÃO 15  \nSobre as funções do MS – Word 2016, analise os \nconceitos a seguir:  \n \nI - São partes do documento que geralmente \ncontêm informações como títulos, nomes de \nseções ou capítulos. Eles são usados para \norganizar o conteúdo do documento \nhierarquicamente e podem ser formatados com \nestilos de texto para que se destaquem. \n \nII - São blocos de texto que separam o conteúdo \nem unidades lógicas, como ideias ou tópicos \ndistintos. Geralmente é separado por espaços em \nbranco e pode ser formatado quanto a \nalinhamento, espaçamento e recuo. \n \n \nIII - Referem-se ao estilo de texto, tais como, \nArial, Times New Roman, o tamanho, o peso \n(negrito, itálico) e a cor. Sua formatação é \naplicada a caracteres ou palavras individuais no \ndocumento. \n \nAssinale a afirmativa que contenha corretamente \ne, respectivamente, o conceito das afirmativas.  \n \n(A) I - Fontes; II - Parágrafos; III - Cabeçalhos. \n(B) I - Cabeçalhos; II - Parágrafos; III - Fontes. \n(C) I - Fontes; II - Cabeçalhos; III - Parágrafos. \n(D) I - Parágrafos; II - Cabeçalhos; III - Fontes. \n(E) I - Parágrafos; II - Fontes; III - Cabeçalhos. \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA  PEB II - INFORMÁTICA EDUCACIONAL                                   Página 7 de 13 LEGISLAÇÃO EDUCACIONAL"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 11: Analise os itens a seguir de acordo com a \nResolução CNE/CEB 07/2010 – Diretrizes \nCurriculares Nacionais para o Ensino \nFundamental de 9 (nove) anos. Brasília: CNE, \n2010.  \nOs sistemas de ensino e as escolas adotarão, \ncomo norteadores das políticas educativas e das \nações pedagógicas, os seguintes princípios: \n \nI - Estéticos: de justiça, solidariedade, liberdade \ne autonomia; de respeito à dignidade da pessoa \nhumana e de compromisso com a promoção do \nbem de todos, contribuindo para combater e \neliminar quaisquer manifestações de preconceito \nde origem, raça, sexo, cor, idade e quaisquer \noutras formas de discriminação. \n \nII - Políticos: do cultivo da sensibilidade \njuntamente com o da racionalidade; do \nenriquecimento das formas de expressão e do \nexercício da criatividade; da valorização das \ndiferentes manifestações culturais, \nespecialmente a da cultura brasileira; da \nconstrução de identidades plurais e solidárias.",
+            "alternativas": {
+                "A": "A asserção I é uma proposição falsa, e a II \né uma proposição verdadeira.",
+                "B": "As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.",
+                "C": "A asserção I é uma proposição verdadeira, \ne a II é uma proposição falsa.",
+                "D": "As asserções I e II são proposições falsas.",
+                "E": "As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. QUESTÃO 17 \nAssinale a alternativa incorreta de acordo com \nLei n. 13. 146, 2015. Institui a Lei Brasileira de \nInclusão da pessoa com deficiência. \n \n(A) Considera-se pessoa com deficiência \naquela que tem impedimento de longo prazo de \nnatureza física, mental, intelectual ou sensorial, o \nqual, em interação com uma ou mais barreiras, \npode obstruir sua participação plena e efetiva na \nsociedade em igualdade de condições com as \ndemais pessoas. \n(B) Toda pessoa com deficiência tem direito à \nigualdade de oportunidades com as demais \npessoas e não sofrerá nenhuma espécie de \ndiscriminação. \n(C) A pessoa com deficiência tem direito a \nreceber atendimento prioritário, sobretudo com a \nfinalidade de proteção e socorro em quaisquer \ncircunstâncias. \n(D) A pessoa com deficiência poderá ser \nobrigada a se submeter a intervenção clínica ou \ncirúrgica, a tratamento ou a institucionalização \nforçada. \n(E) O processo de habilitação e de reabilitação \né um direito da pessoa com deficiência. \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA  PEB II - INFORMÁTICA EDUCACIONAL                                   Página 8 de 13 QUESTÃO 18 \nDe acordo com a Resolução CNE/CEB 05/2009 \n– Diretrizes Curriculares Nacionais para a \nEducação Infantil. Brasília: CNE, 2009. Analise \nos itens a seguir. \nAs práticas pedagógicas que compõem a \nproposta curricular da Educação Infantil devem \nter como eixos norteadores as interações e a \nbrincadeira, garantindo experiências que: \nI – promovam o conhecimento de si e do mundo \npor meio da ampliação de experiências \nsensoriais, expressivas, corporais que \npossibilitem movimentação ampla, expressão da \nindividualidade e respeito pelos ritmos e desejos \nda criança; \nII - favoreçam a imersão das crianças nas \ndiferentes linguagens e o progressivo domínio \npor elas de vários gêneros e formas de expressão: \ngestual, verbal, plástica, dramática e musical; \nIII - promovam o relacionamento e a interação \ndas crianças com diversificadas manifestações de \nmúsica, artes plásticas e gráficas, cinema, \nfotografia, dança, teatro, poesia e literatura; \n \nEstão corretas as assertivas: \n(A) I apenas. \n(B) II apenas. \n(C) I e II apenas. \n(D) I e  III   apenas \n(E) I, II e III. \n \n \n \n \n \n \n \n \n QUESTÃO 19 \nDe acordo com a Resolução CNE/CEB 05/2009 \n– Diretrizes Curriculares Nacionais para a \nEducação Infantil. Brasília: CNE, 2009. assinale \na alternativa correta. \nI – É considerada Educação Infantil em tempo \nparcial, a jornada de, no mínimo, três horas \ndiárias e, em tempo integral, a jornada com \nduração igual ou superior a sete horas diárias, \ncompreendendo o tempo total que a criança \npermanece na instituição.  \nII - É dever do Estado garantir a oferta de  \nEducação Infantil pública, gratuita e de \nqualidade, sem requisito de seleção. \n \n(A) A asserção I é uma proposição falsa, e a II \né uma proposição verdadeira. \n(B) As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I. \n(C) A asserção I é uma proposição verdadeira, \ne a II é uma proposição falsa. \n(D) As asserções I e II são proposições falsas. \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 12: De acordo com o Estatuto da Criança e do \nAdolescente, analise os itens a seguir. \nO direito à liberdade compreende os seguintes \naspectos: \nI – ir, vir e estar nos logradouros públicos e \nespaços comunitários, ressalvadas as restrições \nlegais; \nII - brincar, praticar esportes e divertir-se; \nIII - participar da vida política, na forma da lei; \nEstão corretas as assertivas:",
+            "alternativas": {
+                "A": "I apenas.",
+                "B": "II apenas.",
+                "C": "I e II apenas.",
+                "D": "I e  III   apenas",
+                "E": "I, II e III. \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA  PEB II - INFORMÁTICA EDUCACIONAL                                   Página 9 de 13 CONHECIMENTOS PEDAGÓGICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 13: A partir da obra intitulada: “As cem linguagens \nda criança” de Edward Carolyn et al., destaque a \nalternativa que vai de encontro à perspectiva dos \nautores.",
+            "alternativas": {
+                "A": "Dentro da concepção pedagógica \napresentada, a criança é um ser competente, \ncurioso, atento, capaz, pensante, questiona, \ninventa e descobre o mundo.",
+                "B": "A linguagem nasce da escuta: criança versus \neducador; criança versus criança, dentro de um \nambiente de reciprocidade.",
+                "C": "Enfoque cooperativo na solução dos \nproblemas.",
+                "D": "Participação ativa da comunidade.",
+                "E": "A produção artística da criança ao longo do \nano deve ser guardada com cuidado e zelo, a fim \nde que possa ser demonstrada na mostra \npedagógica definida no calendário escolar de \ncada instituição de ensino."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 14: A obra: “Psicologia da Educação Virtual: \naprender e ensinar com tecnologias da \ninformação e da comunicação” trata sobre a \neducação e a aprendizagem em ambientes \nvirtuais e, ao mesmo tempo, posiciona-se de \nmaneira clara e explícita no âmbito da Psicologia \nda Educação. \nDentre os diversos aspectos trabalhados, é \npossível destacar as três abordagens sobre o \nestudo da interação entre seres humanos e \ncomputadores, a saber: aproximação cognitiva, \naproximação sociocognitiva e aproximação a \npartir da teoria da atividade. Em relação à \naproximação cognitiva, assinale a opção \nincorreta.",
+            "alternativas": {
+                "A": "Foco nas interfaces.",
+                "B": "Ambiente laboral: aprendizagem, jogo, lazer.",
+                "C": "Estudos experimentais sobre a eficácia da \ninteração computador x ser humano.",
+                "D": "Modelos de usuários.",
+                "E": "Critérios de usabilidade. QUESTÃO 23 \nFazenda (2002) traz uma reflexão sobre a \nintegração e interdisciplinaridade no ensino \nbrasileiro. Ao longo da obra, em dado momento, \né explicitado alguns termos, estabelecendo as \nrelações metodológicas respectivas. Assim, \nassinale a seguir o termo a que se refere o \ntrabalho conjunto envolvendo, por exemplo, as \nseguintes disciplinas: música + matemática + \nhistória: \n(A) Disciplina \n(B) Pluridisciplina \n(C) Multidisciplina \n(D) Interdisciplina \n(E) Transdisciplina"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 15: Conforme Fazenda (2002), há cinco princípios \nque subsidiam uma prática docente \ninterdisciplinar, destacados a seguir, afora:",
+            "alternativas": {
+                "A": "Humildade",
+                "B": "Coerência",
+                "C": "Respeito",
+                "D": "Desapego",
+                "E": "Rapidez"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 16: De acordo com a Pedagogia da Autonomia de \nPaulo Freire, é impertinente afirmar:",
+            "alternativas": {
+                "A": "Não é possível dissociar a docência da \ndiscência.",
+                "B": "Ensinar é uma atividade que vai além da mera \ntransferência de saber.",
+                "C": "Ensinar é uma especificidade do ser humano.",
+                "D": "Os educadores críticos necessitam de saberes \nespecíficos, quando comparados aos educadores \nconservadores.",
+                "E": "A riqueza do ato de ensinar não pode ser \nmedida por seu caráter conteudístico. \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA  PEB II - INFORMÁTICA EDUCACIONAL                                   Página 10 de 13 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 17: Qual dos itens abaixo não é considerado um \nsistema operacional?",
+            "alternativas": {
+                "A": "Linux.",
+                "B": "Paint.",
+                "C": "Windows.",
+                "D": "Unix.",
+                "E": "macOS."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 18: Qual das opções abaixo não é uma Função da \nBIOS:",
+            "alternativas": {
+                "A": "Iniciar o Computador.",
+                "B": "Acessar a Internet em busca do Sistema \nOperacional.",
+                "C": "Realizar teste para verificar funcionamento \ndos componentes.",
+                "D": "Buscar um Sistema Operacional no \ndispositivo de Inicialização.",
+                "E": "Carregar o sistema operacional na memória \npara permitir que o computador seja usado."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 19: Qual dos seguintes elementos de hardware é \nencarregado de guardar informações \npermanentemente em um computador?",
+            "alternativas": {
+                "A": "CPU (Unidade Central de Processamento).",
+                "B": "SSD (Unidade em Estado Sólido).",
+                "C": "RAM (Memória de Acesso Aleatório).",
+                "D": "GPU (Unidade de Processamento Gráfico).",
+                "E": "LED (diodo emissor de luz). \n \n \n \n \n QUESTÃO 29 \nOs keyloggers são um tipo de malware que \nrepresentam uma grande preocupação para a \nsegurança dos dados. Por favor, explique o \nfuncionamento dos keyloggers.  \n(A) Projetado para coletar informações pessoais \ndos usuários sem o seu consentimento. \n(B) Keyloggers registram todas as teclas \npressionadas em um sistema. \n(C) Exibe anúncios indesejados nos dispositivos \ndas vítimas. \n(D) São programas disfarçados como software \nlegítimo. \n(E) São programas que se propagam \nindependentemente, explorando \nvulnerabilidades de rede."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 20: Como funciona um firewall de Filtragem de \nEndereço IP:",
+            "alternativas": {
+                "A": "Não permite que nenhum vizinho acesse sua \nrede.",
+                "B": "Este Firewall pode bloquear ou permitir \npacotes com base nos endereços IP de origem e \ndestino.",
+                "C": "Podem restringir o tráfego com base nas \nportas de origem e destino usadas nas \ncomunicações.",
+                "D": "Utiliza o protocolo internacional de \nsegurança para bloquear intrusos.",
+                "E": "Funciona como uma parede que impede \npacotes enviados via Bluetooth. \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA  PEB II - INFORMÁTICA EDUCACIONAL                                   Página 11 de 13 QUESTÃO 31 \nQuando você está configurando uma nova \nimpressora, geralmente é necessário instalar os \ndrivers corretos. O que são Drivers. \n(A) Os drivers de computador são pequenos \nrobôs que operam dentro do seu PC, garantindo \nque todas as partes do computador estejam \nfuncionando perfeitamente. \n(B) Drivers de impressora agem como uma ponte \nentre o sistema operacional do computador e a \nprópria impressora. \n(C) Drivers de computador são como cartões de \ncrédito que você insere em seu computador para \ncomprar programas e aplicativos. \n(D) Os drivers de computador são dispositivos de \nhardware que você conecta ao seu computador \npara melhorar seu desempenho, como um 'driver \nturbo' que aumenta a velocidade do processador. \n(E) Os drivers de computador são uma espécie \nde código de barras que você lê com um scanner \npara fazer backup de todos os seus arquivos \nimportantes."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 21: Qual das opções não está de acordo com as \nfunções do Prompt de Comando (Command \nPrompt)?",
+            "alternativas": {
+                "A": "Execução de Comandos.",
+                "B": "Conversar com o Sistema Operacional.",
+                "C": "Configuração do Sistema.",
+                "D": "Gerenciamento de Disco.",
+                "E": "Rede e Conectividade. \n \n \n \n \n \n \n QUESTÃO 33 \nO que é Registro do Windows? \n(A) É um livro físico de papel que contém \ninformações confidenciais sobre o sistema \noperacional e os segredos internos do Windows. \n(B) Ele atua como um repositório central que \nguarda as configurações e dados essenciais para \no bom funcionamento do sistema, assim como \npara os aplicativos e hardware instalados no \ncomputador. \n(C) É um portal mágico que permite que você \nacesse dimensões alternativas do seu computador \nquando as configurações normais não \nfuncionam. \n(D) O Registro do Windows é um lugar onde os \nvírus e malware se reúnem para planejar ataques \nao seu computador. \n(E) O Registro do Windows é uma máquina de \ncafé virtual onde os desenvolvedores do \nWindows discutem suas ideias e compartilham \nreceitas de café."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 22: Qual das alternativas abaixo não é classificada \ncomo uma topologia de rede?",
+            "alternativas": {
+                "A": "Estrela.",
+                "B": "Livro.",
+                "C": "Anel.",
+                "D": "Malha.",
+                "E": "Árvore."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 23: No Microsoft Word 2016, qual é a ferramenta \nque usamos para aplicar o mesmo estilo em outra \nparte do documento?",
+            "alternativas": {
+                "A": "Negrito.",
+                "B": "Pincel de Formatação.",
+                "C": "Sublinhado.",
+                "D": "Sombreamento.",
+                "E": "Efeitos de Texto e Tipografia. \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA  PEB II - INFORMÁTICA EDUCACIONAL                                   Página 12 de 13 QUESTÃO 36 \nQual è o objetivo da função “Contar Palavras” no \nMicrosoft Word 2016? \n(A) Calcular o número de páginas em um \ndocumento. \n(B) Contar o número de palavras em um \ndocumento ou em uma seleção. \n(C) Realizar uma contagem regressiva \nautomática para uma data específica. \n(D) Realizar contagem de palavras em uma \nsessão especifica. \n(E) Conta a quantidade de vogais em um texto."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 24: No Microsoft Word 2016, se você estiver lidando \ncom um documento longo e complexo e quiser \nadicionar um índice remissivo, qual é a maneira \ncorreta de fazer isso?",
+            "alternativas": {
+                "A": "Localizar e Substituir.",
+                "B": "Sumário.",
+                "C": "Inserir Ilustrações.",
+                "D": "Inserir Citação.",
+                "E": "Comentários."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 25: Como são denominadas as mensagens \nindesejadas, normalmente enviadas por e-mail, \nque têm como objetivo principal promover \nprodutos, serviços, conteúdo ou atividades \ncomerciais.",
+            "alternativas": {
+                "A": "Anexos.",
+                "B": "Spam.",
+                "C": "Assinatura.",
+                "D": "RSS.",
+                "E": "IMAP. \n \n QUESTÃO 39 \nQual das seguintes afirmações está errada em \nrelação â “Chave Primária” no Microsoft Access \n2016?  \n(A) Serve para garantir que o registro seja único \nna tabela. \n(B) Pode conter valores duplicados na tabela. \n(C) Identificar exclusivamente cada registro. \n(D) Não pode conter valores nulos. \n(E) Pode ser usada para estabelecer \nrelacionamentos entre tabelas no banco de \ndados."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "INFORMÁTICA EDUCACIONAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 26: Qual das seguintes asserções sobre o Microsoft \nAccess 2016 é verdadeira?",
+            "alternativas": {
+                "A": "O Access não permite a criação de consultas \nSQL personalizadas.",
+                "B": "Access permite a criação de aplicativos de \nbanco de dados relacionais.",
+                "C": "Access é uma planilha eletrônica avançada \ncom recursos de banco de dados.",
+                "D": "Access não suporta o armazenamento de \nimagens ou documentos em bancos de dados.",
+                "E": "Access é um sistema operacional \ndesenvolvido pela Microsoft. \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA  PEB II - INFORMÁTICA EDUCACIONAL                                   Página 13 de 13"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

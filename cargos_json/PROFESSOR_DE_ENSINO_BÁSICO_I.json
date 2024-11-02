@@ -1,3 +1,788 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1eee98b190f4ad87b600796baa16dcddc40ae8bf0bba32b6c5737ee7c5e82d3c
-size 93146
+{
+    "PROFESSOR DE ENSINO BÁSICO I": [
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: De acordo com o texto, as mudanças climáticas \nque ocorreram no período de extinção da espécie \nde primatas G. blacki impactaram \nprincipalmente:",
+            "alternativas": {
+                "A": "a capacidade de convívio desses animais com \noutras espécies.",
+                "B": "a produção dos alimentos que faziam parte da \ndieta desses animais.",
+                "C": "o declínio dos ambientes de floresta aberta.",
+                "D": "a diminuição de árvores adequadas para a \nescalada desses animais.",
+                "E": "o aumento de pólen e outros elementos \nalérgenos com as mudanças na sazonalidade.  \n \n \nConsidere o excerto a seguir para responder \nàs questões 2, 3 e 4:  \n \nNão há nenhum esqueleto completo dessa \nespécie em seu arquivo fóssil, mas os \npesquisadores analisaram fósseis de dentes, \nossos da mandíbula inferior e amostras de pólen \ne sedimentos de cavernas em Guangxi para \nentender como as florestas passaram a produzir \nmenos frutas por volta de 600 mil anos atrás, \nquando ocorreram mais períodos  de secas.  \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 3 de 15 QUESTÃO 02  \nNo contexto apresentado, é possível afirmar que \na referência evocada pelo pronome possessivo \n“seu”:  \n(A) retoma apenas a equipe de pesquisadores.  \n(B) retoma apenas os primatas da espécie G. \nblacki . \n(C) introduz as cavernas em Guangxi.  \n(D) retoma apenas o pesquisador Renaud \nJoannes -Boyau.  \n(E) é ambígua, já que permite interpretar tanto \no(s) pesquisador(es) quanto os primatas como \nreferente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: No contexto apresentado, o vocábulo “mas” \nexprime, em relação à oração que o antecede, um \nsentido de:",
+            "alternativas": {
+                "A": "oposição.",
+                "B": "adição.",
+                "C": "concessão.",
+                "D": "explicação.",
+                "E": "comparação."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Em relação às classes gramaticais, as palavras \n“nenhum”, “menos”, “mais” e “secas”, no \ncontexto dado, classificam -se, respectivamente, \ncomo:",
+            "alternativas": {
+                "A": "pronome demonstrativo, advérbio, advérbio \ne substantivo.",
+                "B": "pronome indefinido, adjetivo, advérbio e \nadjetivo.",
+                "C": "pronome indefinido, advérbio, preposição e \nsubstantivo.",
+                "D": "pronome demonstrativo, adjetivo, advérbio e \nadjetivo.",
+                "E": "pronome indefinido, advérbio, advérbio e \nsubstantivo.  \n QUESTÃO 05  \nAnalise o excerto a seguir quanto à concordância \nverbal e nominal: “Cascas de árvores, juncos, \nflores e outros alimentos não nutritivos tornaram -\nse os alimentos dessa espécie que, diferente de \noutros primatas menores, não conseguia escalar \nárvores em busca  de comida.” Pode -se dizer que \no(s) elemento(s) que concorda(m) com o verbo \n“tornaram -se” e, portanto, constituem o sujeito \noracional é (são):  \n(A) “Cascas de árvores”.  \n(B) “os alimentos dessa espécie”.  \n(C) “Cascas de árvores, juncos, flores e outros \nalimentos não nutritivos”.  \n(D) “Cascas de árvores, juncos, flores e outros \nalimentos”.  \n(E) “outros alimentos não nutritivos”."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Analise as sentenças a seguir e assinale aquela \nem que ocorre(m) elemento(s) de coesão textual \nreferencial anafórica.",
+            "alternativas": {
+                "A": "O segredo para ter uma vida saudável é este: \nférias sempre que puder.",
+                "B": "Assistimos a filmes, comemos pipoca, \nconversamos. A noite ficou nisso.",
+                "C": "Maria sentia falta de sua mãe, pois era uma \ncriança muito manhosa.",
+                "D": "Caso as coisas piorem, então recorreremos \naos nossos pais.",
+                "E": "A vaga do carro do chefe é essa aí."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Analise as palavras apresentadas a seguir e \nassinale aquela em que não há inadequação no \nemprego do hífen.",
+            "alternativas": {
+                "A": "camisa -de-força.",
+                "B": "super -sônico.",
+                "C": "mal -habituado.",
+                "D": "auto -estima.",
+                "E": "ponto -e-vírgula.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 4 de 15 QUESTÃO 08  \nAnalise as sentenças a seguir. A palavra se ocorre \ncomo conjunção integrante apenas em:  \n(A) “Mas você adora um se.” (Djavan)  \n(B) Se você concordar, enviarei hoje mesmo os \ncontratos.  \n(C) Ela se queixa todos os dias de dores no \njoelho.   \n(D) Disse -me que não sabe se Ana está bem.  \n(E) “ Se não eu, quem vai fazer você feliz?” \n(Charlie Brown Jr.)"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Analise as sentenças a seguir. A palavra segundo  \nocorre como adjetivo apenas em:",
+            "alternativas": {
+                "A": "Você sempre será o amor de minha vida; \nnunca haverá um segundo .",
+                "B": "Com esse trabalho, será visto como um \nprofissional de segundo  escalão.",
+                "C": "Segundo  a polícia, todos os assaltantes foram \ncapturados.",
+                "D": "Os resultados da pesquisa são bastante \npromissores, segundo  informou a professora.",
+                "E": "Receberá seu salário no segundo dia do mês."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Analise as sentenças a seguir em relação à \ncolocação pronominal. A sentença que apresenta \ninadequação em relação à ênclise é:",
+            "alternativas": {
+                "A": "Sentei -me para esperar o táxi.",
+                "B": "Ana me pediu para colocá -la neste grupo de \ntrabalho.",
+                "C": "Eu tenho falado -lhe a respeito desses \nassuntos porque os considero importantes.",
+                "D": "Fizeram -na passar vergonha no colégio.",
+                "E": "Preciso encontrar alguém que possa ajudá -lo \ncom os exercícios de Química.  \n \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: 1 \nJoão usa um ventilador para tentar se refrescar no \nverão. Sabe -se que esse ventilador consome uma \npotência máxima de 140 W na velocidade \nmáxima. Na velocidade média, o ventilador \nconsome 80% da potência máxima e, na \nvelocidade baixa, ele consome 60% da potência \nmáxima. João utiliza o ventilador por 8 horas na \nvelocidade máxima, por 2 horas na velocidade \nmédia e por 2 hor as na velocidade baixa todos os \ndias. Quanta energia, em kWh (quilowatt -hora), \nJoão utiliza durante 30 dias, aproximadamente? \nConsidere que 1 kWh é a energia consumida por \num eletrodoméstico de 1000 W de potência \nutilizado durante 1 hora:",
+            "alternativas": {
+                "A": "68,7 kWh.",
+                "B": "65,3 kWh.",
+                "C": "54,8 kWh.",
+                "D": "51,6 kWh.",
+                "E": "45,4 kWh."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Janaína possui uma lixeira em formato cilíndrico \nna sua cozinha. Para comprar os sacos de lixo que \nmelhor se adequam a lixeira, ela fez algumas \nmedições com uma régua: ela verificou que a \nlixeira possui uma base cujo raio é 10 cm e altura \nde 40 cm. O saco de lixo que Janaína deve \ncomprar para a sua lixeira deve ter capacidade \nmínima de quantos litros? Considere que 1 cm³ \nequivale a 1 ml e que 𝜋≈3.",
+            "alternativas": {
+                "A": "15 litros.",
+                "B": "25 litros.",
+                "C": "10 litros.",
+                "D": "20 litros.",
+                "E": "12 litros.  \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 5 de 15 QUESTÃO 13 \nObserve as seguintes afirmações:  \n• A idade de Alan somada com a idade de \nBruno é a idade de Carlos mais 20;  \n• O dobro da idade de Alan subtraído da idade \nde Bruno é igual a 12.  \nSabendo que a idade de Carlos é 16 anos, qual é \no produto da idade de Alan pela idade de Bruno?  \n(A) 210.  \n(B) 320.  \n(C) 105.  \n(D) 250.  \n(E) 350."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Considere verdadeira a proposição condicional:  \n“Se João é bom em Estatística, então ele é bom \nem Matemática.”  \nA partir dessa proposição, também é verdade \nque:",
+            "alternativas": {
+                "A": "Se João for bom em Matemática, também \nserá bom em Estatística.",
+                "B": "Provavelmente João é bom em Matemática e \nEstatística.",
+                "C": "Ou João é bom em Matemática ou João é bom \nem Estatística.",
+                "D": "Se João não é bom em Matemática, então ele \nnão é bom em Estatística.",
+                "E": "João não é bom em Matemática, nem é bom \nem Estatística.  \n \n \n \n \n \n \n \n QUESTÃO 15 \nUm fazendeiro possui uma lavoura na forma de \num triângulo retângulo cujos catetos medem 4km \ne 3km. Sabendo que para cada quilômetro do \nperímetro da lavoura será necessário gastar R$ \n500,00 com a construção de um cercado, quanto \nserá necessário para cercar todo o perímetro da \nárea triangular?  \n(A) R$ 4.500,00.  \n(B) R$ 5.000,00.  \n(C) R$ 6.000,00.  \n(D) R$ 6.500,00.  \n(E) R$ 6.700,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: No manual de um veículo é recomendado que a \ncalibração dos pneus seja feita a cada 8 meses e \nque o líquido de arrefecimento seja trocado a \ncada 2 anos. Se em julho de 2023, a calibração \ndos pneus e a troca do líquido foram feitas, \nquando essas manutenções serão feitas juntas \nnovamente?",
+            "alternativas": {
+                "A": "Outubro de 2027.",
+                "B": "Agosto de 2028.",
+                "C": "Julho de 2029.",
+                "D": "Julho de 2025.",
+                "E": "Janeiro de 2029."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Considere que o IDEB (Índice de \nDesenvolvimento da Educação Básica) das \nescolas municipais de uma certa cidade foi de 6,0 \nem 2023 e que em 2022 o IDEB foi de 5,5. \nPodemos afirmar que o crescimento percentual \nno IDEB de 2022 para 2023 foi de \naproximadamente :",
+            "alternativas": {
+                "A": "5%.",
+                "B": "6%.",
+                "C": "7%.",
+                "D": "8%.",
+                "E": "9%.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 6 de 15 QUESTÃO 18 \nUm vendedor conseguiu realizar suas vendas \ndurante 7 meses conforme a tabela abaixo.  \nMês Valor Vendido (R$)  \nJunho  21.000,00  \nJulho  18.000,00  \nAgosto  15.000,00  \nSetembro  X \nOutubro  17.500,00  \nNovembro  19.500,00  \nDezembro  20.000,00  \n \nSabendo que a média do valor vendido na tabela \napresentada é R$ 19.000,00, qual deve ser o valor \nde X?  \n(A) R$ 20.000,00.  \n(B) R$ 21.000,00.  \n(C) R$ 22.000,00.  \n(D) R$ 22.500,00.  \n(E) R$ 23.000,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Cinco amigos compraram uma pizza em formato \ncircular e dividiram -na em cinco fatias iguais. \nCada fatia é um setor circular da pizza original. \nIndique o ângulo de cada setor circular:",
+            "alternativas": {
+                "A": "72º.",
+                "B": "75º.",
+                "C": "80º.",
+                "D": "81º.",
+                "E": "90º.  \n \n \n \n \n \n QUESTÃO 20 \nMarcus possui 12 camisas e 8 calças e deseja \norganizá -las em prateleiras de modo que em cada \nprateleira haja ou apenas camisas ou apenas \ncalças, mas que cada prateleira tenha sempre o \nmesmo número de peças. Ademais ele deseja \nacomodar o máximo possível de peças em cada \nprateleira. Desse modo, quantas peças deverão \nser colocadas em cada prateleira?  \n(A) 2.  \n(B) 6.  \n(C) 5.  \n(D) 4.  \n(E) 3.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Acerca das funções do MS -Excel, analise as \nafirmativas abaixo:  \nI - A combinação de colunas, linhas e células cria \numa estrutura tabular que facilita a organização e \nanálise de dados no Excel.  \nII - Essa grade é fundamental para criar planilhas \nque podem conter uma variedade de \ninformações, desde simples listas até complexas \nanálises financeiras e relatórios.",
+            "alternativas": {
+                "A": "As asserções I e II são proposições \nverdadeiras, mas a II não é uma justificativa da I.",
+                "B": "A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.",
+                "C": "As asserções I e II são proposições \nverdadeiras, e a II é uma justificativa da I.",
+                "D": "As asserções I e II são proposições falsas.",
+                "E": "A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.  \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 7 de 15 QUESTÃO 22  \nAnalise as imagens a seguir:  \nI: \n \nII: \n \nAgora, considere as afirmações abaixo:  \n( ) Ambas as imagens representam softwares que \nintegram a suíte Microsoft Office.  \n( ) A imagem “II” representa um software que \npermite enviar, receber e organizar emails. Sendo \npossível criar, responder, encaminhar e arquivar \nmensagens de email de forma eficiente.  \n( ) A imagem “I” pode ser classificada como uma \npasta, uma pasta é um contêiner para armazenar \ne organizar arquivos e outras pastas. Ela é uma \nestrutura de organização básica usada para \ngerenciar o conteúdo do disco rígido ou de outros \ndispositivos de arma zenamento.  \nIndique “V” para verdadeiro e “F” para falso.  \n(A) F, F, F.  \n(B) F, V, V.  \n(C) V, V, V.  \n(D) F, V, F.  \n(E) V, F, V.  \n \n \n \n \n \n \n QUESTÃO 23  \nEm um dia agitado no escritório, Rodriguez, um \nengenheiro de dados, recebeu a missão de criar \num relatório detalhado sobre a eficiência dos \nsistemas da empresa. Com dados dispersos, ele \nprecisou recorrer a uma ferramenta para \norganizar informações em colunas, utilizando \nfórmulas para cálculos automáticos.  \nDiante do caso narrado, qual ferramenta do \npacote Office 2016, é mais indicada para \nRodriguez desenvolver sua tarefa com êxito?  \n(A) Excel.  \n(B) PowerPoint.  \n(C) Windows.  \n(D) Outlook.  \n(E) Word."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: A função \"Mesclar e Centralizar\" no Excel é uma \noperação que combina células selecionadas em \numa única célula e centraliza o conteúdo \nresultante. Diante do contexto apresentado, \nassinale a alternativa que representa o botão \n\"Mesclar e Centralizar\" do Excel.",
+            "alternativas": {
+                "A": "(B)  \n \n(C)  \n \n(D)  \n \n(E)  \n \n \nPrefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 8 de 15 QUESTÃO 25  \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Nesse \ncontexto, são palavras que integram o significado \nde URL:  \nI - Uniform.  \nII - User.  \nIII - Resource  \nIV - Lover.  \nV - Locator.  \n(A) I, II e III, apenas.",
+                "B": "I, III e V, apenas.",
+                "C": "II e III, apenas.",
+                "D": "I, II e V, apenas.",
+                "E": "Nenhuma das afirmativas estão corretas.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: O pensamento e a linguagem são aspectos \nextremamente relevantes a serem considerados \nquando são analisadas as variáveis intervenientes \nno contexto socioeducacional. Em função disso, \né importante compreender o que a literatura \nabarca sobre o tema, sendo ver dadeiros os \nenunciados a seguir, exceto:",
+            "alternativas": {
+                "A": "O uso de signos pela criança representa o \neixo central da função planejadora da linguagem.",
+                "B": "A compreensão da constituição social do \nsujeito é pautada na perspectiva dialógica.",
+                "C": "O sujeito (nesse caso a criança) não pode ser \nconsiderado como um organismo biológico \nabstrato.",
+                "D": "A linguagem, a partir da significação da \npalavra, envolve elementos verbais e não verbais, \nmarcada pela polissemia.",
+                "E": "Ao mesmo tempo, estão presentes na fala não \napenas a palavra do locutor, mas a monofonia.  \n \n \n QUESTÃO 27  \nSão premissas verdadeiras sobre o pensamento e \na linguagem, exceto:  \n(A) Na fase inicial, o pensamento se desenvolve \nsem a linguagem.  \n(B) Ao estabelecer um comparativo entre o \nestágio pré -linguístico e o estágio pré -intelectual, \nobserva -se que esses dois estágios são sempre \ndependentes.  \n(C) A organização linguístico -cognitiva marca o \nencontro entre o pensamento e a fala \n(linguagem).  \n(D) A relação entre pensamento e linguagem é \num processo vivo, não é algo já formado e \nconstante.  \n(E) A relação entre pensamento e linguagem só \npode ser compreendida a partir da natureza \npsicológica da fala interior, que não é exatamente \numa fala, mas uma atividade intelectual e \nafetivo -volativa."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Ao longo do processo de aprendizagem e ensino \nda escrita e da leitura, dois conceitos são \nconsiderados preponderantes para esse \naprendizado: alfabetização e letramento. No \nentanto, apesar de amplamente abordados, ainda \né possível que haja dúvidas sobre a a mplitude de \ncada um deles. Logo, marque a alternativa em \nque o conceito definido apresenta um erro \ninterpretativo.",
+            "alternativas": {
+                "A": "Alfabetização é a aquisição do código da \nescrita e da leitura.",
+                "B": "As relações estabelecidas entre sons e letras, \nbem como a compreensão sobre as unidades \nmenores que compõem o sistema de escrita \nrepresentam o letramento.",
+                "C": "O letramento é a utilização prática -social da \nleitura e da escrita.",
+                "D": "É necessário ratificar a importância de \nconsiderar as especificidades da aquisição da \ntécnica somada à prática social.",
+                "E": "Alfabetização e letramento não são pré -\nrequisitos um do outro, mas aprendizagens que \nacontecem simultaneamente.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 9 de 15 QUESTÃO 29  \nNa literatura, é possível verificar que alguns \naspectos psicolinguísticos interferem o processo \nde alfabetização. Além disso, observa -se a \nprevalência de quatro níveis de evolução da \nescrita. A partir dessas duas afirmativas, assinale \na alternativa que pos sui um erro em sua \nelaboração.  \n(A) A aprendizagem da língua escrita depende, \nfundamentalmente, de habilidades consideradas \ncomo pré -requisitos para que a criança possa ser \nalfabetizada.  \n(B) No nível pré -silábico, podem aparecer \npseudoletras ou números.  \n(C) O fracasso ou o sucesso da alfabetização \ndepende da compreensão acerca do nível de \nevolução conceitual da criança.  \n(D) No nível silábico, a escrita pode ser traduzida \nem um dos mais importantes esquemas \nconstruídos pela criança, durante o seu \ndesenvolvimento.  \n(E) No nível silábico -alfabético, caso o adulto \nnão tenha uma compreensão correta sobre essa \netapa, poderá julgar que se trata de um \nretrocesso, ao achar que a criança está omitindo \nletras."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Ao analisar a produção de textos dos diferentes \ngêneros discursivos, é possível focalizar esses \ngêneros com base na textualidade e na \nmaterialidade do texto. Nesse contexto, observa -\nse as sequências textuais: descritiva, narrativa, \nargumentativa, explicativa, injuntiva e dialogal. \nA partir dessas sequências textuais, assinale a \nque corresponde ao seguinte efeito pretendido: \n“fazer o destinatário agir segundo uma direção \npara atingir um objetivo ”.",
+            "alternativas": {
+                "A": "Narrativa",
+                "B": "Descritiva",
+                "C": "Argumentativa",
+                "D": "Dialogal",
+                "E": "Injuntiva  \n QUESTÃO 31  \nO processo histórico da escrita acompanha a \nevolução da própria natureza humana, em que \nsão encontrados marcos que ratificam a \nexistência de padrões de escrita desde os \nprimórdios da humanidade. Retomando alguns \ndesses momentos, foram destacados certos \naspectos referentes à historicidade da escrita. \nAssinale a alternativa elaborada erroneamente.  \n(A) História da escrita no Egito – dentre as \nformas de escrita da civilização egípcia, destaca -\nse a escrita demótica que era formada por \ndesenhos e símbolos (escrita sagrada dos túmulos \ne templos).  \n(B) História da escrita na Roma Antiga – um \nestilo muito usado na escritura de Bíblias escritas \nera conhecido como escrita uncial, que perdurou \naté o século VIII.  \n(C) História da escrita na China – responsáveis \npela invenção do papel, o sistema de escrita dos \nchineses possui um símbolo para cada coisa \nchamado de sistema ideográfico.  \n(D) História da escrita na América Central – a \nescrita pertencente aos povos maias e aos astecas \nera chamada de escrita nahuatl, teve início a \npartir do século XIII, sendo que ainda não foi \npossível ser decifrada totalmente pelos \nhistoriadores.  \n(E) A escrita calcográfica era originária da Alta \nIdade Média Romana."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Os jogos e as brincadeiras têm importância \nratificada dentro dos parâmetros que normatizam \na Educação Infantil. Em função disso, para \npromover o pleno desenvolvimento da criança, as \npropostas pedagógicas das instituições de \nEducação Infantil devem respeitar os seguintes \nprincípios estéticos, exceto:",
+            "alternativas": {
+                "A": "Sensibilidade",
+                "B": "Objetividade",
+                "C": "Criatividade",
+                "D": "Ludicidade",
+                "E": "Manifestações artísticas e culturais  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 10 de 15 QUESTÃO 3 3 \nTrabalhar a prática pedagógica relacionada com \na resolução de problemas é um tema amplo que \nmerece tecer alguns constatações. Dessa forma, é \ninoportuna a seguinte afirmação:  \n(A) Uma primeira preocupação dos professores \nda Educação Infantil é quanto à forma de iniciar \nesse trabalho com crianças de três a quatro anos, \nsendo recomendável iniciar pela proposta mais \nsimples que é a problematização oral de situações \npróximas do alun o. Mesmo com as crianças mais \nvelhas, é recomendável iniciar pela proposta \nmais simples.  \n(B) Ao ler o problema para os alunos, ou com \neles, o professor deverá tentar facilitar o \nprocesso, por meio de uma leitura que dê as \npistas necessárias para a resolução do problema \nproposto.  \n(C) Se o objetivo for desenvolver todas as \nhabilidades envolvidas no processo de resolução \nde problemas de modo complementar ao \ndesenvolvimento da linguagem, da socialização, \ndo conhecimento de si mesmo e do espaço que \ncerca a criança, será preciso planeja r as ações \npara organizar de forma alternada tanto os tipos \nde problemas propostos como as dinâmicas de \nsala de aula.  \n(D) O desenvolvimento da compreensão e do uso \ndas diferentes linguagens – oral, gestual, \npictórica e textual – é muito importante dentro da \nproposta pedagógica de resolução de problemas.  \n(E) Depois da familiarização das crianças com as \nsituações -problema na linguagem mais simples, \nà medida que a criança ganha confiança em suas \nformas de pensar e busca estratégias mais \nprecisas para comunicar seus pensamentos, as \nmaneiras de propor e de res olver problemas \npodem ser mais elaboradas.  \n \n \n \n \n \n \n QUESTÃO 3 4 \nUma questão interessante a ser discutida, \nespecialmente no contexto matemático, é a \nabordagem da história da matemática para a \nmelhor compreensão de seus conteúdos. Dentro \ndessa sistemática, analise os enunciados \nposteriores e marque a alternativa correta.  \n(A) A história da matemática é um elemento que \npossibilita conhecer especificamente a teoria \nmatemática.  \n(B) Dentro do processo histórico da matemática, \no aluno é situado no espaço e, com isso, \ncompreende os aspectos geográfico -matemáticos \nde cada realidade.  \n(C) A prática do professor em sala de aula é \npreponderante, uma vez que nem todos \nprofessores conseguem relacionar a \ncontextualização do desenvolvimento histórico \nmatemático com a realidade atual e a projeção do \nfuturo.  \n(D) O processo histórico do conhecimento \nmatemático objetiva justificar a matemática do \npassado indo de encontro com a matemática de \nhoje.  \n(E) Uma vez que o conhecimento não é \nacumulativo, é importante analisar a \nhistoricidade de cada área específica do saber.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 11 de 15 QUESTÃO 3 5 \nPara facilitar a compreensão sobre o pensamento \ne a linguagem, os estudiosos estabelecem \nconceitos que trazem à tona diversas perspectivas \npresentes em cada fase de desenvolvimento \nlinguístico da criança. Um desses conceitos é a \nholofrase . O que significa isso?  \n(A) Combinação de um gesto e uma única \npalavra que transmite mais significado do que a \npalavra sozinha; frequentemente vista e ouvida \nentre 12 e 18 meses.  \n(B) Representa as primeiras frases criadas pela \nmaioria das crianças, que soam um pouco como \ntelegramas porque incluem substantivos e verbos \nessenciais, mas geralmente omitem todas as \npalavras e inflexões gramaticais.  \n(C) Representa a maneira como as crianças \npequenas aplicam regras básicas a palavras \nirregulares.  \n(D) Caracteriza uma opção padrão, por meio da \nqual uma criança entende a que se referem cada \npalavra.  \n(E) Caracteriza uma suposição de que toda \npalavra tem um significado diferente, isso leva \numa criança a supor que duas ou mais palavras \ndiferentes se referem a objetos diferentes."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Destaque a seguir o tipo de princípio que visa \ngarantir a todos os direito de aprender, \nreconhecendo que as crianças passam por ciclos \nde desenvolvimento e que as aprendizagens \nocorrem dentro desses ciclos.",
+            "alternativas": {
+                "A": "Princípio do desenvolvimento em ciclos.",
+                "B": "Princípio da aprendizagem seriada.",
+                "C": "Princípio da progressão continuada.",
+                "D": "Princípio do desenvolvimento em série.",
+                "E": "Princípio da aprendizagem em ciclos.  \n \n \n \n QUESTÃO 37  \nA avaliação qualitativa é ratificada por meio das \nafirmativas a seguir, salvo:  \n(A) Avaliação qualitativa tem por intuito coletar \ninformações e subsídios capazes de auxiliar a \ncompreensão sobre o desenvolvimento de cada \ncriança.  \n(B) Dentro da concepção qualitativa, a avaliação \nvai de encontro ao parâmetro métrico que se \npauta especificamente em critérios de medição, \ncomparação e julgamento.  \n(C) Por meio da avaliação qualitativa, é possível \nconstruir um diagnóstico que demonstre a real \nnecessidade de intervenção dependendo de cada \nsituação analisada.  \n(D) É possível realizar aprendizagem qualitativa, \nsem avaliar.  \n(E) A avaliação qualitativa é construída \nestritamente por critérios subjetivos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Qual o outro nome que pode ser atribuído ao \nportfólio de aprendizagem ou portfólio \npedagógico?",
+            "alternativas": {
+                "A": "Registro da avaliação de desempenho.",
+                "B": "Registro gráfico da estrutura pedagógica.",
+                "C": "Registro explicativo das normas da escola.",
+                "D": "Registro panorâmico do quadro docente.",
+                "E": "Registro planialtimétrico de projeção."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Com a chegada da idade moderna, o ser humano \npassou a ser mais valorizado. Por meio dos \navanços da medicina, observam -se novos estudos \nsobre as deficiências, objetivando estabelecer as \nrelações com questões de hereditariedade, \naspectos orgânicos, biotipolo gia etc. Nesse \ncenário, surge um tipo de paradigma, assinale -o:",
+            "alternativas": {
+                "A": "Integração",
+                "B": "Inclusão",
+                "C": "Segregação",
+                "D": "Exclusão",
+                "E": "Normalização  \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 12 de 15 QUESTÃO 40  \nA inclusão da pessoa com deficiência na \nsociedade depende da sistematização de ações, \nda quebra de paradigmas e da mudança \natitudinal. No caso específico da inclusão no \nambiente educacional, compete aos gestores e \neducadores a adoção de algumas posturas. Nesse \ncenário, complete o enunciado a seguir:  \nÉ papel dos gestores e dos educadores \ndesenvolver ações que proporcionem \nacolhimento à criança com sua diferença em \ntodos os âmbitos familiar, social e educacional, \nsem __________.  \n(A) integralização.  \n(B) imparcialidade.  \n(C) protecionismo.  \n(D) aproximação.  \n(E) equidade."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Dentro da legislação, a Política Nacional de \nEducação na Perspectiva da Educação Inclusiva \nestabelece como objetivo: assegurar a inclusão \nescolar de alunos com deficiência, transtornos \nglobais do desenvolvimento e altas \nhabilidades/superdotação, orientando  os sistemas \nde ensino para garantir alguns aspectos descritos \na seguir. Assinale a alternativa que não condiz de \nforma fidedigna aos aspectos definidos pela \nreferida política.",
+            "alternativas": {
+                "A": "Acesso ao ensino regular, com participação, \naprendizagem e continuidade nos níveis mais \nelevados do ensino.",
+                "B": "Transversalidade da modalidade de educação \nespecial desde a educação infantil até a educação \nsuperior.",
+                "C": "Oferta do atendimento educacional \nespecializado.",
+                "D": "Acessibilidade arquitetônica nos transportes, \nnos mobiliários, nas comunicações e informação.",
+                "E": "Articulação interdisciplinar na \nimplementação das políticas públicas.  \n QUESTÃO 42  \nSobre as disposições gerais da Educação Básica, \nde acordo com a Lei 9.394/96, assinale a \nalternativa em que a transcrição não seguiu de \nforma plena o conteúdo proposto pela referida \nLei. \n(A) São objetivos precípuos da Educação Básica \na alfabetização plena e a formação de leitores.  \n(B) A escola poderá reclassificar os alunos, \ninclusive quando se tratar de transferências entre \nestabelecimentos situados no País e no exterior, \ntendo como base as normas curriculares gerais.  \n(C) O calendário escolar deverá adequar -se às \npeculiaridades locais, inclusive climáticas e \neconômicas, a critério do respectivo sistema de \nensino, sem com isso reduzir o número de horas \nletivas previsto nesta Lei.  \n(D) Nos estabelecimentos que adotam a \nprogressão regular por série, o regimento escolar \ndeve observar a sequência do currículo e as \nnormas do respectivo sistema de ensino, por \nmeio do emprego da progressão total.  \n(E) Poderão organizar -se classes, ou turmas, com \nalunos de séries distintas, com níveis \nequivalentes de adiantamento na matéria, para o \nensino de línguas estrangeiras, artes, ou outros \ncomponentes curriculares."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Qual é o objeto definido para a creche e a pré -\nescola pelos Parâmetros Nacionais para a \nEducação Infantil?",
+            "alternativas": {
+                "A": "Ensino",
+                "B": "Aluno",
+                "C": "Professor",
+                "D": "Relações educativas",
+                "E": "Direção  \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 13 de 15 QUESTÃO 44  \nEm conformidade com as Diretrizes Curriculares \nda Educação Básica, como é manifestada a \neducação para todos?  \n(A) Por meio dos Parâmetros Curriculares \nNacionais.  \n(B) Por meio de diretrizes curriculares.  \n(C) Por meio de portarias do Ministério da \nEducação.  \n(D) Por meio de resoluções deliberativas.  \n(E) Por meio de movimentos sociais."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: De acordo com o artigo 11 do Estatuto da Criança \ne do Adolescente, é assegurado acesso integral às \nlinhas de cuidado voltadas à saúde da criança e \ndo adolescente por intermédio do Sistema Único \nde Saúde. Nesse contexto, é observado um \nprincípio em específi co no acesso a ações e \nserviços para a promoção, proteção e \nrecuperação da saúde. Que princípio é esse?",
+            "alternativas": {
+                "A": "Princípio da universalização.",
+                "B": "Princípio da equidade.",
+                "C": "Princípio da proteção integral.",
+                "D": "Princípio da justiça.",
+                "E": "Princípio do direito subjetivo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: De acordo com o Plano Nacional de Educação, \nem seu artigo 2º, além de propor a erradicação do \nanalfabetismo e a universalização do \natendimento escolar, dentre outras coisas, são \ndefinidas quatro formas de promoção almejadas \npelo respectivo plano. A seguir,  foram apontadas \nessas formas, assinale a alternativa que não \ncondiz com uma delas.",
+            "alternativas": {
+                "A": "Humanística",
+                "B": "Científica",
+                "C": "Cultural",
+                "D": "Social",
+                "E": "Tecnológica  QUESTÃO 47  \nA partir dos Referenciais Curriculares Nacionais \npara a Educação Infantil, é ratificada a \nimportância da brincadeira. Dentro do conteúdo \nrespectivo aos referenciais, sobre a brincadeira, é \nfalsa a afirmativa:  \n(A) A brincadeira é uma linguagem infantil que \nmantém um vínculo essencial com aquilo que é o \nnão brincar.  \n(B) A brincadeira é uma ação que ocorre no plano \nda imaginação, implicando que aquele que brinca \ntenha domínio da linguagem simbólica.  \n(C) Para brincar, é preciso apropriar -se de \nelementos da realidade imediata de tal forma a \natribuir -lhes novos significados.  \n(D) A ressignificação da realidade, por meio da \nbrincadeira, ocorre a partir da articulação entre \nimaginação e imitação da realidade.  \n(E) Nem toda brincadeira constitui uma imitação \ntransformada."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Complete o excerto extraído do Referencial \nCurricular Nacional para a Educação Infantil em \nrelação aos conteúdos conceituais.  \n“Os conteúdos conceituais referem -se à \nconstrução__________ das capacidades para \noperar com símbolos, ideias, imagens e \nrepresentações que permitem atribuir sentido à \nrealidade. Desde os conceitos mais simples até os \nmais complexos, a aprendizagem se dá po r meio \nde um processo de constantes idas e vindas, \navanços e recuos nos quais as crianças constroem \nideias provisórias, ampliam -nas e modificam -\nnas, aproximando -se gradualmente de \nconceitualizações cada vez mais precisas”.",
+            "alternativas": {
+                "A": "subjetiva",
+                "B": "ativa",
+                "C": "progressiva",
+                "D": "passiva",
+                "E": "objetiva  \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 14 de 15 QUESTÃO 49  \nDe acordo com os Parâmetros Curriculares \nNacionais (PCNs), a linguagem é uma ação \norientada por um finalidade específica; um \nprocesso de interlocução que se realiza nas \npráticas sociais existentes nos diferentes grupos \nde uma sociedade, nos distintos momentos da sua \nhistória. Como os PCNs definem essa ação?  \n(A) Interindividual  \n(B) Individual  \n(C) Coletiva  \n(D) Social  \n(E) Relacional"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: De acordo com os PCNs, a finalidade do ensino \nde Língua Portuguesa para os anos iniciais do \nensino fundamental é a expansão das \npossibilidades do uso da linguagem. Nesse \nsentido, relaciona -se as capacidades a serem \ndesenvolvidas com quatro habilidades \nlinguísticas básicas descritas a seguir. Assinale a \nalternativa incorreta.",
+            "alternativas": {
+                "A": "Falar",
+                "B": "Escutar",
+                "C": "Imaginar",
+                "D": "Ler",
+                "E": "Escrever  \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 15 de 15"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: De acordo com o texto, as mudanças climáticas \nque ocorreram no período de extinção da espécie \nde primatas G. blacki impactaram \nprincipalmente:",
+            "alternativas": {
+                "A": "a capacidade de convívio desses animais com \noutras espécies.",
+                "B": "a produção dos alimentos que faziam parte da \ndieta desses animais.",
+                "C": "o declínio dos ambientes de floresta aberta.",
+                "D": "a diminuição de árvores adequadas para a \nescalada desses animais.",
+                "E": "o aumento de pólen e outros elementos \nalérgenos com as mudanças na sazonalidade.  \n \n \nConsidere o excerto a seguir para responder \nàs questões 2, 3 e 4:  \n \nNão há nenhum esqueleto completo dessa \nespécie em seu arquivo fóssil, mas os \npesquisadores analisaram fósseis de dentes, \nossos da mandíbula inferior e amostras de pólen \ne sedimentos de cavernas em Guangxi para \nentender como as florestas passaram a produzir \nmenos frutas por volta de 600 mil anos atrás, \nquando ocorreram mais períodos  de secas.  \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 3 de 15 QUESTÃO 02  \nNo contexto apresentado, é possível afirmar que \na referência evocada pelo pronome possessivo \n“seu”:  \n(A) retoma apenas a equipe de pesquisadores.  \n(B) retoma apenas os primatas da espécie G. \nblacki . \n(C) introduz as cavernas em Guangxi.  \n(D) retoma apenas o pesquisador Renaud \nJoannes -Boyau.  \n(E) é ambígua, já que permite interpretar tanto \no(s) pesquisador(es) quanto os primatas como \nreferente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: No contexto apresentado, o vocábulo “mas” \nexprime, em relação à oração que o antecede, um \nsentido de:",
+            "alternativas": {
+                "A": "oposição.",
+                "B": "adição.",
+                "C": "concessão.",
+                "D": "explicação.",
+                "E": "comparação."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Em relação às classes gramaticais, as palavras \n“nenhum”, “menos”, “mais” e “secas”, no \ncontexto dado, classificam -se, respectivamente, \ncomo:",
+            "alternativas": {
+                "A": "pronome demonstrativo, advérbio, advérbio \ne substantivo.",
+                "B": "pronome indefinido, adjetivo, advérbio e \nadjetivo.",
+                "C": "pronome indefinido, advérbio, preposição e \nsubstantivo.",
+                "D": "pronome demonstrativo, adjetivo, advérbio e \nadjetivo.",
+                "E": "pronome indefinido, advérbio, advérbio e \nsubstantivo.  \n QUESTÃO 05  \nAnalise o excerto a seguir quanto à concordância \nverbal e nominal: “Cascas de árvores, juncos, \nflores e outros alimentos não nutritivos tornaram -\nse os alimentos dessa espécie que, diferente de \noutros primatas menores, não conseguia escalar \nárvores em busca  de comida.” Pode -se dizer que \no(s) elemento(s) que concorda(m) com o verbo \n“tornaram -se” e, portanto, constituem o sujeito \noracional é (são):  \n(A) “Cascas de árvores”.  \n(B) “os alimentos dessa espécie”.  \n(C) “Cascas de árvores, juncos, flores e outros \nalimentos não nutritivos”.  \n(D) “Cascas de árvores, juncos, flores e outros \nalimentos”.  \n(E) “outros alimentos não nutritivos”."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Analise as sentenças a seguir e assinale aquela \nem que ocorre(m) elemento(s) de coesão textual \nreferencial anafórica.",
+            "alternativas": {
+                "A": "O segredo para ter uma vida saudável é este: \nférias sempre que puder.",
+                "B": "Assistimos a filmes, comemos pipoca, \nconversamos. A noite ficou nisso.",
+                "C": "Maria sentia falta de sua mãe, pois era uma \ncriança muito manhosa.",
+                "D": "Caso as coisas piorem, então recorreremos \naos nossos pais.",
+                "E": "A vaga do carro do chefe é essa aí."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Analise as palavras apresentadas a seguir e \nassinale aquela em que não há inadequação no \nemprego do hífen.",
+            "alternativas": {
+                "A": "camisa -de-força.",
+                "B": "super -sônico.",
+                "C": "mal -habituado.",
+                "D": "auto -estima.",
+                "E": "ponto -e-vírgula.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 4 de 15 QUESTÃO 08  \nAnalise as sentenças a seguir. A palavra se ocorre \ncomo conjunção integrante apenas em:  \n(A) “Mas você adora um se.” (Djavan)  \n(B) Se você concordar, enviarei hoje mesmo os \ncontratos.  \n(C) Ela se queixa todos os dias de dores no \njoelho.   \n(D) Disse -me que não sabe se Ana está bem.  \n(E) “ Se não eu, quem vai fazer você feliz?” \n(Charlie Brown Jr.)"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Analise as sentenças a seguir. A palavra segundo  \nocorre como adjetivo apenas em:",
+            "alternativas": {
+                "A": "Você sempre será o amor de minha vida; \nnunca haverá um segundo .",
+                "B": "Com esse trabalho, será visto como um \nprofissional de segundo  escalão.",
+                "C": "Segundo  a polícia, todos os assaltantes foram \ncapturados.",
+                "D": "Os resultados da pesquisa são bastante \npromissores, segundo  informou a professora.",
+                "E": "Receberá seu salário no segundo dia do mês."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Analise as sentenças a seguir em relação à \ncolocação pronominal. A sentença que apresenta \ninadequação em relação à ênclise é:",
+            "alternativas": {
+                "A": "Sentei -me para esperar o táxi.",
+                "B": "Ana me pediu para colocá -la neste grupo de \ntrabalho.",
+                "C": "Eu tenho falado -lhe a respeito desses \nassuntos porque os considero importantes.",
+                "D": "Fizeram -na passar vergonha no colégio.",
+                "E": "Preciso encontrar alguém que possa ajudá -lo \ncom os exercícios de Química.  \n \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: 1 \nJoão usa um ventilador para tentar se refrescar no \nverão. Sabe -se que esse ventilador consome uma \npotência máxima de 140 W na velocidade \nmáxima. Na velocidade média, o ventilador \nconsome 80% da potência máxima e, na \nvelocidade baixa, ele consome 60% da potência \nmáxima. João utiliza o ventilador por 8 horas na \nvelocidade máxima, por 2 horas na velocidade \nmédia e por 2 hor as na velocidade baixa todos os \ndias. Quanta energia, em kWh (quilowatt -hora), \nJoão utiliza durante 30 dias, aproximadamente? \nConsidere que 1 kWh é a energia consumida por \num eletrodoméstico de 1000 W de potência \nutilizado durante 1 hora:",
+            "alternativas": {
+                "A": "68,7 kWh.",
+                "B": "65,3 kWh.",
+                "C": "54,8 kWh.",
+                "D": "51,6 kWh.",
+                "E": "45,4 kWh."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Janaína possui uma lixeira em formato cilíndrico \nna sua cozinha. Para comprar os sacos de lixo que \nmelhor se adequam a lixeira, ela fez algumas \nmedições com uma régua: ela verificou que a \nlixeira possui uma base cujo raio é 10 cm e altura \nde 40 cm. O saco de lixo que Janaína deve \ncomprar para a sua lixeira deve ter capacidade \nmínima de quantos litros? Considere que 1 cm³ \nequivale a 1 ml e que 𝜋≈3.",
+            "alternativas": {
+                "A": "15 litros.",
+                "B": "25 litros.",
+                "C": "10 litros.",
+                "D": "20 litros.",
+                "E": "12 litros.  \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 5 de 15 QUESTÃO 13 \nObserve as seguintes afirmações:  \n• A idade de Alan somada com a idade de \nBruno é a idade de Carlos mais 20;  \n• O dobro da idade de Alan subtraído da idade \nde Bruno é igual a 12.  \nSabendo que a idade de Carlos é 16 anos, qual é \no produto da idade de Alan pela idade de Bruno?  \n(A) 210.  \n(B) 320.  \n(C) 105.  \n(D) 250.  \n(E) 350."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Considere verdadeira a proposição condicional:  \n“Se João é bom em Estatística, então ele é bom \nem Matemática.”  \nA partir dessa proposição, também é verdade \nque:",
+            "alternativas": {
+                "A": "Se João for bom em Matemática, também \nserá bom em Estatística.",
+                "B": "Provavelmente João é bom em Matemática e \nEstatística.",
+                "C": "Ou João é bom em Matemática ou João é bom \nem Estatística.",
+                "D": "Se João não é bom em Matemática, então ele \nnão é bom em Estatística.",
+                "E": "João não é bom em Matemática, nem é bom \nem Estatística.  \n \n \n \n \n \n \n \n QUESTÃO 15 \nUm fazendeiro possui uma lavoura na forma de \num triângulo retângulo cujos catetos medem 4km \ne 3km. Sabendo que para cada quilômetro do \nperímetro da lavoura será necessário gastar R$ \n500,00 com a construção de um cercado, quanto \nserá necessário para cercar todo o perímetro da \nárea triangular?  \n(A) R$ 4.500,00.  \n(B) R$ 5.000,00.  \n(C) R$ 6.000,00.  \n(D) R$ 6.500,00.  \n(E) R$ 6.700,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: No manual de um veículo é recomendado que a \ncalibração dos pneus seja feita a cada 8 meses e \nque o líquido de arrefecimento seja trocado a \ncada 2 anos. Se em julho de 2023, a calibração \ndos pneus e a troca do líquido foram feitas, \nquando essas manutenções serão feitas juntas \nnovamente?",
+            "alternativas": {
+                "A": "Outubro de 2027.",
+                "B": "Agosto de 2028.",
+                "C": "Julho de 2029.",
+                "D": "Julho de 2025.",
+                "E": "Janeiro de 2029."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Considere que o IDEB (Índice de \nDesenvolvimento da Educação Básica) das \nescolas municipais de uma certa cidade foi de 6,0 \nem 2023 e que em 2022 o IDEB foi de 5,5. \nPodemos afirmar que o crescimento percentual \nno IDEB de 2022 para 2023 foi de \naproximadamente :",
+            "alternativas": {
+                "A": "5%.",
+                "B": "6%.",
+                "C": "7%.",
+                "D": "8%.",
+                "E": "9%.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 6 de 15 QUESTÃO 18 \nUm vendedor conseguiu realizar suas vendas \ndurante 7 meses conforme a tabela abaixo.  \nMês Valor Vendido (R$)  \nJunho  21.000,00  \nJulho  18.000,00  \nAgosto  15.000,00  \nSetembro  X \nOutubro  17.500,00  \nNovembro  19.500,00  \nDezembro  20.000,00  \n \nSabendo que a média do valor vendido na tabela \napresentada é R$ 19.000,00, qual deve ser o valor \nde X?  \n(A) R$ 20.000,00.  \n(B) R$ 21.000,00.  \n(C) R$ 22.000,00.  \n(D) R$ 22.500,00.  \n(E) R$ 23.000,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Cinco amigos compraram uma pizza em formato \ncircular e dividiram -na em cinco fatias iguais. \nCada fatia é um setor circular da pizza original. \nIndique o ângulo de cada setor circular:",
+            "alternativas": {
+                "A": "72º.",
+                "B": "75º.",
+                "C": "80º.",
+                "D": "81º.",
+                "E": "90º.  \n \n \n \n \n \n QUESTÃO 20 \nMarcus possui 12 camisas e 8 calças e deseja \norganizá -las em prateleiras de modo que em cada \nprateleira haja ou apenas camisas ou apenas \ncalças, mas que cada prateleira tenha sempre o \nmesmo número de peças. Ademais ele deseja \nacomodar o máximo possível de peças em cada \nprateleira. Desse modo, quantas peças deverão \nser colocadas em cada prateleira?  \n(A) 2.  \n(B) 6.  \n(C) 5.  \n(D) 4.  \n(E) 3.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Acerca das funções do MS -Excel, analise as \nafirmativas abaixo:  \nI - A combinação de colunas, linhas e células cria \numa estrutura tabular que facilita a organização e \nanálise de dados no Excel.  \nII - Essa grade é fundamental para criar planilhas \nque podem conter uma variedade de \ninformações, desde simples listas até complexas \nanálises financeiras e relatórios.",
+            "alternativas": {
+                "A": "As asserções I e II são proposições \nverdadeiras, mas a II não é uma justificativa da I.",
+                "B": "A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.",
+                "C": "As asserções I e II são proposições \nverdadeiras, e a II é uma justificativa da I.",
+                "D": "As asserções I e II são proposições falsas.",
+                "E": "A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.  \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 7 de 15 QUESTÃO 22  \nAnalise as imagens a seguir:  \nI: \n \nII: \n \nAgora, considere as afirmações abaixo:  \n( ) Ambas as imagens representam softwares que \nintegram a suíte Microsoft Office.  \n( ) A imagem “II” representa um software que \npermite enviar, receber e organizar emails. Sendo \npossível criar, responder, encaminhar e arquivar \nmensagens de email de forma eficiente.  \n( ) A imagem “I” pode ser classificada como uma \npasta, uma pasta é um contêiner para armazenar \ne organizar arquivos e outras pastas. Ela é uma \nestrutura de organização básica usada para \ngerenciar o conteúdo do disco rígido ou de outros \ndispositivos de arma zenamento.  \nIndique “V” para verdadeiro e “F” para falso.  \n(A) F, F, F.  \n(B) F, V, V.  \n(C) V, V, V.  \n(D) F, V, F.  \n(E) V, F, V.  \n \n \n \n \n \n \n QUESTÃO 23  \nEm um dia agitado no escritório, Rodriguez, um \nengenheiro de dados, recebeu a missão de criar \num relatório detalhado sobre a eficiência dos \nsistemas da empresa. Com dados dispersos, ele \nprecisou recorrer a uma ferramenta para \norganizar informações em colunas, utilizando \nfórmulas para cálculos automáticos.  \nDiante do caso narrado, qual ferramenta do \npacote Office 2016, é mais indicada para \nRodriguez desenvolver sua tarefa com êxito?  \n(A) Excel.  \n(B) PowerPoint.  \n(C) Windows.  \n(D) Outlook.  \n(E) Word."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: A função \"Mesclar e Centralizar\" no Excel é uma \noperação que combina células selecionadas em \numa única célula e centraliza o conteúdo \nresultante. Diante do contexto apresentado, \nassinale a alternativa que representa o botão \n\"Mesclar e Centralizar\" do Excel.",
+            "alternativas": {
+                "A": "(B)  \n \n(C)  \n \n(D)  \n \n(E)  \n \n \nPrefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 8 de 15 QUESTÃO 25  \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Nesse \ncontexto, são palavras que integram o significado \nde URL:  \nI - Uniform.  \nII - User.  \nIII - Resource  \nIV - Lover.  \nV - Locator.  \n(A) I, II e III, apenas.",
+                "B": "I, III e V, apenas.",
+                "C": "II e III, apenas.",
+                "D": "I, II e V, apenas.",
+                "E": "Nenhuma das afirmativas estão corretas.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: O pensamento e a linguagem são aspectos \nextremamente relevantes a serem considerados \nquando são analisadas as variáveis intervenientes \nno contexto socioeducacional. Em função disso, \né importante compreender o que a literatura \nabarca sobre o tema, sendo ver dadeiros os \nenunciados a seguir, exceto:",
+            "alternativas": {
+                "A": "O uso de signos pela criança representa o \neixo central da função planejadora da linguagem.",
+                "B": "A compreensão da constituição social do \nsujeito é pautada na perspectiva dialógica.",
+                "C": "O sujeito (nesse caso a criança) não pode ser \nconsiderado como um organismo biológico \nabstrato.",
+                "D": "A linguagem, a partir da significação da \npalavra, envolve elementos verbais e não verbais, \nmarcada pela polissemia.",
+                "E": "Ao mesmo tempo, estão presentes na fala não \napenas a palavra do locutor, mas a monofonia.  \n \n \n QUESTÃO 27  \nSão premissas verdadeiras sobre o pensamento e \na linguagem, exceto:  \n(A) Na fase inicial, o pensamento se desenvolve \nsem a linguagem.  \n(B) Ao estabelecer um comparativo entre o \nestágio pré -linguístico e o estágio pré -intelectual, \nobserva -se que esses dois estágios são sempre \ndependentes.  \n(C) A organização linguístico -cognitiva marca o \nencontro entre o pensamento e a fala \n(linguagem).  \n(D) A relação entre pensamento e linguagem é \num processo vivo, não é algo já formado e \nconstante.  \n(E) A relação entre pensamento e linguagem só \npode ser compreendida a partir da natureza \npsicológica da fala interior, que não é exatamente \numa fala, mas uma atividade intelectual e \nafetivo -volativa."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Ao longo do processo de aprendizagem e ensino \nda escrita e da leitura, dois conceitos são \nconsiderados preponderantes para esse \naprendizado: alfabetização e letramento. No \nentanto, apesar de amplamente abordados, ainda \né possível que haja dúvidas sobre a a mplitude de \ncada um deles. Logo, marque a alternativa em \nque o conceito definido apresenta um erro \ninterpretativo.",
+            "alternativas": {
+                "A": "Alfabetização é a aquisição do código da \nescrita e da leitura.",
+                "B": "As relações estabelecidas entre sons e letras, \nbem como a compreensão sobre as unidades \nmenores que compõem o sistema de escrita \nrepresentam o letramento.",
+                "C": "O letramento é a utilização prática -social da \nleitura e da escrita.",
+                "D": "É necessário ratificar a importância de \nconsiderar as especificidades da aquisição da \ntécnica somada à prática social.",
+                "E": "Alfabetização e letramento não são pré -\nrequisitos um do outro, mas aprendizagens que \nacontecem simultaneamente.  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 9 de 15 QUESTÃO 29  \nNa literatura, é possível verificar que alguns \naspectos psicolinguísticos interferem o processo \nde alfabetização. Além disso, observa -se a \nprevalência de quatro níveis de evolução da \nescrita. A partir dessas duas afirmativas, assinale \na alternativa que pos sui um erro em sua \nelaboração.  \n(A) A aprendizagem da língua escrita depende, \nfundamentalmente, de habilidades consideradas \ncomo pré -requisitos para que a criança possa ser \nalfabetizada.  \n(B) No nível pré -silábico, podem aparecer \npseudoletras ou números.  \n(C) O fracasso ou o sucesso da alfabetização \ndepende da compreensão acerca do nível de \nevolução conceitual da criança.  \n(D) No nível silábico, a escrita pode ser traduzida \nem um dos mais importantes esquemas \nconstruídos pela criança, durante o seu \ndesenvolvimento.  \n(E) No nível silábico -alfabético, caso o adulto \nnão tenha uma compreensão correta sobre essa \netapa, poderá julgar que se trata de um \nretrocesso, ao achar que a criança está omitindo \nletras."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Ao analisar a produção de textos dos diferentes \ngêneros discursivos, é possível focalizar esses \ngêneros com base na textualidade e na \nmaterialidade do texto. Nesse contexto, observa -\nse as sequências textuais: descritiva, narrativa, \nargumentativa, explicativa, injuntiva e dialogal. \nA partir dessas sequências textuais, assinale a \nque corresponde ao seguinte efeito pretendido: \n“fazer o destinatário agir segundo uma direção \npara atingir um objetivo ”.",
+            "alternativas": {
+                "A": "Narrativa",
+                "B": "Descritiva",
+                "C": "Argumentativa",
+                "D": "Dialogal",
+                "E": "Injuntiva  \n QUESTÃO 31  \nO processo histórico da escrita acompanha a \nevolução da própria natureza humana, em que \nsão encontrados marcos que ratificam a \nexistência de padrões de escrita desde os \nprimórdios da humanidade. Retomando alguns \ndesses momentos, foram destacados certos \naspectos referentes à historicidade da escrita. \nAssinale a alternativa elaborada erroneamente.  \n(A) História da escrita no Egito – dentre as \nformas de escrita da civilização egípcia, destaca -\nse a escrita demótica que era formada por \ndesenhos e símbolos (escrita sagrada dos túmulos \ne templos).  \n(B) História da escrita na Roma Antiga – um \nestilo muito usado na escritura de Bíblias escritas \nera conhecido como escrita uncial, que perdurou \naté o século VIII.  \n(C) História da escrita na China – responsáveis \npela invenção do papel, o sistema de escrita dos \nchineses possui um símbolo para cada coisa \nchamado de sistema ideográfico.  \n(D) História da escrita na América Central – a \nescrita pertencente aos povos maias e aos astecas \nera chamada de escrita nahuatl, teve início a \npartir do século XIII, sendo que ainda não foi \npossível ser decifrada totalmente pelos \nhistoriadores.  \n(E) A escrita calcográfica era originária da Alta \nIdade Média Romana."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Os jogos e as brincadeiras têm importância \nratificada dentro dos parâmetros que normatizam \na Educação Infantil. Em função disso, para \npromover o pleno desenvolvimento da criança, as \npropostas pedagógicas das instituições de \nEducação Infantil devem respeitar os seguintes \nprincípios estéticos, exceto:",
+            "alternativas": {
+                "A": "Sensibilidade",
+                "B": "Objetividade",
+                "C": "Criatividade",
+                "D": "Ludicidade",
+                "E": "Manifestações artísticas e culturais  Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 10 de 15 QUESTÃO 3 3 \nTrabalhar a prática pedagógica relacionada com \na resolução de problemas é um tema amplo que \nmerece tecer alguns constatações. Dessa forma, é \ninoportuna a seguinte afirmação:  \n(A) Uma primeira preocupação dos professores \nda Educação Infantil é quanto à forma de iniciar \nesse trabalho com crianças de três a quatro anos, \nsendo recomendável iniciar pela proposta mais \nsimples que é a problematização oral de situações \npróximas do alun o. Mesmo com as crianças mais \nvelhas, é recomendável iniciar pela proposta \nmais simples.  \n(B) Ao ler o problema para os alunos, ou com \neles, o professor deverá tentar facilitar o \nprocesso, por meio de uma leitura que dê as \npistas necessárias para a resolução do problema \nproposto.  \n(C) Se o objetivo for desenvolver todas as \nhabilidades envolvidas no processo de resolução \nde problemas de modo complementar ao \ndesenvolvimento da linguagem, da socialização, \ndo conhecimento de si mesmo e do espaço que \ncerca a criança, será preciso planeja r as ações \npara organizar de forma alternada tanto os tipos \nde problemas propostos como as dinâmicas de \nsala de aula.  \n(D) O desenvolvimento da compreensão e do uso \ndas diferentes linguagens – oral, gestual, \npictórica e textual – é muito importante dentro da \nproposta pedagógica de resolução de problemas.  \n(E) Depois da familiarização das crianças com as \nsituações -problema na linguagem mais simples, \nà medida que a criança ganha confiança em suas \nformas de pensar e busca estratégias mais \nprecisas para comunicar seus pensamentos, as \nmaneiras de propor e de res olver problemas \npodem ser mais elaboradas.  \n \n \n \n \n \n \n QUESTÃO 3 4 \nUma questão interessante a ser discutida, \nespecialmente no contexto matemático, é a \nabordagem da história da matemática para a \nmelhor compreensão de seus conteúdos. Dentro \ndessa sistemática, analise os enunciados \nposteriores e marque a alternativa correta.  \n(A) A história da matemática é um elemento que \npossibilita conhecer especificamente a teoria \nmatemática.  \n(B) Dentro do processo histórico da matemática, \no aluno é situado no espaço e, com isso, \ncompreende os aspectos geográfico -matemáticos \nde cada realidade.  \n(C) A prática do professor em sala de aula é \npreponderante, uma vez que nem todos \nprofessores conseguem relacionar a \ncontextualização do desenvolvimento histórico \nmatemático com a realidade atual e a projeção do \nfuturo.  \n(D) O processo histórico do conhecimento \nmatemático objetiva justificar a matemática do \npassado indo de encontro com a matemática de \nhoje.  \n(E) Uma vez que o conhecimento não é \nacumulativo, é importante analisar a \nhistoricidade de cada área específica do saber.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 11 de 15 QUESTÃO 3 5 \nPara facilitar a compreensão sobre o pensamento \ne a linguagem, os estudiosos estabelecem \nconceitos que trazem à tona diversas perspectivas \npresentes em cada fase de desenvolvimento \nlinguístico da criança. Um desses conceitos é a \nholofrase . O que significa isso?  \n(A) Combinação de um gesto e uma única \npalavra que transmite mais significado do que a \npalavra sozinha; frequentemente vista e ouvida \nentre 12 e 18 meses.  \n(B) Representa as primeiras frases criadas pela \nmaioria das crianças, que soam um pouco como \ntelegramas porque incluem substantivos e verbos \nessenciais, mas geralmente omitem todas as \npalavras e inflexões gramaticais.  \n(C) Representa a maneira como as crianças \npequenas aplicam regras básicas a palavras \nirregulares.  \n(D) Caracteriza uma opção padrão, por meio da \nqual uma criança entende a que se referem cada \npalavra.  \n(E) Caracteriza uma suposição de que toda \npalavra tem um significado diferente, isso leva \numa criança a supor que duas ou mais palavras \ndiferentes se referem a objetos diferentes."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Destaque a seguir o tipo de princípio que visa \ngarantir a todos os direito de aprender, \nreconhecendo que as crianças passam por ciclos \nde desenvolvimento e que as aprendizagens \nocorrem dentro desses ciclos.",
+            "alternativas": {
+                "A": "Princípio do desenvolvimento em ciclos.",
+                "B": "Princípio da aprendizagem seriada.",
+                "C": "Princípio da progressão continuada.",
+                "D": "Princípio do desenvolvimento em série.",
+                "E": "Princípio da aprendizagem em ciclos.  \n \n \n \n QUESTÃO 37  \nA avaliação qualitativa é ratificada por meio das \nafirmativas a seguir, salvo:  \n(A) Avaliação qualitativa tem por intuito coletar \ninformações e subsídios capazes de auxiliar a \ncompreensão sobre o desenvolvimento de cada \ncriança.  \n(B) Dentro da concepção qualitativa, a avaliação \nvai de encontro ao parâmetro métrico que se \npauta especificamente em critérios de medição, \ncomparação e julgamento.  \n(C) Por meio da avaliação qualitativa, é possível \nconstruir um diagnóstico que demonstre a real \nnecessidade de intervenção dependendo de cada \nsituação analisada.  \n(D) É possível realizar aprendizagem qualitativa, \nsem avaliar.  \n(E) A avaliação qualitativa é construída \nestritamente por critérios subjetivos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Qual o outro nome que pode ser atribuído ao \nportfólio de aprendizagem ou portfólio \npedagógico?",
+            "alternativas": {
+                "A": "Registro da avaliação de desempenho.",
+                "B": "Registro gráfico da estrutura pedagógica.",
+                "C": "Registro explicativo das normas da escola.",
+                "D": "Registro panorâmico do quadro docente.",
+                "E": "Registro planialtimétrico de projeção."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Com a chegada da idade moderna, o ser humano \npassou a ser mais valorizado. Por meio dos \navanços da medicina, observam -se novos estudos \nsobre as deficiências, objetivando estabelecer as \nrelações com questões de hereditariedade, \naspectos orgânicos, biotipolo gia etc. Nesse \ncenário, surge um tipo de paradigma, assinale -o:",
+            "alternativas": {
+                "A": "Integração",
+                "B": "Inclusão",
+                "C": "Segregação",
+                "D": "Exclusão",
+                "E": "Normalização  \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 12 de 15 QUESTÃO 40  \nA inclusão da pessoa com deficiência na \nsociedade depende da sistematização de ações, \nda quebra de paradigmas e da mudança \natitudinal. No caso específico da inclusão no \nambiente educacional, compete aos gestores e \neducadores a adoção de algumas posturas. Nesse \ncenário, complete o enunciado a seguir:  \nÉ papel dos gestores e dos educadores \ndesenvolver ações que proporcionem \nacolhimento à criança com sua diferença em \ntodos os âmbitos familiar, social e educacional, \nsem __________.  \n(A) integralização.  \n(B) imparcialidade.  \n(C) protecionismo.  \n(D) aproximação.  \n(E) equidade."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Dentro da legislação, a Política Nacional de \nEducação na Perspectiva da Educação Inclusiva \nestabelece como objetivo: assegurar a inclusão \nescolar de alunos com deficiência, transtornos \nglobais do desenvolvimento e altas \nhabilidades/superdotação, orientando  os sistemas \nde ensino para garantir alguns aspectos descritos \na seguir. Assinale a alternativa que não condiz de \nforma fidedigna aos aspectos definidos pela \nreferida política.",
+            "alternativas": {
+                "A": "Acesso ao ensino regular, com participação, \naprendizagem e continuidade nos níveis mais \nelevados do ensino.",
+                "B": "Transversalidade da modalidade de educação \nespecial desde a educação infantil até a educação \nsuperior.",
+                "C": "Oferta do atendimento educacional \nespecializado.",
+                "D": "Acessibilidade arquitetônica nos transportes, \nnos mobiliários, nas comunicações e informação.",
+                "E": "Articulação interdisciplinar na \nimplementação das políticas públicas.  \n QUESTÃO 42  \nSobre as disposições gerais da Educação Básica, \nde acordo com a Lei 9.394/96, assinale a \nalternativa em que a transcrição não seguiu de \nforma plena o conteúdo proposto pela referida \nLei. \n(A) São objetivos precípuos da Educação Básica \na alfabetização plena e a formação de leitores.  \n(B) A escola poderá reclassificar os alunos, \ninclusive quando se tratar de transferências entre \nestabelecimentos situados no País e no exterior, \ntendo como base as normas curriculares gerais.  \n(C) O calendário escolar deverá adequar -se às \npeculiaridades locais, inclusive climáticas e \neconômicas, a critério do respectivo sistema de \nensino, sem com isso reduzir o número de horas \nletivas previsto nesta Lei.  \n(D) Nos estabelecimentos que adotam a \nprogressão regular por série, o regimento escolar \ndeve observar a sequência do currículo e as \nnormas do respectivo sistema de ensino, por \nmeio do emprego da progressão total.  \n(E) Poderão organizar -se classes, ou turmas, com \nalunos de séries distintas, com níveis \nequivalentes de adiantamento na matéria, para o \nensino de línguas estrangeiras, artes, ou outros \ncomponentes curriculares."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Qual é o objeto definido para a creche e a pré -\nescola pelos Parâmetros Nacionais para a \nEducação Infantil?",
+            "alternativas": {
+                "A": "Ensino",
+                "B": "Aluno",
+                "C": "Professor",
+                "D": "Relações educativas",
+                "E": "Direção  \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 13 de 15 QUESTÃO 44  \nEm conformidade com as Diretrizes Curriculares \nda Educação Básica, como é manifestada a \neducação para todos?  \n(A) Por meio dos Parâmetros Curriculares \nNacionais.  \n(B) Por meio de diretrizes curriculares.  \n(C) Por meio de portarias do Ministério da \nEducação.  \n(D) Por meio de resoluções deliberativas.  \n(E) Por meio de movimentos sociais."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: De acordo com o artigo 11 do Estatuto da Criança \ne do Adolescente, é assegurado acesso integral às \nlinhas de cuidado voltadas à saúde da criança e \ndo adolescente por intermédio do Sistema Único \nde Saúde. Nesse contexto, é observado um \nprincípio em específi co no acesso a ações e \nserviços para a promoção, proteção e \nrecuperação da saúde. Que princípio é esse?",
+            "alternativas": {
+                "A": "Princípio da universalização.",
+                "B": "Princípio da equidade.",
+                "C": "Princípio da proteção integral.",
+                "D": "Princípio da justiça.",
+                "E": "Princípio do direito subjetivo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: De acordo com o Plano Nacional de Educação, \nem seu artigo 2º, além de propor a erradicação do \nanalfabetismo e a universalização do \natendimento escolar, dentre outras coisas, são \ndefinidas quatro formas de promoção almejadas \npelo respectivo plano. A seguir,  foram apontadas \nessas formas, assinale a alternativa que não \ncondiz com uma delas.",
+            "alternativas": {
+                "A": "Humanística",
+                "B": "Científica",
+                "C": "Cultural",
+                "D": "Social",
+                "E": "Tecnológica  QUESTÃO 47  \nA partir dos Referenciais Curriculares Nacionais \npara a Educação Infantil, é ratificada a \nimportância da brincadeira. Dentro do conteúdo \nrespectivo aos referenciais, sobre a brincadeira, é \nfalsa a afirmativa:  \n(A) A brincadeira é uma linguagem infantil que \nmantém um vínculo essencial com aquilo que é o \nnão brincar.  \n(B) A brincadeira é uma ação que ocorre no plano \nda imaginação, implicando que aquele que brinca \ntenha domínio da linguagem simbólica.  \n(C) Para brincar, é preciso apropriar -se de \nelementos da realidade imediata de tal forma a \natribuir -lhes novos significados.  \n(D) A ressignificação da realidade, por meio da \nbrincadeira, ocorre a partir da articulação entre \nimaginação e imitação da realidade.  \n(E) Nem toda brincadeira constitui uma imitação \ntransformada."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Complete o excerto extraído do Referencial \nCurricular Nacional para a Educação Infantil em \nrelação aos conteúdos conceituais.  \n“Os conteúdos conceituais referem -se à \nconstrução__________ das capacidades para \noperar com símbolos, ideias, imagens e \nrepresentações que permitem atribuir sentido à \nrealidade. Desde os conceitos mais simples até os \nmais complexos, a aprendizagem se dá po r meio \nde um processo de constantes idas e vindas, \navanços e recuos nos quais as crianças constroem \nideias provisórias, ampliam -nas e modificam -\nnas, aproximando -se gradualmente de \nconceitualizações cada vez mais precisas”.",
+            "alternativas": {
+                "A": "subjetiva",
+                "B": "ativa",
+                "C": "progressiva",
+                "D": "passiva",
+                "E": "objetiva  \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 14 de 15 QUESTÃO 49  \nDe acordo com os Parâmetros Curriculares \nNacionais (PCNs), a linguagem é uma ação \norientada por um finalidade específica; um \nprocesso de interlocução que se realiza nas \npráticas sociais existentes nos diferentes grupos \nde uma sociedade, nos distintos momentos da sua \nhistória. Como os PCNs definem essa ação?  \n(A) Interindividual  \n(B) Individual  \n(C) Coletiva  \n(D) Social  \n(E) Relacional"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: De acordo com os PCNs, a finalidade do ensino \nde Língua Portuguesa para os anos iniciais do \nensino fundamental é a expansão das \npossibilidades do uso da linguagem. Nesse \nsentido, relaciona -se as capacidades a serem \ndesenvolvidas com quatro habilidades \nlinguísticas básicas descritas a seguir. Assinale a \nalternativa incorreta.",
+            "alternativas": {
+                "A": "Falar",
+                "B": "Escutar",
+                "C": "Imaginar",
+                "D": "Ler",
+                "E": "Escrever  \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nPROFESSOR DE ENSINO BÁSICO I                                                                                                           Página 15 de 15"
+            },
+            "resposta_correta": "B"
+        }
+    ]
+}

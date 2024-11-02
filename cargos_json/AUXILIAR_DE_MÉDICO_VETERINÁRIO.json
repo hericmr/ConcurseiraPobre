@@ -1,3 +1,354 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc4e75579c5d763bee5423ece2e4341655e076f76ff7199c0e4eecbea2bdf901
-size 28910
+{
+    "AUXILIAR DE MÉDICO VETERINÁRIO": [
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 1: De acordo com o texto, a diferença na formação \ndo diamante rosa em comparação com os demais \ntipos, que o torna um mineral raro, se dá em \ndecorrência da:",
+            "alternativas": {
+                "A": "menor intensidade de forças de calor e \npressão.",
+                "B": "interação de carbono com boro.",
+                "C": "interação do carbono com enxofre.",
+                "D": "distorção em sua estrutura que altera \ncaracterísticas da luz refletida pelo diamante.",
+                "E": "interação do carbono com nitrogênio."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 2: Considere o excerto: “Embora o continente que \nse tornaria a Austrália não tenha se dividido, a \nárea onde Argyle está situada foi esticada”. No \ncontexto em que ocorre, a oração iniciada pela \nconjunção “embora” exprime um sentido de:",
+            "alternativas": {
+                "A": "adversidade.",
+                "B": "proporcionalidade.",
+                "C": "causalidade.",
+                "D": "condicionalidade.",
+                "E": "concessividade."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 3: Em relação à coesão, no excerto “A pesquisa é \ninteressante não só por dar mais pistas sobre a \norigem dos diamantes rosas, mas também por \napontar possíveis condições para a exploração de \nnovas minas.”, a expressão “ não só… mas \ntambém” funciona como:",
+            "alternativas": {
+                "A": "operador argumentativo de adição.",
+                "B": "operador argumentativo de oposição.",
+                "C": "operador argumentativo de explicação.",
+                "D": "operador argumentativo de proporção.",
+                "E": "operador argumentativo de conclusão.  QUESTÃO 04  \nConsidere as palavras I. supercontinente, II. \npedrinhas e III. cientistas, que ocorrem no texto. \nEm relação aos processos de formação, aquela(s) \nque apresenta(m) prefixo derivacional é (são):  \n \n(A) I.  \n(B) II.  \n(C) III.  \n(D) I e II.  \n(E) II e III."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 4: Considere o excerto: “Essa é a nova hipótese para \nexplicar como esses minerais – muito mais raros \nque diamantes comuns – se formaram na \nAustrália.” Quanto às classes gramaticais, as \npalavras “essa”, “hipótese”, “raros” e “se” \nclassificam -se, respectivamente, como:",
+            "alternativas": {
+                "A": "pronome relativo, substantivo, adjetivo e \npronome reflexivo.",
+                "B": "pronome demonstrativo, adjetivo, adjetivo e \npronome reflexivo.",
+                "C": "pronome demonstrativo, substantivo, \nadjetivo e pronome reflexivo.",
+                "D": "pronome demonstrativo, substantivo, \nsubstantivo e pronome reflexivo.",
+                "E": "pronome demonstrativo, substantivo, \nadjetivo e conjunção integrante . \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE MÉDICO VETERINÁRIO                                                                                                      Página 4 de 12 QUESTÃO 06  \nConsidere as seguintes sentenças, retiradas do \ntexto:  \nI. “Só uma minoria é destinada a joias (até porque \nnem todos têm as características necessárias para \nfazê-las)”  \nII. “os pesquisadores descobriram que um grande \ndepósito de diamantes rosa se formou há 1,3 \nbilhões de anos”  \nEm relação à colocação dos pronomes oblíquos, \nnas sentenças dadas observa -se, \nrespectivamente:  \n \n(A) ênclise e próclise.  \n(B) ênclise e ênclise.  \n(C) próclise e ênclise.   \n(D) próclise e  mesóclise.  \n(E) mesóclise e próclise."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 5: Considere o excerto: “Para que isso aconteça, ele \ntem que ser submetido a forças intensas de calor \ne pressão.” No contexto apresentado, ocorre(m) \napenas pronome(s) do( s) tipo(s):",
+            "alternativas": {
+                "A": "demonstrativo e pessoal.",
+                "B": "demonstrativo.",
+                "C": "pessoal.",
+                "D": "relativo.",
+                "E": "indefinido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 6: Considere a seguinte sentença: “Avistaram \nalguns homens conduzindo uma cáfila até o \nlago.” Nesse contexto, a palavra “cáfila” se refere \na:",
+            "alternativas": {
+                "A": "um grupo de lobos.",
+                "B": "um grupo de porcos.",
+                "C": "um grupo de camelos.",
+                "D": "um grupo de búfalos.",
+                "E": "um grupo de cabras.  QUESTÃO 09  \nAssinale a alternativa em que a sentença \napresenta apenas voz ativa.   \n(A) O garoto foi atacado por dois cachorros.   \n(B) Encontravam -se cinzas no chão após as \nfestas.  \n(C) O homem suicidou -se em sua própria casa.  \n(D) Um gato foi resgatado na estrada.   \n(E) Pedro e Maria deram uma festa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a palavra “que” atua como pronome \ninterrogativo.",
+            "alternativas": {
+                "A": "Que desânimo!",
+                "B": "Fiquei feliz que você veio.",
+                "C": "O que você fez ontem?",
+                "D": "Ele deduz que foi traído pela  esposa.",
+                "E": "Não há perdão para o que você fez.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 8: Considere a seguinte sequência lógica \nnumérica:  \n \n1\n2,1,3\n2,2,5\n2,3,7\n2,…  \n \nObservando o padrão da sequência, podemos \nafirmar que o centésimo termo dessa sequência \né:",
+            "alternativas": {
+                "A": "101/2.",
+                "B": "99/2.",
+                "C": "51/2.",
+                "D": "100.",
+                "E": "50.Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE MÉDICO VETERINÁRIO                                                                                                      Página 5 de 12 QUESTÃO 12 \nO gráfico abaixo mostra a população e o número de domicílios ocupados por classe de densidade \npopulacional  \n \n \nFonte: Adaptado do Censo Demográfico 2010 - IBGE  \nAnalisando o gráfico, quantos por cento dos domicílios ocupados estão situados em regiões cuja \ndensidade populacional é superior a 5000 habitantes por quilômetro quadrado aproximadamente?  \n(A) 21,0%.  \n(B) 28,0%.  \n(C) 27,5%.  \n(D) 26,8%.  \n(E) 38,9%."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 9: Um químico misturou uma certa quantidade de cloro em água, mas por descuido esqueceu de anotar \nas respectivas quantidades das substâncias. Para não perder o seu trabalho, ele fez um experimento \npara determinar a proporção entre cloro e água, em volume, que  encontrou ser 1/5. Além disso, ele \nsabe que o volume final da mistura é 1,2 litro. Quanto de cloro ele usou nesta mistura?",
+            "alternativas": {
+                "A": "200 ml.",
+                "B": "400 ml.",
+                "C": "600 ml.",
+                "D": "800 ml.",
+                "E": "1000 ml.  \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE MÉDICO VETERINÁRIO                                                                                                      Página 6 de 12 QUESTÃO 14 \nObserve a seguinte sequência lógica figural:  \n \nConforme as correspondências abaixo, indique o elemento faltante (marcado com símbolo de \ninterrogação):  \n \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 10: Um fazendeiro tem 80 hectares de terra onde ele planta milho. Cada hectare ele consegue produzir 6 \ntoneladas de milho, no qual ele ensaca em sacos de 60 kg, e vende a R$ 60,00 R$/saco. Qual o valor \narrecadado numa colheita completa da sua plantação, em reais?",
+            "alternativas": {
+                "A": "4,8 mil.",
+                "B": "48 mil.",
+                "C": "480 mil.",
+                "D": "4,8 milhões.",
+                "E": "48 milhões.  \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE MÉDICO VETERINÁRIO                                                                                                      Página 7 de 12 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 11: O Microsoft Outlook 2016 é um cliente de email \nque permite configurar e gerenciar várias contas \nde email em um único local. Neste sentido, \npode -se afirmar que o Outlook:  \nI - Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente.  \nII - Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais.  \nIII - Permite criar gráficos e visualizações de \ndados para representar informações de maneira \nmais compreensível.",
+            "alternativas": {
+                "A": "Nenhuma das afirmativas estão corretas.",
+                "B": "I e III, apenas.",
+                "C": "II  e III, apenas.",
+                "D": "I, apenas.",
+                "E": "II, apenas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 12: O  Microsoft  PowerPoint 2016 é um aplicativo \nusado para criar apresentações visuais. Ele \npermite criar slides que contêm texto, imagens, \ngráficos, vídeos e elementos interativos. Neste \nsentido, pode -se afirmar que o PowerPoint:",
+            "alternativas": {
+                "A": "Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais.",
+                "B": "Oferece uma variedade de modelos de slides \ne opções de design para criar apresentações.",
+                "C": "O software oferece recursos de elaboração \nde planilhas, exibindo anotações de slides para \nauxiliar o orador durante a apresentação.",
+                "D": "Se restringe à configuração e gerenciamento \nde apenas uma conta de email em um único \nlocal.",
+                "E": "Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente.  QUESTÃO 18   \nO Microsoft Word 2016 é um software de \nprocessamento de texto amplamente utilizado \npara criar, editar e formatar documentos. Ele \noferece uma ampla gama de ferramentas para \nformatar texto de maneira profissional e \npersonalizada. Neste sentido, é incorreto \nafirmar que o Word:  \nI – Permite inserir imagens, gráficos e outros \nelementos visuais nos documentos.  \nII - O Word não oferece opções para criar listas \nnumeradas ou com marcadores em um \ndocumento.  \nIII - Para justificar o texto no Word, é preciso \nimprimir o documento e, em seguida, alinhá -lo \nmanualmente com uma régua.  \n(A) Nenhuma das afirmativas estão incorretas.  \n(B) I e II, apenas.  \n(C) II e III, apenas.  \n(D) I, apenas.  \n(E) II, apenas.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE MÉDICO VETERINÁRIO                                                                                                      Página 8 de 12 QUESTÃO 19   \nAnalise a imagem a seguir:  \n \nPode -se afirmar que o programa apresentado \npossui as seguintes funções, exceto:  \n(A) Permite realizar cálculos matemáticos, \ncomo adição, subtração, multiplicação e \ndivisão, usando fórmulas.  \n(B) Permite organizar dados em planilhas, que \nsão compostas por células dispostas em linhas e \ncolunas.  \n(C) Pode classificar dados em ordem alfabética \nou numérica e aplicar filtros para exibir apenas \nos dados que atendem a critérios específicos.  \n(D) Possui funções integradas para trabalhar \ncom datas e horas, como calcular diferenças de \ndatas, extrair partes de datas (dia, mês, ano) e \nrealizar cálculos baseados em horários.  \n(E) Permite enviar, receber e organizar emails. \nSendo possível criar, responder, encaminhar e \narquivar mensagens de email de forma eficiente.  \n \n \n \n \n \n \n \n \n \n QUESTÃO 20   \nO Microsoft Word 2016 oferece amplas opções \nde formatação de texto, incluindo formatação de \nfonte, alinhamento, espaçamento entre linhas, \nrecuos e estilos de parágrafo, permitindo \npersonalizar a aparência do documento. Neste \nsentido, pode -se afirmar que o Word:  \n(A) Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de email, \nnúmeros de telefone e detalhes pessoais.  \n(B) Oferece uma variedade de modelos de slides \ne opções de design para criar apresentações.  \n(C) Possui recursos de revisão que facilitam a \ncolaboração. Sendo possível adicionar \ncomentários, fazer alterações e usar o controle de \nalterações para rastrear as edições.  \n(D) O software oferece recursos de elaboração de \nplanilhas, exibindo anotações de slides para \nauxiliar o orador durante a apresentação.  \n(E) Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 13: João é o médico veterinário que vai atender uma \nvaca de leite que está com suspeita de mastite. \nPara isso ele pede que o auxiliar veterinário \ncontenha a vaca para ele examinar o úbere. Para \nisso o auxiliar veterinário utiliza qual método, \nlistado abaixo, p ara conter a vaca?",
+            "alternativas": {
+                "A": "Método italiano.",
+                "B": "Peia.",
+                "C": "Método dos travões.",
+                "D": "Pìto.",
+                "E": "Formiga.  \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE MÉDICO VETERINÁRIO                                                                                                      Página 9 de 12 QUESTÃO 22   \nJoaquim é o auxiliar veterinário que vai auxiliar \no médico veterinário em uma cirurgia. Para fazer \na antissepsia da pele do paciente, Joaquim utiliza:  \n(A) Água oxigenada.  \n(B) Hipoclorito de sódio.  \n(C) Água boricada.  \n(D) Ringer lactato.  \n(E) Gliconato de clorexidina.  \n \n QUESTÃO 23   \nPara aplicar um medicamento pela via \nintravenosa em um equino, é indicada \nadministrar o medicamento em qual local?  \n(A) Artéria carótida.  \n(B) Veia cefálica.  \n(C) Veia cava caudal.  \n(D) Veia jugular externa.  \n(E) Artéria aorta."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 14: José é um médico veterinário que vai coletar \nsangue para fazer o hemograma de de um cão. \nEle pede para o auxiliar veterinário pegar o tubo \nde coleta para depositar o sangue coletado. O \nauxiliar pega o tubo de coleta com a tampa da \ncor:",
+            "alternativas": {
+                "A": "Laranja.",
+                "B": "Verde.",
+                "C": "Roxa.",
+                "D": "Azul.",
+                "E": "Cinza.  \n \n QUESTÃO 25   \nQual a definição correta para os termos \n“assepsia” e “estéril”, respectivamente:  \n(A) Ausência de microrganismos causadores de \ndoença; Livre de todos os organismos vivos.  \n(B) Quimicos inorgânicos que combatem a \nsepse; Local de incisão cirúrgica que tenha sido \npreparado com equipamentos estéreis.  \n(C) Método para evitar a contaminação por \nmicrorganismos; Ausência de microrganismos \nque causam doenças.  \n(D) Livre de organismos vivos; Método pelo qual \na contaminação com microrganismos é impedida \npara manter a esterilidade durante o \nprocedimento cirurgico.  \n(E) Livre de agentes causadores de doença; \nProcessos de limpeza e desinfecção ou \nesterilização realizada para tornar os itens \ncontaminados seguros."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 15: São consideradas zoonoses, EXCETO :",
+            "alternativas": {
+                "A": "Leptospirose.",
+                "B": "Sarna sarcóptica.",
+                "C": "Erliquiose.",
+                "D": "Parvovirose.",
+                "E": "Raiva."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 16: Assinale a alternativa que apresenta apenas ossos \ndo membro pélvico:",
+            "alternativas": {
+                "A": "Rádio, ulna, úmero, metacarpo.",
+                "B": "Tíbia, ulna, fêmur, metatarso.",
+                "C": "Ulna, rádio, úmero, metacarpo.",
+                "D": "Fíbula, tíbia, fêmur, metacarpo.",
+                "E": "Tíbia, fíbula, fêmur, metatarso.  Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE MÉDICO VETERINÁRIO                                                                                                      Página 10 de 12 QUESTÃO 28  \nA dentição de um cão adulto é composta por:  \n(A) 38 dentes.  \n(B) 42 dentes.  \n(C) 26 dentes.  \n(D) 48 dentes.  \n(E) 32 dentes."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 17: Em relação a biossegurança, os setores de \ninternamento e laboratório de pequenos animais \nsão considerados, respectivamente, área:",
+            "alternativas": {
+                "A": "Crítica e semi -crítica.",
+                "B": "Não crítica e semi -crítica.",
+                "C": "Semi -crítica e crítica.",
+                "D": "Crítica e crítica.",
+                "E": "Semi -crítica e semi -crítica."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 18: A temperatura corporal de um cão saudável varia \nentre:",
+            "alternativas": {
+                "A": "36,8 e 38,8ºC.",
+                "B": "37 e 39,9ºC.",
+                "C": "36,5 e 37,5ºC.",
+                "D": "37,5 e 39,2ºC.",
+                "E": "35,5 e 38,9ºC."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 19: Maria é auxiliar veterinária e foi solicitada para \nrealizar massagem cardíaca em um cão de médio \nporte, com parada cardiorespiratória. Quantas \ncompressões por minutos Maria deve realizar:",
+            "alternativas": {
+                "A": "180 -200.",
+                "B": "160 -180.",
+                "C": "200 – 220.",
+                "D": "60 – 90.",
+                "E": "100 – 120. QUESTÃO 32   \nUm auxiliar precisa monitorar um paciente \ndurante e após uma transfusão sanguínea. Quais \nsão as reações imediatas possíveis o auxiliar deve \navaliar:  \n(A) Edema, urticária, dispnéia, taquicardia.  \n(B) Convulsão, midriase, edema, bradicardia.  \n(C) Bradicardia, edema, miose, incoordenação.  \n(D) Edema, opisotono, taquicardia, urticária.  \n(E) Eritrema, dispnéia, convulsão, midriase."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 20: Antropozoonose é uma:",
+            "alternativas": {
+                "A": "Donça transmitida do canino para o humano.",
+                "B": "Donça  transmitida do felino para o humano.",
+                "C": "Doença transmitida dos humanos para \nanimais",
+                "D": "Doença transmitida dos animais para \nhumanos.",
+                "E": "Doença transmitida de bovinos para \nhumanos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 21: Uma cadela que será submetida a ovario -\nhisterectomia deve ficar em que posição na mesa \ncirúrgica:",
+            "alternativas": {
+                "A": "Decúbito lateral esquerdo.",
+                "B": "Decúbito ventral.",
+                "C": "Decúbito lateral direito.",
+                "D": "Decúbito esternal.",
+                "E": "Decúbito dorsal.  \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE MÉDICO VETERINÁRIO                                                                                                      Página 11 de 12 QUESTÃO 35   \nDe acordo com a anatomia dos cães, um cão \nbraquiocefálico apresenta:  \n(A) Maxilar longo e mandíbula longa.  \n(B) Maxilar curto e mandíbula curta.  \n(C) Maxilar curto e mandíbula longa.  \n(D) Maxilar longo e mandíbula curta.  \n(E) Ausência de mandíbula."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 22: O acesso venoso para fluidoterapia em pequenos \nanimais é geralmente realizado no membro \ntorácico. Qual o nome da veia que é canulada \nnesta região?",
+            "alternativas": {
+                "A": "Veia julgular.",
+                "B": "Veia safena.",
+                "C": "Veia cefálica.",
+                "D": "Veia femoral.",
+                "E": "Veia cava."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 23: Joana é auxiliar veterinária e está entrando para \num plantão onde precisa monitorar os animais. \nNa ficha de internação o médico veterinário \nanotou que um dos animais está ictérico. O termo \nictérico, significa:",
+            "alternativas": {
+                "A": "Coloração esbranquiçada das mucosas e pele.",
+                "B": "Coloração mais avermelhada das mucosas.",
+                "C": "Coloração azulada das mucosas.",
+                "D": "Coloração amarelada das mucosas e pele.",
+                "E": "Coloração esbranquiçada da mucosa ocular.  \n \n \n QUESTÃO 38   \nÉ um método de esterilização de materiais \ncirúrgicos muito utilizado e é realizado através \ndo calor úmido:  \n(A) Banho -maria  \n(B) Autoclave.  \n(C) Peróxido de hidrogênio.  \n(D) Radiação ionizante.  \n(E) Flambagem."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 24: Diego é auxiliar veterinário e precisa preencher a \nficha cirúrgica de um cão macho que foi \nsubmetido a castração. Qual o nome desta técnica \ncirúrgica para que Diego preencha corretamente?",
+            "alternativas": {
+                "A": "Vasectomia.",
+                "B": "Testiculotomia.",
+                "C": "Penectomia.",
+                "D": "Orquiectomia.",
+                "E": "Ovario -histerectomia"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE MÉDICO VETERINÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 25: O termo tricotomia significa:",
+            "alternativas": {
+                "A": "Corte das unhas.",
+                "B": "Relização de triagem do paciente.",
+                "C": "Remoção total ou parcial dos pelos.",
+                "D": "Realização de limpeza no local a ser operado.",
+                "E": "Relização de curativo.  \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA -SP \n \nAUXILIAR DE MÉDICO VETERINÁRIO                                                                                                      Página 12 de 12"
+            },
+            "resposta_correta": "A"
+        }
+    ]
+}

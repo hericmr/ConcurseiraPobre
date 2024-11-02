@@ -1,3 +1,2412 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e714266f54b79f55c934956560a104e333da77070aebd6831ac67dbc3d18c8c1
-size 165717
+{
+    "COVEIRO": [
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Na charge apresentada, de Laerte Coutinho, o personagem faz uma referência ao conto infantil “João \ne o pé de feijão”. Isso porque:",
+            "alternativas": {
+                "A": "a árvore de Natal gerada pelo programa de computador é gigante.",
+                "B": "a história de João e o pé de feijão tem o mesmo tema de Natal.",
+                "C": "os ovos de ouro são uma metáfora relacionada ao Natal.",
+                "D": "ele acredita que a árvore de Natal é um pé de feijão.",
+                "E": "a árvore de Natal não era virtual."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: A palavra “programinha”, que ocorre na primeira fala da charge, é um:",
+            "alternativas": {
+                "A": "substantivo comum no aumentativo.",
+                "B": "adjetivo positivo.",
+                "C": "adjetivo superlativo.",
+                "D": "substantivo comum no diminutivo.",
+                "E": "substantivo composto no diminutivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: A expressão “em cima”, que ocorre na última fala da charge, é uma locução adverbial que exprime \numa circunstância de:",
+            "alternativas": {
+                "A": "negação.",
+                "B": "lugar.",
+                "C": "intensidade.",
+                "D": "condição.",
+                "E": "tempo.  \nPrefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 3 de 11 QUESTÃO 04  \nA forma verbal “acabo”, que ocorre na primeira fala da charge, está conjugada no modo:  \n(A) indicativo.  \n(B) subjuntivo.  \n(C) imperativo.  \n(D) infinitivo.  \n(E) gerúndio."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: As palavras “com” e “em”, que ocorrem na última fala da charge, pertencem à classe gramatical:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "artigo.",
+                "C": "conjunção.",
+                "D": "preposição.",
+                "E": "advérbio."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Todas as palavras que ocorrem no primeiro quadrinho exprimem sentido literal, exceto:",
+            "alternativas": {
+                "A": "programinha.",
+                "B": "clima.",
+                "C": "natal.",
+                "D": "meu.",
+                "E": "computador."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Na sentença “Acabo de instalar um programinha que dá “um clima de Natal” no meu computador”, \nque ocorre na primeira fala da charge, são palavras da classe dos verbos apenas:",
+            "alternativas": {
+                "A": "acabo; instalar.",
+                "B": "acabo; dá.",
+                "C": "acabo; instalar; dá.",
+                "D": "instalar; dá.",
+                "E": "instalar.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 4 de 11  \nLeia a charge para responder às questões de 8 a 13.   \n \n \nWATTERSON II, W. B. Calvin & Haroldo . 1987."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: A reação de Haroldo no último quadrinho permite inferir que ele:",
+            "alternativas": {
+                "A": "acredita que a vida seja predestinada.",
+                "B": "desdenha da ideia de Calvin.",
+                "C": "tem receio de que as coisas sejam inevitáveis.",
+                "D": "tenta convencer Calvin de que existe destino.",
+                "E": "tenta convencer Calvin de que não existe destino.  \n \n \nPrefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 5 de 11 QUESTÃO 09  \nEm relação à regência, o verbo “acreditar”, que ocorre no primeiro quadrinho, é:  \n(A) transitivo direto.  \n(B) transitivo indireto.  \n(C) intransitivo.  \n(D) transitivo direto e indireto.  \n(E) pronominal."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: O significado da locução “a gente”, empregada na fala de Calvin, é o mesmo de um pronome pessoal, \nque se refere à:",
+            "alternativas": {
+                "A": "primeira pessoa do singular.",
+                "B": "segunda pessoa do singular.",
+                "C": "terceira pessoa do singular.",
+                "D": "primeira pessoa do plural.",
+                "E": "terceira pessoa do plural."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: As palavras “inevitáveis” e “assustador” pertencem à classe gramatical:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "advérbio.",
+                "C": "adjetivo.",
+                "D": "conjunção.",
+                "E": "verbo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: O elemento que estabelece relação direta de concordância com o verbo “são” é:",
+            "alternativas": {
+                "A": "“as coisas que a gente faz”.",
+                "B": "“faz”.",
+                "C": "“nossa vida”.",
+                "D": "“a gente”.",
+                "E": "“inevitáveis”.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 6 de 11 QUESTÃO 13  \nA palavra “que”, que ocorre no segundo quadrinho, desempenha o papel gramatical de:  \n(A) pronome interrogativo.  \n(B) conjunção.  \n(C) preposição.  \n(D) pronome relativo.  \n(E) substantivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Assinale a alternativa em que a palavra destacada é classificada gramaticalmente como advérbio.",
+            "alternativas": {
+                "A": "Eles foram ao mercado .",
+                "B": "José é um ótimo  escritor.",
+                "C": "As entrevistas duraram pouco .",
+                "D": "Lamento  por não ter ido à festa de aniversário.",
+                "E": "Contei a ele tudo o que sabia sobre o ocorrido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Analise as alternativas a seguir e assinale aquela em que todas as palavras apresentadas são trissílabas.",
+            "alternativas": {
+                "A": "hipótese; malária; portão.",
+                "B": "cafeína; cruzado; prestação.",
+                "C": "cuscuz; corrente; palavra.",
+                "D": "verbas; afunilar; chacoalhar.",
+                "E": "versátil; perfeita; amável."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Assinale a alternativa em que todas as palavras são substantivos femininos.",
+            "alternativas": {
+                "A": "planeta, cometa, luneta.",
+                "B": "mulher, grade, programa.",
+                "C": "moita, luz, alface.",
+                "D": "série, estudante, clima.",
+                "E": "rede, jogo, tipo.  \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 7 de 11 QUESTÃO 17  \n“Os cozinheiros e serviçais especulavam a respeito do que poderia sobejar  da celebração festiva \nrealizada no palácio.” A palavra “sobejar” exprime o mesmo sentido que:  \n(A) concluir.   \n(B) resultar.  \n(C) carecer.  \n(D) escassear.   \n(E) sobrar."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Assinale a alternativa em que a conjugação do verbo da sentença indica a segunda pessoa do plural.",
+            "alternativas": {
+                "A": "Retornara mais cedo da viagem.",
+                "B": "Os infortúnios desse acontecimento são muitos.",
+                "C": "Pensarás com carinho nessa proposta, em respeito à amizade que temos.",
+                "D": "Subjugastes aquele rapaz injustamente.",
+                "E": "Façamos as pazes!"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Assinale a alternativa em que, na sentença apresentada, o pronome destacado é do tipo pessoal do \ncaso oblíquo.",
+            "alternativas": {
+                "A": "Minhas  coisas foram roubadas.",
+                "B": "Este é o livro de que te falei.",
+                "C": "As meninas  se produziram para a festa de carnaval.",
+                "D": "Não esperava por essa atitude.",
+                "E": "Nós temos um novo acordo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: São palavras oxítonas:",
+            "alternativas": {
+                "A": "beira; fúria; figo.",
+                "B": "cantil; nó; céu.",
+                "C": "círio; avó; perfeito.",
+                "D": "ambiente; catástrofe; mundo.",
+                "E": "tenaz; carniça; música.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 8 de 11 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Ana está redecorando sua sala e precisa comprar \numa nova mesa. Ela encontrou uma mesa que \npossui um comprimento de 2,5 metros. No \nentanto, Ana quer visualizar essa medida de \nforma mais precisa para garantir que a mesa se \nencaixe perfeitamente no espaço disponível em \nsua sala. Para isso, ela decide converter o \ncomprimento da mesa de metros para \ncentímetros. Qual será a medida da mesa em \ncentímetros?",
+            "alternativas": {
+                "A": "25 centímetros",
+                "B": "2.050 centímetros",
+                "C": "100 centímetros",
+                "D": "250 centímetros",
+                "E": "2.500 centímetros"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Considere a sequência: Z, 1, Y, 2, X, 3, W, 4, V, \n5, . Qual é o 20º termo dessa sequência?",
+            "alternativas": {
+                "A": "10",
+                "B": "Q",
+                "C": "O",
+                "D": "9",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Em uma fábrica, 25% dos funcionários têm \ntreinamento em segurança industrial, e o restante \nnão possui esse treinamento.  \nSe o total de funcionários sem treinamento em \nsegurança industrial é igual a 600, então o \nnúmero total de funcionários nesta fábrica é:",
+            "alternativas": {
+                "A": "Maior que 800.",
+                "B": "Maior que 700 e menor que 800.",
+                "C": "Maior que 700 e menor que 750.",
+                "D": "Maior que 1000 e menor que 800.",
+                "E": "Nenhuma das alternativas  \n \n \n QUESTÃO 24  \nEm uma loja de eletrônicos, uma pessoa compra \ndois smartphones e um tablet, gastando no total \nR$ 7.200,00. Se o preço de um smartphone é \ndesconhecido e o preço de um tablet é de R$ \n2.200,00, qual é o preço de um smartphone?  \n(A) R$ 2.200,00  \n(B) R$ 2.100,00  \n(C) R$ 5.000,00  \n(D) R$ 2.500,00  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Na conveniência de um posto de gasolina, Rafael \ntem uma média de vendas diárias de R$ 55,00 em \ncigarros. Se ele mantiver essa  valor de vendas \ndurante 30 dias consecutivos, qual será o total de \nvendas de cigarros ao final dos 30 dias?",
+            "alternativas": {
+                "A": "R$ 1650,00",
+                "B": "R$ 1750,00",
+                "C": "R$ 1850,00",
+                "D": "R$ 1550,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Maria foi fazer compras e percebeu que o troco \ndeveria ser de R$ 7,50 . Porém  o estabelecimento \nsó tinha moedas para dar o troco. Qual seria a \nmenor quantidade de moedas que ela poderia \nreceber como troco, considerando que as moedas \ndisponíveis são de R$ 1,00 e R$ 0,50?",
+            "alternativas": {
+                "A": "15 moedas de R$ 0,50",
+                "B": "6 moedas de R$ 1,00 e 3 moedas de R$ 0,50",
+                "C": "5 moedas de R$ 1,00 e 5 moedas de R$ 0,50",
+                "D": "14 moedas de R$ 0,50 e 1 moeda de R$ 1,00",
+                "E": "7 moedas de R$ 1,00 e 1 moeda de R$ 0,50  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 9 de 11 QUESTÃO 27  \nQual é o resultado para a seguinte operação:  \n31,5 x 8,4 – 12: \n \n(A) 252,60  \n(B) 264,60  \n(C) 113,4  \n(D) - 113,4  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Um aquário retangular tem as seguintes \ndimensões: comprimento  de 1,5 metros, \nlargura  de 1 metro e altura  de 0,8 metro. Qual é \no volume total de água, em litros, que o aquário \npode armazenar?",
+            "alternativas": {
+                "A": "1.100 litros",
+                "B": "1.080 litros",
+                "C": "2.000 litros",
+                "D": "1.200 litros",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Em um edifício onde todos os andares têm \napenas números pares, e cada andar possui \nexatamente 4 apartamentos, considere um prédio \nde 12 andares. Qual é o número do último \napartamento nesse edifício?",
+            "alternativas": {
+                "A": "46",
+                "B": "48",
+                "C": "60",
+                "D": "96",
+                "E": "Nenhuma das alternativas  \n \n \n \n \n \n \n QUESTÃO 30  \nEm uma loja de eletrônicos, um cliente comprou \num smartphone por R$ 1.200,00 e dois fones de \nouvido por R$ 150,00 cada. O vendedor ofereceu \num desconto de 15% no total da compra. Qual é \no valor final que o cliente pagou por sua compra?  \n \n(A) R$ 1.500,00  \n(B) R$ 1.275,00  \n(C) R$ 1.350,00  \n(D) R$ 1.147,50  \n(E) R$ 1.197,50"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Mariana corrigiu 40% das questões da prova de \nPedro, totalizando 12 questões. Com base nessa \ninformação, é correto concluir que o número de \nquestões da prova é igual a:",
+            "alternativas": {
+                "A": "20",
+                "B": "25",
+                "C": "30",
+                "D": "35",
+                "E": "40"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Para regar seu jardim, Carlos utiliza 10 litros de \nágua para cada 5 metros quadrados de área. Se o \njardim de Carlos possui 20 metros quadrados, \nquantos litros de água ele precisará para regar o \njardim?",
+            "alternativas": {
+                "A": "12 litros",
+                "B": "35 litros",
+                "C": "40 litros",
+                "D": "60 litros",
+                "E": "45 litros  \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 10 de 11 QUESTÃO 33  \nSe um projeto leva 2 horas para ser concluído por \num funcionário, e ele precisa realizar esse projeto \n12 vezes, qual será o tempo total que ele levará \npara concluir todos os projetos?  \n(A) 20 horas  \n(B) 24 horas  \n(C) 30 horas  \n(D) 26 horas  \n(E) 40 horas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Em uma loja de roupas, uma camiseta custa R$ \n60,00. Durante uma promoção de liquidação, o \npreço da camiseta é reduzido em 20%. Se Maria \ncomprou três dessas camisetas durante a \npromoção, quanto ela pagou no total pelas três \ncamisetas?",
+            "alternativas": {
+                "A": "R$ 144,00",
+                "B": "R$ 180,00",
+                "C": "R$ 72,00",
+                "D": "R$ 160,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Lucas comprou 40 metros de fio elétrico por R$ \n1,20 o metro e uma lâmpada por R$ 6,80. Se ele \npagou com uma nota de R$ 100,00, qual foi o \ntroco que Lucas recebeu?",
+            "alternativas": {
+                "A": "R$ 41,20",
+                "B": "R$ 42,20",
+                "C": "R$ 43,20",
+                "D": "R$ 44,20",
+                "E": "R$ 45,20"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: Para fazer um bolo que serve 8 pessoas, Laura \nutiliza 2 xícaras de farinha de trigo. Quantas \nxícaras de farinha de trigo ela precisará para fazer \num bolo para 12 pessoas?",
+            "alternativas": {
+                "A": "2,5 xícaras",
+                "B": "3 xícaras",
+                "C": "3,5 xícaras",
+                "D": "4 xícaras",
+                "E": "Nenhuma das alternativas  \n \n QUESTÃO 37  \nUm tanque de combustível tem capacidade para \n60 litros de etanol. Se o preço do etanol é R$ 4,50 \npor litro, quanto custa para encher o tanque?  \n \n(A) R$ 260,00  \n(B) R$ 265,00  \n(C) R$ 270,00  \n(D) R$ 275,00  \n(E) R$ 295,00"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29: Paula desafiou seu irmão João a descobrir o dia \nda semana após 42 dias. João, que estava \nconcentrado nos estudos, respondeu \ncorretamente que, se aquele dia fosse uma \nsegunda -feira, dali a 42 dias seria:",
+            "alternativas": {
+                "A": "Terça -feira",
+                "B": "Domingo",
+                "C": "Segunda -feira",
+                "D": "Sábado",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30: Uma loja está oferecendo um desconto de 15% \nem todos os produtos durante uma liquidação. Se \num item custa originalmente R$ 120,00, qual será \no preço final após o desconto?",
+            "alternativas": {
+                "A": "R$ 90,00",
+                "B": "R$ 102,00",
+                "C": "R$ 105,00",
+                "D": "R$ 112,00",
+                "E": "R$ 117,30"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31: Assinale a alternativa que apresenta o \nSexagésimo primeiro número par antecessor de \n776.",
+            "alternativas": {
+                "A": "716",
+                "B": "654",
+                "C": "837",
+                "D": "898",
+                "E": "Nenhuma das alternativas  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 11 de 11"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Na charge apresentada, de Laerte Coutinho, o personagem faz uma referência ao conto infantil “João \ne o pé de feijão”. Isso porque:",
+            "alternativas": {
+                "A": "a árvore de Natal gerada pelo programa de computador é gigante.",
+                "B": "a história de João e o pé de feijão tem o mesmo tema de Natal.",
+                "C": "os ovos de ouro são uma metáfora relacionada ao Natal.",
+                "D": "ele acredita que a árvore de Natal é um pé de feijão.",
+                "E": "a árvore de Natal não era virtual."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: A palavra “programinha”, que ocorre na primeira fala da charge, é um:",
+            "alternativas": {
+                "A": "substantivo comum no aumentativo.",
+                "B": "adjetivo positivo.",
+                "C": "adjetivo superlativo.",
+                "D": "substantivo comum no diminutivo.",
+                "E": "substantivo composto no diminutivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: A expressão “em cima”, que ocorre na última fala da charge, é uma locução adverbial que exprime \numa circunstância de:",
+            "alternativas": {
+                "A": "negação.",
+                "B": "lugar.",
+                "C": "intensidade.",
+                "D": "condição.",
+                "E": "tempo.  \nPrefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 3 de 11 QUESTÃO 04  \nA forma verbal “acabo”, que ocorre na primeira fala da charge, está conjugada no modo:  \n(A) indicativo.  \n(B) subjuntivo.  \n(C) imperativo.  \n(D) infinitivo.  \n(E) gerúndio."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: As palavras “com” e “em”, que ocorrem na última fala da charge, pertencem à classe gramatical:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "artigo.",
+                "C": "conjunção.",
+                "D": "preposição.",
+                "E": "advérbio."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Todas as palavras que ocorrem no primeiro quadrinho exprimem sentido literal, exceto:",
+            "alternativas": {
+                "A": "programinha.",
+                "B": "clima.",
+                "C": "natal.",
+                "D": "meu.",
+                "E": "computador."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Na sentença “Acabo de instalar um programinha que dá “um clima de Natal” no meu computador”, \nque ocorre na primeira fala da charge, são palavras da classe dos verbos apenas:",
+            "alternativas": {
+                "A": "acabo; instalar.",
+                "B": "acabo; dá.",
+                "C": "acabo; instalar; dá.",
+                "D": "instalar; dá.",
+                "E": "instalar.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 4 de 11  \nLeia a charge para responder às questões de 8 a 13.   \n \n \nWATTERSON II, W. B. Calvin & Haroldo . 1987."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: A reação de Haroldo no último quadrinho permite inferir que ele:",
+            "alternativas": {
+                "A": "acredita que a vida seja predestinada.",
+                "B": "desdenha da ideia de Calvin.",
+                "C": "tem receio de que as coisas sejam inevitáveis.",
+                "D": "tenta convencer Calvin de que existe destino.",
+                "E": "tenta convencer Calvin de que não existe destino.  \n \n \nPrefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 5 de 11 QUESTÃO 09  \nEm relação à regência, o verbo “acreditar”, que ocorre no primeiro quadrinho, é:  \n(A) transitivo direto.  \n(B) transitivo indireto.  \n(C) intransitivo.  \n(D) transitivo direto e indireto.  \n(E) pronominal."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: O significado da locução “a gente”, empregada na fala de Calvin, é o mesmo de um pronome pessoal, \nque se refere à:",
+            "alternativas": {
+                "A": "primeira pessoa do singular.",
+                "B": "segunda pessoa do singular.",
+                "C": "terceira pessoa do singular.",
+                "D": "primeira pessoa do plural.",
+                "E": "terceira pessoa do plural."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: As palavras “inevitáveis” e “assustador” pertencem à classe gramatical:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "advérbio.",
+                "C": "adjetivo.",
+                "D": "conjunção.",
+                "E": "verbo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: O elemento que estabelece relação direta de concordância com o verbo “são” é:",
+            "alternativas": {
+                "A": "“as coisas que a gente faz”.",
+                "B": "“faz”.",
+                "C": "“nossa vida”.",
+                "D": "“a gente”.",
+                "E": "“inevitáveis”.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 6 de 11 QUESTÃO 13  \nA palavra “que”, que ocorre no segundo quadrinho, desempenha o papel gramatical de:  \n(A) pronome interrogativo.  \n(B) conjunção.  \n(C) preposição.  \n(D) pronome relativo.  \n(E) substantivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Assinale a alternativa em que a palavra destacada é classificada gramaticalmente como advérbio.",
+            "alternativas": {
+                "A": "Eles foram ao mercado .",
+                "B": "José é um ótimo  escritor.",
+                "C": "As entrevistas duraram pouco .",
+                "D": "Lamento  por não ter ido à festa de aniversário.",
+                "E": "Contei a ele tudo o que sabia sobre o ocorrido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Analise as alternativas a seguir e assinale aquela em que todas as palavras apresentadas são trissílabas.",
+            "alternativas": {
+                "A": "hipótese; malária; portão.",
+                "B": "cafeína; cruzado; prestação.",
+                "C": "cuscuz; corrente; palavra.",
+                "D": "verbas; afunilar; chacoalhar.",
+                "E": "versátil; perfeita; amável."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Assinale a alternativa em que todas as palavras são substantivos femininos.",
+            "alternativas": {
+                "A": "planeta, cometa, luneta.",
+                "B": "mulher, grade, programa.",
+                "C": "moita, luz, alface.",
+                "D": "série, estudante, clima.",
+                "E": "rede, jogo, tipo.  \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 7 de 11 QUESTÃO 17  \n“Os cozinheiros e serviçais especulavam a respeito do que poderia sobejar  da celebração festiva \nrealizada no palácio.” A palavra “sobejar” exprime o mesmo sentido que:  \n(A) concluir.   \n(B) resultar.  \n(C) carecer.  \n(D) escassear.   \n(E) sobrar."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Assinale a alternativa em que a conjugação do verbo da sentença indica a segunda pessoa do plural.",
+            "alternativas": {
+                "A": "Retornara mais cedo da viagem.",
+                "B": "Os infortúnios desse acontecimento são muitos.",
+                "C": "Pensarás com carinho nessa proposta, em respeito à amizade que temos.",
+                "D": "Subjugastes aquele rapaz injustamente.",
+                "E": "Façamos as pazes!"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Assinale a alternativa em que, na sentença apresentada, o pronome destacado é do tipo pessoal do \ncaso oblíquo.",
+            "alternativas": {
+                "A": "Minhas  coisas foram roubadas.",
+                "B": "Este é o livro de que te falei.",
+                "C": "As meninas  se produziram para a festa de carnaval.",
+                "D": "Não esperava por essa atitude.",
+                "E": "Nós temos um novo acordo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: São palavras oxítonas:",
+            "alternativas": {
+                "A": "beira; fúria; figo.",
+                "B": "cantil; nó; céu.",
+                "C": "círio; avó; perfeito.",
+                "D": "ambiente; catástrofe; mundo.",
+                "E": "tenaz; carniça; música.  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 8 de 11 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Ana está redecorando sua sala e precisa comprar \numa nova mesa. Ela encontrou uma mesa que \npossui um comprimento de 2,5 metros. No \nentanto, Ana quer visualizar essa medida de \nforma mais precisa para garantir que a mesa se \nencaixe perfeitamente no espaço disponível em \nsua sala. Para isso, ela decide converter o \ncomprimento da mesa de metros para \ncentímetros. Qual será a medida da mesa em \ncentímetros?",
+            "alternativas": {
+                "A": "25 centímetros",
+                "B": "2.050 centímetros",
+                "C": "100 centímetros",
+                "D": "250 centímetros",
+                "E": "2.500 centímetros"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Considere a sequência: Z, 1, Y, 2, X, 3, W, 4, V, \n5, . Qual é o 20º termo dessa sequência?",
+            "alternativas": {
+                "A": "10",
+                "B": "Q",
+                "C": "O",
+                "D": "9",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Em uma fábrica, 25% dos funcionários têm \ntreinamento em segurança industrial, e o restante \nnão possui esse treinamento.  \nSe o total de funcionários sem treinamento em \nsegurança industrial é igual a 600, então o \nnúmero total de funcionários nesta fábrica é:",
+            "alternativas": {
+                "A": "Maior que 800.",
+                "B": "Maior que 700 e menor que 800.",
+                "C": "Maior que 700 e menor que 750.",
+                "D": "Maior que 1000 e menor que 800.",
+                "E": "Nenhuma das alternativas  \n \n \n QUESTÃO 24  \nEm uma loja de eletrônicos, uma pessoa compra \ndois smartphones e um tablet, gastando no total \nR$ 7.200,00. Se o preço de um smartphone é \ndesconhecido e o preço de um tablet é de R$ \n2.200,00, qual é o preço de um smartphone?  \n(A) R$ 2.200,00  \n(B) R$ 2.100,00  \n(C) R$ 5.000,00  \n(D) R$ 2.500,00  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Na conveniência de um posto de gasolina, Rafael \ntem uma média de vendas diárias de R$ 55,00 em \ncigarros. Se ele mantiver essa  valor de vendas \ndurante 30 dias consecutivos, qual será o total de \nvendas de cigarros ao final dos 30 dias?",
+            "alternativas": {
+                "A": "R$ 1650,00",
+                "B": "R$ 1750,00",
+                "C": "R$ 1850,00",
+                "D": "R$ 1550,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Maria foi fazer compras e percebeu que o troco \ndeveria ser de R$ 7,50 . Porém  o estabelecimento \nsó tinha moedas para dar o troco. Qual seria a \nmenor quantidade de moedas que ela poderia \nreceber como troco, considerando que as moedas \ndisponíveis são de R$ 1,00 e R$ 0,50?",
+            "alternativas": {
+                "A": "15 moedas de R$ 0,50",
+                "B": "6 moedas de R$ 1,00 e 3 moedas de R$ 0,50",
+                "C": "5 moedas de R$ 1,00 e 5 moedas de R$ 0,50",
+                "D": "14 moedas de R$ 0,50 e 1 moeda de R$ 1,00",
+                "E": "7 moedas de R$ 1,00 e 1 moeda de R$ 0,50  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 9 de 11 QUESTÃO 27  \nQual é o resultado para a seguinte operação:  \n31,5 x 8,4 – 12: \n \n(A) 252,60  \n(B) 264,60  \n(C) 113,4  \n(D) - 113,4  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Um aquário retangular tem as seguintes \ndimensões: comprimento  de 1,5 metros, \nlargura  de 1 metro e altura  de 0,8 metro. Qual é \no volume total de água, em litros, que o aquário \npode armazenar?",
+            "alternativas": {
+                "A": "1.100 litros",
+                "B": "1.080 litros",
+                "C": "2.000 litros",
+                "D": "1.200 litros",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Em um edifício onde todos os andares têm \napenas números pares, e cada andar possui \nexatamente 4 apartamentos, considere um prédio \nde 12 andares. Qual é o número do último \napartamento nesse edifício?",
+            "alternativas": {
+                "A": "46",
+                "B": "48",
+                "C": "60",
+                "D": "96",
+                "E": "Nenhuma das alternativas  \n \n \n \n \n \n \n QUESTÃO 30  \nEm uma loja de eletrônicos, um cliente comprou \num smartphone por R$ 1.200,00 e dois fones de \nouvido por R$ 150,00 cada. O vendedor ofereceu \num desconto de 15% no total da compra. Qual é \no valor final que o cliente pagou por sua compra?  \n \n(A) R$ 1.500,00  \n(B) R$ 1.275,00  \n(C) R$ 1.350,00  \n(D) R$ 1.147,50  \n(E) R$ 1.197,50"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Mariana corrigiu 40% das questões da prova de \nPedro, totalizando 12 questões. Com base nessa \ninformação, é correto concluir que o número de \nquestões da prova é igual a:",
+            "alternativas": {
+                "A": "20",
+                "B": "25",
+                "C": "30",
+                "D": "35",
+                "E": "40"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Para regar seu jardim, Carlos utiliza 10 litros de \nágua para cada 5 metros quadrados de área. Se o \njardim de Carlos possui 20 metros quadrados, \nquantos litros de água ele precisará para regar o \njardim?",
+            "alternativas": {
+                "A": "12 litros",
+                "B": "35 litros",
+                "C": "40 litros",
+                "D": "60 litros",
+                "E": "45 litros  \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 10 de 11 QUESTÃO 33  \nSe um projeto leva 2 horas para ser concluído por \num funcionário, e ele precisa realizar esse projeto \n12 vezes, qual será o tempo total que ele levará \npara concluir todos os projetos?  \n(A) 20 horas  \n(B) 24 horas  \n(C) 30 horas  \n(D) 26 horas  \n(E) 40 horas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Em uma loja de roupas, uma camiseta custa R$ \n60,00. Durante uma promoção de liquidação, o \npreço da camiseta é reduzido em 20%. Se Maria \ncomprou três dessas camisetas durante a \npromoção, quanto ela pagou no total pelas três \ncamisetas?",
+            "alternativas": {
+                "A": "R$ 144,00",
+                "B": "R$ 180,00",
+                "C": "R$ 72,00",
+                "D": "R$ 160,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Lucas comprou 40 metros de fio elétrico por R$ \n1,20 o metro e uma lâmpada por R$ 6,80. Se ele \npagou com uma nota de R$ 100,00, qual foi o \ntroco que Lucas recebeu?",
+            "alternativas": {
+                "A": "R$ 41,20",
+                "B": "R$ 42,20",
+                "C": "R$ 43,20",
+                "D": "R$ 44,20",
+                "E": "R$ 45,20"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: Para fazer um bolo que serve 8 pessoas, Laura \nutiliza 2 xícaras de farinha de trigo. Quantas \nxícaras de farinha de trigo ela precisará para fazer \num bolo para 12 pessoas?",
+            "alternativas": {
+                "A": "2,5 xícaras",
+                "B": "3 xícaras",
+                "C": "3,5 xícaras",
+                "D": "4 xícaras",
+                "E": "Nenhuma das alternativas  \n \n QUESTÃO 37  \nUm tanque de combustível tem capacidade para \n60 litros de etanol. Se o preço do etanol é R$ 4,50 \npor litro, quanto custa para encher o tanque?  \n \n(A) R$ 260,00  \n(B) R$ 265,00  \n(C) R$ 270,00  \n(D) R$ 275,00  \n(E) R$ 295,00"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29: Paula desafiou seu irmão João a descobrir o dia \nda semana após 42 dias. João, que estava \nconcentrado nos estudos, respondeu \ncorretamente que, se aquele dia fosse uma \nsegunda -feira, dali a 42 dias seria:",
+            "alternativas": {
+                "A": "Terça -feira",
+                "B": "Domingo",
+                "C": "Segunda -feira",
+                "D": "Sábado",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30: Uma loja está oferecendo um desconto de 15% \nem todos os produtos durante uma liquidação. Se \num item custa originalmente R$ 120,00, qual será \no preço final após o desconto?",
+            "alternativas": {
+                "A": "R$ 90,00",
+                "B": "R$ 102,00",
+                "C": "R$ 105,00",
+                "D": "R$ 112,00",
+                "E": "R$ 117,30"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31: Assinale a alternativa que apresenta o \nSexagésimo primeiro número par antecessor de \n776.",
+            "alternativas": {
+                "A": "716",
+                "B": "654",
+                "C": "837",
+                "D": "898",
+                "E": "Nenhuma das alternativas  \n \n \n Prefeitura Municipal de Lorena  - Concurso Público 01/2023                                                 INSTITUTO AVANÇA -SP \n \nCOVEIRO                                                                                                                                                       Página 11 de 11"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Observe a colocação pronominal presente na primeira fala de Calvin. A seguir, foram construídas \nalgumas orações, porém apenas uma está correta, condizendo com o referido exemplo, assinale -a:",
+            "alternativas": {
+                "A": "Depois de melhorar, nos avisem.",
+                "B": "Gostaria de te mostrar o meu convite.",
+                "C": "Me surpreendi com seu comportamento.",
+                "D": "Conforme lhe disse, hoje foi um dia especial.",
+                "E": "O seu maior sonho é se casar."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Observe a expressão: “Isso é muito gentil  da sua parte”. Destaque a alternativa que manteve o mesmo \nsentido do termo destacado.",
+            "alternativas": {
+                "A": "Isso é muito nobre da sua parte.",
+                "B": "Isso é muito encantador da sua parte.",
+                "C": "Isso é muito distinto da sua parte.",
+                "D": "Isso é muito atencioso da sua parte.",
+                "E": "Isso é muito amorável da sua parte.  \n \n \n \n \n \n \n \n \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                    Página 3 de 10 QUESTÃO 03  \nAnalise novamente a charge e destaque a seguir \na figura de linguagem que aparece em uma das \nfalas de Haroldo.  \n(A) Hipérbato  \n(B) Hipérbole  \n(C) Eufemismo  \n(D) Ironia  \n(E) Polissíndeto"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Observe o primeiro balão: “A mamãe não está se \nsentindo bem. Por isso eu estou fazendo um \ncartão pra ela”. Qual das alternativas não \napresenta nenhum erro de classificação \ngramatical?",
+            "alternativas": {
+                "A": "está, estou, fazendo = verbo de ligação",
+                "B": "não, bem, isso = advérbios",
+                "C": "mamãe, cartão, ela = substantivos",
+                "D": "se, por isso, pra = conjunções",
+                "E": "eu, ela = pronome pessoal"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Em qual tempo verbal está a expressão: “Fique \nboa logo”.",
+            "alternativas": {
+                "A": "Presente do Indicativo",
+                "B": "Futuro do Presente do Indicativo",
+                "C": "Presente do Subjuntivo",
+                "D": "Futuro do Subjuntivo",
+                "E": "Pretérito Mais -que-perfeito do Indicativo  \n \n \n \n \n \n \n \n Leia o texto a seguir e responda \nposteriormente as questões de 6 a 10 . \n \nTeoria é um conjunto de suposições inter-\nrelacionadas para explicar alguma coisa. Sem \nquestionamento as suposições são aceitas pelos \nadeptos da teoria. O valor de qualquer teoria \ndepende da sua capacidade de explicar e resolver \nproblemas concretos e prover uma base para \nplanejar. As teorias  organizacionais podem ser \nentendidas como um conjunto de princípios e \nprescrições que visam a facilitar a realização dos \nobjetivos das organizações e serão mais ou \nmenos válidas na medida em que isso \nefetivamente ocorrer.  \nCada uma das abordagens reflete, em grande \nparte, as preocupações e as relações econômicas \ne sociais da época em que foram formuladas. \nMuitas teorias organizacionais contêm princípios \nque ainda são assaz válidos. Uma nova teoria não \nelimina as que a preced eram, mas as completa, \naborda novos ângulos e amplia a visão dos \nadministradores para a solução de problemas e o \naproveitamento de oportunidades. [...] Como \nalguns administradores não têm ciência dessa \namplitude, acabam perdendo tais oportunidades.  \nFonte: LACOMBE, F. Teoria geral da \nadministração. São Paulo: Saraiva, 2009."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Em relação às ideias apresentadas pelo texto, \ndepreende -se:",
+            "alternativas": {
+                "A": "A teoria representa uma ideia absoluta sobre \nalguma coisa.",
+                "B": "Por meio de inferências é possível explicar o \nque se pretende. No entanto, há a necessidade de \nvalidação dessas inferências pelos adeptos da \nteoria em questão.",
+                "C": "O valor de uma teoria está na capacidade que \nse tem de implementar a ação concreta abstraída \nde suas suposições.",
+                "D": "Cada nova teoria é responsável por dirimir a \nanterior, em função das novas informações e dos \nnovos ângulos que são trazidos pelo novo modelo \nteórico.",
+                "E": "Um dos parâmetros de validação de uma \nteoria é a consecução dos objetivos \norganizacionais.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                    Página 4 de 10 QUESTÃO 07 \nDestaque a alternativa que alterou o sentido \nexpresso na seguinte oração: “Teoria é um \nconjunto de suposições inter -relacionadas para \nexplicar alguma coisa”.  \n(A) Teoria é um conjunto de suposições \ncorrelacionadas para explicar alguma coisa.  \n(B) Teoria é um conjunto de suposições \ninterdependentes para explicar alguma coisa.  \n(C) Teoria é um conjunto de suposições \nrecíprocas para explicar alguma coisa.  \n(D) Teoria é um conjunto de suposições \ncorrespondentes para explicar alguma coisa.  \n(E) Teoria é um conjunto de suposições \nintersubjetivas para explicar alguma coisa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Assim como as expressões possuem um sentido \npróprio e figurado, o texto também pode \napresentar um sentido literal ou possibilitar uma \nplurissignificação do enunciado. Dessa forma, \nretome o primeiro parágrafo e destaque a figura \nde linguagem presente na seg unda oração.",
+            "alternativas": {
+                "A": "Metáfora",
+                "B": "Metonímia",
+                "C": "Hipérbato",
+                "D": "Sinestesia",
+                "E": "Hipérbole"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Releia o texto e destaque o sentido que a \nconjunção imprime às relações estabelecidas \npela última oração do texto.",
+            "alternativas": {
+                "A": "Comparação",
+                "B": "Concessão",
+                "C": "Causa",
+                "D": "Condição",
+                "E": "Proporção  \n \n QUESTÃO 10  \nDestaque a seguir a alternativa que condiz com o \nsentido expresso em cada um dos três advérbios \nque aparecem na oração abaixo:  \n“Muitas teorias organizacionais contêm \nprincípios que ainda são assaz válidos”.  \n(A) intensidade / tempo / intensidade  \n(B) modo / intensidade/ tempo  \n(C) intensidade/ tempo/ afirmação  \n(D) tempo/ tempo/ afirmação  \n(E) intensidade/ tempo/ lugar"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Observe as orações a seguir e destaque a \nalternativa que traz um erro de colocação \npronominal.",
+            "alternativas": {
+                "A": "Devo -lhe contar toda a verdade.",
+                "B": "Para redimir, comprei -lhe um lindo anel de \nnoivado.",
+                "C": "Ontem apresentaram -me inúmeras propostas \nde trabalho.",
+                "D": "Nunca o vi tão pensativo como hoje.",
+                "E": "Isso me recorda as viagens que realizei ano \npassado."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Qual das alternativas a seguir não foi construída \nde forma adequada em relação à concordância \nnominal?",
+            "alternativas": {
+                "A": "Bruno agiu com presteza e sabedoria \nadmirável.",
+                "B": "A professora trajava blazer e blusa amarelos.",
+                "C": "Fomos a uma fazenda antiga e vimos \nartefatos e gravuras antigas.",
+                "D": "Não encontramos nem um nem outro \nprofessor disponíveis.",
+                "E": "A menina tem lindos olhos azuis -claros.  \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                    Página 5 de 10 QUESTÃO 13  \nDestaque a alternativa que não apresenta \ncorretamente a concordância verbal.  \n(A) Dez horas é muito tempo para esperar na \nrodoviária.  \n(B) Há sete dias que não o vejo.  \n(C) Deve existir muitas lembranças nas paredes \nde um asilo.  \n(D) Hajam vista os sonhos que guardei.  \n(E) Existem muitas pessoas que não assumem as \nconsequências de seus atos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Qual das alternativas, o uso da crase e/ou a falta \ndela está incorreto?",
+            "alternativas": {
+                "A": "O coordenador esperou até às 10 horas para \ncomeçar a reunião.",
+                "B": "A compra realizada a prazo ficou bem mais \ncara.",
+                "C": "Para não demostrar a tristeza, às vezes é \nmelhor fingir.",
+                "D": "Eu devo obediência a minha mãe.",
+                "E": "Bruno fez um apelo à Marina."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Observe os enunciados abaixo e destaque, \nposteriormente, a alternativa correta.  \nI – As férias estão a um piscar de olhos, vou \nmatar as saudades da minha vó.  \nII – Estou morto de cansaço, trabalhei mais de 10 \nhoras consecutivas.  \nIII- O indivíduo que assaltou a escola era um \npeixe ensaboado.  \nIV – Minhas mãos trazem as marcas das minhas \nfrustrações.",
+            "alternativas": {
+                "A": "Na alternativa I, há uma expressão com \nsentido literal e outra com sentido denotativo.",
+                "B": "A expressão “trabalhei mais de 10 horas \nconsecutivas” tem sentido figurado.",
+                "C": "A expressão “um peixe ensaboado” está em \nsentido literal.",
+                "D": "A expressão “as marcas das minhas \nfrustrações” traduz uma ideia denotativa.",
+                "E": "A alternativa I apresenta duas expressões que \ntêm sentido conotativo.  QUESTÃO 16  \nQual das alternativas a seguir não apresenta \nnenhum erro de regência verbal?  \n(A) Esse barulho dos pássaros não me lembra a \nminha juventude no interior de Pernambuco.  \n(B) A quebra de contrato implicará em multas \nexpressivas.  \n(C) Eu sempre obedeci meus pais, mesmo \nquando eles não estavam totalmente com a razão.  \n(D) A tutora assistiu o aluno com deficiência \nvisual.  \n(E) Ana aspirava o posto de líder de torcida da \nclasse."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Leia os enunciados e destaque a alternativa que \npossui um erro de regência nominal.",
+            "alternativas": {
+                "A": "Exercício e redação complicados foram \naplicados no último teste de aptidão.",
+                "B": "Angústia é maléfico para a alma.",
+                "C": "O show de palhaços agradou a todas as \ncrianças.",
+                "D": "Comentamos sobre o crime ocorrido no \ncentro de São Paulo.",
+                "E": "Custou a André entender o problema \nmatemático."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Em qual das orações abaixo, a vírgula foi \nempregada incorretamente?",
+            "alternativas": {
+                "A": "Paulo só queria uma coisa, que todos fossem \namigos.",
+                "B": "As meninas, que têm mais de 18 anos, podem \nmorar sozinhas.",
+                "C": "Os livros, que são fontes inesgotáveis de \nconhecimento, devem ser guardados com \ncarinho.",
+                "D": "Quando chegaram ao circo, procuraram o \nmalabarista.",
+                "E": "Olhou a lista dos aprovados, procurou seu \nnome, não encontrou.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                    Página 6 de 10 QUESTÃO 19  \nEm algumas situações o uso da vírgula é \nconsiderado correto, como nos exemplos a \nseguir, salvo:  \n(A) Objetos pleonásticos  \n(B) Nome e complemento nominal  \n(C) Adjunto adverbial deslocado  \n(D) Vocativo  \n(E) Zeugma verbal"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Dentre as situações descritas a seguir, qual não é \ncorreto o emprego das aspas?",
+            "alternativas": {
+                "A": "Citação indireta",
+                "B": "Discurso direto",
+                "C": "Neologismos",
+                "D": "Estrangeirismos",
+                "E": "Palavras em sentido conotativo  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: João, o cobrador do ônibus, começou seu turno \ncom R$ 380,00 na caixa registradora. Durante o \ntrajeto, ele arrecadou dinheiro em três paradas \ndistintas: R$ 50,50 na primeira parada, R$ 37,75 \nna segunda e R$ 45,20 na terceira. Ao encerrar o \nturno, ele precisou forne cer R$ 10,00 de troco a \num passageiro. Qual será o valor restante na \ncaixa registradora de João ao final do turno?",
+            "alternativas": {
+                "A": "R$ 133,45",
+                "B": "R$ 502,55",
+                "C": "R$ 503,45",
+                "D": "R$ 123,45",
+                "E": "Nenhuma das alternativas  \n \n \n QUESTÃO 22  \nMaria foi ao supermercado com uma nota de R$ \n200,00. Ela comprou alguns itens que totalizaram \nR$ 33,75. Maria pagou pelos itens com a nota de \nR$ 200,00. Quanto Maria recebeu de troco?  \n \n(A) R$ 166,25  \n(B) R$ 166,50  \n(C) R$ 165,25  \n(D) R$ 165,50  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Enquanto estudava matemática, um aluno \ndecidiu fazer três séries de exercícios. Na \nprimeira série, resolveu 47 problemas, na \nsegunda, 63 problemas; e na terceira, 84 \nproblemas. Quantos problemas, ao todo, o aluno \nresolveu?",
+            "alternativas": {
+                "A": "193 problemas",
+                "B": "194 problemas",
+                "C": "195 problemas",
+                "D": "196 problemas",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Uma biblioteca adquiriu novos livros de três \ngêneros diferentes. Foram recebidas 2 caixas de \nlivros de romance, cada uma contendo 98 livros, \nalém de uma caixa de ficção científica com 125 \nlivros e outra caixa de biografias com 143 livros. \nQuantos livros a biblioteca adquiriu ao todo?",
+            "alternativas": {
+                "A": "366 livros",
+                "B": "313 livros",
+                "C": "364 livros",
+                "D": "464 livros",
+                "E": "406 livros  \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                    Página 7 de 10 QUESTÃO 25  \nMaria comprou um total de 330 bolinhas de gude \npara distribuir igualmente entre ela e seus 5 \namigos. Quantas bolinhas de gude cada amigo \nreceberá?  \n \n(A) 66 bolinhas de gude  \n(B) 55 bolinhas de gude  \n(C) 56 bolinhas de gude  \n(D)  57 bolinhas de gude  \n(E) 58 bolinhas de gude"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Um reservatório de água tem capacidade para \narmazenar 420 litros. Se for dividido igualmente \nem 7 partes, quantos litros de água caberão em \ncada parte?",
+            "alternativas": {
+                "A": "57 litros",
+                "B": "58 litros",
+                "C": "59 litros",
+                "D": "60 litros",
+                "E": "61 litros"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Um chefe de cozinha está preparando sobremesa \npara um evento e planeja fazer 12 tortas. Cada \ntorta é dividida em 8 fatias. Quantas fatias de \ntorta o chefe preparará ao todo?",
+            "alternativas": {
+                "A": "72",
+                "B": "80",
+                "C": "84",
+                "D": "88",
+                "E": "96  \n \n \n \n \n QUESTÃO 28  \nUm depósito de eletrônicos tem 18 prateleiras. \nEm cada prateleira cabem 45 caixas, e em cada \ncaixa podem ser armazenados 32 dispositivos \neletrônicos. Quantos dispositivos eletrônicos o \ndepósito pode armazenar no total?  \n \n(A) 25.920 dispositivos eletrônicos.  \n(B) 810 dispositivos eletrônicos.  \n(C) 576 dispositivos eletrônicos.  \n(D) 32.400 dispositivos eletrônicos.  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Um fio de cobre, com um comprimento total de \n18 metros, será dividido em pedaços de 1,2 \nmetros cada. Quantos pedaços serão obtidos?",
+            "alternativas": {
+                "A": "18 pedaços.",
+                "B": "19 pedaços.",
+                "C": "20 pedaços.",
+                "D": "21 pedaços.",
+                "E": "15 pedaços."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Em uma corrida de bicicleta, o ciclista Carlos \npercorreu 15 voltas em um circuito. Cada volta \ntem 2 quilômetros de extensão. Quantos \nquilômetros Carlos percorreu no total?",
+            "alternativas": {
+                "A": "20 quilômetros",
+                "B": "25 quilômetros",
+                "C": "30 quilômetros",
+                "D": "35 quilômetros",
+                "E": "40 quilômetros  \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                    Página 8 de 10 QUESTÃO 31  \nUm agricultor possui um campo de trigo que \nocupa 8 hectares. Se ele consegue colher 600 kg \nde trigo por hectare, quantos quilogramas de \ntrigo ele poderá colher no total?  \n(A) 4.000 kg  \n(B) 4.200 kg  \n(C) 4.500 kg  \n(D) 4.800 kg  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Um grupo de estudantes realizou uma pesquisa \nsobre o uso de smartphones. Eles entrevistaram \n200 pessoas e descobriram que 75% delas \npossuem smartphones. Quantas pessoas \nentrevistadas possuem smartphones?",
+            "alternativas": {
+                "A": "120 pessoas",
+                "B": "140 pessoas",
+                "C": "150 pessoas",
+                "D": "50 pessoas",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Assinale a alternativa que apresenta o \nQuadragésimo segundo número par antecessor \nde 300.",
+            "alternativas": {
+                "A": "342",
+                "B": "258",
+                "C": "216",
+                "D": "218",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Em uma competição de natação, 25% dos \nparticipantes chegaram em primeiro lugar, 15% \nforam desclassificados e o restante chegou em \nsegundo lugar. Se 200 nadadores participaram da \ncompetição, quantos nadadores foram \ndesclassificados?",
+            "alternativas": {
+                "A": "20 nadadores",
+                "B": "25 nadadores",
+                "C": "30 nadadores",
+                "D": "35 nadadores",
+                "E": "40 nadadores  QUESTÃO 35  \nUma cidade tinha uma população de 500.000 \nhabitantes em dezembro de 2024. Se a população \ncresce a uma taxa anual de 3%, qual será a \npopulação estimada para dezembro de 2025?  \n \n(A) 510.000 habitantes  \n(B) 512.500 habitantes  \n(C) 515.000 habitantes  \n(D) 517.500 habitantes  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Uma papelaria vendeu 25 kits escolares, e em \ncada kit havia 12 lápis e 13 canetas. Quantos \nlápis a papelaria vendeu no total?",
+            "alternativas": {
+                "A": "250 lápis",
+                "B": "300 lápis",
+                "C": "325 lápis",
+                "D": "625 lápis",
+                "E": "375 lápis"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Uma fazenda possui 24 prateleiras. Cada \nprateleira pode conter 36 caixas, e em cada caixa \ncabem 48 frutas. Quantas frutas a fazenda pode \narmazenar no total?",
+            "alternativas": {
+                "A": "864 frutas.",
+                "B": "36.432 frutas.",
+                "C": "41.472 frutas.",
+                "D": "1.728 frutas.",
+                "E": "41.742 frutas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Um carro tem um tanque de combustível com \ncapacidade para 60 litros. Se, no momento, o \ntanque contém 42 litros de combustível, qual é a \nporcentagem da capacidade total do tanque que \nestá sendo utilizada?",
+            "alternativas": {
+                "A": "30%",
+                "B": "40%",
+                "C": "50%",
+                "D": "60%",
+                "E": "70%  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                    Página 9 de 10 QUESTÃO 39  \nMariana possui 5 livros idênticos. Cada livro \npesa 800 gramas. Qual é a massa total dos 5 \nlivros que Mariana possui?  \n \n(A) 40 gramas  \n(B) 420 gramas  \n(C) 4000 gramas  \n(D) 400 gramas  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Assinale a alternativa que apresenta o trigésimo \nprimeiro número ímpar sucessor de 149.",
+            "alternativas": {
+                "A": "181",
+                "B": "211",
+                "C": "119",
+                "D": "87",
+                "E": "Nenhuma das alternativas  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                    Página 10 de 10"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: O último parágrafo do texto permite concluir \nque:",
+            "alternativas": {
+                "A": "O antigo zelador foi sequestrado pelo grupo \nde pessoas com quem conversou.",
+                "B": "As habilidades de ler e de escrever \nprejudicaram a memória do antigo zelador.",
+                "C": "Não existia uma saída no labirinto em que o \nzelador trabalhava.",
+                "D": "Explicar a forma de sair do labirinto fez com \nque o antigo zelador se confundisse e se perdesse.",
+                "E": "O grupo de visitantes existia apenas na \nimaginação do antigo zelador.  \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                            Página 3 de 9 QUESTÃO 02 \nO narrador afirma que o zelador “Era um homem \nmetódico”.  Isso porque ele:  \n(A) Seguia um procedimento próprio no \ntrabalho.   \n(B) Era desorganizado no trabalho.   \n(C) Trabalhava de uma forma confusa e \npreguiçosa.  \n(D) Realizava todas as atividades do trabalho de \numa única vez.  \n(E) Dispensava certas atividades por preguiça."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Segundo o texto, o zelador se apavorou porque:",
+            "alternativas": {
+                "A": "A administração do labirinto era muito \nrígida.",
+                "B": "Ele se deparou com pessoas estranhas no \nlabirinto.",
+                "C": "Ele percebeu a complexidade do labirinto ao \ntentar explicar como encontrar a saída às pessoas \nque estavam perdidas.",
+                "D": "As pessoas o ameaçaram caso não \nconseguissem sair do labirinto.",
+                "E": "O labirinto não tinha uma saída de verdade."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: O pronome “lhes”,  que ocorre em “Alguém \nprecisava lhes mostrar a saída!” , se refere:",
+            "alternativas": {
+                "A": "ao novo zelador.",
+                "B": "aos administradores do labirinto.",
+                "C": "ao próprio zelador.",
+                "D": "ao grupo de pessoas apavoradas.",
+                "E": "aos outros trabalhadores do labirinto."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: A palavra “bem”,  que ocorre em “O zelador não \nentendeu bem.”, tem a função gramatical de:",
+            "alternativas": {
+                "A": "substantivo.",
+                "B": "adjetivo.",
+                "C": "advérbio.",
+                "D": "pronome.",
+                "E": "conjunção.  QUESTÃO 06 \nNo excerto “Podiam adivinhar o que tinha \nacontecido.” , a terminação do verbo “poder”  \nindica apenas:  \n(A) gênero, número e tempo.  \n(B) modo, tempo, número e pessoa.  \n(C) gênero, número e pessoa.  \n(D) tempo e pessoa.  \n(E) pessoa e número."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: A palavra “aquilo”,  que ocorre em “Aquilo  era \nterrível.” , classifica -se gramaticalmente como:",
+            "alternativas": {
+                "A": "pronome possessivo.",
+                "B": "pronome indefinido.",
+                "C": "pronome pessoal.",
+                "D": "pronome relativo.",
+                "E": "pronome demonstrativo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: No excerto “ Queriam saber como sair dali.” , o \nadvérbio “ali” ocorre contraído com a preposição \n“de”. Esse advérbio, no contexto indicado, \nexprime uma circunstância de:",
+            "alternativas": {
+                "A": "tempo.",
+                "B": "modo.",
+                "C": "restrição.",
+                "D": "lugar.",
+                "E": "negação."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Nos excertos a seguir, retirados do texto, ocorre \num verbo no particípio apenas em:",
+            "alternativas": {
+                "A": "Onde ficava a saída?",
+                "B": "E em hipótese alguma devia falar com \nestranhos.",
+                "C": "Não tinham encontrado a saída.",
+                "D": "Tem também a história do zelador do \nlabirinto.",
+                "E": "Ponha isso num papel.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                            Página 4 de 9 QUESTÃO 10  \nA expressão “o novo zelador”,  que constitui o \nsujeito da sentença “O novo zelador não devia \nter muita imaginação.” , corresponde à pessoa \ngramatical:  \n(A) 1ª pessoa do singular.  \n(B) 2ª pessoa do singular.  \n(C) 3ª pessoa do singular.  \n(D) 1ª pessoa do plural.   \n(E) 3ª pessoa do plural."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: O emprego do acento indicativo de crase está \nincorreto  em:",
+            "alternativas": {
+                "A": "A professora deu à ele um livro de ficção.",
+                "B": "As meninas não deram uma chance à colega.",
+                "C": "Às quartas -feiras realizamos reuniões de \nequipe.",
+                "D": "Faziam trapalhadas às escondidas.",
+                "E": "É grata à psicóloga pelo apoio."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Assinale a alternativa em que se verifica o \npronome átono colocado em mesóclise.",
+            "alternativas": {
+                "A": "Disseram -me que os gatos são mais \nindependentes que os cachorros.",
+                "B": "Nós o encontramos no restaurante.",
+                "C": "Eles não querem te contar o motivo da briga.",
+                "D": "Cobrar -lhe-iam se não tivesse aparecido a \ntempo.",
+                "E": "Os vasos quebraram -se durante a madrugada."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Nas sentenças a seguir, a palavra em destaque é \num adjetivo apenas em:",
+            "alternativas": {
+                "A": "Corra depressa  para não se atrasar.",
+                "B": "As aulas de história são muito  interessantes.",
+                "C": "A bailarina executou os passos de forma \nmaravilhosa.",
+                "D": "O impacto  das mudanças climáticas já \ncomeçou a aparecer.",
+                "E": "Tenho muitas resoluções de Ano-Novo . \n QUESTÃO 14  \nA sentença a seguir que está incorreta em relação \nao uso do(s) verbo(s) é:  \n(A) A mãe e a filha foram assistir ao espetáculo.  \n(B) As férias de verão foram muito longas nesse \nano. \n(C) Não haviam palavras o suficiente para \ndescrever tamanha alegria.  \n(D) Ocorreram muitos imprevistos na semana \npassada.  \n(E) João e Pedro não participaram do evento da \nescola."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Assinale a alternativa em que a regência do verbo \né transitiva indireta.",
+            "alternativas": {
+                "A": "Os garotos comeram todos os biscoitos.",
+                "B": "Todos têm o mesmo valor.",
+                "C": "A lua está mais bonita hoje.",
+                "D": "A professora pediu silêncio aos alunos.",
+                "E": "Os alunos votaram contra a greve."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Nas sentenças a seguir, ocorre verbo regular \napenas em:",
+            "alternativas": {
+                "A": "A mulher foi prudente em sua decisão.",
+                "B": "As músicas do novo álbum da cantora \nestavam melhores ao vivo.",
+                "C": "Ponha as cartas sobre a mesa.",
+                "D": "As demandas requerem também mudanças.",
+                "E": "O ciclista pedalava muito rápido durante o \npercurso."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Os sinais de pontuação estão devidamente \nempregados em:",
+            "alternativas": {
+                "A": "Pergunte a ela se podemos nos encontrar no \nfim de semana?",
+                "B": "Reginaldo perdeu, a luta.",
+                "C": "Não se sabe quando, mas irão solucionar o \ncaso.",
+                "D": "Os garotos do quinto ano levaram tanta \nbronca, que saíram da escola.",
+                "E": "As cerejeiras são sem sombra de dúvidas, as \nárvores mais charmosas.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                            Página 5 de 9 QUESTÃO 18  \nAnalise as sentenças a seguir e assinale a \nalternativa em que o verbo empregado é coerente \ncom o contexto de uso.  \n(A) Não contém comigo neste caso.   \n(B) Os adolescentes não vêm a importância da \nescola.  \n(C) Virmos convocar a todos para a conferência \nda prefeitura.  \n(D) O veículo foi aprendido pela polícia.   \n(E) Ela dispensou o serviço da enfermeira ."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Considere a seguinte sentença: “Não se deve \nignorar o ímpeto que vem do coração.”  O \nsignificado da palavra “ímpeto”  é:",
+            "alternativas": {
+                "A": "medo.",
+                "B": "impulso.",
+                "C": "rancor.",
+                "D": "motivação.",
+                "E": "paixão."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Dentre as palavras a seguir, aquela que é \nclassificada como substantivo é:",
+            "alternativas": {
+                "A": "morrer.",
+                "B": "definitivamente.",
+                "C": "rudeza.",
+                "D": "pífio.",
+                "E": "perante.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Considere a sequência: D, 4, E, 8, F, 12, (...). \nQual é o 17º termo dessa sequência?",
+            "alternativas": {
+                "A": "36",
+                "B": "32",
+                "C": "L",
+                "D": "J",
+                "E": "Nenhuma das alternativas  \n QUESTÃO 22  \nAssinale a alternativa que apresenta o \nOctogésimo quinto número ímpar antecessor de \n201: \n(A) 117 \n(B) 119 \n(C) 29 \n(D) 33 \n(E) 31"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Assinale a alternativa que apresenta o \nSexagésimo oitavo número ímpar antecessor de \n407:",
+            "alternativas": {
+                "A": "339",
+                "B": "337",
+                "C": "271",
+                "D": "273",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Um técnico de informática leva \naproximadamente 20 minutos para reparar um \ncomputador em sua loja. Ele precisa consertar 8 \ncomputadores idênticos. Supondo que ele leve o \nmesmo tempo de 20 minutos para consertar cada \num, quantas horas o técnico levará para c onsertar \ntodos os 8 computadores?",
+            "alternativas": {
+                "A": "2 horas e 40 minutos",
+                "B": "3 horas e 06 minutos",
+                "C": "2 horas e 56 minutos",
+                "D": "3 horas e 16 minutos",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Maria está planejando comprar material para \npintar a casa. Ela precisa de 15 latas de tinta para \ncobrir todas as paredes. Cada lata de tinta custa \nR$ 32,90. Quanto Maria gastará na compra das \nlatas de tinta?",
+            "alternativas": {
+                "A": "R$ 493,50",
+                "B": "R$ 427,50",
+                "C": "R$ 503,50",
+                "D": "R$ 548,50",
+                "E": "Nenhuma das alternativas  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                            Página 6 de 9 QUESTÃO 26  \nUm supermercado está oferecendo descontos em \nalimentos para clientes que possuem um cartão \nde fidelidade. Se 25% dos clientes do \nsupermercado possuem esse cartão, e o \nsupermercado recebe em média 300 clientes por \ndia, quantos clientes por dia não têm o cartão de \nfidelidade e p agarão o preço regular pelos \nalimentos?  \n \n(A) 235 clientes  \n(B) 250 clientes  \n(C) 75 clientes  \n(D) 225 clientes  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Um pet shop tem 200 animais, entre cachorros, \ngatos e pássaros. Sabe -se que 50% dos animais \nsão cachorros, 30% são gatos e os 20% restantes \nsão pássaros. Se 15% dos cachorros, 10% dos \ngatos e 5% dos pássaros são filhotes, quantos \nanimais adultos há no pet shop?",
+            "alternativas": {
+                "A": "38",
+                "B": "177",
+                "C": "123",
+                "D": "182",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Um pacote de macarrão tem 800 gramas. \nQuantos quilogramas de macarrão há nesse \npacote?",
+            "alternativas": {
+                "A": "0,08 quilogramas",
+                "B": "0,8 quilogramas",
+                "C": "8 quilogramas",
+                "D": "80 quilogramas",
+                "E": "Nenhuma das alternativas  \n \n QUESTÃO 29  \nMaria tinha um cofre com algumas notas e \nmoedas. Ao abrir o cofre, ela encontrou 15 notas \nde R$ 10,00 e 25 notas de R$ 20,00. Além disso, \nhavia também 50 moedas de R$ 0,50 e 75 \nmoedas de R$ 1,00. Qual é o valor total que \nMaria tinha no cofrinho?  \n \n(A) R$ 400,00  \n(B) R$ 500,00  \n(C) R$ 600,00  \n(D) R$ 700,00  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Uma loja de brinquedos possui um total de 120 \nbrinquedos em estoque. Se 30% desses \nbrinquedos são bonecas, quantos brinquedos não \nsão bonecas?",
+            "alternativas": {
+                "A": "24 brinquedos",
+                "B": "36 brinquedos",
+                "C": "48 brinquedos",
+                "D": "72 brinquedos",
+                "E": "84 brinquedos"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Em uma loja de roupas, uma pessoa compra duas \ncamisetas e uma calça jeans, gastando no total R$ \n350,00. Se o preço de uma camiseta é \ndesconhecido e o preço de uma calça jeans é de \nR$ 100,00, qual é o preço de uma camiseta?",
+            "alternativas": {
+                "A": "R$ 250,00",
+                "B": "R$ 75,00",
+                "C": "R$ 175,00",
+                "D": "R$ 125,00",
+                "E": "Nenhuma das alternativas  \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                            Página 7 de 9 QUESTÃO 32  \nUma papelaria possui 3 prateleiras, cada uma \ncontendo 50 cadernos de desenho e 40 cadernos \nde música. Se cada caderno tem, em média, 50 \npáginas, quantas páginas de música há no total?  \n(A) 2.000 páginas  \n(B) 6.000 páginas  \n(C) 13.500 páginas  \n(D) 4.500 páginas  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Pedro tinha um cofre com algumas notas e \nmoedas. Ao abrir o cofre, ele encontrou 20 notas \nde R$ 5,00 e 30 notas de R$ 10,00. Além disso, \nhavia também 40 moedas de R$ 0,25 e 50 \nmoedas de R$ 0,50. Qual é o valor total que \nPedro tinha no cofrinho?",
+            "alternativas": {
+                "A": "R$ 420,00",
+                "B": "R$ 445,00",
+                "C": "R$ 455,25",
+                "D": "R$ 435,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Um pintor recebe um salário de R$ 3.500,00 por \nmês. Se ele obtiver um aumento salarial de 8% \nao ano, qual será o salário aproximado desse \npintor após 2 anos?",
+            "alternativas": {
+                "A": "R$ 4.060,00",
+                "B": "R$ 4.080,40",
+                "C": "R$ 4.082,40",
+                "D": "R$ 4. 600,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Uma embalagem de café tem 2,5 quilogramas. \nQuantos gramas de café há nessa embalagem?",
+            "alternativas": {
+                "A": "25 gramas",
+                "B": "250 gramas",
+                "C": "2.500 gramas",
+                "D": "25.000 gramas",
+                "E": "Nenhuma das alternativas  QUESTÃO 36  \nUm jardineiro está plantando mudas em seu \njardim. No primeiro dia, ele planta 10 mudas e a \ncada dia seguinte, planta o dobro da quantidade \ndo dia anterior. Se ele continuar esse padrão por \n7 dias, quantas mudas ele terá plantado ao final \ndo período?  \n(A) 80 mudas  \n(B) 70 mudas  \n(C) 640 mudas  \n(D) 1.270 mudas  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Em um aquário, há 200 peixes, divididos entre \npeixes dourados, peixes betta e peixes neon. \nSabe -se que 40% dos peixes são dourados, 30% \nsão betta e os 30% restantes são neon. Se 20% \ndos peixes dourados, 15% dos bettas e 10% dos \npeixes neon são filhotes, qu antos peixes filhotes \nhá no aquário?",
+            "alternativas": {
+                "A": "169",
+                "B": "31",
+                "C": "173",
+                "D": "37",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: João está planejando uma festa de aniversário em \nsua casa e decide renovar o quintal antes do \ngrande dia. Ele contratou um pedreiro para \nrealizar o trabalho de pavimentação. Após \ninspecionar o quintal, o pedreiro estimou que \nlevaria 9 dias para concluir o projeto. Se o \npedreiro der início à obra na quinta -feira, quando \nfinalizará o trabalho?",
+            "alternativas": {
+                "A": "sexta -feira",
+                "B": "Segunda -feira",
+                "C": "Terça -feira",
+                "D": "Quarta -feira",
+                "E": "Nenhuma das alternativas  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                            Página 8 de 9 QUESTÃO 39  \nUma estudante está se preparando para uma \ncompetição de natação. No primeiro dia, ela nada \n500 metros e a cada dia seguinte, aumenta sua \ndistância diária em 100 metros. Se ela continuar \nesse padrão por 5 dias, qual será a distância total \nnadada ao final do  período?  \n(A) 900 metros  \n(B) 4.500 metros  \n(C) 3.500 metros  \n(D) 1.200 metros  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Considere a sequência: S, 20, T, 40, U, 60, (...). \nQual é o 16º termo dessa sequência?",
+            "alternativas": {
+                "A": "Y",
+                "B": "160",
+                "C": "Z",
+                "D": "200",
+                "E": "Nenhuma das alternativas  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nCOVEIRO                                                                                                                                                            Página 9 de 9"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com a reportagem, é incorreto afirmar \nque:",
+            "alternativas": {
+                "A": "a descoberta da contaminação por \nmicroplásticos leva arqueólogos a questionarem \na forma tradicional de preservar amostras \narqueológicas.",
+                "B": "a contaminação por microplásticos não \ncompromete o valor de evidência de amostras \narqueológicas.",
+                "C": "é possível que microplásticos prejudiquem a \npreservação de vestígios arqueológicos.",
+                "D": "a química do solo pode ser afetada por \nmicroplásticos.",
+                "E": "a grande produção de plástico pode \ncontaminar os oceanos. \n \n Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 3 de 10 QUESTÃO 02 \nConsidere o excerto: “Nós pensamos nos \nmicroplásticos como um fenômeno moderno, já \nque só temos ouvido falar deles nos últimos 20 \nanos”. A relação estabelecida entre a oração \nprincipal e a oração subordinada no contexto \napresentado é: \n(A) causal. \n(B) concessiva. \n(C) adversativa. \n(D) conformativa. \n(E) comparativa."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Considere o excerto: “Assim, surge uma dúvida: \nserá que preservar amostras arqueológicas in situ \ncontinua sendo a abordagem mais adequada?” \nNesse contexto, em relação à coesão textual, o \npapel da expressão “assim” é estabelecer:",
+            "alternativas": {
+                "A": "referenciação anafórica.",
+                "B": "referenciação catafórica.",
+                "C": "sinonímia.",
+                "D": "substituição.",
+                "E": "sequenciação. \n \nConsidere o excerto a seguir para responder \nàs questões 4 e 5: \n \n“Esse novo estudo mostra que as partículas se \ninfiltraram em depósitos arqueológicos. E, como \nno caso dos oceanos, isso provavelmente está \nacontecendo há um período similar, \nconsiderando que partículas foram encontradas \nem amostras de solo retiradas e arquivadas em \n1988, de Wellingto n Row, em York”, sugere \nJennings. \n \n \n \n \n \n \n \n QUESTÃO 04 \nNo contexto apresentado, o elemento com o qual \no verbo “infiltraram” concorda, que atua, \nportanto, como sujeito da oração em que ocorre, \né: \n(A) “novo estudo”.  \n(B) “as partículas”.  \n(C) “as partículas se”.  \n(D) “depósitos arqueológicos”.  \n(E) “se”."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: O vocábulo “que”, em destaque no excerto \napresentado, classifica-se quanto à função \ngramatical que desempenha como:",
+            "alternativas": {
+                "A": "conjunção causal.",
+                "B": "conjunção explicativa.",
+                "C": "conjunção integrante.",
+                "D": "pronome relativo.",
+                "E": "preposição."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: No excerto “Os achados inéditos levantam \nquestionamentos sobre o impacto dos \nmicroplásticos em materiais estudados por \narqueólogos.”, a regência do verbo “levantar” é:",
+            "alternativas": {
+                "A": "transitiva direta.",
+                "B": "transitiva direta e indireta.",
+                "C": "transitiva indireta.",
+                "D": "intransitiva.",
+                "E": "de ligação. \n \nConsidere o excerto a seguir para responder \nàs questões de 7 a 9: \n \n“O que antes se acreditava serem depósitos \narqueológicos puros, prontos para investigação, \nestão, na realidade, contaminados por plástico”, \nafirma em comunicado o arqueólogo John \nSchofield, da Universidade de York, no Reino \nUnido. Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 4 de 10 QUESTÃO 07 \nNo contexto apresentado, o vocábulo “o”, em \ndestaque, desempenha o papel gramatical de: \n(A) artigo definido. \n(B) artigo indefinido. \n(C) pronome demonstrativo. \n(D) pronome relativo. \n(E) pronome oblíquo átono."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: O verbo que ocorre no excerto apresentado em \nsua forma infinitiva flexionada é:",
+            "alternativas": {
+                "A": "“acreditava”.",
+                "B": "“serem”.",
+                "C": "“estão”.",
+                "D": "“contaminados”.",
+                "E": "“afirma”."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: O emprego de vírgulas para isolar a expressão \n“na realidade”, no excerto apresentado, decorre, \nentre outros aspectos, do fato de que tal locução \ndesempenha o papel sintático de:",
+            "alternativas": {
+                "A": "adjunto adnominal.",
+                "B": "aposto do verbo.",
+                "C": "adjunto adverbial.",
+                "D": "complemento nominal.",
+                "E": "vocativo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: A palavra “exequível” é paroxítona e polissílaba. \nUma palavra que tem exatamente a mesma \ntonicidade e quantidade de sílabas é:",
+            "alternativas": {
+                "A": "esquelético.",
+                "B": "inexorável.",
+                "C": "inóspito.",
+                "D": "frutescente.",
+                "E": "polímero. QUESTÃO 11 \nDentre as palavras a seguir, aquela em que ocorre \nemprego incorreto do hífen é: \n(A) cobra- d’água.  \n(B) pré-vestibular. \n(C) auto-eficácia. \n(D) sub-região. \n(E) vice-diretor."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: A palavra substantiva cuja designação é abstrata \né:",
+            "alternativas": {
+                "A": "equidade.",
+                "B": "galáxia.",
+                "C": "lírio.",
+                "D": "pó.",
+                "E": "farol."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Analise as sentenças a seguir e assinale a \nalternativa em que o termo em destaque é um \nadvérbio que exprime noções relacionadas a \npossibilidade.",
+            "alternativas": {
+                "A": "Podiam estar muito  à frente do oponente se \ntivessem se preparado antes.",
+                "B": "Altair preferia usar massas de bolo que \nvinham já misturadas na proporção certa.",
+                "C": "Querer começar um novo negócio agora  é \num pouco irresponsável.",
+                "D": "Não esperaram a comida esfriar sequer  por \num minuto.",
+                "E": "Adiantou aos amigos que talvez  não \nencontrassem mais ingressos para o evento. \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 5 de 10 QUESTÃO 14 \nDentre as palavras a seguir, aquela que é comum \nde dois gêneros é: \n(A) reles. \n(B) mestre. \n(C) pagão. \n(D) étnico. \n(E) binário."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: As palavras ‘ memorável’ e ‘clemente’  são \nformadas por processos derivacionais e \napresentam sufixos formadores de adjetivos na \nlíngua portuguesa. O mesmo ocorre em:",
+            "alternativas": {
+                "A": "metodicamente.",
+                "B": "esfriar.",
+                "C": "funcional.",
+                "D": "escassez.",
+                "E": "probabilidade."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Analise as sentenças a seguir quanto à colocação \npronominal: \nI. Em se tratando de um caso delicado, estou \ndisposto a ajudar.  \nII. Neste lugar não há pessoas que nos querem \nbem.  \nIII. Reservou as quartas-feiras para o ajudar com \na tarefa de casa.  \nA(s) sentença(s) que apresenta(m) condições que \npermitiriam também a ênclise é (são) apenas:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "II e III. \n \n \n \n \n QUESTÃO 17 \nA sentença a seguir que apresenta o emprego \nincorreto do acento indicativo de crase é: \n(A) Quando chegarem, as encomendas devem ser \nentregues à essa funcionária.  \n(B) A partida do trem será à meia-noite.  \n(C) As palavras que disse à sua mãe foram muito \nbonitas. \n(D) Vá à casa de Pedro para buscar os materiais \nescolares. \n(E) Os ventos frios se intensificam à medida que \no outono avança."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Analise os pares de palavras a seguir e assinale a \nalternativa em que a relação semântica \nestabelecida entre as palavras dadas é de \nantonímia.",
+            "alternativas": {
+                "A": "preterido  – rejeitado .",
+                "B": "conspícuo  – notável .",
+                "C": "abundante  – lauto .",
+                "D": "avarento – pródigo.",
+                "E": "presumido  – presunçoso ."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Analise as sentenças a seguir quanto aos \nempregos das formas pronominais referentes à \nprimeira pessoa do plural: \nI. Ele nos viu e acenou.  \nII. Nós o encontramos ontem à noite. \nIII. O mal também pode existir dentro de nós.  \nNas sentenças dadas, ocorre o pronome pessoal \nde primeira pessoa do plural em forma oblíqua \napenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III. \n \n Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 6 de 10 QUESTÃO 20 \nAnalise as sentenças a seguir, levando em \nconsideração os verbos e as respectivas \nconjugações indicadas entre parênteses, ao final \nde cada sentença. Assinale a alternativa que \napresenta a forma de cada verbo que preenche \ncorretamente as respectivas lacunas nas \nsentenças dadas.  \nI. As coisas melhorarão se os conselheiros se \n…… às injustiças que sofremos. ( antepor  - \nfuturo do modo subjuntivo) \nII. Para esses livros …… nas caixas, tivemos que \ndescartar algumas coisas. ( caber  - infinitivo \nflexionado) \nIII. Espero que esses sacrifícios …… a pena. \n(valer - presente do modo subjuntivo)  \n(A) I. anteporem; II. caberem; III. valham.  \n(B) I. antepuserem; II. caberem; III. valham. \n(C) I. antepuserem; II. caber; III. valham. \n(D) I. anteporem; II. caberem; III. valem. \n(E) I. anteporiam; II. caber; III. valiam. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: A Amazônia Legal brasileira, que pertence à \nbacia Amazônica, tem uma área de \naproximadamente 5 milhões de quilômetros \nquadrados. Também estima-se que esta área \ntenha 400 bilhões de árvores. Considerando estes \nvalores, qual a quantidade média de árvores por \nquilômetro quadrado na Amazônia Legal?",
+            "alternativas": {
+                "A": "80.",
+                "B": "800.",
+                "C": "8000.",
+                "D": "80.000.",
+                "E": "800.000. \n \n \n \n \n QUESTÃO 22 \nUm estudante está escrevendo um artigo e fará \num gráfico em forma de triângulo para \nrepresentar porcentagens, conforme a figura: \n \nOs triângulos são equiláteros. O estudante deseja \nque a área sombreada represente 10% da área \ntotal do triângulo maior. Qual deve ser a razão \nentre h e H (alturas dos triângulos menor e maior, \nrespectivamente) para que isso seja possível? \n(A) 1/10.  \n(B) 10. \n(C) √10. \n(D) 1/√10. \n(E) 1/102."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Em uma cidade, no mês de fevereiro, o número \nde casos de uma doença misteriosa aumentou em \n50% em relação ao mês anterior. Isso fez com \nque as autoridades de saúde tomassem medidas \ndrásticas para conter a propagação da doença. \nApós as medidas, no mês de março houve uma \nredução de 40% nos casos relatados, em relação \na fevereiro. No entanto, em abril, os casos \naumentaram novamente em relação a março, \ndesta vez em 25%. Se o número de casos \nrelatados em janeiro foi de 2000, quantos casos \nda doença foram relatados em abril?",
+            "alternativas": {
+                "A": "1875.",
+                "B": "2250.",
+                "C": "1800.",
+                "D": "3000.",
+                "E": "1500. \n \n \nPrefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 7 de 10 QUESTÃO 24 \nLucas fez um empréstimo de R$ 5000 para ser \npago durante 6 meses a uma taxa de juros simples \nde 4% ao mês. No entanto, ele só conseguiu \npagar R$ 4000 no total após os 6 meses. Ele quer \nrenegociar o restante da dívida (incluindo o juro \nnão pago anteriormente) para pagamento em \nmais 4 meses. O banco, desta vez, cobrará uma \ntaxa de 8% ao mês no regime de juro simples. \nQuanto Lucas pagará por mês ao banco após essa \nrenegociação? \n(A) R$ 550,00. \n(B) R$ 704,00. \n(C) R$ 726,00. \n(D) R$ 330,00. \n(E) R$ 360,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Considere como verdadeira a proposição lógica: \n“Todos os mamíferos têm pelos”  \nSão negações dessa proposição, EXCETO:",
+            "alternativas": {
+                "A": "Algum mamífero não tem pelo.",
+                "B": "Pelo menos um mamífero não tem pelo.",
+                "C": "Existe um mamífero que não tem pelo.",
+                "D": "Todos os mamíferos não têm pelo.",
+                "E": "Nenhum mamífero não tem pelo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: A medida de área de 80 cm2, em milímetros \nquadrados equivale a:",
+            "alternativas": {
+                "A": "80.000 mm2.",
+                "B": "8.000 mm2.",
+                "C": "800 mm2.",
+                "D": "80 mm2.",
+                "E": "8 mm2. \n \n \n QUESTÃO 27 \nNuma caixa há bolas pretas, brancas e vermelhas. \nSabe-se que a razão entre o número de bolas \npretas e brancas é 4/5 e a razão entre o número de \nbolas brancas e vermelhas é 7/12. Qual a razão \nentre o número de bolas vermelhas e pretas? \n(A) 7/15.  \n(B) 3/35. \n(C) 35/3. \n(D) 7/20. \n(E) 15/7."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Um engenheiro recomenda que a cada 6 metros \nde viga, se coloque dois pilares de concreto. Se \nserão feitos 105 metros de viga, quantos pilares \nde concreto deverão ser feitos para atender à \nrecomendação?",
+            "alternativas": {
+                "A": "35.",
+                "B": "55.",
+                "C": "30.",
+                "D": "60.",
+                "E": "90."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Uma sequência é formada com pequenos círculos \ne quadrados, conforme a figura: \n \n \n \nA distância entre dois círculos subjacentes é \nsempre 1 cm, e a distância entre um círculo e um \nquadrado subjacente é sempre 3 cm. Se \nseguirmos essa sequência por 350 cm, quantos \nquadrados serão utilizados?",
+            "alternativas": {
+                "A": "88.",
+                "B": "87.",
+                "C": "50.",
+                "D": "51.",
+                "E": "35. \n \nPrefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 8 de 10 QUESTÃO 30 \nObserve a seguinte sequência lógica numérica: \n27, 24, 21, 18, 15, ... \nQue continua infinitamente também para valores \nnegativos. Todos os números aparecerão na \nsequência EXCETO: \n(A) − 222. \n(B) − 273. \n(C) − 522. \n(D) − 421. \n(E) − 921."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Uma empresa de produção de camisetas vende \ndois tipos de camisetas: camisetas básicas e \ncamisetas estampadas. O lucro por camiseta \nbásica vendida é de R$ 5,00, enquanto o lucro por \ncamiseta estampada vendida é de R$ 8,00. Em \num certo dia, a empresa vendeu um total de 101 \ncamisetas e obteve um lucro total de R$658,00. \nQuantas camisetas estampadas foram vendidas \nneste dia?",
+            "alternativas": {
+                "A": "25.",
+                "B": "26.",
+                "C": "33.",
+                "D": "50.",
+                "E": "51."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Considere um triângulo retângulo ABC, onde o \nângulo reto está em B. Seja D o ponto médio do \nlado AC. Se AB = 12 cm e BC = 16 cm, \ndetermine a medida do segmento DC:",
+            "alternativas": {
+                "A": "10 cm.",
+                "B": "14 cm.",
+                "C": "13 cm.",
+                "D": "17 cm.",
+                "E": "20 cm. \n QUESTÃO 33 \nEm uma escola, os alunos de três turmas \ndiferentes estão organizando uma competição de \nperguntas e repostas. A turma A tem 60 alunos, a \nturma B tem 72 alunos e a turma C tem 90 alunos. \nOs alunos irão se dividir em grupos. Cada grupo \nsomente pode ter alunos da mesma turma. Todos \nos grupos participantes terão exatamente o \nmesmo número de alunos e nenhum aluno ficará \nsem grupo. Qual o maior número de alunos por \ngrupo que se pode formar sob essas condições? \n(A) 6.  \n(B) 10. \n(C) 12. \n(D) 8. \n(E) 4."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Em uma turma de matemática avançada, há cinco \nalunos, chamados de A, B, C, D e E. Cada aluno \nfez um exame, e as notas foram 8, 9, 10, 11 e 12, \nrespectivamente. No entanto, um dos alunos \nalega que sua nota foi registrada incorretamente \ne que, na verdade, ele deveria ter recebido uma \nnota 25% maior do que a que foi registrada. Se a \nmédia aritmética das notas corrigidas dos alunos \né 10,5, qual aluno que teve a nota registrada \nincorretamente?",
+            "alternativas": {
+                "A": "A.",
+                "B": "B.",
+                "C": "C.",
+                "D": "D.",
+                "E": "E."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: A média aritmética ponderada dos números 6, 12, \n18, cujos pesos são 6, 4 e 2, respectivamente, é:",
+            "alternativas": {
+                "A": "6.",
+                "B": "10.",
+                "C": "12.",
+                "D": "14.",
+                "E": "16. \n \n Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 9 de 10 QUESTÃO 36 \nUm cubo, feito com um determinado material, \ntem 2 cm de lado e massa igual a 15 gramas. \nSabendo-se que a massa do objeto é proporcional \nao seu volume, qual será a massa de um cubo \ncom lado de 4 cm, construído com esse mesmo \nmaterial? \n(A) 30 gramas.  \n(B) 45 gramas. \n(C) 60 gramas. \n(D) 80 gramas. \n(E) 120 gramas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Um cliente fez uma compra online e pagou no \ntotal R$ 550,00. Ele sabe que 80% do valor pago \nfoi referente ao produto, e o restante foi referente \nao frete. Além disso, o valor do produto pago \nteve um desconto de 12% em relação ao valor do \nproduto original. Não houve desconto ou \nacréscimo no frete. Nesta situação, qual teria sido \no valor pago pelo cliente se não houvesse o \ndesconto oferecido?",
+            "alternativas": {
+                "A": "R$ 602,80.",
+                "B": "R$ 610,00.",
+                "C": "R$ 608,20.",
+                "D": "R$ 601,00.",
+                "E": "R$ 620,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Um caixa eletrônico possui somente cédulas de \nR$2, R$5, R$10 e de R$20. Uma pessoa quer \nsacar nesse caixa uma quantia de R$417,00, qual \no mínimo de cédulas que ela conseguirá sacar?",
+            "alternativas": {
+                "A": "21.",
+                "B": "22.",
+                "C": "23.",
+                "D": "24.",
+                "E": "25.  \n QUESTÃO 39 \nSe um evento começa às 22h44min do dia 1° de \njaneiro, e tem duração total de 64 horas e 40 \nminutos, qual dia e horário ele irá terminar? \n(A) 4 de janeiro às 14:24.  \n(B) 5 de janeiro às 15:44. \n(C) 5 de janeiro às 15:16. \n(D) 4 de janeiro às 15:24. \n(E) 4 de janeiro às 14:44."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Observe a seguinte sequência lógica numérica: \n7, 16, 27, 40, 55, 72, ... \nIndique o seu próximo elemento:",
+            "alternativas": {
+                "A": "91.",
+                "B": "90.",
+                "C": "89.",
+                "D": "88.",
+                "E": "87. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Juquitiba – Concurso Público 01/2024                                       INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 10 de 10"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 1: Com base no texto, qual das seguintes afirmações \né verdadeira?",
+            "alternativas": {
+                "A": "Todas as escavações arqueológicas \nconfirmaram a existência de escravidão africana \nna metrópole portuguesa no período colonial.",
+                "B": "A ocupação moderna da região do Monte do \nVale de Lachique, ao sul de Lisboa, ocorreu \nprincipalmente devido ao trabalho de \nescravizados africanos.",
+                "C": "As escavações arqueológicas na região do \nMonte do Vale de Lachique não encontraram \nvestígios de ocupações no período colonial.",
+                "D": "Os escravizados africanos que foram trazidos \npara Portugal no período colonial eram \npredominantemente utilizados na indústria \naçucareira.",
+                "E": "O trabalho dos escravizados africanos na \nmetrópole portuguesa no período colonial não \nestá relacionado ao tráfico de pessoas \nescravizadas da África Ocidental e Central. Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 3 de 11 QUESTÃO 02 \nCom base no texto, qual das seguintes palavras é um antônimo da palavra \"intenso\", conforme utilizado \nno seguinte trecho: \"Esse é um período em que o tráfico de pessoas escravizadas para Portugal a partir \nda África Ocidental e Central foi bastante  intenso \"? \n(A) Frequente. \n(B) Duradouro. \n(C) Profundo. \n(D) Acentuado. \n(E) Fraco."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 2: No trecho \" Faz sentido: estudos recentes estimam que foram trazidos da África para a colônia \nestabelecida por Portugal no Novo Mundo pelo menos 5,8 milhões de indivíduos escravizados \nentre os séculos 16 e 19 ,\" identifique a classe gramatical da palavra \"indivíduos\".",
+            "alternativas": {
+                "A": "Substantivo.",
+                "B": "Verbo.",
+                "C": "Adjetivo.",
+                "D": "Advérbio.",
+                "E": "Pronome."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 3: Das alternativas a seguir, escolha aquela que apresenta uma preposição na frase: \"durante esse período \nforam levadas muitas pessoas escravizadas para o sul\":",
+            "alternativas": {
+                "A": "durante.",
+                "B": "muitas.",
+                "C": "para.",
+                "D": "pessoas.",
+                "E": "sul. \n \n \n \n \n \n \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 4 de 11 QUESTÃO 05 \nConsidere o trecho a seguir: \n\"O autor escreveu, com habilidade notável, diversos contos que encantaram os leitores.\" \nNesse contexto, a pontuação com vírgulas desempenha um papel específico. Qual é a função princip al \ndas vírgulas no trecho acima? \n(A) Separar elementos de uma enumeração. \n(B) Indicar a presença de um aposto explicativo. \n(C) Sinalizar uma oração subordinada adverbial. \n(D) Isolar um adjunto adverbial de modo. \n(E) Separar o sujeito do predicado."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 4: (Disponível em: https://revistagalileu.globo.com/Cultura/noticia/2020/09/7-tirinhas-de-mafalda-para-\nrefletir-sobre-os-tempos-atuais.html .  \nCom base na tirinha da Mafalda, qual das seguintes alternativas melhor reflete a mensagem central do \nquadrinho?",
+            "alternativas": {
+                "A": "Mafalda está elogiando o pai por se preocupar mais com futebol do que com questões sociais.",
+                "B": "O pai de Mafalda se sente envergonhado porque percebeu que estava priorizando o futebol em vez \nde questões sociais mais importantes.",
+                "C": "Mafalda critica o pai por não se importar com futebol, que ela considera um assunto relevante.",
+                "D": "O pai de Mafalda está feliz porque sua filha compartilha seu interesse pelo futebol.",
+                "E": "Mafalda zomba do pai por se importar tanto com futebol enquanto questões sociais sérias são \nignoradas. \n \n \n \nPrefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 5 de 11 QUESTÃO 07 \n\"Na exposição de arte, havia três esculturas \nmodernas em destaque.\"  \nQual classe de palavras corresponde à palavra \ndestacada no trecho? \n(A) Verbo. \n(B) Substantivo. \n(C) Numeral.  \n(D) Adjetivo.  \n(E) Advérbio."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 5: Leia o seguinte trecho de um romance e responda \nà pergunta a seguir: \n\"O sol brilhava no céu azul, as árvores \nbalançavam suavemente ao vento e os pássaros \ncantavam alegremente.\" \nA conjunção \"e\" no trecho acima desempenha \nque função na estrutura da frase?",
+            "alternativas": {
+                "A": "Indicar uma oposição entre os elementos \nenumerados.",
+                "B": "Estabelecer uma relação de causa e efeito \nentre os elementos.",
+                "C": "Adicionar ênfase a cada elemento da \nenumeração.",
+                "D": "Conectar elementos de maneira coordenada, \nindicando que eles ocorrem simultaneamente.",
+                "E": "Separar elementos em categorias distintas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 6: Assinale a alternativa correta sobre pronomes \nrelativos:",
+            "alternativas": {
+                "A": "Pronomes relativos são sempre utilizados no \nsingular.",
+                "B": "O pronome relativo \"quem\" refere-se a \nobjetos e coisas.",
+                "C": "O pronome relativo \"que\" pode ser utilizado \npara substituir um antecedente masculino ou \nfeminino.",
+                "D": "Pronomes relativos introduzem uma ideia de \nposse ou pertencimento.",
+                "E": "Os pronomes relativos não podem ser \nutilizados para introduzir orações subordinadas \nadjetivas. \n QUESTÃO 10 \nJoão e Maria eram irmãos que viviam em uma \npequena casa no bosque com seu pai e madrasta. \nUm dia, a família enfrentou tempos difíceis e a \nmadrasta, influenciada pela ganância, convenceu \no pai a abandonar as crianças no coração da \nfloresta, para que eles não fossem um fardo. João, \nporém, ouviu a conversa e planejou um plano. \nEle pegou algumas pedrinhas brilhantes e as \nespalhou pelo caminho enquanto caminhavam na \nescuridão da noite. Assim, eles conseguiram \nencontrar o caminho de volta para casa. \nNo entanto, a madrasta não desistiu tão \nfacilmente. Em uma segunda tentativa, ela \nconvenceu o pai a levá-los ainda mais fundo na \nfloresta e deixá-los lá. Desta vez, João e Maria \ntiveram apenas migalhas de pão para seguir o \ncaminho de volta, mas as migalhas foram \ndevoradas pelos pássaros famintos do bosque. \nPerdidos, eles vagaram pela floresta até encontrar \numa casa feita de doces, coberta de açúcar e \nchocolate. Famintos e atraídos pela visão, \ncomeçaram a comer a casa. \nA casa pertencia a uma bruxa malvada que \naprisionou João e Maria. Através de coragem e \nastúcia, eles conseguiram escapar das garras da \nbruxa e voltar para casa, onde seu pai havia \nfinalmente reconhecido o erro e estava esperando \npor eles com arrependimento. \nJoão e Maria\" (Texto Adaptado).  Em: Contos de Fadas Clássicos. \nEditora Encanto, 2005, p. 32-40 \n \nCom base no excerto do conto de fadas \"João e \nMaria\", qual foi o motivo que levou a madrasta a \nconvencer o pai a tomar uma decisão drástica em \nrelação às crianças? \n(A) A madrasta estava preocupada com a \nsegurança das crianças na floresta. \n(B) A madrasta estava tomada por uma emoção \nnegativa e achava que as crianças representavam \num desafio devido aos tempos difíceis que a \nfamília estava enfrentando.  \n(C) A madrasta acreditava que as crianças \nprecisavam aprender a sobreviver na natureza e \npor isso convenceu o marido a deixá-las na \nfloresta.  \n(D) A madrasta desejava que as crianças \ntivessem uma experiência de vida única na \nfloresta, desta forma poderiam desenvolver mais \nrapidamente sua maturidade.  \n(E) A madrasta queria ensinar uma lição valiosa \nàs crianças. Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 6 de 11 TEXTO \nLeia o texto para responder às questões 11 e 12. \n \nPelo menos 100 pessoas morreram e outras 150 \nficaram feridas em um incêndio em um \ncasamento no norte do Iraque, informou a mídia \nestatal do país. A noiva e o noivo estariam entre \nas vítimas, segundo véiculos da imprensa local. \nO incêndio aconteceu no distrito de Al-\nHamdaniya, na província de Nínive, na noite de \nterça-feira (26). Ainda não está claro o que \ncausou o incêndio, mas os primeiros relatos \nindicam que ele começou depois que fogos de \nartifício foram usados.Painéis inflamáveis no \nlocal podem ter ajudado a propagação das \nchamas, fazendo com que partes do teto caíssem.  \n“O incêndio levou ao colapso de partes do \npavilhão como resultado do uso de materiais de \nconstrução altamente inflamáveis e de baixo \ncusto, que desmoronaram em poucos minutos \nquando o in cêndio começou”, afirmou a Defesa \nCivil do Iraque, citada pela agência Nina.  \nUm vídeo registrado por um correspondente da \nagência de notícias Reuters mostra bombeiros \nescalando os destroços do prédio em busca de \nsobreviventes nas primeiras horas da manhã de \nquarta-feira (27, no horário local).  \n\"Vimos o fogo pulsando, saindo do corredor. \nQuem conseguiu, escapou, e quem não \nconseguiu, ficou preso\", disse à Reuters Imad \nYohana, um homem de 34 anos que conseguiu \nescapar. Ambulâncias e equipes médicas foram \nenviadas ao local. \nO primeiro-ministro do Iraque ordenou às \nautoridades que \"mobilizem todos os esforços \npara fornecer ajuda às pessoas afetadas pelo \ninfeliz incidente\", afirmou o seu gabinete numa \npublicação no X (rede anteriormente conhecida \ncomo Twitter). Os feridos foram transferidos \npara hospitais em toda a região de Nínive, disse \no governador da região. Ele sugeriu que o \nnúmero de mortos e feridos ainda pode aumentar.  \nNo principal hospital de Hamdaniya, cidade a \nleste da capital da região, Mossul, dezenas de \npessoas apareceram para doar sangue para ajudar \nos feridos. \n(Disponível em: \nhttps://www.bbc.com/portuguese/articles/c03dgl\n89z84o .  QUESTÃO 11 \nDe acordo com a notícia sobre o incêndio durante \num casamento no norte do Iraque, qual evento \ndurante a celebração foi mencionado como um \npossível fator que contribuiu para o início do \nincêndio? \n(A) A queima de velas decorativas. \n(B) A explosão de um gerador de energia.  \n(C) A queda de objetos inflamáveis.  \n(D) O disparo de fogos de artifício.  \n(E) O superaquecimento do sistema de \niluminação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 7: De acordo com o texto, qual foi a reação das \npessoas após o incêndio ocorrido durante o \ncasamento no norte do Iraque?",
+            "alternativas": {
+                "A": "Elas fugiram imediatamente do local.",
+                "B": "Elas ajudaram a apagar o incêndio.",
+                "C": "Elas doaram sangue para as vítimas.",
+                "D": "Elas permaneceram dentro do pavilhão.",
+                "E": "Elas responsabilizaram o governo pela \ntragédia."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 8: Qual das seguintes afirmações descreve com \nprecisão a função principal do verbo em uma \nsentença, levando em consideração sua relação \ncom os elementos gramaticais e a estrutura da \nfrase?",
+            "alternativas": {
+                "A": "Controlar a concordância entre sujeito e \npredicado.",
+                "B": "Determinar a ordem das palavras na \nsentença.",
+                "C": "Indicar a relação entre dois substantivos na \nfrase.",
+                "D": "Indicar uma ação, estado ou fenômeno da \nnatureza.",
+                "E": "Estabelecer a relação causal entre duas \norações independentes. \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 7 de 11 QUESTÃO 14 \nLeia atentamente o trecho a seguir e identifique \no advérbio: \n\"Naquela manhã ensolarada, as crianças \nbrincavam alegremente no parque, enquanto os \nadultos conversavam animadamente sobre \ndiversos assuntos.\" \n(A) Naquela \n(B) ensolarada \n(C) alegremente \n(D) no \n(E) sobre"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 9: Em um debate sobre a evolução da literatura \ngótica, o palestrante mencionou que uma das \ncaracterísticas marcantes desse gênero é a \natmosfera \"lúgubre\" que frequentemente permeia \nas histórias. No contexto literário, qual das \nseguintes palavras é um sinônimo adequado para \n\"lúgubre\"?",
+            "alternativas": {
+                "A": "Ensolarado.",
+                "B": "Melancólico.",
+                "C": "Animado.",
+                "D": "Triunfante.",
+                "E": "Majestoso."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 10: A crase é uma característica marcante da língua \nportuguesa e seu uso pode ser desafiador para \nmuitos falantes. Considere a seguinte frase: \n \n\"Maria foi à escola.\" \nQual é o propósito do emprego da crase na frase \nacima?",
+            "alternativas": {
+                "A": "Expressar pluralidade de objetos de forma \nenfática.",
+                "B": "Sinalizar acento tônico em sílabas \nespecíficas.",
+                "C": "Indicar a omissão de uma vogal em casos \nespecíficos.",
+                "D": "Promover a fusão de sons vocálicos em \ncontextos determinados.",
+                "E": "Distinguir o gênero gramatical de \nsubstantivos em frases complexas. \n QUESTÃO 17 \nO que caracteriza o sentido figurado das \npalavras?  \n(A) O uso das palavras com significado literal.  \n(B) A utilização de palavras em seu sentido real.  \n(C) O emprego das palavras em contextos \nespecíficos. \n(D) A atribuição de significados não literais às \npalavras. \n(E) A correspondência direta entre palavra e \nconceito."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 11: Qual é a função do adjetivo na língua portuguesa \nde acordo com as normas gramaticais?",
+            "alternativas": {
+                "A": "Denotar ação ou estado.",
+                "B": "Atuar como um substituto de um \nsubstantivo.",
+                "C": "Estabelecer conexões entre frases em um \ntexto.",
+                "D": "Indicar uma relação temporal.",
+                "E": "Qualificar ou caracterizar um substantivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 12: A concordância de número se refere à \ncorrespondência gramatical entre as palavras em \numa frase em relação ao número. Identifique a \nalternativa em que há um erro de concordância \nnominal:",
+            "alternativas": {
+                "A": "Os livros antigos estão empoeirados.",
+                "B": "As flores perfumadas alegram o jardim.",
+                "C": "Os aluno estudiosos receberam elogios.",
+                "D": "O céu noturno estava estrelado.",
+                "E": "O carro novo é mais econômico. \n \n \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 8 de 11 QUESTÃO 20 \nA linguagem figurada desempenha um papel \ncrucial na comunicação e na literatura, \npermitindo que os escritores expressem ideias e \nemoções de maneira criativa e simbólica. \nConsidere a seguinte frase: \n\"A notícia da promoção dela foi música para os \nmeus ouvidos.\" \nNesta frase, qual das expressões a seguir \napresenta um sentido figurado? \n(A) \"Notícia da promoção\" que sugere uma \natualização sobre o status profissional. \n(B) \"Música para os meus ouvidos\" que denota \numa reação extremamente positiva à notícia. \n(C) \"Ouvir música\" que se refere à ação de \nescutar músicas. \n(D) “A notícia” que indica o conteúdo da \nmensagem comunicada. \n(E) “Meus ouvidos” que identifica o órgão \nsensorial envolvido na audição. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 13: Assinale a alternativa que apresenta o Vigésimo \nsegundo número ímpar antecessor de 137:",
+            "alternativas": {
+                "A": "91",
+                "B": "97",
+                "C": "115",
+                "D": "95",
+                "E": "93"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 14: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n1425 + 9 x 9",
+            "alternativas": {
+                "A": "1494",
+                "B": "1514",
+                "C": "1476",
+                "D": "1537",
+                "E": "1506 \n QUESTÃO 23 \nAssinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n43 x 123 x 2 \n \n(A) 10.578 \n(B) 8.196 \n(C) 9.616 \n(D) 6.578 \n(E) 10.598"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 15: Um livro tem 1269 páginas. Se uma pessoa lê 27 \npáginas por dia, quantos dias levará para terminar \nde ler o livro?",
+            "alternativas": {
+                "A": "45 dias",
+                "B": "46 dias",
+                "C": "47 dias",
+                "D": "48 dias",
+                "E": "49 dias"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 16: Em uma maratona, um corredor completou 8 \nvoltas em um circuito. Na primeira volta, ele fez \no percurso em 6 minutos, na segunda volta em 7 \nminutos, na terceira volta em 5 minutos, na \nquarta volta em 6 minutos, na quinta volta em 8 \nminutos, na sexta volta em 7 minutos, na sétima \nvolta em 5 minutos e na oitava volta em 6 \nminutos. Quantos minutos o corredor levou para \ncompletar todas as voltas?",
+            "alternativas": {
+                "A": "50 minutos",
+                "B": "53 minutos",
+                "C": "54 minutos",
+                "D": "56 minutos",
+                "E": "58 minutos \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 9 de 11 QUESTÃO 26 \nUm parque de diversões vende ingressos para um \nespetáculo. Durante um dia, foram vendidos 25 \ningressos pela manhã, 12 à tarde e 8 à noite. Cada \ningresso vendido pela manhã custa R$ 15,00, à \ntarde custa R$ 17,00 e à noite custa R$ 33,00. \nQual foi a receita total do parque nesse dia? \n \n(A) R$ 562,00 \n(B) R$ 732,00 \n(C) R$ 925,00 \n(D) R$ 843,00 \n(E) R$ 1.200,00"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 17: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n173 + 9 x 52",
+            "alternativas": {
+                "A": "714",
+                "B": "730",
+                "C": "555",
+                "D": "641",
+                "E": "380"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 18: Em uma caixa, há 24 lápis em cada pacote, e há \n9 pacotes. Quantos lápis há no total?",
+            "alternativas": {
+                "A": "215 lápis",
+                "B": "216 lápis",
+                "C": "217 lápis",
+                "D": "210 lápis",
+                "E": "220 lápis"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 19: Uma loja oferece um desconto de 25% em todos \nos produtos durante uma liquidação. Se um \nvestido custa R$ 185,00, qual é o preço com o \ndesconto aplicado?",
+            "alternativas": {
+                "A": "R$ 138,75",
+                "B": "R$ 129,25",
+                "C": "R$ 141,00",
+                "D": "R$ 135,00",
+                "E": "R$ 139,50 QUESTÃO 30 \nAssinale a alternativa que apresenta o Trigésimo \nnono número ímpar sucessor de 253: \n \n(A) 335 \n(B) 333 \n(C) 331 \n(D) 329 \n(E) 175"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 20: Uma loja de brinquedos vendeu 50 bonecas, 30 \ncarrinhos e 20 jogos de quebra-cabeça em um \ndia. Cada boneca custa R$ 25,00 cada carrinho \ncusta R$ 15,00 e cada jogo de quebra-cabeça \ncusta R$ 10,00. Qual foi o valor total das vendas \nda loja neste dia?",
+            "alternativas": {
+                "A": "R$ 2.500",
+                "B": "R$ 1.500",
+                "C": "R$ 3.000",
+                "D": "R$ 1.900",
+                "E": "R$ 4.000"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 21: Um edifício tem 12 andares. Se cada andar tem 4 \napartamentos e cada apartamento tem 3 quartos, \nquantos quartos há no edifício?",
+            "alternativas": {
+                "A": "48 quartos",
+                "B": "22 quartos",
+                "C": "144 quartos",
+                "D": "36 quartos",
+                "E": "124 quartos"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 22: Assinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n382 x 49",
+            "alternativas": {
+                "A": "18.604",
+                "B": "18.659",
+                "C": "18.703",
+                "D": "18.718",
+                "E": "18.725 Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 10 de 11 QUESTÃO 34 \nAssinale a alternativa que apresenta o \nQuadragésimo número ímpar antecessor de 165: \n(A) 85 \n(B) 90 \n(C) 87 \n(D) 81 \n(E) 83"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 23: Em uma loja, há 6 computadores em cada \nprateleira, e há 28 prateleiras no total. Quantos \ncomputadores há na loja?",
+            "alternativas": {
+                "A": "136 computadores",
+                "B": "140 computadores",
+                "C": "142 computadores",
+                "D": "148 computadores",
+                "E": "168 computadores"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 24: Em um cofrinho, Maria tem 80 moedas, sendo 30 \nmoedas de R$ 0,10, 20 moedas de R$ 0,25 e 30 \nmoedas de R$ 0,50. Qual é o valor total que \nMaria encontrou no cofrinho?",
+            "alternativas": {
+                "A": "R$ 25,00",
+                "B": "R$ 20,00",
+                "C": "R$ 22,50",
+                "D": "R$ 23,00",
+                "E": "R$ 21,50"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 25: Uma loja de eletrônicos oferece um desconto de \n15% em todos os produtos durante uma \nliquidação. Se um televisor custa R$ 2.000,00 \nsem o desconto, qual é o preço com o desconto \naplicado?",
+            "alternativas": {
+                "A": "R$ 1.600,00",
+                "B": "R$ 1.700,00",
+                "C": "R$ 1.800,00",
+                "D": "R$ 1.850,00",
+                "E": "R$ 2.100,00 QUESTÃO 38 \nJoão estabeleceu uma meta de economia para três \nsemanas consecutivas. Na primeira semana, ele \neconomizou R$ 15,00. Na segunda semana, ele \neconomizou R$ 20,00, mas também gastou R$ \n8,00 em um presente para um amigo. Na terceira \nsemana, ele economizou R$ 25,00, mas precisou \ngastar R$ 12,00 em um livro escolar. Quanto \ndinheiro João possui agora após as economias? \n(A) R$ 40,00 \n(B) R$ 45,00 \n(C) R$ 35,00 \n(D) R$ 30,00 \n(E) R$ 27,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 26: Em uma competição de matemática, um \nprofessor distribuiu o total de 40 pontos entre \nseus alunos. Se ele deu 5 pontos para cada aluno, \nquantos alunos participaram da competição?",
+            "alternativas": {
+                "A": "4 alunos",
+                "B": "6 alunos",
+                "C": "8 alunos",
+                "D": "10 alunos",
+                "E": "12 alunos"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "COVEIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 27: Lucas foi a uma loja de brinquedos com R$ 40,00 \npara comprar alguns itens. Ele comprou um \ncarrinho por R$ 18,00, uma bola por R$ 7,50 e \num quebra-cabeça por R$ 14,00. Quanto Lucas \ngastou no total?",
+            "alternativas": {
+                "A": "R$ 0,50",
+                "B": "R$ 21,50",
+                "C": "R$ 25,00",
+                "D": "R$ 39,50",
+                "E": "R$ 42,50 \n \n \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nCOVEIRO                                                                                                                                                       Página 11 de 11"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

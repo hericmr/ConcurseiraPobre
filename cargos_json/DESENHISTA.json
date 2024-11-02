@@ -1,3 +1,732 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c887d8f011a6bba59a40a7be0baeef04a55af4ae338c880832f9024477a8679
-size 61530
+{
+    "DESENHISTA": [
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: O texto <Uma galinha=, de Clarice Lispector, se \ntrata de:",
+            "alternativas": {
+                "A": "um conto.",
+                "B": "um romance.",
+                "C": "uma dissertação.",
+                "D": "uma novela.",
+                "E": "uma fábula."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Considere os seguintes trechos: \nI. Nem ela própria contava consigo; \nII. a galinha tinha que decidir por si mesma os \ncaminhos a tomar; \nIII. Sua única vantagem é que havia tantas \ngalinhas que, morrendo uma, surgiria no mesmo \ninstante outra tão igual como se fora a mesma. \nOs pronomes <consigo=, <si= e <sua= são, \nrespectivamente:",
+            "alternativas": {
+                "A": "I. pronome pessoal do caso oblíquo átono; II. \npronome pessoal do caso oblíquo tônico; III. \npronome possessivo.",
+                "B": "I. pronome pessoal do caso oblíquo átono; II. \npronome pessoal do caso oblíquo átono; \npronome pessoal do caso reto.",
+                "C": "I. pronome pessoal do caso reto; II. pronome \npessoal do caso oblíquo tônico; III. pronome \npessoal do caso oblíquo tônico.",
+                "D": "I. pronome pessoal do caso oblíquo tônico; \nII. pronome pessoal do caso reto; III. pronome \npossessivo.",
+                "E": "I. pronome pessoal do caso oblíquo tônico ; \nII. pronome pessoal do caso oblíquo tônico; III. \npronome possessivo.  \n \n \n \n QUESTÃO 03 \nConsidere o exce rto: <E, por mais ínfima que \nfosse a presa, o grito de conquista havia soado.= \nNeste contexto, a palavra <ínfima= poderia ser \nsubstituída, sem prejuízo de valor, por: \n(A) íntima. \n(B) insignificante. \n(C) efêmera. \n(D) tímida. \n(E) colossal."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: O exc erto <E então parecia tão livre. Estúpida, \ntímida e livre= se refere:",
+            "alternativas": {
+                "A": "à menina.",
+                "B": "à mãe.",
+                "C": "à cozinheira.",
+                "D": "à galinha.",
+                "E": "à família."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Considere o trecho <Até que um dia mataram -na, \ncomeram-na e passaram- se anos.= Os elementos \n-na e -se, que ocorrem junto aos verbos, são, \nrespectivamente:",
+            "alternativas": {
+                "A": "pronome pessoal do caso oblíquo e partícula \nexpletiva.",
+                "B": "pronome pessoal do caso reto e partícula \nexpletiva.",
+                "C": "pronome pessoal do caso oblíquo e pronome \nreflexivo.",
+                "D": "pronome pessoal do caso reto e pronome \nreflexivo.",
+                "E": "pronome pessoal do caso oblíquo e índice de \nindeterminação do sujeito."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Considere o excerto <É verdade que não se \npoderia contar com ela para nada.= Em relação à \nclasse gramatical, as palavras <que=, <não=, \n<com= e  <nada= são, respectivamente:",
+            "alternativas": {
+                "A": "preposição, advérbio, conjunção, pronome \nindefinido.",
+                "B": "conjunção, substantivo, conjunção, advérbio.",
+                "C": "conjunção, advérbio, preposição, pronome \nindefinido.",
+                "D": "preposição, substantivo, preposição, \nadvérbio.",
+                "E": "conjunção, advérbio, conjunção, substantivo. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 4 de 16 QUESTÃO 07 \nNo texto, ocorrem as palavras \"indiferença\" e \n\"inconsciente\". As palavras mencionadas têm em \ncomum em seus processos de formação: \n(A) a inserção de um mesmo prefixo. \n(B) a inserção de um morfema de número. \n(C) a inserção de um morfema de gênero. \n(D) a inserção do mesmo sufixo. \n(E) a derivação de um mesmo radical."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Assinale a alternativa que apresenta uma oração \nsubordinada adverbial com valor proporcional.",
+            "alternativas": {
+                "A": "Caso os relatórios sejam aprovados, \npassamos à próxima etapa.",
+                "B": "À medida que conversavam, chegavam a um \nconsenso.",
+                "C": "Ela estava conformada com a situação, uma \nvez que o caso havia sido encerrado.",
+                "D": "Embora quisesse conquistar aquele objetivo, \npouco se esforçava.",
+                "E": "Colocou tanto sabão em pó que a máquina de \nlavar transbordou."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Assinale a alternativa que apresenta todas as \npalavras grafadas corretamente quanto ao uso de \nhífen.",
+            "alternativas": {
+                "A": "afro-descendente, pé-de-moleque, cor-de-\nrosa, euro-cêntrico.",
+                "B": "conta-gotas, anti-semita, ex-diretor, co-\nordenador.",
+                "C": "erva-doce, cobra- d’água, afro -asiático, \ncouve-flor.",
+                "D": "semi-árido; extra-curricular, retro-alimentar, \nsocio-econômico,",
+                "E": "infra-axilar, anti-inflamatório, para-quedas, \npara-brisa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Considere o tr echo a seguir: <O padre de \nAssunção pediu ao frade um lenço de pano e um \nsapato de couro; este para o Dia de Reis, aquele \npara o dia de Santo Amaro.= Os pronomes <este= \ne <aquele= no trecho dado retomam, \nrespectivamente:",
+            "alternativas": {
+                "A": "um sapato de couro, um lenço de pano.",
+                "B": "couro, pano.",
+                "C": "o padre de Assunção, o frade.",
+                "D": "um lenço de pano, um sapato de couro.",
+                "E": "o frade, o padre de Assunção. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: A figura geométrica ilustrada a seguir representa \na planta de um terreno plano de um bairro. \n \nÉ correto afirmar que a área do terreno, em m², é \nigual a:",
+            "alternativas": {
+                "A": "1120.",
+                "B": "1205.",
+                "C": "1271.",
+                "D": "1296.",
+                "E": "1302."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: A raiz quadrada do cubo de um número X \npositivo é igual ao triplo deste número X. Logo, \né correto afirmar que 150% de X é igual a:",
+            "alternativas": {
+                "A": "9,00.",
+                "B": "10,50.",
+                "C": "12,00.",
+                "D": "13,50.",
+                "E": "15,00. \n \n \n \n \n  \n18 m 22m32 m\n15 m 19 mPrefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 5 de 16 QUESTÃO 13 \nA tabela a seguir apresentada as notas que 02 \n(dois) candidatos receberam em um concurso \npúblico. \nCandidato Disciplina \nPortuguês Matemática Legislação \nA 15 6 7 \nB 7 11 8 \n \nSabendo que os pesos de cada disciplina do \nconcurso, ou seja, Português, Matemática e \nLegislação são respectivamente iguais a 3; 3 e 4, \né correto afirmar que: \n(A) A média ponderada das notas do candidato A \né 8,50. \n(B)A média ponderada das notas do candidato B \né 9,00. \n(C) A média ponderada do candidato B é 10% \nmaior que a do candidato A. \n(D) A média ponderada das notas do candidato A \né 9,10. \n(E) A média ponderada das notas do candidato B \né 8,70."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Sabendo que o volume de um prisma de base \nquadrada é igual a 54 cm³ e que a altura do prisma \né igual ao dobro da raiz quadrada da área de sua \nbase, é correto afirmar que cada lado da base \nquadrada do prisma mede:",
+            "alternativas": {
+                "A": "2,2 cm.",
+                "B": "2,6 cm.",
+                "C": "3,0 cm.",
+                "D": "3,6 cm.",
+                "E": "4,2 cm. \n \n \n QUESTÃO 15 \nAmélia e Bia são as únicas sócias em uma fábrica \nde cartões. Sabendo que o capital social da \nempresa é de R$ 37.000,00 e que o capital social \nde Amélia menos 2/3 do capital social de Bia é \nigual a R$ 0,00, pode-se afirmar que o capital \nsocial de Bia é de: \n(A) R$ 16.510,00. \n(B) R$ 19.200,00. \n(C) R$ 22.200,00. \n(D) R$ 23.100,00. \n(E) R$ 23.420,00. \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "Não encontrada"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: As fórmulas do Excel são recursos funcionais \nque podem fornecer apoio aos usuários deste \nsoftware, permitindo-lhes extrair o máximo de \ninformações em uma planilha. Neste sentido, \nanalise a fórmula a seguir e assinale a alternativa \ncorreta:  \n=SOMA(A1:B1)",
+            "alternativas": {
+                "A": "A função \"SOMA\" no Excel é uma \nferramenta muito útil para tirar média entre \nvalores em planilhas.",
+                "B": "A função \"SOMA\" no Excel é uma \nferramenta para realizar pesquisas rápidas e \nautomatizar tarefas no Excel.",
+                "C": "A função <SOMA= no Excel é uma \nferramenta bastante flexível e pode ser utilizada \npara lidar com condições mais complexas. Ela é \namplamente utilizada para tomada de decisão, \nfiltragem de dados e automatização de tarefas no \nExcel.",
+                "D": "A função \"SOMA\" no Excel é uma \nferramenta muito útil para fazer contas simples e \né frequentemente usada em planilhas para somar \nvalores de células ou grupos de células \ndiferentes.",
+                "E": "A função \"SOMA\" no Excel é uma \nferramenta que pode ser aplicada em uma \nvariedade de situações, como procurar nomes em \numa lista e retornar informações associadas, \nencontrar preços de produtos em uma tabela de \nestoque, entre outras aplicações onde a busca e \ncorrespondência de dados são necessárias. \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 6 de 16 QUESTÃO 17 \nNo MS-Word 2016 há diversos tipos de atalhos \nque ajudam na formatação, edição e alteração do \ntexto. Neste sentido, assinale a alternativa que \nindique corretamente quais teclas que devem ser \nutilizadas como forma de atalho para copiar o \nconteúdo selecionado para a área de \ntransferência. \n(A) CTRL + C. \n(B) CTRL + B. \n(C) CTRL + A. \n(D) CTRL + Y. \n(E) CTRL + Z."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Analise a imagem e indique qual programa do \nMS-Office 2016 ela representa.",
+            "alternativas": {
+                "A": "Excel.",
+                "B": "Slide.",
+                "C": "PowerPoint.",
+                "D": "Paint.",
+                "E": "Windows."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Uma URL ( Uniform Resource Locator ) é um \nendereço único que identifica a localização de \num recurso na internet. Ela é usada para acessar \npáginas da web, documentos, imagens, vídeos e \noutros tipos de conteúdo online. Uma URL é \ncomposta por vários elementos, sendo alguns \ndeles:",
+            "alternativas": {
+                "A": "Domínio; Dados de transferência; IP do \ncomputador.",
+                "B": "Domínio; Número de IP; ID de \nidentificação.",
+                "C": "Caminho; Número de protocolo; ID de \nidentificação.",
+                "D": "Protocolo; Caminho; Dados da \ntransferência.",
+                "E": "Protocolo; Domínio; Caminho.  \n QUESTÃO 20  \nAnalise do texto a seguir e assinale a alternativa \nque complete a lacuna de acordo com o conceito \napresentado no trecho: \n<A ________ é uma funcionalidade do Windows \nque permite copiar e armazenar temporariamente \ninformações, como texto, imagens ou arquivos, \nem um espaço reservado na memória do \ncomputador. Essas informações podem ser \nposteriormente coladas em outro local, como em \num documento, programa ou campo de entrada \nde texto.=  \n(A) Subpasta. \n(B) Barra de pesquisa. \n(C) Calculadora. \n(D) Área de transferência. \n(E) Pasta. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPrefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 7 de 16 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: A finalidade principal do Desenho Técnico é a representação precisa, no plano, das formas do mundo \nmaterial e, portanto, tridimensional, de modo a possibilitar a reconstituição espacial das mesmas.  \nAssim, pode-se afirmar: \n(A)As normas gerais de desenho técnico são regulamentadas pela ABNT em todo o mundo. \n(B)O desenho técnico é derivado da Geometria Analítica. \n(C)O desenho técnico é uma linguagem utilizada pela indústria. \n(D)O emprego de escalas no desenho técnico é obrigatório, e dispensa a cotagem nos projetos \narquitetônicos, estruturais, mecânicos ou hidráulicos. \n(E)Mesmo com a existência das normas, os projetistas têm total autonomia para criar e aplicar \nconvenções próprias em seus trabalhos. \n \n \nQUESTÃO 22 \nO Sistema de Projeções Ortogonais desenvolvido pelo matemático francês Gaspard Monge, o Sistema \nMongeano, pode ser definido da seguinte forma: \n \n(...) utiliza dois Planos de projeção perpendiculares entre si (plano horizontal e plano vertical ) e \nilimitados onde são feitas as projeções nestes planos das figuras em 3D que se quer representar em \nduas dimensões. \n \nSobre a representação através de projeções ortogonais de um objeto e suas aplicações pr áticas em \ndesenho técnico, assinale a alternativa correta: \n \n(A)No Brasil, a ABNT, admite a representação apenas no 1º diedro. \n(B)No Desenho Técnico, o 2º e o 4º diedros são amplamente utilizados pois, em épura, ocorre \nsobreposição das projeções após o rebatimento dos planos, tornando possível a interpretação do obj eto \ncom menos desenhos. \n(C)Um terceiro plano de projeção, denominado Plano Lateral, forma com o diedro conhecido um \ntriedro, sendo perpendicular aos planos de projeção Horizontal e Vertical. O plano lateral fornecerá \numa terceira projeção do objeto. \n(D)O rebatimento dos planos, que formam a Épura, possibilita representar com uma única projeção. \n(E)Sendo impossível representar um objeto fielmente com as vistas geradas a partir de projeções  \nortogonais, é necessário incluir a perspectiva isométrica para ser considerado um desenho técnico. \n \n \n \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 8 de 16 QUESTÃO 23 \nA escala permite que se represente, desde mapas urbanos e grandes meios de transportes até pequenas \npeças de informática, de modo a representar o objeto de forma compreensível e precisa. \nObserve as afirmativas abaixo, e julgue-as como verdadeiras ou falsas. \nI. nas escalas escritas sob a forma X:Y, o primeiro número X se refere as dimensões do desenho e o \nsegundo, Y as dimensões do objeto representado.  \nII. As escalas são facilmente identificadas, por isso nem sempre é necessário anotá-la junto ao desenho.  \nIII. Existem três tipos de escalas: natural (1:1), de redução (2:1) e de ampliação (1:2). \nAssinale a alternativa com a análise correta das afirmativas:",
+            "alternativas": {
+                "A": "A afirmativa I é verdadeira.",
+                "B": "A afirmativa II é verdadeira.",
+                "C": "A afirmativa III é verdadeira.",
+                "D": "As afirmativas I e II são falsas.",
+                "E": "As afirmativas II e III são verdadeiras."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: O desenho técnico é composto por uma série de elementos gráficos que, juntos, tornam possível a \ncompreensão do objeto representado. \nAssinale a alternativa que apresenta dois elementos gráficos do desenho:",
+            "alternativas": {
+                "A": "Escrita em caligrafia técnica e Folha de desenho no tamanho A0.",
+                "B": "Escala de redução e cotas.",
+                "C": "Escrita em caligrafia técnica e Folhas de desenho com formatos e margens padronizadas.",
+                "D": "Tipos de linhas e Malha quadriculada.",
+                "E": "Escala de redução e Escrita em fonte Arial Narrow."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Qual a maior escala possível para apresentar uma planta com 26,80m de largura e 17,60m de \ncomprimento uma folha tamanho A3?",
+            "alternativas": {
+                "A": "1:150",
+                "B": "1:100",
+                "C": "1:75",
+                "D": "1:50",
+                "E": "1:25 \n \n \n \n \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 9 de 16"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Dada a peça cujas projeções estão representadas no 1º diedro, identifique a peça em perspec tiva \ncorrespondente.",
+            "alternativas": {
+                "A": "(D)",
+                "B": "(E)",
+                "C": "Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 10 de 16 QUESTÃO 27 \nPara garantir a correta interpretação dos desenhos técnicos, os mesmos são sujeitos a normatizaçõ es e \nconvenções.  \nAssinale a alternativa que relaciona corretamente o tipo de linha e sua aplicação no desenho técnico: \nTipos de linha \nI.  \nContínua larga \nII.  \nContínua estreita \nIII.  \nTracejada  \nIV.  \nTraço e ponto estreito \n \nAplicação geral \n(    ) Contornos e arestas não visíveis \n(    ) Contornos e arestas visíveis  \n(    ) Linhas de centro e de simetria  \n(    ) Linhas de cotas e linhas auxiliares  \n \n(A) III, II, IV, I \n(B) IV, I, III, II \n(C) III, I, IV, II",
+                "D": "III, IV, I, II",
+                "E": "II, I, IV, III"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Assinale a associação correta entre o formato de folhas padrão da série A (ISO) e suas respec tivas \ndimensões (em milímetros):",
+            "alternativas": {
+                "A": "A0 - 840 × 1190",
+                "B": "A1 - 594 × 840",
+                "C": "A2 - 420 × 594",
+                "D": "A3 - 295 × 422",
+                "E": "A4 - 211 × 295 \n QUESTÃO 29 \nSobre o sistema de projeções ortogonais de um objeto no plano, é verdadeiro afirmar: \n(A) A figura formada pela projeção ortogonal de um segmento de reta sobre um plano é sempre outra \nsegmento de reta. \n(B) A Vistas ortográficas são resultado da representação por meio da Projeção Cilíndrica Ortogonal, \nque gera a representação da forma exata de um objeto. \n(C) Distorção da representação de um objeto nas projeções ortogonais variam de acordo com a \ndistancia em que o plano está posicionado em relação ao objeto. \n(D) A projeção ortogonal de um segmento de plano será um segmento de reta quando estiver inclinado \nem relação ao plano de projeção. \n(E) na Projeção Ortogonal os raios projetantes são perpendiculares ao plano de projeção, reproduzindo \nfielmente as dimensões da face projetada no plano de projeção. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 11 de 16 QUESTÃO 30 \nAssinale a correta associação entre o elemento de projeção e sua característica nas projeções cilíndricas \nortogonais: \n(A)Observador (centro da projeção): encontra-se a uma distância infinita do plano de projeção \n(B)Objeto: devem, necessariamente, estar posicionados perpendicularmente aos planos de projeção. \n(C)Raios projetantes: são paralelos ao plano de projeção. \n(D)Planos de projeção: os planos vertical e horizontal se cortam perpendicularmente, dividindo o \nespaço em 4 diedros. \n(E)Projeção do objeto: desde que as superfícies dos objetos não estejam paralelas ao plano de  projeção, \nse projetam com a mesma forma e as mesmas dimensões, isto é, em <verdadeira grandeza="
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: A perspectiva é a arte que se dedica à representação de objetos tridimensionais numa superfície \nbidimensional fim de reproduzir a forma e a disposição segundo a qual os objetos se apresentam ao \nolho do observador. \nSobre a representação por perspectivas, leia as afirmativas abaixo: \nI - Perspectivas Axonométricas é uma projeção ortográfica na qual se utiliza somente um plano, se ndo \no objeto colocado de modo a mostrar três faces. No Desenho é usado nas posições isométrica, dimétrica \ne trimétrica, sendo a Isométrica a mais comum, com a vantagem de ser a mais fácil de desenhar e cota r. \nII - A perspectiva cavaleira é um tipo de projeção cilíndrica oblíqua na qual o objeto tem uma face \nparalela ao quadro (plano de projeção) em seu tamanho real. As demais faces sofrem distorções, e suas \nlinhas projetantes estão a um ângulo de inclinação 0 do plano de projeção. \nIII - Na perspectiva cônica a ordem de sobreposição e a distância entre objetos determi nam, através da \nperspectiva, a proporção (tamanho relativo) entre eles. Ou seja, quando dois ou mais objetos estão no \nmesmo plano, a proporção entre eles é a real. \nSão verdadeiras: \n(A)I e II \n(B)I e III \n(C)II e III \n(D)I, II e III \n(E)Apenas II \nQUESTÃO 32 \nNo software AutoCAD com um único comando é possível repetir uma entidade, determinando \nquantidade e distancia de linhas e colunas em que o objeto deve estar disposto. \nQual o nome do comando?",
+            "alternativas": {
+                "A": "Fillet",
+                "B": "Array",
+                "C": "Gridmajor",
+                "D": "Boundary",
+                "E": "Reverse \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 12 de 16 QUESTÃO 33 \nO Desenho Topográfico consiste na representação fiel do terreno em planta, com seus acidentes \nnaturais, hidrografia, uso do solo, benfeitorias, bem como todos os elementos relevantes para atender \na finalidade do levantamento. \nObserve as sentenças abaixo e julgue-as como Verdadeira (V) ou Falsa (F). \n(   ) As variações de altura medidas em levantamento serão representadas por curvas de nível, que \nconsistem na representação dos pontos de mesma altura em relação a um plano horizontal tomado como \nreferência. \n(  ) Indicação de escala numérica ou gráfica, e orientação (direção N-S) são os únicos elementos \nobrigatórios no desenho topográfico. \n(  ) A planta topográfica deverá estar referida a um Sistema de Coordenadas. \n(   ) A representação do relevo por Ponto Cotado fornece a precisão adequada, mas não permite a \nvisualização geral da forma do terreno. \nAssinale a alternativa com a sequência correta. \n(A) VVFV \n(B) VFVV \n(C) FVVF \n(D) VFFV \n(E) FVFF"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Os formatos das folhas utilizadas no D esenho Técnico seguem o padrão da série <A= da International \nStandartzation Organization  (ISO). \nSobre a padronização de folhas para desenho técnico e sua dobradura, é incorreto afirmar: \n(A)O padrão parte de uma folha retangular, cuja área mede 1m² e deriva-se pela bipartição dos \nformatos.  \n(B)As folhas devem apresentar linhas de margem que limitam a área destinada ao desenho recuada da \nborda da folha.  \n(C)Deve-se reservar o espaço da legenda. Trata-se de uma tabela contendo informação, indica ção e \nidentificação do desenho, tais como: título, conteúdo, autoria, local, data, escala, unidade, número da \nprancha e número da revisão. \n(D)O formato final do dobramento das cópias de desenho deve ser o formato A4. \n(E)As folhas de desenhos devem ser utilizadas unicamente na posição vertical. \nQUESTÃO 35 \nSão elementos da Perspectiva:",
+            "alternativas": {
+                "A": "Linha de horizonte e Linha de fuga",
+                "B": "Ponto de Vista e Plano de Intercessão",
+                "C": "Linha de Fuga e Ponto de Fuga",
+                "D": "Ponto de Vista e Raio Ortogonal",
+                "E": "Plano de Intercessão e Linha de Fuga \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 13 de 16 QUESTÃO 36 \nEm um determinado projeto, a altura final da peça foi representada com altura de 36 cm na esca la de \n1:15.  \nQual a altura real desta peça? \n(A) 2,36 m \n(B) 2,40 m \n(C) 3,60 m \n(D) 24,0 m \n(E) 36,0 m"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Leia o texto: \n Um SIG*, então, é um sistema 3 modelo 3 que representa um outro sistema 3 sistema do mundo \nreal. No caso de um SIG urbano, o sistema pretende ser a representação da cidade, no caso de cidades, \npodemos falar em sistemas urbanos. \n No nível mais elementar, a informação é topográfica e se relaciona com localização. Em termos \ngráficos, estes dados são geométricos, ou seja, são feições cartográficas representadas por pontos ou \nlinhas que são os elementos básicos da representação e, além destes, áreas e redes que são outros \nelementos gráficos construídos utilizando pontos e linhas. Estes podem ser exibidos e manipulados em \ncomputados com recursos de computação gráfica. Estas tecnologias possibilitam novas formas de \ncomunicação e um uso mais efetivo da informação. \nFonte: PEREIRA, Gilberto Corso; SILVA, Barbara-Christine Nentwig. Geoprocessamento e \nUrbanismo . 2001. UNESP; AGETEO. Disponível em: https://repositorio.ufba.br/handle/ri/7961. \nAcesso em: 14 abr. 2023.  \n*SIG - Sistema de Informações Geográficas \nSobre utilização das tecnologias de geoprocessamento no âmbito do planejamento urbano e r egional, \né incorreto afirmar: \n(A)Uma contribuição importante que o sistema oferece às atividades de Planejamento Urbano é a \ncapacidade de gerar nova informação pelo processamento de dados espaciais. Num SIG, as operações \nde Análise Espacial podem se dar por processamento sobre um único plano de informação ou múltiplos \nplanos. A informação mais útil normalmente é produzida pela integração de mais de uma base de dados \nou novos níveis de informação.   \n(B)A vantagem do uso de SIG sobre os processos convencionais vem da facilidade de integração de \ndados de fontes diversas que têm em comum uma referência espacial. As técnicas de modelagem mais \nrecentes permitem a modelagem de percepções da realidade bastante complexas. A importância de \nqualquer modelo de dados é facilitar uma resposta eficiente às questões que são propostas ao sistema. \n(C)As vantagens dos Sistemas de Informações Geográficas, para a análise do dado geográfico, são \nmuitas e oferecem aos planejadores urbanos e regionais um instrumental para conhecimento, controle, \nsimulação e tomada de decisão sobre o espaço, totalmente desenvolvidos por Inteligências Artificiais, \nnecessários para sua atividade.   \n(D)A vantagem da adoção de tecnologias de geoprocessamento sobre os processos cartográficos \nconvencionais consiste na flexibilidade, ou seja, na facilidade de produzir novas respostas, mudando-\nse os parâmetros cartográficos. O SIG permite mudanças interativas entre a definição das categorias de \ndados, dando como retorno a visualização das consequências, além de permitir o cruzamento entre \ntemas diferentes para produzir novas visualizações, que geram comparações e correlações utiliza ndo \nmétodos de modelagem cartográfica. \n(E)O SIG tem aplicações práticas para o planejamento e gestão urbanos, e para o plan ejamento \nregional.  Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 14 de 16 QUESTÃO 38 \nUm desenhista trabalhando no Autocad precisa alinhar o lado AB Objeto 1 com o lado FG do Objeto \n2, partindo da Situação 1 para a Situação 2, conforme mostra a figura abaixo: \n \n    \nSituação 1 \n \n \nSituação 2 \nObservações: desenhos sem de escala definida. Desprezar posição das letras indicativa s dos pontos \ndos objetos após alinhamento. \nAssinale a alternativa que relata os passos do comendo para realizar a ação descrita acima.",
+            "alternativas": {
+                "A": "Acionar comando Alignspace . Selecionar o Objeto 1. Clicar no ponto A. Clicar no ponto F. Clicar \nno ponto B. Clicar no ponto F. Clicar na teclar Enter. Selecionar a opção YES na lista que  será \napresentada.",
+                "B": "Acionar comando Adjust . Selecionar o Objeto 1. Clicar no ponto A. Clicar no ponto F. Clicar no \nponto B. Clicar no ponto F. Clicar na teclar Enter. Selecionar a opção NO na lista que será a presentada.",
+                "C": "Acionar comando Align . Selecionar o Objeto 1. Clicar no ponto A. Clicar no ponto F. Clicar no \nponto B. Clicar no ponto F. Clicar na teclar Enter . Selecionar a opção NO na lista que será apresentada.",
+                "D": "Acionar comando Move . Clicar no ponto A do Objeto a e depois no ponto F do Objeto 2. Clicar \nna teclar Enter . Clicar no ponto B do Objeto 1 e no ponto F do Objeto 2. Clicar na teclar Enter.",
+                "E": "Acionar comando Align . Selecionar o Objeto 1. Clicar no ponto A. Clicar no ponto F. Clicar no \nponto B. Clicar no ponto F. Clicar na teclar Enter . Selecionar a opção YES na lista que será apresentada. \nOBJETO 1 \nOBJETO 2 Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 15 de 16 QUESTÃO 39 \nObserve o objeto abaixo, representado em perspectiva: \n \nQual das alternativas apresenta a vista ortográfica correspondente à indicada pela seta? \n \n(A)  \n \n(B)  \n \n(C)  \n \n(D)  \n \n(E)  \n \n \n \n \nPrefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nDESENHISTA                                                                                                                                                Página 16 de 16 QUESTÃO  40 \n_____________ é o conjunto de princípios, métodos, aparelhos e convenções utilizados para a \ndeterminação dos contornos, dimensões e da posição relativa de uma faixa da superfície terrestre.  \nO termo que completa adequadamente a lacuna é: \n(A)Normas Técnicas \n(B)Geomédia \n(C)Interpolação \n(D)Topografia \n(E)Sistema Mongeano"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: Em Poema Em Linha Reta, Álvaro Campos \ndirige uma crítica à/às:",
+            "alternativas": {
+                "A": "hipocrisia da sociedade contemporânea.",
+                "B": "pessoas que finge m ser melhores em tudo \ne não reconhecem seus erros.",
+                "C": "moralidade da sociedade moderna.",
+                "D": "pessoas de mente tacanha.",
+                "E": "falta de senso crítico das pessoas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: Uma característica marca a fala do autor na \nnarrativa. Qual é essa característica?",
+            "alternativas": {
+                "A": "animosidade.",
+                "B": "ironia.",
+                "C": "exagero.",
+                "D": "contingência.",
+                "E": "obliquidade.  \n \n \n \n \n \n \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nDESENHISTA                                                                                                                                                  Página 3 de 8 QUESTÃO 0 3 \nNo trecho “Que confessasse não um pecado, \nmas uma infâmia (..), o uso da vírgula:  \n(A) é prescindível.  \n(B) é obrigatória, pois a conjunção “mas” \nmarca uma oração coordenada adversativa.  \n(C) é facultativa, pois a conjunção “mas” \npossui valor aditivo.  \n(D) pode ser substituída por ponto final.  \n(E) está incorretamente empregada, pois o \ncorreto seria a utiliza ção de ponto e vírgula (;)."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: Das alternativas abaixo, qual apresenta \nINCORRETA colocação pronominal?",
+            "alternativas": {
+                "A": "Faça -me o favor de avisar quando sair.",
+                "B": "Quando eu mandar, retirem -no daqui.",
+                "C": "Afinal, deram -me uma boa notícia.",
+                "D": "Nunca o vi tr iste assim.",
+                "E": "Me mande notícias assim que puder."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: Há erro de concordância nominal em:",
+            "alternativas": {
+                "A": "Adoro as comidas francesa e italiana.",
+                "B": "Recebemos bastantes pedidos.",
+                "C": "As cartas seguem anexas ao e -mail.",
+                "D": "Verdura é bom para saúde.",
+                "E": "Para um bom relacionamento, paciência é \nnecessária.  \n \n \n \n \n \n MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: Dado o sistema de equação do primeiro grau, \nabaixo, é possível identificar que os valores de \n𝑋 e 𝑌, respectivamente, são:  \n \n2𝑥+3𝑦=17,5 \n𝑥−4𝑦=−5",
+            "alternativas": {
+                "A": "2 e 7.",
+                "B": "0 e 4.",
+                "C": "3,25 e 1,75.",
+                "D": "5 e 2,5.",
+                "E": "1,5 e 3."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: Um terreno de forma trapezoidal foi vendido. \nO mesmo possui medidas de: 5,6 m de base \nmaior, 4,8 m de base menor e altura de 8 m. \nDaí, a área desse terreno é:",
+            "alternativas": {
+                "A": "94,6 𝑚2.",
+                "B": "83,2  𝑚2.",
+                "C": "47,3 𝑚2.",
+                "D": "41,6 𝑚2.",
+                "E": "38,1 𝑚2."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: Antônio aplicou R$ 82 000,00 no re gime de \njuros simples, a uma taxa de 3% ao mês. O \ntempo que essa quantia ficou aplicada foi de \ndois anos, então o montante recebido, após \nesse tempo, foi de:",
+            "alternativas": {
+                "A": "R$ 40 400,00",
+                "B": "R$ 59 040,00.",
+                "C": "R$ 122 400,00.",
+                "D": "R$ 141 040,00.",
+                "E": "R$ 162 900,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: A distância entre a rodoviária de uma cidade, \naté o hospital, na mesma, é de 5,6 Km. Caso \numa pessoa ande esse percurso, ela terá \nandando quantos metros, no total:",
+            "alternativas": {
+                "A": "0,56 m.",
+                "B": "5,6 m.",
+                "C": "56 m.",
+                "D": "560 m.",
+                "E": "5 600 m.  \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nDESENHISTA                                                                                                                                                  Página 4 de 8 QUESTÃO 10  \nAbaixo, estã o expostas a quantidade de \ncrianças que cada família da rua de Sara, \npossui. Analisando os dados, é possível \nafirmar que a média de crianças, por família, é:  \n7  /  3  /  1  /  2  / 3  /  5  /  9  /  4  /  2  /  4  \n(A) 3.  \n(B) 4.  \n(C) 5.  \n(D) 6.  \n(E) 7.  \n \nATUALIDADES"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: Em 24 de fevereiro de 2022, o presidente da \nRússia, Vladimir Putin, anunciou pela TV, \numa operação militar na região do Donbass, no \nleste da Ucrânia, iniciando um conflito entre \nessas nações. O presidente da Ucrânia é o ator \ne comedi ante:",
+            "alternativas": {
+                "A": "Leonid Kuchma.",
+                "B": "Viktor Yushchenko.",
+                "C": "Volodymyr Zelensky.",
+                "D": "Oleksandr Turchyno.",
+                "E": "Petro Poroshenko."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Por conta da ação de hacker, em dezembro de \n2021, o aplicativo ConecteSus, do Ministério \nda Saúde, ficou sem funcionar e voltou a \nnormalidade após:",
+            "alternativas": {
+                "A": "10 dias.",
+                "B": "11 dias.",
+                "C": "12 dias.",
+                "D": "13 dias.",
+                "E": "14 dias.  \n \n \n \n \n QUESTÃO 13 \nObserve a fotografia abaixo:  \n \nNa fotografia vemos o indigenista brasileiro \nassassinado no Vale do Javari, estado do \nAmazonas juntamente com o jornalista Dom \nPhillips, desaparecidos em 05 de junho de \n2022 e teve seus restos mortais encontrados em \n15 de junho do mesmo ano. Seu nome é:  \n(A) Chico Mendes.  \n(B) Bruno Pereira.  \n(C) Maxciel Pereira dos Santos.  \n(D) Paulo Paulino Guajajara.  \n(E) Reginaldo Alves Barros."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: A combinação de pandemia, baixo \ncrescimento econômico, inflação provoca o \navanço de uma tragédia, a fome. Segundo \nreportagem da revista Veja, em 06 de julho de \n2022, a porcentagem de brasileiros expostos a \nfome é de :",
+            "alternativas": {
+                "A": "33%.",
+                "B": "34%.",
+                "C": "35%.",
+                "D": "36%.",
+                "E": "37%.  \n \n \nPrefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nDESENHISTA                                                                                                                                                  Página 5 de 8 QUESTÃO 1 5 \nEm 09 de junho de 2022, o primeiro caso de \nVaríola do Macaco foi confirmado no Brasil, \npor homem que viera de Portugal e Espanha. O \nprimeiro caso foi registrado no estado \nbrasileiro:  \n(A) Minas Gerais.  \n(B) Amazonas.  \n(C) Rio de Janeiro.  \n(D) Pernambuco.  \n(E) São Paulo.  \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: No MS Power Point 2016, .ppsx  representa:",
+            "alternativas": {
+                "A": "extensão modelo de arquivo para \napresentação de vídeos.",
+                "B": "extensão padrão do documento do \nPowerP oint para edição.",
+                "C": "arquivo do PowerPoint habilitado para \nmacros.",
+                "D": "extensão de apresentação de slides, ou seja, \no arquivo é aberto no modo de apresentação.",
+                "E": "cria, abre, edita e salva arquivos do \nLibreOffice Impress."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: Observe a imagem:  \n \nConsiderando o Microsoft Excel 2016, qual o \nresultado demonstrado pela fórmula aplicada?",
+            "alternativas": {
+                "A": "16.",
+                "B": "20.",
+                "C": "15.",
+                "D": "25.",
+                "E": "30.  QUESTÃO 18  \nCTRL X é o atalho do MS Word 2016 para:  \n \n(A) Copiar um texto selecionado.  \n(B) Desfazer ações.  \n(C) Refazer ações.  \n(D) Recortar um texto selecionado.  \n(E) Salvar um documento."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: __________ é o que especifica a localização \ndos documentos, objetos, ligações, referências \ne programas executáveis, na rede Internet  \nAssinale a alternativa que preenche, \ncorretamente, a lacuna do texto:",
+            "alternativas": {
+                "A": "IP.",
+                "B": "URL.",
+                "C": "ODT.",
+                "D": "DNS.",
+                "E": "Site,"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: No Windows 7, as Notas Autoadesivas:",
+            "alternativas": {
+                "A": "São lembretes que ficam pendurados na \nÁrea de trabalho do Windows.",
+                "B": "Aplicativo que possibilita a conexão com \noutros computadores remotamente, desde que \nse obedeçam às permissões.",
+                "C": "Aplicativo que permite a conexão \nfacilitada a um projetor para exibição da tela \nem ambientes apropriados, tais como \nauditórios, salas de reunião, salas de \ntreinamento etc.",
+                "D": "Aplicativo para edição de imagens, além \nde permitir criá -las.",
+                "E": "Ampliam partes diferentes da tela. Esse \nrecurso é útil para a exibição de partes difíceis \nde ver.  \nPrefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nDESENHISTA                                                                                                                                                  Página 6 de 8 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: No CorelDRAW não é possível por mei o do \ncomando desfocar, acessar a seguinte opção:",
+            "alternativas": {
+                "A": "Enevoar.",
+                "B": "Passa -baixa.",
+                "C": "Desfocagem radial.",
+                "D": "Desfocagem inteligente.",
+                "E": "Desfocagem direcional."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: Segundo a NBR 8196 - Emprego de escalas, a \npalavra “escala” pode ser abreviada como:",
+            "alternativas": {
+                "A": "ECL",
+                "B": "ESC",
+                "C": "SCA",
+                "D": "SCL",
+                "E": "TAM"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: Não corresponde a um tipo de linha utilizada \nem desenho técnico:",
+            "alternativas": {
+                "A": "Traço e ponto largo.",
+                "B": "Traço e ponto estreita.",
+                "C": "Tracejada larga.",
+                "D": "Tracejada estreita.",
+                "E": "Tracejada estreita em ziguezague."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: A MicroStation é uma plataforma \ndesenvolvida pelo(a):",
+            "alternativas": {
+                "A": "Microsoft Office.",
+                "B": "AutoDesk.",
+                "C": "Bentley Systems.",
+                "D": "Hadware.",
+                "E": "NVIDIA Control.  QUESTÃO 25  \nEm uma folha de desenho, em formato A1, \ncom margem esquerda de 25 mm e direita de \n10 mm, a  largura da linha do quadro deve ser:  \n(A) 1,4 mm  \n(B) 1,0 mm  \n(C) 0,7 mm  \n(D) 0,5 mm  \n(E) 0,3 mm"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: Para acessar o comando estrela, no \nCorelDRAW, deve -se acessar a ferramenta:",
+            "alternativas": {
+                "A": "Elipse.",
+                "B": "Polígono.",
+                "C": "Quadrado.",
+                "D": "Retângulo.",
+                "E": "Triângulo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: Nos desenhos técnicos, as linhas de chamadas \ndevem terminar:",
+            "alternativas": {
+                "A": "sem símbolo, se elas conduzem a uma \nlinha de corte.",
+                "B": "com símbolo, se elas conduzem a uma \nlinha de corte.",
+                "C": "com um ponto, se termina dentro do objeto \nrepresentado.",
+                "D": "sem uma seta, se ela conduz e ou preenche \no objeto representado.",
+                "E": "com uma seta, se ela conduz e ou preenche \no objeto representado."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: Não é uma ferramenta do CorelDRAW:",
+            "alternativas": {
+                "A": "Seleção.",
+                "B": "Mão livre.",
+                "C": "Texto.",
+                "D": "Forma.",
+                "E": "Lâminas.  \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nDESENHISTA                                                                                                                                                  Página 7 de 8 QUESTÃO 29  \nEm um desenho topográfico, utiliza -se como \nforma de representação do revelo o(a):  \n(A) Ponto cortado.  \n(B) Ponto visário.  \n(C) Curvas de nível.  \n(D) Curvas de pontos.  \n(E) Perfis de pontos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: Faz parte da guia “Efeitos”, no CorelDRAW:",
+            "alternativas": {
+                "A": "E nvelope.",
+                "B": "Ordenar.",
+                "C": "Agrupar.",
+                "D": "Unir curvas.",
+                "E": "Criar uma nova simetria."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: As marcas de corte, em uma folha de desenho, \nservem para guiar o corte da folha de cópias e \nsão executadas, na forma de um triângulo:",
+            "alternativas": {
+                "A": "equilátero com 7 mm de la do.",
+                "B": "equilátero com 10 mm de lado.",
+                "C": "retângulo isósceles com 7 mm de lado.",
+                "D": "retângulo isósceles com 10 mm de lado.",
+                "E": "retângulo isósceles com 12 mm de lado."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: Em desenhos técnicos, as canetas devem ser \nidentificadas com cores de acordo com as \nlarguras das linhas, então marque a alternativa \ncorreta quanto a cor e sua largura.",
+            "alternativas": {
+                "A": "0,13 mm – vermelha.",
+                "B": "0,16 mm – vermelha.",
+                "C": "0,18 mm – vermelha.",
+                "D": "0,13 mm – amarela.",
+                "E": "0,16 mm – amarela.  QUESTÃO 33  \nA folha A6  trata -se de uma f olha com \ndimensões:  \n(A) 420 mm x 594 mm  \n(B) 210 mm x 297 mm  \n(C) 148 mm x 210 mm  \n(D) 105 mm x 148 mm  \n(E) 98 mm x 137 mm"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: Quando outras vistas forem necessárias, em \num desenho, inclusive cortes e/ou seções, elas \ndevem ser selecionadas conforme o s eguinte \ncritério:",
+            "alternativas": {
+                "A": "Usar o maior número de vistas.",
+                "B": "Usar o maior número de detalhes.",
+                "C": "Evitar linhas contínuas desnecessárias.",
+                "D": "Evitar linhas tracejadas desnecessárias.",
+                "E": "Evitar cortes laterais direito."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 27: Corresponde a uma guia do CorelDRAW:",
+            "alternativas": {
+                "A": "Referências.",
+                "B": "Estrutura.",
+                "C": "Objeto.",
+                "D": "Dados.",
+                "E": "Fórmulas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 28: Não corresponde a um equipamento utilizado, \nna topografia:",
+            "alternativas": {
+                "A": "Baliza.",
+                "B": "Trena.",
+                "C": "Receptor.",
+                "D": "Estação Total.",
+                "E": "Filtro.  \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nDESENHISTA                                                                                                                                                  Página 8 de 8 QUESTÃO 37  \nO espaçamento mínimo entre linhas paralelas, \nem um desenho:  \n(A) deve ser menor do que a largura da linha \nmais fina.  \n(B) deve ser maior do que a largura da linha \nmais fina.  \n(C) deve ser maior do que duas vezes a largura \nda linha mais larga.  \n(D) não deve se r menor do que a largura da \nlinha mais larga.  \n(E) não deve ser menor do que duas vezes a \nlargura da linha mais larga."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 29: Em qual extensão o CorelDRAW não me \npermite exportar o documento criado:",
+            "alternativas": {
+                "A": "Adobe Illustrador (AI).",
+                "B": "AutoCAD (DXF).",
+                "C": "AutoCAD (DWG).",
+                "D": "Bitmap MACPaint (MAC).",
+                "E": "Bitmap do software (BMG)."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "DESENHISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 30: No layout de uma folha de desenho, as \nmargens:",
+            "alternativas": {
+                "A": "devem ser limitadas pelo contorno interno \nda folha e quadro.",
+                "B": "devem ser limitadas pelo contorno interno \ndas dimensões constantes do quadro.",
+                "C": "esquerda e direita, bem como as larguras \ndas linhas, devem ter as dimensões constantes.",
+                "D": "esquerda e direi ta, bem como as larguras \ndas linhas, não precisam ter as dimensões \nconstantes.",
+                "E": "a margem direita serve para ser perfurada e \nutilizada no arquivamento.  \n \n \n QUESTÃO 40  \nFerramenta que está contida na guia \n“Complementos” do AutoCAD:  \n(A) Plotar.  \n(B) App Manag er. \n(C) Gerenciador  de plotadora.  \n(D) Interface do usuário.  \n(E) Carregar aplicativo."
+            },
+            "resposta_correta": "A"
+        }
+    ]
+}

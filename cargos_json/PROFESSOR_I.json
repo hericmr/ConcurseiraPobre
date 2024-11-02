@@ -1,3 +1,872 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:463e55ca065d94c5a91163ef850823e21dd88de346fb5f74f3f86b35e9baea62
-size 89192
+{
+    "PROFESSOR I": [
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, é correto afirmar que:",
+            "alternativas": {
+                "A": "gêmeos idênticos não têm a mesma \nimpressão digital porque não têm o mesmo DNA.",
+                "B": "embora só tenha sido demonstrada com \nauxílio de uma IA, a existência de semelhança \nentre as digitais de um mesmo indivíduo já era \naventada por pesquisadores.",
+                "C": "uma inteligência artificial revelou que cada \num de nossos dedos tem uma impressão digital \núnica.",
+                "D": "utilizando uma inteligência artificial, não \nserá mais necessário cadastrar a impressão digital \npara utilizar catracas ativadas por biometria.",
+                "E": "o uso mais provável da nova inteligência \nartificial será na investigação de crimes em que \nse encontrem marcas latentes de impressão \ndigital."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Assinale a alternativa correta, considerando as \ninformações do texto.",
+            "alternativas": {
+                "A": "A IA aprendeu a identificar quais digitais \npertenciam à mesma pessoa na primeira etapa do \ntreinamento, apenas a partir de impressões \ndigitais artificiais.",
+                "B": "Pelos métodos existentes hoje, ainda não é \npossível identificar um criminoso por suas \ndigitais deixadas em uma cena de crime, porque \nas marcas são latentes.",
+                "C": "Estudos feitos utilizando IA demonstraram \nque as impressões digitais de diferentes dedos de \numa mesma pessoa chegam a 77% de \nsemelhança.",
+                "D": "Para reconhecer um padrão entre diferentes \nimpressões digitais de uma mesma pessoa, o \naprendizado da IA passou por duas etapas, com \ndigitais artificiais e reais, respectivamente.",
+                "E": "Pode -se afirmar que a eficácia da IA é de \n27%, pois 50% de seus acertos foram por pura \nsorte.  \n QUESTÃO 03 \nConsidere a seguinte sentença retirada do texto: \n“Isso explica por que serviços de biometria só \nfuncionam se você usa o mesmo dedo que \ncadastrou inicialmente.” Analise as reescrituras \napresentadas a seguir, baseadas no excerto \napresentado, e assinale a alt ernativa em que se \nverifica o sentido mais próximo daquele expresso \nna sentença dada.     \n(A) Os serviços de biometria só funcionam caso \nvocê use o mesmo dedo que cadastrou \ninicialmente.  \n(B) Os serviços de biometria funcionam desde \nque você use o mesmo dedo que cadastrou \ninicialmente.  \n(C) Os serviços de biometria funcionam quando \nvocê usa o mesmo dedo que cadastrou \ninicialmente.  \n(D) A menos que você use o mesmo dedo que \ncadastrou inicialmente, os serviços de biometria \nfuncionam.   \n(E) Os serviços de biometria só funcionam salvo \nse você usar o mesmo dedo que cadastrou \ninicialmente."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A palavra apresentada a seguir, retirada do texto, \nque apresenta marcas que indicam derivação \nprefixal e flexão de gênero é:",
+            "alternativas": {
+                "A": "criminoso.",
+                "B": "identificação.",
+                "C": "inicialmente.",
+                "D": "pesquisadores.",
+                "E": "desconexas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: A palavra “cada”, que ocorre em “A impressão \ndigital de cada pessoa é única.”, é um:",
+            "alternativas": {
+                "A": "adjetivo.",
+                "B": "substantivo.",
+                "C": "pronome indefinido.",
+                "D": "pronome relativo.",
+                "E": "advérbio.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                    INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 4 de 13 QUESTÃO 06 \nConsidere as sentenças a seguir, que ocorrem no \ntexto:  \nI. O primeiro  passo foi treinar a rede neural.  \nII. A IA recebia três imagens: uma do “dedo \nâncora”, que seria comparado; uma de outro \ndedo, da mesma pessoa; e a terceira  do dedo de \numa outra pessoa.  \nIII. A máquina deveria dizer qual dos dois dedos \npertenciam à mesma pessoa do “dedo âncora”.  \nNas sentenças dadas, as palavras em destaque são \nclassificadas gramaticalmente e respectivamente \ncomo numerais dos tipos:  \n(A) cardinal, cardinal e ordinal.  \n(B) ordinal, ordinal e cardinal.  \n(C) fracionário, fracionário e cardinal.  \n(D) multiplicativo, multiplicativo e ordinal.  \n(E) ordinal, ordinal e fracionário."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Nas sentenças a seguir, o pronome em destaque \né oblíquo tônico apenas em:",
+            "alternativas": {
+                "A": "A minha opinião é a de que devemos levá -la \nao médico.",
+                "B": "Nós não saberemos se ficarmos aqui \nparados.",
+                "C": "Celina presenteou a si mesma com rosas e \nbombons.",
+                "D": "Quis fazer uma surpresa ao namorado, mas \nele não foi ao encontro.",
+                "E": "Os amantes se encontraram às escondidas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Nas sentenças a seguir, a conjunção ou locução \nem destaque é condicional apenas em:",
+            "alternativas": {
+                "A": "Leve um casaco, que está frio lá fora.",
+                "B": "Ele não trouxe roupa de frio, se bem que  já \nnão está tão frio.",
+                "C": "As coisas ficarão prontas a tempo, contanto  \nque todos ajudem.",
+                "D": "Fez todas as tarefas, embora  estivesse \ndoente.",
+                "E": "Está liberado para praticar exercícios físicos, \ndesde que o departamento médico o avaliou.  \n QUESTÃO 09 \nA concordância em gênero entre todas as \npalavras nominais está correta em:  \n(A) O rapaz se valeu de uma estratagema para \nsabotar seus inimigos.   \n(B) Incrédulo, o senhor pegou em seu bolso sua \npincenê para observar a cena.   \n(C) Quebrou a grafite da lapiseira ao deixá -la cair \nno chão.   \n(D) Ela foi diagnosticada com uma inflamação \ndo esclera, a parte branca do olho.   \n(E) Aquela seria a estandarte da revolução que \nestava prestes a começar."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as sentenças a seguir e assinale a \nalternativa em que a palavra “porquê” foi \nempregada corretamente.",
+            "alternativas": {
+                "A": "A festa foi cancelada porquê a anfitriã está \ndoente.",
+                "B": "Porquê todas as coisas são belas é que temos \nmotivos para sorrir.",
+                "C": "A polícia conseguiu desvendar o crime. Resta \napenas uma dúvida: porquê?",
+                "D": "Não se sabe o porquê do sumiço da aluna.",
+                "E": "Eu sei bem porquê  você está mentindo.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: 1 \nCinco amigos, Alan, Bruna, Caio, Dênis e Erica, \ndecidem ler um livro juntos. Eles só têm um \nexemplar do livro, e vão revezar entre si a leitura. \nA cada dia, um amigo diferente vai ficar com o \nlivro. No primeiro dia o livro estará com Alan, no \nsegundo com Bruna, depois Caio, depois Dênis e \nem seguida Erica. Depois o livro deve voltar para \nAlan, e assim sucessivamente. No 2024° dia de \nrevezamento, com que amigo estará o livro?",
+            "alternativas": {
+                "A": "Alan.",
+                "B": "Bruna.",
+                "C": "Caio.",
+                "D": "Dênis.",
+                "E": "Erica.  \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                    INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 5 de 13 QUESTÃO 12 \nAna e Bruno investiram seus capitais numa \naplicação a juro simples na mesma data inicial. \nSabe -se que Bruno investiu um valor igual ao \ndobro do capital de Ana, e o que ele ganha de \nlucro em três meses, Ana ganha em um ano. Com \nbase nessas informações, pode mos dizer que a \nrazão entre o juro da aplicação de Bruno e de Ana \né: \n(A) 2.  \n(B) 3.  \n(C) 4.  \n(D) 6.  \n(E) 8."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Um fabricante de sapatos contrata dois \nvendedores, Anderson e Beatriz, para vender \nseus produtos. No mês de julho, Anderson \nvendeu 25% produtos a mais que suas vendas no \nmês de junho, enquanto Beatriz não variou o seu \nnúmero de produtos vendidos entre esse s dois \nmeses. Sabendo -se que no mês de junho Beatriz \nvendeu o dobro do número de produtos de \nAnderson, qual a razão entre o número de \nprodutos vendidos de Beatriz e de Anderson no \nmês de julho?",
+            "alternativas": {
+                "A": "8/3.",
+                "B": "4/3.",
+                "C": "7/5.",
+                "D": "8/5.",
+                "E": "5/7."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Observe a seguinte proposição:  \n“O atacante não jogou ou o time perdeu”  \nIndique a alternativa que contém a equivalente \nlógica dessa proposição:",
+            "alternativas": {
+                "A": "O atacante jogou e o time perdeu.",
+                "B": "O atacante jogou ou o time não perdeu.",
+                "C": "O atacante não jogou e o time perdeu.",
+                "D": "Se o atacante não jogou então o time perdeu.",
+                "E": "Se o atacante jogou então o time perdeu.  QUESTÃO 15 \nA figura abaixo mostra um retângulo ABCD cujo \nsegmento AB mede 1 cm, e o segmento BC mede \n2 cm:  \n \nO ponto E é o ponto médio do segmento AD. \nIndique o perímetro do triângulo ACE:  \n(A) √2+2√5. \n(B) 2√2+√5. \n(C) 3+√7. \n(D) 2+√7. \n(E) 1+√2+√5."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Uma cientista faz uma mistura entre duas bebidas \nalcóolicas diferentes, chamadas de A e B. Num \ndado recipiente, ela sabe que preenchendo -se \n40% desse recipiente com a bebida A e o restante \ncom a bebida B, ela obtém uma bebida que tem \n20% de teor alcóolico. Em outro experimento, \npreenchendo -se 60% desse mesmo recipiente \ncom a bebida A e o restante com a bebida B, ela \nobtém uma be bida com 24% de teor alcóolico. \nNessas condições qual o teor alcóolico da bebida \nA?",
+            "alternativas": {
+                "A": "12%.",
+                "B": "32%.",
+                "C": "18%.",
+                "D": "28%.",
+                "E": "30%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Júnior mede sua altura todo ano. No ano passado, \nsua altura era 1,25 m, e este ano sua altura é 1,40 \nm. Se no ano que vem a altura de Júnior tiver o \nmesmo aumento percentual que este ano, em \nrelação ao ano passado, qual será a altura de \nJúnior, aproximadamente?",
+            "alternativas": {
+                "A": "1,53 m.",
+                "B": "1,45 m.",
+                "C": "1,65 m.",
+                "D": "1,57 m.",
+                "E": "1,55 m.  \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                    INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 6 de 13 QUESTÃO 18 \nA nota de cinco alunos numa determinada prova \nfoi 5,5; 6,8; 7,0; 8,2; 9,5. A média aritmética \nsimples das notas desses alunos é:  \n(A) 7,0.  \n(B) 7,1.  \n(C) 7,2.  \n(D) 7,3.  \n(E) 7,4."
+            },
+            "resposta_correta": "Não encontrada"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: O gráfico abaixo mostra as curvas típicas de \nvelocidade individuais para peso corporal em \nmeninos e meninas:  \n \nFonte: MALINA, R. M.; BOUCHARD, C. \nAtividade física do atleta jovem: do crescimento \na maturação.  \nSão Paulo: Roca, 2002.  \nO gráfico mostra o ganho de peso em kg/ano no \neixo vertical e a idade (em anos) no eixo \nhorizontal. Com base no gráfico, é INCORRETO \nafirmar que:",
+            "alternativas": {
+                "A": "Até os 9 anos de idade, não há diferenças \nsignificativas entre o ganho de peso de meninos \ne meninas.",
+                "B": "A partir dos 9 anos de idade, as meninas têm \num pico de ganho de peso mais precoce que os \nmeninos.",
+                "C": "O ganho de peso acumulado das meninas é \nmaior que o dos meninos, já que acontece mais \nprecocemente.",
+                "D": "Apesar de o pico de ganho de peso nos \nmeninos acontecer depois das meninas, o ganho \nde peso é maior.",
+                "E": "Após os 16 anos as meninas já não \napresentam ganho de peso significativo, \ndiferentemente dos meninos.  \n QUESTÃO 20 \nUm reservatório é preenchido por uma torneira \nem 24 horas, se colocarmos três torneiras iguais, \nquanto tempo levarão para preencher o volume \nequivalente a 3 reservatórios iguais?  \n \n(A) 18 horas.  \n(B) 15 horas.  \n(C) 8 horas.  \n(D) 24 horas.  \n(E) 72 horas.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Para abrir automaticamente uma nova página de \nnavegação utilizando o Google Chrome é \npossível usar o comando:",
+            "alternativas": {
+                "A": "Ctrl + A.",
+                "B": "Ctrl + N.",
+                "C": "Ctrl + C.",
+                "D": "Alt + C.",
+                "E": "Alt + T."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: O Gmail é um serviço de e -mail baseado na web \nfornecido pela Google, com capacidade de \narmazenamento relativamente confortável.  \nSobre as características do Gmail, é correto \nafirmar que:",
+            "alternativas": {
+                "A": "Não existe limite máximo de tamanho dos \nanexos enviados por e -mail.",
+                "B": "O aplicativo do Gmail está disponível apenas \nem plataformas com sistema operacional IOS.",
+                "C": "Após adicionar um anexo no e -mail, não é \npossível remover esse arquivo antes do envio da \nmensagem.",
+                "D": "O Gmail permite a criação de uma assinatura \nde e-mail com seus dados de contato, adicionado \nautomaticamente ao final das mensagens.",
+                "E": "É possível usar o \"Gmail Off -line\" em uma \njanela do navegador Chrome no \"modo de \nnavegação anônima\".  \n \n \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                    INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 7 de 13 QUESTÃO 23 \nConsiderando o Microsoft Excel, analise as \nfuncionalidades ilustradas abaixo e assinale a \nalternativa que relaciona corretamente qual é a \nguia em que ela está localizada:  \n \nFonte: 1 Microsoft Excel  \n(A) Página inicial.  \n(B) Referências.  \n(C) Fórmulas.  \n(D) Revisão.  \n(E) Exibir."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Considerando as formulas  presentes no \nMicrosoft Excel, assinale a alternativa que \ndescreve a expressão utilizada para retornar um \nnúmero indicando o tipo de dados de um valor \npresente na tabela:",
+            "alternativas": {
+                "A": "ORIGEM(valor)",
+                "B": "FONTE(valor)",
+                "C": "TIPO(valor)",
+                "D": "CLASSE(valor)",
+                "E": "FORMA(valor)"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: A guia Página Inicial do Microsoft Word \napresenta funcionalidades como:",
+            "alternativas": {
+                "A": "Inserir gráficos.",
+                "B": "Alterar a fonte do texto.",
+                "C": "Inserir tabela.",
+                "D": "Traduzir.",
+                "E": "Iniciar mala direta.  \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Dentro da perspectiva piagetiana, como é \nexplicada a sucessão evolutiva do pensamento \nautístico para o pensamento dirigido?",
+            "alternativas": {
+                "A": "Por meio da maturação neurolinguística.",
+                "B": "Por meio da ação do meio social e da \nlinguagem.",
+                "C": "Por meio da interação social.",
+                "D": "A partir dos aspectos linguísticos.",
+                "E": "Por meio da evolução natural do pensamento \nhumano."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Sobre alfabetização e letramento, observe a ideia \napresentada em cada enunciado a seguir e \ndestaque a alternativa elaborada corretamente.",
+            "alternativas": {
+                "A": "Um dos principais aspectos a ser observado, \nem relação ao letramento, é o domínio da escrita \ncomo um instrumento tecnológico.",
+                "B": "No exercício do letramento, é necessário \ntrabalhar a singularidade por trás dos usos e \nfunções da escrita na sociedade para conseguir \ncompreendê -la melhor.",
+                "C": "Trabalhar a alfabetização na perspectiva do \nletramento é uma opção política.",
+                "D": "Dentro de um parâmetro evolutivo, primeiro, \nadquire -se as aptidões necessárias concernentes \nao processo de alfabetização e, na sequência, \ninicia -se o processo de letramento.",
+                "E": "É importante que o professor, consciente de \nque o acesso ao mundo da escrita é em grande \nparte responsabilidade da escola, conceba a \nalfabetização e o letramento como fenômenos \ndissociáveis, trabalhando -os de forma paralela."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Para compreender a complexidade que \ncaracteriza a concepção dos diferentes gêneros \ndiscursivos, é preciso saber discernir alguns \nconceitos. Assim, complete o enunciado abaixo \ncom o termo corresponde:  \n_________________ corresponde à esfera de \natividade humana e indica as instâncias \ndiscursivas, por exemplo o discurso religioso, o \ndiscurso político etc.",
+            "alternativas": {
+                "A": "Tipo textual",
+                "B": "Gênero textual",
+                "C": "Domínio discursivo",
+                "D": "Prática discursiva",
+                "E": "Modelo discursivo  \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                    INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 8 de 13 QUESTÃO 29  \nAo longo de sua trajetória no planeta, a \nhumanidade encontrou formas diferentes de \ncomunicação. As sociedades se expressavam por \nmeio da oralidade, de símbolos e de desenhos, até \nque a escrita  surgiu. Onde foi instituído o \nalfabeto que era composto inicialmente apenas \npor letras maiúsculas?  \n \n(A) Mesopotâmia  \n(B) China  \n(C) Egito  \n(D) Roma Antiga  \n(E) América Central"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Em relação aos aspectos que caracterizam a \nresolução de problemas e a prática pedagógica, é \nincorreta qual alternativa?",
+            "alternativas": {
+                "A": "Dentro da metodologia de Resolução de \nProblemas, a ação desencadeada é responsável \npela justificativa da operação efetuada.",
+                "B": "A rotina didática de apresentar e treinar uma \ntécnica operatória, algoritmo ou fórmula para ser \naplicada, a posteriori, na Resolução de \nProblemas é conduta resultante de uma cultura \nescolar que precisa ser transformada.",
+                "C": "Mesmo existindo distinções relevantes entre \num problema e um exercício, uma mesma tarefa \npode ser inserida dentro de qualquer uma dessas \ncategorias, em função das características e dos \nconhecimentos de cada aluno.",
+                "D": "Para determinar se uma tarefa escolar é um \nexercício ou um problema, é preciso pautar essa \ndeterminação especificamente na experiência e \nnos conhecimentos prévios de quem a executa.",
+                "E": "Uma das tarefas do professor é associar os \nproblemas ao interesse do aluno e instigar a sua \nparticipação na resolução.  \n \n QUESTÃO 31  \nSobre a avaliação qualitativa, são verdadeiras as \nseguintes afirmativas, afora:  \n(A) Dentre os aspectos de desenvolvimento da \ncriança, a avaliação deve concentrar a atenção \nnos aspectos cognitivos.  \n(B) A avaliação deve ter como referência o aluno.  \n(C) A avaliação deve ter uma ação também \ndiagnóstica.  \n(D) Não deve ser vista como um procedimento \nque indique o ponto final de um trabalho.  \n(E) A avaliação representa um instrumento \nvalioso que oportuniza a redefinição da prática \nprofissional docente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Os novos paradigmas na educação de alunos com \ndeficiência rompem a barreira da integração em \nprol da construção de uma educação inclusiva. \nNesse modelo, a aprendizagem é centrada em \naspectos variados que se alternam, destacando -se \nos aspectos lógico, intui tivo, sensorial, social e \nafetivo dos alunos. Dentro dessa sistemática, \npercebe -se que nas práticas pedagógicas há o \npredomínio de alguns aspectos do conhecimento, \ndestacados a seguir, exceto:",
+            "alternativas": {
+                "A": "Experimentação",
+                "B": "Criação",
+                "C": "Descoberta",
+                "D": "Categorização",
+                "E": "Coautoria"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Em relação às incumbências específicas dos \ndocentes, de acordo com o artigo 13 da LDB, \nqual dos enunciados a seguir foi elaborado em \nconformidade literal com a referida lei?",
+            "alternativas": {
+                "A": "Cumprir a proposta pedagógica elaborada \npelo estabelecimento de ensino.",
+                "B": "Elaborar e fiscalizar o cumprimento do plano \nde trabalho, segundo a proposta pedagógica do \nestabelecimento de ensino.",
+                "C": "Cumprir o plano de recuperação definido \npela coordenação pedagógica.",
+                "D": "Definir a aprendizagem dos alunos.",
+                "E": "Colaborar com as atividades de articulação da \nescola com as famílias e a comunidade.  \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                    INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 9 de 13 QUESTÃO 34  \nPara compreender a Matemática contemporânea, \né importante reportar ao seu contexto histórico. \nNesse sentido, é impertinente afirmar:  \n(A) A origem da Matemática remonta contextos \nlongínquos da antiguidade, em que há vestígios \nque ratificam o início de sua história ainda na \népoca do paleolítico inferior.  \n(B) Os romanos contribuíram com o primeiro \nsistema de numeração e a representação de \nquantidades de objetos, por meio de símbolos.  \n(C) Os algarismos romanos oportunizaram o \ndesenvolvimento dos sistemas de contagem, a \npartir do uso de pedras, ábaco e mãos.  \n(D) No Brasil, o ensino da Matemática iniciou \ncom os jesuítas. Assim, é possível dividir a \nhistória da Matemática no Brasil em quatro \nperíodos: jesuíta, militar, positivista e a \nmatemática institucionalizada.  \n(E) Um dos aspectos da Matemática egípcia são \nsuas frações unitárias."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Os jogos e as brincadeiras são fatores \npreponderantes para o desenvolvimento da \ncriança. Inúmeros autores abordam sobre esse \ntema e tecem reflexões que clarificam essa \nrelação. Tomando como parâmetro a visão \npiagetiana sobre os jogos simbólicos durante o \nsegundo ano de vida, é falsa a seguinte \nafirmativa:",
+            "alternativas": {
+                "A": "Os jogos simbólicos surgem durante o \nsegundo ano de vida com o aparecimento da \nrepresentação e da linguagem.",
+                "B": "Inicialmente, a brincadeira de faz de conta é \ncaracterizada por ser uma atividade solitária.",
+                "C": "No segundo ano de vida, as brincadeiras são \nsociodramáticas, usando símbolos coletivos.",
+                "D": "No modelo piagetiano, o faz de conta precoce \nenvolve elementos em que as combinações \nvariam com o tempo, como por exemplo, o \ncomportamento descontextualizado, como \ndormir, comer.",
+                "E": "Combinações sequenciais imitando ações \ndesenvolvem o faz de conta.  QUESTÃO 36  \nEm conformidade com o Referencial Curricular \nNacional para a Educação Infantil, destaque a \nalternativa que vai de encontro a uma das \ncaracterísticas do referido documento.  \n(A) Considera e respeita a pluralidade e \ndiversidade da sociedade brasileira.  \n(B) É uma proposta aberta.  \n(C) Tem obrigatoriedade em relação às \nestratégias a serem implementadas nos referidos \nsistemas educacionais concernentes à Educação \nInfantil.  \n(D) Tem uma dimensão ampla que visa traduzir \na vontade de todos os envolvidos no processo \neducacional.  \n(E) Não tem a pretensão de resolver os \ncomplexos problemas dessa etapa educacional."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: De acordo com o Referencial Curricular \nNacional para a Educação Infantil, é necessário \nmodificar a concepção de educação \nassistencialista que caracterizou por muito tempo \na Educação Infantil. Das asserções seguintes, \nqual não traduz essa mudança de concepç ão, por \ncontrariar as reflexões propostas?",
+            "alternativas": {
+                "A": "Atentar para várias questões que vão muito \nalém dos aspectos legais.",
+                "B": "Assumir as especificidades da educação \ninfantil e rever concepções sobre a infância, as \nrelações entre classes sociais, as \nresponsabilidades da sociedade e o papel do \nEstado diante das crianças pequenas.",
+                "C": "O cuidado não pode ser restrito apenas à \nconcepção física que vê a criança como carente, \nfrágil, dependente e passiva.",
+                "D": "Valorizar a singularidade e individualidade \nde cada criança.",
+                "E": "A polêmica entre a concepção que entende \nque a educação deve principalmente promover a \nconstrução das estruturas cognitivas e aquela que \nenfatiza a construção de conhecimentos como \nmeta da educação contribui significativamente \npara a promoção do desenv olvimento das \ncapacidades cognitivas do pensamento humano, \na partir do processo das aprendizagens \nespecíficas que as experiências educacionais \npodem proporcionar.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                    INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 10 de 13 QUESTÃO 38  \nEm relação aos Parâmetros Curriculares \nNacionais: Terceiro e Quarto Ciclos do Ensino \nFundamental, observa -se que “para cada uma das \náreas e para cada um dos temas referidos há um \ndocumento específico que parte de uma análise \ndo ensino da área ou do tema, d e sua importância \nna formação do aluno do ensino fundamental”. \nEm função disso, é apresentada uma proposta \ndetalhada em relação aos aspectos descritos \nabaixo, exceto:  \n \n(A) objetivos  \n(B) conteúdos  \n(C) avaliação  \n(D) orientações didáticas  \n(E) normatizações pedagógicas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Segundo os Parâmetros Curriculares Nacionais: \nTerceiro e Quarto Ciclos do Ensino \nFundamental, o principal instrumento utilizado \npara avaliar o Ensino Fundamental em todo o \npaís é o Sistema Nacional de Avaliação da \nEducação Básica. São características desse \nsistema, afora:",
+            "alternativas": {
+                "A": "Os levantamentos de dados são realizados a \ncada dois anos.",
+                "B": "Corresponde a uma amostra não -\nprobabilística representativa dos 26 estados e do \nDistrito Federal.",
+                "C": "Um dos objetivos desse sistema é aferir os \nconhecimentos e habilidades dos alunos, \nmediante aplicação de testes, com a finalidade de \navaliar a qualidade do ensino ministrado.",
+                "D": "São verificados os fatores contextuais e \nescolares que incidem na qualidade do ensino.",
+                "E": "É analisado também o perfil do diretor e \nmecanismos de gestão escolar.  \n \n \n QUESTÃO 40  \nA permanência dos alunos na escola é apontada \npor Brasil (1998) como um dos grandes \nproblemas a serem enfrentados por todos na \neducação brasileira: órgãos governamentais, \ncomunidades e equipes escolares. As causas da \nnão permanência são múltiplas, porém uma delas \né apontada  como fator que condiciona as demais, \nassinale -a: \n(A) Diversidade e pluralidade das necessidades \ndos educandos.  \n(B) Falta de acolhimento dos alunos pela escola.  \n(C) Discrepância entre a proposta pedagógica e a \nrealidade do educando.  \n(D) Número de vagas abaixo da real necessidade.  \n(E) Desigualdade de condições em função dos \ndiferentes níveis socioeconômicos da sociedade \nbrasileira."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Há várias teorias e modelos que fundamentam os \nciclos de aprendizagem. Um dos exemplos mais \nconhecidos é o Ciclo de Gibbs que é amplamente \nutilizado na área educacional. Segundo o Ciclo \nde Gibbs, a educação é desenvolvida em estágios \ndescritos a seguir. Um a das alternativas não \ncondiz com esse modelo, assinale -a:",
+            "alternativas": {
+                "A": "Descrição da experiência",
+                "B": "Sentimentos e reflexões",
+                "C": "Análise e conclusões",
+                "D": "Ação planejada",
+                "E": "Experimentação ativa"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Em consonância com o Estatuto da Criança e do \nAdolescente, complete o excerto abaixo com o \ntermo correspondente.  \n“A criança e o adolescente têm direito a proteção \nà vida e à saúde, mediante a efetivação de \npolíticas sociais públicas que permitam o \nnascimento e o desenvolvimento ___________, \nem condições dignas de existência”.",
+            "alternativas": {
+                "A": "integral e cognitivo",
+                "B": "sadio e harmonioso",
+                "C": "físico e cognitivo",
+                "D": "humano e social",
+                "E": "cognitivo e social  \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                    INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 11 de 13 QUESTÃO 43  \nEm consonância com o Estatuto da Criança e do \nAdolescente, destaque a alternativa que completa \ncorretamente o enunciado abaixo:  \n“A criança e o  adolescente têm direito à \neducação, visando ao pleno desenvolvimento de \nsua pessoa, preparo para o exercício da cidadania \ne qualificação para o trabalho, assegurando -se-\nlhes [...]”:  \n(A) critérios lógicos que ratifiquem as condições \npara o acesso e permanência na escola.  \n(B) dever de respeitar seus educadores.  \n(C) direito de escolher os critérios avaliativos que \nconsidera mais justos para avalia -lo. \n(D) dever de participar da organização das \nentidades estudantis.  \n(E) acesso à escola pública e gratuita, próxima de \nsua residência, garantindo -se vagas no mesmo \nestabelecimento a irmãos que frequentem a \nmesma etapa ou ciclo de ensino da Educação \nBásica."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Em relação ao Plano Nacional de Educação, \nobservam -se dez diretrizes. Abaixo, foram \ndescritas algumas dessas diretrizes. Destaque a \nalternativa que não condiz completamente com o \nreferido documento.",
+            "alternativas": {
+                "A": "Erradicação do analfabetismo.",
+                "B": "Superação das desigualdades educacionais, \ncom ênfase na promoção da cidadania e na \nerradicação da discriminação contra a pessoa \ncom deficiência.",
+                "C": "Formação para o trabalho e para a cidadania, \ncom ênfase nos valores morais e éticos em que se \nfundamenta a sociedade.",
+                "D": "Estabelecimento de meta de aplicação de \nrecursos públicos em educação como proporção \ndo Produto Interno Bruto - PIB, que assegure \natendimento às necessidades de expansão, com \npadrão de qualidade e equidade.",
+                "E": "Promoção dos princípios do respeito aos \ndireitos humanos, à diversidade e à \nsustentabilidade socioambiental.  QUESTÃO 45  \nA cada 2 (dois) anos, ao longo do período de \nvigência do Plano Nacional de Educação, quem \né responsável por publicar estudos para aferir a \nevolução no cumprimento das metas \nestabelecidas no Anexo desta Lei?  \n(A) Ministério da Educação.  \n(B) Comissão de Educação, Cultura e Esporte do \nSenado Federal.  \n(C) Conselho Nacional de Educação.  \n(D) Instituto Nacional de Estudos e Pesquisas \nEducacionais Anísio Teixeira.  \n(E) Fórum Nacional de Educação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: De acordo com a Política Nacional de Educação \nEspecial na Perspectiva da Educação Inclusiva, \n“a Educação Inclusiva constitui um paradigma \neducacional fundamentado na concepção de \ndireitos humanos, que conjuga igualdade e \ndiferença como valores indissociáve is”. Nesse \ncontexto, avança em relação à ideia de equidade \nformal ao contextualizar qual dos aspectos a \nseguir?",
+            "alternativas": {
+                "A": "Circunstâncias históricas da produção da \nexclusão dentro e fora da escola.",
+                "B": "Aspectos legais acerca da exclusão no \ncontexto educacional.",
+                "C": "Aspectos legais acerca da inclusão no \ncontexto educacional.",
+                "D": "Quebra dos paradigmas da exclusão, \nintegração e segregação.",
+                "E": "Princípios do paradigma da inclusão."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31: Uma das formas de tratar a deficiência é por meio \ndo modelo social da deficiência, sendo algumas \nde suas características destacadas a seguir, \nexceto:",
+            "alternativas": {
+                "A": "Consertar a sociedade.",
+                "B": "Incentivo à dependência.",
+                "C": "Foco nas habilidades e capacidades.",
+                "D": "Serviços de sistemas comuns da sociedade.",
+                "E": "Esforços para implantar práticas do \nparadigma de inclusão.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                    INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 12 de 13 QUESTÃO 48  \nConforme o parágrafo I, do artigo 32 da LDB, \nquais são os meios básicos que possibilitam o \ndesenvolvimento da capacidade de aprender?  \n(A) Pleno domínio da leitura, da escrita e do \ncálculo.  \n(B) Noções básicas das operações matemáticas e \ncapacidade de leitura e escrita.  \n(C) Alfabetização e letramento.  \n(D) Raciocínio lógico e interpretativo.  \n(E) Pleno domínio do cálculo e alfabetização."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32: Sobre o Estatuto da Criança e do Adolescente \n(ECA), é impertinente a seguinte afirmativa, por \nnão traduzir a amplitude apresentada pelo \nreferido estatuto.",
+            "alternativas": {
+                "A": "Sancionado em 13 de julho de 1990, é o \nprincipal instrumento normativo do Brasil sobre \nos direitos da criança e do adolescente.",
+                "B": "Por meio do ECA, foram incorporados os \navanços preconizados na Convenção sobre os \nDireitos da Criança das Nações Unidas.",
+                "C": "O ECA representa um meio de concretização \ndo artigo 227 da Constituição Federal.",
+                "D": "O ECA inovou ao trazer a proteção integral, \nna qual crianças e adolescentes são vistos como \nsujeitos de direitos.",
+                "E": "O ECA reafirmou a responsabilidade do \nEstado de garantir as condições para o pleno \ndesenvolvimento dessa população, além de \ncolocá -la a salvo de toda forma de discriminação, \nexploração e violência."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33: Complete o excerto a seguir extraído dos \nParâmetros Curriculares Nacionais.  \n“A capacidade ___________ tem grande \ninfluência na postura do indivíduo em relação às \nmetas que quer atingir nas mais diversas \nsituações da vida, vinculando -se diretamente ao \nuso de formas de representação e de \ncomunicação, envolvendo a resolução de \nproble mas, de maneira consciente ou não”.",
+            "alternativas": {
+                "A": "reflexiva",
+                "B": "cognitiva",
+                "C": "psicomotora",
+                "D": "intelectual",
+                "E": "analítica  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                    INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 13 de 13"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Com a leitura do trecho apresentado, retirado do \ntexto A volta de Ed Mort , é possível concluir que:",
+            "alternativas": {
+                "A": "O proprietário do imóvel é o responsável \npelo perigo da galeria.",
+                "B": "De todos os objetos de valor do detetive, que \nforam roubados, restaram apenas duas Bic e um \ntelefone mudo.",
+                "C": "O lugar onde está situado o escritório do \ndetetive é perigoso até mesmo para a polícia.",
+                "D": "As baratas são responsáveis pelo sumiço da \nporta do detetive.",
+                "E": "Os cabeleireiros são suspeitos dos roubos da \nporta e da mesa do escritório.  \n QUESTÃO 02 \nO elemento pronominal em “ Ele ameaçou \nretomar o imóvel por falta de pagamento. ” \ndesempenha, em termos de coesão textual, a \nfunção de:  \n(A) anáfora.  \n(B) catáfora.  \n(C) elipse.  \n(D) adição.  \n(E) paráfrase."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Analise as sentenças a seguir, retiradas do texto, \ne assinale a alternativa em que o termo destacado \né um pronome relativo.",
+            "alternativas": {
+                "A": "Entre uma escola de cabeleireiros e uma  loja \nde carimbos.",
+                "B": "Mas desconfio que quem roubou minha  \nporta foi o proprietário.",
+                "C": "Ele fez que não ouviu, mas as baratas ficaram \nindignadas.",
+                "D": "Era o que estava escrito na plaqueta, na porta \ndeste cubículo que alugo numa galeria de \nCopacabana.",
+                "E": "Quem a encontrar, pode ficar com a porta."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A palavra “cubículo”  apresenta o sufixo -(c)ulo , \nque é formador de palavras no grau diminutivo. \nA palavra que apresenta um sufixo que tem a \nmesma característica que o apresentado é:",
+            "alternativas": {
+                "A": "cabeçorra.",
+                "B": "vilarejo.",
+                "C": "calhamaço.",
+                "D": "povaréu.",
+                "E": "magérrimo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: O verbo em “Uma vez devoraram um fiscal da \nSunab.” está conjugado no mesmo tempo e modo \nque o verbo destacado em:",
+            "alternativas": {
+                "A": "A galeria é assim.",
+                "B": "Estava  na plaqueta.",
+                "C": "Talvez esteja  retomando aos poucos",
+                "D": "Ele ameaçou retomar  o imóvel por falta de \npagamento.",
+                "E": "Mandei  ele cobrar aluguel das baratas.  \n Prefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 3 de 13 QUESTÃO 06 \nA palavra “polícia” , que ocorre no texto, é uma \nproparoxítona aparente, assim como:  \n(A) “proprietário”.  \n(B) “galeria”.   \n(C) “imóvel”.  \n(D) “telefone”.  \n(E) “plaqueta”."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: A regência verbal está de acordo com a norma -\npadrão da língua portuguesa em:",
+            "alternativas": {
+                "A": "Quando criança, ela cria sobre lobisomens e \nvampiros.",
+                "B": "Ele disputa o prêmio com os melhores \ncientistas do país.",
+                "C": "A menina derreou para não ser vista.",
+                "D": "O casal comungava sobre as mesmas \nideologias.",
+                "E": "Receava para o futuro dos filhos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir e assinale a \nalternativa em que há incorreção quanto à \nortografia das palavras.",
+            "alternativas": {
+                "A": "Os pais acharam que o rapaz era uma pessoa \ndecente.",
+                "B": "As mudanças climáticas atuais extinguirão \ndiversas espécies.",
+                "C": "Ela diz que sente acédia de espírito.",
+                "D": "Eles são importantes; não se deve reduzí -los \na nada.",
+                "E": "Os ímãs de geladeiras estão todos \nquebradiços."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Assinale a alternativa em que o encontro vocálico \nda palavra dada configura tritongo.",
+            "alternativas": {
+                "A": "goiaba.",
+                "B": "coautor.",
+                "C": "centeio.",
+                "D": "águia.",
+                "E": "saguão.  \n \n QUESTÃO 10  \nA sentença em que a palavra destacada é uma \npreposição acidental é:  \n(A) Ela disse que não iria ao médico amanhã.  \n(B) Não temos vínculo empregatício perante  a \nlei. \n(C) A imobiliária não aprovou outro tipo de \nreforma salvo  a pintura.  \n(D) As caixas foram acomodadas sob a \nprateleira.   \n(E) Ele tem até amanhã para se inscrever no \nedital.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: 1 \nUm lençol em formato retangular tem lados \nmedindo 2,00 metros e 1,60 metro e será dobrado \nmúltiplas vezes. A dobra do lençol acontece \nsempre a partir do maior lado. Ou seja: após a \nprimeira dobra, o retângulo passa a ter lados 1,00 \nmetro e 1,60 metro. A se gunda dobra será \nnovamente feita a partir do novo lado maior, e \nassim sucessivamente. Quantas vezes será \nnecessário dobrar o lençol para que resulte num \nretângulo de lados 40 cm e 25 cm?",
+            "alternativas": {
+                "A": "5.",
+                "B": "8.",
+                "C": "4.",
+                "D": "9.",
+                "E": "12."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Sabe -se que um botijão de gás de 13 kg armazena \num volume de gás equivalente a 16 m3. \nConsidere que cada boca acesa de um fogão \nutiliza 0,0256 m3 de gás por hora. Por quanto \ntempo, aproximadamente, uma única boca ficará \nconstantemente acesa utilizando -se um botijão \ninicialmente cheio?",
+            "alternativas": {
+                "A": "26 dias.",
+                "B": "26 horas.",
+                "C": "63 dias.",
+                "D": "63 horas.",
+                "E": "21 dias.  \n Prefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 4 de 13 QUESTÃO 13 \nUm comerciante vende uma mercadoria na sua \nplataforma online e permite que os clientes \npaguem com o cartão de crédito. A operadora de \ncartão de crédito cobra ao cliente um acréscimo \nde 5% sobre o valor original do produto. Suponha \nque o comerciante decide dar um desconto de \n15% sobre o valor original do produto para os \nclientes que pagarem à vista, sem a \nintermediação da operadora de cartão de crédito. \nUma pessoa comprou uma mercadoria e pagou \num total R$ 420,00 utilizando o cartão de crédito. \nQuanto essa p essoa pagará se comprar à vista?  \n(A) R$ 336,00.  \n(B) R$ 340,00.  \n(C) R$ 320,00.  \n(D) R$ 368,50.  \n(E) R$ 360,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Numa aplicação a juro simples com taxa de 0,5% \nao mês, quanto tempo é necessário para que o \nmontante da aplicação seja o dobro do capital \ninicial investido?",
+            "alternativas": {
+                "A": "8 anos e 4 meses.",
+                "B": "10 anos.",
+                "C": "20 anos.",
+                "D": "12 anos e 10 meses.",
+                "E": "16 anos e 8 meses."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: A figura abaixo mostra um retângulo ABCD e \num triângulo AEC sombreado.  \n \nSabe -se que a razão entre a medida AE e a \nmedida AD é 1/4. Nesta situação, a razão entre a \nárea do triângulo AEC e a área do retângulo \nABCD é:",
+            "alternativas": {
+                "A": "1/2.",
+                "B": "1/4.",
+                "C": "1/16.",
+                "D": "1/8.",
+                "E": "1/6.  \n QUESTÃO 16 \nUma turma de 4 alunos, chamados de A, B, C e \nD, fez uma prova e a média das notas dos alunos \nfoi 𝑋. Sabe -se que os alunos A e B tiveram as \nsuas respectivas notas iguais à média da turma. \nCom isso, é necessariamente verdade que:  \n(A) A nota dos alunos C e D também deve ter \nsido igual à média da turma.  \n(B) A média das notas dos alunos C e D deve ter \nsido metade da média da turma.  \n(C) A média das notas dos alunos C e D deve ter \nsido igual à média da turma.  \n(D) Um dos alunos C ou D teve nota igual ao \ndobro da média, e o outro teve nota igual à \nmetade da média.  \n(E) Os dois alunos C e D podem ter tirado uma \nnota menor que a média."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Suponha que uma fábrica produza 300 peças em \n5 dias, trabalhando 8 horas por dia. Outra fábrica \nproduz 450 peças em 6 dias, trabalhando 6 horas \npor dia. Se ambas as fábricas começarem a \nproduzir no mesmo dia e no mesmo horário, \nquantas peças a segunda fábr ica terá produzido a \nmais do que a primeira após 10 dias?",
+            "alternativas": {
+                "A": "100.",
+                "B": "50.",
+                "C": "150.",
+                "D": "75.",
+                "E": "125."
+            },
+            "resposta_correta": "Não encontrada"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Duas fileiras verticais de revestimentos \ncerâmicos serão colocadas numa parede. Cada \numa com um tipo de revestimento diferente. O \nrevestimento de uma das fileiras são placas \nquadradas de lado 35 cm, e o outro são placas \nquadradas de lado 15 cm. Cada revest imento será \ncolocado, sem cortes, a partir do piso, de modo a \nfazer uma fileira vertical até a altura em que as \narestas superiores de cada fileira estejam \nhorizontalmente alinhadas (isto é: as duas fileiras \ntenham mesma altura). Neste caso, quantas peças \nserão necessárias da placa quadrada de 15 cm?",
+            "alternativas": {
+                "A": "35.",
+                "B": "15.",
+                "C": "3.",
+                "D": "21.",
+                "E": "7.  \nPrefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 5 de 13 QUESTÃO 19 \nA figura a seguir mostra um quadrado e um \nsemicírculo, em duas configurações diferentes e \nsuas medidas relativas:  \n \nCom base nas informações fornecidas na figura, \nindique o raio do semicírculo:  \n(A) 12 cm.  \n(B) 13 cm. \n(C) 10 cm.  \n(D) 5 cm.  \n(E) 7 cm."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Numa rua há 200 casas enfileiradas e enumeradas \nem ordem crescente, sendo 100 delas do lado \ndireito e outras 100 do lado esquerdo da rua. As \ncasas do lado esquerdo são enumeradas somente \ncom números pares, começando do número 2. As \ncasas do lado direito sã o enumeradas com os \nnúmeros múltiplos de 3 que não são também \nmúltiplos de 2, começando do número 3. Qual \nserá o número da 51° casa do lado direito da rua?",
+            "alternativas": {
+                "A": "301.",
+                "B": "303.",
+                "C": "306.",
+                "D": "299.",
+                "E": "300.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Assinale a alternativa que descreve corretamente \no nome da loja de aplicativos do Windows 11:",
+            "alternativas": {
+                "A": "Microsoft Store.",
+                "B": "Windows Listem.",
+                "C": "App Control.",
+                "D": "Windows Software.",
+                "E": "Program Center.  QUESTÃO 2 2 \nQual é o posicionamento padrão da barra de \ntarefas no Windows 11?  \n(A) No canto superior da tela do computador.  \n(B) No canto inferior da tela do computador.  \n(C) No canto lateral direita da tela do \ncomputador.  \n(D) No canto lateral esquerda da tela do \ncomputador.  \n(E) No centro da tela do computador."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: 3 \nO navegador interpreta e exibe os dados \nrecebidos dos servidores da web em forma de \npáginas da web, que podem conter texto, \nimagens, vídeos, links e outros elementos \ninterativos.  \nQual é o navegador padrão da Microsoft incluído \nno Windows 11:",
+            "alternativas": {
+                "A": "Microsoft Speaks.",
+                "B": "Microsoft Open.",
+                "C": "Microsoft Search.",
+                "D": "Microsoft Chrome.",
+                "E": "Microsoft Edge."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: 4 \nO Microsoft Word faz parte do pacote de \naplicativos de produtividade Microsoft Office, \nque inclui também o Excel, PowerPoint, \nOutlook, entre outros.  \nQual é o recurso presente na guia \"Referências\" \ndo Microsoft Word 2016, que permite que o \nusuário trabalhe com mais inteligência e pesquise \nrapidamente a palavra ou frase escrita no texto, \npara se conectar a diferentes recursos \nrelacionados a ela:",
+            "alternativas": {
+                "A": "Referência Cruzada.",
+                "B": "Marcar entrada.",
+                "C": "Pesquisa Inteligente.",
+                "D": "Meus suplementos.",
+                "E": "Verificar acessibilidade.  \nPrefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 6 de 13 QUESTÃO 25 \nO Microsoft Excel permite criar planilhas com \ncélulas organizadas em linhas e colunas, onde é \npossível inserir dados, fórmulas e funções.  \nEstando posicionado sobre uma célula qualquer \nda planilha, para abria caixa de diálogo \n“Formatar Células”, basta pressionar:  \n(A) Alt + 1  \n(B) Alt + 2  \n(C) Ctrl + 1  \n(D) Ctrl + 5  \n(E) Ctrl + 12  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Ao analisar os diferentes gêneros discursivos, é \nnecessário reportar às teorias que contextualizam \nsua estruturação e características. Assim, a partir \nda teoria de Bakhtin, leia os enunciados a seguir \ne marque a alternativa falsa.",
+            "alternativas": {
+                "A": "Os gêneros discursivos, enquanto \norganizadores da atividade discursiva, podem \napontar caminhos para a compreensão do \nprocesso da aquisição da linguagem verbal, \nsendo que a criança é vista, desde o início, como \nsujeito na relação com a palavra do outro.",
+                "B": "A linguagem é organizada em gêneros que se \nformam nas esferas de atividades, sendo \ncompostos por forma, conteúdo e estilo, podendo \nser categorizados como primários e secundários.",
+                "C": "Não há discurso sem gênero. Os gêneros do \ndiscurso são transmitidos quase da mesma forma \nque a língua materna, ou seja, de maneira livre \naté que se comece o estudo teórico da gramática.",
+                "D": "Se os gêneros não existissem, se precisassem \nser inventados, a comunicação discursiva seria \npraticamente impossível.",
+                "E": "A vinculação dos gêneros por campos de \natividade humana ratifica a tradicional \nclassificação tipológica que estratifica as \natividades humanas de linguagem.  \n \n QUESTÃO 27  \nO pensamento e a linguagem são estudados por \nmeio de diferentes linhas teóricas, em que é \npossível observar aspectos que as divergem ou \nque as aproximam. Nesse sentido, leia os \nenunciados a seguir, marque V (verdadeiro) e F \n(falso) e depois destaque a alte rnativa correta.  \n \n[...] Na interpretação de Vygotsky, o \negocentrismo infantil é considerado a forma \ntransitória de pensamento infantil, situado entre \no pensamento autístico e o lógico socializado.  \n \n[...] A concepção teórica e metodológica de \nPiaget sobre o pensamento infantil tem suas \nbases na psicanálise.  \n \n[...] O sincretismo infantil é considerado a forma \nmais primitiva de pensamento egocêntrico da \ncriança.  \n \n[...] Para Vygotsky, a teoria do egocentrismo \ninfantil de Piaget é a demonstração mais clara do \ncaráter objetivo dessa teoria do pensamento \ninfantil.  \n \n[...] A tese da impermeabilidade ou \ninsensibilidade do pensamento da criança à \nexperiência é considerada a diretriz \nmetodológica de Piaget, pois existiria um estado, \numa realidade substancial, que impede a abertura \nàs trocas com o mundo para a formação de nova s \nestruturas.  \n \n(A) V, V, F, F, V  \n(B) V, V, V, F, F  \n(C) F, F, V, F, F  \n(D) F, F, F, V, V  \n(E) V, V, V, V, V  \n \n \n Prefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 7 de 13 QUESTÃO 28  \nSobre algumas das características e historicidade \nda alfabetização, leia as asserções subsequentes e \ndestaque a alternativa que foi construída \nerroneamente, ou seja, que possui uma \ninformação incorreta.  \n \n(A) Alfabetização é considerada como um \nprocesso que possibilita a aquisição e \napropriação do sistema da escrita.  \n \n(B) Por meio da alfabetização, adquire -se o \ndomínio da escrita, que contempla o sistema \nalfabético e ortográfico, bem como o domínio \ndas competências e o uso da escrita em diferentes \nsituações e contextos.  \n \n(C) A alfabetização também pode ser \nconceituada como é um ato criador, no qual o \nsujeito é agente da aprendizagem na medida em \nque vai aprendendo e compreendendo a leitura e \na escrita.  \n \n(D) Até meados de 1980, a alfabetização era \npensada a partir de métodos sintéticos e \nanalíticos que resultavam em formas definidas de \ncomo o professor deveria ensinar.  \n \n(E) Os trabalhos de Emília Ferreiro e Ana \nTeberosky foram responsáveis por mudar a \npercepção em relação à criança, que não é mais \nvista como mero receptor de conhecimento, mas \ncomo um sujeito que pensa a escrita desde muito \ncedo, buscando compreender como ela funciona.  \n \n \n \n \n \n \n \n \n QUESTÃO 29  \nPara analisar a produção dos diferentes gêneros \ndiscursivos, alguns aspectos precisam ser \ncompreendidos. Assim, leia os enunciados \nposteriores e assinale a alternativa correta.  \n \n(A) Em relação à mutabilidade dos gêneros \ndiscursivos, observa -se que o espaço textual não \npode ser atravessado pela dimensão intertextual.  \n(B) É essencial que o professor enfatize e \ntrabalhe com seus alunos as especificidades e as \nregularidades dos gêneros do discurso.  \n(C) O surgimento de um novo gênero discursivo \ndepende da construção totalmente díspare em \nrelação aos gêneros já existentes, principalmente, \nna relação com novas tecnologias.  \n(D) Os gêneros discursivos são veiculados, sendo \nque o suporte é o meio físico ou virtual que serve \nde base para a materialização de um texto oral ou \nescrito.  \n(E) A relação entre suporte e gênero é \nindissociável, uma vez que o suporte deve \npossuir as características específicas de cada \ngênero de determinada situação comunicativa."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: O surgimento da escrita marca o encerramento da \nPré-História e o início da história mundial. Ao \nlongo de todo o processo histórico da escrita, é \npossível encontrar diferentes formas, padrões e \nmodificações até chegar ao modelo de escrita \ncontemporâneo. Nes se sentido, qual das \nalternativas a seguir representa o tipo de escrita \nque resultou das modificações no alfabeto \nromano, que perdurou até o século VIII, muito \nutilizado nas escrituras Bíblicas?",
+            "alternativas": {
+                "A": "Escrita cuneiforme",
+                "B": "Escrita ideográfica",
+                "C": "Escrita uncial",
+                "D": "Escrita nahuatl",
+                "E": "Escrita calcográfica  \n Prefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 8 de 13 QUESTÃO 31  \nAo analisar a historicidade da escrita, é possível \ndestacar o papel desempenhado por \ndeterminadas civilizações que contribuíram \nsignificativamente para a criação dos sistemas de \nescrita atuais. Destaque a civilização que foi \nresponsável pela introdução do uso de vogais nos \nsistemas de escrita.  \n \n(A) Civilização romana  \n(B) Civilização grega  \n(C) Civilização chinesa  \n(D) Civilização egípcia  \n(E) Civilização mesopotâmia"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: A prática pedagógica conduzida por meio da \nresolução de problemas é justificada em função \nde diferentes aspectos. Logo, é necessário \nconhecer toda a realidade por trás dessa prática, \nno intuito de compreender sua efetividade e \nratificar sua importância. Da s alternativas a \nseguir, qual não retrata assertivamente o contexto \nexplicitado?",
+            "alternativas": {
+                "A": "Possibilidade de converter os conhecimentos \nmatemáticos abstratos em conhecimentos \ncapazes de dialogar com as práticas sociais.",
+                "B": "Auxilia o desenvolvimento cognitivo do \nindivíduo.",
+                "C": "Oportuniza uma forma de mensurar as \ncapacidades e limitações do conhecimento \nmatemático que os alunos possuem.",
+                "D": "É melhor aproveitada ao longo dos anos \niniciais do Ensino Fundamental, em função de \nser uma etapa que requer maior vivência prática \nem suas operações.",
+                "E": "Enfatiza os processos de pensamento, nas \nações de aprendizagem além de trabalhar os \nconteúdos matemáticos, cujo valor não deve ser \nposto de lado.  \n \n QUESTÃO 33  \nA importância dos jogos e das brincadeiras no \ndesenvolvimento da criança é trabalhada por \ndiferentes linhas teóricas, em que todas ratificam \na efetividade da relação existente. \nEspecificamente, os jogos possuem diferentes \nconcepções e atributos em que cada  uma de suas \ncaracterísticas incide em determinadas \nespecificidades. Na sequência, foram elencadas \nalgumas das características dos jogos. Assinale a \nalternativa que condiz com a possibilidade de \nincorporação de motivos e interesses.  \n \n(A) Simbolismo  \n(B) Significação  \n(C) Voluntário ou intrinsecamente motivado  \n(D) Regrado  \n(E) Episódico"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: As teorias podem apresentar posicionamentos \ndíspares ou análogos. No caso dos jogos infantis, \nobserva -se que Piaget, Wallon e Vygotsky têm \num posicionamento similar, pois eles consideram \no mesmo fator como origem de toda a \nrepresentação mental, sendo consi derado como a \nbase do aparecimento do jogo infantil. Que \naspecto é esse?",
+            "alternativas": {
+                "A": "Maturação cognitiva",
+                "B": "Curiosidade",
+                "C": "Imitação",
+                "D": "Interação social",
+                "E": "Compartilhamento de emoções  \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 9 de 13 QUESTÃO 35  \nLeia os enunciados a seguir e marque \nposteriormente a alternativa correspondente.  \nI – O portfólio é um dos instrumentos que pode \nser empregado em atividades de autocontrole, \nautoavaliação e avaliação de alunos por colegas \ne professores.  \nII – O portfólio é um instrumento que corrobora \ncom o modelo de avaliação formativa.  \nIII - Um portfólio foi, até algumas décadas atrás, \num tipo de álbum contendo a lista de atividades \ne trabalhos de um profissional ou de uma \nempresa. Nos últimos 20 anos, porém, também \npassou a ser utilizado nas escolas como \ninstrumento de organização do al uno. \nIV – O portfólio utilizado como instrumento \npedagógico reúne especificamente materiais \nvisuais, como fotos, folders, quadrinhos, charges \netc., devendo ser evitados materiais dissertativos.  \nV – O portfólio é um instrumento elaborado \nindividualmente, ou seja, cada aluno deverá ter o \nseu. \n(A) Todas as alternativas são verdadeiras.  \n(B) Todas as alternativas são falsas.  \n(C) Apenas as alternativas I e II são falsas.  \n(D) Apenas as alternativas III e V são falsas.  \n(E) Apenas as alternativas IV e V são falsas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Dentre as alternativas a seguir, destaque a que vai \nde encontro com um dos atributos da avaliação \nformativa.",
+            "alternativas": {
+                "A": "Na avaliação formativa, o foco principal é \ncada aluno em sua singularidade.",
+                "B": "A avaliação formativa é realizada \ndiariamente.",
+                "C": "O professor não toma ciência apenas do \nresultado final da atividade, mas ele participa de \ntodo o processo de sua realização.",
+                "D": "A avaliação formativa é includente porque o \naluno é parte receptiva do processo de \naprendizagem.",
+                "E": "O aluno aprende a aprender e, com o tempo, \natinge a aprendizagem permanente.  \n QUESTÃO 37  \nComplete o excerto a seguir extraído do material \nelaborado pelo MEC, intitulado: Referencial \nCurricular Nacional para a Educação Infantil.  \n“A organização do Referencial possui caráter \n___________ e didático, devendo os professores \nter consciência, em sua prática educativa, que a \nconstrução de conhecimentos se processa de \nmaneira integrada e global e que há inter -relações \nentre os diferentes e ixos sugeridos a serem \ntrabalhados com as crianças. Nessa perspectiva, \no Referencial é um guia de orientação que deverá \nservir de base para discussões entre profissionais \nde um mesmo sistema de ensino ou no interior da \ninstituição, na elaboração de projeto s educativos \nsingulares e diversos”.  \n(A) pedagógico  \n(B) normativo  \n(C) regulatório  \n(D) diretivo  \n(E) instrumental"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: De acordo com Brasil (1998), considerando -se as \nespecificidades afetivas, emocionais, sociais e \ncognitivas das crianças, a qualidade das \nexperiências oferecidas por meio da Educação \nInfantil contribui para o exercício da cidadania. \nNesse sentido, devem ser observados alguns \nprincípios. Um desses princípios é o direito da \ncriança de brincar que é cons iderado uma forma \nparticular de [...]. Assinale a alternativa que não \ncondiz com uma das formas descritas pelo \nreferido documento.",
+            "alternativas": {
+                "A": "expressão",
+                "B": "pensamento",
+                "C": "interação",
+                "D": "divertimento",
+                "E": "comunicação infantil  \n \n Prefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 10 de 13 QUESTÃO 39  \nDe acordo com a avaliação formativa, destaque o \nenunciado que condiz com as seguintes \ncaracterísticas: a avaliação é focada na \nverificação de possíveis razões de defasagens ou \ninsucessos decorrentes de aprendizagens \nanteriores.  \n(A) Regulação interativa  \n(B) Regulação corretiva  \n(C) Regulação retroativa  \n(D) Regulação preditiva  \n(E) Regulação proativa"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Em consonância com as Diretrizes Curriculares \nda Educação Básica, observa -se que a educação \nno Brasil pautada em aspectos democráticos e \ndentro de um patamar de qualidade satisfatório é \nviabilizada/manifestada por meio de qual dos \nmeios a seguir?",
+            "alternativas": {
+                "A": "Decreto",
+                "B": "Resolução",
+                "C": "Portaria",
+                "D": "Bases legais similares",
+                "E": "Movimentos sociais"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Em conformidade com as Diretrizes Curriculares \nda Educação Básica, é possível constatar que as \n“bases que dão sustentação ao projeto nacional \nde educação responsabilizam o poder público, a \nfamília, a sociedade e a escola pela garantia a \ntodos os estudantes  de um ensino ministrado com \nbase em [...]” determinados princípios. A seguir, \nforam elencados alguns exemplos desses \nprincípios. No entanto, apenas uma alternativa \ncorresponde literalmente com o texto descrito no \ndocumento em questão, assinale -o:",
+            "alternativas": {
+                "A": "Liberdade de aprender, ensinar, pesquisar e \ndivulgar a cultura, o pensamento, a arte e o saber.",
+                "B": "Prevalência das ideias pautadas nos ideais \ndemocráticos e nas concepções pedagógicas \nconstrutivistas.",
+                "C": "Garantia de um padrão aceitável de \nqualidade.",
+                "D": "Vinculação entre a educação escolar, o \ntrabalho e as práticas pedagógicas.",
+                "E": "Gestão democrática do ensino público, na \nforma de orientação e normativas pedagógicas.  \n QUESTÃO 42  \n“Na organização curricular da Educação Básica, \ndevem -se observar as diretrizes comuns a todas \nas suas etapas, modalidades e orientações \ntemáticas, respeitadas suas especificidades e as \ndos sujeitos a que se destinam. Cada etapa é \ndelimitada por sua finalidade, princípio e/ou por \nseus objetivos ou por suas diretrizes \neducacionais, claramente dispostos no texto da \nLei nº 9.394/96, fundamenta ndo-se na \ninseparabilidade dos conceitos referenciais” \n(BRASIL, 2013). Que conceitos são esses?  \n \n(A) Alfabetização e letramento  \n(B) Teoria e prática  \n(C) Igualdade de condições e diversidade de \nposicionamentos  \n(D) Cuidar e educar  \n(E) Pensamento e linguagem"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Destaque a alternativa que corresponde ao \nseguinte tipo de paradigma: implica num regime \nde semi -internato e/ou de externato. Nesse \nmodelo paradigmático, os programas oferecem \ntreinamento que os capacitam para o convívio na \nsociedade. Daí ampliou -se sobrem aneira os \natendimentos destinados a pessoas deficientes.",
+            "alternativas": {
+                "A": "Paradigma da exclusão",
+                "B": "Paradigma da institucionalização",
+                "C": "Paradigma da inclusão",
+                "D": "Paradigma de serviço",
+                "E": "Paradigma do suporte  \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 11 de 13 QUESTÃO 44  \n“A Política Nacional de Educação Especial na \nPerspectiva da Educação Inclusiva tem como \nobjetivo assegurar a inclusão escolar de alunos \ncom deficiência, transtornos globais do \ndesenvolvimento e altas \nhabilidades/superdotação” (BRASIL, 2008). \nNesse sentido, os sistemas de ensino s ão \norientados no intuito de garantir alguns aspectos \nprincipais. Uma dessas garantias faz menção ao \nprincípio por meio do qual a modalidade de \nEducação Especial será oferecida \ncompreendendo desde a Educação Infantil até a \nEducação Superior. Que princípio é  esse?  \n \n(A) Interdisciplinaridade  \n(B) Transdisciplinaridade  \n(C) Multidisciplinaridade  \n(D) Transversalidade  \n(E) Universalidade"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Conforme a Política Nacional de Educação \nEspecial na Perspectiva da Educação Inclusiva, a \nEducação Inclusiva constitui um paradigma \neducacional fundamentado em uma determinada \nconcepção que conjuga igualdade e diferença \ncomo valores indissociáveis, e que a vança em \nrelação à idéia de equidade formal ao \ncontextualizar as circunstâncias históricas da \nprodução da exclusão dentro e fora da escola. \nQue concepção é essa?",
+            "alternativas": {
+                "A": "Democracia",
+                "B": "Direitos sociais",
+                "C": "Direitos humanos",
+                "D": "Universalidade",
+                "E": "Equanimidade  \n \n \n \n QUESTÃO 46  \nDe acordo com a Lei n. 13.005/2014, “haverá \nregime de colaboração específico para a \nimplementação de modalidades de educação \nescolar que necessitem considerar territórios \nétnico -educacionais e a utilização de estratégias \nque levem em conta as identidades e  \ndeterminadas especificidades de cada \ncomunidade envolvida, assegurada a consulta \nprévia e informada a essa comunidade”. Que \nespecialidades são essas?  \n \n(A) socioculturais e linguísticas  \n(B) cognitivas e sociais  \n(C) étnicas e morais  \n(D) linguísticas e culturais  \n(E) éticas e socioculturais"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Complete o excerto a seguir, extraído do artigo \n5º da LDB.  \n“O acesso à educação básica obrigatória é direito \npúblico ____________, podendo qualquer \ncidadão, grupo de cidadãos, associação \ncomunitária, organização sindical, entidade de \nclasse ou outra legalmente constituída e, ainda, o \nMinistério Público, acionar o poder público para \nexigi -lo”.",
+            "alternativas": {
+                "A": "constitucional",
+                "B": "subjetivo",
+                "C": "prioritário",
+                "D": "inviolável",
+                "E": "administrativo  \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 12 de 13 QUESTÃO 48  \nDe acordo com a Lei 9.394/96, “os sistemas de \nensino assegurarão aos educandos com \ndeficiência, transtornos globais do \ndesenvolvimento e altas habilidades ou \nsuperdotação: [...]” os aspectos descritos a \nseguir. Porém uma alternativa possui um termo \nequivoc ado, ou seja, não condiz literalmente com \no texto descrito pela referida Lei, assinale -a: \n(A) Currículos, métodos, técnicas, recursos \neducativos e organização específicos, para \natender às suas necessidades.  \n(B) Terminalidade específica para aqueles que \nnão puderem atingir o nível exigido para a \nconclusão do ensino fundamental, em virtude de \nsuas deficiências, e aceleração para concluir em \nmenor tempo o programa escolar para os \nsuperdotados.  \n(C) Professores com especialização compulsória \nem nível superior, para atendimento \nespecializado, bem como professores do ensino \nregular capacitados para a integração desses \neducandos nas classes comuns.  \n(D) Educação Especial para o trabalho, visando a \nsua efetiva integração na vida em sociedade, \ninclusive condições adequadas para os que não \nrevelarem capacidade de inserção no trabalho \ncompetitivo, mediante articulação com os órgãos \noficiais afins, bem com o para aqueles que \napresentam uma habilidade superior nas áreas \nartística, intelectual ou psicomotora.  \n(E) Acesso igualitário aos benefícios dos \nprogramas sociais suplementares disponíveis \npara o respectivo nível do ensino regular."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR I",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Dentre os diversos tipos de processos existentes \nabrangidos pela educação, a LDB aborda em seu \n1º artigo um processo em específico que deverá \nser desenvolvido na vida familiar, na convivência \nhumana, no trabalho, nas instituições de ensino e \npesquisa, nos movimentos sociais e organizações \nda sociedade. Qual é o tipo de processo \nexplicitado pelo referido artigo?",
+            "alternativas": {
+                "A": "Processos educacionais",
+                "B": "Processos instrucionais",
+                "C": "Processos construtivistas",
+                "D": "Processo formativos",
+                "E": "Processos conformacionais  QUESTÃO 50  \nUm dos direitos assegurados por meio da Lei \n8.069/90, refere -se ao “direito ao respeito” que \nconsiste na “inviolabilidade da integridade física, \npsíquica e moral da criança e do adolescente”. \nNessa sistemática, abrange -se a preservação de \noito aspectos pri ncipais. A seguir, foram \napontados alguns desses aspectos. Destaque o \nque não é mencionado corretamente pela referida \nLei. \n(A) imagem  \n(B) ideias e crenças  \n(C) espaços e objetos pessoais  \n(D) valores educacionais  \n(E) autonomia  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Processo Seletivo - 01/2024                                      INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR I                                                                                                                                                 Página 13 de 13"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

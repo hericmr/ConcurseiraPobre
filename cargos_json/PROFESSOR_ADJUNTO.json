@@ -1,3 +1,592 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5643fa9d71958598c02d81ddaa0d80bb43bdeecb51af77c854899058da7516f4
-size 75192
+{
+    "PROFESSOR ADJUNTO": [
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 1: De acordo com o texto, todos os eventos listados \na seguir podem se relacionar, de alguma forma, à \norigem do Halloween, exceto:",
+            "alternativas": {
+                "A": "a queima do joio no Samhain .",
+                "B": "a festa galesa Calan Gaeaf.",
+                "C": "a colheita do milho, nos Estados Unidos.",
+                "D": "festivais pagãos e cristãos misturados.",
+                "E": "rituais para repelir pestes da época."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 2: Na sentença “O Halloween tem suas raízes não \nna cultura americana, mas no Reino Unido.”, o \nemprego da conjunção “mas”, no contexto de \nconexão oracional, exprime:",
+            "alternativas": {
+                "A": "dúvida.",
+                "B": "reiteração.",
+                "C": "causa.",
+                "D": "ressalva.",
+                "E": "restrição. \n \n QUESTÃO 03 \nAssinale a alternativa em que todas as palavras \napresentadas remetem ao mesmo referente no \ntexto.  \n(A) celebração - Halloween - festival. \n(B) Halloween - festa - Dia das Bruxas. \n(C) Halloween - festa - Dia do Saci. \n(D) festa - celebração - Halloween.  \n(E) festa - celebração - Dia de Todos os Santos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 3: Considere o excerto: “Há pontos em comum \nentre esse festival realizado no País de Gales e o \nSamhain , celebração predominantemente \nirlandesa e escocesa, mas há muitas diferenças \ntambèm.” No contexto apresentado, a \nmodificação que o advérbio \n“predominantemente” exprime incide sobre \n“irlandesa e escocesa” com o sentido de:",
+            "alternativas": {
+                "A": "especificamente.",
+                "B": "grandemente.",
+                "C": "exclusivamente.",
+                "D": "majoritariamente.",
+                "E": "indiscriminadamente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 4: Considere os excertos: \nI. “O Samhain  durava três dias”  \nII. “o papa Gregório Terceiro mudou a data do \nDia de Todos os Santos”  \nIII. “um milhão de pessoas foram forçadas a \nemigrar para os Estados Unidos”  \nOcorre numeral cardinal apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 4 de 14 QUESTÃO 06 \nConsidere o excerto: “Um dos hábitos mais \ncaracterísticos envolvia crianças, que iam de casa \nem casa cantando rimas ou entoando orações \npara as almas dos mortos.” Dentre as palavras \napresentadas nas alternativas a seguir, aquela que \nmelhor substitui a palavra “entoando”, no \ncontexto em que ocorre, é: \n(A) falando. \n(B) sussurrando. \n(C) meditando. \n(D) recitando. \n(E) refletindo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 5: Considerando a norma-padrão da língua \nportuguesa, a sentença que apresenta a colocação \npronominal incorreta  é:",
+            "alternativas": {
+                "A": "Nessa geração de jovens, ninguém se \ninteressa por livros impressos.",
+                "B": "Lembre-se que trilhas na natureza podem ser \nperigosas.",
+                "C": "Foram mais bem avaliadas as universidades \nque se pronunciaram sobre o ocorrido.",
+                "D": "As meninas não manifestaram-se a respeito \nda prova.",
+                "E": "Faz-se necessário incluir atividades de lazer \nno calendário escolar. \n \n \n \n \n \n \n \n \n \n QUESTÃO 08 \nConsiderando a norma-padrão da língua \nportuguesa, assinale a alternativa em que a \nconcordância nominal e verbal da sentença \napresentada está correta. \n(A) No email da empresa, foram anexados as \nfotos do evento de fim de ano. \n(B) Atualmente, devem haver milhões de pessoas \nsem acesso à água potável.  \n(C) Houveram diversos acontecimentos que \nimpediram aquele casamento.  \n(D) Alguns milhares de pessoas foram à festa \nuniversitária.  \n(E) A pesquisa entrevistou adultos e crianças que \ndispõe de aparelhos celulares."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 6: Assinale a alternativa em que o acento que indica \ncrase está empregado de forma incorreta .",
+            "alternativas": {
+                "A": "As reuniões do grupo rebelde ocorrem às \nescuras.",
+                "B": "Há muitas coisas à resolver até a festa de \naniversário.",
+                "C": "Os candidatos responderam às acusações \nnesta terça-feira.",
+                "D": "Os livros são catalogados em relação às \ndisciplinas às quais pertencem.",
+                "E": "As canções de Maria foram as indicadas às \npremiações do show de talentos.  \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 5 de 14 QUESTÃO 10 \nAssinale a alternativa cuja sentença está correta \nortograficamente. \n(A) O dicenso entre os especialistas da área foi \nvisível.  \n(B) As redações dos alunos mostram que a \ndesjunção é um fenômeno textual recorrente. \n(C) Laura destendeu o abdômem.  \n(D) Os amigos admoestavam-no a seguir com seu \npropósito. \n(E) Tentaram advinhar os próximos \nacontecimentos, mas foram surpreendidos. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 7: Um proprietário deseja efetuar a venda de seu \nterreno, pedindo a eventuais compradores que \nseja pago o preço de R$ 2.000,00 (dois mil reais) \npor cada metro quadrado. Considerando que o \nterreno tem o formato retangular, com \ncomprimento de 25 (vinte e cinco) metros e \nfrente medindo 12 (doze) metros, e considerando \nque, após negociações, a venda foi acordada com \num desconto de 20% (vinte por cento) sobre o \npreço inicialmente pedido pelo vendedor, qual \nfoi o valor final da transação?",
+            "alternativas": {
+                "A": "R$ 400.000",
+                "B": "R$ 440.000",
+                "C": "R$ 480.000",
+                "D": "R$ 500.000",
+                "E": "R$ 550.000 \n \n \n \n \n \n \n QUESTÃO 12  \nUm consumidor dirigiu-se até um supermercado \na fim de adquirir ovos. Lá, deparou-se com as \nseguintes opções: na primeira, uma dúzia de ovos \ncusta R$ 10,00 (dez reais). Na segunda, uma \ncartela com 20 (vinte) ovos é vendida por R$ \n22,00 (vinte e dois reais), e na terceira, 30 (trinta) \novos custam R$ 39,00 (trinta e nove) reais. Nessa \nsituação, qual das opções apresenta o menor \ncusto unitário por ovo adquirido? \n(A) 1ª \n(B) 1ª e 2ª, pois possuem o mesmo valor unitário \n(C) 2ª \n(D) 2ª e 3ª, pois possuem o mesmo valor unitário \n(E) 3ª"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 8: Determinada receita prevê que, para a elaboração \nde um bolo, para cada parte do ingrediente A, \ndevem ser misturadas três partes do ingrediente \nB e sete partes do ingrediente C. Assim, \nconsiderando que um confeiteiro utiliza 150g \n(cento e cinquenta gramas) do ingrediente B, \nqual a massa total do bolo, em gramas, a ser \nelaborado, considerando a soma dos três \ningredientes utilizados?",
+            "alternativas": {
+                "A": "400",
+                "B": "550",
+                "C": "750",
+                "D": "1.100",
+                "E": "1.650"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 9: Considere o seguinte sistema de equações:  x + y \n= 7 e 2x – y = 2. Neste caso, a razão entre x e y é \ndada por:",
+            "alternativas": {
+                "A": "0,25",
+                "B": "0,50",
+                "C": "0,75",
+                "D": "1,25",
+                "E": "3,00 \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 6 de 14 QUESTÃO 15  \nQual o MMC – mínimo múltiplo comum –  dos \nnúmeros 27, 54 e 11 é: \n(A) 198 \n(B) 396 \n(C) 554 \n(D) 594 \n(E) 616 \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 10: Pastas de trabalho são lugares onde se guarda \narquivos para abri-los de qualquer computador \nou dispositivo, mesmo sem estar online. As \npastas de trabalho no Windows 7 permitem o \nacesso de arquivos em um computador com esse \nsistema operacional, sob certas condições, sendo \nelas: \n( ) Pastas de trabalho são usadas exclusivamente \npara armazenar arquivos de música.  \n( ) Pastas de trabalho do Windows 7 não \npermitem o acesso a partir de dispositivos \nmóveis. \n( ) Quando a empresa disponibiliza pastas de \ntrabalho e configura isso na conta do usuário. \n( ) Pastas de trabalho garantem que você sempre \ntenha acesso aos arquivos, mesmo em casos de \npane no sistema.",
+            "alternativas": {
+                "A": "F, F, F, F.",
+                "B": "V, V, V, V.",
+                "C": "F, F, V, V.",
+                "D": "F, F, V, F.",
+                "E": "V, V, F, F. \n \n \n \n \n QUESTÃO 17  \nSobre as funções do MS – Word 2016, analise os \nconceitos a seguir:  \n \nI - Pode ser usada para atribuir automaticamente \nnúmeros a cada página do documento. Isso é útil \npara criar documentos longos, como relatórios ou \nlivros, para que os leitores possam navegar \nfacilmente e referenciar páginas específicas. \n \nII - São rótulos ou descrições associados a \nfiguras, tabelas, equações e outros objetos no \ndocumento. São usadas para identificar e explicar \no conteúdo de objetos e geralmente são geradas \nautomaticamente no Word. \n \n \nIII - São listas organizadas de termos, tópicos ou \npalavras-chave e as páginas onde podem ser \nencontrados no documento. Eles podem se \ndeterminar em ordem alfabética que listam \npalavras, podendo ser remissivos que listam \ntópicos, geralmente criados automaticamente \npelo Word. \n \nAssinale a afirmativa que contenha corretamente \ne, respectivamente, o conceito das afirmativas. \n \n  \n(A) I - Legendas; II - Numeração de páginas; III \n- Índices. \n(B) I - Índices; II - Numeração de páginas; III - \nLegendas. \n(C) I - Numeração de páginas; II - Índices; III - \nLegendas. \n(D) I - Legendas; II - Índices; III - Numeração de \npáginas. \n(E) I - Numeração de páginas; II - Legendas; III \n- Índices. \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 7 de 14 QUESTÃO 18 \nMaria trabalha como redatora em uma agência \nde publicidade e estava finalizando um \nimportante projeto que havia consumido dias de \ntrabalho. No entanto, em um momento crucial, o \nseu computador travou completamente, e ela \nnão conseguia mais acessar o aplicativo onde \nestava escrevendo o documento. Maria, sabendo \nda utilidade do atalho ________, pressionou-o \npara abrir o Gerenciador de Tarefas e, a partir \ndaí, conseguiu encerrar o aplicativo travado e \nrecuperar o seu trabalho, evitando uma perda de \nhoras de esforço. \nDiante do contexto apresentado, assinale a \nafirmativa que contenha o atalho utilizado por \nMaria.   \n \n(A) Ctrl + Alt + Esc. \n(B Ctrl + Fn + Esc. \n(C) Ctrl + Alt + Del. \n(D) Ctrl + Enter + Del. \n(E) Ctrl + Tab + Del."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 11: Ana é uma estudante universitária que está \nescrevendo um relatório importante para um \ntrabalho final. Ela precisa utilizar o Word para \nformatar o documento, aplicando estilos de \ntítulo, criando uma lista numerada para suas \nreferências e ajustando o espaçamento entre \nlinhas de acordo com as diretrizes da faculdade. \nVocê, possuidor de um vasto conhecimento na \nutilização do Word 2016, afirmou para Ana que \nsão funções do Software referenciado: \n( ) O Word oferece vários estilos de texto \npredefinidos que permitem consistência na \nformatação de títulos, subtítulos, parágrafos, etc. \n( ) É possível selecionar fontes, tamanhos de \nfonte, cores e estilos (negrito, itálico, sublinhado) \npara realçar o texto. \n( ) O Word 2016 não permite criar tabelas ou \ngráficos dentro de um documento. \n( ) Permite alinhar o texto à esquerda, direita, \ncentralizado ou justificado.",
+            "alternativas": {
+                "A": "F, F, F, F.",
+                "B": "V, V, V, V.",
+                "C": "F, F, V, V.",
+                "D": "V, V, F, V.",
+                "E": "V, V, F, F. \n QUESTÃO 20  \nSobre as funções do MS – Word 2016, analise os \nconceitos a seguir:  \n \nI - São partes do documento que geralmente \ncontêm informações como títulos, nomes de \nseções ou capítulos. Eles são usados para \norganizar o conteúdo do documento \nhierarquicamente e podem ser formatados com \nestilos de texto para que se destaquem. \n \nII - São blocos de texto que separam o conteúdo \nem unidades lógicas, como ideias ou tópicos \ndistintos. Geralmente é separado por espaços em \nbranco e pode ser formatado quanto a \nalinhamento, espaçamento e recuo. \n \n \nIII - Referem-se ao estilo de texto, tais como, \nArial, Times New Roman, o tamanho, o peso \n(negrito, itálico) e a cor. Sua formatação é \naplicada a caracteres ou palavras individuais no \ndocumento. \n \nAssinale a afirmativa que contenha corretamente \ne, respectivamente, o conceito das afirmativas.  \n \n(A) I - Fontes; II - Parágrafos; III - Cabeçalhos. \n(B) I - Cabeçalhos; II - Parágrafos; III - Fontes. \n(C) I - Fontes; II - Cabeçalhos; III - Parágrafos. \n(D) I - Parágrafos; II - Cabeçalhos; III - Fontes. \n(E) I - Parágrafos; II - Fontes; III - Cabeçalhos. \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 8 de 14 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 12: Na Educação Infantil, as rotinas diárias são \nrelevantes na organização do trabalho \neducacional. Entre essas rotinas, o \n\"Planejamento do Dia\" é uma prática que oferece \nàs crianças a oportunidade de refletir antes de \nagir, compreender a sequência das atividades e \nestruturar a noção de tempo. Ademais, ao incluir \na criança nos planejamentos do dia, mesmo que \nminimamente, faz com que os acordos sejam \ncumpridos com menos hesitações. Ao considerar \nos princípios da Teoria Sócio-Interacionista de \nLev Vygotsky, assinale a alternativa que melhor \napresenta a finalidade do \"Planejamento do Dia\".",
+            "alternativas": {
+                "A": "Promover uma competição saudável entre as \ncrianças, incentivando a superação individual.",
+                "B": "Fornecer um cronograma rígido para que as \ncrianças aprendam a seguir regras estritas.",
+                "C": "Possibilitar às crianças fazer escolhas a partir \ndas alternativas apresentadas.",
+                "D": "Incentivar a imitação das ações do professor \ncomo exemplo de comportamento adequado.",
+                "E": "Facilitar a socialização das crianças, criando \noportunidades para que compartilhem suas \nexperiências pessoais."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 13: Qual campo de experiências está relacionado ao \ndesenvolvimento motor e atividades físicas das \ncrianças?",
+            "alternativas": {
+                "A": "O eu, o outro e o nós",
+                "B": "Corpo, gestos e movimentos",
+                "C": "Traços, sons, cores e formas",
+                "D": "Escuta, fala, pensamento e imaginação",
+                "E": "Espaços, tempos, quantidades, relações e \ntransformações \n \n \n \n \n QUESTÃO 23 \nAssocie os conceitos de Jean Piaget sobre o \nprocesso de construção do conhecimento com \nsuas descrições correspondentes: \n1 - Assimilação \n2 - Equilibração \n3 - Acomodação \n( ) Processo pelo qual as crianças buscam \nconstantemente alcançar um equilíbrio cognitivo \nem seu conhecimento e compreensão do mundo. \n( ) Modificação dos esquemas cognitivos \nexistentes para acomodar informações novas e \ndiscrepantes, quando a assimilação não é mais \neficaz. \n(    ) Processo pelo qual a criança incorpora novas \ninformações em seus esquemas cognitivos \nexistentes, tentando entender o mundo de acordo \ncom o conhecimento prévio. \nA associação correta é, respectivamente: \n(A) 2 - 3 - 1 \n(B) 3 - 1 - 2 \n(C) 1 - 3 - 2 \n(D) 1 - 2 - 3 \n(E) 3 - 2 – 1"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 14: Na transição entre as duas etapas da educação \nbásica, da educação infantil para o fundamental, \nqual das seguintes ações é uma das \naprendizagens esperadas no campo de \nexperiência \"Traços, sons, cores e formas\"?",
+            "alternativas": {
+                "A": "Reconhecer a importância do cuidado com a \nsaúde.",
+                "B": "Discriminar diferentes tipos de sons e ritmos.",
+                "C": "Argumentar e relatar fatos oralmente.",
+                "D": "Identificar e registrar quantidades por meio \nde diferentes formas de representação",
+                "E": "Utilizar unidades de medida como meio de \ncomunicação. \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 9 de 14 QUESTÃO 25 \nAssocie cada código ao campo de experiências \ncorrespondente: \nCódigos: \n1 - (EI01EO01) \n2 - (EI03TS02) \n3 - (EI02EF03) \n4 - (EI01ET04) \n5 - (EI03CG01) \n \nCampos de Experiências: \n \n(   ) Corpo, Gestos e Movimentos \n(   )  O Eu, O Outro e o Nós \n(   ) Escuta, Fala, Pensamento e Imaginação \n(   ) Espaços, Tempos, Quantidades, Relações e \nTransformações \n(   ) Traços, Sons, Cores e Formas \nA associação correta é, respectivamente: \n(A) 1 - 4 - 3 - 2 - 5 \n(B) 4 - 3 - 2 - 5 - 1 \n(C) 2 - 1 - 3 - 4 - 5 \n(D) 1 - 5 - 2 - 3 - 4 \n(E) 5 - 1 - 3 - 4 – 2"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 15: Em qual campo de experiências da Educação \nInfantil as crianças são incentivadas a explorar o \nmundo físico e sociocultural, fazer observações, \nlevantar hipóteses e buscar respostas às suas \ncuriosidades?",
+            "alternativas": {
+                "A": "O eu, o outro e o nós",
+                "B": "Corpo, gestos e movimentos",
+                "C": "Traços, sons, cores e formas",
+                "D": "Escuta, fala, pensamento e imaginação",
+                "E": "Espaços, tempos, quantidades, relações e \ntransformações \n QUESTÃO 27 \nQual foi o marco legal que tornou a Educação \nInfantil parte integrante da Educação Básica no \nBrasil? \n(A) Constituição Federal de 1988. \n(B) LDB de 1996. \n(C) Emenda Constitucional nº 59/2009. \n(D) BNCC de 2013. \n(E) Resolução CNE/CEB nº 5/2009."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 16: Relacione os objetos de conhecimento em \nHistória com as habilidades correspondentes: \nI. As fases da vida e a ideia de temporalidade \n(passado, presente, futuro) \nII. A vida em família: diferentes configurações e \nvínculos \nIII. A cidade, seus espaços públicos e privados e \nsuas áreas de conservação ambiental \nA. Conhecer as histórias da família e da escola e \nidentificar o papel desempenhado por diferentes \nsujeitos em diferentes espaços. \nB. Mapear os espaços públicos no lugar em que \nvive e identificar suas funções. \nC. Identificar semelhanças e diferenças entre \njogos e brincadeiras atuais e de outras épocas e \nlugares. \nA relação correta é:",
+            "alternativas": {
+                "A": "I - A; II - B; III - C",
+                "B": "I - B; II - C; III - A",
+                "C": "I - C; II - B; III - A",
+                "D": "I - B; II - A; III - C",
+                "E": "I - C; II - A; III – B \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 10 de 14 QUESTÃO 29 \n\"Sujeito histórico e de direitos, que, nas \ninterações, relações e práticas cotidianas que \nvivencia, constrói sua identidade pessoal e \ncoletiva, brinca, imagina, fantasia, deseja, \naprende, observa, experimenta, narra, questiona \ne constrói sentidos sobre a natureza e a \nsociedade, produzindo cultura.\" \nDCNEI, Resolução CNE/CEB nº 5/2009  \nQuais são os eixos estruturantes das práticas \npedagógicas na Educação Infantil, de acordo com \nas Diretrizes Curriculares Nacionais? \n(A) Leitura e escrita. \n(B) Disciplina e obediência. \n(C) Interações e brincadeiras. \n(D) Avaliação e provas. \n(E) Didática tradicional."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 17: Em conformidade com os princípios \nestabelecidos na Convenção sobre os Direitos da \nCriança, ratificada pelo Brasil, a criança, parte de \numa sociedade, vivendo em nosso país, tem \ndireito a uma série de prerrogativas \nfundamentais.  \nQual das afirmações NÃO faz parte dos \nprincípios estabelecidos?",
+            "alternativas": {
+                "A": "Toda criança tem direito à dignidade e ao \nrespeito.",
+                "B": "Toda criança tem direito à felicidade, ao \nprazer e à alegria.",
+                "C": "Toda criança tem direito à discrepância de \noportunidades.",
+                "D": "Toda criança tem direito ao conhecimento e \nà educação.",
+                "E": "Toda criança tem direito à individualidade, \nao tempo livre e ao convívio social. \n \n \n \n QUESTÃO 31 \nAssocie corretamente as dimensões do \nconhecimento em Arte às suas descrições \ncorrespondentes: \n1 - Dimensão que refere-se ao fazer artístico, \nquando os sujeitos criam, produzem e constroem. \n2 - Dimensão que refere-se às impressões que \nimpulsionam os sujeitos em direção a novas \ncompreensões do espaço em que vivem, com \nbase no estabelecimento de relações, por meio do \nestudo e da pesquisa, entre as diversas \nexperiências e manifestações artísticas e \nculturais vividas e conhecidas. \n3 - Dimensão que refere-se à experiência sensível \ndos sujeitos em relação ao espaço, ao tempo, ao \nsom, à ação, às imagens, ao próprio corpo e aos \ndiferentes materiais. \n4 - Dimensão que refere-se às possibilidades de \nexteriorizar e manifestar as criações subjetivas \npor meio de procedimentos artísticos, tanto em \nâmbito individual quanto coletivo. \n5 - Dimensão que refere-se ao deleite, ao prazer, \nao estranhamento e à abertura para se sensibilizar \ndurante a participação em práticas artísticas e \nculturais. \n6 - Dimensão que refere-se ao processo de \nconstruir argumentos e ponderações sobre as \nfruições, as experiências e os processos criativos, \nartísticos e culturais. \n(   ) Crítica: \n(   ) Criação: \n(   ) Fruição: \n(   ) Estesia: \n(   ) Expressão: \n(   ) Reflexão: \nA associação correta é, respectivamente:  \n(A) 6 - 4 - 3 - 1 - 5 - 2 \n(B) 2 - 1 - 5 - 3 - 4 - 6 \n(C) 5 - 4 - 2 - 6 - 3 - 1 \n(D) 2 - 3 - 4 - 5 - 6 - 1 \n(E) 6 - 2 - 3 - 1 - 5 - 4 \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 11 de 14 QUESTÃO 32 \nPor que a compreensão aprofundada do \ndesenvolvimento infantil desafia as práticas \npedagógicas tradicionais e pode levar a uma \nabordagem mais eficaz na educação? \n(A) Porque a ênfase nas práticas pedagógicas \ntradicionais é a chave para o sucesso educacional \ndas crianças. \n(B) Porque o desenvolvimento infantil não tem \nrelevância direta para a prática pedagógica. \n(C) Porque as práticas pedagógicas tradicionais \njá consideram todas as variáveis do \ndesenvolvimento infantil. \n(D) Porque permite que os educadores adaptem \nsuas estratégias de ensino para atender às \nnecessidades individuais das crianças. \n(E) Porque o desenvolvimento infantil é uma \nresponsabilidade exclusiva dos pais e não deve \ninfluenciar as práticas pedagógicas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 18: Na unidade temática \"Matéria e energia\" do 4º \nano, qual é a habilidade relacionada às \ntransformações reversíveis e não reversíveis?",
+            "alternativas": {
+                "A": "Identificar os pontos cardeais, com base no \nregistro de diferentes posições relativas do Sol e \nda sombra de uma vara .",
+                "B": "Testar e relatar transformações nos materiais \ndo dia a dia quando expostos a diferentes \ncondições.",
+                "C": "Comparar o efeito da radiação solar \n(aquecimento e reflexão) em diferentes tipos de \nsuperfície.",
+                "D": "Relacionar a participação de fungos e \nbactérias na decomposição.",
+                "E": "Selecionar argumentos que justifiquem a \nimportância da cobertura vegetal para a \nmanutenção do ciclo da água. \n \n \n \n QUESTÃO 34 \nQual das habilidades a seguir relacionadas à \nMatemática no 2º ano aborda a resolução de \nproblemas de multiplicação com a ideia de \nadição de parcelas iguais? \n(A) Resolver e elaborar problemas de adição e de \nsubtração, envolvendo números de até dois \nalgarismos. \n(B) Construir sequências de números naturais em \nordem crescente ou decrescente a partir de um \nnúmero qualquer, utilizando uma regularidade \nestabelecida. \n(C) Estabelecer a equivalência de valores entre \nmoedas e cédulas do sistema monetário brasileiro \npara resolver situações cotidianas. \n(D) Resolver e elaborar problemas de \nmultiplicação (por 2, 3, 4 e 5) com a ideia de \nadição de parcelas iguais por meio de estratégias \ne formas de registro pessoais, utilizando suporte \nde imagens e/ou material manipulável. \n(E) Realizar pesquisa em universo de até 30 \nelementos, escolhendo até três variáveis \ncategóricas de seu interesse, organizando os \ndados coletados em listas, tabelas e gráficos de \ncolunas simples."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 19: O que são os Conselhos Escolares e Fóruns dos \nConselhos Escolares?",
+            "alternativas": {
+                "A": "São órgãos de gestão democrática do ensino, \nrepresentados por professores e gestores \nescolares das redes públicas.",
+                "B": "São órgãos deliberativos compostos por pais \ne responsáveis.",
+                "C": "São órgãos que atuam como supervisores das \nescolas.",
+                "D": "São órgãos de gestão democrática das \nescolas, compostos por representantes de \ndiferentes grupos da comunidade escolar.",
+                "E": "São órgãos de gestão democrática das \nescolas, responsáveis pela elaboração e aplicação \ndos projetos pedagógicos das escolas. \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 12 de 14 QUESTÃO 36 \nDe acordo com as Diretrizes e Bases da \nEducação Nacional, qual das seguintes \nalternativas NÃO é um dos princípios que regem \no ensino no Brasil? \n(A) Igualdade de condições para o acesso e \npermanência na escola. \n(B) Coexistência de instituições públicas e \nprivadas de ensino. \n(C) Valorização do profissional da educação \nescolar. \n(D) Garantia da educação infantil e creche  em \nperíodo noturno. \n(E) Pluralismo de ideias e concepções \npedagógicas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 20: Compreender o comportamento infantil e aplicar \nestratégias de interação efetivas são metas que se \nentrelaçam e se complementam na educação de \ncrianças.  \nQual é a principal diferença entre a disciplina \npositiva e a abordagem tradicional de disciplina \nescolar?",
+            "alternativas": {
+                "A": "A disciplina positiva enfatiza a punição, \nenquanto a abordagem tradicional enfatiza a \nempatia.",
+                "B": "A disciplina positiva envolve a criação de um \nambiente autoritário, enquanto a abordagem \ntradicional valoriza a autonomia dos alunos.",
+                "C": "A disciplina positiva se baseia na \ncomunicação, no respeito mútuo e na resolução \nde conflitos, enquanto a abordagem tradicional \nutiliza punições e recompensas.",
+                "D": "A disciplina positiva minimiza a participação \ndos alunos nas decisões da sala de aula, enquanto \na abordagem tradicional promove a participação \nativa.",
+                "E": "A disciplina positiva desconsidera \ncompletamente o comportamento dos alunos, ao \npasso que a abordagem tradicional lida com os \nproblemas de comportamento de forma mais \neficaz. \n QUESTÃO 38 \nComplete a frase abaixo sobre o direito à \neducação de pessoas com deficiência: \n\"É dever do Estado, da família, da comunidade \nescolar e da sociedade assegurar educação de \nqualidade à pessoa com deficiência, colocando-a \na salvo de toda forma de ____________, \nnegligência e discriminação.\" \n(A) Inclusão. \n(B) Aptidão. \n(C) Violência. \n(D) Consciência. \n(E) Discriminação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 21: Na alfabetização, é indispensável que os \nestudantes adquiram um amplo conhecimento do \nalfabeto e das regras básicas de escrita e leitura. \nIsso implica o desenvolvimento de uma \ncompreensão dos sons da língua portuguesa e \ncomo eles se organizam em unidades maiores, \ncomo sílabas e palavras. Além disso, os alunos \nprecisam dominar o alfabeto da Língua \nPortuguesa em todas as suas formas, incluindo \nletras de imprensa e cursivas, maiúsculas e \nminúsculas, e entender como esses sistemas se \nrelacionam na representação escrita da língua.  \nEssa descrição está relacionada à habilidade de:",
+            "alternativas": {
+                "A": "Reconhecimento dos números",
+                "B": "Leitura fluente",
+                "C": "Escrita cursiva",
+                "D": "Consciência fonológica",
+                "E": "Uso de letras maiúsculas \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 13 de 14 QUESTÃO 40 \nA BNCC organiza a educação em etapas, como a \nEducação Infantil, Ensino Fundamental e Ensino \nMédio. A área de Linguagens aborda práticas \nsociais mediadas por diversas linguagens, \npromovendo o desenvolvimento de \ncompetências específicas nos anos iniciais e \nfinais do Ensino Fundamental.  \nAssinale a alternativa que apresenta os \ncomponentes curriculares que fazem parte da \nárea de Linguagens na BNCC. \n(A) Matemática, História, Geografia e Ciências. \n(B) Língua Portuguesa, Arte, Educação Física e \nLíngua Inglesa. \n(C) História, Geografia, Ciências e Matemática. \n(D) Educação Física, Arte, Ciências e Língua \nPortuguesa. \n(E) Língua Inglesa, Matemática, Educação Física \ne Ciências. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 14 de 14"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 1: De acordo com o texto, todos os eventos listados \na seguir podem se relacionar, de alguma forma, à \norigem do Halloween, exceto:",
+            "alternativas": {
+                "A": "a queima do joio no Samhain .",
+                "B": "a festa galesa Calan Gaeaf.",
+                "C": "a colheita do milho, nos Estados Unidos.",
+                "D": "festivais pagãos e cristãos misturados.",
+                "E": "rituais para repelir pestes da época."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 2: Na sentença “O Halloween tem suas raízes não \nna cultura americana, mas no Reino Unido.”, o \nemprego da conjunção “mas”, no contexto de \nconexão oracional, exprime:",
+            "alternativas": {
+                "A": "dúvida.",
+                "B": "reiteração.",
+                "C": "causa.",
+                "D": "ressalva.",
+                "E": "restrição. \n \n QUESTÃO 03 \nAssinale a alternativa em que todas as palavras \napresentadas remetem ao mesmo referente no \ntexto.  \n(A) celebração - Halloween - festival. \n(B) Halloween - festa - Dia das Bruxas. \n(C) Halloween - festa - Dia do Saci. \n(D) festa - celebração - Halloween.  \n(E) festa - celebração - Dia de Todos os Santos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 3: Considere o excerto: “Há pontos em comum \nentre esse festival realizado no País de Gales e o \nSamhain , celebração predominantemente \nirlandesa e escocesa, mas há muitas diferenças \ntambèm.” No contexto apresentado, a \nmodificação que o advérbio \n“predominantemente” exprime incide sobre \n“irlandesa e escocesa” com o sentido de:",
+            "alternativas": {
+                "A": "especificamente.",
+                "B": "grandemente.",
+                "C": "exclusivamente.",
+                "D": "majoritariamente.",
+                "E": "indiscriminadamente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 4: Considere os excertos: \nI. “O Samhain  durava três dias”  \nII. “o papa Gregório Terceiro mudou a data do \nDia de Todos os Santos”  \nIII. “um milhão de pessoas foram forçadas a \nemigrar para os Estados Unidos”  \nOcorre numeral cardinal apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 4 de 14 QUESTÃO 06 \nConsidere o excerto: “Um dos hábitos mais \ncaracterísticos envolvia crianças, que iam de casa \nem casa cantando rimas ou entoando orações \npara as almas dos mortos.” Dentre as palavras \napresentadas nas alternativas a seguir, aquela que \nmelhor substitui a palavra “entoando”, no \ncontexto em que ocorre, é: \n(A) falando. \n(B) sussurrando. \n(C) meditando. \n(D) recitando. \n(E) refletindo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 5: Considerando a norma-padrão da língua \nportuguesa, a sentença que apresenta a colocação \npronominal incorreta  é:",
+            "alternativas": {
+                "A": "Nessa geração de jovens, ninguém se \ninteressa por livros impressos.",
+                "B": "Lembre-se que trilhas na natureza podem ser \nperigosas.",
+                "C": "Foram mais bem avaliadas as universidades \nque se pronunciaram sobre o ocorrido.",
+                "D": "As meninas não manifestaram-se a respeito \nda prova.",
+                "E": "Faz-se necessário incluir atividades de lazer \nno calendário escolar. \n \n \n \n \n \n \n \n \n \n QUESTÃO 08 \nConsiderando a norma-padrão da língua \nportuguesa, assinale a alternativa em que a \nconcordância nominal e verbal da sentença \napresentada está correta. \n(A) No email da empresa, foram anexados as \nfotos do evento de fim de ano. \n(B) Atualmente, devem haver milhões de pessoas \nsem acesso à água potável.  \n(C) Houveram diversos acontecimentos que \nimpediram aquele casamento.  \n(D) Alguns milhares de pessoas foram à festa \nuniversitária.  \n(E) A pesquisa entrevistou adultos e crianças que \ndispõe de aparelhos celulares."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 6: Assinale a alternativa em que o acento que indica \ncrase está empregado de forma incorreta .",
+            "alternativas": {
+                "A": "As reuniões do grupo rebelde ocorrem às \nescuras.",
+                "B": "Há muitas coisas à resolver até a festa de \naniversário.",
+                "C": "Os candidatos responderam às acusações \nnesta terça-feira.",
+                "D": "Os livros são catalogados em relação às \ndisciplinas às quais pertencem.",
+                "E": "As canções de Maria foram as indicadas às \npremiações do show de talentos.  \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 5 de 14 QUESTÃO 10 \nAssinale a alternativa cuja sentença está correta \nortograficamente. \n(A) O dicenso entre os especialistas da área foi \nvisível.  \n(B) As redações dos alunos mostram que a \ndesjunção é um fenômeno textual recorrente. \n(C) Laura destendeu o abdômem.  \n(D) Os amigos admoestavam-no a seguir com seu \npropósito. \n(E) Tentaram advinhar os próximos \nacontecimentos, mas foram surpreendidos. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 7: Um proprietário deseja efetuar a venda de seu \nterreno, pedindo a eventuais compradores que \nseja pago o preço de R$ 2.000,00 (dois mil reais) \npor cada metro quadrado. Considerando que o \nterreno tem o formato retangular, com \ncomprimento de 25 (vinte e cinco) metros e \nfrente medindo 12 (doze) metros, e considerando \nque, após negociações, a venda foi acordada com \num desconto de 20% (vinte por cento) sobre o \npreço inicialmente pedido pelo vendedor, qual \nfoi o valor final da transação?",
+            "alternativas": {
+                "A": "R$ 400.000",
+                "B": "R$ 440.000",
+                "C": "R$ 480.000",
+                "D": "R$ 500.000",
+                "E": "R$ 550.000 \n \n \n \n \n \n \n QUESTÃO 12  \nUm consumidor dirigiu-se até um supermercado \na fim de adquirir ovos. Lá, deparou-se com as \nseguintes opções: na primeira, uma dúzia de ovos \ncusta R$ 10,00 (dez reais). Na segunda, uma \ncartela com 20 (vinte) ovos é vendida por R$ \n22,00 (vinte e dois reais), e na terceira, 30 (trinta) \novos custam R$ 39,00 (trinta e nove) reais. Nessa \nsituação, qual das opções apresenta o menor \ncusto unitário por ovo adquirido? \n(A) 1ª \n(B) 1ª e 2ª, pois possuem o mesmo valor unitário \n(C) 2ª \n(D) 2ª e 3ª, pois possuem o mesmo valor unitário \n(E) 3ª"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 8: Determinada receita prevê que, para a elaboração \nde um bolo, para cada parte do ingrediente A, \ndevem ser misturadas três partes do ingrediente \nB e sete partes do ingrediente C. Assim, \nconsiderando que um confeiteiro utiliza 150g \n(cento e cinquenta gramas) do ingrediente B, \nqual a massa total do bolo, em gramas, a ser \nelaborado, considerando a soma dos três \ningredientes utilizados?",
+            "alternativas": {
+                "A": "400",
+                "B": "550",
+                "C": "750",
+                "D": "1.100",
+                "E": "1.650"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2023",
+            "questão": "Questão 9: Considere o seguinte sistema de equações:  x + y \n= 7 e 2x – y = 2. Neste caso, a razão entre x e y é \ndada por:",
+            "alternativas": {
+                "A": "0,25",
+                "B": "0,50",
+                "C": "0,75",
+                "D": "1,25",
+                "E": "3,00 \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 6 de 14 QUESTÃO 15  \nQual o MMC – mínimo múltiplo comum –  dos \nnúmeros 27, 54 e 11 é: \n(A) 198 \n(B) 396 \n(C) 554 \n(D) 594 \n(E) 616 \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 10: Pastas de trabalho são lugares onde se guarda \narquivos para abri-los de qualquer computador \nou dispositivo, mesmo sem estar online. As \npastas de trabalho no Windows 7 permitem o \nacesso de arquivos em um computador com esse \nsistema operacional, sob certas condições, sendo \nelas: \n( ) Pastas de trabalho são usadas exclusivamente \npara armazenar arquivos de música.  \n( ) Pastas de trabalho do Windows 7 não \npermitem o acesso a partir de dispositivos \nmóveis. \n( ) Quando a empresa disponibiliza pastas de \ntrabalho e configura isso na conta do usuário. \n( ) Pastas de trabalho garantem que você sempre \ntenha acesso aos arquivos, mesmo em casos de \npane no sistema.",
+            "alternativas": {
+                "A": "F, F, F, F.",
+                "B": "V, V, V, V.",
+                "C": "F, F, V, V.",
+                "D": "F, F, V, F.",
+                "E": "V, V, F, F. \n \n \n \n \n QUESTÃO 17  \nSobre as funções do MS – Word 2016, analise os \nconceitos a seguir:  \n \nI - Pode ser usada para atribuir automaticamente \nnúmeros a cada página do documento. Isso é útil \npara criar documentos longos, como relatórios ou \nlivros, para que os leitores possam navegar \nfacilmente e referenciar páginas específicas. \n \nII - São rótulos ou descrições associados a \nfiguras, tabelas, equações e outros objetos no \ndocumento. São usadas para identificar e explicar \no conteúdo de objetos e geralmente são geradas \nautomaticamente no Word. \n \n \nIII - São listas organizadas de termos, tópicos ou \npalavras-chave e as páginas onde podem ser \nencontrados no documento. Eles podem se \ndeterminar em ordem alfabética que listam \npalavras, podendo ser remissivos que listam \ntópicos, geralmente criados automaticamente \npelo Word. \n \nAssinale a afirmativa que contenha corretamente \ne, respectivamente, o conceito das afirmativas. \n \n  \n(A) I - Legendas; II - Numeração de páginas; III \n- Índices. \n(B) I - Índices; II - Numeração de páginas; III - \nLegendas. \n(C) I - Numeração de páginas; II - Índices; III - \nLegendas. \n(D) I - Legendas; II - Índices; III - Numeração de \npáginas. \n(E) I - Numeração de páginas; II - Legendas; III \n- Índices. \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 7 de 14 QUESTÃO 18 \nMaria trabalha como redatora em uma agência \nde publicidade e estava finalizando um \nimportante projeto que havia consumido dias de \ntrabalho. No entanto, em um momento crucial, o \nseu computador travou completamente, e ela \nnão conseguia mais acessar o aplicativo onde \nestava escrevendo o documento. Maria, sabendo \nda utilidade do atalho ________, pressionou-o \npara abrir o Gerenciador de Tarefas e, a partir \ndaí, conseguiu encerrar o aplicativo travado e \nrecuperar o seu trabalho, evitando uma perda de \nhoras de esforço. \nDiante do contexto apresentado, assinale a \nafirmativa que contenha o atalho utilizado por \nMaria.   \n \n(A) Ctrl + Alt + Esc. \n(B Ctrl + Fn + Esc. \n(C) Ctrl + Alt + Del. \n(D) Ctrl + Enter + Del. \n(E) Ctrl + Tab + Del."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "02/2023",
+            "questão": "Questão 11: Ana é uma estudante universitária que está \nescrevendo um relatório importante para um \ntrabalho final. Ela precisa utilizar o Word para \nformatar o documento, aplicando estilos de \ntítulo, criando uma lista numerada para suas \nreferências e ajustando o espaçamento entre \nlinhas de acordo com as diretrizes da faculdade. \nVocê, possuidor de um vasto conhecimento na \nutilização do Word 2016, afirmou para Ana que \nsão funções do Software referenciado: \n( ) O Word oferece vários estilos de texto \npredefinidos que permitem consistência na \nformatação de títulos, subtítulos, parágrafos, etc. \n( ) É possível selecionar fontes, tamanhos de \nfonte, cores e estilos (negrito, itálico, sublinhado) \npara realçar o texto. \n( ) O Word 2016 não permite criar tabelas ou \ngráficos dentro de um documento. \n( ) Permite alinhar o texto à esquerda, direita, \ncentralizado ou justificado.",
+            "alternativas": {
+                "A": "F, F, F, F.",
+                "B": "V, V, V, V.",
+                "C": "F, F, V, V.",
+                "D": "V, V, F, V.",
+                "E": "V, V, F, F. \n QUESTÃO 20  \nSobre as funções do MS – Word 2016, analise os \nconceitos a seguir:  \n \nI - São partes do documento que geralmente \ncontêm informações como títulos, nomes de \nseções ou capítulos. Eles são usados para \norganizar o conteúdo do documento \nhierarquicamente e podem ser formatados com \nestilos de texto para que se destaquem. \n \nII - São blocos de texto que separam o conteúdo \nem unidades lógicas, como ideias ou tópicos \ndistintos. Geralmente é separado por espaços em \nbranco e pode ser formatado quanto a \nalinhamento, espaçamento e recuo. \n \n \nIII - Referem-se ao estilo de texto, tais como, \nArial, Times New Roman, o tamanho, o peso \n(negrito, itálico) e a cor. Sua formatação é \naplicada a caracteres ou palavras individuais no \ndocumento. \n \nAssinale a afirmativa que contenha corretamente \ne, respectivamente, o conceito das afirmativas.  \n \n(A) I - Fontes; II - Parágrafos; III - Cabeçalhos. \n(B) I - Cabeçalhos; II - Parágrafos; III - Fontes. \n(C) I - Fontes; II - Cabeçalhos; III - Parágrafos. \n(D) I - Parágrafos; II - Cabeçalhos; III - Fontes. \n(E) I - Parágrafos; II - Fontes; III - Cabeçalhos. \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 8 de 14 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 12: Na Educação Infantil, as rotinas diárias são \nrelevantes na organização do trabalho \neducacional. Entre essas rotinas, o \n\"Planejamento do Dia\" é uma prática que oferece \nàs crianças a oportunidade de refletir antes de \nagir, compreender a sequência das atividades e \nestruturar a noção de tempo. Ademais, ao incluir \na criança nos planejamentos do dia, mesmo que \nminimamente, faz com que os acordos sejam \ncumpridos com menos hesitações. Ao considerar \nos princípios da Teoria Sócio-Interacionista de \nLev Vygotsky, assinale a alternativa que melhor \napresenta a finalidade do \"Planejamento do Dia\".",
+            "alternativas": {
+                "A": "Promover uma competição saudável entre as \ncrianças, incentivando a superação individual.",
+                "B": "Fornecer um cronograma rígido para que as \ncrianças aprendam a seguir regras estritas.",
+                "C": "Possibilitar às crianças fazer escolhas a partir \ndas alternativas apresentadas.",
+                "D": "Incentivar a imitação das ações do professor \ncomo exemplo de comportamento adequado.",
+                "E": "Facilitar a socialização das crianças, criando \noportunidades para que compartilhem suas \nexperiências pessoais."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 13: Qual campo de experiências está relacionado ao \ndesenvolvimento motor e atividades físicas das \ncrianças?",
+            "alternativas": {
+                "A": "O eu, o outro e o nós",
+                "B": "Corpo, gestos e movimentos",
+                "C": "Traços, sons, cores e formas",
+                "D": "Escuta, fala, pensamento e imaginação",
+                "E": "Espaços, tempos, quantidades, relações e \ntransformações \n \n \n \n \n QUESTÃO 23 \nAssocie os conceitos de Jean Piaget sobre o \nprocesso de construção do conhecimento com \nsuas descrições correspondentes: \n1 - Assimilação \n2 - Equilibração \n3 - Acomodação \n( ) Processo pelo qual as crianças buscam \nconstantemente alcançar um equilíbrio cognitivo \nem seu conhecimento e compreensão do mundo. \n( ) Modificação dos esquemas cognitivos \nexistentes para acomodar informações novas e \ndiscrepantes, quando a assimilação não é mais \neficaz. \n(    ) Processo pelo qual a criança incorpora novas \ninformações em seus esquemas cognitivos \nexistentes, tentando entender o mundo de acordo \ncom o conhecimento prévio. \nA associação correta é, respectivamente: \n(A) 2 - 3 - 1 \n(B) 3 - 1 - 2 \n(C) 1 - 3 - 2 \n(D) 1 - 2 - 3 \n(E) 3 - 2 – 1"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 14: Na transição entre as duas etapas da educação \nbásica, da educação infantil para o fundamental, \nqual das seguintes ações é uma das \naprendizagens esperadas no campo de \nexperiência \"Traços, sons, cores e formas\"?",
+            "alternativas": {
+                "A": "Reconhecer a importância do cuidado com a \nsaúde.",
+                "B": "Discriminar diferentes tipos de sons e ritmos.",
+                "C": "Argumentar e relatar fatos oralmente.",
+                "D": "Identificar e registrar quantidades por meio \nde diferentes formas de representação",
+                "E": "Utilizar unidades de medida como meio de \ncomunicação. \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 9 de 14 QUESTÃO 25 \nAssocie cada código ao campo de experiências \ncorrespondente: \nCódigos: \n1 - (EI01EO01) \n2 - (EI03TS02) \n3 - (EI02EF03) \n4 - (EI01ET04) \n5 - (EI03CG01) \n \nCampos de Experiências: \n \n(   ) Corpo, Gestos e Movimentos \n(   )  O Eu, O Outro e o Nós \n(   ) Escuta, Fala, Pensamento e Imaginação \n(   ) Espaços, Tempos, Quantidades, Relações e \nTransformações \n(   ) Traços, Sons, Cores e Formas \nA associação correta é, respectivamente: \n(A) 1 - 4 - 3 - 2 - 5 \n(B) 4 - 3 - 2 - 5 - 1 \n(C) 2 - 1 - 3 - 4 - 5 \n(D) 1 - 5 - 2 - 3 - 4 \n(E) 5 - 1 - 3 - 4 – 2"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 15: Em qual campo de experiências da Educação \nInfantil as crianças são incentivadas a explorar o \nmundo físico e sociocultural, fazer observações, \nlevantar hipóteses e buscar respostas às suas \ncuriosidades?",
+            "alternativas": {
+                "A": "O eu, o outro e o nós",
+                "B": "Corpo, gestos e movimentos",
+                "C": "Traços, sons, cores e formas",
+                "D": "Escuta, fala, pensamento e imaginação",
+                "E": "Espaços, tempos, quantidades, relações e \ntransformações \n QUESTÃO 27 \nQual foi o marco legal que tornou a Educação \nInfantil parte integrante da Educação Básica no \nBrasil? \n(A) Constituição Federal de 1988. \n(B) LDB de 1996. \n(C) Emenda Constitucional nº 59/2009. \n(D) BNCC de 2013. \n(E) Resolução CNE/CEB nº 5/2009."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 16: Relacione os objetos de conhecimento em \nHistória com as habilidades correspondentes: \nI. As fases da vida e a ideia de temporalidade \n(passado, presente, futuro) \nII. A vida em família: diferentes configurações e \nvínculos \nIII. A cidade, seus espaços públicos e privados e \nsuas áreas de conservação ambiental \nA. Conhecer as histórias da família e da escola e \nidentificar o papel desempenhado por diferentes \nsujeitos em diferentes espaços. \nB. Mapear os espaços públicos no lugar em que \nvive e identificar suas funções. \nC. Identificar semelhanças e diferenças entre \njogos e brincadeiras atuais e de outras épocas e \nlugares. \nA relação correta é:",
+            "alternativas": {
+                "A": "I - A; II - B; III - C",
+                "B": "I - B; II - C; III - A",
+                "C": "I - C; II - B; III - A",
+                "D": "I - B; II - A; III - C",
+                "E": "I - C; II - A; III – B \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 10 de 14 QUESTÃO 29 \n\"Sujeito histórico e de direitos, que, nas \ninterações, relações e práticas cotidianas que \nvivencia, constrói sua identidade pessoal e \ncoletiva, brinca, imagina, fantasia, deseja, \naprende, observa, experimenta, narra, questiona \ne constrói sentidos sobre a natureza e a \nsociedade, produzindo cultura.\" \nDCNEI, Resolução CNE/CEB nº 5/2009  \nQuais são os eixos estruturantes das práticas \npedagógicas na Educação Infantil, de acordo com \nas Diretrizes Curriculares Nacionais? \n(A) Leitura e escrita. \n(B) Disciplina e obediência. \n(C) Interações e brincadeiras. \n(D) Avaliação e provas. \n(E) Didática tradicional."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 17: Em conformidade com os princípios \nestabelecidos na Convenção sobre os Direitos da \nCriança, ratificada pelo Brasil, a criança, parte de \numa sociedade, vivendo em nosso país, tem \ndireito a uma série de prerrogativas \nfundamentais.  \nQual das afirmações NÃO faz parte dos \nprincípios estabelecidos?",
+            "alternativas": {
+                "A": "Toda criança tem direito à dignidade e ao \nrespeito.",
+                "B": "Toda criança tem direito à felicidade, ao \nprazer e à alegria.",
+                "C": "Toda criança tem direito à discrepância de \noportunidades.",
+                "D": "Toda criança tem direito ao conhecimento e \nà educação.",
+                "E": "Toda criança tem direito à individualidade, \nao tempo livre e ao convívio social. \n \n \n \n QUESTÃO 31 \nAssocie corretamente as dimensões do \nconhecimento em Arte às suas descrições \ncorrespondentes: \n1 - Dimensão que refere-se ao fazer artístico, \nquando os sujeitos criam, produzem e constroem. \n2 - Dimensão que refere-se às impressões que \nimpulsionam os sujeitos em direção a novas \ncompreensões do espaço em que vivem, com \nbase no estabelecimento de relações, por meio do \nestudo e da pesquisa, entre as diversas \nexperiências e manifestações artísticas e \nculturais vividas e conhecidas. \n3 - Dimensão que refere-se à experiência sensível \ndos sujeitos em relação ao espaço, ao tempo, ao \nsom, à ação, às imagens, ao próprio corpo e aos \ndiferentes materiais. \n4 - Dimensão que refere-se às possibilidades de \nexteriorizar e manifestar as criações subjetivas \npor meio de procedimentos artísticos, tanto em \nâmbito individual quanto coletivo. \n5 - Dimensão que refere-se ao deleite, ao prazer, \nao estranhamento e à abertura para se sensibilizar \ndurante a participação em práticas artísticas e \nculturais. \n6 - Dimensão que refere-se ao processo de \nconstruir argumentos e ponderações sobre as \nfruições, as experiências e os processos criativos, \nartísticos e culturais. \n(   ) Crítica: \n(   ) Criação: \n(   ) Fruição: \n(   ) Estesia: \n(   ) Expressão: \n(   ) Reflexão: \nA associação correta é, respectivamente:  \n(A) 6 - 4 - 3 - 1 - 5 - 2 \n(B) 2 - 1 - 5 - 3 - 4 - 6 \n(C) 5 - 4 - 2 - 6 - 3 - 1 \n(D) 2 - 3 - 4 - 5 - 6 - 1 \n(E) 6 - 2 - 3 - 1 - 5 - 4 \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 11 de 14 QUESTÃO 32 \nPor que a compreensão aprofundada do \ndesenvolvimento infantil desafia as práticas \npedagógicas tradicionais e pode levar a uma \nabordagem mais eficaz na educação? \n(A) Porque a ênfase nas práticas pedagógicas \ntradicionais é a chave para o sucesso educacional \ndas crianças. \n(B) Porque o desenvolvimento infantil não tem \nrelevância direta para a prática pedagógica. \n(C) Porque as práticas pedagógicas tradicionais \njá consideram todas as variáveis do \ndesenvolvimento infantil. \n(D) Porque permite que os educadores adaptem \nsuas estratégias de ensino para atender às \nnecessidades individuais das crianças. \n(E) Porque o desenvolvimento infantil é uma \nresponsabilidade exclusiva dos pais e não deve \ninfluenciar as práticas pedagógicas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 18: Na unidade temática \"Matéria e energia\" do 4º \nano, qual é a habilidade relacionada às \ntransformações reversíveis e não reversíveis?",
+            "alternativas": {
+                "A": "Identificar os pontos cardeais, com base no \nregistro de diferentes posições relativas do Sol e \nda sombra de uma vara .",
+                "B": "Testar e relatar transformações nos materiais \ndo dia a dia quando expostos a diferentes \ncondições.",
+                "C": "Comparar o efeito da radiação solar \n(aquecimento e reflexão) em diferentes tipos de \nsuperfície.",
+                "D": "Relacionar a participação de fungos e \nbactérias na decomposição.",
+                "E": "Selecionar argumentos que justifiquem a \nimportância da cobertura vegetal para a \nmanutenção do ciclo da água. \n \n \n \n QUESTÃO 34 \nQual das habilidades a seguir relacionadas à \nMatemática no 2º ano aborda a resolução de \nproblemas de multiplicação com a ideia de \nadição de parcelas iguais? \n(A) Resolver e elaborar problemas de adição e de \nsubtração, envolvendo números de até dois \nalgarismos. \n(B) Construir sequências de números naturais em \nordem crescente ou decrescente a partir de um \nnúmero qualquer, utilizando uma regularidade \nestabelecida. \n(C) Estabelecer a equivalência de valores entre \nmoedas e cédulas do sistema monetário brasileiro \npara resolver situações cotidianas. \n(D) Resolver e elaborar problemas de \nmultiplicação (por 2, 3, 4 e 5) com a ideia de \nadição de parcelas iguais por meio de estratégias \ne formas de registro pessoais, utilizando suporte \nde imagens e/ou material manipulável. \n(E) Realizar pesquisa em universo de até 30 \nelementos, escolhendo até três variáveis \ncategóricas de seu interesse, organizando os \ndados coletados em listas, tabelas e gráficos de \ncolunas simples."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 19: O que são os Conselhos Escolares e Fóruns dos \nConselhos Escolares?",
+            "alternativas": {
+                "A": "São órgãos de gestão democrática do ensino, \nrepresentados por professores e gestores \nescolares das redes públicas.",
+                "B": "São órgãos deliberativos compostos por pais \ne responsáveis.",
+                "C": "São órgãos que atuam como supervisores das \nescolas.",
+                "D": "São órgãos de gestão democrática das \nescolas, compostos por representantes de \ndiferentes grupos da comunidade escolar.",
+                "E": "São órgãos de gestão democrática das \nescolas, responsáveis pela elaboração e aplicação \ndos projetos pedagógicos das escolas. \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 12 de 14 QUESTÃO 36 \nDe acordo com as Diretrizes e Bases da \nEducação Nacional, qual das seguintes \nalternativas NÃO é um dos princípios que regem \no ensino no Brasil? \n(A) Igualdade de condições para o acesso e \npermanência na escola. \n(B) Coexistência de instituições públicas e \nprivadas de ensino. \n(C) Valorização do profissional da educação \nescolar. \n(D) Garantia da educação infantil e creche  em \nperíodo noturno. \n(E) Pluralismo de ideias e concepções \npedagógicas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 20: Compreender o comportamento infantil e aplicar \nestratégias de interação efetivas são metas que se \nentrelaçam e se complementam na educação de \ncrianças.  \nQual é a principal diferença entre a disciplina \npositiva e a abordagem tradicional de disciplina \nescolar?",
+            "alternativas": {
+                "A": "A disciplina positiva enfatiza a punição, \nenquanto a abordagem tradicional enfatiza a \nempatia.",
+                "B": "A disciplina positiva envolve a criação de um \nambiente autoritário, enquanto a abordagem \ntradicional valoriza a autonomia dos alunos.",
+                "C": "A disciplina positiva se baseia na \ncomunicação, no respeito mútuo e na resolução \nde conflitos, enquanto a abordagem tradicional \nutiliza punições e recompensas.",
+                "D": "A disciplina positiva minimiza a participação \ndos alunos nas decisões da sala de aula, enquanto \na abordagem tradicional promove a participação \nativa.",
+                "E": "A disciplina positiva desconsidera \ncompletamente o comportamento dos alunos, ao \npasso que a abordagem tradicional lida com os \nproblemas de comportamento de forma mais \neficaz. \n QUESTÃO 38 \nComplete a frase abaixo sobre o direito à \neducação de pessoas com deficiência: \n\"É dever do Estado, da família, da comunidade \nescolar e da sociedade assegurar educação de \nqualidade à pessoa com deficiência, colocando-a \na salvo de toda forma de ____________, \nnegligência e discriminação.\" \n(A) Inclusão. \n(B) Aptidão. \n(C) Violência. \n(D) Consciência. \n(E) Discriminação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR ADJUNTO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "02/2023",
+            "questão": "Questão 21: Na alfabetização, é indispensável que os \nestudantes adquiram um amplo conhecimento do \nalfabeto e das regras básicas de escrita e leitura. \nIsso implica o desenvolvimento de uma \ncompreensão dos sons da língua portuguesa e \ncomo eles se organizam em unidades maiores, \ncomo sílabas e palavras. Além disso, os alunos \nprecisam dominar o alfabeto da Língua \nPortuguesa em todas as suas formas, incluindo \nletras de imprensa e cursivas, maiúsculas e \nminúsculas, e entender como esses sistemas se \nrelacionam na representação escrita da língua.  \nEssa descrição está relacionada à habilidade de:",
+            "alternativas": {
+                "A": "Reconhecimento dos números",
+                "B": "Leitura fluente",
+                "C": "Escrita cursiva",
+                "D": "Consciência fonológica",
+                "E": "Uso de letras maiúsculas \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 13 de 14 QUESTÃO 40 \nA BNCC organiza a educação em etapas, como a \nEducação Infantil, Ensino Fundamental e Ensino \nMédio. A área de Linguagens aborda práticas \nsociais mediadas por diversas linguagens, \npromovendo o desenvolvimento de \ncompetências específicas nos anos iniciais e \nfinais do Ensino Fundamental.  \nAssinale a alternativa que apresenta os \ncomponentes curriculares que fazem parte da \nárea de Linguagens na BNCC. \n(A) Matemática, História, Geografia e Ciências. \n(B) Língua Portuguesa, Arte, Educação Física e \nLíngua Inglesa. \n(C) História, Geografia, Ciências e Matemática. \n(D) Educação Física, Arte, Ciências e Língua \nPortuguesa. \n(E) Língua Inglesa, Matemática, Educação Física \ne Ciências. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Laranjal Paulista – SP – Processo Seletivo 02/2023                    INSTITUTO AVANÇ A SÃO PAULO \n \nPROFESSOR ADJUNTO                                                                                                                                Página 14 de 14"
+            },
+            "resposta_correta": "C"
+        }
+    ]
+}

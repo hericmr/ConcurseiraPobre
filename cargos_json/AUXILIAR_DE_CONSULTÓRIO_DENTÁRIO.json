@@ -1,3 +1,410 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:212d487c986a3fee1845c79127fdc6aaeb357d74a7176a897b522f6868b441ab
-size 27042
+{
+    "AUXILIAR DE CONSULTÓRIO DENTÁRIO": [
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Após a leitura da charge, cujos personagens são \nCalvin, o garoto, e Haroldo, seu tigre de pelúcia, \nconclui -se que:",
+            "alternativas": {
+                "A": "Calvin ficou frustrado com a resposta de \nHaroldo à sua fala sobre as possibilidades da \nvida.",
+                "B": "A  fala de Calvin a respeito das possibilidades \nfrustradas não tem relação com a fala anterior de \nHaroldo.",
+                "C": "Calvin é pessimista, pois considera apenas \npossibilidades que possam gerar frustração a ele.",
+                "D": "Haroldo não acredita que haja outras \npossibilidades na vida além daquela de esperar o \nônibus da escola.",
+                "E": "Calvin e Haroldo compartilham da mesma \nopinião a respeito das possibilidades da vida."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: No segundo quadrinho da charge, Calvin parece \nestar:",
+            "alternativas": {
+                "A": "Animado sobre a possibilidade de ir à escola.",
+                "B": "Animado sobre a possibilidade de não ir à \nescola.",
+                "C": "Sendo irônico a respeito da migração dos \ngnus, na África.",
+                "D": "Pessimista sobre a possibilidade de não ir à \nescola.",
+                "E": "Pessimista sobre a gama de possibilidades \nque existem na vida."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A palavra “possibilidades” , que ocorre na \ncharge, é:",
+            "alternativas": {
+                "A": "Um substantivo masculino no plural.",
+                "B": "Um substantivo feminino no plural.",
+                "C": "Um adjetivo masculino no plural.",
+                "D": "Um adjetivo feminino no plural.",
+                "E": "Um advérbio de incerteza.  \n \n \n QUESTÃO 04 \nDentre as palavras a seguir, que ocorrem na \ncharge, aquela que apresenta grau aumentativo é:  \n(A) agora.  \n(B) ôn ibus.  \n(C) escola.  \n(D) dedão.  \n(E) carona."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Considere as seguintes sentenças, que ocorrem \nna charge:  \nI. “A vida é cheia de possibilidades.”  \nII. “Eu poderia levantar o dedão, pegar uma \ncarona e passar o resto da minha vida no \nSerengeti, migrando com os Gnus.”  \nIII. “O Serengeti fica na África.”  \nVerifica -se verbo no gerúndio apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "II e III."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: A regência do verbo “esperar” , que ocorre no \nsegundo quadrinho da charge, é:",
+            "alternativas": {
+                "A": "transitiva direta.",
+                "B": "transitiva indireta.",
+                "C": "transitiva direta e indireta.",
+                "D": "intransitiva.",
+                "E": "pronominal.  \n \n \n \n \n \n \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE CONSULTÓRIO DENTÁRIO                                                                                                  Página 4 de 10 QUESTÃO 07 \nAssinale a alternativa em que o pronome pessoal \noblíquo ocorre em próclise.  \n(A) Os rapazes daquele colégio não se \ninteressavam por nenhum esporte.  \n(B) Avisaram -no de última hora sobre a festa de \naniversário.  \n(C) Minhas amigas disseram -me que não \nparticiparão da formatura.  \n(D) Vê -lo-ei na próxima semana.  \n(E) Contaria a ele tudo isso que contou a mim?"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Ocorre verbo irregular apenas em:",
+            "alternativas": {
+                "A": "Os bolos desta confeitaria não duram 24 \nhoras.",
+                "B": "Ela sabe que pode contar conosco.",
+                "C": "A menina cozinhava admiravelmente.",
+                "D": "As aulas não costumam atrasar.",
+                "E": "Estes barcos naufragaram no mesmo ano."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as palavras a seguir e assinale a \nalternativa em que todas as palavras dadas são \nsinônimas.",
+            "alternativas": {
+                "A": "indispensável; prescindível; escusável.",
+                "B": "papalvo; moralista; empedernido.",
+                "C": "altruísta; compassivo; mentiroso.",
+                "D": "pífio; abjeto; nobre.",
+                "E": "insigne; célebre; eminente."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: A palavra a seguir que apresenta exatamente seis \nsílabas é:",
+            "alternativas": {
+                "A": "amparo.",
+                "B": "alienado.",
+                "C": "característica.",
+                "D": "estátuas.",
+                "E": "peculiaridade.  MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Um editor leva aproximadamente 30 minutos \npara revisar um artigo. Se ele precisa revisar 6 \nartigos iguais e leva o mesmo tempo para revisar \ncada um, quantas horas o editor levará para \nrevisar todos os 6 artigos?",
+            "alternativas": {
+                "A": "3 horas",
+                "B": "3 horas e 30 minutos",
+                "C": "2 horas e 40 minutos",
+                "D": "1 hora e 60 minutos",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Em uma sala de conferências, cada fileira possui \nexatamente 18 assentos. Se a sala tem 30 fileiras, \nqual é o número total de assentos nessa sala?",
+            "alternativas": {
+                "A": "540",
+                "B": "550",
+                "C": "560",
+                "D": "580",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Assinale a alternativa que apresenta o \nQuadragésimo terceiro número ímpar sucessor \nde 301:",
+            "alternativas": {
+                "A": "344",
+                "B": "345",
+                "C": "385",
+                "D": "387",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Considere a sequência numérica: 2, 6, 12, 20, 30, \n(...). Qual é o próximo termo dessa sequência?",
+            "alternativas": {
+                "A": "40",
+                "B": "42",
+                "C": "44",
+                "D": "54",
+                "E": "Nenhuma das alternativas  \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE CONSULTÓRIO DENTÁRIO                                                                                                  Página 5 de 10 QUESTÃO 15  \nAna colocou 8 caixas iguais sobre uma balança, \nque registrou o valor de 480g. Se ela colocar 16 \ncaixas dos mesmos tipos sobre a mesma balança, \nqual será o valor aproximado registrado?  \n(A) 900g  \n(B) 960g  \n(C) 1.050g  \n(D) 1.200g  \n(E) 1.350g"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Uma cafeteria recebe em média 150 clientes por \ndia. Se 20% desses clientes utilizam um cartão de \ndesconto, quantos clientes, por dia, não utilizam \no cartão e pagam o preço normal pelos produtos?",
+            "alternativas": {
+                "A": "30 clientes",
+                "B": "112 clientes",
+                "C": "125 clientes",
+                "D": "120 clientes",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Um aquário tem 400 peixes, entre bagres, trutas \ne salmões. Sabe -se que 50% dos peixes são \nbagres, 25% são trutas e os 25% restantes são \nsalmões. Se 20% dos bagres, 30% das trutas e \n15% dos salmões são juvenis, quantos peixes \nadultos há no aquário?",
+            "alternativas": {
+                "A": "260",
+                "B": "280",
+                "C": "300",
+                "D": "315",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Considere a sequência: R, 12, S, 24, T, 36, (...). \nQual é o 16º termo dessa sequência?",
+            "alternativas": {
+                "A": "108",
+                "B": "U",
+                "C": "96",
+                "D": "V",
+                "E": "Nenhuma das alternativas  \n QUESTÃO 19  \nCarlos encontrou um cofre com moedas de \ndiferentes valores. Ele encontrou 45 moedas de \nR$ 0,10 e 56 moedas de R$ 0,25. Qual é o valor \ntotal que Carlos encontrou no cofre?  \n(A) R$ 14,00  \n(B) R$ 23,50  \n(C) R$ 18,50  \n(D) R$ 25,60  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Maria e Pedro estão conversando sobre a escola \nonde Maria estuda. Maria conta para Pedro que, \nna escola dela, dos 400 alunos, 45% dos alunos \nnão gostam de Matemática. Pedro fica curioso e \npergunta: Se 45% dos alunos não gostam de \nMatemática, quantos alunos gostam de \nMatemática?  \nQual é o número de alunos que gostam de \nMatemática?",
+            "alternativas": {
+                "A": "180",
+                "B": "220",
+                "C": "230",
+                "D": "240",
+                "E": "260 \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: 1 \nDe acordo com a Lei Orgânica do Município de \nParaty , analise os itens a seguir e assinale a \nalternativa correta.   \nI – São poderes do Município, independentes e \nharmônicos entre si, o Legislativo e o Executivo.  \nII – São símbolos do Município o Hino, as armas \ne o selo nacionais, exceto a bandeira.",
+            "alternativas": {
+                "A": "A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.",
+                "B": "As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.",
+                "C": "A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.",
+                "D": "As asserções I e II são proposições falsas.",
+                "E": "As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE CONSULTÓRIO DENTÁRIO                                                                                                  Página 6 de 10 QUESTÃO 22  \nComplete a lacuna de acordo com a Lei Orgânica \ndo Município de Paraty . \n \nA Câmara Municipal é composta de vereadores \neleitos pelo sistema proporcional como \nrepresentantes do povo, com mandato de \n________.  \n \n(A) dois anos  \n(B) três anos  \n(C) quatro anos  \n(D) cinco anos  \n(E) seis anos"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Qual é a lenda local de Paraty que conta sobre \numa criança transformada em uma serpente, cuja \ncabeça está sob os pés da imagem de Nossa \nSenhora dos Remédios e cujo corpo se estende ao \nlongo do Rio Perequê -açu, ameaçando destruir a \ncidade se a imagem for removida?",
+            "alternativas": {
+                "A": "A lenda do Ouro Maldito",
+                "B": "A lenda da Serpente da Matriz",
+                "C": "A lenda do Fantasma do Porto",
+                "D": "A lenda da Pedra da Macela",
+                "E": "A lenda da Cruz do Descobrimento"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: De acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, assinale a \nalternativa incorreta. São deveres dos \nfuncionários:",
+            "alternativas": {
+                "A": "Assiduidade",
+                "B": "Pontualidade",
+                "C": "Discrição",
+                "D": "Urbanidade",
+                "E": "Negligência  \n \n \n \n \n \n \n \n QUESTÃO 25  \nQual é o nome do instrumento descrito a seguir?  \n \nFonte: Livro de Paraty  \n \nEste instrumento tem origem árabe e possui três \ncordas. Em Paraty, é feito de madeiras de cedro \ne caixeta e é conhecido por animar bailes de \nciranda, folias de Reis e do Divino. \nReintroduzido na Ciranda da cidade após meio \nséculo por um jovem cirandeiro, ele desempenha \num papel importante na preservação da cultura \nlocal.  \n \n(A) Violão  \n(B) Bandolim  \n(C) Rabeca  \n(D) Cavaquinho  \n(E) Violino"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: A importância da limpeza, desinfecção e \nesterilização dos materiais e equipamentos em \numa unidade de saúde está relacionada à \nnecessidade de reduzir o número de \nmicrorganismos presentes no ambiente de \ntratamento. Qual dos utensílios do consultório \nlistados abaixo necessita do maior  nível de \nesterilização?",
+            "alternativas": {
+                "A": "Cadeira odontológica",
+                "B": "Cuspideira",
+                "C": "Balcão",
+                "D": "Pinça odontológica",
+                "E": "Chão  \n \n \n \nPrefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE CONSULTÓRIO DENTÁRIO                                                                                                  Página 7 de 10 QUESTÃO 27  \nA esterilização por meios físicos pode ser obtida \npor meio do processo de:  \n(A) Calor seco.  \n(B) Formaldeído.  \n(C) Ultralívido.  \n(D) Óxido de etileno.  \n(E) Glutaraldeído."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Em qual dos equipamentos odontológicos \nlistados a seguir os microrganismos são \ndestruídos pela ação combinada da temperatura, \npressão e umidade, promovendo a \ntermocoagulação e a desnaturação das proteínas \nda estrutura genética celular?",
+            "alternativas": {
+                "A": "Estufa.",
+                "B": "Esterilizador químico.",
+                "C": "Autoclave.",
+                "D": "Forno de pasteurização.",
+                "E": "Radiação ultravioleta."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Analise a imagem a seguir, que representa um \ndos instrumentos presentes no consultório \nodontológico, e assinale a alternativa que dá \nnome ao objeto:\n \nFonte: 1https://www.dentalexcellence.com.br/",
+            "alternativas": {
+                "A": "Broca.",
+                "B": "Escovador odontológico.",
+                "C": "Bisturi.",
+                "D": "Removedor de prótese.",
+                "E": "Removedor de cárie.  \n \n \n QUESTÃO 30  \nNa odontologia, a distância entre paciente e \nprofissional é reduzida. Portanto, um \ninstrumento de trabalho fundamental para a \nproteção dos profissionais contra a inalação ou \ningestão de aerossóis e para a prevenção da \ntransmissão de microrganismos ao pacie nte é \na(o):  \n(A) Luva de proteção das mãos.  \n(B) Máscara descartável com paredes duplas ou \ntriplas.  \n(C) Lenço de papel umedecido.  \n(D) Babador de proteção.  \n(E) Avental."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Na manipulação dos equipamentos \nodontológicos, é correto afirmar que, para a \natividade de anestesia dentária e na irrigação de \ncanais radiculares, pode ser usada a:",
+            "alternativas": {
+                "A": "Soldadeira.",
+                "B": "Destaca prótese.",
+                "C": "Colgadura.",
+                "D": "Moldeira.",
+                "E": "Seringa carpule."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Qual é o aparelho compacto, utilizado para \nrestauração, clareamento, colagem de brackets, \nfacetas e lentes de contato dentais, que apresenta \num LED de luz azul em sua ponteira:",
+            "alternativas": {
+                "A": "Ultrassom odontológico.",
+                "B": "Fotopolimerizador.",
+                "C": "Curing light.",
+                "D": "Laser de baixa intensidade.",
+                "E": "Bisturi elétrico.  \n \n \n \n \nPrefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE CONSULTÓRIO DENTÁRIO                                                                                                  Página 8 de 10 QUESTÃO 33  \nQual é a marcação em um diagrama, no papel, do \nexame da arcada dentária superior e inferior de \num paciente?  \n(A) Impressão dentária.  \n(B) Moldagem.  \n(C) Odontograma.  \n(D) Histograma.  \n(E) Fluxograma."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: No odontograma, cada dente é representado por \nsuas diferentes faces, que são as superfícies do \ndente. A face do dente voltada para a linha média \nda arcada dentária, ou seja, em direção ao centro \nda boca, é a face:",
+            "alternativas": {
+                "A": "Mesial.",
+                "B": "Distal.",
+                "C": "Oclusal.",
+                "D": "Vestibular.",
+                "E": "Palatina."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: No preparo para recepcionar o paciente em um \nconsultório odontológico, uma das atividades do \nauxiliar do consultório é:",
+            "alternativas": {
+                "A": "Preparar a anestesia que será utilizada no \nprocedimento.",
+                "B": "Fazer os moldes da arcada dentária do \npaciente.",
+                "C": "Realizar um exame clínico detalhado para \navaliar a condição bucal do paciente e planejar o \nprocedimento.",
+                "D": "Instruir o paciente sobre a correta utilização \ndos aparelhos odontológicos.",
+                "E": "Limpar e desinfetar a cadeira odontológica, \nmesa de trabalho e outros equipamentos antes do \ninício do atendimento.  \n \n QUESTÃO 36  \nColocar um avental ou babador no paciente para \nprotegê -lo de respingos e sujeiras durante o \ntratamento é uma das atividades preparatórias \nvoltadas para a:  \n(A) Proteção do Ambiente de Trabalho.  \n(B) Higiene dos Instrumentos do Consultório.  \n(C) Segurança do Profissional.  \n(D) Proteção do Paciente.  \n(E) Preparação dos Instrumentos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Na ortodontia, o termo usado para descrever a \nmedida da circunferência da arcada dentária é:",
+            "alternativas": {
+                "A": "Arco Platônico.",
+                "B": "Perímetro do Arco Dentário.",
+                "C": "Circunferência Dentária.",
+                "D": "Comprimento da Arcada.",
+                "E": "Diâmetro da Central."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: A oclusão dentária normal é uma oclusão:",
+            "alternativas": {
+                "A": "Instável.",
+                "B": "Mórbida.",
+                "C": "Frágil.",
+                "D": "Esteticamente atraente.",
+                "E": "Ineficiente."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE CONSULTÓRIO DENTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Na ortodontia, o tipo facial onde a altura, largura \ne profundidade são aproximadamente iguais é \ndenominado:",
+            "alternativas": {
+                "A": "Tipo Facial Eucultural.",
+                "B": "Tipo Facial Dolicomórfico.",
+                "C": "Tipo Facial Mesofacial.",
+                "D": "Tipo Facial Braquicômico.",
+                "E": "Tipo Facial Normomórfico.  Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE CONSULTÓRIO DENTÁRIO                                                                                                  Página 9 de 10 QUESTÃO 40  \nEntre as várias técnicas anestésicas \nodontológicas locais, um dos sinais ou sintomas \nque pode ser apresentado pelo paciente é a(o):  \n(A) Hemorragia interna.  \n(B) Ressurgimento da dor.  \n(C) Inchaço generalizado.  \n(D) Dor intensa.  \n(E) Formigamento.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n  Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE CONSULTÓRIO DENTÁRIO                                                                                                  Página 10 de 10"
+            },
+            "resposta_correta": "B"
+        }
+    ]
+}

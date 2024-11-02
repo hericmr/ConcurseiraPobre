@@ -1,3 +1,704 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e3b8be38386df9f951182f3fab978a71518a87ed1bd3160a4916be244136d694
-size 63042
+{
+    "AGENTE DE ZELADORIA": [
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, todas as afirmações a \nseguir são verdadeiras, exceto:",
+            "alternativas": {
+                "A": "os artefatos do auge da cultura maia são \nescassos.",
+                "B": "os hieróglifos gravados nos pedaços de fêmur \nsão evidências da linhagem real.",
+                "C": "as conchas encontradas na tumba tinham \nutilidades diversas na sociedade maia.",
+                "D": "o mapeamento do local em que a tumba foi \nencontrada foi feito por meio de máquinas de \nraio-x.",
+                "E": "o auge da civilização maia durou mais de \nmeio século."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Segundo o texto, as relíquias encontradas na \ntumba maia são consideradas extraordinárias \nporque:",
+            "alternativas": {
+                "A": "apresentam um alto valor comercial e podem \ntrazer recursos financeiros para os pesquisadores.",
+                "B": "podem contribuir para o entendimento de um \nperíodo sobre o qual não se tem muita \ninformação.",
+                "C": "sugerem que os estados maias Chochkitam, \nTikal e Teotihuacan não tinham qualquer tipo de \nligação.",
+                "D": "confirmam que o rei maia a que se referem \nas oferendas tinha familiares no poder em outros \nestados maias.",
+                "E": "são escrituras em hieróglifos raros que \ncontam histórias que contrariam o que já se sabia \nsobre Tikal e Teotihuacan.  \n Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 3 de 12 QUESTÃO 03 \n Considere o excerto: “Isso revolucionou o nosso \ncampo.” No contexto apresentado, o pronome \ndemonstrativo “isso”  é utilizado como um \nrecurso de coesão referencial anafórico. O \nreferente ao qual remete tal pronome é:  \n \n(A) a tecnologia LIDAR.  \n(B) a floresta.  \n(C) a expedição na floresta.   \n(D) o avião utilizado na expedição.   \n(E) as relíquias encontradas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Considere os seguintes excertos, retirados do \ntexto:  \n \nI. Estima -se que as relíquias sejam de 350 d.C.   \nII. Os pesquisadores suspeitam que os hieróglifos \nvistos no material possam identificar o pai e o \navô do líder, conectando -o a outros estados \nmaias, como Tikal e Teotihuacan.  \nAs normas gramaticais que sugerem a colocação \npronominal enclítica nos casos apresentados são, \nrespectivamente:",
+            "alternativas": {
+                "A": "I. não se inicia período por pronome átono e \nII. usa -se ênclise em verbos flexionados em \noração subordinada.",
+                "B": "I. usa -se ênclise quando houver palavra \natrativa antes do verbo e II. usa -se ênclise em \norações subordinadas com verbos flexionados \nem qualquer tempo e modo.",
+                "C": "I. não se inicia período por pronome átono e \nII. usa -se ênclise em orações reduzidas de \ngerúndio não precedidas pela preposição em.",
+                "D": "I. usa -se ênclise em orações imperativas \nafirmativas e II. usa -se ênclise em orações \nreduzidas de gerúndio, independentemente dos \ndemais elementos colocados.",
+                "E": "I. usa -se ênclise em orações reduzidas de \ninfinitivo flexionado e II. usa -se ênclise em \norações reduzidas de gerúndio antecedidas pela \npreposição em, mesmo que esta esteja implícita.   \nConsidere o excerto a seguir para responder \nàs questões 5, 6 e 7:  \n \n“Uma descoberta como essa é um pouco como \nganhar na loteria, em termos de informação”, \nconstata o arqueólogo Estrada -Belli. “Ela abre \numa janela para um tempo obscuro sobre o qual \ntemos pouquíssimos textos.”"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: No excerto apresentado, a regência verbal de \n“abrir” é:",
+            "alternativas": {
+                "A": "transitiva direta.",
+                "B": "transitiva indireta.",
+                "C": "intransitiva.",
+                "D": "transitiva direta e indireta.",
+                "E": "pronominal."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Em relação às categorias gramaticais, no \ncontexto em que ocorrem, as palavras “uma”, \n“descoberta”, “obscuro” e “qual” classificam -se \nrespectivamente em:",
+            "alternativas": {
+                "A": "pronome indefinido, adjetivo, substantivo e \npronome relativo.",
+                "B": "artigo indefinido, substantivo, adjetivo e \npronome relativo.",
+                "C": "artigo indefinido, substantivo, adjetivo e \npronome interrogativo.",
+                "D": "artigo indefinido, adjetivo, adjetivo e \npronome interrogativo.",
+                "E": "pronome indefinido, substantivo, substantivo \ne pronome relativo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: O adjetivo “pouquíssimos” , que ocorre no \nexcerto apresentado, exprime sua qualidade no \ngrau:",
+            "alternativas": {
+                "A": "positivo.",
+                "B": "comparativo.",
+                "C": "superlativo relativo.",
+                "D": "superlativo absoluto sintético.",
+                "E": "superlativo absoluto analítico.  \n Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 4 de 12 QUESTÃO 08 \nAnalise as palavras a seguir quanto à tonicidade \ne assinale a alternativa em que a palavra dada é \noxítona.   \n(A) hostil.  \n(B) aeromoça.  \n(C) espelho.  \n(D) patente.  \n(E) esperança."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as sentenças a seguir e assinale aquela \nem que ocorre um verbo defectivo.",
+            "alternativas": {
+                "A": "Deste pico se vê toda a praia.",
+                "B": "A prefeitura demoliu os prédios mais antigos \nda cidade ontem à tarde.",
+                "C": "Os incêndios florestais criminosos \nmultiplicam -se nessa época do ano.",
+                "D": "A exposição de fotos na biblioteca da \nuniversidade está belíssima.",
+                "E": "Ele imprimiu todas as suas fotos da viagem à \nFlórida."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale a \nalternativa em que as palavras apontadas \npreenchem corretamente as lacunas.   \nI. O _______ da máquina de lavar ficou muito \ncaro.  \nII. Já reservamos os _______ para assistirmos à \npeça teatral.   \nIII. Finalmente, as crianças _______ a gritaria.",
+            "alternativas": {
+                "A": "I. concerto; II. assentos; III. cessaram.",
+                "B": "I. conserto; II. assentos; III. cessaram.",
+                "C": "I. conserto; II. acentos; III. cessaram.",
+                "D": "I. concerto; II. assentos; III. sessaram.",
+                "E": "I. conserto; II. acentos; III. sessaram.  \n \n QUESTÃO 11  \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica algum emprego \ninadequado de sinal de pontuação.  \n(A) Durante muitos anos, foi cozinheira em um \nrestaurante italiano.   \n(B) Gostaria de saber se você irá ao baile de \nformatura este ano?  \n(C) A nota no exame, que foi aplicado ontem, foi \ntão alta que mal conseguia acreditar.  \n(D) Maria tem preferência por doces; sua irmã, \npor salgados.   \n(E) Poderiam ser concedidos a ela dois, três, até \nquatro dias de afastamento."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: O emprego do acento indicativo de crase está \nincorreto em:",
+            "alternativas": {
+                "A": "Os envelopes foram entregues à alguma \nfuncionária.",
+                "B": "Ela se dedica às artes plásticas desde que se \naposentou.",
+                "C": "Fomos à casa de João neste fim de semana.",
+                "D": "A professora mostrou o colégio à sua mãe.",
+                "E": "Davi tem aversão à barata."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Analise as sentenças a seguir quanto às \npreposições em destaque:  \nI. O rapaz reagiu bem consoante  a situação.   \nII. O carro está estacionado sob o arco da praça \nprincipal.    \nIII. É natural sentir -se ansioso perante  o \npúblico.   \nNas sentenças dadas, verifica -se preposição \nacidental apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 5 de 12 QUESTÃO 14  \nAnalise as sentenças a seguir e assinale a \nalternativa em que ocorre conjunção \nsubordinativa integrante.  \n \n(A) Avise -me, se for possível, sobre sua \ndisponibilidade para o evento.  \n(B) De tanta vergonha, ficou vermelha que nem \num pimentão.  \n(C) Em meia hora, verifique se a massa do bolo \nainda está crua.   \n(D) As coisas não são tão ruins como dizem.   \n(E) Sonham em ter um bom relacionamento, mas \nnão se esforçam o suficiente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Analise as sentenças apresentadas a seguir. \nAssinale a alternativa em que o advérbio \nindicado entre parênteses corresponde à locução \ndestacada na sentença em que ocorre.",
+            "alternativas": {
+                "A": "Com certeza  os acontecimentos desta manhã \nprejudicaram a concentração da aluna. \n(acertadamente )",
+                "B": "Ela sabe de cor  as falas de seu filme \npreferido. ( cordamente )",
+                "C": "Com o tempo, os traços que tem em comum  \ncom sua irmã ficam mais perceptíveis. \n(comumente )",
+                "D": "O elenco deste ano é, sem dúvidas , mais \nqualificado que o do ano anterior. \n(indubitavelmente )",
+                "E": "Valéria, que não estava indo ao trabalho, \nestava, de fato , doente. ( fatidicamente ) \n \n \n \n \n \n \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: A figura abaixo mostra a antecedência de compra \ndos clientes para uma determinada sessão de \ncinema:  \n \n \nA antecedência de compra é a diferença de tempo \nentre o horário do início do filme e o horário da \ncompra do bilhete. Com base no gráfico, pode -se \ndizer que a média de antecedência de compra, em \nhoras, é:",
+            "alternativas": {
+                "A": "8,54.",
+                "B": "8,15.",
+                "C": "9,80.",
+                "D": "7,92.",
+                "E": "5,15."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: 7 \nUm quadrado e um triângulo equilátero têm a \nmesma área, qual a razão entre o perímetro deste \nquadrado e o perímetro deste triângulo? Sabe -se \nque a altura do triângulo equilátero é 𝑎√3\n2, onde \n𝑎 é a medida do seu lado.",
+            "alternativas": {
+                "A": "3\n2√34.",
+                "B": "1\n3√34.",
+                "C": "3\n2√34.",
+                "D": "3\n4√34.",
+                "E": "2\n3√34. \nCâmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 6 de 12 QUESTÃO 18 \nObserve o sistema de equações do primeiro grau \nabaixo:  \n2𝑦=2𝑥−2 \n−𝑦=−𝑥+1 \nEssas equações podem ser representadas por \nretas r e s, respectivamente, num gráfico. Dentre \nas correspondências abaixo, indique o gráfico ao \nqual este sistema corresponde:  \n \n \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V.  \n \n \n QUESTÃO 19 \nUm professor aplicou uma prova cuja nota final \ndeve estar entre zero e dez. Ao calcular as notas, \nele viu que a média da turma foi 3,0, e o \ncandidato com maior nota tirou 6,0. Ele resolveu \n‘normalizar’ as notas e atribuiu a nota 10,0 ao \nestudante com nota máxima anterior, e aumentou \na nota de todos os outros alunos na mesma \nporcentagem que aumentou a do estudante com \nnota máxima. Neste caso, quanto passou a ser a \nmédia da turma?  \n \n(A) 5,5.  \n(B) 5,0.  \n(C) 7,0.  \n(D) 6,5.  \n(E) 6,0."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Num gráfico de pizza, se quisermos representar \numa fração de 36%, conforme a figura abaixo:  \n \n \nQual deve ser o ângulo X do setor circular?",
+            "alternativas": {
+                "A": "224,0°.",
+                "B": "129,6°.",
+                "C": "136,4°.",
+                "D": "64,0°.",
+                "E": "112,9°.  \n \n \nCâmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 7 de 12 QUESTÃO 21 \nNuma obra de construção civil, há duas possíveis \nformas de pagamento: 1) o cliente paga, \nmensalmente, um valor proporcional ao que foi \nexecutado na obra naquele mês. 2) o cliente paga, \nmensalmente, valores fixos igualmente \ndistribuídos no prazo da obra. Su ponha que uma \ndeterminada obra vai custar no total 12 milhões \nde reais e tem prazo previsto de 15 meses. Porém, \nno primeiro mês foi executado apenas 3% da \nobra. Nesta situação, quanto o construtor \nreceberá a menos se a forma de pagamento for a \n1) em relaçã o à 2)?  \n \n(A) R$ 44.000,00.  \n(B) R$ 80.000,00.  \n(C) R$ 360.000,00.  \n(D) R$ 440.000,00.  \n(E) R$ 36.000,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Observe a seguinte sequência lógica numérica:  \n \n1\n6,7,1\n12,14,1\n18,21, ... \n \nIndique a divisão do 8° pelo 7° elemento dessa \nsequência:",
+            "alternativas": {
+                "A": "28/24.",
+                "B": "24/28.",
+                "C": "672.",
+                "D": "52.",
+                "E": "52/24.  \n \n \n \n \n \n QUESTÃO 23 \nObserve as seguintes afirmativas, que são dadas \ncomo VERDADEIRAS:  \n \n• João foi à escola  \n• João não jogou bola  \n• João não foi ao parque  \n \nCom base nas afirmativas, indique a alternativa \nque também apresenta uma afirmativa \nnecessariamente VERDADEIRA:  \n \n(A) Se João jogou bola, então João foi ao parque.  \n(B) João jogou bola ou foi ao parque.  \n(C) João não jogou bola e foi ao parque.  \n(D) João foi à escola e jogou bola.  \n(E) Se João foi à escola, então João jogou bola."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Em 1994 o Cajueiro de Pirangi, que fica no \nestado do Rio Grande do Norte, foi reconhecido \npelo Guiness Book como a maior árvore frutífera \ndo mundo. A árvore hoje tem cerca de 9000 \nmetros quadrados de extensão e ainda cresce num \nritmo de 0,5 metro quadrado por ano. Se \nquisermos expressar esse ritmo de crescimento \nem centímetros quadrados por ano, qual será esse \nvalor?",
+            "alternativas": {
+                "A": "50.",
+                "B": "500.",
+                "C": "5000.",
+                "D": "50.000.",
+                "E": "500.000."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Um pacote de biscoitos indica que em 3 unidades \nde biscoitos há 375 kcal. Supondo que a \nquantidade recomendada de ingestão de calorias \npara uma determinada pessoa é de 2000 kcal \ndiárias, se ela comer somente biscoitos no dia, \nquantas unidades de biscoitos ela deveria comer \npara atingir o limite recomendado?",
+            "alternativas": {
+                "A": "5.",
+                "B": "6.",
+                "C": "8.",
+                "D": "12.",
+                "E": "16.  \n Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 8 de 12 QUESTÃO 26 \nUm carteiro deve entregar cartas numa rua que \ntem 120 casas. As casas são enumeradas com os \nnúmeros entre 201 e 320. Pela manhã, ele \nentregará as cartas em todas as casas cujo número \né múltiplo de 3 ou de 5. E o restante, ele entregará \npela tarde. A quanta s casas ele entregará pela \ntarde?  \n(A) 56.  \n(B) 58.  \n(C) 62.  \n(D) 60.  \n(E) 64."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Num experimento para a feira de ciências, um \nestudante precisa misturar água e óleo na \nproporção de 5/4, em volume. Para que o volume \ntotal da mistura seja 2 litros, qual o volume de \nóleo, em litros, que deve ser utilizado no \nexperimento?",
+            "alternativas": {
+                "A": "8/9.",
+                "B": "10/9.",
+                "C": "4/9.",
+                "D": "9/8.",
+                "E": "5/2.  \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 28 \nUma pessoa irá a trocar o piso cerâmico da sua \ncasa. A tabela abaixo mostra os serviços que \nserão executados e o valor por metro quadrado de \ncada serviço:  \nServiço  Valor por m2 (R$) \nRetirada do piso \nanterior  18,05  \nAplicação de \nimpermeabilizante  0,80 \nAplicação do novo \npiso 21,25  \nFinalização e \nlimpeza  7,80 \n \nAlém disso, a outra tabela abaixo mostram os \nmateriais que serão utilizados:  \nMaterial  Valor por m2 (R$) \nImpermeabilizante  5,50 \nNovo piso cerâmico  59,10  \nArgamassa e rejunte  18,10  \n \nConsiderando todos os materiais e serviços, qual \nserá o custo total por metro quadrado para a \nexecução da troca do piso?  \n(A) R$ 130,00.  \n(B) R$ 130,60.  \n(C) R$ 160,30.  \n(D) R$ 118,25.  \n(E) R$ 115,60.  \n \n \n \n \n Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 9 de 12 QUESTÃO 29 \nDentro de uma caixa há algumas bolinhas. \nDentre elas, 20% são azuis, 50% são vermelhas e \n30% são amarelas. Além disso, 10% das bolinhas \nazuis apresentam falhas, e o restante não \napresenta. Das outras cores, nenhuma bolinha \napresenta falha. Nessas condições, quantos por \ncento das  bolinhas totais apresentam falhas?  \n(A) 4%.  \n(B) 20%.  \n(C) 10%.  \n(D) 2%.  \n(E) 12%."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: A professora de João fez uma charada:  \n“Em uma fazenda, há galinhas e coelhos. O total \nde cabeças é 28 e o total de patas é 82.”  \nResolvendo a charada, quantas galinhas há nessa \nfazenda?",
+            "alternativas": {
+                "A": "13.",
+                "B": "14.",
+                "C": "15.",
+                "D": "16.",
+                "E": "17.  \n \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: É um dispositivo que regula, direciona ou \ncontrola o fluxo de um fluido (gases, líquidos ou \nsólidos fluidizados), através da abertura, \nfechamento ou obstrução parcial de várias \npassagens:",
+            "alternativas": {
+                "A": "Termômetro.",
+                "B": "Motor.",
+                "C": "Válvula.",
+                "D": "Filtro.",
+                "E": "Tubulação.  QUESTÃO 32 \nEm relação aos conhecimentos de instrumentos \nde controle de pressão, qual alternativa \ncorresponde a imagem abaixo:  \n \n \n \n \n \n \n \n \n \n \n \n \n(A) Manômetro.  \n(B) Transmissor.  \n(C) Pressostato.  \n(D) Termômetro.  \n(E) Balança."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: É um conjunto de tubulações que transporta o \nesgoto para as estações de tratamento, onde essa \nágua residual fica livre de poluentes para retornar \naos corpos hídricos, como rios e mares.",
+            "alternativas": {
+                "A": "Fossa.",
+                "B": "Drenagem.",
+                "C": "Rede hidráulica.",
+                "D": "Irrigação.",
+                "E": "Rede de esgoto.  \n \n \n \n \nCâmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 10 de 12 QUESTÃO 34 \nNa execução de serviços de pintura interna e \nexterna, qual a alternativa que descreve \nincorretamente uma prática recomendada?   \n(A) Utilizar tintas específicas para cada \nsuperfície, visando maior durabilidade e \naderência  \n(B) Realizar a preparação adequada da \nsuperfície, removendo sujeiras, mofo e \ndescascados antes da aplicação da tinta  \n(C) Aplicar  uma única camada espessa de tinta \npara economizar tempo e material.  \n(D) Proteger áreas adjacentes e superfícies não \ndestinadas à pintura por meio de fitas adesivas e \nlonas.  \n(E) Seguir as recomendações do fabricante \nquanto ao tempo de secagem entre as demãos de \ntinta."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: 5 \nSão estruturas que realizam a interface entre \npavimentos de uma edificação, podendo dar \nsuporte a contrapisos ou funcionar como teto. \nGeralmente, apoiam -se em vigas, que por sua \nvez, apoiam -se em pilares e realizam a \ndistribuição adequada da carga da edifi cação. \nEssa descrição se refere a:",
+            "alternativas": {
+                "A": "Deck.",
+                "B": "Pisos.",
+                "C": "Vigas decorativas.",
+                "D": "Lajes",
+                "E": "Paredes."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: 6 \nCom base nos conhecimentos na execução de \ncolocação de azulejos, assinale a alternativa \nincorreta, sobre sua aplicação:",
+            "alternativas": {
+                "A": "Tirar a medida da superfície",
+                "B": "Fazer o espelhamento do azulejo.",
+                "C": "Preparar a argamassa.",
+                "D": "Fazer o rejunte.",
+                "E": "Não usar espaçadores.  QUESTÃO 3 7 \nNa aplicação de tinta em superfícies, qual \nferramenta é mais indicada para alcançar um \nacabamento mais suave em áreas maiores, como \nparedes?  \n(A) Trincha.  \n(B) Pincel.  \n(C) Rolo.  \n(D) Pistola de pintura.  \n(E) Esponja de pintura."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: 8 \nNa instalação de redes elétricas subterrâneas, \nqual é uma prática recomendada para garantir a \ndurabilidade e a segurança do sistema?",
+            "alternativas": {
+                "A": "Utilizar isoladores elétricos em todas as \nconexões subterrâneas.",
+                "B": "Enterrar os cabos diretamente no solo sem a \nutilização de tubulações.",
+                "C": "Realizar inspeções visuais periódicas nos \ncabos subterrâneos.",
+                "D": "Utilizar tubulações e conduítes resistentes à \numidade e corrosão.",
+                "E": "Conectar os cabos subterrâneos diretamente \na postes de iluminação."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: 9 \nDe acordo com os conhecimentos sobre \nconstruções de alvenaria, analise os itens abaixo.  \n \nI - A alvenaria é uma técnica construtiva que \nutiliza elementos naturais de boa resistência a \ngravidade, peso e impacto, juntamente com \nargamassa para criar paredes, pilares e outras \nestruturas de uma edificação;  \nII - Alguns dos materiais mais comuns são os \ntijolos maciços, blocos de concreto, pedras e \nalvenaria armada.;  \nIII - Existem dois tipos principais de alvenaria, a \nestrutural e a de vedação.",
+            "alternativas": {
+                "A": "Apenas o item I está correto.",
+                "B": "Apenas os itens I e II estão corretos.",
+                "C": "Apenas o item III está correto.",
+                "D": "Apenas o item II está correto.",
+                "E": "Os itens I, II e III estão corretos.  \n \n \n Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 11 de 12 QUESTÃO 40 \nDe acordo com os conhecimentos de \nManutenção preventiva e corretiva. Analise as \nafirmativas abaixo atribuindo (V) para \nverdadeira e (F) para falsa, em seguida assinale a \nalternativa com a sequência correta.  \n \n( ) A principal diferença entre manutenção \npreventiva e corretiva é a previsibilidade.  \n( ) A manutenção preventiva é indicada para \nprevenir possíveis falhas, já a manutenção \ncorretiva é aplicada quando a falha já está \ninstaurada e precisa ser corrigida.  \n( ) A manutenção corretiva normalmente é \nemergencial, e é usada quando o equipamento \napresenta falhas que precisam ser corrigidas.  \n \n(A) F - F -F  \n(B) V - V- V \n(C) F - V -F \n(D V - V- F \n(E) F -V -V \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 12 de 12"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, todas as afirmações a \nseguir são verdadeiras, exceto:",
+            "alternativas": {
+                "A": "os artefatos do auge da cultura maia são \nescassos.",
+                "B": "os hieróglifos gravados nos pedaços de fêmur \nsão evidências da linhagem real.",
+                "C": "as conchas encontradas na tumba tinham \nutilidades diversas na sociedade maia.",
+                "D": "o mapeamento do local em que a tumba foi \nencontrada foi feito por meio de máquinas de \nraio-x.",
+                "E": "o auge da civilização maia durou mais de \nmeio século."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Segundo o texto, as relíquias encontradas na \ntumba maia são consideradas extraordinárias \nporque:",
+            "alternativas": {
+                "A": "apresentam um alto valor comercial e podem \ntrazer recursos financeiros para os pesquisadores.",
+                "B": "podem contribuir para o entendimento de um \nperíodo sobre o qual não se tem muita \ninformação.",
+                "C": "sugerem que os estados maias Chochkitam, \nTikal e Teotihuacan não tinham qualquer tipo de \nligação.",
+                "D": "confirmam que o rei maia a que se referem \nas oferendas tinha familiares no poder em outros \nestados maias.",
+                "E": "são escrituras em hieróglifos raros que \ncontam histórias que contrariam o que já se sabia \nsobre Tikal e Teotihuacan.  \n Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 3 de 12 QUESTÃO 03 \n Considere o excerto: “Isso revolucionou o nosso \ncampo.” No contexto apresentado, o pronome \ndemonstrativo “isso”  é utilizado como um \nrecurso de coesão referencial anafórico. O \nreferente ao qual remete tal pronome é:  \n \n(A) a tecnologia LIDAR.  \n(B) a floresta.  \n(C) a expedição na floresta.   \n(D) o avião utilizado na expedição.   \n(E) as relíquias encontradas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Considere os seguintes excertos, retirados do \ntexto:  \n \nI. Estima -se que as relíquias sejam de 350 d.C.   \nII. Os pesquisadores suspeitam que os hieróglifos \nvistos no material possam identificar o pai e o \navô do líder, conectando -o a outros estados \nmaias, como Tikal e Teotihuacan.  \nAs normas gramaticais que sugerem a colocação \npronominal enclítica nos casos apresentados são, \nrespectivamente:",
+            "alternativas": {
+                "A": "I. não se inicia período por pronome átono e \nII. usa -se ênclise em verbos flexionados em \noração subordinada.",
+                "B": "I. usa -se ênclise quando houver palavra \natrativa antes do verbo e II. usa -se ênclise em \norações subordinadas com verbos flexionados \nem qualquer tempo e modo.",
+                "C": "I. não se inicia período por pronome átono e \nII. usa -se ênclise em orações reduzidas de \ngerúndio não precedidas pela preposição em.",
+                "D": "I. usa -se ênclise em orações imperativas \nafirmativas e II. usa -se ênclise em orações \nreduzidas de gerúndio, independentemente dos \ndemais elementos colocados.",
+                "E": "I. usa -se ênclise em orações reduzidas de \ninfinitivo flexionado e II. usa -se ênclise em \norações reduzidas de gerúndio antecedidas pela \npreposição em, mesmo que esta esteja implícita.   \nConsidere o excerto a seguir para responder \nàs questões 5, 6 e 7:  \n \n“Uma descoberta como essa é um pouco como \nganhar na loteria, em termos de informação”, \nconstata o arqueólogo Estrada -Belli. “Ela abre \numa janela para um tempo obscuro sobre o qual \ntemos pouquíssimos textos.”"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: No excerto apresentado, a regência verbal de \n“abrir” é:",
+            "alternativas": {
+                "A": "transitiva direta.",
+                "B": "transitiva indireta.",
+                "C": "intransitiva.",
+                "D": "transitiva direta e indireta.",
+                "E": "pronominal."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Em relação às categorias gramaticais, no \ncontexto em que ocorrem, as palavras “uma”, \n“descoberta”, “obscuro” e “qual” classificam -se \nrespectivamente em:",
+            "alternativas": {
+                "A": "pronome indefinido, adjetivo, substantivo e \npronome relativo.",
+                "B": "artigo indefinido, substantivo, adjetivo e \npronome relativo.",
+                "C": "artigo indefinido, substantivo, adjetivo e \npronome interrogativo.",
+                "D": "artigo indefinido, adjetivo, adjetivo e \npronome interrogativo.",
+                "E": "pronome indefinido, substantivo, substantivo \ne pronome relativo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: O adjetivo “pouquíssimos” , que ocorre no \nexcerto apresentado, exprime sua qualidade no \ngrau:",
+            "alternativas": {
+                "A": "positivo.",
+                "B": "comparativo.",
+                "C": "superlativo relativo.",
+                "D": "superlativo absoluto sintético.",
+                "E": "superlativo absoluto analítico.  \n Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 4 de 12 QUESTÃO 08 \nAnalise as palavras a seguir quanto à tonicidade \ne assinale a alternativa em que a palavra dada é \noxítona.   \n(A) hostil.  \n(B) aeromoça.  \n(C) espelho.  \n(D) patente.  \n(E) esperança."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as sentenças a seguir e assinale aquela \nem que ocorre um verbo defectivo.",
+            "alternativas": {
+                "A": "Deste pico se vê toda a praia.",
+                "B": "A prefeitura demoliu os prédios mais antigos \nda cidade ontem à tarde.",
+                "C": "Os incêndios florestais criminosos \nmultiplicam -se nessa época do ano.",
+                "D": "A exposição de fotos na biblioteca da \nuniversidade está belíssima.",
+                "E": "Ele imprimiu todas as suas fotos da viagem à \nFlórida."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale a \nalternativa em que as palavras apontadas \npreenchem corretamente as lacunas.   \nI. O _______ da máquina de lavar ficou muito \ncaro.  \nII. Já reservamos os _______ para assistirmos à \npeça teatral.   \nIII. Finalmente, as crianças _______ a gritaria.",
+            "alternativas": {
+                "A": "I. concerto; II. assentos; III. cessaram.",
+                "B": "I. conserto; II. assentos; III. cessaram.",
+                "C": "I. conserto; II. acentos; III. cessaram.",
+                "D": "I. concerto; II. assentos; III. sessaram.",
+                "E": "I. conserto; II. acentos; III. sessaram.  \n \n QUESTÃO 11  \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica algum emprego \ninadequado de sinal de pontuação.  \n(A) Durante muitos anos, foi cozinheira em um \nrestaurante italiano.   \n(B) Gostaria de saber se você irá ao baile de \nformatura este ano?  \n(C) A nota no exame, que foi aplicado ontem, foi \ntão alta que mal conseguia acreditar.  \n(D) Maria tem preferência por doces; sua irmã, \npor salgados.   \n(E) Poderiam ser concedidos a ela dois, três, até \nquatro dias de afastamento."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: O emprego do acento indicativo de crase está \nincorreto em:",
+            "alternativas": {
+                "A": "Os envelopes foram entregues à alguma \nfuncionária.",
+                "B": "Ela se dedica às artes plásticas desde que se \naposentou.",
+                "C": "Fomos à casa de João neste fim de semana.",
+                "D": "A professora mostrou o colégio à sua mãe.",
+                "E": "Davi tem aversão à barata."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Analise as sentenças a seguir quanto às \npreposições em destaque:  \nI. O rapaz reagiu bem consoante  a situação.   \nII. O carro está estacionado sob o arco da praça \nprincipal.    \nIII. É natural sentir -se ansioso perante  o \npúblico.   \nNas sentenças dadas, verifica -se preposição \nacidental apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "I e III.  Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 5 de 12 QUESTÃO 14  \nAnalise as sentenças a seguir e assinale a \nalternativa em que ocorre conjunção \nsubordinativa integrante.  \n \n(A) Avise -me, se for possível, sobre sua \ndisponibilidade para o evento.  \n(B) De tanta vergonha, ficou vermelha que nem \num pimentão.  \n(C) Em meia hora, verifique se a massa do bolo \nainda está crua.   \n(D) As coisas não são tão ruins como dizem.   \n(E) Sonham em ter um bom relacionamento, mas \nnão se esforçam o suficiente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Analise as sentenças apresentadas a seguir. \nAssinale a alternativa em que o advérbio \nindicado entre parênteses corresponde à locução \ndestacada na sentença em que ocorre.",
+            "alternativas": {
+                "A": "Com certeza  os acontecimentos desta manhã \nprejudicaram a concentração da aluna. \n(acertadamente )",
+                "B": "Ela sabe de cor  as falas de seu filme \npreferido. ( cordamente )",
+                "C": "Com o tempo, os traços que tem em comum  \ncom sua irmã ficam mais perceptíveis. \n(comumente )",
+                "D": "O elenco deste ano é, sem dúvidas , mais \nqualificado que o do ano anterior. \n(indubitavelmente )",
+                "E": "Valéria, que não estava indo ao trabalho, \nestava, de fato , doente. ( fatidicamente ) \n \n \n \n \n \n \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: A figura abaixo mostra a antecedência de compra \ndos clientes para uma determinada sessão de \ncinema:  \n \n \nA antecedência de compra é a diferença de tempo \nentre o horário do início do filme e o horário da \ncompra do bilhete. Com base no gráfico, pode -se \ndizer que a média de antecedência de compra, em \nhoras, é:",
+            "alternativas": {
+                "A": "8,54.",
+                "B": "8,15.",
+                "C": "9,80.",
+                "D": "7,92.",
+                "E": "5,15."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: 7 \nUm quadrado e um triângulo equilátero têm a \nmesma área, qual a razão entre o perímetro deste \nquadrado e o perímetro deste triângulo? Sabe -se \nque a altura do triângulo equilátero é 𝑎√3\n2, onde \n𝑎 é a medida do seu lado.",
+            "alternativas": {
+                "A": "3\n2√34.",
+                "B": "1\n3√34.",
+                "C": "3\n2√34.",
+                "D": "3\n4√34.",
+                "E": "2\n3√34. \nCâmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 6 de 12 QUESTÃO 18 \nObserve o sistema de equações do primeiro grau \nabaixo:  \n2𝑦=2𝑥−2 \n−𝑦=−𝑥+1 \nEssas equações podem ser representadas por \nretas r e s, respectivamente, num gráfico. Dentre \nas correspondências abaixo, indique o gráfico ao \nqual este sistema corresponde:  \n \n \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V.  \n \n \n QUESTÃO 19 \nUm professor aplicou uma prova cuja nota final \ndeve estar entre zero e dez. Ao calcular as notas, \nele viu que a média da turma foi 3,0, e o \ncandidato com maior nota tirou 6,0. Ele resolveu \n‘normalizar’ as notas e atribuiu a nota 10,0 ao \nestudante com nota máxima anterior, e aumentou \na nota de todos os outros alunos na mesma \nporcentagem que aumentou a do estudante com \nnota máxima. Neste caso, quanto passou a ser a \nmédia da turma?  \n \n(A) 5,5.  \n(B) 5,0.  \n(C) 7,0.  \n(D) 6,5.  \n(E) 6,0."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Num gráfico de pizza, se quisermos representar \numa fração de 36%, conforme a figura abaixo:  \n \n \nQual deve ser o ângulo X do setor circular?",
+            "alternativas": {
+                "A": "224,0°.",
+                "B": "129,6°.",
+                "C": "136,4°.",
+                "D": "64,0°.",
+                "E": "112,9°.  \n \n \nCâmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 7 de 12 QUESTÃO 21 \nNuma obra de construção civil, há duas possíveis \nformas de pagamento: 1) o cliente paga, \nmensalmente, um valor proporcional ao que foi \nexecutado na obra naquele mês. 2) o cliente paga, \nmensalmente, valores fixos igualmente \ndistribuídos no prazo da obra. Su ponha que uma \ndeterminada obra vai custar no total 12 milhões \nde reais e tem prazo previsto de 15 meses. Porém, \nno primeiro mês foi executado apenas 3% da \nobra. Nesta situação, quanto o construtor \nreceberá a menos se a forma de pagamento for a \n1) em relaçã o à 2)?  \n \n(A) R$ 44.000,00.  \n(B) R$ 80.000,00.  \n(C) R$ 360.000,00.  \n(D) R$ 440.000,00.  \n(E) R$ 36.000,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Observe a seguinte sequência lógica numérica:  \n \n1\n6,7,1\n12,14,1\n18,21, ... \n \nIndique a divisão do 8° pelo 7° elemento dessa \nsequência:",
+            "alternativas": {
+                "A": "28/24.",
+                "B": "24/28.",
+                "C": "672.",
+                "D": "52.",
+                "E": "52/24.  \n \n \n \n \n \n QUESTÃO 23 \nObserve as seguintes afirmativas, que são dadas \ncomo VERDADEIRAS:  \n \n• João foi à escola  \n• João não jogou bola  \n• João não foi ao parque  \n \nCom base nas afirmativas, indique a alternativa \nque também apresenta uma afirmativa \nnecessariamente VERDADEIRA:  \n \n(A) Se João jogou bola, então João foi ao parque.  \n(B) João jogou bola ou foi ao parque.  \n(C) João não jogou bola e foi ao parque.  \n(D) João foi à escola e jogou bola.  \n(E) Se João foi à escola, então João jogou bola."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Em 1994 o Cajueiro de Pirangi, que fica no \nestado do Rio Grande do Norte, foi reconhecido \npelo Guiness Book como a maior árvore frutífera \ndo mundo. A árvore hoje tem cerca de 9000 \nmetros quadrados de extensão e ainda cresce num \nritmo de 0,5 metro quadrado por ano. Se \nquisermos expressar esse ritmo de crescimento \nem centímetros quadrados por ano, qual será esse \nvalor?",
+            "alternativas": {
+                "A": "50.",
+                "B": "500.",
+                "C": "5000.",
+                "D": "50.000.",
+                "E": "500.000."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Um pacote de biscoitos indica que em 3 unidades \nde biscoitos há 375 kcal. Supondo que a \nquantidade recomendada de ingestão de calorias \npara uma determinada pessoa é de 2000 kcal \ndiárias, se ela comer somente biscoitos no dia, \nquantas unidades de biscoitos ela deveria comer \npara atingir o limite recomendado?",
+            "alternativas": {
+                "A": "5.",
+                "B": "6.",
+                "C": "8.",
+                "D": "12.",
+                "E": "16.  \n Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 8 de 12 QUESTÃO 26 \nUm carteiro deve entregar cartas numa rua que \ntem 120 casas. As casas são enumeradas com os \nnúmeros entre 201 e 320. Pela manhã, ele \nentregará as cartas em todas as casas cujo número \né múltiplo de 3 ou de 5. E o restante, ele entregará \npela tarde. A quanta s casas ele entregará pela \ntarde?  \n(A) 56.  \n(B) 58.  \n(C) 62.  \n(D) 60.  \n(E) 64."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Num experimento para a feira de ciências, um \nestudante precisa misturar água e óleo na \nproporção de 5/4, em volume. Para que o volume \ntotal da mistura seja 2 litros, qual o volume de \nóleo, em litros, que deve ser utilizado no \nexperimento?",
+            "alternativas": {
+                "A": "8/9.",
+                "B": "10/9.",
+                "C": "4/9.",
+                "D": "9/8.",
+                "E": "5/2.  \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 28 \nUma pessoa irá a trocar o piso cerâmico da sua \ncasa. A tabela abaixo mostra os serviços que \nserão executados e o valor por metro quadrado de \ncada serviço:  \nServiço  Valor por m2 (R$) \nRetirada do piso \nanterior  18,05  \nAplicação de \nimpermeabilizante  0,80 \nAplicação do novo \npiso 21,25  \nFinalização e \nlimpeza  7,80 \n \nAlém disso, a outra tabela abaixo mostram os \nmateriais que serão utilizados:  \nMaterial  Valor por m2 (R$) \nImpermeabilizante  5,50 \nNovo piso cerâmico  59,10  \nArgamassa e rejunte  18,10  \n \nConsiderando todos os materiais e serviços, qual \nserá o custo total por metro quadrado para a \nexecução da troca do piso?  \n(A) R$ 130,00.  \n(B) R$ 130,60.  \n(C) R$ 160,30.  \n(D) R$ 118,25.  \n(E) R$ 115,60.  \n \n \n \n \n Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 9 de 12 QUESTÃO 29 \nDentro de uma caixa há algumas bolinhas. \nDentre elas, 20% são azuis, 50% são vermelhas e \n30% são amarelas. Além disso, 10% das bolinhas \nazuis apresentam falhas, e o restante não \napresenta. Das outras cores, nenhuma bolinha \napresenta falha. Nessas condições, quantos por \ncento das  bolinhas totais apresentam falhas?  \n(A) 4%.  \n(B) 20%.  \n(C) 10%.  \n(D) 2%.  \n(E) 12%."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: A professora de João fez uma charada:  \n“Em uma fazenda, há galinhas e coelhos. O total \nde cabeças é 28 e o total de patas é 82.”  \nResolvendo a charada, quantas galinhas há nessa \nfazenda?",
+            "alternativas": {
+                "A": "13.",
+                "B": "14.",
+                "C": "15.",
+                "D": "16.",
+                "E": "17.  \n \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: É um dispositivo que regula, direciona ou \ncontrola o fluxo de um fluido (gases, líquidos ou \nsólidos fluidizados), através da abertura, \nfechamento ou obstrução parcial de várias \npassagens:",
+            "alternativas": {
+                "A": "Termômetro.",
+                "B": "Motor.",
+                "C": "Válvula.",
+                "D": "Filtro.",
+                "E": "Tubulação.  QUESTÃO 32 \nEm relação aos conhecimentos de instrumentos \nde controle de pressão, qual alternativa \ncorresponde a imagem abaixo:  \n \n \n \n \n \n \n \n \n \n \n \n \n(A) Manômetro.  \n(B) Transmissor.  \n(C) Pressostato.  \n(D) Termômetro.  \n(E) Balança."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: É um conjunto de tubulações que transporta o \nesgoto para as estações de tratamento, onde essa \nágua residual fica livre de poluentes para retornar \naos corpos hídricos, como rios e mares.",
+            "alternativas": {
+                "A": "Fossa.",
+                "B": "Drenagem.",
+                "C": "Rede hidráulica.",
+                "D": "Irrigação.",
+                "E": "Rede de esgoto.  \n \n \n \n \nCâmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 10 de 12 QUESTÃO 34 \nNa execução de serviços de pintura interna e \nexterna, qual a alternativa que descreve \nincorretamente uma prática recomendada?   \n(A) Utilizar tintas específicas para cada \nsuperfície, visando maior durabilidade e \naderência  \n(B) Realizar a preparação adequada da \nsuperfície, removendo sujeiras, mofo e \ndescascados antes da aplicação da tinta  \n(C) Aplicar  uma única camada espessa de tinta \npara economizar tempo e material.  \n(D) Proteger áreas adjacentes e superfícies não \ndestinadas à pintura por meio de fitas adesivas e \nlonas.  \n(E) Seguir as recomendações do fabricante \nquanto ao tempo de secagem entre as demãos de \ntinta."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: 5 \nSão estruturas que realizam a interface entre \npavimentos de uma edificação, podendo dar \nsuporte a contrapisos ou funcionar como teto. \nGeralmente, apoiam -se em vigas, que por sua \nvez, apoiam -se em pilares e realizam a \ndistribuição adequada da carga da edifi cação. \nEssa descrição se refere a:",
+            "alternativas": {
+                "A": "Deck.",
+                "B": "Pisos.",
+                "C": "Vigas decorativas.",
+                "D": "Lajes",
+                "E": "Paredes."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: 6 \nCom base nos conhecimentos na execução de \ncolocação de azulejos, assinale a alternativa \nincorreta, sobre sua aplicação:",
+            "alternativas": {
+                "A": "Tirar a medida da superfície",
+                "B": "Fazer o espelhamento do azulejo.",
+                "C": "Preparar a argamassa.",
+                "D": "Fazer o rejunte.",
+                "E": "Não usar espaçadores.  QUESTÃO 3 7 \nNa aplicação de tinta em superfícies, qual \nferramenta é mais indicada para alcançar um \nacabamento mais suave em áreas maiores, como \nparedes?  \n(A) Trincha.  \n(B) Pincel.  \n(C) Rolo.  \n(D) Pistola de pintura.  \n(E) Esponja de pintura."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: 8 \nNa instalação de redes elétricas subterrâneas, \nqual é uma prática recomendada para garantir a \ndurabilidade e a segurança do sistema?",
+            "alternativas": {
+                "A": "Utilizar isoladores elétricos em todas as \nconexões subterrâneas.",
+                "B": "Enterrar os cabos diretamente no solo sem a \nutilização de tubulações.",
+                "C": "Realizar inspeções visuais periódicas nos \ncabos subterrâneos.",
+                "D": "Utilizar tubulações e conduítes resistentes à \numidade e corrosão.",
+                "E": "Conectar os cabos subterrâneos diretamente \na postes de iluminação."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE ZELADORIA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: 9 \nDe acordo com os conhecimentos sobre \nconstruções de alvenaria, analise os itens abaixo.  \n \nI - A alvenaria é uma técnica construtiva que \nutiliza elementos naturais de boa resistência a \ngravidade, peso e impacto, juntamente com \nargamassa para criar paredes, pilares e outras \nestruturas de uma edificação;  \nII - Alguns dos materiais mais comuns são os \ntijolos maciços, blocos de concreto, pedras e \nalvenaria armada.;  \nIII - Existem dois tipos principais de alvenaria, a \nestrutural e a de vedação.",
+            "alternativas": {
+                "A": "Apenas o item I está correto.",
+                "B": "Apenas os itens I e II estão corretos.",
+                "C": "Apenas o item III está correto.",
+                "D": "Apenas o item II está correto.",
+                "E": "Os itens I, II e III estão corretos.  \n \n \n Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 11 de 12 QUESTÃO 40 \nDe acordo com os conhecimentos de \nManutenção preventiva e corretiva. Analise as \nafirmativas abaixo atribuindo (V) para \nverdadeira e (F) para falsa, em seguida assinale a \nalternativa com a sequência correta.  \n \n( ) A principal diferença entre manutenção \npreventiva e corretiva é a previsibilidade.  \n( ) A manutenção preventiva é indicada para \nprevenir possíveis falhas, já a manutenção \ncorretiva é aplicada quando a falha já está \ninstaurada e precisa ser corrigida.  \n( ) A manutenção corretiva normalmente é \nemergencial, e é usada quando o equipamento \napresenta falhas que precisam ser corrigidas.  \n \n(A) F - F -F  \n(B) V - V- V \n(C) F - V -F \n(D V - V- F \n(E) F -V -V \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  Câmara  Municipal  de Itatiba– Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE DE ZELADORIA                                                                                                                              Página 12 de 12"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

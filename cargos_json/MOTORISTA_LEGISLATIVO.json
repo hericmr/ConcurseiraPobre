@@ -1,3 +1,592 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e00a66d56d23a0b7a8afb966de0ec1668b9dfa9bc95b2d1bab4aef552881796
-size 78496
+{
+    "MOTORISTA LEGISLATIVO": [
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Considere os seguintes excertos: \nI. “Conseguimos um pouso suave na Lua, a Índia \nestá na Lua”, disse Sreedhara Panicker Somanath \n(...). \nII. “Ainda precisamos de muito mais detalhes \nsobre onde e quanta água existe, e saber se toda \nela está congelada”, explica Akash Sinha (...)  \nIII. O ex-presidente da Organização Indiana de \nPesquisa Espacial K. Sivan disse que a viagem \ndesta manhã será mais barata (...) \nNos excertos apresentados, ocorre discurso \nindireto apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "II e III. Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 3 de 14 QUESTÃO 02 \nConsidere o excerto: “Essas características \ntornam muito difícil operar equipamentos de \nexploração na região. Dessa forma, um pouso \nsuave significa que o módulo não foi destruído.”  \nNo contexto apresentado, a expressão ‘ dessa \nforma ’ è empregada com a função de:  \n \n(A) operador argumentativo de explicação. \n(B) operador argumentativo de finalidade. \n(C) operador argumentativo de oposição. \n(D) operador argumentativo de conclusão. \n(E) operador argumentativo de comparação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Assinale a alternativa em que, no excerto \napresentado, a palavra ‘ se’ atua como conectivo \noracional.",
+            "alternativas": {
+                "A": "“Em missão histórica (...) a Índia se tornou o \n1º país a pousar no polo sul da Lua”.",
+                "B": "“a Rössia tentou ser o 1º país a pousar no lado \nescuro da Lua (...) mas a sonda saiu de controle e \nse chocou contra a Lua.”",
+                "C": "“Ainda precisamos de muito mais detalhes \nsobre onde e quanta água existe, e saber se toda \nela está congelada”.",
+                "D": "“O objetivo do país se tornou explorar a Lua \ncom o menor custo possível.”",
+                "E": "“Índia se torna o 1º país a pousar no polo sul \nda Lua em missão histórica”.  \n \n \n \n \n \n \n \n QUESTÃO 04 \nConsidere o excerto: “Essas características \ntornam muito difícil operar equipamentos de \nexploração na região.” No contexto apresentado, \na classificação da palavra ‘muito’ , considerado  o \nsentido que imprime ao enunciado, é: \n \n(A) advérbio de intensidade. \n(B) pronome indefinido de quantidade. \n(C) adjetivo de grau. \n(D) substantivo comum. \n(E) advérbio de modo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: O sufixo derivacional em ‘traiçoeiro’ , palavra \nque ocorre no texto, provoca a modificação da \nclasse gramatical da palavra de origem de:",
+            "alternativas": {
+                "A": "adjetivo para adjetivo.",
+                "B": "substantivo para adjetivo.",
+                "C": "substantivo para advérbio.",
+                "D": "advérbio para adjetivo.",
+                "E": "adjetivo para advérbio."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Caso fosse ordinal, a escrita por extenso do \nnumeral referente ao ano em “A primeira, em \n2009, custou em torno de US$ 79 milhões.” seria:",
+            "alternativas": {
+                "A": "dois milésimo nono.",
+                "B": "ducentésimo nono.",
+                "C": "segundo milésimo nono.",
+                "D": "bilésimo nono.",
+                "E": "bilionésimo nono.  \n \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 4 de 14 QUESTÃO 07 \nConsiderando o emprego do hífen, as formas \npluralizadas corretas das palavras ‘ex-\npresidente’ e ‘primeiro -ministro’ , que ocorrem \nno texto, são: \n \n(A) exes-presidentes e primeiros-ministros. \n(B) ex-presidentes e primeiros-ministro. \n(C) ex-presidentes e primeiro-ministros. \n(D) ex-presidentes e primeiros-ministros. \n(E) exes-presidentes e primeiros-ministro."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Considere a seguinte sentença: “Reintegraram -\nno ao pelotão sem mais perguntas”. O verbo \n\"reintegrar\", como consta na sentença dada, é:",
+            "alternativas": {
+                "A": "transitivo indireto.",
+                "B": "transitivo direto e indireto.",
+                "C": "intransitivo.",
+                "D": "pronominal.",
+                "E": "transitivo direto."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Assinale a alternativa em que a sentença \napresenta um elemento que atua como recurso \ncoesivo referencial catafórico.",
+            "alternativas": {
+                "A": "Tenho apenas um desejo para este ano: ser \nmais produtiva.",
+                "B": "Acéfalo ou acefalado é o nome dado ao \nanimal que não tem cabeça.",
+                "C": "O tempo voa…voa!",
+                "D": "Se não atender às expectativas dele, será \ndispensado.",
+                "E": "Podemos ir ao cinema, já que sua reunião foi \ncancelada. \n \n \n \n QUESTÃO 10 \nObserve as alternativas abaixo e assinale aquela \nque não contém um verbo pronominal. \n(A) O jornaleiro penteou-se e preparou-se para \nmais um dia de trabalho. \n(B) As nações envolvidas atinham-se aos fatos \nmais recentes. \n(C) O odor do perfume espalhou-se pelo \ncorredor. \n(D) Os empreendimentos foram realocados no \nnovo centro comercial, onde construiu-se um \nprédio mais moderno que o anterior. \n(E) As artistas terminaram sua performance e se \nsentaram à beira do picadeiro. \n \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Uma parede será construída utilizando tijolos de \naltura e comprimento iguais a 20 cm, e largura 10 \ncm. Eles serão colocados sempre em posição \n‘vertical’, de forma que a espessura da parede \nserá correspondente ao lado de 10 cm do tijolo. \nQuantos tijolos no mínimo serão necessários para \nconstruir uma parede de 10 metros de \ncomprimento e 3 metros de altura? Considere que \nnão haverá espaçamento entre tijolos adjacentes.",
+            "alternativas": {
+                "A": "750.",
+                "B": "950.",
+                "C": "1050.",
+                "D": "1200.",
+                "E": "1350. \n \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 5 de 14 QUESTÃO 12  \nUma empresa vende cestas de frutas e quer \npadronizar o conteúdo de todas as cestas para que \nsejam idênticos. As cestas contêm morangos, \nperas e maçãs (cada cesta deve conter x \nmorangos, y peras e z maçãs). Em um \ndeterminado dia o estoque dispõe de 60 \nmorangos, 72 peras e 120 maçãs. Neste dia, \nquantas cestas no máximo poderão ser feitas \nsabendo-se que as cestas devem ser idênticas e a \nempresa deve utilizar todas as frutas dispostas no \nestoque.  \n(A) 10. \n(B) 12. \n(C) 6. \n(D) 8. \n(E) 20."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Uma copiadora faz xerox de documentos. As \ncópias podem ser em preto-e-branco ou \ncoloridas, e têm preços diferentes. Bruno foi na \ncopiadora e pediu 10 xerox coloridas e 15 xerox \npreto e branco, e o valor total foi R$14,50. João \nfoi na mesma copiadora e pediu 15 xerox \ncoloridas e 10 xerox preto e branco, e pagou um \nvalor total de R$ 15,50. Nessa situação, qual o \nvalor da unidade da xerox colorida? Considere \nque o valor unitário das cópias não mudou entre \nas compras de Bruno e João.",
+            "alternativas": {
+                "A": "R$ 0,60.",
+                "B": "R$ 0,65.",
+                "C": "R$ 0,70.",
+                "D": "R$ 0,75.",
+                "E": "R$ 0,80. \n \n \n QUESTÃO 14  \nUm fio de nylon tem diâmetro da ordem de 0,5 \nmm, e um fio de cabelo tem diâmetro da ordem \nde 60 micrômetros (μm). Um micrômetro \nrepresenta um milionésimo de um metro (ou seja, \n1 m = 1.000.000 μm). Qual a razão entre o \ndiâmetro de um fio de cabelo e o diâmetro de um \nfio de nylon?  \n(A) 1,2. \n(B) 0,12. \n(C) 0,012. \n(D) 0,0012. \n(E) 0,00012."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Observe a seguinte sentença: \n \n“Nesta selva, um animal è caçador ou presa.”  \n \nIndique a alternativa que apresenta a negação \nlógica da sentença:",
+            "alternativas": {
+                "A": "Nesta selva, um animal é caçador mas não é \npresa.",
+                "B": "Nesta selva, um animal não é caçador ou não \né presa.",
+                "C": "Nesta selva, um animal não é caçador, mas é \npresa.",
+                "D": "Nesta selva, um animal não é caçador e nem \npresa.",
+                "E": "Nesta selva, um animal não é caçador se e \nsomente se não for presa. \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 6 de 14 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Analise o trecho a seguir: \n“Pastas de trabalho, como definidas nos sistemas \nde gerenciamento de arquivos modernos, \nrepresentam diretórios virtuais onde os \nindivíduos podem armazenar seus documentos, \nvisando à acessibilidade e mobilidade \ninterdispositivos, mesmo em cenários de \nconectividade intermitente ou offline. No \ncontexto do sistema operacional Windows 7, as \npastas de trabalho são estabelecidas mediante um \nconjunto de regras de configuração e \nautenticação que devem ser observadas para \npossibilitar a sincronização e o acesso a partir de \nambientes que executam essa versão específica \ndo Windows.”  \nDiante do contexto apresentado, é possível \nafirmar de forma correta:",
+            "alternativas": {
+                "A": "Pastas de trabalho são usadas exclusivamente \npara armazenar arquivos de música.",
+                "B": "Pastas de trabalho do Windows 7 não \npermitem o acesso a partir de dispositivos \nmóveis.",
+                "C": "O Windows 7 é o único sistema operacional \nque suporta pastas de trabalho.",
+                "D": "As pastas no Windows 7 podem ser usadas \npara organizar e armazenar arquivos e \ndocumentos de maneira hierárquica, facilitando o \nacesso e a gestão dos dados no sistema \noperacional.",
+                "E": "É impossível perder ou excluir \nacidentalmente arquivos armazenados em pastas \nde trabalho. \n \n \n \n \n \n QUESTÃO 17  \nO atalho ____ + ____ + ____ no sistema \noperacional Windows serve para abrir o \nGerenciador de Tarefas. O Gerenciador de \nTarefas é uma ferramenta que permite aos \nusuários encerrar aplicativos ou processos que \nnão estão respondendo ou estão causando \nproblemas no sistema. Além disso, ele fornece \ninformações detalhadas sobre o desempenho do \nsistema, os aplicativos em execução e os recursos \ndo computador. É uma ferramenta útil para \nsolucionar problemas de travamento, identificar \nprogramas que consomem muitos recursos e \ngerenciar o funcionamento do computador. \nDiante do contexto apresentado, assinale a \nafirmativa que contenha, corretamente, os botões \nque completam as lacunas.   \n(A) Ctrl + Alt + Esc. \n(B Ctrl + Tab + Del. \n(C) Ctrl + Fn + Del. \n(D) Ctrl + Enter + Del. \n(E) Ctrl + Shift + Esc."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Lucimara está participando de uma reunião \nonline importante com sua equipe. Ela precisa \nalternar entre a janela da reunião no Zoom e seu \ndocumento no Microsoft Word para compartilhar \ninformações e tomar notas durante a discussão. O \natalho ___ + ___ ajuda-a a fazer isso sem \ninterromper a reunião. \nDiante do contexto apresentado, assinale a \nafirmativa que contenha, corretamente, os botões \nutilizados para a execução realizada pela \nLucimara.",
+            "alternativas": {
+                "A": "Ctrl + Alt. \n(B Ctrl + Fn. \n(C) Tab + Del. \n(D) Enter + Del. \n(E) Alt + Tab. Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 7 de 14 QUESTÃO 19  \nSobre as funções do MS – Word 2016, analise os \nconceitos a seguir:  \nA - Permitem que o texto seja disposto em dois \nou mais pilares na mesma página. Isso é útil para \ncriar layouts de documentos, como newsletters \nou relatórios. \nB - São blocos de texto que separam o conteúdo \nem unidades lógicas, como ideias ou tópicos \ndistintos. Geralmente é separado por espaços em \nbranco e pode ser formatado quanto a \nalinhamento, espaçamento e recuo. \nC - São usados para criar listas, como listas de \ntópicos ou instruções passo a passo. Usam \nsímbolos, como círculos ou quadrados, para \ndestacar itens na lista, ou ainda números para \ndenotar a ordem dos itens na lista. \nAssinale a afirmativa que contenha corretamente \ne, respectivamente, o conceito das afirmativas.  \n(A) A - Colunas; B - Parágrafos; C - Marcadores \nsimbólicos e numéricos.",
+                "B": "A - Parágrafos; B - Colunas; C - Marcadores \nsimbólicos e numéricos.",
+                "C": "A - Cabeçalhos; B - Parágrafos; C - \nMarcadores simbólicos e numéricos.",
+                "D": "A - Parágrafos; B - Cabeçalhos; C - \nMarcadores simbólicos e numéricos.",
+                "E": "A - Fontes; B - Cabeçalhos; C - Marcadores \nsimbólicos e numéricos. \n \n \n \n \n \n \n \n \n QUESTÃO 20  \nSobre as funções do MS – Word 2016, analise os \nconceitos a seguir:  \nI - Permite adicionar elementos externos ao \ndocumento, como imagens, gráficos, tabelas, \narquivos de áudio, vídeos e objetos incorporados. \nIsso enriquece o conteúdo e a apresentação do \ndocumento. \nII - São códigos que o Word usa para incluir \ninformações dinâmicas, como a data atual, o \nnúmero de página, a hora, etc., no documento. \nSão atualizados automaticamente quando o \ndocumento é aberto ou impresso. \nIII - São áreas designadas para inserir texto em \num documento, permitindo um controle preciso \nsobre a localização e a formatação do texto. Elas \nsão úteis para criar rótulos, textos explicativos ou \ndestacar informações. \nAssinale a afirmativa que contenha corretamente \ne, respectivamente, o conceito das afirmativas.  \n(A) I - Campos predefinidos; II - Inserção de \nobjetos; III -  Caixas de texto. \n(B) I - Inserção de objetos; II - Campos \npredefinidos; III -  Caixas de texto. \n(C) I - Campos predefinidos; II - Caixas de texto; \nIII -  Inserção de objetos. \n(D) I - Inserção de objetos; II - Caixas de texto; \nIII -  Campos predefinidos. \n(E) I - Caixas de texto; II - Inserção de objetos; \nIII -  Campos predefinidos. \n \n \n \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 8 de 14 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Identifique como verdadeiras (V) ou falsas (F) as \nseguintes preposições. De acordo com o Art. 30 \ndo Código de Trânsito Brasileiro: “Todo \ncondutor, ao perceber que outro que o segue tem \no propósito de ultrapassá- lo, deverá:”  \n( ) Se estiver circulando pela faixa da esquerda, \ndeslocar-se para a faixa da direita, sem acelerar a \nmarcha. \n( ) Se estiver circulando pelas demais faixas, \nmanter-se naquela na qual está circulando, sem \nacelerar a marcha. \n( ) Os veículos mais lentos, quando em fila, \ndeverão manter distância suficiente entre si para \npermitir que veículos que os ultrapassem possam \nse intercalar na fila com segurança.",
+            "alternativas": {
+                "A": "V, F, V.",
+                "B": "V, V,  F.",
+                "C": "F, V, V.",
+                "D": "F, F, V.",
+                "E": "V, V, V."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: No Código de Trânsito Brasileiro, estão previstos \nquatro tipos de infrações. Assinale qual \nalternativa apresenta corretamente sua \nclassificação.",
+            "alternativas": {
+                "A": "Leve, média, grave e gravíssima.",
+                "B": "Levíssima, leve, média e grave.",
+                "C": "Leve, moderada, grave e gravíssima.",
+                "D": "Média, moderada, grave e urgente.",
+                "E": "Leve, moderada, grave e urgente. \n \n \n \n QUESTÃO 23  \nIndique qual alternativa representa a afirmativa \ncorreta, de acordo com o Art. 131 do Código de \nTrânsito Brasileiro no que tange o licenciamento \nde veículos: \n(A) O veículo somente será considerado \nlicenciado estando quitados os débitos relativos a \ntributos, encargos e multas de trânsito e \nambientais, vinculados ao veículo, \nindependentemente da responsabilidade pelas \ninfrações cometidas. \n(B) Ao licenciar o veículo, o proprietário não terá \nnecessidade de comprovar sua aprovação nas \ninspeções de segurança veicular e de controle de \nemissões de gases poluentes e de ruído. \n(C) O primeiro licenciamento será feito sem a \nnecessidade de realizar o registro. \n(D) O veículo deverá ser considerado licenciado \nestando quitado pelo menos as multas. \n(E) O veículo deverá ser considerado licenciado \na partir do momento que é feito o pagamento de \npelo menos uma multa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Entre os diversos efeitos das ações humanas, \npodemos destacar o fenômeno do aquecimento \nglobal e do efeito estufa. Qual dos gases é \nresultante da queima de combustíveis em \nveículos a motor?",
+            "alternativas": {
+                "A": "Dióxido de carbono (CO2).",
+                "B": "Monóxido de carbono (CO).",
+                "C": "Óxidos de nitrogênio (NOx).",
+                "D": "Hidrogênio (H2).",
+                "E": "Fuligem de partículas sólidas de carvão. \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 9 de 14 QUESTÃO 25  \nO condutor de um veículo só é permitido a \nutilizar a buzina, desde que brevemente, em \nsituações específicas, de acordo com o Artigo 41 \ndo Código de Trânsito Brasileiro. Identifique \nquais das seguintes afirmações estão corretas \nquanto a esta exceções: \nI - Para fazer as advertências necessárias a fim de \nevitar acidentes. \nII - Fora das áreas urbanas, quando for \nconveniente advertir a um condutor que se tem o \npropósito de ultrapassá-lo. \nIII – Em áreas urbanas ou rurais, para chamar \natenção de outro condutor que se encontra \ndesatento. \nÉ correto o que se afirma na(s) preposição(ões): \n(A) Apenas na afirmativa I. \n(B) Afirmativas I e III. \n(C) Afirmativas I e II. \n(D) Todas as afirmativas estão corretas. \n(E) Afirmativas II e III."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Juliana ao transitar com seu automóvel nas ruas \nde Salvador, deixou de manter uma distância \nlateral mínima de um metro e cinquenta \ncentímetros ao passar ou ultrapassar Nicole que \ntransitava em sua bicicleta? De acordo com a \nlegislação vigente, qual a penalidade aplicada \ndiante a conduta da condutora?",
+            "alternativas": {
+                "A": "Advertência por escrito.",
+                "B": "Suspensão da habilitação.",
+                "C": "Recolhimento do veículo.",
+                "D": "Multa.",
+                "E": "Apreensão do veículo. \n \n QUESTÃO 27  \nConforme as normas gerais de conduta e \ncirculação dispostas no artigo 29 do Código de \nTrânsito Brasileiro, todo condutor ao efetuar a \nultrapassagem deverá:  \nAssinale a afirmativa correta: \n(A) Aproximar-se do usuário ou usuários aos \nquais ultrapassa, de tal forma que não deixe livre \numa distância lateral. \n(B) Indicar com antecedência a manobra \npretendida, acionando a luz indicadora de direção \ndo veículo ou por meio de gesto convencional de \nbraço. \n(C) Indicar com antecedência a manobra \npretendida, acionando a luz de farol alto. \n(D) Indicar com antecedência a manobra \npretendida, acionando a luz de farol alto e dando \num toque na buzina. \n(E) Retomar a faixa de trânsito acionando o sinal \nde pisca alerta , agradecendo o condutor que \npermitiu a ultrapassagem."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Qual a medida administrativa será aplicada ao \ncondutor que dirigir com a Carteira Nacional de \nHabilitação, Permissão para Dirigir ou \nAutorização para Conduzir Ciclomotor cassada \nou com suspensão do direito de dirigir?",
+            "alternativas": {
+                "A": "Apreensão do veículo e multa.",
+                "B": "Apreensão do veículo e retenção do veículo \naté a apresentação de condutor habilitado.",
+                "C": "Advertência por escrito.",
+                "D": "Recolhimento do documento de habilitação e \nretenção do veículo até a apresentação de \ncondutor habilitado.",
+                "E": "Liberação imediata do veículo após a \nautuação. \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 10 de 14"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Com relação a composição do Sistema Nacional \nde Trânsito, assinale a alternativa correta com a \nsequência de verdadeiras (V) ou Falsas (F): \n( ) O CONTRAN é o órgão máximo normativo e \nconsultivo do Sistema Nacional de Trânsito. \n( ) Os CETRAN e o CONTRANDIFE são órgãos \nnormativos, consultivos e coordenadores em \nnível federal. \n( ) A Polícia Rodoviária Federal não é parte do \nSistema Nacional de Trânsito. \n( ) As Juntas Administrativas de Recursos de \nInfrações (JARI) não compõem o Sistema \nNacional de Trânsito mencionadas no CTB.",
+            "alternativas": {
+                "A": "V, V, F, F.",
+                "B": "V, V, V, F.",
+                "C": "V, F, V, F.",
+                "D": "V, V, F, V",
+                "E": "F, V, F, V"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: O Artigo 203 do Código de Trânsito Brasileiro \n(CTB) descreve diversas proibições. Qual das \nseguintes situações NÃO  é mencionada no Art. \n203 como uma infração por ultrapassagem pela \ncontramão?",
+            "alternativas": {
+                "A": "Nas curvas, aclives e declives, sem \nvisibilidade suficiente.",
+                "B": "Nas faixas de pedestres;",
+                "C": "Nas pontes, viadutos ou túneis.",
+                "D": "Parado em fila junto a sinais luminosos, \nporteiras, cancelas, cruzamentos ou qualquer \noutro impedimento à livre circulação",
+                "E": "Ultrapassagem de outro veículo em \nmovimento for realizada pela esquerda. \n \n QUESTÃO 31  \nVocê está dirigindo em uma estrada \ndesconhecida e se depara com uma série de \njunções sucessivas. Ao se aproximar de uma \ndelas, você nota a presença de uma placa de \ntrânsito “A -11a“. Qual è o objetivo dessa placa \nde trânsito? \n \n \n \n \n \n \n(A) A placa Adverte o condutor da existência, \nadiante, de junções contrárias sucessivas, estando \na primeira à esquerda e a segunda à direita. \n (B) A placa alerta que as junções sucessivas na \nestrada devem ser feitas virando à direita, \ncomeçando pela primeira junção à esquerda. \n(C) A placa indica que as junções sucessivas na \nestrada devem ser feitas virando à esquerda, \ncomeçando pela primeira junção à direita. \n(D) A placa sugere que você pode escolher a \ndireção das junções sucessivas sem nenhuma \nrestrição, pois há instruções específicas para \nambos os lados. \n(E) A placa indica que as junções sucessivas na \nestrada devem ser feitas virando à direita, \ncomeçando pela primeira junção à direita. \n \n \n \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 11 de 14  QUESTÃO 32  \nA respeito do licenciamento de veículos, avalie \nas seguintes proposições como verdadeiras (V) \nou Falsas (F): \nI. O licenciamento anual é uma exigência para \ntodos e quaisquer tipos de veículos, sem \nexceções. \nII. O não pagamento do licenciamento anual \npode resultar em multas e na retenção do veículo \npara regularização. \nIII. Nas exceções prevista no Código de Trânsito \nBrasileiro, o licenciamento poderá ser realizado \na cada 04 (quatro) anos. \n(A) V, F, V. \n(B) F, V, F. \n(C) V, V, F. \n(D) F, F, V. \n(E) V, V, V."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: A ______________ como um princípio \nfundamental da segurança no trânsito, requer \numa compreensão profunda das táticas e \nestratégias para evitar colisões, ação esta de um \ncondutor que está constantemente avaliando o \nambiente em que transita, antecipando potenciais \nperigos; \nQual o termo que completa corretamente a \nlacuna:",
+            "alternativas": {
+                "A": "Impulsividade automobilística.",
+                "B": "Anarquia veicular.",
+                "C": "Condução reativa imediata.",
+                "D": "Direção defensiva proativa.",
+                "E": "Direção repressiva. \n \n QUESTÃO 34 \nO sistema de embreagem do automóvel, requer \nvigilância periódica, uma vez que desempenha \num papel crucial na transmissão do movimento \nrotativo gerado pelo motor para as rodas do \nveículo, influenciando diretamente a tração. \nEntre as falhas comuns, há uma ocasionada pela \ncarbonização do disco ou pela degradação do \nrevestimento do disco, levando a um \ndeslizamento indesejado do disco de embreagem. \nEste deslizamento resulta em uma diminuição \nsignificativa da fricção e da força de aderência, o \nque, por sua vez, pode ser identificado quando \napresentar o fenômeno de: \n(A) Perda de aceleração. \n(B) Transferência Térmica. \n(C) Erosão Mecânica. \n(D) Patinação. \n(E) Falha frequente do motor."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Tício condutor habilitado, ao transitar em seu \nveículo pelas ruas de Minas Gerais, distraído \nolhava para seu celular enquanto dirigia em uma \nárea urbana. Diante sua conduta infratora, o \ncondutor acabou passando sem que percebesse \nque havia uma PARADA OBRIGATÓRIA para \nele no cruzamento, o que culminou em uma \ncolisão com Mévio, um condutor de motocicleta \nque transitava naquele perímetro. O motociclista \nsofreu ferimentos graves e veio a óbito no \nhospital. Qual das seguintes penalidades é \ncabível no caso em tela, de acordo com o Art. 302 \ndo Código de Trânsito Brasileiro CTB?",
+            "alternativas": {
+                "A": "Detenção de um a três anos e suspensão da \nhabilitação.",
+                "B": "Detenção de dois a quatro anos e suspensão \nda habilitação.",
+                "C": "Detenção de três a seis anos e suspensão da \nhabilitação.",
+                "D": "Detenção de quatro a oito anos e suspensão \nda habilitação.",
+                "E": "Detenção de cinco a dez anos e suspensão da \nhabilitação. \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 12 de 14 QUESTÃO 36 \nAo testemunhar um acidente de trânsito em uma \nestrada onde dois veículos colidiram \nviolentamente. Você observa que um veículo \nenvolvido é um caminhão-tanque que transporta \nprodutos inflamáveis. Após a colisão, você \npercebe um cheiro forte de combustível e vê \npequenos vazamentos de líquido inflamável no \nlocal do acidente. Qual a conduta mais adequada \npara garantir a segurança de todos os envolvidos? \n(A) Aproximar-se do local para verificar se \nalguém precisa de ajuda imediata para sair do \nveículo. \n(B) Evacuar imediatamente a área, mantendo \numa distância segura, e chamar o corpo de \nbombeiros. \n(C) Tentar conter os vazamentos de líquido \ninflamável utilizando materiais disponíveis. \n(D) Ignorar o cheiro de combustível inicialmente \ne permanecer no local para fornecer informações \nàs autoridades. \n(E) Tentar mover o caminhão-tanque para longe \nda cena do acidente com ajuda de outras pessoas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: A Carteira Nacional de Habilitação (CNH) \nsofreu alterações na sua sistemática de contagem \nde pontos. De acordo com as novas regras, o \nlimite de pontos que pode levar a sua suspensão \npassou de 20 para 40, observando algumas \nregras: \nI. Considera-se 40 pontos caso entre as infrações \nnão haja alguma considerada gravíssima. \nII. Considera-se 30 pontos se tiver 01 (uma) \ninfração gravíssima na pontuação. \nIII. Considera-se 20 pontos se tiver 02 (duas) ou \nmais infrações gravíssimas.",
+            "alternativas": {
+                "A": "Apenas a I.",
+                "B": "Afirmativa I e III.",
+                "C": "Afirmativa I e II.",
+                "D": "Todas as afirmativas.",
+                "E": "Afirmativa II e III. QUESTÃO 38  \nObserve as placas de sinalização e \nregulamentação abaixo, e assinale a alternativa \nque corresponde respectivamente a descrição \ncorreta. \n \n \n \n(A) Ônibus, caminhões e veículos de grande \nporte mantenham-se à direita. - Proibido trânsito \nde motocicletas, motonetas e ciclomotores. - \nPeso máximo permitido por eixo. \n(B) Circulação exclusiva de ônibus – Proibido \ntrânsito de bicicletas. – Comprimento Máximo \nPermitido.  \n(C) Circulação exclusiva de caminhão. – \nCirculação exclusiva de bicicletas. –  Largura \nMáxima Permitida. \n(D) Circulação exclusiva de ônibus. - Proibido \ntrânsito de bicicletas. - Comprimento Mínimo \nPermitido. \n(E) Ônibus, caminhões e veículos de grande \nporte mantenham-se à direita. - Proibido trânsito \nde bicicletas. - Largura Máxima Permitida. \n \n \n \n \n \n \n \n \n \nCâmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 13 de 14 QUESTÃO 39  \nO Código de Trânsito Brasileiro (CTB) \ndetermina a obrigatoriedade do uso do cinto de \nsegurança para o motorista e seus passageiros. \nUm automóvel particular está trafegando com 03 \n(três) pessoas, sendo 01 (um) motorista, 02 (dois) \npassageiros (um no banco da frente e outro no \nbanco de trás). O motorista ao ser parado pela \npolícia, percebeu que o passageiro do banco de \ntrás estava sem o cinto de segurança. Nesse caso, \nqual será a resolução? \n(A) O motorista está cometendo uma infração \ncom direito a penalidade e multa, pois todos os \npassageiros devem utilizar o cinto de segurança. \n(B) O motorista não está cometendo uma \ninfração, pois não existe obrigatoriedade de \nutilizar o cinto de segurança no banco de trás. \n(C) O motorista não está cometendo uma \ninfração, pois no Código de Trânsito Brasileiro \ndiz que o banco de trás só tem necessidade de \nutilização do cinto com mais de 01 (um) \npassageiro. \n(D) O motorista cometeu um erro de não orientar \no passageiro do banco de trás a colocar o cinto, \nporém não se trata de uma infração e não deverá \nser multado. \n(E) Nenhuma das alternativas. \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 40  \nUm motorista notou que o farol de seu carro não \nestava acendendo. Para tentar resolver o \nproblema, o mesmo verificou as lâmpadas, fez a \nsubstituição por novas, e mesmo assim o \nproblema persistiu. Tendo em vista que a bateria \ndo carro é nova e não apresentava nenhum \ndefeito, é provável que o problema esteja em \nalgum fusível. Qual o procedimento correto deve \nser tomado pelo motorista para resolver a \nsituação? \n(A) Identificar na caixa de fusível qual está \nqueimado, e trocar por algum outro fusível de \namperagem maior. \n(B) Ver no manual do proprietário onde está \nlocalizada a caixa de fusível e qual o fusível \nresponsável pelo problema (como farol que não \nacende). Verificar sua integridade, e substituí-lo \npor um fusível reserva ou novo com as mesmas \nespecificações. \n (C) Identificar na caixa de fusível qual está \nqueimado e retirá-lo, e deixar o veículo sem esse \nfusível, afinal não tem necessidade de estar ali. \n(D) Levar as lâmpadas novas nas autopeças e \npedir a substituição. \n(E) Identificar na caixa de fusível qual está \nqueimado, e trocar por algum outro fusível de \namperagem menor. \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 14 de 14"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Considere os seguintes excertos: \nI. “Conseguimos um pouso suave na Lua, a Índia \nestá na Lua”, disse Sreedhara Panicker Somanath \n(...). \nII. “Ainda precisamos de muito mais detalhes \nsobre onde e quanta água existe, e saber se toda \nela está congelada”, explica Akash Sinha (...)  \nIII. O ex-presidente da Organização Indiana de \nPesquisa Espacial K. Sivan disse que a viagem \ndesta manhã será mais barata (...) \nNos excertos apresentados, ocorre discurso \nindireto apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "II e III. Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 3 de 14 QUESTÃO 02 \nConsidere o excerto: “Essas características \ntornam muito difícil operar equipamentos de \nexploração na região. Dessa forma, um pouso \nsuave significa que o módulo não foi destruído.”  \nNo contexto apresentado, a expressão ‘ dessa \nforma ’ è empregada com a função de:  \n \n(A) operador argumentativo de explicação. \n(B) operador argumentativo de finalidade. \n(C) operador argumentativo de oposição. \n(D) operador argumentativo de conclusão. \n(E) operador argumentativo de comparação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Assinale a alternativa em que, no excerto \napresentado, a palavra ‘ se’ atua como conectivo \noracional.",
+            "alternativas": {
+                "A": "“Em missão histórica (...) a Índia se tornou o \n1º país a pousar no polo sul da Lua”.",
+                "B": "“a Rössia tentou ser o 1º país a pousar no lado \nescuro da Lua (...) mas a sonda saiu de controle e \nse chocou contra a Lua.”",
+                "C": "“Ainda precisamos de muito mais detalhes \nsobre onde e quanta água existe, e saber se toda \nela está congelada”.",
+                "D": "“O objetivo do país se tornou explorar a Lua \ncom o menor custo possível.”",
+                "E": "“Índia se torna o 1º país a pousar no polo sul \nda Lua em missão histórica”.  \n \n \n \n \n \n \n \n QUESTÃO 04 \nConsidere o excerto: “Essas características \ntornam muito difícil operar equipamentos de \nexploração na região.” No contexto apresentado, \na classificação da palavra ‘muito’ , considerado  o \nsentido que imprime ao enunciado, é: \n \n(A) advérbio de intensidade. \n(B) pronome indefinido de quantidade. \n(C) adjetivo de grau. \n(D) substantivo comum. \n(E) advérbio de modo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: O sufixo derivacional em ‘traiçoeiro’ , palavra \nque ocorre no texto, provoca a modificação da \nclasse gramatical da palavra de origem de:",
+            "alternativas": {
+                "A": "adjetivo para adjetivo.",
+                "B": "substantivo para adjetivo.",
+                "C": "substantivo para advérbio.",
+                "D": "advérbio para adjetivo.",
+                "E": "adjetivo para advérbio."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Caso fosse ordinal, a escrita por extenso do \nnumeral referente ao ano em “A primeira, em \n2009, custou em torno de US$ 79 milhões.” seria:",
+            "alternativas": {
+                "A": "dois milésimo nono.",
+                "B": "ducentésimo nono.",
+                "C": "segundo milésimo nono.",
+                "D": "bilésimo nono.",
+                "E": "bilionésimo nono.  \n \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 4 de 14 QUESTÃO 07 \nConsiderando o emprego do hífen, as formas \npluralizadas corretas das palavras ‘ex-\npresidente’ e ‘primeiro -ministro’ , que ocorrem \nno texto, são: \n \n(A) exes-presidentes e primeiros-ministros. \n(B) ex-presidentes e primeiros-ministro. \n(C) ex-presidentes e primeiro-ministros. \n(D) ex-presidentes e primeiros-ministros. \n(E) exes-presidentes e primeiros-ministro."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Considere a seguinte sentença: “Reintegraram -\nno ao pelotão sem mais perguntas”. O verbo \n\"reintegrar\", como consta na sentença dada, é:",
+            "alternativas": {
+                "A": "transitivo indireto.",
+                "B": "transitivo direto e indireto.",
+                "C": "intransitivo.",
+                "D": "pronominal.",
+                "E": "transitivo direto."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Assinale a alternativa em que a sentença \napresenta um elemento que atua como recurso \ncoesivo referencial catafórico.",
+            "alternativas": {
+                "A": "Tenho apenas um desejo para este ano: ser \nmais produtiva.",
+                "B": "Acéfalo ou acefalado é o nome dado ao \nanimal que não tem cabeça.",
+                "C": "O tempo voa…voa!",
+                "D": "Se não atender às expectativas dele, será \ndispensado.",
+                "E": "Podemos ir ao cinema, já que sua reunião foi \ncancelada. \n \n \n \n QUESTÃO 10 \nObserve as alternativas abaixo e assinale aquela \nque não contém um verbo pronominal. \n(A) O jornaleiro penteou-se e preparou-se para \nmais um dia de trabalho. \n(B) As nações envolvidas atinham-se aos fatos \nmais recentes. \n(C) O odor do perfume espalhou-se pelo \ncorredor. \n(D) Os empreendimentos foram realocados no \nnovo centro comercial, onde construiu-se um \nprédio mais moderno que o anterior. \n(E) As artistas terminaram sua performance e se \nsentaram à beira do picadeiro. \n \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Uma parede será construída utilizando tijolos de \naltura e comprimento iguais a 20 cm, e largura 10 \ncm. Eles serão colocados sempre em posição \n‘vertical’, de forma que a espessura da parede \nserá correspondente ao lado de 10 cm do tijolo. \nQuantos tijolos no mínimo serão necessários para \nconstruir uma parede de 10 metros de \ncomprimento e 3 metros de altura? Considere que \nnão haverá espaçamento entre tijolos adjacentes.",
+            "alternativas": {
+                "A": "750.",
+                "B": "950.",
+                "C": "1050.",
+                "D": "1200.",
+                "E": "1350. \n \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 5 de 14 QUESTÃO 12  \nUma empresa vende cestas de frutas e quer \npadronizar o conteúdo de todas as cestas para que \nsejam idênticos. As cestas contêm morangos, \nperas e maçãs (cada cesta deve conter x \nmorangos, y peras e z maçãs). Em um \ndeterminado dia o estoque dispõe de 60 \nmorangos, 72 peras e 120 maçãs. Neste dia, \nquantas cestas no máximo poderão ser feitas \nsabendo-se que as cestas devem ser idênticas e a \nempresa deve utilizar todas as frutas dispostas no \nestoque.  \n(A) 10. \n(B) 12. \n(C) 6. \n(D) 8. \n(E) 20."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Uma copiadora faz xerox de documentos. As \ncópias podem ser em preto-e-branco ou \ncoloridas, e têm preços diferentes. Bruno foi na \ncopiadora e pediu 10 xerox coloridas e 15 xerox \npreto e branco, e o valor total foi R$14,50. João \nfoi na mesma copiadora e pediu 15 xerox \ncoloridas e 10 xerox preto e branco, e pagou um \nvalor total de R$ 15,50. Nessa situação, qual o \nvalor da unidade da xerox colorida? Considere \nque o valor unitário das cópias não mudou entre \nas compras de Bruno e João.",
+            "alternativas": {
+                "A": "R$ 0,60.",
+                "B": "R$ 0,65.",
+                "C": "R$ 0,70.",
+                "D": "R$ 0,75.",
+                "E": "R$ 0,80. \n \n \n QUESTÃO 14  \nUm fio de nylon tem diâmetro da ordem de 0,5 \nmm, e um fio de cabelo tem diâmetro da ordem \nde 60 micrômetros (μm). Um micrômetro \nrepresenta um milionésimo de um metro (ou seja, \n1 m = 1.000.000 μm). Qual a razão entre o \ndiâmetro de um fio de cabelo e o diâmetro de um \nfio de nylon?  \n(A) 1,2. \n(B) 0,12. \n(C) 0,012. \n(D) 0,0012. \n(E) 0,00012."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Observe a seguinte sentença: \n \n“Nesta selva, um animal è caçador ou presa.”  \n \nIndique a alternativa que apresenta a negação \nlógica da sentença:",
+            "alternativas": {
+                "A": "Nesta selva, um animal é caçador mas não é \npresa.",
+                "B": "Nesta selva, um animal não é caçador ou não \né presa.",
+                "C": "Nesta selva, um animal não é caçador, mas é \npresa.",
+                "D": "Nesta selva, um animal não é caçador e nem \npresa.",
+                "E": "Nesta selva, um animal não é caçador se e \nsomente se não for presa. \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 6 de 14 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Analise o trecho a seguir: \n“Pastas de trabalho, como definidas nos sistemas \nde gerenciamento de arquivos modernos, \nrepresentam diretórios virtuais onde os \nindivíduos podem armazenar seus documentos, \nvisando à acessibilidade e mobilidade \ninterdispositivos, mesmo em cenários de \nconectividade intermitente ou offline. No \ncontexto do sistema operacional Windows 7, as \npastas de trabalho são estabelecidas mediante um \nconjunto de regras de configuração e \nautenticação que devem ser observadas para \npossibilitar a sincronização e o acesso a partir de \nambientes que executam essa versão específica \ndo Windows.”  \nDiante do contexto apresentado, é possível \nafirmar de forma correta:",
+            "alternativas": {
+                "A": "Pastas de trabalho são usadas exclusivamente \npara armazenar arquivos de música.",
+                "B": "Pastas de trabalho do Windows 7 não \npermitem o acesso a partir de dispositivos \nmóveis.",
+                "C": "O Windows 7 é o único sistema operacional \nque suporta pastas de trabalho.",
+                "D": "As pastas no Windows 7 podem ser usadas \npara organizar e armazenar arquivos e \ndocumentos de maneira hierárquica, facilitando o \nacesso e a gestão dos dados no sistema \noperacional.",
+                "E": "É impossível perder ou excluir \nacidentalmente arquivos armazenados em pastas \nde trabalho. \n \n \n \n \n \n QUESTÃO 17  \nO atalho ____ + ____ + ____ no sistema \noperacional Windows serve para abrir o \nGerenciador de Tarefas. O Gerenciador de \nTarefas é uma ferramenta que permite aos \nusuários encerrar aplicativos ou processos que \nnão estão respondendo ou estão causando \nproblemas no sistema. Além disso, ele fornece \ninformações detalhadas sobre o desempenho do \nsistema, os aplicativos em execução e os recursos \ndo computador. É uma ferramenta útil para \nsolucionar problemas de travamento, identificar \nprogramas que consomem muitos recursos e \ngerenciar o funcionamento do computador. \nDiante do contexto apresentado, assinale a \nafirmativa que contenha, corretamente, os botões \nque completam as lacunas.   \n(A) Ctrl + Alt + Esc. \n(B Ctrl + Tab + Del. \n(C) Ctrl + Fn + Del. \n(D) Ctrl + Enter + Del. \n(E) Ctrl + Shift + Esc."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Lucimara está participando de uma reunião \nonline importante com sua equipe. Ela precisa \nalternar entre a janela da reunião no Zoom e seu \ndocumento no Microsoft Word para compartilhar \ninformações e tomar notas durante a discussão. O \natalho ___ + ___ ajuda-a a fazer isso sem \ninterromper a reunião. \nDiante do contexto apresentado, assinale a \nafirmativa que contenha, corretamente, os botões \nutilizados para a execução realizada pela \nLucimara.",
+            "alternativas": {
+                "A": "Ctrl + Alt. \n(B Ctrl + Fn. \n(C) Tab + Del. \n(D) Enter + Del. \n(E) Alt + Tab. Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 7 de 14 QUESTÃO 19  \nSobre as funções do MS – Word 2016, analise os \nconceitos a seguir:  \nA - Permitem que o texto seja disposto em dois \nou mais pilares na mesma página. Isso é útil para \ncriar layouts de documentos, como newsletters \nou relatórios. \nB - São blocos de texto que separam o conteúdo \nem unidades lógicas, como ideias ou tópicos \ndistintos. Geralmente é separado por espaços em \nbranco e pode ser formatado quanto a \nalinhamento, espaçamento e recuo. \nC - São usados para criar listas, como listas de \ntópicos ou instruções passo a passo. Usam \nsímbolos, como círculos ou quadrados, para \ndestacar itens na lista, ou ainda números para \ndenotar a ordem dos itens na lista. \nAssinale a afirmativa que contenha corretamente \ne, respectivamente, o conceito das afirmativas.  \n(A) A - Colunas; B - Parágrafos; C - Marcadores \nsimbólicos e numéricos.",
+                "B": "A - Parágrafos; B - Colunas; C - Marcadores \nsimbólicos e numéricos.",
+                "C": "A - Cabeçalhos; B - Parágrafos; C - \nMarcadores simbólicos e numéricos.",
+                "D": "A - Parágrafos; B - Cabeçalhos; C - \nMarcadores simbólicos e numéricos.",
+                "E": "A - Fontes; B - Cabeçalhos; C - Marcadores \nsimbólicos e numéricos. \n \n \n \n \n \n \n \n \n QUESTÃO 20  \nSobre as funções do MS – Word 2016, analise os \nconceitos a seguir:  \nI - Permite adicionar elementos externos ao \ndocumento, como imagens, gráficos, tabelas, \narquivos de áudio, vídeos e objetos incorporados. \nIsso enriquece o conteúdo e a apresentação do \ndocumento. \nII - São códigos que o Word usa para incluir \ninformações dinâmicas, como a data atual, o \nnúmero de página, a hora, etc., no documento. \nSão atualizados automaticamente quando o \ndocumento é aberto ou impresso. \nIII - São áreas designadas para inserir texto em \num documento, permitindo um controle preciso \nsobre a localização e a formatação do texto. Elas \nsão úteis para criar rótulos, textos explicativos ou \ndestacar informações. \nAssinale a afirmativa que contenha corretamente \ne, respectivamente, o conceito das afirmativas.  \n(A) I - Campos predefinidos; II - Inserção de \nobjetos; III -  Caixas de texto. \n(B) I - Inserção de objetos; II - Campos \npredefinidos; III -  Caixas de texto. \n(C) I - Campos predefinidos; II - Caixas de texto; \nIII -  Inserção de objetos. \n(D) I - Inserção de objetos; II - Caixas de texto; \nIII -  Campos predefinidos. \n(E) I - Caixas de texto; II - Inserção de objetos; \nIII -  Campos predefinidos. \n \n \n \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 8 de 14 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Identifique como verdadeiras (V) ou falsas (F) as \nseguintes preposições. De acordo com o Art. 30 \ndo Código de Trânsito Brasileiro: “Todo \ncondutor, ao perceber que outro que o segue tem \no propósito de ultrapassá- lo, deverá:”  \n( ) Se estiver circulando pela faixa da esquerda, \ndeslocar-se para a faixa da direita, sem acelerar a \nmarcha. \n( ) Se estiver circulando pelas demais faixas, \nmanter-se naquela na qual está circulando, sem \nacelerar a marcha. \n( ) Os veículos mais lentos, quando em fila, \ndeverão manter distância suficiente entre si para \npermitir que veículos que os ultrapassem possam \nse intercalar na fila com segurança.",
+            "alternativas": {
+                "A": "V, F, V.",
+                "B": "V, V,  F.",
+                "C": "F, V, V.",
+                "D": "F, F, V.",
+                "E": "V, V, V."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: No Código de Trânsito Brasileiro, estão previstos \nquatro tipos de infrações. Assinale qual \nalternativa apresenta corretamente sua \nclassificação.",
+            "alternativas": {
+                "A": "Leve, média, grave e gravíssima.",
+                "B": "Levíssima, leve, média e grave.",
+                "C": "Leve, moderada, grave e gravíssima.",
+                "D": "Média, moderada, grave e urgente.",
+                "E": "Leve, moderada, grave e urgente. \n \n \n \n QUESTÃO 23  \nIndique qual alternativa representa a afirmativa \ncorreta, de acordo com o Art. 131 do Código de \nTrânsito Brasileiro no que tange o licenciamento \nde veículos: \n(A) O veículo somente será considerado \nlicenciado estando quitados os débitos relativos a \ntributos, encargos e multas de trânsito e \nambientais, vinculados ao veículo, \nindependentemente da responsabilidade pelas \ninfrações cometidas. \n(B) Ao licenciar o veículo, o proprietário não terá \nnecessidade de comprovar sua aprovação nas \ninspeções de segurança veicular e de controle de \nemissões de gases poluentes e de ruído. \n(C) O primeiro licenciamento será feito sem a \nnecessidade de realizar o registro. \n(D) O veículo deverá ser considerado licenciado \nestando quitado pelo menos as multas. \n(E) O veículo deverá ser considerado licenciado \na partir do momento que é feito o pagamento de \npelo menos uma multa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Entre os diversos efeitos das ações humanas, \npodemos destacar o fenômeno do aquecimento \nglobal e do efeito estufa. Qual dos gases é \nresultante da queima de combustíveis em \nveículos a motor?",
+            "alternativas": {
+                "A": "Dióxido de carbono (CO2).",
+                "B": "Monóxido de carbono (CO).",
+                "C": "Óxidos de nitrogênio (NOx).",
+                "D": "Hidrogênio (H2).",
+                "E": "Fuligem de partículas sólidas de carvão. \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 9 de 14 QUESTÃO 25  \nO condutor de um veículo só é permitido a \nutilizar a buzina, desde que brevemente, em \nsituações específicas, de acordo com o Artigo 41 \ndo Código de Trânsito Brasileiro. Identifique \nquais das seguintes afirmações estão corretas \nquanto a esta exceções: \nI - Para fazer as advertências necessárias a fim de \nevitar acidentes. \nII - Fora das áreas urbanas, quando for \nconveniente advertir a um condutor que se tem o \npropósito de ultrapassá-lo. \nIII – Em áreas urbanas ou rurais, para chamar \natenção de outro condutor que se encontra \ndesatento. \nÉ correto o que se afirma na(s) preposição(ões): \n(A) Apenas na afirmativa I. \n(B) Afirmativas I e III. \n(C) Afirmativas I e II. \n(D) Todas as afirmativas estão corretas. \n(E) Afirmativas II e III."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Juliana ao transitar com seu automóvel nas ruas \nde Salvador, deixou de manter uma distância \nlateral mínima de um metro e cinquenta \ncentímetros ao passar ou ultrapassar Nicole que \ntransitava em sua bicicleta? De acordo com a \nlegislação vigente, qual a penalidade aplicada \ndiante a conduta da condutora?",
+            "alternativas": {
+                "A": "Advertência por escrito.",
+                "B": "Suspensão da habilitação.",
+                "C": "Recolhimento do veículo.",
+                "D": "Multa.",
+                "E": "Apreensão do veículo. \n \n QUESTÃO 27  \nConforme as normas gerais de conduta e \ncirculação dispostas no artigo 29 do Código de \nTrânsito Brasileiro, todo condutor ao efetuar a \nultrapassagem deverá:  \nAssinale a afirmativa correta: \n(A) Aproximar-se do usuário ou usuários aos \nquais ultrapassa, de tal forma que não deixe livre \numa distância lateral. \n(B) Indicar com antecedência a manobra \npretendida, acionando a luz indicadora de direção \ndo veículo ou por meio de gesto convencional de \nbraço. \n(C) Indicar com antecedência a manobra \npretendida, acionando a luz de farol alto. \n(D) Indicar com antecedência a manobra \npretendida, acionando a luz de farol alto e dando \num toque na buzina. \n(E) Retomar a faixa de trânsito acionando o sinal \nde pisca alerta , agradecendo o condutor que \npermitiu a ultrapassagem."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Qual a medida administrativa será aplicada ao \ncondutor que dirigir com a Carteira Nacional de \nHabilitação, Permissão para Dirigir ou \nAutorização para Conduzir Ciclomotor cassada \nou com suspensão do direito de dirigir?",
+            "alternativas": {
+                "A": "Apreensão do veículo e multa.",
+                "B": "Apreensão do veículo e retenção do veículo \naté a apresentação de condutor habilitado.",
+                "C": "Advertência por escrito.",
+                "D": "Recolhimento do documento de habilitação e \nretenção do veículo até a apresentação de \ncondutor habilitado.",
+                "E": "Liberação imediata do veículo após a \nautuação. \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 10 de 14"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Com relação a composição do Sistema Nacional \nde Trânsito, assinale a alternativa correta com a \nsequência de verdadeiras (V) ou Falsas (F): \n( ) O CONTRAN é o órgão máximo normativo e \nconsultivo do Sistema Nacional de Trânsito. \n( ) Os CETRAN e o CONTRANDIFE são órgãos \nnormativos, consultivos e coordenadores em \nnível federal. \n( ) A Polícia Rodoviária Federal não é parte do \nSistema Nacional de Trânsito. \n( ) As Juntas Administrativas de Recursos de \nInfrações (JARI) não compõem o Sistema \nNacional de Trânsito mencionadas no CTB.",
+            "alternativas": {
+                "A": "V, V, F, F.",
+                "B": "V, V, V, F.",
+                "C": "V, F, V, F.",
+                "D": "V, V, F, V",
+                "E": "F, V, F, V"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: O Artigo 203 do Código de Trânsito Brasileiro \n(CTB) descreve diversas proibições. Qual das \nseguintes situações NÃO  é mencionada no Art. \n203 como uma infração por ultrapassagem pela \ncontramão?",
+            "alternativas": {
+                "A": "Nas curvas, aclives e declives, sem \nvisibilidade suficiente.",
+                "B": "Nas faixas de pedestres;",
+                "C": "Nas pontes, viadutos ou túneis.",
+                "D": "Parado em fila junto a sinais luminosos, \nporteiras, cancelas, cruzamentos ou qualquer \noutro impedimento à livre circulação",
+                "E": "Ultrapassagem de outro veículo em \nmovimento for realizada pela esquerda. \n \n QUESTÃO 31  \nVocê está dirigindo em uma estrada \ndesconhecida e se depara com uma série de \njunções sucessivas. Ao se aproximar de uma \ndelas, você nota a presença de uma placa de \ntrânsito “A -11a“. Qual è o objetivo dessa placa \nde trânsito? \n \n \n \n \n \n \n(A) A placa Adverte o condutor da existência, \nadiante, de junções contrárias sucessivas, estando \na primeira à esquerda e a segunda à direita. \n (B) A placa alerta que as junções sucessivas na \nestrada devem ser feitas virando à direita, \ncomeçando pela primeira junção à esquerda. \n(C) A placa indica que as junções sucessivas na \nestrada devem ser feitas virando à esquerda, \ncomeçando pela primeira junção à direita. \n(D) A placa sugere que você pode escolher a \ndireção das junções sucessivas sem nenhuma \nrestrição, pois há instruções específicas para \nambos os lados. \n(E) A placa indica que as junções sucessivas na \nestrada devem ser feitas virando à direita, \ncomeçando pela primeira junção à direita. \n \n \n \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 11 de 14  QUESTÃO 32  \nA respeito do licenciamento de veículos, avalie \nas seguintes proposições como verdadeiras (V) \nou Falsas (F): \nI. O licenciamento anual é uma exigência para \ntodos e quaisquer tipos de veículos, sem \nexceções. \nII. O não pagamento do licenciamento anual \npode resultar em multas e na retenção do veículo \npara regularização. \nIII. Nas exceções prevista no Código de Trânsito \nBrasileiro, o licenciamento poderá ser realizado \na cada 04 (quatro) anos. \n(A) V, F, V. \n(B) F, V, F. \n(C) V, V, F. \n(D) F, F, V. \n(E) V, V, V."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: A ______________ como um princípio \nfundamental da segurança no trânsito, requer \numa compreensão profunda das táticas e \nestratégias para evitar colisões, ação esta de um \ncondutor que está constantemente avaliando o \nambiente em que transita, antecipando potenciais \nperigos; \nQual o termo que completa corretamente a \nlacuna:",
+            "alternativas": {
+                "A": "Impulsividade automobilística.",
+                "B": "Anarquia veicular.",
+                "C": "Condução reativa imediata.",
+                "D": "Direção defensiva proativa.",
+                "E": "Direção repressiva. \n \n QUESTÃO 34 \nO sistema de embreagem do automóvel, requer \nvigilância periódica, uma vez que desempenha \num papel crucial na transmissão do movimento \nrotativo gerado pelo motor para as rodas do \nveículo, influenciando diretamente a tração. \nEntre as falhas comuns, há uma ocasionada pela \ncarbonização do disco ou pela degradação do \nrevestimento do disco, levando a um \ndeslizamento indesejado do disco de embreagem. \nEste deslizamento resulta em uma diminuição \nsignificativa da fricção e da força de aderência, o \nque, por sua vez, pode ser identificado quando \napresentar o fenômeno de: \n(A) Perda de aceleração. \n(B) Transferência Térmica. \n(C) Erosão Mecânica. \n(D) Patinação. \n(E) Falha frequente do motor."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Tício condutor habilitado, ao transitar em seu \nveículo pelas ruas de Minas Gerais, distraído \nolhava para seu celular enquanto dirigia em uma \nárea urbana. Diante sua conduta infratora, o \ncondutor acabou passando sem que percebesse \nque havia uma PARADA OBRIGATÓRIA para \nele no cruzamento, o que culminou em uma \ncolisão com Mévio, um condutor de motocicleta \nque transitava naquele perímetro. O motociclista \nsofreu ferimentos graves e veio a óbito no \nhospital. Qual das seguintes penalidades é \ncabível no caso em tela, de acordo com o Art. 302 \ndo Código de Trânsito Brasileiro CTB?",
+            "alternativas": {
+                "A": "Detenção de um a três anos e suspensão da \nhabilitação.",
+                "B": "Detenção de dois a quatro anos e suspensão \nda habilitação.",
+                "C": "Detenção de três a seis anos e suspensão da \nhabilitação.",
+                "D": "Detenção de quatro a oito anos e suspensão \nda habilitação.",
+                "E": "Detenção de cinco a dez anos e suspensão da \nhabilitação. \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 12 de 14 QUESTÃO 36 \nAo testemunhar um acidente de trânsito em uma \nestrada onde dois veículos colidiram \nviolentamente. Você observa que um veículo \nenvolvido é um caminhão-tanque que transporta \nprodutos inflamáveis. Após a colisão, você \npercebe um cheiro forte de combustível e vê \npequenos vazamentos de líquido inflamável no \nlocal do acidente. Qual a conduta mais adequada \npara garantir a segurança de todos os envolvidos? \n(A) Aproximar-se do local para verificar se \nalguém precisa de ajuda imediata para sair do \nveículo. \n(B) Evacuar imediatamente a área, mantendo \numa distância segura, e chamar o corpo de \nbombeiros. \n(C) Tentar conter os vazamentos de líquido \ninflamável utilizando materiais disponíveis. \n(D) Ignorar o cheiro de combustível inicialmente \ne permanecer no local para fornecer informações \nàs autoridades. \n(E) Tentar mover o caminhão-tanque para longe \nda cena do acidente com ajuda de outras pessoas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA LEGISLATIVO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: A Carteira Nacional de Habilitação (CNH) \nsofreu alterações na sua sistemática de contagem \nde pontos. De acordo com as novas regras, o \nlimite de pontos que pode levar a sua suspensão \npassou de 20 para 40, observando algumas \nregras: \nI. Considera-se 40 pontos caso entre as infrações \nnão haja alguma considerada gravíssima. \nII. Considera-se 30 pontos se tiver 01 (uma) \ninfração gravíssima na pontuação. \nIII. Considera-se 20 pontos se tiver 02 (duas) ou \nmais infrações gravíssimas.",
+            "alternativas": {
+                "A": "Apenas a I.",
+                "B": "Afirmativa I e III.",
+                "C": "Afirmativa I e II.",
+                "D": "Todas as afirmativas.",
+                "E": "Afirmativa II e III. QUESTÃO 38  \nObserve as placas de sinalização e \nregulamentação abaixo, e assinale a alternativa \nque corresponde respectivamente a descrição \ncorreta. \n \n \n \n(A) Ônibus, caminhões e veículos de grande \nporte mantenham-se à direita. - Proibido trânsito \nde motocicletas, motonetas e ciclomotores. - \nPeso máximo permitido por eixo. \n(B) Circulação exclusiva de ônibus – Proibido \ntrânsito de bicicletas. – Comprimento Máximo \nPermitido.  \n(C) Circulação exclusiva de caminhão. – \nCirculação exclusiva de bicicletas. –  Largura \nMáxima Permitida. \n(D) Circulação exclusiva de ônibus. - Proibido \ntrânsito de bicicletas. - Comprimento Mínimo \nPermitido. \n(E) Ônibus, caminhões e veículos de grande \nporte mantenham-se à direita. - Proibido trânsito \nde bicicletas. - Largura Máxima Permitida. \n \n \n \n \n \n \n \n \n \nCâmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 13 de 14 QUESTÃO 39  \nO Código de Trânsito Brasileiro (CTB) \ndetermina a obrigatoriedade do uso do cinto de \nsegurança para o motorista e seus passageiros. \nUm automóvel particular está trafegando com 03 \n(três) pessoas, sendo 01 (um) motorista, 02 (dois) \npassageiros (um no banco da frente e outro no \nbanco de trás). O motorista ao ser parado pela \npolícia, percebeu que o passageiro do banco de \ntrás estava sem o cinto de segurança. Nesse caso, \nqual será a resolução? \n(A) O motorista está cometendo uma infração \ncom direito a penalidade e multa, pois todos os \npassageiros devem utilizar o cinto de segurança. \n(B) O motorista não está cometendo uma \ninfração, pois não existe obrigatoriedade de \nutilizar o cinto de segurança no banco de trás. \n(C) O motorista não está cometendo uma \ninfração, pois no Código de Trânsito Brasileiro \ndiz que o banco de trás só tem necessidade de \nutilização do cinto com mais de 01 (um) \npassageiro. \n(D) O motorista cometeu um erro de não orientar \no passageiro do banco de trás a colocar o cinto, \nporém não se trata de uma infração e não deverá \nser multado. \n(E) Nenhuma das alternativas. \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 40  \nUm motorista notou que o farol de seu carro não \nestava acendendo. Para tentar resolver o \nproblema, o mesmo verificou as lâmpadas, fez a \nsubstituição por novas, e mesmo assim o \nproblema persistiu. Tendo em vista que a bateria \ndo carro é nova e não apresentava nenhum \ndefeito, é provável que o problema esteja em \nalgum fusível. Qual o procedimento correto deve \nser tomado pelo motorista para resolver a \nsituação? \n(A) Identificar na caixa de fusível qual está \nqueimado, e trocar por algum outro fusível de \namperagem maior. \n(B) Ver no manual do proprietário onde está \nlocalizada a caixa de fusível e qual o fusível \nresponsável pelo problema (como farol que não \nacende). Verificar sua integridade, e substituí-lo \npor um fusível reserva ou novo com as mesmas \nespecificações. \n (C) Identificar na caixa de fusível qual está \nqueimado e retirá-lo, e deixar o veículo sem esse \nfusível, afinal não tem necessidade de estar ali. \n(D) Levar as lâmpadas novas nas autopeças e \npedir a substituição. \n(E) Identificar na caixa de fusível qual está \nqueimado, e trocar por algum outro fusível de \namperagem menor. \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Jaguariúna - Concurso Público 01/2023                                         INSTITUTO AVANÇ A-SP \n \nMOTORISTA LEGISLATIVO                                                                                                                          Página 14 de 14"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

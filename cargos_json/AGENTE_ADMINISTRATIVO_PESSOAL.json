@@ -1,3 +1,466 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b26b4115a22203ddd9bac117f2bf55c217e4cfdad04c14a60b1c1e44287fa3bd
-size 42597
+{
+    "AGENTE ADMINISTRATIVO PESSOAL": [
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Todas as afirmações a seguir podem ser \ndepreendidas da reportagem apresentada, \nexceto :",
+            "alternativas": {
+                "A": "Os cientistas têm dificuldade de avaliar o \nreal impacto das minerações aos primatas e seu \nhabitat em função da falta de \ncompartilhamento de dados pelos projetos de \nmineração.",
+                "B": "A exploração de minerais como cobre, \nlítio, níquel e cobalto causa desmatamento de \nflorestas tropicais.",
+                "C": "Na Guiné, a ameaça da mineração, de \nforma direta ou indireta, atinge até 83% da \npopulação de macacos do país.",
+                "D": "As empresas que operam projetos de \nmineração devem dispor de dados robustos \nsobre as espécies que residem na região \nexplorada, para elaborar ações de mitigação e \ncompensação.",
+                "E": "Ações de mitigação e compensação de \ncurto prazo são suficientes para resolver o \nimpacto causado pela mineração."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Considere o seguinte excerto: “(...) as áreas de \nmineração se intersectam com o que é \nconsiderado “habitat crítico”, isto é, regiões \ncruciais para a biodiversidade (...)” . A \nlocução “isto é” , que ocorre no contexto dado, \nintroduz uma paráfrase e poderia ser \nsubstituída pela expressão de mesma função \ntextual e significado:",
+            "alternativas": {
+                "A": "de modo que.",
+                "B": "de fato.",
+                "C": "ou seja.",
+                "D": "com efeito.",
+                "E": "grosso modo.  \n \n QUESTÃO 03 \nConsidere as sentenças a seguir, que ocorrem \nno texto:  \nI. “É o que sugere um estudo publicado no \nperiódico Science Advances”.  \nII. “Os pesquisadores, no entanto, ressaltam \nque o número de primatas em risco pode ser \nmaior.”  \nIII. “As empresas que operam nessas áreas \ndevem ter esquemas adequados de mitigação”.  \nNas sentenças dadas, verifica -se o emprego da \npalavra “que”  como pronome relativo apenas \nem:  \n(A) I.  \n(B) II.  \n(C) III.  \n(D) I e II.  \n(E) I e III."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Analise o seguinte excerto quanto à pontuação: \n“Necessários para uma transição em larga \nescala para uma energia mais limpa, minerais \ncomo cobre, lítio, níquel e cobalto têm sido \nexplorados na África [...]”  A primeira vírgula \nempregada no excerto ocorre em função do \npapel sintático desempenhado pela construção \nque o inicia, que corresponde a:",
+            "alternativas": {
+                "A": "aposto do sujeito.",
+                "B": "sujeito da oração.",
+                "C": "objeto da locução verbal “têm sido”.",
+                "D": "vocativo.",
+                "E": "adjunto adnominal."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: A palavra “amortecimento” , que ocorre no \ntexto, é derivada de “amortecer” . A palavra \n“amortecer”, por sua vez, é formada por:",
+            "alternativas": {
+                "A": "derivação prefixal.",
+                "B": "derivação sufixal.",
+                "C": "derivação parassintética.",
+                "D": "derivação regressiva.",
+                "E": "derivação imprópria.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE ADMINISTRATIVO PESSOAL                                                                                                    Página 4 de 13 QUESTÃO 06 \nO tipo de encontro vocálico que ocorre em \n“antologia” é o mesmo que em:  \n(A) esquentar.  \n(B) amêndoa.  \n(C) coração.  \n(D) roseira.  \n(E) coisa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Assinale a alternativa em que o elemento em \ndestaque é um advérbio de modo.",
+            "alternativas": {
+                "A": "A paciência é a mais  bela das virtudes.",
+                "B": "Atualmente , há uma gama de alimentos \nprocessados nos mercados.",
+                "C": "Precisamos somente  de alimentos não \nperecíveis.",
+                "D": "Agrada -me o silêncio depois  da meia -\nnoite.",
+                "E": "Temos de resolver esta situação depressa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Considere a sentença: “ Fez questão de \nexpressar  seu inexorável desprezo pelo \nrapaz.”  O significado da palavra “inexorável” \né o mesmo de:",
+            "alternativas": {
+                "A": "infundado.",
+                "B": "implacável.",
+                "C": "pequeno.",
+                "D": "irreparável.",
+                "E": "remediável."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as sentenças a seguir quanto à relação \nentre o verbo e o(s) seu(s) complemento(s). \nAssinale a alternativa em que a regência verbal \nestá correta.",
+            "alternativas": {
+                "A": "Revigorou -se apenas com alimentação \nsaudável.",
+                "B": "O governo destinou recursos sobre a \neducação infantil.",
+                "C": "A família precaveu perante o pior.",
+                "D": "Eles requereram da prefeitura uma licença \nespecial.",
+                "E": "O grupo contribuiu do cadastro de dados \ndos assistidos pelo projeto.  QUESTÃO 1 0 \nHá incorreção de concordância nominal em:  \n(A) A casa recém -reformada cheirava a \nmadeira e tinta fresca.  \n(B) Tudo isso aconteceu em má hora e dia.  \n(C) O vale e suas casas pareciam assombradas.  \n(D) Passadas duas semanas, ela voltou ao \ntrabalho.  \n(E) Foram rasgados os álbuns de fotos e as \ncartas do casal.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: A comissão organizadora de um evento vai \nseparar quatro áreas diferentes para os \nespectadores. Cada área terá um determinado \nvalor de ingresso, e comportará um número \nmáximo de pessoas. A tabela abaixo mostra a \nas áreas disponíveis, o número máximo de \npessoas que pode comportar, e o valor do \ningresso individual de cada área.  \nÁrea  Número máximo \nde pessoas  Valor do \ningresso  \nPista  1000  R$ 125  \nLateral 1  500 R$ 150  \nLateral 2  500 R$ 200  \nCamarote  200 R$ 400  \n \nSe todas as áreas venderem todos os ingressos \ndisponíveis, qual será a arrecadação total do \nevento dividido pelo número total de pessoas? \nIndique o valor mais próximo:",
+            "alternativas": {
+                "A": "R$ 154.",
+                "B": "R$ 161.",
+                "C": "R$ 173.",
+                "D": "R$ 183.",
+                "E": "R$ 125.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE ADMINISTRATIVO PESSOAL                                                                                                    Página 5 de 13 QUESTÃO 12 \nUm retângulo com uma determinada largura e \naltura inicial sofre um aumento de altura de \n20% e uma diminuição de largura de 20%. \nCom essas informações, é correto afirmar que:  \n(A) A área do novo retângulo será igual à área \ndo retângulo anterior.  \n(B) A área do novo retângulo sofrerá uma \ndiminuição de 4% independentemente da sua \naltura e largura original.  \n(C) A redução ou incremento na área do novo \nretângulo depende da altura e largura do \nretângulo original.  \n(D) A área do novo retângulo sofrerá um \naumento de 4% independentemente da sua \naltura e largura original.  \n(E) O perímetro do novo retângulo continuará \nigual ao perímetro do retângulo original, \nindependentemente da altura e largura original."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Uma garrafa de refrigerante tem 2 litros de \nlíquido que serão distribuídos em copos de 180 \nml. Alguns copos serão cheios e o último copo \nficará parcialmente cheio. Qual a porcentagem \nde líquido nesse último copo, em relação ao \nseu volume máximo comportado,  \naproximadamente?",
+            "alternativas": {
+                "A": "11,1%.",
+                "B": "22,2%.",
+                "C": "15,5%.",
+                "D": "2,22%.",
+                "E": "1,11%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Em uma escola, o intervalo do lanche ocorre \nem horários diferentes para cada turma. A \nturma A inicia seu intervalo às 9:00 e tem \nduração de 45 minutos, já a turma B inicia seu \nintervalo num determinado horário após a \nturma A, e as duas turmas permanecem ju ntas \nem intervalo por 25 minutos. Após esse tempo, \na turma A volta para a sala e a turma B \ncontinua sozinha no intervalo até às 10:00. \nQuanto tempo a turma B passou o intervalo \nsozinha?",
+            "alternativas": {
+                "A": "20 minutos.",
+                "B": "25 minutos.",
+                "C": "45 minutos.",
+                "D": "15 minutos.",
+                "E": "30 minutos.  QUESTÃO 15 \nUm estudante fez cinco provas durante um \nsemestre e obteve as seguintes notas: 70, 75, \n80, 85 e 𝑥. Se a média aritmética das cinco \nnotas foi 80, qual é o valor de 𝑥? \n(A) 80.  \n(B) 82.  \n(C) 84.  \n(D) 86.  \n(E) 90."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Estima -se que a floresta Amazônica contenha \n400.000.000.000 árvores, e sabe -se que ela tem \numa área total de 6,7 milhões de km2, sendo \nque 60% desta área está em território \nbrasileiro. Considerando que esta quantidade \nde árvores está igualmente distribuída em toda \na área da floresta, quantas árvores da floresta \nAmazônica pertencem ao território brasileiro?",
+            "alternativas": {
+                "A": "240 milhões.",
+                "B": "240 bilhões.",
+                "C": "24 bilhões.",
+                "D": "240 trilhões.",
+                "E": "2,4 bilhões."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Numa competição de xadrez há 40 pessoas. \nEm cada jogo, o vencedor ganha 3 pontos e o \nperdedor perde 3 pontos, podendo resultar em \npontuações negativas. Se o jogo resultar em \nempate, ambos os jogadores ganham 1 ponto. \nSuponha que todos os competidores começ am \ncom pontuação zero. Após a primeira rodada \nda competição, onde todos os jogadores \njogaram uma única vez, qual a maior soma \npossível para a pontuação de todos os \njogadores?",
+            "alternativas": {
+                "A": "40.",
+                "B": "120.",
+                "C": "60.",
+                "D": "0.",
+                "E": "20.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE ADMINISTRATIVO PESSOAL                                                                                                    Página 6 de 13 QUESTÃO 18 \nUma empresa que fabrica telas de computador \ncontrola o número de defeitos para cada tipo de \ntela. A tabela abaixo mostra quatro tipos de \ntelas, o número telas fabricadas por mês e o \nnúmero de telas defeituosas:  \nTipo da tela  Telas \nfabricadas  Telas \ndefeituosas  \nLCD  2450  5 \nOLED  1500  3 \nAMOLED  960 2 \n \nA empresa define uma quantidade chamada de \ntaxa de defeito, que é a razão entre o número \nde telas defeituosas e o número de telas \nfabricadas. Os tipos de telas em ordem \ncrescente de taxa de defeito são:  \n(A) OLED, LCD, AMOLED.  \n(B) OLED, AMOLED, LCD.  \n(C) AMOLED, OLED, LCD.  \n(D) LCD, OLED e AMOLED.  \n(E) AMOLED, LCD, OLED."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: O dono de uma pizzaria calcula que em uma \npizza são utilizados 200 g de calabresa, e a \npizza é vendida por R$ 44,00 ao consumidor \nfinal. Ele calcula também que o custo da \ncalabresa representa 30% do valor da pizza. \nEm um dado instante o preço do kg da \ncalabresa aumentou em 25%. O dono da \npizzaria não aumentará o valor da pizza para o \nconsumidor final, porém ele diminuirá a \nquantidade de calabresa por pizza para que seu \ncusto não mude. Quantos gramas de calabresa \nserão utilizados em cada pizza após o \naumento?",
+            "alternativas": {
+                "A": "190.",
+                "B": "180.",
+                "C": "160.",
+                "D": "150.",
+                "E": "140.  \n QUESTÃO 20 \nEm um clube de xadrez há dois tipos de \nfrequentadores: iniciantes e mestres. O clube \nnotou que este ano há o dobro de \nfrequentadores em relação ao ano passado, e \nque a razão entre mestres e iniciantes no ano \npassado era de 1/10 e passou a ser de 1/5 este \nano. Sabendo -se que nesse ano há 22 mestres, \npode -se afirmar que o número de mestres no \nano passado foi de:  \n(A) 9.  \n(B) 7.  \n(C) 3.  \n(D) 11.  \n(E) 6.  \n \nNOÇOES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Com base nos conhecimentos relacionados ao \nsistema operacional Windows 7, assinale a \nalternativa que completa corretamente a lacuna \ndo texto a seguir:  \n \nO Windows 7, desenvolvido pela \n___________, é uma versão do sistema \noperacional Windows, destinado a \ncomputadores pessoais, tanto para uso \ndoméstico quanto empresarial.",
+            "alternativas": {
+                "A": "Intel",
+                "B": "Oracle",
+                "C": "Microsoft",
+                "D": "Sansung",
+                "E": "Apple"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Na barra de tarefas do Windows 7 é possível \nvisualizar facilmente informações importantes \npara usuário, como:",
+            "alternativas": {
+                "A": "A data atual.",
+                "B": "A velocidade de processamento do \ncomputador.",
+                "C": "A capacidade de processamento do \ncomputador.",
+                "D": "A configuração do servidor de e -mail do \nusuário.",
+                "E": "A versão do Microsoft Office instalado na \nmáquina.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE ADMINISTRATIVO PESSOAL                                                                                                    Página 7 de 13 QUESTÃO 23 \nAnalise a lista de aplicativos descritos nas \nalternativas a seguir e assinale a opção que \ndescreve o único programa nativo do Windows \n7: \n(A) iMovie.  \n(B) GarageBand.  \n(C) Bloco de Notas.  \n(D) AutoCade 2024.  \n(E) Keynote."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Entre as alternativas abaixo, qual delas \ndescreve uma das funções do Microsoft Word:",
+            "alternativas": {
+                "A": "Criar imagens vetoriais.",
+                "B": "Editar filmes em alta resolução.",
+                "C": "Gerenciamento de banco de dados.",
+                "D": "Criar e editar documentos de texto.",
+                "E": "Calcular Equação Diferencial."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: O atalho do Microsoft Word intitulado de \n“Orientação” ilustrado a seguir, tem a função \nde: \n \n \nFonte: 1 https://support.microsoft.com/",
+            "alternativas": {
+                "A": "Alterar as bordas da página para impressão \nem papel A5.",
+                "B": "Alterar o espaçamento entre parágrafos de \ncada página.",
+                "C": "Alterar a orientação da página para \nparalelo ou vertical.",
+                "D": "Alterar a orientação da página para posto \nou sobreposto.",
+                "E": "Alterar a orientação da página para \npaisagem ou retrato.  CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: O Decreto -Lei nº 5.452/1943 dispõe sobre as \nférias anuais. Assim, analise as afirmativas \nabaixo e assinale a alternativa INCORRETA.",
+            "alternativas": {
+                "A": "Após cada período de 12 (doze) meses de \nvigência do contrato de trabalho, o empregado \nterá direito a férias.",
+                "B": "Desde que haja concordância do \nempregado, as férias poderão ser usufruídas \nem até três períodos.",
+                "C": "As faltas do empregado ao serviço, \npoderão ser descontadas do período de férias.",
+                "D": "A época da concessão das férias será a que \nmelhor consulte os interesses do empregador.",
+                "E": "Sempre que as férias forem concedidas \napós o prazo, o empregador pagará em dobro a \nrespectiva remuneração."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Quanto ao contrato individual de trabalho \nestabelecido no Decreto -Lei nº 5.452/1943, é \ncorreto afirmar:",
+            "alternativas": {
+                "A": "Contrato individual de trabalho é o acordo \ntácito ou expresso, correspondente à relação de \nemprego.",
+                "B": "O contrato individual de trabalho somente \npoderá ser acordado de forma tácita ou \nexpressamente.",
+                "C": "O contrato por prazo indeterminado só será \nválido em se tratando de contrato de \nexperiência.",
+                "D": "O contrato de trabalho intermitente poderá \nser acordado de forma verbal.",
+                "E": "A higienização do uniforme é sempre de \nresponsabilidade do trabalhador.  \n \n \n \nPrefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE ADMINISTRATIVO PESSOAL                                                                                                    Página 8 de 13 QUESTÃO 28  \nEm relação a Duração do Trabalho prevista no \nDecreto -Lei nº 5.452/1943, é correto afirmar:  \n \n(A) O tempo despendido pelo empregado \ndesde a sua residência até a efetiva ocupação \ndo posto de trabalho e para o seu retorno, \natravés de transporte fornecido pelo \nempregador, será computado na jornada de \ntrabalho.  \n(B) A duração normal do trabalho, para os \nempregados em qualquer atividade privada, \nnão excederá de 8 (oito) horas diárias, ainda \nque seja fixado outro limite.  \n(C) As horas suplementares da jornada de \ntrabalho normal não poderão ser compensadas \ndiretamente até a semana imediatamente \nposterior à da sua execução.  \n(D) As horas suplementares à duração do \ntrabalho semanal normal serão pagas com o \nacréscimo de 50% (cinquenta por cento) sobre \no salário -hora normal.  \n(E) É obrigatório ao empregado contratado sob \nregime de tempo parcial converter um terço do \nperíodo de férias a que tiver direito em abono \npecuniário."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: É o acordo de caráter normativo, pelo qual dois \nou mais Sindicatos representativos de \ncategorias econômicas e profissionais \nestipulam condições de trabalho aplicáveis, no \nâmbito das respectivas representações, às \nrelações individuais de trabalho.   \n \nSegundo o Decreto -Lei nº 5.452/1943 este é o \nconceito de:",
+            "alternativas": {
+                "A": "Contrato Individual de Trabalho.",
+                "B": "Acordo Sindical.",
+                "C": "Convenção Coletiva de Trabalho.",
+                "D": "Contrato Sindical de Trabalho.",
+                "E": "Enquadramento Sindical.  \n QUESTÃO 30  \nNo que tange ao Ato e Fato Administrativo, \nconsidere (V) para Verdadeiro  e (F) para Falso \ne, ao final, assinale a alternativa correta.  \n( ) Ato Administrativo tem por finalidade \natender ao interesse público.  \n(  ) Ato Administrativo é toda manifestação ou \ndeclaração da Administração Pública.  \n( ) Fato Administrativo decorre sob regime \njurídico de direito público.  \n(  ) Fato Administrativo independe da vontade \nhumana.  \n(A) V - F – F – V. \n(B) V - V – F – V. \n(C) F – V – F- V. \n(D) F – V – V – V. \n(E) V – F – V – F."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: O processo administrativo disciplinar se \ndesenvolve em três fases, sendo a primeira:",
+            "alternativas": {
+                "A": "A apuração.",
+                "B": "A reunião com a comissão.",
+                "C": "O inquérito administrativo.",
+                "D": "A instauração.",
+                "E": "O julgamento."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: _____________ antes de findo o período do \nestágio probatório, será submetida à \nhomologação da autoridade competente a \navaliação do desempenho do servidor.  \nAssinale a alternativa que preencha \ncorretamente a lacuna acima.",
+            "alternativas": {
+                "A": "1 (um) mês.",
+                "B": "3 (três) meses.",
+                "C": "4 (quatro) meses.",
+                "D": "5 (cinco) meses.",
+                "E": "6 (seis) meses.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE ADMINISTRATIVO PESSOAL                                                                                                    Página 9 de 13 QUESTÃO 33  \nA administração pública tem sempre como \npilar de sustentação o interesse público. \nSabendo disso, assinale a alternativa que \ncompleta o princípio do processo \nadministrativo cuja finalidade é o dever de \natuação da administração de forma imparcial e \nobjetiva,  vedando sua atuação com o intuito de \nprejudicar ou promover agente público.   \n(A) Legalidade.  \n(B) Moralidade.  \n(C) Publicidade.  \n(D) Eficiência.  \n(E) Impessoalidade."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Nas sanções aplicadas aos servidores públicos \nserão consideradas(os):",
+            "alternativas": {
+                "A": "A sentença judicial transitada em julgado \nou de processo administrativo disciplinar no \nqual lhe seja assegurada ampla defesa.",
+                "B": "Reversão do serviço público, o \ndesempenho de atribuição que seja de sua \nresponsabilidade ou de seu subordinado.",
+                "C": "A natureza e a gravidade da infração \ncometida, os danos que dela provierem para o \nserviço público, as circunstâncias agravantes \nou atenuantes e os antecedentes funcionais.",
+                "D": "A responsabilidade civil do servidor, bem \ncomo a insubordinação grave em serviço.",
+                "E": "A materialidade dos fatos, inassiduidade \nhabitual e o grau de responsabilidade do \nservidor na infração cometida."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: “Legislação superveniente invalida o ato”.  \n“Surge novo ato que se contrapõe ao ato \nanterior”.  \nOs conceitos acima referem -se à quais formas \nde extinção do ato administrativo, \nrespectivamente?",
+            "alternativas": {
+                "A": "Caducidade e Contraposição.",
+                "B": "Contraposição e Caducidade.",
+                "C": "Caducidade e Cassação.",
+                "D": "Cassação e Extinção Objetiva.",
+                "E": "Caducidade e Extinção Objetiva.  \n QUESTÃO 36  \nAcerca da classificação dos atos \nadministrativos, quanto à sua formação, \ncompõe os atos:  \n(A) Simples, complexo e composto.  \n(B) Vinculado e discricionário.  \n(C) Interno e Externo.  \n(D) Gerais e Individuais.  \n(E) De gestão, de império e de expediente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: A condição de eficácia do ato administrativo, \nquando este começa a produzir seus efeitos, \ndar-se-á através da:",
+            "alternativas": {
+                "A": "Formação.",
+                "B": "Existência.",
+                "C": "Validade.",
+                "D": "Publicidade.",
+                "E": "Eficácia."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Acerca da convalidação do ato administrativo \né correto afirmar, EXCETO:",
+            "alternativas": {
+                "A": "Um dos vícios convalidáveis é o vício de \nforma.",
+                "B": "Só é possível em hipóteses que não haja \nlesão ao interesse público, nem prejuízo a \nterceiros.",
+                "C": "Possui efeitos “ex nunc” , ou seja, não \nretroage.",
+                "D": "É uma correção de um ato administrativo.",
+                "E": "É ato discricionário da Administração \nPública."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Dispõe a lei nº 14.133/2021 (Lei de Licitações) \nque nos contratos de obras e serviços de \nengenharia, sempre que compatível com o \nregime de execução, a medição será:",
+            "alternativas": {
+                "A": "Mensal.",
+                "B": "Anual.",
+                "C": "A cada 3 (três) meses.",
+                "D": "A cada 5 (cinco) meses.",
+                "E": "A cada 6 (seis) meses.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE ADMINISTRATIVO PESSOAL                                                                                                    Página 10 de 13 QUESTÃO 40  \nAssinale a alternativa correta no que tange aos \nconceitos de custos.  \n(A) Custos variáveis são aqueles que \npermanecem constantes, independente da \nquantidade de produção ou vendas.  \n(B) Custos fixos podem variar de acordo com \no volume produzido ou vendido.  \n(C) Custos diretos ocorrem genericamente a \ncada função de acumulação de custos \ndiferentes.  \n(D) Custo é todo e qualquer gasto ou saída de \ncaixa que uma empresa tem, sendo estes \nligados, diretamente, à produção dos produtos \ne serviços.   \n(E) A matéria -prima utilizada na produção de \num produto é considerada como custo indireto."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: É correto afirmar no que tange à escrituração \ncontábil, EXCETO:",
+            "alternativas": {
+                "A": "Consiste em registrar nos livros próprios \ntodos os acontecimentos que ocorrem na \nempresa e que modifiquem ou possam vir \nmodificar a situação patrimonial.",
+                "B": "Todas as empresas estão obrigadas a seguir \num sistema de contabilidade, mecanizado ou \nnão.",
+                "C": "É obrigatória a todos os formatos e porte \nde empresas, inclusive do MEI e empresário \nrural.",
+                "D": "São livros primordiais na escrituração: \ndiário e razão.",
+                "E": "Será executada em ordem cronológica."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: O princípio contábil que estabelece que as \nreceitas e despesas devem ser determinadas \npela data de seu fato gerador e não quando da \nexistência do pagamento ou recebimento é o?",
+            "alternativas": {
+                "A": "Princípio da Prudência.",
+                "B": "Princípio da Entidade.",
+                "C": "Princípio da Continuidade.",
+                "D": "Princípio do Registro pelo Valor Original.",
+                "E": "Princípio da Competência.  QUESTÃO 43  \nQuando ao Dever de Licitar previsto na Lei nº \n14.133/2021 é correto afirmar, EXCETO:  \n(A) Sendo os procedimentos realizados por \nmeio eletrônico, a Administração poderá \ndeterminar, como condição de validade e \neficácia, que os licitantes pratiquem seus atos \nem formato eletrônico.  \n(B) As licitações serão realizadas sempre de \nforma eletrônica.  \n(C) É inexigível a licitação quando inviável a \ncompetição.  \n(D) É dispensável a licitação para contratação \nque envolva valores inferiores a R$ 100.000,00 \n(cem mil reais), no caso de obras e serviços de \nengenharia ou de serviços de manutenção de \nveículos automotores.  \n(E) É obrigatório licitar em caso de contratação \nde obras e serviços de arquitetura e engenharia."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: Acerca do que dispõe a lei nº 14.133/2021 (Lei \nde Licitações) sobre Registros Cadastrais e \nRegistros de Preços, analise os itens a seguir e, \nao final, assinale a alternativa correta.  \nI – O registro cadastral deve ser amplamente \ndivulgado e estar permanentemente aberto aos \ninteressados.  \nII – O sistema de registro de preços \ncorresponde ao processo administrativo de \nchamamento público em que a Administração \nPública convoca interessados em prestar \nserviços ou fornecer bens com o menor preço \nofertado em lance.  \nIII – A ata de registro de preços é um \ndocumento vinculativo e obrigacional, com \ncaracterística de compromisso para futura \ncontratação, no qual são registrados o objeto, \nos preços, os fornecedores, os órgãos \nparticipantes e as condições a serem \npraticadas.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Os itens I e II são verdadeiros.",
+                "E": "Os itens I e III são verdadeiros.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE ADMINISTRATIVO PESSOAL                                                                                                    Página 11 de 13 QUESTÃO 45  \nSe tratando dos princípios que regem a lei nº \n14.133/2021 (Lei de Licitações), aquele que \nflexibiliza o princípio da isonomia, de modo \nque em alguns casos, será justificável instituir \npreferências, benefícios ou restrições para \nprodutos e licitantes que atendam a critérios \nambientais. Esse conceito refere -se a qual \nprincípio?  \n(A) Do desenvolvimento nacional sustentável.  \n(B) Do planejamento.  \n(C) Da eficácia.  \n(D) Da isonomia.  \n(E) Do interesse público."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31: A lei nº 14.133/2021 (Lei de Licitações) dispõe \nsobre as modalidades de licitação. Desse \nmodo, analise as assertivas abaixo, \ncorrelacionando -as com os números indicados \ne, ao final, assinale a alternativa correta.  \n(1) Pregão.  \n(2) Concurso.  \n(3) Concorrência.  \n(4) Diálogo Competitivo.  \n(  ) Adota -se essa modalidade sempre que o \nobjeto possuir padrões de desempenho e \nqualidade que possam ser objetivamente \ndefinidos pelo edital, por meio de \nespecificações usuais de mercado.  \n(  ) Essa modalidade é restrita a contratações \nem que a Administração vise a contratar objeto \nque envolva inovação tecnológica ou técnica.  \n(  ) Modalidade de licitação para contratação \nde bens e serviços especiais e de obras e \nserviços comuns e especiais de engenharia.  \n(  ) Modalidade de licitação para escolha de \ntrabalho técnico, científico ou artístico.",
+            "alternativas": {
+                "A": "1 – 2 – 3 – 4.",
+                "B": "2 – 3 – 4 -1.",
+                "C": "3 – 4 – 1 – 2.",
+                "D": "1 – 4 – 3 – 2.",
+                "E": "3 – 2 – 4 – 1. QUESTÃO 47  \nEm relação a Contribuição de Melhoria \nprevista no Código Tributário Nacional, é \ncorreto afirmar que:  \n(A) É seletiva em função da essencialidade dos \nserviços.  \n(B) A base de cálculo do imposto é o montante, \nreal, arbitrado ou presumido, da renda ou dos \nproventos tributáveis.  \n(C) A receita líquida do imposto destina -se à \nformação de reservas monetárias.  \n(D) É instituída para fazer face ao custo de \nobras públicas de que decorra valorização \nimobiliária, tendo como limite total a despesa \nrealizada e como limite individual o acréscimo \nde valor que da obra resultar para cada imóvel \nbeneficiado.  \n(E) É o tributo cuja obrigação tem por fato \ngerador atividade municipal específica."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32: Acerca do que dispõe o Código Tributário \nNacional sobre Impostos e Taxas, considere \n(V) para Verdadeiro e (F) para Falso e, ao final, \nassinale a alternativa correta.  \n(   ) as taxas têm como fato gerador o exercício \nregular do poder de polícia.  \n( ) compete aos municípios instituir os \nimpostos atribuídos aos Estados e, se aqueles \nnão forem divididos em municípios, \ncumulativamente, os atribuídos a estes.  \n(  ) a taxa pode ter base de cálculo ou fato \ngerador idênticos aos que correspondam a \nimposto e ser calculada em função do capital \ndas empresas.  \n(   ) imposto é o tributo cuja obrigação tem por \nfato gerador uma situação independente de \nqualquer atividade estatal específica, relativa \nao contribuinte.",
+            "alternativas": {
+                "A": "V – V – F- V.",
+                "B": "F – F- F – V.",
+                "C": "V – F – F – V.",
+                "D": "V – V – V- F.",
+                "E": "F – V – F – V.Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE ADMINISTRATIVO PESSOAL                                                                                                    Página 12 de 13 QUESTÃO 49  \nNo que tange à Competência Tributária disposta \nno Código Tributário Nacional, analise os itens a \nseguir e, ao final, assinale a alternativa correta.  \nI – Somente a União pode cobrar impostos sobre \ntemplos de qualquer culto.  \nII – Imposto sobre a Propriedade Predial e \nTerritorial Urbana é de competência dos \nMunicípios.  \nIII – Imposto sobre a Transmissão de Bens \nImóveis e de Direitos a eles Relativos é de \ncompetência da União e do Distrito Federal.  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Os itens I e II são verdadeiros.  \n(E) Os itens I e III são verdadeiros."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE ADMINISTRATIVO PESSOAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33: Acerca do que dispõe o Código Tributário \nNacional sobre empréstimos compulsórios é \ncorreto afirmar, EXCETO:",
+            "alternativas": {
+                "A": "Somente o Distrito Federal, em casos \nexcepcionais, pode instituir empréstimos \ncompulsórios.",
+                "B": "Poderá ser instituído empréstimos \ncompulsórios em caso de guerra externa.",
+                "C": "Poderá ser instituído empréstimos \ncompulsórios em caso de calamidade pública que \nexija auxílio federal impossível de atender com \nos recursos orçamentários disponíveis.",
+                "D": "Poderá ser instituído empréstimos \ncompulsórios em caso de conjuntura que exija a \nabsorção temporária de poder aquisitivo.",
+                "E": "A lei fixará obrigatoriamente o prazo do \nempréstimo e as condições de seu resgate.  \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAGENTE ADMINISTRATIVO PESSOAL                                                                                                    Página 13 de 13"
+            },
+            "resposta_correta": "B"
+        }
+    ]
+}

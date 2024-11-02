@@ -1,3 +1,1544 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eebd10cae9f5a0b1d974dc4ca521ad1ea8615c4c637f8dc8dd67ca2a33a5ea43
-size 118086
+{
+    "TELEFONISTA": [
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: O que motivou a raposa a tentar alcançar as uvas \nna árvore?",
+            "alternativas": {
+                "A": "A presença de outros animais observando -a.",
+                "B": "Seu desejo por algo refrescante e diferente do \ncomum.",
+                "C": "Sua necessidade urgente de alimento devido \nà fome.",
+                "D": "A competição com os pássaros para alcançar \nas uvas.",
+                "E": "A intenção de provar sua agilidade como uma \nraposa."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Qual é o propósito da declaração da raposa ao \npássaro no final do texto?",
+            "alternativas": {
+                "A": "A raposa busca consolo e compreensão do \npássaro.",
+                "B": "A raposa tenta explicar sua inabilidade de \nalcançar ao dizer que as uvas estavam maduras.",
+                "C": "A raposa procura justificar sua desistência ao \nalegar que as uvas estavam verdes.",
+                "D": "A raposa expressa seu desejo de compartilhar \nas uvas com o pássaro.",
+                "E": "A raposa acusa o pássaro de zombar dela \ndurante suas tentativas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: A palavra \"cansada\" no trecho \"Cansada pelo \nesforço\" é um sinônimo de qual outra palavra no \nmesmo contexto?",
+            "alternativas": {
+                "A": "Frustrada.",
+                "B": "Corrida.",
+                "C": "Saltada.",
+                "D": "Exausta.",
+                "E": "Resignada"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Qual é a classe de palavras da palavra \"esgotada\" \nno trecho \"Esgotada e resignada\"?",
+            "alternativas": {
+                "A": "Substantivo.",
+                "B": "Adjetivo.",
+                "C": "Numeral.",
+                "D": "Pronome.",
+                "E": "Verbo.  Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                 Página 3 de 10 QUESTÃO 0 5 \nDe acordo com a fábula, qual é a razão pela qual \na raposa não pegou as uvas?  \n(A) A raposa estava muito enérgica, embora sem \nenergia para pular.  \n(B) As uvas estavam verdes e muito difíceis de \nalcançar.  \n(C) A raposa era boa demais para pular e subir \nem árvores.  \n(D) As uvas estavam mais altas do que a raposa \nimaginava e conseguia alcançar.  \n(E) A raposa não estava realmente interessada em \ncomer as uvas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: 6 \nQual dos seguintes termos é um exemplo de \nadjetivo pátrio?",
+            "alternativas": {
+                "A": "Feliz",
+                "B": "Canadense",
+                "C": "Rápido",
+                "D": "Inteligente",
+                "E": "Bonito"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: 7 \n \n \nCom base nas falas da personagem Mafalda na \ntirinha, o que ela está expressando sobre a \nsituação do país?",
+            "alternativas": {
+                "A": "Mafalda está destacando que a crise do país \ndiminuiu ao longo do tempo.",
+                "B": "Mafalda está ironicamente expressando \notimismo sobre a situação atual do país em \ncomparação com a crise de outrora.",
+                "C": "Mafalda está ironicamente sugerindo que, \napesar de já ter crescido, a situação do país ainda \né a mesma; de crise.",
+                "D": "Mafalda está comparando o tamanho das \npessoas ao tamanho do país.",
+                "E": "Mafalda está afirmando que o país estava \nmelhor quando era pequena, e que agora que \ncresceu as coisas melhoraram.  \n QUESTÃO 08 \nMaria olhou para o céu e viu as estrelas brilhando \nintensamente. Ela ficou maravilhada com a \nbeleza do universo, imaginando quantos \nsegredos aquele vasto espaço poderia esconder.  \nNa passagem, qual é o pronome pessoal do caso \nreto que se refere a Maria?  \n(A) Ficou  \n(B) Você  \n(C) Maravilhada  \n(D) Nós  \n(E) Ela"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: 9 \nAssinale a alternativa que preenche corretamente \na frase:  \n\"A confraternização está prevista para _______ \n15h.\"",
+            "alternativas": {
+                "A": "ao",
+                "B": "à",
+                "C": "as",
+                "D": "às",
+                "E": "a"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Com base na tirinha, qual é o sentimento \npredominante expresso por Snoopy em relação à \nausência de seu amor?",
+            "alternativas": {
+                "A": "Felicidade.",
+                "B": "Indiferença.",
+                "C": "Nostalgia.",
+                "D": "Angústia.",
+                "E": "Paciência.  \nPrefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                 Página 4 de 10 QUESTÃO 11  \nAssinale a alternativa que preenche corretamente \na frase:  \n \n\"As crianças ________ sempre a pé para a \nescola.\"  \n \n(A) vêem  \n(B) vem  \n(C) veêm  \n(D) vêm  \n(E) vém"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: A rosa e o sapo  \nA rosa se emocionava quando a elogiavam. No \nentanto, ela queria que a vissem mais de perto; \nnão entendia por que todos a observavam à \ndistância. Um dia ela percebeu que a seus pés \nsempre estava um enorme sapo escuro. Ele não \ntinha nada de bonito, com sua c or opaca e suas \nmanchas feias. Além disso, seus olhos eram bem \nesbugalhados, assustando a todos. A rosa \nentendeu que as pessoas não se aproximavam por \ncausa desse animal. Imediatamente, ela ordenou \nque o sapo fosse embora. Ele não percebia que \ndava a ela u ma imagem negativa? O sapo, muito \nhumilde e obediente, aceitou prontamente. Ele \nnão queria incomodá -la e então foi \nembora.Alguns dias depois, a rosa começou a se \ndeteriorar. Suas folhas e pétalas começaram a \ncair. Ninguém queria mais olhar para ela. Perto \ndela passava um lagarto que a viu chorando. Ele \nperguntou o que estava errado e ela respondeu \nque as formigas a estavam matando. Então o \nlagarto disse o que a rosa já sabia: “Era o sapo \nque comia as formigas e mantinha a sua beleza “.  \nAutor \ndesconhecido.  \nNo texto, a palavra \"emocionava\" poderia ser \nsubstituída pelo sinônimo?",
+            "alternativas": {
+                "A": "Assustava",
+                "B": "Comovia",
+                "C": "Aborrecia",
+                "D": "Enfraquecia",
+                "E": "Afastava  \n QUESTÃO 13  \nEntão, o mais terrível de todos os males, a morte, \nnão significa nada para nós, justamente porque, \nquando estamos vivos, é a morte que não está \npresente; ao contrário, quando a morte está \npresente, nós é que não estamos.  \nEpicuro  \nNa passagem, Epicuro argumenta que a morte \n\"não significa nada para nós\". Em que consiste o \nargumento apresentado?  \n(A) Ele sugere que a morte não deve ser temida, \npois, quando estamos mortos, estamos \nconscientes dela.  \n(B) Quando estamos vivos, a morte está presente, \ne, quando a morte está presente, nossa existência \nemerge.  \n(C) A morte é algo que podemos evitar através de \nações corretas e virtuosas.  \n(D) Enquanto estamos vivos, a morte não é \nrelevante, e quando a morte está presente, nós \nnão existimos mais.  \n(E) A morte é um mistério que ninguém \nconsegue compreender até que ela chegue."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Com base na tirinha em que o personagem diz \n\"Eu preciso de uma mudança\", qual das seguintes \nafirmações melhor descreve a situação?",
+            "alternativas": {
+                "A": "O personagem está animado com sua vida \nmonótona e não deseja mudanças drásticas.",
+                "B": "O personagem está insatisfeito com sua vida, \nmas não toma medidas para mudar.",
+                "C": "O personagem está fisicamente ativo, \nbuscando mudanças em sua vida.",
+                "D": "O personagem está satisfeito planejando uma \ngrande mudança em sua vida.",
+                "E": "O personagem está deitado por pura preguiça, \nsem interesse em qualquer mudança.  \n \nPrefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                 Página 5 de 10 QUESTÃO 15  \nQual das seguintes palavras é um antônimo de \n\"altruísta\"?  \n(A) Egoísta  \n(B) Generoso  \n(C) Solidário  \n(D) Altruístico  \n(E) Compreensivo  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Assinale a alternativa que apresenta o \nQuadragésimo número ímpar antecessor de 327:",
+            "alternativas": {
+                "A": "245",
+                "B": "247",
+                "C": "249",
+                "D": "251",
+                "E": "253"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Qual é o resultado da seguinte operação:  \n73,9 x 13 – 9,2?",
+            "alternativas": {
+                "A": "942,3",
+                "B": "280,82",
+                "C": "965,8",
+                "D": "951,5",
+                "E": "666,88"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Assinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n22 x 7, 2 - 31",
+            "alternativas": {
+                "A": "127,4",
+                "B": "523,6",
+                "C": "130,4",
+                "D": "64,8",
+                "E": "125  \n QUESTÃO 19 \nPedro economizou R$ 60,00 por mês durante 8 \nmeses. Mas teve que gastar metade desse valor \nem um passeio, com quanto Pedro ficou após as \neconomias?  \n \n(A) R$ 240,00  \n(B) R$ 220,00  \n(C) R$ 200,00  \n(D) R$ 210,00  \n(E) R$ 230,00"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Eduardo está planejando comprar 18 metros de \ntecido para confeccionar camisetas. Cada metro \nde tecido custa R$ 12,50. Além disso, ele precisa \ncomprar 2 rolos de linha, cada um custando R$ \n31,80. Quanto Eduardo gastará no total?",
+            "alternativas": {
+                "A": "R$ 44,30",
+                "B": "R$ 256,80",
+                "C": "R$ 225,00",
+                "D": "R$ 63,60",
+                "E": "R$ 288,60"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: 1 \nMaria e João estão organizando um evento e \ndecidiram dividir as tarefas. A soma da idade de \nMaria e João é 50 anos. Se a idade de Maria é o \ntriplo da idade de João, quantos anos cada um \ndeles tem?",
+            "alternativas": {
+                "A": "Maria tem 30 anos e João tem 20 anos",
+                "B": "Maria tem 25 anos e João tem 25 anos",
+                "C": "Maria tem 15 anos e João tem 35 anos",
+                "D": "Maria tem 20 anos e João tem 30 anos",
+                "E": "Maria tem 35 anos e João tem 15 anos"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: 2 \nUma loja está oferecendo uma promoção: \ncompre 3 produtos e pague apenas 2. Cada \nproduto custa R$ 19,99. Se Maria comprar 6 \nprodutos, qual será o total a pagar?",
+            "alternativas": {
+                "A": "R$ 39,98",
+                "B": "R$ 119,94",
+                "C": "R$ 79,96",
+                "D": "R$ 69,96",
+                "E": "R$ 99,95  Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                 Página 6 de 10 QUESTÃO 2 3 \nAndré está controlando seus gastos mensais. Se \nele gastou 20% do seu salário de R$ 2.500,00 em \nalimentação, quanto ele gastou nessa categoria?  \n \n(A) R$ 500,00  \n(B) R$ 400,00  \n(C) R$ 300,00  \n(D) R$ 600,00  \n(E) R$ 2.000,00"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: 4 \nUma loja de produtos de higiene está com uma \npromoção: compre 3 itens e pague apenas 2. \nCada item custa R$ 5,99. Se Marcos comprar 9 \nitens, qual será o total a pagar?",
+            "alternativas": {
+                "A": "R$ 17,97",
+                "B": "R$ 23,96",
+                "C": "R$ 35,94",
+                "D": "R$ 53,91",
+                "E": "R$ 11,98"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Assinale a alternativa que apresenta o Vigésimo \nterceiro número par sucessor de 86:",
+            "alternativas": {
+                "A": "122",
+                "B": "126",
+                "C": "130",
+                "D": "132",
+                "E": "136"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Assinale a alternativa que apresenta o Trigésimo \nnúmero ímpar antecessor de 777:",
+            "alternativas": {
+                "A": "698",
+                "B": "717",
+                "C": "710",
+                "D": "747",
+                "E": "727  \n QUESTÃO 27 \nUma loja vendeu 18 camisetas vermelhas, 25 \ncamisetas azuis e 14 camisetas verdes. Se cada \ncamiseta vermelha custa R$ 20,30 cada camiseta \nazul custa R$ 25,77 e cada camiseta verde custa \nR$ 18,57 qual é o valor total arrecadado pela \nloja?  \n \n(A) R$ 1270,63  \n(B) R$ 1269,63  \n(C) R$ 1398,15  \n(D) R$ 1262,71  \n(E) R$ 1212,31"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Maria decidiu poupar dinheiro colocando R$ \n0,75 em um cofre todos os dias. Ela guardou esse \nvalor todos os dias durante 77 dias antes de \ndecidir abrir o cofre. Qual é o valor total que \nMaria encontrará dentro do cofre?",
+            "alternativas": {
+                "A": "R$ 25,75",
+                "B": "R$ 50,75",
+                "C": "R$ 57,75",
+                "D": "R$ 58,25",
+                "E": "R$ 59,25"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Fernanda adquiriu um pacote contendo 80 \ncanetas por um total de R$ 314,40. Qual é o custo \nunitário de cada caneta?\"",
+            "alternativas": {
+                "A": "R$ 3,93",
+                "B": "R$ 4,20",
+                "C": "R$ 2,50",
+                "D": "R$ 3,00",
+                "E": "R$ 4,50"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Um jardim retangular tem 15 metros de \ncomprimento e 12 metros de largura. Qual é a \nárea total do jardim em metros quadrados?",
+            "alternativas": {
+                "A": "160 m²",
+                "B": "180 m²",
+                "C": "200 m²",
+                "D": "220 m²",
+                "E": "240 m²  \n \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                 Página 7 de 10 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: 1 \nTécnicas de comunicação referem -se a métodos \nespecíficos ou estratégias utilizadas para \ntransmitir informações de maneira eficaz e \ncompreensível. Neste sentido, pode -se afirmar \nque são técnicas comuns em comunicação:  \nI - Clareza e Concisão: Expressar as ideias de \nforma clara e direta, evitando ambiguidades e \ninformações desnecessárias.  \nII - Escuta Ativa: Prestar atenção total ao \ninterlocutor, demonstrando interesse e \ncompreensão por meio de perguntas, gestos e \nrespostas apropriadas.  \nIII - Uso de Linguagem Acessível: Adaptar a \nlinguagem ao público -alvo, fazendo o uso \njargões desnecessários e linguagem complexa.",
+            "alternativas": {
+                "A": "I e III, apenas.",
+                "B": "I e II, apenas.",
+                "C": "II e III, apenas.",
+                "D": "I, II e III.",
+                "E": "Nenhuma das afirmativas estão corretas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Na comunicação, os termos \"emissor\" e \n\"receptor\" referem -se a diferentes papéis \ndesempenhados pelas pessoas envolvidas no \nprocesso comunicativo.  Nesse contexto, indique \na alternativa que contenha corretamente o \nconceito de emissor :",
+            "alternativas": {
+                "A": "O emissor não precisa se preocupar com a \nclareza da mensagem, já que o receptor deve \ninterpretar corretamente por conta própria.",
+                "B": "O emissor não tem influência na forma como \na mensagem é interpretada pelo receptor.",
+                "C": "O emissor não desempenha um papel ativo \nna adaptação da mensagem ao público -alvo.",
+                "D": "O emissor é aquele que inicia o processo de \ncomunicação, formulando e transmitindo uma \nmensagem.",
+                "E": "O emissor não precisa considerar o contexto \nou a situação ao formular e transmitir uma \nmensagem.  QUESTÃO 33  \nNa comunicação, os termos \"emissor\" e \n\"receptor\" referem -se a diferentes papéis \ndesempenhados pelas pessoas envolvidas no \nprocesso comunicativo.  Nesse contexto, indique \na alternativa que contenha corretamente o \nconceito de receptor : \n(A) O receptor não precisa prestar atenção à \ncomunicação não verbal, pois a mensagem \nprincipal está sempre nas palavras faladas.  \n(B) O receptor não tem responsabilidade na \ninterpretação da mensagem; é inteiramente \nresponsabilidade do emissor garantir \ncompreensão.  \n(C) O receptor pode ser uma pessoa individual, \num grupo de pessoas ou até mesmo o público em \ngeral, dependendo do contexto da comunicação.  \n(D) O receptor não deve fazer perguntas ou \nbuscar esclarecimentos, já que isso seria sinal de \nfalha do emissor na transmissão da mensagem.  \n(E) O receptor não precisa considerar o contexto \nda mensagem, pois a informação deve ser \ncompreendida independentemente da situação \nem que é apresentada."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: O uso do correio eletrônico (e -mail) e da internet \ndesempenha várias funções essenciais em \nambientes pessoais, profissionais e acadêmicos. \nAcerca do uso do correio do eletrônico, é \nincorreto afirmar:",
+            "alternativas": {
+                "A": "Comunicação rápida e eficiente.",
+                "B": "Pesquisa online através de navegador.",
+                "C": "Troca de informações profissionais.",
+                "D": "Agendamento e confirmação de \ncompromissos.",
+                "E": "Troca de documentos anexos.  \n \n \n \n \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                 Página 8 de 10 QUESTÃO 35  \nAinda sobre as técnicas de comunicação, analise \nas afirmações:  \nI - O ruído de comunicação refere -se a qualquer \ninterferência, distorção, obstáculo ou fator que \nafeta negativamente a clareza, precisão ou \ncompreensão de uma mensagem durante o \nprocesso de comunicação.  \nII - Esse \"ruído\" pode ocorrer em vários pontos \ndo processo de comunicação e pode ter diferentes \nformas.  \n(A) A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.  \n(B) A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.  \n(C) As asserções I e II são proposições \nverdadeiras, e a II é uma justificativa da I.  \n(D) As asserções I e II são proposições falsas.  \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é uma justificativa da I."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: O conceito de relações humanas no trabalho \nrefere -se ao estudo e à compreensão das \ninterações sociais, emocionais e psicológicas \nentre as pessoas no ambiente de trabalho. Neste \nsentido, analise atentamente:  \n( ) As relações humanas no trabalho são \nfundamentadas na comunicação eficaz.  \n( ) Relações humanas saudáveis promovem a \ncolaboração e o trabalho em equipe.  \n( ) Líderes que reconhecem a importância das \nrelações humanas muitas vezes adotam \nabordagens de liderança participativa.  \nIndique “V” para verdadeiro e “F” para falso.",
+            "alternativas": {
+                "A": "V, V, F.",
+                "B": "F, F, V.",
+                "C": "F, V, F.",
+                "D": "V, V, V.",
+                "E": "F, F, F.  \n QUESTÃO 37  \nLeia atentamente as afirmações a seguir:  \nI - É um conjunto organizado de documentos, \nregistros ou informações, armazenado de forma \nsistemática e acessível para fins de consulta, \npesquisa, preservação e referência.  \nII – São métodos e procedimentos utilizados para \norganizar e armazenar documentos de maneira \neficiente e acessível. São essenciais para facilitar \na recuperação rápida e precisa de informações \nquando necessário.  \nAgora, assinale a alternativa correta acerca dos \nconceitos apresentados.  \n(A) A afirmativa I, refere -se ao arquivo e a \nafirmativa II, refere -se as técnicas de \narquivamento.  \n(B) A afirmativa I, refere -se as técnicas de \narquivamento e a afirmativa II, refere -se ao \narquivo.  \n(C) Ambas as afirmativas se referem ao arquivo.  \n(D) Ambas as afirmativas se referem as técnicas \nde arquivamento.  \n(E) Nenhuma das afirmativas se referem -se a \narquivos ou técnicas de arquivamento."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Analise as imagens a seguir:  \n1. 2. \n  \nAssinale a alternativa que contenha uma \nafirmação correta.",
+            "alternativas": {
+                "A": "A imagem 1, representa o MS -Excel.",
+                "B": "A imagem 1, representa o MS -PowerPoint.",
+                "C": "A imagem 2, representa o MS -Word.",
+                "D": "A imagem 2, representa o MS -PowerPoint.",
+                "E": "Nenhumas das imagens representam o MS -\nPowerPoint.  \n \nPrefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                 Página 9 de 10 QUESTÃO 39  \nA redação de documentos oficiais é uma prática \nfundamental no contexto administrativo e \nburocrático, sendo essencial para a comunicação \nclara e formal no âmbito governamental, \ninstitucional e corporativo. Diante desse \ncontexto, analise as alternativas e as sinale a que \npossui um conceito incorreto.  \n(A) Um relatório é um documento que apresenta \ninformações detalhadas sobre uma situação, \npesquisa, projeto ou atividade.  \n(B) O ofício é um documento utilizado para \ncomunicação formal entre órgãos, instituições ou \nautoridades.  \n(C) O aviso é uma comunicação breve, utilizada \npara transmitir informações importantes de \nforma rápida e direta.  \n(D) A ata registra de forma oficial as \ndeliberações, decisões e eventos ocorridos em \nreuniões ou assembleias.  \n(E) Um Ofício não possui uma estrutura \npadronizada, com cabeçalho, identificação do \ndestinatário, referência e texto principal.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 40  \nO atendimento telefônico é uma parte essencial \nda comunicação empresarial e pode impactar \nsignificativamente a experiência do cliente. \nDiante do contexto apresentado, analise:  \nI - Manter um tom de voz profissional e cortês é \nfundamental. Isso cria uma imagem positiva e \ncontribui para a confiança do cliente.  \nII - Atender prontamente as chamadas e resolver \nas consultas dos clientes de maneira eficiente \ntransmite a mensagem de que o tempo deles é \nvalorizado.  \n(A) A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.  \n(B) A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.  \n(C) As asserções I e II são proposições \nverdadeiras, e a II é uma justificativa da I.  \n(D) As asserções I e II são proposições falsas.  \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é uma justificativa da I.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                 Página 10 de 10"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Com a leitura da charge, pode -se concluir que:",
+            "alternativas": {
+                "A": "Calvin não pode compreender matemática por não ter fé.",
+                "B": "Calvin não compreende a resolução dos cálculos matemáticos.",
+                "C": "Para Calvin, a matemática só funciona para ateus.",
+                "D": "Haroldo não concorda com a opinião de Calvin.",
+                "E": "Calvin e Haroldo têm crenças que não permitem entender a matemática.  \n \nPrefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                Página 3 de 10 QUESTÃO 02 \nEm “Essas equações todas são como milagres ”, \nno segundo quadrinho da charge, ocorre uma \nfigura de linguagem de:  \n(A) metonímia.  \n(B) metáfora.  \n(C) comparação.  \n(D) elipse.  \n(E) sinestesia."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: No terceiro quadrinho da charge, a palavra \n“portanto”  introduz uma:",
+            "alternativas": {
+                "A": "conclusão.",
+                "B": "adição.",
+                "C": "condição.",
+                "D": "concessão.",
+                "E": "oposição."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: O advérbio “magicamente” , que ocorre no \nsegundo quadrinho da charge, exprime uma \ncircunstância de:",
+            "alternativas": {
+                "A": "lugar.",
+                "B": "tempo.",
+                "C": "possibilidade.",
+                "D": "modo.",
+                "E": "restrição."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Assinale a alternativa em que o verbo está \nconjugado na terceira pessoa do plural.",
+            "alternativas": {
+                "A": "Fez duas tortas e um bolo para o aniversário.",
+                "B": "Fizestes boa viagem?",
+                "C": "Comprei um vaso de flores para a minha mãe.",
+                "D": "Comuniquem a todos sobre a reunião.",
+                "E": "Não é de seu interesse este tipo de trabalho.  \n QUESTÃO 06 \nOcorre linguagem figurada apenas em:  \n(A) Os dias têm sido mais quentes neste verão.  \n(B) Estava morrendo de saudade.  \n(C) Quebrou o pé ao cair da escada.  \n(D) A radiação solar pode ser prejudicial à saúde.  \n(E) Vejam quantos animais exóticos há neste \nzoológico."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Em qual das sentenças a seguir o pronome em \ndestaque é do tipo demonstrativo?",
+            "alternativas": {
+                "A": "Não sabe o quanto  fiquei feliz em revê -la.",
+                "B": "Tudo  isso ainda é pouco para mim.",
+                "C": "Somos responsáveis pelas nossas vidas.",
+                "D": "Aqueles  que se mostrarem humildes terão \nboas recompensas da vida.",
+                "E": "Os jovens que precisarem de ajuda devem \nacionar os professores."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Avalie o emprego do acento indicador de crase \nnas sentenças a seguir e assinale a alternativa em \nque se verifica incorreção.",
+            "alternativas": {
+                "A": "Essas propostas estão relacionadas às suas \nexpectativas.",
+                "B": "O inspetor dedicou seu discurso às \nprofessoras do colégio.",
+                "C": "Os alunos fazem suas redações à mão.",
+                "D": "Fomos às pressas para o pronto -socorro.",
+                "E": "Disse à mim que não queria mais saber de \nfestas.  \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                Página 4 de 10 QUESTÃO 09 \nAs concordâncias verbal e nominal estão corretas \napenas em:  \n(A) A primeira e a segunda aula não cobra \npresença dos alunos.   \n(B) Parecem sujas as toalhas e os guardanapos.   \n(C) Achei muito legal seu pai e sua mãe.   \n(D) É necessário a sua assinatura neste \ndocumento.   \n(E) Deixaremos o salão e a cozinha o mais limpo \npossíveis."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: 0 \nTodas as alternativas a seguir apresentam pares \nde palavras sinônimas, exceto :",
+            "alternativas": {
+                "A": "petulância - ousadia .",
+                "B": "tempestivo  - oportuno.",
+                "C": "cético - crédulo.",
+                "D": "reverência - mesura .",
+                "E": "intransigência - austeridade . \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: 1 \nUm ônibus possui 10 fileiras de assentos, e cada \nfileira pode acomodar até 4 passageiros. Quantos \npassageiros o ônibus pode transportar ao todo?",
+            "alternativas": {
+                "A": "36 passageiros",
+                "B": "40 passageiros",
+                "C": "44 passageiros",
+                "D": "48 passageiros",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Lucas está organizando uma viagem e vai alugar \num barco por 6 dias. Se o aluguem tem início na \nsexta -feira, em que dia da semana ele terminará \no aluguel?",
+            "alternativas": {
+                "A": "Segunda -feira",
+                "B": "Terça -feira",
+                "C": "Quarta -feira",
+                "D": "Quinta -feira",
+                "E": "Sexta -feira \n QUESTÃO 13  \nConsidere a sequência: A, 7, B, 14, C, 21, (...). \nQual é o 10º termo dessa sequência?  \n \n(A) 28  \n(B) D  \n(C) 35  \n(D) E  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Em uma padaria, uma pessoa compra quatro \nbrigadeiros e três bolos, gastando no total R$ \n50,00. Se o preço de um brigadeiro é \ndesconhecido e o preço de um bolo é de R$ 6,00, \nqual é o preço de um brigadeiro?",
+            "alternativas": {
+                "A": "R$ 5,00",
+                "B": "R$ 7,00",
+                "C": "R$ 8,00",
+                "D": "R$ 10,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Em uma loja de móveis, uma mesa está com um \ndesconto de 15% sobre o preço original de R$ \n800,00. Qual é o preço da mesa com o desconto \naplicado?",
+            "alternativas": {
+                "A": "R$ 680,00",
+                "B": "R$ 700,00",
+                "C": "R$ 720,00",
+                "D": "R$ 750,00",
+                "E": "Nenhuma das alternativas  \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                Página 5 de 10 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Ao manipular arquivos no Prompt de Comando \ndo Windows, para exibir o conteúdo de arquivos \nde texto diretamente na tela do Prompt, deve -se \nutilizar o comando:",
+            "alternativas": {
+                "A": "Open.",
+                "B": "Exit.",
+                "C": "List.",
+                "D": "Format.",
+                "E": "Type."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Considerando os programas e aplicativos que \nestão presentes no Sistema Operacional \nWindows, qual dos elementos listados abaixo \nestá associado a segurança de rede, \nproporcionando a proteção do computador contra \nacessos não autorizados:",
+            "alternativas": {
+                "A": "Windows Blok.",
+                "B": "Windows Restrit.",
+                "C": "Windows Firewall.",
+                "D": "Windows Linux.",
+                "E": "Windows Online."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Com relação às definições de marcadores no \nMicrosoft Word, pode -se afirmar corretamente \nque:",
+            "alternativas": {
+                "A": "Os marcadores apresentam alinhamento \ncentralizado fixo, não permitindo alteração do \nusuário.",
+                "B": "Os marcadores apresentam alinhamento à \ndireita, não permitindo alteração do usuário.",
+                "C": "Os marcadores são informações \nexclusivamente numéricas nos textos \ndesenvolvidos no Microsoft Word.",
+                "D": "Os marcadores devem ficar localizados ao \nlado da paginação do texto.",
+                "E": "É possível inserir imagens como marcadores \nno texto desenvolvido no Microsoft Word.  QUESTÃO 19  \nAo editar e formatar textos no Microsoft Word, \npara dividir a janela do documento possibilitando \na leitura de duas partes diferentes do texto, pode -\nse utilizar o comando:  \n(A) Ctrl+Alt+S.  \n(B) Ctrl+Alt+C.  \n(C) Ctrl+Alt+T.  \n(D) Ctrl+O.  \n(E) Ctrl+U."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Um e -mail geralmente consiste em três partes \nprincipais: O cabeçalho, corpo e os anexos.  \nSobre o uso dos correios eletrônicos é incorreto \nafirmar que:",
+            "alternativas": {
+                "A": "Existem vários provedores de e -mails que \npodem ser usados.",
+                "B": "O e -mail funciona através de protocolos \ncomo SMTP.",
+                "C": "Os arquivos com extensão .DOCX não \npodem ser anexados nos e -mails, por serem \nconsiderado de alto risco.",
+                "D": "Ao transformar o conteúdo de um anexo em \narquivo .ZIP, o tamanho desse conteúdo será \nreduzido.",
+                "E": "Recomenda -se que o usuário de e -mail \nmantenha seu software antivírus atualizado.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: O profissional, no âmbito de suas atribuições \ndeverá desenvolver boas técnicas de \ncomunicação. Portanto, é correto dizer que o \nprofissional deverá, exceto:",
+            "alternativas": {
+                "A": "Se expressar de forma clara e objetiva, tendo \nem vista ser dispensável para uma boa \ncomunicação.",
+                "B": "Saber ouvir com atenção o outro lado, para \nassim conseguir compreender o quanto \nsolicitado.",
+                "C": "Tornar a comunicação mais acessível, \nevitando a utilização de linguagem técnica \ndesnecessária.",
+                "D": "Prestar o atendimento de forma empática, se \ncolocando no lugar do outro, entendendo suas \nnecessidades.",
+                "E": "Se comunicar de forma não verbal, \nreforçando a mensagem verbal.  \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                Página 6 de 10 QUESTÃO 22  \nAssinale a alternativa em que não se refere à boa \nqualidade no atendimento ao público.  \n(A) Iniciar a conversa com uma atitude amigável \ne prestativa;  \n(B) Ser proativo.  \n(C) Durante o atendimento, não atender \ntelefonemas ou o seu celular.  \n(D) Realizar o atendimento de modo \npadronizado.  \n(E) Ter paciência ao ouvir a pessoa, não a \ninterrompendo bruscamente."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Em relação as formas de atendimento ao público \ne ao telefone, análise os itens a seguir e assinale \n(V) para verdadeiro e (F) para falso.  \n(  ) Procure ter à mão tudo o que você precisa, \ncomo caneta, papel e relação de ramais.  \n(  )  O telefone da instituição deve ser utilizado \npara assuntos de cunho profissional e pessoal.  \n(  ) Mantenha a comunicação não verbal, por \nexemplo, fale pegando nas pessoas.  \n( ) Evite o jogo da responsabilidade, se esforce \npara resolver o problema da pessoa.",
+            "alternativas": {
+                "A": "V – F – V – V.",
+                "B": "V – F - F – V.",
+                "C": "V – V – F – V.",
+                "D": "V – V – V – V.",
+                "E": "V – F – V – F."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: A assiduidade do profissional está relacionada \nà(ao), exceto:",
+            "alternativas": {
+                "A": "Dedicação do colaborador em desempenhar \na sua função.",
+                "B": "Manter uma frequência consistente, evitando \nausências e faltas injustificadas.",
+                "C": "Pontualidade.",
+                "D": "Compromisso e cumprimento com o que foi \nacordado.",
+                "E": "Presença física, apenas.  \n \n \n \n QUESTÃO 25  \nAcerca da disciplina na execução dos trabalhos é \ncorreto afirmar, exceto:  \n(A) Menor será a dispersão e foco no \ndesempenho das tarefas, quando não se tem \nclareza do que é prioridade.  \n(B) É preciso focar naquilo que é crucialmente \nimportante.  \n(C) Quando se tem claro qual é a meta de maior \nimportância, as chances de sucesso são maiores.  \n(D) É necessário assumir os compromissos para \na produção de resultados.  \n(E) Ter o conhecimento dos resultados e esforços \npossibilita o entendimento do que precisa ser \nfeito para alcançar a meta."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: No que tange às relações humanas no ambiente \nde trabalho, analise os itens a seguir e, ao final, \nassinale a alternativa correta.  \nI – É dispensável, pois criam conexões \ninterpessoais sólidas e um ambiente de trabalho \nonde os funcionários se sentem valorizados.  \nII – Tem por objetivo cultivar a empatia e a \ncompreensão mútua entre os funcionários.  \nIII – Estimula a diversidade e a inclusão dentro \ndas empresas.",
+            "alternativas": {
+                "A": "Apenas o item I está correto.",
+                "B": "Apenas o item II está correto.",
+                "C": "Apenas o item III está correto.",
+                "D": "Apenas os itens I e II estão corretos.",
+                "E": "Apenas os itens II e III estão corretos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: É correto afirmar que a primeira etapa do \nprotocolo é a(o):",
+            "alternativas": {
+                "A": "Classificação.",
+                "B": "Recebimento.",
+                "C": "Registro.",
+                "D": "Autuação.",
+                "E": "Distribuição.  Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                Página 7 de 10 QUESTÃO 28  \nO método de arquivamento de documentos que \ndepende da interpretação dos documentos sob \nanálise e conhecimento das atividades \ninstitucionais, que pode ser apresentado \nalfabética ou numericamente é o?  \n(A) Alfabético.  \n(B) Numérico.  \n(C) Geográfico.  \n(D) Sintético.  \n(E) Ideográfico."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: No que tange a classificação das \ncorrespondências é correto afirmar:",
+            "alternativas": {
+                "A": "A correspondência oficial é de interesse do \nseu diretor.",
+                "B": "A correspondência urgente tem \nprocessamento dentro do fluxo normal diário de \ntrabalho.",
+                "C": "A correspondência comum, quanto ao seu \nsigilo tem o  conhecimento limitado a um número \nde pessoas.",
+                "D": "A correspondência oficial não deverá ser \naberta quando o envelope contiver indicações de: \nconfidencial, reservado, particular ou \nequivalente.",
+                "E": "A correspondência secreta pode ser de \nconhecimento de todos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: No que tange à Redação Oficial, analise os itens \na seguir e, ao final, assinale a alternativa correta.  \nI – Às comunicações oficiais deve ser dado \ntratamento pessoal.  \nII – Os documentos oficiais devem permitir uma \núnica interpretação.  \nIII – O texto oficial deve ser redundante e difuso.",
+            "alternativas": {
+                "A": "Apenas o item I está correto.",
+                "B": "Apenas o item II está correto.",
+                "C": "Apenas o item III está correto.",
+                "D": "Apenas os itens I e II estão corretos.",
+                "E": "Apenas os itens II e III estão corretos.  \n \n \n QUESTÃO 31  \nO documento com transcrição de ato ou fato que \nse encontra em registros/cadastros da \nAdministração Pública, revestido de \nformalidades legais, fornecido por autoridade \ncompetente a pedido do interessado e pode servir \nde prova de ato jurídico é o(a):  \n(A) Circular.  \n(B) Despacho.  \n(C) Atestado.  \n(D) Ata.  \n(E) Certidão."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Entende -se como Circular:",
+            "alternativas": {
+                "A": "Documento expedido exclusivamente por \nMinistros de Estado, para autoridades de mesma \nhierarquia.",
+                "B": "Documento em que se afirma a veracidade de \ncerto fato ou a existência de obrigação.",
+                "C": "Documento utilizado pelas diversas unidades \nadministrativas da Prefeitura, para se \ncomunicarem, com a finalidade de encaminhar \ndocumentos, transmitir informações, fazer \nsolicitações e outros assuntos.",
+                "D": "Documento com mensagem de caráter \nuniforme, endereçada a diversos destinatários, \npara transmitir avisos, ordens ou instruções.",
+                "E": "Documento pelo qual se faz uma convocação, \npede -se o comparecimento de alguém ou solicita -\nse sua presença em alguma parte ou em ato.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                Página 8 de 10 QUESTÃO 33  \nConstitui serviço postal o recebimento, \nexpedição, transporte e entrega de objetos de \ncorrespondência, valores e encomendas. Assim, \né correto afirmar que compreendem a objeto de \ncorrespondência e serviço postal relativo a \nvalores, respectivamente:  \n(A) carta e remessa de ordem de pagamento por \nmeio de vale -postal.  \n(B) carta e cecograma.  \n(C) cartão -postal e impresso de carta com valor \ndeclarado.  \n(D) pequena -encomenda e cecograma.  \n(E) remessa de dinheiro através de carta com \nvalor declarado e impresso."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Em relação a utilização da copiadora, análise os \nitens a seguir e assinale (V) para verdadeiro e (F) \npara falso.  \n(  ) A copiadora não é capaz de reproduzir \narquivo misto, com combinação de imagens e \ntextos, por exemplo.  \n(  )  Não é recomendado ventilar e abanar o papel \nantes de colocar na copiadora, uma vez que pode \nhaver excesso de atolamento.  \n(  ) É importante evitar usar pulseira, anel ou \nrelógio na mão que for remover o papel atolado.",
+            "alternativas": {
+                "A": "V – F – F.",
+                "B": "V  – F – V.",
+                "C": "F – V – F.",
+                "D": "F – F – V.",
+                "E": "F – F – F."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: O telefone de emergência para a Central de \nAtendimento à Mulher é o:",
+            "alternativas": {
+                "A": "199.",
+                "B": "115.",
+                "C": "180.",
+                "D": "190.",
+                "E": "100.  \n \n \n QUESTÃO 36  \nPoderá ser realizado o registro no livro de \ncorrespondências:  \n(A) Documentos oficiais particulares.  \n(B) Documentos oficiais ostensivos.  \n(C) Documentos oficiais confidenciais.  \n(D) Documentos oficiais sigilosos.  \n(E) Documentos oficiais expressos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Acerca do sistema de PABX é correto afirmar, \nexceto:",
+            "alternativas": {
+                "A": "É possível encaminhar ligações para ramais \nque não possui vínculo na rede interna.",
+                "B": "É uma central telefônica.",
+                "C": "O direcionamento das chamadas externas \npara os ramais oferece mais eficiência e rapidez \nno atendimento das demandas.",
+                "D": "Tem a possibilidade de comunicação interna \nentre ramais.",
+                "E": "É possível fazer transferência de ligações \nentre os ramais."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Acerca do uso do correio de voz é correto \nafirmar, exceto:",
+            "alternativas": {
+                "A": "Possibilita que o cliente sempre seja ouvido, \nainda que não haja o atendimento da ligação.",
+                "B": "A mensagem de voz precisa ser clara e \nobjetiva.",
+                "C": "Não é ideal citar o nome da empresa na \nmensagem de voz.",
+                "D": "Transferir a ligação para outro ramal que \nesteja disponível, faz com que o cliente não \nnecessite deixar o recado no correio de voz.",
+                "E": "A mensagem de voz ideal só vai ser \nalcançada por meio de uma comunicação clara de \nambas as partes.  \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                Página 9 de 10 QUESTÃO 39  \nNo que tange à imagem profissional, analise os \nitens a seguir e, ao final, assinale a alternativa \ncorreta.  \nI – A imagem profissional é um forte instrumento \nde comunicação.  \nII – A imagem profissional consiste em um \nconjunto de qualidades que representam as \ncompetências e a personalidade de uma pessoa.  \nIII – A imagem profissional não está \ncondicionada à pontualidade do indivíduo.  \n(A) Apenas o item I está correto.  \n(B) Apenas o item II está correto.  \n(C) Apenas o item III está correto.  \n(D) Apenas os itens I e II estão corretos.  \n(E) Apenas os itens II e III estão corretos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: No que tange ao sigilo profissional é correto \nafirmar, exceto:",
+            "alternativas": {
+                "A": "O sigilo profissional trata de uma informação \na ser protegida.",
+                "B": "O sigilo profissional obriga o trabalhador a \nnão divulgar estratégia e planos da empresa.",
+                "C": "O trabalhador, cujo cargo exija sigilo e \ndiscrição, tem a faculdade de guardar tal \ninformação confidencial.",
+                "D": "O sigilo profissional está relacionado com a \nprópria atividade profissional.",
+                "E": "A ética na vida profissional contribui para o \nbom funcionamento da organização.  \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nTELEFONISTA                                                                                                                                                Página 10 de 10"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: Assinale a alternativa que a autora induz o \npensamento de que somente no reino da \nfantasia poderiam existir coisas eternas:",
+            "alternativas": {
+                "A": "Peguei a pequena pastilha cor-de-rosa que \nrepresentava o elixir do longo prazer.",
+                "B": "“[...] parecia-se ter sido transportada para \no reino de histórias de príncipes e fadas [...]”.",
+                "C": "E eis-me com aquela coisa cor-de-rosa, de \naparência tão inocente, tornando possível o \nmundo impossível do qual já começara a me \ndar conta.",
+                "D": "Jamais esquecerei o meu aflitivo e \ndramático contato com a eternidade.",
+                "E": "Eu que, como outras crianças, às vezes \ntirava da boca uma bala ainda inteira, para \nchupar depois, só para fazê-la durar mais.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 3 de 16QUESTÃO 02\n“Peguei a pequena pastilha cor-de-rosa que \nrepresentava o elixir do longo prazer [...]”.\nA palavra destacada no trecho, acima, pode \nser substituída sem perder seu sentido no \ntexto, por:\n(A) poção.\n(B) xarope.\n(C) algo muito saboroso.\n(D) algo milagroso.\n(E) algo que tudo cura."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: Assinale a alternativa que se contrapõe ao \ntexto:",
+            "alternativas": {
+                "A": "Clarice Lispector traz para os leitores o \nrelato breve de seu primeiro contato com o \nchiclete.",
+                "B": "Para a sua construção, a autora utiliza-se de \ndiversas figuras de linguagem",
+                "C": "A crônica que faz uma reflexão a respeito \nde um dos maiores medos da humanidade, que \né a morte.",
+                "D": "Induz o leitor a refletir a respeito da \neternidade, algo complexo para a mentalidade \nfinita do ser humano.",
+                "E": "A crônica apresenta um narrador, em \n3ª pessoa, que conta as memórias de uma \nsituação vivida na infância.QUESTÃO 04\nAssinale a alternativa correta, em relação às \norações, abaixo, quanto ao seu processo de \nformação de palavras:\nI-Aquela moça tem um andar charmoso. \n(regressiva).\nII – Voltamos ao entardecer (prefixal e sufixal)\nIII- O sim da noiva espalhou-se por toda a \nigreja (imprópria)\nIV- Infelizmente, não fomos à inauguração da \npraça. (parassintética)\nV- Tempero salada com bastante vinagre. \n(aglutinação)\n(A) Apenas a I, II e III estão corretas.\n(B) Apenas a II e IV estão corretas.\n(C) Apenas a III e V estão corretas.\n(D) Apenas a I, III e V estão corretas.\n(E) Apenas a III e IV estão corretas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: Indique a alternativa em que há erro de \ncolocação pronominal.",
+            "alternativas": {
+                "A": "Alguém percebeu-o muito agitado e \nnervoso.",
+                "B": "Ninguém lhe emprestou o livro.",
+                "C": "Nada me impedia de seguir em frente.",
+                "D": "Isso foi tudo o que lhe disse.",
+                "E": "Nunca lhe negaram nada,Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 4 de 16QUESTÃO 06\nCom relação aos substantivos coletivos, analise os itens a seguir e, ao final, assinale a alternativa \ncorreta: \nI – bactérias /colônia. \nII – burros /burricada. \nIII – cães / cáfila. \n(A) Apenas o item I é verdadeiro. \n(B) Apenas o item II é verdadeiro. \n(C) Apenas o item III é verdadeiro. \n(D) Apenas os itens I e II são verdadeiros. \n(E) Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: Com relação ao correto uso da crase, analise os itens a seguir e, ao final, assinale a alternativa correta: \nI – Nós vamos àquele restaurante hoje. \nII – Chegaram após às 20h. \nIII – Eles escrevem à lápis.",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro.",
+                "B": "Apenas o item II é verdadeiro.",
+                "C": "Apenas o item III é verdadeiro.",
+                "D": "Apenas os itens II e III são verdadeiros.",
+                "E": "Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: Assinale a alternativa onde há erro quanto à concordância verbal:",
+            "alternativas": {
+                "A": "Choveram pedidos de emprego, no último comício.",
+                "B": "Deve existir possibilidades para o regresso do professor.",
+                "C": "Foi uma grande surpresa, pois já fazia três anos que não o via.",
+                "D": "Não poderia haver discordâncias entre os irmãos.",
+                "E": "O chefe ou o secretário viajará para a conferência anual.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 5 de 16"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: Analise as placas, abaixo, e assinale a alternativa correta, quanto à concordância nominal:\nI- \n       \n                                                                                                         II-\nIII -",
+            "alternativas": {
+                "A": "Apenas a I está correta.",
+                "B": "Apenas a II está correta.",
+                "C": "Apenas a III está correta.",
+                "D": "Apenas a I e III estão corretas.",
+                "E": "Apenas a II e III estão corretas.\nPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 6 de 16QUESTÃO 10\nConsiderando o quadrinho, abaixo, pode-se afirmar que há um erro de:\n(A) regência nominal.\n(B) regência verbal.\n(C) concordância verbal.\n(D) concordância nominal.\n(E) colocação pronominal.\nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: Altino emprestou para Siqueira a importância de R$1.200,00, e cobrou juros simples mensal de 15%. \nSiqueira pagou, em seis meses. O valor do juros em relação à importância emprestada, inicialmente, \npor Altino representa:",
+            "alternativas": {
+                "A": "50%",
+                "B": "60%",
+                "C": "70%",
+                "D": "80%",
+                "E": "90%\nPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 7 de 16QUESTÃO 12\n{4x+10y=46\nx+y=10 \n{x-y=8\n6x+zy=10\nDados os sistemas de equações, acima, o valor da incógnita z para que esses sistemas tenham soluções \niguais é:\n(A) -42\n(B) 40\n(C) -44\n(D) 48\n(E) -46"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: Em um estádio de futebol compareceram 1200 torcedores, dos quais 40% eram torcedores do time A \ne os demais torcedores do time B. Parte dos torcedores foram expulsos por má conduta, sendo 20% \ntorcedores do time A e x% do time B. Se, do número total de torcedores, 11% foram expulsos, o valor \nde x é",
+            "alternativas": {
+                "A": "2.",
+                "B": "3.",
+                "C": "4.",
+                "D": "5.",
+                "E": "6."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: Bento comprou algumas revistas de automobilismo e outras de arquitetura, num total de 36 revistas. \nSe a razão entre as revistas de automobilismo e as de arquitetura, respectivamente, foi de 2/7, logo, o \nnúmero de revistas de arquitetura compradas foi",
+            "alternativas": {
+                "A": "30.",
+                "B": "28.",
+                "C": "24.",
+                "D": "32.",
+                "E": "26. Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 8 de 16QUESTÃO 15\nAs mesadas de Bartolomeu e Pitágoras estão entre si assim como 5 está para 8. Se o quádruplo da \nmesada de Bartolomeu menos a quarta parte da mesada de Pitágoras equivale a R$180,00, então as \nmesadas dos sois totalizam:\n(A) R$130,00\n(B) R$210,00\n(C) R$150,00\n(D) R$170,00\n(E) R$220,00"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Aldimar e Ademir trabalham juntos de três em três dias, Aldimar e Rivaldo trabalham juntos de cinco \nem cinco dias e Aldimar e Ismael trabalham juntos de dez em dez dias. Hoje os quatro trabalharam \njuntos. A próxima vez em que todos irão trabalhar juntos, novamente, será daqui a",
+            "alternativas": {
+                "A": "25 dias.",
+                "B": "30 dias.",
+                "C": "20 dias.",
+                "D": "28 dias.",
+                "E": "15 dias."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: 9,3 dm equivalem a:",
+            "alternativas": {
+                "A": "0,0093 hm.",
+                "B": "0,093 hm.",
+                "C": "0,93 hm.",
+                "D": "93 hm.",
+                "E": "930 hm."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Uma determinada loja comercializa aparelhos celulares nos valores entre R$ 1.250,00 e R$ 4.800,00. \nAproveitando as festas de fim de ano, a proprietário decidiu lançar uma promoção, oferendo 20% \n(vinte por cento) de desconto nos telefones mais baratos. Diante desse cenário, podemos afirmar, \nportanto, que o preço do aparelho mais barato custará:",
+            "alternativas": {
+                "A": "R$ 850,00.",
+                "B": "R$ 900,00.",
+                "C": "R$ 950,00.",
+                "D": "R$ 1.000,00.",
+                "E": "R$ 1.050,00.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 9 de 16QUESTÃO 19\nUma escola de teatro conta com dois tipos de funcionários: atendentes e professores. Os funcionários \nda primeira categoria recebem R$ 950,00 (novecentos e cinquenta reais) mensalmente, enquanto que \nos da segunda recebem R$ 9.500,00 (nove mil e quinhentos reais). Sabendo que essa escola possui \n63 sessenta e três) atendentes e 5 (cinco) professores, o salário médio pago a eles é de \naproximadamente: \n(A) R$ 1.580,00. \n(B) R$ 2.290,00. \n(C) R$ 3.240,90. \n(D) R$ 3.410,00.\n(E) R$ 3.560,10."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: Reginaldo arrendou um sítio cuja área quadrada cultivada corresponde a 81 m2. Quanto vale o \ncomprimento da área cultivada em metros?",
+            "alternativas": {
+                "A": "10",
+                "B": "9",
+                "C": "8",
+                "D": "7",
+                "E": "6\nATUALIDADES"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: O Brasil queima no Norte e no Sul de seu território. Dados do MapBiomas mostram que 2.932.972 \nhectares foram consumidos por queimadas, nos primeiros sete meses do ano. Embora maior que o \nestado de Alagoas, essa área é 2% menor do que a que foi consumida pelo fogo no ano passado. \nPorém, dois biomas têm se destacado com aumento na área afetada pelo fogo. Em um dos biomas, o \nfogo atingiu uma área de 1.479.739 hectares (aumento de 7%), enquanto que no outro foram 28.610 \nhectares queimados (aumento de 3,372%) entre janeiro e julho de 2022. (Retirado e modificado de \nmapbiomas.org – Dados sobre queimadas no brasil de janeiro a julho de 2022.)\nO trecho, acima, faz menção a dois biomas brasileiros que, entre janeiro e julho de 2022, sofreram \nimpactos em consequências das queimadas. Com base nos dados lidos e seus conhecimentos, escolha, \nabaixo, a alternativa que retrata de forma correta os dois biomas indicados, no trecho anterior.",
+            "alternativas": {
+                "A": "Caatinga e Mediterrâneo",
+                "B": "Pantanal e Pampa",
+                "C": "Cerrado e Mata Atlântica",
+                "D": "Amazônia e Pampa",
+                "E": "Floresta Boreal e AmazôniaPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 10 de 16QUESTÃO 22\nUma frente fria em uma região costeira foi capaz de canalizar a umidade da Amazônia em direção a \num estado que compõe a região sudeste do Brasil. Em razão do relevo do serrano, toda umidade ficou \ncontida na região. A interação complexa de fatores importantes na deflagração do processo de \nmovimentação de massa como: relevo, rocha, solo e vegetação; além das intensas chuvas  provocaram \ndiversos deslizamentos, além de intensas enchentes. Até 15 de março foram confirmadas 233 mortes \ne 4 desaparecimentos.  O evento descrito, anteriormente, diz respeito a:\n(A) Tragédia de Petrópolis – RJ em fevereiro de 2022.\n(B) Tragédia do Transbordamento de dique da barragem da Mina de Pau Branco.\n(C) Chuvas no nordeste brasileiro em função do aquecimento das águas oceânicas.\n(D) Tragédia do rompimento da barragem do Fundão – MG.\n(E) Tragédia de Pernambuco em Junho de 2022."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: O Projeto de Lei, número 191/20, que visa a regulamentar a exploração de recursos minerais, hídricos \ne orgânicos em reservas indígenas vai ao encontro das declarações do atual presidente, que desde a \nposse, defende o aproveitamento econômico de territórios indígenas. O projeto de lei pode ser \nentendido como uma consequência do atual conflito entre Ucrânia x Rússia, já que o Brasil:",
+            "alternativas": {
+                "A": "Importa a maior quantidade de carnes bovinas consumidas no país, da Rússia e dadas as sanções \nprecisa abrir novos espaços ao agronegócio.",
+                "B": "É um dos principais fornecedores de minério de ferro para fabricação de veículos de guerra da \nRussos.",
+                "C": "Teve perdas econômicas em razão das sanções aplicadas a Ucrânia e se inclina a buscar novas \njazidas minerais para sustentar a economia do carvão vegetal.",
+                "D": "Importa grandes quantidades de fertilizantes da Rússia que, em razão do conflito, tem passado \npor diversas sanções. A falta de fertilizantes impacta, diretamente, o agronegócio brasileiro sendo \nnecessário novas áreas de prospecção e extração de recursos que atendam a demanda nacional.",
+                "E": "Tem oferecido civis brasileiros ao exército ucraniano para ajudar no combate. Uma forma de \nfacilitar o envio de homens indígenas é desestabilizando suas propriedades."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: Sobre as principais mudanças nas regras para as eleições de 2022, leia abaixo.\nI) A federação partidária, que visa a organizar os partidos em blocos, foi aprovada, em 2022.\nII) Os membros da federação partidária, a partir das eleições de 2022, deverão atuar juntos por um \nperíodo de 4 anos.\nIII) Emenda Constitucional 111, duplica o peso dos votos a mulheres e pessoas negras no cálculo dos \nfundos partidário e eleitoral.\nIV) Ao ato de posse, o presidente da República Federal do Brasil pode anunciar até três projetos de \nleis nacionais que são vetadas, instantaneamente, sem necessidade de votos de demais representantes \npolíticos.\nA opção que indica apenas alternativas verdadeiras é:",
+            "alternativas": {
+                "A": "Apenas III e IV (D) Apenas II e IV",
+                "B": "Apenas I e IV (E)  Apenas I e II",
+                "C": "Apenas I, II e IIIPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 11 de 16\nQUESTÃO 25\nExtraída de: www.fifa.com/fifaplus/pt/articles/copa-do-mundo-2022-selecoes-grupos-datas-ingressos.\nA figura, acima, retrata  a Copa do Mundo FIFA de 2022 a ser realizada, no Qatar. A disputa que \nocorrerá entre 21 de novembro e 18 de dezembro será a 22ª edição da competição, a primeira jogada \nno mundo árabe. Contando com 32 seleções classificadas e com grupos já sorteados, a FIFA anunciou \nno dia 03 de outubro que mais de 2,7 milhões de ingressos já foram vendidos. Desde o \npronunciamento que a copa do mundo FIFA 2022 será sediada no país as pesquisas sobre política, \neconomia, cultura e outros aspectos do Qatar tornaram-se destaque entre os sites de busca. Localizado \nno Oriente Médio o Qatar é considerado um dos países com maiores economias do planeta. Pode-se \nafirmar que o fator primordial quanto ao sucesso da economia do Qatar está, intrinsicamente, ligado \na:\n(A) Jazidas de hidrocarboneto\n(B) Agricultura\n(C) Exportação automobilística",
+                "D": "Fontes e pesquisas de energia nuclear",
+                "E": "Principal produtor e exportador de maquinários bélicos de alta impacto.\nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: Com relação ao Explorador de Arquivos do Windows, o atalho do teclado que fecha a janela ativa é \no mostrado, abaixo, em qual opção?",
+            "alternativas": {
+                "A": "Alt+F6.",
+                "B": "Ctrl + W.",
+                "C": "Shift+G.",
+                "D": "Alt+P.",
+                "E": "Ctrl+L.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 12 de 16QUESTÃO 27\nPara excluir um arquivo permanentemente no Windows podemos leva-lo até a lixeira e de lá removê-\nlo ou usar uma combinação de teclas. Assinale, abaixo, que combinação de teclas é essa.\n(A) Shift+Del.\n(B) Ctrl+O.\n(C) Alt+F4.\n(D) Shift+B.\n(E) Esc+L."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: Fontes não são uma unanimidade, podem mudar de projeto para projeto, as padrão são em geral Arial, \nTimes New Roman e Calibri, porém podemos mudar para qualquer uma outra. Indique nas opções, \nabaixo, a extensão de arquivo mais comum para fontes a serem instaladas.",
+            "alternativas": {
+                "A": ".dll.",
+                "B": ".tft.",
+                "C": "ttf.",
+                "D": ".odt.",
+                "E": ".msi."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: Assinale, abaixo, a opção que traz a guia referente no MS Word a função Controlar Alterações.",
+            "alternativas": {
+                "A": "Correspondências.",
+                "B": "Referências.",
+                "C": "Inserir.",
+                "D": "Suplementos.",
+                "E": "Revisão.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 13 de 16QUESTÃO 30\nNo MS Word vemos a imagem, abaixo, ao executar uma função listada, abaixo. Analise a imagem e \nescolha a função correta.\n(A) Ao clicar Ctrl+S.\n(B) Para excluir um arquivo.\n(C) Para renomear um documento.\n(D) Para imprimir todas as páginas do documento.\n(E) Para criar um documento novo.\nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: O Município poderá realizar obras e serviços de interesse comum, sempre respeitada a legislação \naplicável e mediante autorização da Câmara Municipal, através de, exceto:",
+            "alternativas": {
+                "A": "Consórcios com outros Municípios.",
+                "B": "Termos de parceria com Organizações da Sociedade Civil de Interesse Público, na forma da \nLegislação Federal.",
+                "C": "Contratos de gestão com Organizações Sociais.",
+                "D": "Parcerias com entidades paraestatais.",
+                "E": "Convênio com o Estado de São Paulo, a União ou entidades públicas.\nPrefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 14 de 16QUESTÃO 32\nO Município por meio de propositura do Executivo e aprovada pelo Legislativo criará Administrações \nRegionais em regiões distantes a pelo menos quantos quilômetros da Sede do Município?\n(A) 08 (oito) quilômetros.\n(B) 06 (seis) quilômetros.\n(C) 10 (dez) quilômetros.\n(D) 04 (quatro) quilômetros.\n(E) 12 (doze) quilômetros."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: Qualquer alteração territorial do Município de Itapecerica da Serra somente será feita por meio  de \nlei __________, dentro do período determinado por lei complementar __________, e dependerá de \nconsulta prévia, mediante plebiscito, à população local, após divulgação dos Estudos de Viabilidade \nMunicipal, apresentados e publicados na forma da lei. Assinale a alternativa correta:",
+            "alternativas": {
+                "A": "Estadual e federal.",
+                "B": "Municipal e estadual.",
+                "C": "Estadual e municipal.",
+                "D": "Municipal e federal.",
+                "E": "Federal e estadual."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: O fax é utilizado para:",
+            "alternativas": {
+                "A": "Transferência física de documentos via rede telefônica.",
+                "B": "Transferência física de documentos via carta.",
+                "C": "Transferência remota de documentos via rede telefônica.",
+                "D": "Transferência remota de documentos via e-mail.",
+                "E": "Transferência remota de documentos via WhatsApp."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: É uma das formas de atendimento ao público:",
+            "alternativas": {
+                "A": "PRM.",
+                "B": "PFV.",
+                "C": "CVM.",
+                "D": "PDV.",
+                "E": "CMV.Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 15 de 16QUESTÃO 36\nSegundo o Estatuto dos Servidores Públicos de Itapecerica da Serra, para efeito do mesmo considera-\nse, exceto:\n(A) Vencimento é a retribuição pecuniária pelo exercício de cargo público, fixado em Lei, pago \nmensalmente ao servidor público pelo exercício das atribuições inerentes ao seu cargo.\n(B) Cargo público isolado ou de carreira é aquele criado por lei, em número certo, com denominação \nprópria, remunerado pelos cofres municipais, ao qual corresponde um conjunto de atribuições e \nresponsabilidades cometidas ao servidor público.\n(C) Carreira é o conjunto de classes da mesma natureza de trabalho e de idêntica habilitação \nprofissional, escalonadas segundo a responsabilidade e complexidade das atribuições, para \nprogressão dos titulares dos cargos que a integram.\n(D) Funções de confiança são cargos de livre provimento em comissão e funções gratificadas, \ninstituídas em Lei para atender encargos que importem a confiança direta da autoridade.\n(E) Remuneração é o vencimento variável para o cargo, acrescido das vantagens pecuniárias \nestabelecidas em Lei."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: No que tange a imagem profissional é correto afirmar, EXCETO:",
+            "alternativas": {
+                "A": "É o conjunto de qualidades que representa as competências e a personalidade do indivíduo.",
+                "B": "A sua imagem não impacta no destaque profissional em relação a outros candidatos de uma vaga \nde trabalho.",
+                "C": "Para construir uma boa imagem profissional é importante desenvolver networking .",
+                "D": "É necessário manter o profissionalismo e uma linguagem adequada no ambiente de trabalho .",
+                "E": "Ser um profissional ético é o principal passo para conquistar a confiança de todos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: No MS Word versão do Windows 2016, quais teclas são utilizadas para salvar o arquivo?",
+            "alternativas": {
+                "A": "CTRL + A.",
+                "B": "CTRL + S.",
+                "C": "CTRL + B.",
+                "D": "CTRL + P.",
+                "E": "CTRL + C."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: O telefone de emergência “181” refere-se a qual serviço?",
+            "alternativas": {
+                "A": "Policia Militar",
+                "B": "Bombeiro",
+                "C": "Policia Civil",
+                "D": "Ministério da Saúde – Apoio ao Covid 19",
+                "E": "Disque Denuncia Prefeitura Municipal de Itapecerica da Serra - SP – Concurso Público 01/2022             INSTITUTO AVANÇA SÃO PAULO\nTELEFONISTA                                                                                                                                             Página 16 de 16QUESTÃO 40\nDispõe o artigo 37 da Constituição Federal acerca dos princípios que regem a administração pública \ndireta e indireta. Qual principio não faz parte do que prevê o artigo supracitado.\n(A) Preferência \n(B) Legalidade.\n(C) Publicidade.\n(D) Eficiência.\n(E) Impessoalidade."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: Indique a opção que descreve, de forma \nincorreta , o que é afirmado no texto:",
+            "alternativas": {
+                "A": "A exportação total de suco de laranja \nbrasileiro aume ntou na safra 2021/2022.",
+                "B": "A exportação total de suco de laranja \nbrasileiro diminuiu na safra 2021/2022.",
+                "C": "Houve dificuldades durante a safra.",
+                "D": "As exportações de suco de laranja \nbrasileiro para a Europa diminuíram.",
+                "E": "As exportações de suco de lara nja \nbrasileiro para os Estados Unidos aumentaram."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: Segundo o texto, o continente para o qual o \nBrasil mais exporta suco de laranja é:",
+            "alternativas": {
+                "A": "África",
+                "B": "América",
+                "C": "Ásia",
+                "D": "Europa",
+                "E": "Oceania"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: De acordo com o texto, o terceiro maior \nimportador do suco de laranja brasileiro é:",
+            "alternativas": {
+                "A": "China",
+                "B": "Japão",
+                "C": "Estados Unidos",
+                "D": "Europa",
+                "E": "outros mercados  \n \n \n \n \n \n \n \n \n \n \n \n \n Câmara  Municipal de Sorocaba  - SP – Concurso Público  01/2022                              INSTITUTO AVANÇA SÃO PAULO  \n \n \nTELEFONISTA                                                                                                                                                  Página 2 de 7 QUESTÃO 04  \nIndique a opção que descreve, de forma \ncorreta , o que é afirmado no texto:  \n(A) O suco de laranja brasileiro é o melhor do \nmundo.  \n(B) A safra 2021/2022 não teve problemas.  \n(C) O faturamento das exportações cresceu \nquase 7%.  \n(D) A Europa vai parar de comprar o suco de \nlaranja brasileiro.  \n(E) A seca e a geada não afetam muito a \nprodução de suco de laranja."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: Considere o trecho abaixo, presente no \nsegundo parágrafo do texto:  \n“Em faturamento, as vendas fecharam com \nUS$ 1,622 bilhão, crescimento de 6,95%  ante \na receita de US$ 1,516 bilhão na safra \nanterior.”  \nIndique a opção que poderia substituir \ncorretamente a e xpressão ante a  sem alterar o \nsentido do que está escrito:",
+            "alternativas": {
+                "A": "antes da",
+                "B": "anteriormente na",
+                "C": "anterior a",
+                "D": "em comparação com a",
+                "E": "muito maior que a"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: Das palavras abaixo, retiradas do texto, \nindique aquela que é um verbo :",
+            "alternativas": {
+                "A": "vendas",
+                "B": "relação",
+                "C": "Europa",
+                "D": "difíceis",
+                "E": "registrou  \n QUESTÃO 07  \nDas palavras abaixo, retiradas do texto, \nindique aquela que é um adjetivo : \n \n(A) principal  \n(B) volume  \n(C) safra  \n(D) faturamento  \n(E) comparação"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: Considere o trecho abaixo, presente no quarto \nparágrafo do texto:  \n“Essa foi uma das safras mais  difícei s dos \núltimos anos...”  \nA palavra mais , na forma como é usada na \nfrase acima, é classificada como:",
+            "alternativas": {
+                "A": "adjetivo",
+                "B": "advérbio",
+                "C": "substantivo",
+                "D": "verbo",
+                "E": "pronome"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: Considere o trecho abaixo, presente no quarto \nparágrafo do texto:  \n“Essa foi uma das safras mais difíceis dos \núltimos anos, com uma oferta pequena de fruta \naliada a problemas decorrentes de seca e \ngeadas”  \nIndique a razão do uso das aspas ( “ ” ) no \ncomeço e fim de tal trecho:",
+            "alternativas": {
+                "A": "Dar maior importância ao que está escrito.",
+                "B": "Destacar o trecho no meio do texto.",
+                "C": "Ajudar o leitor a gravar a informação.",
+                "D": "Indicar que o trecho é a citação do que o \nentrevistado disse.",
+                "E": "Indicar que o trecho é uma opinião da \nredação do jornal.  Câmara  Municipal de Sorocaba  - SP – Concurso Público  01/2022                              INSTITUTO AVANÇA SÃO PAULO  \n \n \nTELEFONISTA                                                                                                                                                  Página 3 de 7 QUESTÃO 10  \nEm ano-safra , o sinal em forma de um \npequeno traço entre as palavras “ano” e “safra” \né chamado de:  \n \n(A) hífen  \n(B) trema  \n(C) exclamação  \n(D) crase  \n(E) interrogação"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: Indique a frase escrita corretamente :",
+            "alternativas": {
+                "A": "Nós foi no banco.",
+                "B": "Nóis viajamos mês pasado.",
+                "C": "A gente sabemos resolver is so.",
+                "D": "Chamei o Pedro, mais ele não quiz vir.",
+                "E": "Eu vencerei estes problemas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: Indique a frase escrita incorretamente :",
+            "alternativas": {
+                "A": "Concerteza isso não é problema meu.",
+                "B": "Vamos ganhar o jogo.",
+                "C": "Podemos fazer mais.",
+                "D": "Isto é um exagero!",
+                "E": "O Pedro é um bom trabalhador."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Indique a frase abaixo que, apesar de ser \nfinalizada com um ponto de interrogação, não \né uma pergunta, estando assim escrita \nincorretamente:",
+            "alternativas": {
+                "A": "Você acredita que o Brasil irá ganhar a \ncopa?",
+                "B": "Quero saber como faz p ara ligar isso aqui?",
+                "C": "Podemos ir juntos?",
+                "D": "Você acha isso justo?",
+                "E": "Quantos anos você tem?  QUESTÃO 14  \nIndique, dentre as opções abaixo, aquela que é \num verbo : \n \n(A) taça  \n(B) partida  \n(C) campeonato  \n(D) disputar  \n(E) futebol"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: Indique, dentre as opções abaixo, aquela que é \num adjetivo :",
+            "alternativas": {
+                "A": "vencer",
+                "B": "desafio",
+                "C": "valente",
+                "D": "ânimo",
+                "E": "vontade  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Uma costureira comprou 2,55 m de elástico, \nporém sobrou 20 cm do mesmo. Então, a \nquantidade de elástico que ela usou foi de:",
+            "alternativas": {
+                "A": "195 cm.",
+                "B": "215 cm.",
+                "C": "220 cm.",
+                "D": "235 cm.",
+                "E": "250 cm."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: Um cachorrinho recém -nascido possuía peso \nde 150 g. Após quatro meses, o mesmo \nengordou 3,8 Kg. Então, o novo peso do \ncachorrinho passou a ser de:",
+            "alternativas": {
+                "A": "5 000 g.",
+                "B": "4 280 g.",
+                "C": "4 120 g.",
+                "D": "3 950 g.",
+                "E": "2 840 g.  Câmara  Municipal de Sorocaba  - SP – Concurso Público  01/2022                              INSTITUTO AVANÇA SÃO PAULO  \n \n \nTELEFONISTA                                                                                                                                                  Página 4 de 7 QUESTÃO 18 \nUm sapato custa R$ 92,00. No mês dos pais , o \nmesmo teve 20% de desconto. Então, o valor \nque o mesmo passou a custar é:  \n(A) R$ 86,00.  \n(B) R$ 84,20.  \n(C) R$ 82,90.  \n(D) R$ 76,00.  \n(E) R$ 73,60."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: Um cubo possui lado de 72 cm, seu volume, \nem litros, é de , aproximadamente:",
+            "alternativas": {
+                "A": "0,93 litros.",
+                "B": "106,8 litros.",
+                "C": "250,1 litros.",
+                "D": "294,7 litros.",
+                "E": "373,2 litros."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: A cama de solteiro do filho de Priscila possui \n260 cm de comprimento e 0,55 m de largura. \nEntão, a área que essa cama ocupa  é de:",
+            "alternativas": {
+                "A": "1,2 𝑚2.",
+                "B": "1,3 𝑚2.",
+                "C": "1,37 𝑚2.",
+                "D": "1,43 𝑚2.",
+                "E": "1,49 𝑚2."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: O avô de Leonardo pediu que ele fosse até a \npadaria e comprasse 10 pães. Leonardo levou \nconsigo uma nota de R$ 50,00. O valor dos \npães foi de R$ 12,60. Então , um possível troco \nque ele recebeu, foi de:",
+            "alternativas": {
+                "A": "duas notas de R$ 10,00, seis notas de R$ \n5,00, duas moedas de R$ 1,00 e uma moeda de \nR$ 0,10.",
+                "B": "duas notas de R$ 10,00, duas notas de R$ \n5,00, quatro notas de R$ 2,00 e nove moedas \nde R$ 0,10.",
+                "C": "uma nota de R$ 20,00, dez notas de R$ \n2,00, seis moedas de R$ 1,00 e duas moedas de \nR$ 0,50.",
+                "D": "uma nota de R$ 20,00, cinco notas de R$ \n5,00, uma nota de R$ 2,00 e duas moedas de \nR$ 0,25.",
+                "E": "uma nota de R$ 20,00, uma nota de R$ \n10,00, uma nota de R$ 5,00, uma not a de R$ \n2,00 e quatro moedas de R$ 0,10.  \n \n QUESTÃO 22 \nO saldo da conta bancária de Júlio é de duas \ncentenas de milhar, quatro dezenas de milhar, \nseis centenas, uma dezena e oito unidades. \nEntão, o saldo da conta de Júlio é:  \n(A) R$ 2 400 618,00.  \n(B) R$ 240 618,00.  \n(C) R$ 24 618,00.  \n(D) R$ 2 461,80.  \n(E) R$ 246,18."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: Um travesseiro custava R$ 200,00 no ano de \n2021, já no ano de 2022 o mesmo teve um \naumento de 15%. Sendo assim, seu novo valor \npassou a ser de:",
+            "alternativas": {
+                "A": "R$ 215,00.",
+                "B": "R$ 220,00.",
+                "C": "R$ 225,00.",
+                "D": "R$ 230,00.",
+                "E": "R$ 235,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: A quantidade de ventiladores que uma loja \nvendeu em um dia é um múltiplo de 9. Então, \nessa quantidade foi de:",
+            "alternativas": {
+                "A": "63.",
+                "B": "69.",
+                "C": "71.",
+                "D": "82.",
+                "E": "89."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: João e Paulo compraram juntos 35 picolés. \nJoão pagou 40% do mesmo, e Paulo comprou \no restante. Então, a quantidade de picolés que \nPaulo pagou foi de:",
+            "alternativas": {
+                "A": "21.",
+                "B": "22.",
+                "C": "23.",
+                "D": "24.",
+                "E": "25."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: A idade do filho mais velho de Rosane é um \ndivisor do número 5 400. Então, a idade do \nmesmo é de:",
+            "alternativas": {
+                "A": "18.",
+                "B": "19.",
+                "C": "21.",
+                "D": "23.",
+                "E": "26.  Câmara  Municipal de Sorocaba  - SP – Concurso Público  01/2022                              INSTITUTO AVANÇA SÃO PAULO  \n \n \nTELEFONISTA                                                                                                                                                  Página 5 de 7 QUESTÃO 27 \nA quantidade de alunos que estudam violão na \nescola de Bruno é um divisor do número 1 794. \nEssa quantidade é: \n(A) 19.  \n(B) 20.  \n(C) 23.  \n(D) 24.  \n(E) 30."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: O sucessor do número 11 856 é:",
+            "alternativas": {
+                "A": "12 856.",
+                "B": "12 857.",
+                "C": "11 857.",
+                "D": "11 855.",
+                "E": "10 856."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: Rose recebeu R$ 2 500,00 de salário. Ela \ngastou R$ 994,60 fazendo compras no \nmercado. Gastou R$ 270,40 comprando \nremédios, e o restante do dinheiro ela \ndepositou no banco. A quantia depositada foi \nde:",
+            "alternativas": {
+                "A": "R$ 1 180,00.",
+                "B": "R$ 1 235,00.",
+                "C": "R$ 1 350,00.",
+                "D": "R$ 1 400,00.",
+                "E": "R$ 1 525,23."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: Ester possui um número X de sapatos. Esse \nnúmero é o antecessor do número 99. Então, \nessa quantidade de sapatos que ela possui é:",
+            "alternativas": {
+                "A": "200.",
+                "B": "199.",
+                "C": "100.",
+                "D": "99.",
+                "E": "98.  \n \n \n \n \n \n \n \n \n \n NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: Um funcionário, usando o Microsoft Word, \nseleciona uma palavra e aperta a combinação \nde teclas Ctrl   + C. Em seguida, vai para outro \nponto do documento e aperta a combinação \nCtrl +V. Qual será o resultado desta ação?",
+            "alternativas": {
+                "A": "A palavra selecionada ficará mais escura \n(negrito).",
+                "B": "A palavra selecionada será apagada e uma \ncópia dela será gerada no outro ponto  do \ndocumento.",
+                "C": "Nada acontecerá e o documento \npermanecerá igual.",
+                "D": "Será gerada uma cópia da palavra \nselecionada no outro ponto do documento.",
+                "E": "Serão geradas duas cópias da palavra \nselecionada no outro ponto do documento."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: No Microsoft Word, o que acontece se o botão \nindicado pela seta e pelo quadrado, na imagem \nabaixo, for pressionado?",
+            "alternativas": {
+                "A": "O documento será salvo.",
+                "B": "Será criada uma cópia do documento.",
+                "C": "A última ação será desfeita.",
+                "D": "O documento será impresso.",
+                "E": "O W ord será fechado.  \n \n \n \nCâmara  Municipal de Sorocaba  - SP – Concurso Público  01/2022                              INSTITUTO AVANÇA SÃO PAULO  \n \n \nTELEFONISTA                                                                                                                                                  Página 6 de 7 QUESTÃO 33  \nUma pessoa seleciona um texto no Microsoft \nWord e aperta o botão indicado pela seta e pelo \nquadrado na imagem abaixo. Marque a opção \nque descreve corretamente o que acontecerá \nem decorrência de tal ação:  \n \n \n \n(A) O documento será salvo.  \n(B) O texto será centralizado.  \n(C) O espaçamento entre as linhas será \naumentado.  \n(D) O espaçamento entre as linhas será \ndiminuído.  \n(E) O tamanho do texto será aumentado."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: Qual das opções abaixo é um endereço de e -\nmail?",
+            "alternativas": {
+                "A": "fulano@empresa.com.br",
+                "B": "www.terra.com.br",
+                "C": "\\\\servidor \\arquivos",
+                "D": "C: \\users \\fulano \\documentos",
+                "E": "ftp://fulano:senha@empresa.com.br  \n \n \n \n \n \n \n \n QUESTÃO 35  \nUma pessoa abre uma planilha do Microsoft \nExcel criada por um colega e faz diversas \nalterações. Ela fica satisfeita com as mudanças \nque fez, mas deseja manter uma cópia do \narquivo original, feito por seu colega. Para \npoder salvar uma cópia do documento alterado, \npreservando o original, ela pode:  \n(A) Usar a opção “Proteger Planilha”, na guia \n“Revisão”.  \n(B) Fechar o documento, sem salvar as \nalterações.  \n(C) Usar a combinação de teclas Ctrl + B.  \n(D) Clicar no botão “Salvar”, no canto superior \nesquerdo.  \n(E) Usar a opção “Salvar como”, na guia \n“Arquivo”."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 27: Qual é a função da barra de cont role localizada \nno canto inferior direito do Microsoft Word, \nmostrada na figura abaixo e indicada pela seta \ne retângulo?",
+            "alternativas": {
+                "A": "Aumentar ou diminuir a velocidade do \nteclado.",
+                "B": "Aumentar ou diminuir a velocidade do \nmouse.",
+                "C": "Aumentar ou diminuir a velocida de do \ncomputador.",
+                "D": "Aumentar ou diminuir o zoom.",
+                "E": "Aumentar ou diminuir o tamanho do \narquivo no HD..  \n \n \n \n \nCâmara  Municipal de Sorocaba  - SP – Concurso Público  01/2022                              INSTITUTO AVANÇA SÃO PAULO  \n \n \nTELEFONISTA                                                                                                                                                  Página 7 de 7 QUESTÃO 37  \nNo sistema operacional Windows, o que é uma \npasta?  \n \n(A) Local no qual é possível salvar \ndocumentos e outras pastas, de forma a \norganizar os arquivos, tornando mais fácil sua \nlocalização e uso.  \n(B) O Windows não usa pastas, funcionando \nde forma diferente de outros sistemas \noperacionais.  \n(C) Programa através do qual é possível \nproduzir e editar textos.  \n(D) Programa através do qual é possível \nproduzir e editar planilhas de cálculo.  \n(E) Programa através do qual é possível \ncompactar diversos arquivos em um só, \ndiminuindo seu tamanho e facilitando seu \nenvio por e -mail."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 28: Em uma planilha do Microsoft Excel, mostrada \nna fig ura abaixo, uma pessoa digita, na célula \nA3, a fórmula =SOMA(A1:A2) . Indique a \nopção que descreve, corretamente, qual valor \ndeverá aparecer na célula A3 como resultado \ndessa fórmula:",
+            "alternativas": {
+                "A": "10",
+                "B": "20",
+                "C": "30",
+                "D": "33",
+                "E": "200  \n \n QUESTÃO 39  \nUm trabalhador precis a fazer algumas contas \nde operações básicas, mas percebe que não há \nnenhuma calculadora em sua mesa ou em seu \ndepartamento. Ele resolve então usar um \ncomputador com Windows para agilizar seu \ntrabalho. Neste caso:  \n \n(A) Ele deve, obrigatoriamente, usar o Exc el. \n(B) Ele pode usar a calculadora do Windows, \nacessível, dentre outras formas, pelo menu \nIniciar.  \n(C) Ele terá que fazer contas de cabeça ou em \npapel, pois o Windows não possui programas \nde cálculo.  \n(D) Ele terá que fazer contas de cabeça ou em \npapel, po is o Windows só faz cálculos \navançados, e não as operações básicas.  \n(E) Ele terá que, obrigatoriamente, acessar \nalgum site de cálculos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TELEFONISTA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 29: Diariamente, uma funcionária acessa vários \nsites da Internet para fazer seu trabalho. Com o \npassar dos dias, ela percebe que há algumas \npáginas que ela acessa com mais frequência e \nregularidade que outras. Para não precisar \ndigitar os endereços dos sites todas as vezes, de \nforma que possa acessá -los de forma mais \nrápida e prática, ela pode:",
+            "alternativas": {
+                "A": "fazer o dow nload dos sites.",
+                "B": "usar o recurso de “Favoritos” do \nnavegador.",
+                "C": "anotar os endereços dos sites em um papel \ne deixá -lo afixado em sua mesa, para consulta.",
+                "D": "imprimir os sites.",
+                "E": "salvar cópias dos sites em formato PDF"
+            },
+            "resposta_correta": "B"
+        }
+    ]
+}

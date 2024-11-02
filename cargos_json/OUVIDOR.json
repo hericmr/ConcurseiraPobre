@@ -1,3 +1,1796 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11147e5abc6ad27710ad1b4029a6429254c50eef85b95e51e07f0b961a051e6f
-size 162326
+{
+    "OUVIDOR": [
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Segundo a reportagem apresentada, conclui-se \nque:",
+            "alternativas": {
+                "A": "o elefante-marinho mais velho ofereceu \nassistência ao filhote por considerá-lo uma \npresa.",
+                "B": "a assistência do elefante-marinho mais \nvelho se trata de um comportamento sexual mal \ndirecionado em relação à mãe do filhote.",
+                "C": "o cuidado com os filhotes dessa espécie \ncostuma ser de responsabilidade das fêmeas, e \nnão dos machos.",
+                "D": "o resgate do filhote foi feito pelo elefante-\nmarinho mais velho em troca de acasalamento.",
+                "E": "os elefantes-marinhos machos não \nparticipam do cuidado com os filhotes porque \nfocam em sua própria sobrevivência. \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 3 de 14"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Os pesquisadores consideraram o resgate do \nfilhote como um episódio de altruísmo pois:",
+            "alternativas": {
+                "A": "o elefante-marinho sofreu risco de vida para \nsalvar o filhote.",
+                "B": "o elefante-marinho sacrificou outro animal \npara salvar o filhote.",
+                "C": "o elefante-marinho gastou sua energia no \nresgate do filhote, e não em outras atividades.",
+                "D": "elefantes-marinhos machos costumam ser \nbastante agressivos com filhotes, e não \ncompassivos.",
+                "E": "elefantes-marinhos machos costumam \ndominar fêmeas e filhotes para competir com \noutros animais."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Analise o excerto a seguir quanto aos \nmecanismos de coesão textual: “Ele, por sua \nvez, não conseguia nadar e era puxado para \nmais longe pelas ondas.” Assinale a alternativa \nque classifica corretamente o tipo de coesão \ntextual verificada no excerto apresentado, com \nbase no emprego do pronome pessoal, bem \ncomo indica o elemento a que o pronome se \nrefere no texto.",
+            "alternativas": {
+                "A": "coesão referencial anafórica, que retoma o \nreferente “o filhote” anteriormente enunciado.",
+                "B": "coesão referencial catafórica, que introduz \no referente “o filhote” no texto.",
+                "C": "coesão referencial anafórica, que retoma o \nreferente “um macho” anteriormente \nenunciado.",
+                "D": "coesão por substituição, que retoma e \natualiza com uma nova característica o \nreferente “o filhote” anteriormente enunciado.",
+                "E": "coesão lexical, que retoma por meio de um \nhiperônimo o referente “o filhote” \nanteriormente enunciado. \n \n \n \n  \n \n \nConsidere o excerto a seguir para responder \nàs questões 4 e 5: \n \nEntão, um macho, identificado como o alfa do \ngrupo, se aproximou da fêmea e, logo depois, \nseguiu em direção ao filhote – que já estava a \naproximadamente 40 metros da fêmea."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Em termos de papel sintático, o elemento \ncolocado entre vírgulas “identificado como o \nalfa do grupo”, no contexto apresentado, \nconstitui:",
+            "alternativas": {
+                "A": "aposto do sujeito.",
+                "B": "complemento nominal.",
+                "C": "adjunto adnominal.",
+                "D": "vocativo do sujeito.",
+                "E": "adjunto adverbial."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Quanto à classificação gramatical, a oração \nintroduzida pelo sinal de travessão ( –), no \nexcerto apresentado, corresponde a uma:",
+            "alternativas": {
+                "A": "oração coordenada explicativa.",
+                "B": "oração subordinada adjetiva explicativa.",
+                "C": "oração subordinada adjetiva restritiva.",
+                "D": "oração coordenada aditiva.",
+                "E": "oração subordinada substantiva objetiva \ndireta."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir e assinale aquela \nem que ocorre uma oração subordinada \nsubstantiva subjetiva.",
+            "alternativas": {
+                "A": "A expectativa é de que o professor cancele \na prova.",
+                "B": "Ela se esqueceu de anotar os compromissos \nnaquele dia.",
+                "C": "Não é segredo que eles já não se toleram no \nambiente de trabalho.",
+                "D": "Não demore muito, que estou com pressa.",
+                "E": "Os meninos foram suspensos porque só \nfaziam bagunça na sala de aula.  \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 4 de 14"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Considere o excerto a seguir, retirado de uma \nreportagem publicada na Revista Galileu, \nacerca de uma descoberta arqueológica:  \n“‘A parte mais incrível [da descoberta] é o \nquanto tudo está bem preservado e que agora \nsabemos onde havia árvores em ambientes que \nnão as têm mais’, diz Basil Stow, guarda \nflorestal do National Trust, em entrevista ao \njornal The Guardian.”   \nO excerto dado se apresenta em discurso direto. \nAssinale a alternativa que o reescreve \ncorretamente em discurso indireto.",
+            "alternativas": {
+                "A": "Basil Stow, guarda florestal do National \nTrust, disse, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] é o quanto tudo está bem \npreservado e que agora sabem onde há árvores \nem ambientes que não as teriam mais.",
+                "B": "Basil Stow, guarda florestal do National \nTrust, diz, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] é o quanto tudo está bem \npreservado e que agora sabem onde há árvores \nem ambientes que não as tinham mais.",
+                "C": "Basil Stow, guarda florestal do National \nTrust, disse, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] foi o quanto tudo estava bem \npreservado e que agora sabem onde havia \nárvores em ambientes que não as tinham mais.",
+                "D": "Basil Stow, guarda florestal do National \nTrust, disse, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] era o quanto tudo estava bem \npreservado e que agora sabiam onde havia \nárvores em ambientes que não as tinham mais.",
+                "E": "Basil Stow, guarda florestal do National \nTrust, diz, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] é o quanto tudo estava bem \npreservado e que agora sabem onde havia \nárvores em ambientes que não as têm mais."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale a \nalternativa em que se verifica a ocorrência de \num vocativo.",
+            "alternativas": {
+                "A": "Ana, que já não aguentava o calor, \ndesmaiou em meio ao espetáculo.",
+                "B": "A garota, filha mais velha do romancista, \ntambém passou a escrever nas horas vagas.",
+                "C": "Já te disse, meu amigo, que a vida não pausa \npara que possamos resolver as coisas.",
+                "D": "Foi ensinada desde pequena a ser fiel aos \ndeuses.",
+                "E": "Nessa época do ano, as folhas amanhecem \nsempre umedecidas pelo orvalho."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Considere as sentenças:  \nI. Os frascos do laboratório _____ amostras do \nvírus, que serão analisadas para o \ndesenvolvimento da vacina. \nII. A garota não espera que _____ com ela para \na feira de ciências. \nIII. Gostaria de saber quantos litros de gás \n_____ este botijão.   \nAssinale as alternativas que indicam os verbos \nque preenchem corretamente as lacunas das \nsentenças dadas.",
+            "alternativas": {
+                "A": "contém; contem; contêm.",
+                "B": "contêm; contem; contém.",
+                "C": "contem; contém; contêm.",
+                "D": "contêm; contém; contem.",
+                "E": "contém; contem; contém."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Assinale a alternativa em que todas as palavras \nindicadas flexionam em gênero.",
+            "alternativas": {
+                "A": "pastor; credo; oráculo.",
+                "B": "amplitude; amazona; inimigo.",
+                "C": "cidadão; piloto; fantástico.",
+                "D": "qual; muito; atacante.",
+                "E": "jogador; esquerda; titular.  Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 5 de 14 MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Dois irmãos recebem uma mesada. Um deles, o \nmais velho, recebe R$ 80,00, e o mais novo \nrecebe R$ 55,00. Insatisfeito com o constante \naumento de preços na cantina da escola, o irmão \nmais velho pediu um aumento da sua mesada \npara que ele receba o valor de R$ 100,00, que \nlhe foi concedido. A mesada do irmão mais \nnovo também será aumentada na mesma \nproporção. Qual será o novo valor recebido pelo \nirmão mais novo?",
+            "alternativas": {
+                "A": "R$ 75,00.",
+                "B": "R$ 68,75.",
+                "C": "R$ 60,00.",
+                "D": "R$ 72,15.",
+                "E": "R$ 69,25."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Observe a sequência lógica figural abaixo: \nDentre as correspondências, indique o próximo \nelemento desta sequência:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "IV.",
+                "E": "V. \n \n \n QUESTÃO 13 \nA figura abaixo mostra um quadrado ABCD de \nlado 1 cm. Os segmentos EF e GH passam \nexatamente pelo centro do quadrado, e são \nparalelos aos lados, conforme a figura: \nIndique a área da região sombreada, em cm2: \n(A) 1/4.  \n(B) 1/8.  \n(C) 1/16.  \n(D) 1/32.  \n(E) 1/64."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Observe a sequência abaixo feita com \nquadrados de lado 𝑎: \n \nO primeiro elemento é feito com quatro \nquadrados, e seu perímetro é 10𝑎. Indique o \nperímetro do 10° elemento:",
+            "alternativas": {
+                "A": "23𝑎.",
+                "B": "32𝑎.",
+                "C": "40𝑎.",
+                "D": "56𝑎.",
+                "E": "64𝑎. \n \n \nCâmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 6 de 14 QUESTÃO 15 \nJoão está fazendo um experimento para a feira \nde ciências da sua escola. Ele pretende medir \numa grandeza física cujo valor correto é 10,0, \nmas nos seus cálculos ele obtém o valor de 12,0. \nEm quantos por cento a medida de João difere \nem relação ao valor correto? \n(A) 16,7%. \n(B) 18,4%. \n(C) 25,0%. \n(D) 20,0%. \n(E) 19,5%."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Numa escola, cada aluno tem um armário para \nguardar seus pertences. Os armários são \nenfileirados e enumerados. Os armários \nenumerados de 1 a 5 pertencem aos estudantes \nMatilde, Jéssica, Ana, Gabriel e Carlos, não \nnecessariamente nesta ordem. No primeiro dia \nde Gabriel, ele não sabia qual seria o seu \narmário, e perguntou para os demais colegas. \nEles responderam: \n• O número do armário de Matilde é \nmaior que o seu;  \n• O número do armário de Carlos é maior \nque o de Matilde;  \n• Os dois últimos armários pertencem a \nJéssica ou a Ana; \nCom essas informações, qual o número do \narmário de Gabriel?",
+            "alternativas": {
+                "A": "1.",
+                "B": "2.",
+                "C": "3.",
+                "D": "4.",
+                "E": "5. \n \n \n \n \n QUESTÃO 17 \nDois reservatórios A e B, de 1000 litros cada, \nserão cheios por torneiras que têm vazões \ndiferentes. Antes de começar o enchimento, o \nreservatório A está incialmente vazio e o \nreservatório B já está com 1/8 do seu volume \npreenchido. A torneira que encherá o \nreservatório A despejará 6 litros de água a cada \nsegundo. Já a torneira que encherá o \nreservatório B despejará 2 litros de água a cada \nsegundo. Sabendo-se que as duas torneiras \nserão ligadas simultaneamente, em quanto \ntempo após o ligamento os reservatórios terão o \nmesmo volume? \n(A) 31,25 segundos. \n(B) 15,12 segundos. \n(C) 19,65 segundos. \n(D) 18,15 segundos. \n(E) 42,25 segundos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Uma pessoa está fazendo uma pesquisa de \nsatisfação com os clientes de uma determinada \nmarca. A pesquisa consiste em o cliente dar \numa nota de 0 a 100 para o serviço desta marca. \nNo ano passado, a média da nota dada pelos \nclientes foi 68. Esse ano, a meta é que a nota \naumente em 25%. Se a pesquisa for feita com \n100 clientes, qual deve ser a soma das suas \nrespectivas notas para que se atinja a meta?",
+            "alternativas": {
+                "A": "8500.",
+                "B": "850.",
+                "C": "170.",
+                "D": "1700.",
+                "E": "17000. \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 7 de 14 QUESTÃO 19 \nObserve as seguintes afirmativas sobre ângulos \npositivos: \nI – Um ângulo reto é sempre igual a 90°; \nII – Ângulos agudos são menores que 90°; \nIII – Ângulos obtusos então entre 90° e 180°. \nEstão corretos: \n(A) Somente I. \n(B) I e II. \n(C) I e III. \n(D) II e III. \n(E) I, II e III."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: De acordo com o Instituto Brasileiro de \nGeografia e Estatística (IBGE), em 2020 o \nnúmero de pessoas desempregadas no Brasil foi \nde 14 milhões. O gráfico abaixo mostra \nalgumas estratificações desse número: \nAdaptado de: Pnad Covid 19, IBGE.  \nAnalisando o gráfico, é possível afirmar que o \nnúmero de pessoas desempregadas com 50 anos \nou mais é, em milhões:",
+            "alternativas": {
+                "A": "1,40.",
+                "B": "1,82.",
+                "C": "13,0.",
+                "D": "10,0.",
+                "E": "0,42. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Com base nos conhecimentos relacionados ao \nWindows 7, analisar as afirmações a seguir: \nI. O Windows 7 permite o compartilhamento de \narquivos entre computadores conectados a uma \nmesma rede doméstica. \nII. O Windows 7 permite o compartilhamento \nde impressoras entre computadores conectados \na uma mesma rede doméstica. \nIII. Quando você abre arquivos e programas no \nWindows 7, os ícones aparecem no menu de \nconfigurações para que você possa alternar \nentre eles. \nEstá(ão) Correto(s):",
+            "alternativas": {
+                "A": "Somente o item I.",
+                "B": "Somente o item II.",
+                "C": "Somente os itens I e II.",
+                "D": "Somente os itens II e III.",
+                "E": "Todos os itens."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Sobre as funcionalidades presentes na barra de \ntarefas do Windows 7, marcar C para as \nafirmativas Certas, E para as Erradas e, após, \nassinalar a alternativa que apresenta a sequência \nCORRETA:  \n(_) É possível visualizar os programas que \nestão abertos no Windows 7 utilizando a \nbarra de tarefas.  \n(_) A barra de tarefas apresenta ao usuário a \nopção de desinstalar rapidamente um \nprograma em uso.  \n(_) É possível fixar os programas mais \nutilizados na barra de tarefas, para facilitar o \ntrabalho no dia a dia.",
+            "alternativas": {
+                "A": "C – C – C.",
+                "B": "C – E – E.",
+                "C": "C – E – C.",
+                "D": "E – E – C.",
+                "E": "E – C – C. \nCâmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 8 de 14 QUESTÃO 23 \nÉ um dos programas nativos do Windows 7, \npresente ao instalar a versão do Sistema \nOperacional: \n(A) Calculadora. \n(B) 7-zip. \n(C) Winzip. \n(D) Dropbox. \n(E) Steam."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Quanto mais você usa seu computador, mais \naumenta o número de arquivos que precisam ser \ngerenciados. O meio indicado para abrir pastas \ne navegar entre os diretórios existentes no \nWindows 7 é utilizando o:",
+            "alternativas": {
+                "A": "Google Chrome.",
+                "B": "Windows Explorer.",
+                "C": "Bloco de notas.",
+                "D": "Adobe 7.0.",
+                "E": "Google Maps."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Entre as teclas de atalho presentes no Windows \n7, qual das funções abaixo é acionada ao utilizar \no comando de teclado Windows + T:",
+            "alternativas": {
+                "A": "Trocar de usuário do computador.",
+                "B": "Bloquear o computador.",
+                "C": "Maximizar a janela.",
+                "D": "Maximiza a janela.",
+                "E": "Percorrer aplicativos na barra de tarefas. \n \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: A expressão Administração Pública é utilizada \npara fazer referência ao grupo de entes e \norganizações titulares da função administrativa. \nÉ um dos exemplos de agentes políticos da \nestrutura da administração pública:",
+            "alternativas": {
+                "A": "O presidente da república.",
+                "B": "Ouvidores municipais.",
+                "C": "Servidores públicos investido no carto por \nmeio de concurso.",
+                "D": "Licitantes.",
+                "E": "Sociedades de economia mista."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Os órgãos e entidades públicas são unidades \nque sintetizam os vários círculos de atribuições \ndo estado. \nSobre os órgãos e entidades públicas, é correto \nafirmar que:",
+            "alternativas": {
+                "A": "Os órgãos públicos não têm relação direta \ncom o estado.",
+                "B": "As entidades públicas não estão \nrelacionadas às atividades estatais.",
+                "C": "Órgão e Entidades Públicas não tem \ndiferença com relação a autonomia.",
+                "D": "As Entidades Públicas têm personalidade \njurídica própria.",
+                "E": "Os Órgãos Públicos têm personalidade \njurídica própria."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: A Administração Pública Indireta pode ser \nexercida, após passar por criação em lei \nespecífica, por intermédio de(a):",
+            "alternativas": {
+                "A": "Industrias privadas.",
+                "B": "Autarquias.",
+                "C": "Industrias de bens duráveis.",
+                "D": "Empresas privadas exclusivamente de \nprestação de serviço.",
+                "E": "Inteligência Artificial. Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 9 de 14 QUESTÃO 29 \nA Administração Pública, em conformidade \ncom o Direito Constitucional, tem o dever de \nagir conforme a legislação vigente e \nConstituição da Republica Federativa do Brasil, \nnão deixando de observar a todo momento o \nprincípio da: \n(A) Individualidade. \n(B) Autonomia. \n(C) Independência. \n(D) Universalidade. \n(E) Legalidade."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: A Administração Pública tem como um dos \nseus princípios básicos a impessoalidade, que \nestá diretamente ligado:",
+            "alternativas": {
+                "A": "A igualdade de tratamento que a \nadministração pública deve dispensar a todos os \nadministrados que estejam na mesma situação \njurídica.",
+                "B": "A auto executoriedade que o estado tem, \npara praticar atos e criar novas leis.",
+                "C": "A obrigação do estado de não requerer \ndocumentos pessoais das pessoas e empresas ao \nelaborar licitação pública.",
+                "D": "A indiferença que o estado deve adotar com \nrelação aos grupos de pessoas com menos \nrepresentatividade na população.",
+                "E": "A publicidade de todos os atos \nadministrativos praticados pelo estado. \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 31 \nOs atos da Administração Pública, \ncorrespondem aos atos praticados pela \nAdministração Pública enquanto no exercício \nda função administrativa. \nEntre os elementos que compõem o ato \nadministrativo, ao o conjunto das atribuições \nconferidas aos ocupantes de um cargo, emprego \nou função pública que o habilita para a prática \ndo ato administrativo, dá-se o nome de: \n(A) Subordinação. \n(B) Definição. \n(C) Representação. \n(D) Competência. \n(E) Arrolamento."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: A exposição dos pretextos que deram origem ao \nato administrativo, quando previstos em lei, \ncompõem a forma do ato. \nEssa exposição está diretamente relacionada \ncom a:",
+            "alternativas": {
+                "A": "Motivação do ato administrativo.",
+                "B": "Anulação do ato administrativo.",
+                "C": "Cancelamento do ato administrativo.",
+                "D": "Postergação do ato administrativo.",
+                "E": "Ausência do ato administrativo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: A motivação dos Atos Administrativos deve \nser:",
+            "alternativas": {
+                "A": "Sigilosa.",
+                "B": "Colidente.",
+                "C": "Congruente.",
+                "D": "Discrepante.",
+                "E": "Inconciliável. \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 10 de 14 QUESTÃO 34 \nConcernente a motivação dos atos \nadministrativos, analisar os itens abaixo: \nI. Os atos administrativos deverão ser \nmotivados, com indicação dos fatos e dos \nfundamentos jurídicos, quando decidam \nrecursos administrativos. \nII. Os atos administrativos deverão ser \nmotivados, com indicação dos fatos e dos \nfundamentos jurídicos, quando decorram de \nreexame de ofício. \nIII. Os atos administrativos deverão ser \nmotivados, com indicação dos fatos e dos \nfundamentos jurídicos, quando imponham ou \nagravem deveres, encargos ou sanções \nEstá(ão) Correto(s) \n(A) Somente o item I. \n(B) Somente o item II. \n(C) Somente os itens I e II. \n(D) Somente os itens II e III. \n(E) Todos os itens."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: As relações humanas no ambiente de trabalho \npodem promover o bem-estar e a motivação da \nequipe como um todo, para isso o servidor \npúblico deve adotar uma atitude:",
+            "alternativas": {
+                "A": "Repressiva.",
+                "B": "Intolerante.",
+                "C": "Colaborativa.",
+                "D": "Agressiva.",
+                "E": "Insultuosa."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Ao relacionar-se com os colegas de profissão, o \nservidor público não deve praticar ações \nrelacionadas a:",
+            "alternativas": {
+                "A": "Orientação das atividades dos novos \nprofissionais.",
+                "B": "Colaboração com a atividade de outros \nmembros da equipe.",
+                "C": "Fofocas de outros colegas de trabalho.",
+                "D": "Elogios sinceros sobre as qualidades dos \noutros profissionais.",
+                "E": "Compartilhamento de conhecimento com os \ncolaboradores em qualificação. QUESTÃO 37 \nOs princípios orçamentários integram \npremissas a serem analisadas na elaboração e na \nexecução da lei orçamentária  \nO orçamento deve ser uno, ou seja, deve existir \napenas um orçamento para dado exercício \nfinanceiro e para determinado ente, contendo \ntodas as: \n(A) Contratações e demissões de profissionais. \n(B) Receitas e despesas. \n(C) Alienações e serviços. \n(D) Leis e decretos. \n(E) Previsões de incidentes naturais."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: O orçamento estadual deve ser elaborado e \nautorizado para um determinado período de \ntempo, chamado exercício financeiro e que, \nresguardadas as situações especiais, deve \ncorresponder ao:",
+            "alternativas": {
+                "A": "Ano civil.",
+                "B": "Biênio administrativo.",
+                "C": "Quadriênio administrativo.",
+                "D": "Semestre vigente.",
+                "E": "Quadrimestre vigente."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: O teor orçamentário deve ser divulgado \n(publicado) nos veículos oficiais de \ncomunicação para ciência do público e para \neficácia de sua:",
+            "alternativas": {
+                "A": "Alteração.",
+                "B": "Previsão.",
+                "C": "Autorização.",
+                "D": "Idoneidade.",
+                "E": "Validade. \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 11 de 14 QUESTÃO 40 \nA redação oficial refere-se a maneira pela qual \no Poder Público registra atos normativos e \ncomunicações oficiais. Por meio dela, é \npossível estabelecer a interação entre os \ndiversos órgãos públicos, entre o Poder Público \ne os cidadãos, ou entre o Poder Público e as \nempresas.  \nUma das formas de correspondência utilizado \npelo poder público em seus atos é a(o): \n(A) Certidão. \n(B) Ata. \n(C) Procuração. \n(D) Carta. \n(E) Decreto."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31: Em acordo com a redação oficial, assinalar a \nalternativa que completa corretamente a lacuna \ndo texto a seguir: \nSão exigências da estruturação das redações \noficiais a impessoalidade, clareza, _________, \nobjetividade e uso do nível culto da linguagem.",
+            "alternativas": {
+                "A": "concisão",
+                "B": "arcaísmo",
+                "C": "barbarismo",
+                "D": "solecismo",
+                "E": "pleonasmo"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32: Assinale a alternativa que descreve \ncorretamente qual é o pronome de tratamento \nadequado em redações oficiais, ao dirigir-se ao \nPresidente do Senado do Brasil:",
+            "alternativas": {
+                "A": "Vossa senhoria.",
+                "B": "Vossa Excelência.",
+                "C": "Vossa majestade.",
+                "D": "Vossa unanimidade.",
+                "E": "Vossa santidade. \n QUESTÃO 43 \nEm redações oficiais, a abreviatura utilizada \npara o destinatário “Vossa Reverência”, \ncorresponde a: \n(A) V. Sta. \n(B) V. r. \n(C) V. Rvr. \n(D) V. Rrv. \n(E) V. Reva."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33: Apoiado pela Lei nº 8.078 de 1990 – Código de \nDefesa do Consumidor, assinale a alternativa \nque completa corretamente a lacuna do texto a \nseguir: \nArt. 9° O fornecedor de produtos e serviços \npotencialmente nocivos ou perigosos à saúde \nou segurança deverá informar, de maneira \n_________________, a respeito da sua \nnocividade ou periculosidade, sem prejuízo da \nadoção de outras medidas cabíveis em cada \ncaso concreto.",
+            "alternativas": {
+                "A": "indireta",
+                "B": "imprecisa",
+                "C": "ineficiente",
+                "D": "discreta e adequada",
+                "E": "ostensiva e adequada \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 12 de 14 QUESTÃO 45 \nCom base na Lei nº 8.078 de 1990 – Código de \nDefesa do Consumidor, analisar os itens a \nseguir: \nI.  A proteção da vida, saúde e segurança contra \nos riscos provocados por práticas no \nfornecimento de produtos e serviços \nconsiderados perigosos ou nocivos é um dos \ndireitos básicos do consumidor. \nII. A efetiva prevenção e reparação de danos \npatrimoniais e morais, individuais, coletivos e \ndifusos é um dos direitos básicos do \nconsumidor. \nIII. O direito de reclamar pelos vícios aparentes \nou de fácil constatação caduca em trinta dias, \ntratando-se de fornecimento de serviço e de \nprodutos não duráveis. \nEstá(ão) Correto(s): \n(A) Somente o item I. \n(B) Somente o item II. \n(C) Somente o item III. \n(D) Somente os itens I e III. \n(E) Todos os itens."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 34: A Lei nº 8.078 de 1990 – Código de Defesa do \nConsumidor define que é proibida toda \npublicidade:",
+            "alternativas": {
+                "A": "Redundante.",
+                "B": "Abusiva.",
+                "C": "Precisa.",
+                "D": "Integra.",
+                "E": "Repetitiva. \n \n \n \n \n \n \n QUESTÃO 47 \nEm acordo com a Lei n 13.460 de 2017, que \ndispõe sobre os procedimentos a serem \nobservados pela União, Estados, Distrito \nFederal e Municípios, com o fim de garantir o \nacesso a informações é correto afirmar que: \n(A) O órgão ou entidade pública deverá \nautorizar ou conceder o acesso em 10 dias sobre \nas informação disponível. \n(B) Quando se tratar de acesso à informação \ncontida em documento cuja manipulação possa \nprejudicar sua integridade, o acesso deve ser \nprontamente negado. \n(C)  Não é direito do requerente obter o inteiro \nteor de decisão de negativa de acesso, por \ncertidão ou cópia. \n(D) Cabe aos órgãos e entidades do poder \npúblico, observadas as normas e procedimentos \nespecíficos aplicáveis, assegurar a gestão \ntransparente da informação, propiciando amplo \nacesso a ela e sua divulgação. \n(E) Para o acesso a informações de interesse \npúblico, a identificação do requerente pode \nconter exigências que inviabilizem a \nsolicitação. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 13 de 14 QUESTÃO 48 \nCom base na Lei n 13.460 de 2017, que dispõe \nsobre os procedimentos a serem observados \npela União, Estados, Distrito Federal e \nMunicípios, com o fim de garantir o acesso a \ninformações, marcar C para as afirmativas \nCertas, E para as Erradas e, após, assinalar a \nalternativa que apresenta a sequência \nCORRETA:  \n(_) São consideradas imprescindíveis à \nsegurança da sociedade ou do Estado e, \nportanto, passíveis de classificação as \ninformações cuja divulgação ou acesso \nirrestrito possam pôr em risco a vida, a \nsegurança ou a saúde da população.  \n(_) São consideradas imprescindíveis à \nsegurança da sociedade ou do Estado e, \nportanto, passíveis de classificação as \ninformações cuja divulgação ou acesso \nirrestrito possam oferecer elevado risco à \nestabilidade financeira, econômica ou \nmonetária do País.  \n(_) É dever dos órgãos e entidades públicas \npromover, vinculada a requerimentos, a \ndivulgação em local de fácil acesso, no \nâmbito de suas competências, de \ninformações de interesse coletivo ou geral \npor eles produzidas ou custodiadas.  \n(A) C – C – C. \n(B) C – C – E. \n(C) C – E – E. \n(D) E – E – C. \n(E) E – C – C. \n \n \n \n \n \n \n \n QUESTÃO 49 \nOs usuários dos serviços públicos podem \napresentar manifestações perante a \nadministração publica por meio das ouvidorias. \nSobre o processo de manifestação do usuário, é \ncorreto afirmar que: \n(A) A identificação do requerente não pode \nconter exigências que inviabilizem sua \nmanifestação. \n(B) São requisitos obrigatórios as exigências \nrelativas aos motivos determinantes da \napresentação de manifestações perante a \nouvidoria. \n(C) Caso não haja ouvidoria, o usuário fica \nimpedido de apresentar manifestação contra os \nórgãos públicos. \n(D) A manifestação jamais poderá ser feita por \nmeio eletrônico. \n(E) A manifestação deve ser feita única e \nexclusivamente verbalmente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 35: A ouvidoria, ao conduzir os procedimentos \nadministrativos relativos à análise das \nmanifestações, deve observar os princípios da:",
+            "alternativas": {
+                "A": "Eficiência e burocratização.",
+                "B": "Eficiência e pessoalidade.",
+                "C": "Eficiência e discricionariedade.",
+                "D": "Eficiência e da celeridade.",
+                "E": "Eficiência e obsolescência. \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 14 de 14"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Segundo a reportagem apresentada, conclui-se \nque:",
+            "alternativas": {
+                "A": "o elefante-marinho mais velho ofereceu \nassistência ao filhote por considerá-lo uma \npresa.",
+                "B": "a assistência do elefante-marinho mais \nvelho se trata de um comportamento sexual mal \ndirecionado em relação à mãe do filhote.",
+                "C": "o cuidado com os filhotes dessa espécie \ncostuma ser de responsabilidade das fêmeas, e \nnão dos machos.",
+                "D": "o resgate do filhote foi feito pelo elefante-\nmarinho mais velho em troca de acasalamento.",
+                "E": "os elefantes-marinhos machos não \nparticipam do cuidado com os filhotes porque \nfocam em sua própria sobrevivência. \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 3 de 14"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Os pesquisadores consideraram o resgate do \nfilhote como um episódio de altruísmo pois:",
+            "alternativas": {
+                "A": "o elefante-marinho sofreu risco de vida para \nsalvar o filhote.",
+                "B": "o elefante-marinho sacrificou outro animal \npara salvar o filhote.",
+                "C": "o elefante-marinho gastou sua energia no \nresgate do filhote, e não em outras atividades.",
+                "D": "elefantes-marinhos machos costumam ser \nbastante agressivos com filhotes, e não \ncompassivos.",
+                "E": "elefantes-marinhos machos costumam \ndominar fêmeas e filhotes para competir com \noutros animais."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Analise o excerto a seguir quanto aos \nmecanismos de coesão textual: “Ele, por sua \nvez, não conseguia nadar e era puxado para \nmais longe pelas ondas.” Assinale a alternativa \nque classifica corretamente o tipo de coesão \ntextual verificada no excerto apresentado, com \nbase no emprego do pronome pessoal, bem \ncomo indica o elemento a que o pronome se \nrefere no texto.",
+            "alternativas": {
+                "A": "coesão referencial anafórica, que retoma o \nreferente “o filhote” anteriormente enunciado.",
+                "B": "coesão referencial catafórica, que introduz \no referente “o filhote” no texto.",
+                "C": "coesão referencial anafórica, que retoma o \nreferente “um macho” anteriormente \nenunciado.",
+                "D": "coesão por substituição, que retoma e \natualiza com uma nova característica o \nreferente “o filhote” anteriormente enunciado.",
+                "E": "coesão lexical, que retoma por meio de um \nhiperônimo o referente “o filhote” \nanteriormente enunciado. \n \n \n \n  \n \n \nConsidere o excerto a seguir para responder \nàs questões 4 e 5: \n \nEntão, um macho, identificado como o alfa do \ngrupo, se aproximou da fêmea e, logo depois, \nseguiu em direção ao filhote – que já estava a \naproximadamente 40 metros da fêmea."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Em termos de papel sintático, o elemento \ncolocado entre vírgulas “identificado como o \nalfa do grupo”, no contexto apresentado, \nconstitui:",
+            "alternativas": {
+                "A": "aposto do sujeito.",
+                "B": "complemento nominal.",
+                "C": "adjunto adnominal.",
+                "D": "vocativo do sujeito.",
+                "E": "adjunto adverbial."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Quanto à classificação gramatical, a oração \nintroduzida pelo sinal de travessão ( –), no \nexcerto apresentado, corresponde a uma:",
+            "alternativas": {
+                "A": "oração coordenada explicativa.",
+                "B": "oração subordinada adjetiva explicativa.",
+                "C": "oração subordinada adjetiva restritiva.",
+                "D": "oração coordenada aditiva.",
+                "E": "oração subordinada substantiva objetiva \ndireta."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir e assinale aquela \nem que ocorre uma oração subordinada \nsubstantiva subjetiva.",
+            "alternativas": {
+                "A": "A expectativa é de que o professor cancele \na prova.",
+                "B": "Ela se esqueceu de anotar os compromissos \nnaquele dia.",
+                "C": "Não é segredo que eles já não se toleram no \nambiente de trabalho.",
+                "D": "Não demore muito, que estou com pressa.",
+                "E": "Os meninos foram suspensos porque só \nfaziam bagunça na sala de aula.  \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 4 de 14"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Considere o excerto a seguir, retirado de uma \nreportagem publicada na Revista Galileu, \nacerca de uma descoberta arqueológica:  \n“‘A parte mais incrível [da descoberta] é o \nquanto tudo está bem preservado e que agora \nsabemos onde havia árvores em ambientes que \nnão as têm mais’, diz Basil Stow, guarda \nflorestal do National Trust, em entrevista ao \njornal The Guardian.”   \nO excerto dado se apresenta em discurso direto. \nAssinale a alternativa que o reescreve \ncorretamente em discurso indireto.",
+            "alternativas": {
+                "A": "Basil Stow, guarda florestal do National \nTrust, disse, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] é o quanto tudo está bem \npreservado e que agora sabem onde há árvores \nem ambientes que não as teriam mais.",
+                "B": "Basil Stow, guarda florestal do National \nTrust, diz, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] é o quanto tudo está bem \npreservado e que agora sabem onde há árvores \nem ambientes que não as tinham mais.",
+                "C": "Basil Stow, guarda florestal do National \nTrust, disse, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] foi o quanto tudo estava bem \npreservado e que agora sabem onde havia \nárvores em ambientes que não as tinham mais.",
+                "D": "Basil Stow, guarda florestal do National \nTrust, disse, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] era o quanto tudo estava bem \npreservado e que agora sabiam onde havia \nárvores em ambientes que não as tinham mais.",
+                "E": "Basil Stow, guarda florestal do National \nTrust, diz, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] é o quanto tudo estava bem \npreservado e que agora sabem onde havia \nárvores em ambientes que não as têm mais."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale a \nalternativa em que se verifica a ocorrência de \num vocativo.",
+            "alternativas": {
+                "A": "Ana, que já não aguentava o calor, \ndesmaiou em meio ao espetáculo.",
+                "B": "A garota, filha mais velha do romancista, \ntambém passou a escrever nas horas vagas.",
+                "C": "Já te disse, meu amigo, que a vida não pausa \npara que possamos resolver as coisas.",
+                "D": "Foi ensinada desde pequena a ser fiel aos \ndeuses.",
+                "E": "Nessa época do ano, as folhas amanhecem \nsempre umedecidas pelo orvalho."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Considere as sentenças:  \nI. Os frascos do laboratório _____ amostras do \nvírus, que serão analisadas para o \ndesenvolvimento da vacina. \nII. A garota não espera que _____ com ela para \na feira de ciências. \nIII. Gostaria de saber quantos litros de gás \n_____ este botijão.   \nAssinale as alternativas que indicam os verbos \nque preenchem corretamente as lacunas das \nsentenças dadas.",
+            "alternativas": {
+                "A": "contém; contem; contêm.",
+                "B": "contêm; contem; contém.",
+                "C": "contem; contém; contêm.",
+                "D": "contêm; contém; contem.",
+                "E": "contém; contem; contém."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Assinale a alternativa em que todas as palavras \nindicadas flexionam em gênero.",
+            "alternativas": {
+                "A": "pastor; credo; oráculo.",
+                "B": "amplitude; amazona; inimigo.",
+                "C": "cidadão; piloto; fantástico.",
+                "D": "qual; muito; atacante.",
+                "E": "jogador; esquerda; titular.  Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 5 de 14 MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Dois irmãos recebem uma mesada. Um deles, o \nmais velho, recebe R$ 80,00, e o mais novo \nrecebe R$ 55,00. Insatisfeito com o constante \naumento de preços na cantina da escola, o irmão \nmais velho pediu um aumento da sua mesada \npara que ele receba o valor de R$ 100,00, que \nlhe foi concedido. A mesada do irmão mais \nnovo também será aumentada na mesma \nproporção. Qual será o novo valor recebido pelo \nirmão mais novo?",
+            "alternativas": {
+                "A": "R$ 75,00.",
+                "B": "R$ 68,75.",
+                "C": "R$ 60,00.",
+                "D": "R$ 72,15.",
+                "E": "R$ 69,25."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Observe a sequência lógica figural abaixo: \nDentre as correspondências, indique o próximo \nelemento desta sequência:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "IV.",
+                "E": "V. \n \n \n QUESTÃO 13 \nA figura abaixo mostra um quadrado ABCD de \nlado 1 cm. Os segmentos EF e GH passam \nexatamente pelo centro do quadrado, e são \nparalelos aos lados, conforme a figura: \nIndique a área da região sombreada, em cm2: \n(A) 1/4.  \n(B) 1/8.  \n(C) 1/16.  \n(D) 1/32.  \n(E) 1/64."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Observe a sequência abaixo feita com \nquadrados de lado 𝑎: \n \nO primeiro elemento é feito com quatro \nquadrados, e seu perímetro é 10𝑎. Indique o \nperímetro do 10° elemento:",
+            "alternativas": {
+                "A": "23𝑎.",
+                "B": "32𝑎.",
+                "C": "40𝑎.",
+                "D": "56𝑎.",
+                "E": "64𝑎. \n \n \nCâmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 6 de 14 QUESTÃO 15 \nJoão está fazendo um experimento para a feira \nde ciências da sua escola. Ele pretende medir \numa grandeza física cujo valor correto é 10,0, \nmas nos seus cálculos ele obtém o valor de 12,0. \nEm quantos por cento a medida de João difere \nem relação ao valor correto? \n(A) 16,7%. \n(B) 18,4%. \n(C) 25,0%. \n(D) 20,0%. \n(E) 19,5%."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Numa escola, cada aluno tem um armário para \nguardar seus pertences. Os armários são \nenfileirados e enumerados. Os armários \nenumerados de 1 a 5 pertencem aos estudantes \nMatilde, Jéssica, Ana, Gabriel e Carlos, não \nnecessariamente nesta ordem. No primeiro dia \nde Gabriel, ele não sabia qual seria o seu \narmário, e perguntou para os demais colegas. \nEles responderam: \n• O número do armário de Matilde é \nmaior que o seu;  \n• O número do armário de Carlos é maior \nque o de Matilde;  \n• Os dois últimos armários pertencem a \nJéssica ou a Ana; \nCom essas informações, qual o número do \narmário de Gabriel?",
+            "alternativas": {
+                "A": "1.",
+                "B": "2.",
+                "C": "3.",
+                "D": "4.",
+                "E": "5. \n \n \n \n \n QUESTÃO 17 \nDois reservatórios A e B, de 1000 litros cada, \nserão cheios por torneiras que têm vazões \ndiferentes. Antes de começar o enchimento, o \nreservatório A está incialmente vazio e o \nreservatório B já está com 1/8 do seu volume \npreenchido. A torneira que encherá o \nreservatório A despejará 6 litros de água a cada \nsegundo. Já a torneira que encherá o \nreservatório B despejará 2 litros de água a cada \nsegundo. Sabendo-se que as duas torneiras \nserão ligadas simultaneamente, em quanto \ntempo após o ligamento os reservatórios terão o \nmesmo volume? \n(A) 31,25 segundos. \n(B) 15,12 segundos. \n(C) 19,65 segundos. \n(D) 18,15 segundos. \n(E) 42,25 segundos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Uma pessoa está fazendo uma pesquisa de \nsatisfação com os clientes de uma determinada \nmarca. A pesquisa consiste em o cliente dar \numa nota de 0 a 100 para o serviço desta marca. \nNo ano passado, a média da nota dada pelos \nclientes foi 68. Esse ano, a meta é que a nota \naumente em 25%. Se a pesquisa for feita com \n100 clientes, qual deve ser a soma das suas \nrespectivas notas para que se atinja a meta?",
+            "alternativas": {
+                "A": "8500.",
+                "B": "850.",
+                "C": "170.",
+                "D": "1700.",
+                "E": "17000. \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 7 de 14 QUESTÃO 19 \nObserve as seguintes afirmativas sobre ângulos \npositivos: \nI – Um ângulo reto é sempre igual a 90°; \nII – Ângulos agudos são menores que 90°; \nIII – Ângulos obtusos então entre 90° e 180°. \nEstão corretos: \n(A) Somente I. \n(B) I e II. \n(C) I e III. \n(D) II e III. \n(E) I, II e III."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: De acordo com o Instituto Brasileiro de \nGeografia e Estatística (IBGE), em 2020 o \nnúmero de pessoas desempregadas no Brasil foi \nde 14 milhões. O gráfico abaixo mostra \nalgumas estratificações desse número: \nAdaptado de: Pnad Covid 19, IBGE.  \nAnalisando o gráfico, é possível afirmar que o \nnúmero de pessoas desempregadas com 50 anos \nou mais é, em milhões:",
+            "alternativas": {
+                "A": "1,40.",
+                "B": "1,82.",
+                "C": "13,0.",
+                "D": "10,0.",
+                "E": "0,42. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Com base nos conhecimentos relacionados ao \nWindows 7, analisar as afirmações a seguir: \nI. O Windows 7 permite o compartilhamento de \narquivos entre computadores conectados a uma \nmesma rede doméstica. \nII. O Windows 7 permite o compartilhamento \nde impressoras entre computadores conectados \na uma mesma rede doméstica. \nIII. Quando você abre arquivos e programas no \nWindows 7, os ícones aparecem no menu de \nconfigurações para que você possa alternar \nentre eles. \nEstá(ão) Correto(s):",
+            "alternativas": {
+                "A": "Somente o item I.",
+                "B": "Somente o item II.",
+                "C": "Somente os itens I e II.",
+                "D": "Somente os itens II e III.",
+                "E": "Todos os itens."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Sobre as funcionalidades presentes na barra de \ntarefas do Windows 7, marcar C para as \nafirmativas Certas, E para as Erradas e, após, \nassinalar a alternativa que apresenta a sequência \nCORRETA:  \n(_) É possível visualizar os programas que \nestão abertos no Windows 7 utilizando a \nbarra de tarefas.  \n(_) A barra de tarefas apresenta ao usuário a \nopção de desinstalar rapidamente um \nprograma em uso.  \n(_) É possível fixar os programas mais \nutilizados na barra de tarefas, para facilitar o \ntrabalho no dia a dia.",
+            "alternativas": {
+                "A": "C – C – C.",
+                "B": "C – E – E.",
+                "C": "C – E – C.",
+                "D": "E – E – C.",
+                "E": "E – C – C. \nCâmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 8 de 14 QUESTÃO 23 \nÉ um dos programas nativos do Windows 7, \npresente ao instalar a versão do Sistema \nOperacional: \n(A) Calculadora. \n(B) 7-zip. \n(C) Winzip. \n(D) Dropbox. \n(E) Steam."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Quanto mais você usa seu computador, mais \naumenta o número de arquivos que precisam ser \ngerenciados. O meio indicado para abrir pastas \ne navegar entre os diretórios existentes no \nWindows 7 é utilizando o:",
+            "alternativas": {
+                "A": "Google Chrome.",
+                "B": "Windows Explorer.",
+                "C": "Bloco de notas.",
+                "D": "Adobe 7.0.",
+                "E": "Google Maps."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Entre as teclas de atalho presentes no Windows \n7, qual das funções abaixo é acionada ao utilizar \no comando de teclado Windows + T:",
+            "alternativas": {
+                "A": "Trocar de usuário do computador.",
+                "B": "Bloquear o computador.",
+                "C": "Maximizar a janela.",
+                "D": "Maximiza a janela.",
+                "E": "Percorrer aplicativos na barra de tarefas. \n \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: A expressão Administração Pública é utilizada \npara fazer referência ao grupo de entes e \norganizações titulares da função administrativa. \nÉ um dos exemplos de agentes políticos da \nestrutura da administração pública:",
+            "alternativas": {
+                "A": "O presidente da república.",
+                "B": "Ouvidores municipais.",
+                "C": "Servidores públicos investido no carto por \nmeio de concurso.",
+                "D": "Licitantes.",
+                "E": "Sociedades de economia mista."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Os órgãos e entidades públicas são unidades \nque sintetizam os vários círculos de atribuições \ndo estado. \nSobre os órgãos e entidades públicas, é correto \nafirmar que:",
+            "alternativas": {
+                "A": "Os órgãos públicos não têm relação direta \ncom o estado.",
+                "B": "As entidades públicas não estão \nrelacionadas às atividades estatais.",
+                "C": "Órgão e Entidades Públicas não tem \ndiferença com relação a autonomia.",
+                "D": "As Entidades Públicas têm personalidade \njurídica própria.",
+                "E": "Os Órgãos Públicos têm personalidade \njurídica própria."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: A Administração Pública Indireta pode ser \nexercida, após passar por criação em lei \nespecífica, por intermédio de(a):",
+            "alternativas": {
+                "A": "Industrias privadas.",
+                "B": "Autarquias.",
+                "C": "Industrias de bens duráveis.",
+                "D": "Empresas privadas exclusivamente de \nprestação de serviço.",
+                "E": "Inteligência Artificial. Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 9 de 14 QUESTÃO 29 \nA Administração Pública, em conformidade \ncom o Direito Constitucional, tem o dever de \nagir conforme a legislação vigente e \nConstituição da Republica Federativa do Brasil, \nnão deixando de observar a todo momento o \nprincípio da: \n(A) Individualidade. \n(B) Autonomia. \n(C) Independência. \n(D) Universalidade. \n(E) Legalidade."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: A Administração Pública tem como um dos \nseus princípios básicos a impessoalidade, que \nestá diretamente ligado:",
+            "alternativas": {
+                "A": "A igualdade de tratamento que a \nadministração pública deve dispensar a todos os \nadministrados que estejam na mesma situação \njurídica.",
+                "B": "A auto executoriedade que o estado tem, \npara praticar atos e criar novas leis.",
+                "C": "A obrigação do estado de não requerer \ndocumentos pessoais das pessoas e empresas ao \nelaborar licitação pública.",
+                "D": "A indiferença que o estado deve adotar com \nrelação aos grupos de pessoas com menos \nrepresentatividade na população.",
+                "E": "A publicidade de todos os atos \nadministrativos praticados pelo estado. \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 31 \nOs atos da Administração Pública, \ncorrespondem aos atos praticados pela \nAdministração Pública enquanto no exercício \nda função administrativa. \nEntre os elementos que compõem o ato \nadministrativo, ao o conjunto das atribuições \nconferidas aos ocupantes de um cargo, emprego \nou função pública que o habilita para a prática \ndo ato administrativo, dá-se o nome de: \n(A) Subordinação. \n(B) Definição. \n(C) Representação. \n(D) Competência. \n(E) Arrolamento."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: A exposição dos pretextos que deram origem ao \nato administrativo, quando previstos em lei, \ncompõem a forma do ato. \nEssa exposição está diretamente relacionada \ncom a:",
+            "alternativas": {
+                "A": "Motivação do ato administrativo.",
+                "B": "Anulação do ato administrativo.",
+                "C": "Cancelamento do ato administrativo.",
+                "D": "Postergação do ato administrativo.",
+                "E": "Ausência do ato administrativo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: A motivação dos Atos Administrativos deve \nser:",
+            "alternativas": {
+                "A": "Sigilosa.",
+                "B": "Colidente.",
+                "C": "Congruente.",
+                "D": "Discrepante.",
+                "E": "Inconciliável. \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 10 de 14 QUESTÃO 34 \nConcernente a motivação dos atos \nadministrativos, analisar os itens abaixo: \nI. Os atos administrativos deverão ser \nmotivados, com indicação dos fatos e dos \nfundamentos jurídicos, quando decidam \nrecursos administrativos. \nII. Os atos administrativos deverão ser \nmotivados, com indicação dos fatos e dos \nfundamentos jurídicos, quando decorram de \nreexame de ofício. \nIII. Os atos administrativos deverão ser \nmotivados, com indicação dos fatos e dos \nfundamentos jurídicos, quando imponham ou \nagravem deveres, encargos ou sanções \nEstá(ão) Correto(s) \n(A) Somente o item I. \n(B) Somente o item II. \n(C) Somente os itens I e II. \n(D) Somente os itens II e III. \n(E) Todos os itens."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: As relações humanas no ambiente de trabalho \npodem promover o bem-estar e a motivação da \nequipe como um todo, para isso o servidor \npúblico deve adotar uma atitude:",
+            "alternativas": {
+                "A": "Repressiva.",
+                "B": "Intolerante.",
+                "C": "Colaborativa.",
+                "D": "Agressiva.",
+                "E": "Insultuosa."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Ao relacionar-se com os colegas de profissão, o \nservidor público não deve praticar ações \nrelacionadas a:",
+            "alternativas": {
+                "A": "Orientação das atividades dos novos \nprofissionais.",
+                "B": "Colaboração com a atividade de outros \nmembros da equipe.",
+                "C": "Fofocas de outros colegas de trabalho.",
+                "D": "Elogios sinceros sobre as qualidades dos \noutros profissionais.",
+                "E": "Compartilhamento de conhecimento com os \ncolaboradores em qualificação. QUESTÃO 37 \nOs princípios orçamentários integram \npremissas a serem analisadas na elaboração e na \nexecução da lei orçamentária  \nO orçamento deve ser uno, ou seja, deve existir \napenas um orçamento para dado exercício \nfinanceiro e para determinado ente, contendo \ntodas as: \n(A) Contratações e demissões de profissionais. \n(B) Receitas e despesas. \n(C) Alienações e serviços. \n(D) Leis e decretos. \n(E) Previsões de incidentes naturais."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: O orçamento estadual deve ser elaborado e \nautorizado para um determinado período de \ntempo, chamado exercício financeiro e que, \nresguardadas as situações especiais, deve \ncorresponder ao:",
+            "alternativas": {
+                "A": "Ano civil.",
+                "B": "Biênio administrativo.",
+                "C": "Quadriênio administrativo.",
+                "D": "Semestre vigente.",
+                "E": "Quadrimestre vigente."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: O teor orçamentário deve ser divulgado \n(publicado) nos veículos oficiais de \ncomunicação para ciência do público e para \neficácia de sua:",
+            "alternativas": {
+                "A": "Alteração.",
+                "B": "Previsão.",
+                "C": "Autorização.",
+                "D": "Idoneidade.",
+                "E": "Validade. \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 11 de 14 QUESTÃO 40 \nA redação oficial refere-se a maneira pela qual \no Poder Público registra atos normativos e \ncomunicações oficiais. Por meio dela, é \npossível estabelecer a interação entre os \ndiversos órgãos públicos, entre o Poder Público \ne os cidadãos, ou entre o Poder Público e as \nempresas.  \nUma das formas de correspondência utilizado \npelo poder público em seus atos é a(o): \n(A) Certidão. \n(B) Ata. \n(C) Procuração. \n(D) Carta. \n(E) Decreto."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31: Em acordo com a redação oficial, assinalar a \nalternativa que completa corretamente a lacuna \ndo texto a seguir: \nSão exigências da estruturação das redações \noficiais a impessoalidade, clareza, _________, \nobjetividade e uso do nível culto da linguagem.",
+            "alternativas": {
+                "A": "concisão",
+                "B": "arcaísmo",
+                "C": "barbarismo",
+                "D": "solecismo",
+                "E": "pleonasmo"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32: Assinale a alternativa que descreve \ncorretamente qual é o pronome de tratamento \nadequado em redações oficiais, ao dirigir-se ao \nPresidente do Senado do Brasil:",
+            "alternativas": {
+                "A": "Vossa senhoria.",
+                "B": "Vossa Excelência.",
+                "C": "Vossa majestade.",
+                "D": "Vossa unanimidade.",
+                "E": "Vossa santidade. \n QUESTÃO 43 \nEm redações oficiais, a abreviatura utilizada \npara o destinatário “Vossa Reverência”, \ncorresponde a: \n(A) V. Sta. \n(B) V. r. \n(C) V. Rvr. \n(D) V. Rrv. \n(E) V. Reva."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33: Apoiado pela Lei nº 8.078 de 1990 – Código de \nDefesa do Consumidor, assinale a alternativa \nque completa corretamente a lacuna do texto a \nseguir: \nArt. 9° O fornecedor de produtos e serviços \npotencialmente nocivos ou perigosos à saúde \nou segurança deverá informar, de maneira \n_________________, a respeito da sua \nnocividade ou periculosidade, sem prejuízo da \nadoção de outras medidas cabíveis em cada \ncaso concreto.",
+            "alternativas": {
+                "A": "indireta",
+                "B": "imprecisa",
+                "C": "ineficiente",
+                "D": "discreta e adequada",
+                "E": "ostensiva e adequada \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 12 de 14 QUESTÃO 45 \nCom base na Lei nº 8.078 de 1990 – Código de \nDefesa do Consumidor, analisar os itens a \nseguir: \nI.  A proteção da vida, saúde e segurança contra \nos riscos provocados por práticas no \nfornecimento de produtos e serviços \nconsiderados perigosos ou nocivos é um dos \ndireitos básicos do consumidor. \nII. A efetiva prevenção e reparação de danos \npatrimoniais e morais, individuais, coletivos e \ndifusos é um dos direitos básicos do \nconsumidor. \nIII. O direito de reclamar pelos vícios aparentes \nou de fácil constatação caduca em trinta dias, \ntratando-se de fornecimento de serviço e de \nprodutos não duráveis. \nEstá(ão) Correto(s): \n(A) Somente o item I. \n(B) Somente o item II. \n(C) Somente o item III. \n(D) Somente os itens I e III. \n(E) Todos os itens."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 34: A Lei nº 8.078 de 1990 – Código de Defesa do \nConsumidor define que é proibida toda \npublicidade:",
+            "alternativas": {
+                "A": "Redundante.",
+                "B": "Abusiva.",
+                "C": "Precisa.",
+                "D": "Integra.",
+                "E": "Repetitiva. \n \n \n \n \n \n \n QUESTÃO 47 \nEm acordo com a Lei n 13.460 de 2017, que \ndispõe sobre os procedimentos a serem \nobservados pela União, Estados, Distrito \nFederal e Municípios, com o fim de garantir o \nacesso a informações é correto afirmar que: \n(A) O órgão ou entidade pública deverá \nautorizar ou conceder o acesso em 10 dias sobre \nas informação disponível. \n(B) Quando se tratar de acesso à informação \ncontida em documento cuja manipulação possa \nprejudicar sua integridade, o acesso deve ser \nprontamente negado. \n(C)  Não é direito do requerente obter o inteiro \nteor de decisão de negativa de acesso, por \ncertidão ou cópia. \n(D) Cabe aos órgãos e entidades do poder \npúblico, observadas as normas e procedimentos \nespecíficos aplicáveis, assegurar a gestão \ntransparente da informação, propiciando amplo \nacesso a ela e sua divulgação. \n(E) Para o acesso a informações de interesse \npúblico, a identificação do requerente pode \nconter exigências que inviabilizem a \nsolicitação. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 13 de 14 QUESTÃO 48 \nCom base na Lei n 13.460 de 2017, que dispõe \nsobre os procedimentos a serem observados \npela União, Estados, Distrito Federal e \nMunicípios, com o fim de garantir o acesso a \ninformações, marcar C para as afirmativas \nCertas, E para as Erradas e, após, assinalar a \nalternativa que apresenta a sequência \nCORRETA:  \n(_) São consideradas imprescindíveis à \nsegurança da sociedade ou do Estado e, \nportanto, passíveis de classificação as \ninformações cuja divulgação ou acesso \nirrestrito possam pôr em risco a vida, a \nsegurança ou a saúde da população.  \n(_) São consideradas imprescindíveis à \nsegurança da sociedade ou do Estado e, \nportanto, passíveis de classificação as \ninformações cuja divulgação ou acesso \nirrestrito possam oferecer elevado risco à \nestabilidade financeira, econômica ou \nmonetária do País.  \n(_) É dever dos órgãos e entidades públicas \npromover, vinculada a requerimentos, a \ndivulgação em local de fácil acesso, no \nâmbito de suas competências, de \ninformações de interesse coletivo ou geral \npor eles produzidas ou custodiadas.  \n(A) C – C – C. \n(B) C – C – E. \n(C) C – E – E. \n(D) E – E – C. \n(E) E – C – C. \n \n \n \n \n \n \n \n QUESTÃO 49 \nOs usuários dos serviços públicos podem \napresentar manifestações perante a \nadministração publica por meio das ouvidorias. \nSobre o processo de manifestação do usuário, é \ncorreto afirmar que: \n(A) A identificação do requerente não pode \nconter exigências que inviabilizem sua \nmanifestação. \n(B) São requisitos obrigatórios as exigências \nrelativas aos motivos determinantes da \napresentação de manifestações perante a \nouvidoria. \n(C) Caso não haja ouvidoria, o usuário fica \nimpedido de apresentar manifestação contra os \nórgãos públicos. \n(D) A manifestação jamais poderá ser feita por \nmeio eletrônico. \n(E) A manifestação deve ser feita única e \nexclusivamente verbalmente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 35: A ouvidoria, ao conduzir os procedimentos \nadministrativos relativos à análise das \nmanifestações, deve observar os princípios da:",
+            "alternativas": {
+                "A": "Eficiência e burocratização.",
+                "B": "Eficiência e pessoalidade.",
+                "C": "Eficiência e discricionariedade.",
+                "D": "Eficiência e da celeridade.",
+                "E": "Eficiência e obsolescência. \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nOUVIDOR                                                                                                                                                   Página 14 de 14"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Ao dizer que “é impossível escrever uma nota de \nsuicida num computador” , o personagem \nprincipal:",
+            "alternativas": {
+                "A": "conclui a nota que estava escrevendo e se vê \npronto para se suicidar.",
+                "B": "considera que o meio utilizado para a escrita \nde sua nota dificulta chegar à resolução final \ndesejada.",
+                "C": "considera que o fato de a nota ter sido escrita \nno computador é indiferente para o suicídio.",
+                "D": "depende exclusivamente de uma nota escrita \nà moda antiga para concluir seu suicídio.",
+                "E": "conclui que nem todas as notas finalizadas \nlevam seus autores ao suicídio.   \n \n Prefeitura Municipal de Cabreúva  – Concurso Público - 01/2024                                   INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                       Página 3 de 12 QUESTÃO 02 \nO antônimo de prolixidade , palavra que ocorre \nem “ A crítica elogia sua prolixidade (...)” , é: \n(A) loquacidade.  \n(B) extensão.  \n(C) concisão.   \n(D) verbosidade.  \n(E) difusão."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: O pronome em “No dia seguinte o revisaria”  \nevoca o mesmo referente designado em:",
+            "alternativas": {
+                "A": "“o texto”.",
+                "B": "“o computador”.",
+                "C": "“o autor”.",
+                "D": "“o papel”.",
+                "E": "“ele”."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Analise os excertos a seguir e assinale a \nalternativa em que ocorre um pronome \ndemonstrativo.",
+            "alternativas": {
+                "A": "É claro que o computador agravou a agonia.",
+                "B": "O suicídio substitui a publicação.",
+                "C": "Os que se suicidam mesmo são os que a \nterminam mais cedo.",
+                "D": "No dia seguinte o revisaria.",
+                "E": "No fundo, no fundo, os escritores passam o \ntempo todo redigindo a sua nota de suicida."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Em “É que escreveram a nota, mas esqueceram -\nse de se suicidar.” , o vocábulo “se” atua, \nrespectivamente, como:",
+            "alternativas": {
+                "A": "partícula de realce e parte integrante do verbo \npronominal.",
+                "B": "parte integrante do verbo pronominal e \npartícula de realce.",
+                "C": "partícula de realce e partícula de realce.",
+                "D": "parte integrante do verbo pronominal e parte \nintegrante do verbo pronominal.",
+                "E": "partícula de realce e conjunção integrante.   \n \n QUESTÃO 06 \nA contração “num”, que ocorre em “(...) uma \nnota de suicida num computador” , é composta \npor duas palavras que pertencem a classes \ngramaticais distintas, que são:  \n \n(A) preposição e artigo.  \n(B) preposição e pronome.   \n(C) conjunção e artigo.  \n(D) conjunção e pronome.  \n(E) preposição e substantivo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Analise os excertos a seguir e assinale a \nalternativa em que ocorre verbo com regência \nintransitiva.",
+            "alternativas": {
+                "A": "Releu a nota e achou que estava curta.",
+                "B": "Lembrara -se de outra coisa.",
+                "C": "Dessa vez não se levantou.",
+                "D": "Por via das dúvidas, guardou o texto na \nmemória do computador.",
+                "E": "E foi dormir."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: A sentença que apresenta incorreção quanto à \ncolocação pronominal é:",
+            "alternativas": {
+                "A": "Os móveis quebrados não se consertarão \nsozinhos.",
+                "B": "Convidá -la-am carinhosamente para os \neventos familiares.",
+                "C": "Prepare -se para a viagem com antecedência.",
+                "D": "Quem o emprestou este caderno?",
+                "E": "Não permitiria o casamento de sua filha, se o \nconhecesse melhor.  \n \n Prefeitura Municipal de Cabreúva  – Concurso Público - 01/2024                                   INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                       Página 4 de 12 QUESTÃO 09 \nAnalise as sentenças a seguir, considerando os \nverbos indicados entre parênteses ao final de \ncada uma. Assinale a alternativa que apresenta os \nrespectivos verbos conjugados de forma coerente \ncom o contexto apresentado nas sentenças às \nquais pertencem.   \nI. Eles querem que nos …. com a situação \ncaótica. ( acostumar ) \nII. Se …. o que aconteceu, entenderiam seu \nposicionamento. ( ver) \nIII. Talvez alguém …. com esses salafrários. \n(concordar ) \n(A) I. acostumemos; II. verem; III. concorda.  \n(B) I. acostumamos; II. vissem; III. concorda.  \n(C) I. acostumamos; II. verem; III. concorde.  \n(D) I. acostumemos; II. vissem; III. concorde.  \n(E) I. acostumarmos; II. virem; III. concordem."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise os conjuntos de palavras a seguir e \nassinale a alternativa em que todas as palavras \nindicadas têm o mesmo radical de origem.",
+            "alternativas": {
+                "A": "provavelmente - seriamente - latente.",
+                "B": "espalhar - espalhafatoso - palhaço.",
+                "C": "intracelular - interurbano - introverter.",
+                "D": "acefalia - apatia - anarquia.",
+                "E": "depauperado - empobrecido - provação.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: 1 \nSuponha que numa caixa há bolas vermelhas e \nverdes. Cada bola vermelha vale 8 pontos e cada \nbola verde vale 12 pontos. Sabe -se que se \nsomarmos a quantidade de bolas vermelhas e \nverdes da caixa obtemos 23 bolas, e se somarmos \na pontuação de todas as bolas d a caixa obtemos \n232 pontos. Quantas bolas vermelhas há na \ncaixa?",
+            "alternativas": {
+                "A": "10.",
+                "B": "11.",
+                "C": "12.",
+                "D": "13.",
+                "E": "15.  \n \n QUESTÃO 12  \nUma livraria tem uma seção específica para \nlivros de literatura, filosofia e sociologia. Em um \ndeterminado mês, a venda dos livros de \nsociologia representou 20% das vendas totais \ndessa seção. No mês seguinte, a venda dos livros \nde filosofia e literatura se  mantiveram iguais ao \nmês anterior, mas as unidades vendidas de livros \nde sociologia tiveram um aumento de 50%. \nQuantos por cento do total de livros vendidos \nnesta seção os livros de sociologia passaram a \nrepresentar, aproximadamente?  \n(A) 25,0 %.  \n(B) 27,3 %.  \n(C) 31,4 %.  \n(D) 34,5 %.  \n(E) 35,6 %."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Uma máquina é feita para alocar botões coloridos \nem uma malha quadriculada de 𝑛×𝑛 quadrados. \nA máquina coloca um botão por vez em qualquer \nquadriculado aleatório que esteja livre, porém ela \nsegue sempre uma dada ordem de cores para cada \nbotão colocado. O primeiro botão é sempre \nverde, depois coloca um botão amarelo, depois \nazul, depois  branco, depois vermelho, depois \nverde novamente e assim sucessivamente \nseguindo esta ordem. Numa malha de 64x64, \nqual será a cor do último botão a ser colocado?",
+            "alternativas": {
+                "A": "Verde.",
+                "B": "Amarelo.",
+                "C": "Azul.",
+                "D": "Brando.",
+                "E": "Vermelho."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Em uma fazenda em que só há galinhas e porcos, \na proporção de galinhas para porcos é de 5 para \n3. Se há 80 animais na fazenda, quantos deles são \nporcos?",
+            "alternativas": {
+                "A": "50.",
+                "B": "60.",
+                "C": "45.",
+                "D": "30.",
+                "E": "25.  Prefeitura Municipal de Cabreúva  – Concurso Público - 01/2024                                   INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                       Página 5 de 12 QUESTÃO 15  \nEm uma competição de quebra -cabeças, cinco \nparticipantes - Alice, Bob, Carol, David e Eve - \nestão competindo. Cada um deles resolveu um \nquebra -cabeça de um tema diferente: gatos, cães, \npássaros, peixes e flores, mas não \nnecessariamente nesta ordem. Conside re \nverdadeiras as seguintes afirmativas:  \n• Alice não resolveu o quebra -cabeça de cães;  \n• Bob resolveu o quebra -cabeça de peixes;  \n• Carol resolveu o quebra -cabeça de gatos;  \n• David não resolveu o quebra -cabeça de cães \nnem de pássaros;  \nCom base nas informações, quem resolveu o \nquebra -cabeça de pássaros?  \n(A) Alice.  \n(B) Bob.  \n(C) Carol.  \n(D) David.  \n(E) Eve."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Um quadrado de lado 𝑑 foi cortado ao meio ao \nlongo de uma de suas diagonais, resultando em \ndois triângulos iguais. Indique o perímetro de \ncada triângulo resultante:",
+            "alternativas": {
+                "A": "3𝑑.",
+                "B": "𝑑(1+√2).",
+                "C": "𝑑(2+√2).",
+                "D": "3𝑑/2.",
+                "E": "𝑑√2."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Num campeonato de futebol, o time ganhador \npontua 3 pontos e o time perdedor não pontua. \nNo caso de empate, ambos os times pontuam 1 \nponto. Todos os times começam com 0 pontos. \nSuponha que há 40 times nesse campeonato. No \nfinal da primeira rodada, onde tod os os times \njogaram uma única vez, sobre a média da \npontuação por time do campeonato, é correto \nafirmar que:",
+            "alternativas": {
+                "A": "Pode assumir valores entre 0,0 e 1,5, estes \ninclusos.",
+                "B": "Pode assumir valores menores que 0.",
+                "C": "Pode assumir valores maiores que 3.",
+                "D": "Pode assumir somente valores entre 1,0 e 1,5, \nestes inclusos.",
+                "E": "Pode assumir qualquer valor entre 0 e 3, estes \ninclusos.  QUESTÃO 18  \nUma prova de matemática contém 3 questões. A \ncada questão é atribuída uma nota de 0 a 100. A \nnota final é calculada como a média aritmética \nponderada de cada questão. A primeira questão \ntem peso 2,0, a segunda questão tem peso 3,0 e a \nterceira questão tem peso 5,0. Qual será a nota \nfinal da pessoa que acertou 50 pontos de cada \nquestão?  \n(A) 75.  \n(B) 65.  \n(C) 60.  \n(D) 55.  \n(E) 50."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Observe as afirmativas abaixo:  \nI – Se um polígono convexo tem todos os ângulos \ninternos iguais a 90°, então trata -se de um \nquadrilátero regular;  \nII – Para que um triângulo seja equilátero, todos \nos seus lados devem ter medidas iguais, mas não \nnecessariamente seus ângulos devem ser \ncongruentes.  \nIII – A razão entre o perímetro de uma \ncircunferência e o seu diâmetro é o mesmo valor, \nindependente do seu raio.",
+            "alternativas": {
+                "A": "Apenas I.",
+                "B": "Apenas II.",
+                "C": "Apenas III.",
+                "D": "I e III.",
+                "E": "II e III."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Uma empresa de engenharia está construindo \numa réplica em miniatura de um edifício \n(maquete). A maquete terá uma escala de 1:500, \no que significa que cada centímetro na maquete \nrepresenta 500 centímetros no edifício real. Se a \naltura do edifício real é de 150 metros, qual será \na altura do modelo em centímetros?",
+            "alternativas": {
+                "A": "3.",
+                "B": "0,3.",
+                "C": "3000.",
+                "D": "300.",
+                "E": "30.  \n Prefeitura Municipal de Cabreúva  – Concurso Público - 01/2024                                   INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                       Página 6 de 12 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: É um dos protocolos utilizados para a \ntransmissão de dados no sistema World -Wide \nWeb:",
+            "alternativas": {
+                "A": "URL.",
+                "B": "LINK.",
+                "C": "HTTPS.",
+                "D": "START.",
+                "E": "END."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Quando você estiver trabalhando em um \ndocumento no Microsoft Word com outras \npessoas ou você mesmo estiver editando um \ndocumento, para ver cada mudança feita pode -se \nativar a opção:",
+            "alternativas": {
+                "A": "Inserir Comentários.",
+                "B": "Controlar Acessos.",
+                "C": "Controlar Eventos.",
+                "D": "Controlar Usuários.",
+                "E": "Controlar Alterações."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Respeitando as funcionalidades presentes no \nmódulo de impressão de documentos do \nMicrosoft Word, acionado clicando na guia \n“Arquivo” e selecionando a opção “Imprimir”, \nassinale a alternativa que apresenta uma \nafirmação incorreta:",
+            "alternativas": {
+                "A": "Ao entrar no atalho de impressão, é possível \nvisualizar o documento produzido.",
+                "B": "O Microsoft Word permite que o usuário \ndefina quantas cópias do documento serão \nimpressas.",
+                "C": "Nas configurações de impressão, é possível \ndefinir a orientação que a listagem será emitida.",
+                "D": "O módulo de impressão permite ao usuário \ndefinir a fonte do texto que será impresso.",
+                "E": "O módulo de impressão permite ao usuário \ndefinir que a impressão será feita em papel A5.  \n \n QUESTÃO 24 \nAs teclas de atalhos do teclado são utilizadas no \nMicrosoft Word para dar maior produtividade na \nprodução e ajustes de textos. Observe a lista de \nações relacionada a seguir e assinale a alternativa \nque descreve corretamente qual é a ação obtida \nao utilizar a tecla de atalho “ End”, com o cursor \nsobre uma linha da redação:  \n \n(A) Mover o cursor para o final da linha onde o \ncursor está posicionado.  \n(B) Mover o cursor para o final do texto, \nindependente da linha em que o cursor está \nposicionado.  \n(C) Mover o cursor um parágrafo para cima.  \n(D) Mover o cursor um parágrafo para baixo.  \n(E) Entrar no módulo de visualização e \nimpressão."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: No Microsoft Excel são utilizados operadores \npara especificar o tipo de cálculo que o usuário \ndeseja efetuar nos elementos de uma fórmula.  \n \nPara estruturar uma multiplicação entre dois \nelementos, o operador aritmético a ser empregue \nserá o(a):",
+            "alternativas": {
+                "A": "* (asterisco).",
+                "B": "% (sinal de porcentagem).",
+                "C": "^ (acento circunflexo).",
+                "D": "X (letra Xis).",
+                "E": "& (sinal de ampersand).  \n \n \n \n \n \n \n Prefeitura Municipal de Cabreúva  – Concurso Público - 01/2024                                   INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                       Página 7 de 12 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Acerca do que dispõe a Lei Federal nº \n13.460/2017 é correto afirmar:",
+            "alternativas": {
+                "A": "A taxa de religação de serviços será devida, \nainda que haja descumprimento da exigência de \nnotificação prévia ao consumidor.",
+                "B": "É vedada a suspensão da prestação de serviço \nem virtude de inadimplemento por parte do \nusuário que se inicie na sexta -feira, no sábado ou \nno domingo, bem como em feriado ou no dia \nanterior a feriado.",
+                "C": "A disponibilização de informações na \ninternet, tal como o horário de funcionamento \ndas unidades administrativas, é facultativa à \nadministração pública.",
+                "D": "É dever do usuário, prioridades de \natendimento.",
+                "E": "O usuário não poderá apresentar \nmanifestações perante a administração pública \nacerca da prestação de serviços públicos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Para fins do que prevê a Lei Federal nº \n13.460/2017, é correto afirmar quanto às \nmanifestações dos usuários de serviços públicos, \nEXCETO:",
+            "alternativas": {
+                "A": "São vedadas quaisquer exigências relativas \naos motivos determinantes da apresentação de \nmanifestações perante a ouvidoria.",
+                "B": "Caso não haja ouvidoria, o usuário poderá \napresentar manifestações diretamente ao órgão \nou entidade responsável pela execução do \nserviço e ao órgão ou entidade a que se \nsubordinem ou se vinculem.",
+                "C": "Quando a manifestação ocorrer verbalmente, \nesta deverá ser reduzida a termo.",
+                "D": "A manifestação será dirigida à ouvidoria do \nórgão ou entidade responsável e não poderá \nconter a identificação do requerente.",
+                "E": "Em nenhuma hipótese, será recusado o \nrecebimento de manifestações formuladas, sob \npena de responsabilidade do agente público.  \n QUESTÃO 28  \nDispõe a Lei Federal nº 12.527/2011 que no caso \nde indeferimento de acesso a informações ou às \nrazões da negativa do acesso, poderá o \ninteressado interpor recurso contra a decisão no \nprazo de:  \n \n(A) 02 (dois) dias a contar da sua ciência.  \n(B) 04 (quatro) dias a contar da sua ciência.  \n(C) 06 (seis) dias a contar da sua ciência.  \n(D) 08 (oito) dias a contar da sua ciência.  \n(E) 10 (dez) dias a contar da sua ciência."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Consideram -se diretrizes contidas na Lei Federal \nnº 12.527/2011, EXCETO:",
+            "alternativas": {
+                "A": "Inobservância da publicidade como preceito \ngeral e do sigilo como exceção.",
+                "B": "Divulgação de informações de interesse \npúblico, independentemente de solicitações.",
+                "C": "Utilização de meios de comunicação \nviabilizados pela tecnologia da informação.",
+                "D": "Fomento ao desenvolvimento da cultura de \ntransparência na administração pública.",
+                "E": "D esenvolvimento do controle social da \nadministração pública."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: A Lei do Orçamento (Lei Federal nº 4.320/1964) \nconterá a discriminação da receita e despesa de \nforma a evidenciar a política econômica \nfinanceira e o programa de trabalho do Governo, \nobedecidos os princípios de:",
+            "alternativas": {
+                "A": "Publicidade, Unidade e Transparência.",
+                "B": "Legalidade, Eventualidade e Unidade.",
+                "C": "Unidade, Universalidade e Anualidade.",
+                "D": "Anualidade, Legalidade e Boa -fé.",
+                "E": "Universalidade, Eventualidade e Boa -Fé. \n Prefeitura Municipal de Cabreúva  – Concurso Público - 01/2024                                   INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                       Página 8 de 12 QUESTÃO 31  \nAnalise os itens a seguir e, ao final, assinale a \nalternativa correta, segundo o que dispõe a Lei \nFederal nº 4.320/1964, ao que pertencem ao \nExercício Financeiro.  \n \nI – As receitas nele arrecadadas.  \nII – As despesas nele legalmente empenhadas.  \nIII – As inversões financeiras empenhadas no ano \nanterior.  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Os itens I e II são verdadeiros.  \n(E) Os itens I e III são verdadeiros."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: É correto afirmar que a estrutura dos atos \nnormativos prevista no Decreto Federal nº \n9.191/2017 será composta por três partes básicas, \nsendo elas:",
+            "alternativas": {
+                "A": "Parte preliminar, parte normativa e parte \nfinal.",
+                "B": "Parte inicial, parte expositiva e parte \nconclusiva.",
+                "C": "Parte primária, parte informativa e parte fim.",
+                "D": "Parte de abertura, parte primordial e parte \nfinal.",
+                "E": "Parte de entrada, parte expositiva e parte \nfinal.  \n \n \n \n \n \n \n \n QUESTÃO 33  \nAcerca do que dispõe a Lei Federal \nComplementar nº 95/1998, é correto afirmar que \nas disposições normativas serão redigidas com \nclareza, precisão e ordem lógica, observadas, \npara esse propósito, as seguintes normas para a \nobtenção de clareza, EXCETO:  \n \n(A) Usar as palavras e as expressões em seu \nsentido comum, salvo quando a norma versar \nsobre assunto técnico, hipótese em que se \nempregará a nomenclatura própria da área em \nque se esteja legislando.  \n(B) Construir as orações na ordem direta, \nevitando preciosismo, neologismo e adjetivações \ndispensáveis.  \n(C) Usar frases longas e concisas.  \n(D) Buscar a uniformidade do tempo verbal em \ntodo o texto das normas legais, dando preferência \nao tempo presente ou ao futuro simples do \npresente.  \n(E) Usar os recursos de pontuação de forma \njudiciosa, evitando os abusos de caráter \nestilístico."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Entende -se por conjunto de atos realizados pelos \nórgãos do Poder Legislativo, de acordo com \nregras previamente fixadas, para elaborar normas \njurídicas (emendas à Constituição, leis \ncomplementares, leis ordinárias e outros tipos \nnormativos dispostos no art.  59 da Constituição \nFederal):",
+            "alternativas": {
+                "A": "Projeto de lei.",
+                "B": "Processo legislativo constitucional.",
+                "C": "Projeto normativo constitucional.",
+                "D": "Proposições constitucionais.",
+                "E": "Normas jurídicas constitucionais.  \n \n \n Prefeitura Municipal de Cabreúva  – Concurso Público - 01/2024                                   INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                       Página 9 de 12 QUESTÃO 35  \nAcerca do que dispõe a Lei nº 14.133/2021 (Lei \nde Licitações), assinale (V) para verdadeiro e (F) \npara falso.  \n(  ) Não são abrangidas pela lei as empresas \npúblicas e sociedade de economia mista.  \n(   ) A Lei estabelece normas gerais de licitação e \ncontratação para as administrações publicas \ndiretas, autarquias e fundacionais, não \nabrangendo os fundos especiais.  \n( ) Nas licitações que envolvam recursos \nprovenientes de empréstimo de organismo \nfinanceiro de que o Brasil seja parte, pode ser \nadmitida condição decorrente de acordo internais \naprovados pelo Congresso Nacional e ratificados \npelo Presidente da República.  \n(A) V -V-F. \n(B) V -F-F. \n(C) F -V-F. \n(D) V -F-V. \n(E) F -F-V."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Assinale a alternativa que contemple princípios \nexpressos na Lei nº 14.133/2021 (Lei de \nLicitações).",
+            "alternativas": {
+                "A": "Da objetividade, do compromisso, da \npessoalidade, da autoridade.",
+                "B": "Da legalidade, do planejamento, da \nsegregação das funções, da vinculação ao edital.",
+                "C": "Da segurança jurídica, da celeridade, da \nmotivação, da comunicação, da concessão de \ngarantia.",
+                "D": "Da publicidade, da eficiência, do interesse \npúblico, do controle de qualidade.",
+                "E": "Da razoabilidade, da objetividade, do \ndesenvolvimento nacional sustentável, do \ncontrole social."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Não é uma modalidade de licitação prevista na \nLei nº 14.133/2021:",
+            "alternativas": {
+                "A": "Pregão.",
+                "B": "Concorrência.",
+                "C": "Leilão.",
+                "D": "Diálogo competitivo.",
+                "E": "Tomada de preço.  \n QUESTÃO 38  \nA pessoa física ou jurídica que, nos _________ \nanos anteriores à divulgação do edital, tenha sido \ncondenada judicialmente, com trânsito em \njulgado, por exploração de trabalho infantil, por \nsubmissão de trabalhadores a condições análogas \nàs de escravo ou po r contratação de adolescentes \nnos casos vedados pela legislação trabalhista, não \npoderá disputar licitação ou participar da \nexecução de contrato, direta ou indiretamente.  \nAssinale a alternativa que preencha corretamente \na lacuna acima.  \n(A) 2 (dois).  \n(B) 3 (três).  \n(C) 4 (quatro).  \n(D) 5 (cinco).  \n(E) 6 (seis)."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Segundo a Lei nº 14.133/2021 (Lei de Licitações) \né correto afirmar quanto ao sistema de registro de \npreços, EXCETO:",
+            "alternativas": {
+                "A": "É permitido registro de preços com indicação \nlimitada a unidades de contratação, sem \nindicação do total a ser adquirido no caso de \nalimento perecível.",
+                "B": "O sistema de registro de preços poderá, na \nforma de regulamento, ser utilizado nas hipóteses \nde inexigibilidade e de dispensa de licitação para \na aquisição de bens ou para a contratação de \nserviços por mais de um órgão ou entidade.",
+                "C": "O contrato decorrente da ata de registro de \npreços terá sua vigência estabelecida em \nconformidade com as disposições nela contidas.",
+                "D": "É dispensável a obrigatoriedade da indicação \ndo valor máximo da despesa e é vedada a \nparticipação de outro órgão ou entidade na ata em \ncaso de registro preços quando for a primeira \nlicitação para o objeto e o órgão não tiver registro \nde demandas anteri ores.",
+                "E": "Será vedada aos órgãos e entidades da \nAdministração Pública federal a adesão à ata de \nregistro de preços gerenciada por órgão ou \nentidade estadual, distrital ou municipal.  Prefeitura Municipal de Cabreúva  – Concurso Público - 01/2024                                   INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                       Página 10 de 12 QUESTÃO 40  \nSegundo a Lei nº 14.133/2021 (Lei de Licitações) \nacerca dos Contratos Administrativos, analise os \nitens a seguir e, ao final, assinale a alternativa \ncorreta.  \nI – Todo contrato deverá mencionar os nomes das \npartes e os de seus representantes, a finalidade, o \nato que autorizou sua lavratura, o número do \nprocesso da licitação ou da contratação direta e a \nsujeição dos contratantes às normas desta Lei e \nàs cláusulas  contratuais.  \nII – Não caracteriza descumprimento total da \nobrigação a recusa injustificada do adjudicatário \nem assinar o contrato no prazo estabelecido pela \nadministração.  \nIII – A administração poderá convocar os \nlicitantes remanescentes para negociação, na \nordem de classificação, com vistas à obtenção de \npreço melhor, exceto em caso de preço acima do \nadjudicatário, quando nenhum dos licitantes \naceitar a contratação.  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Os itens I e II são verdadeiros.  \n(E) Os itens I e III são verdadeiros."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: A Lei nº 14.133/2021 (Lei de Licitações) \nestabelece que os contratos celebrados em caso \nde urgência terão eficácia a partir de sua \nassinatura e deverão ser publicados, sob pena de \nnulidade, no prazo de:",
+            "alternativas": {
+                "A": "20 (vinte) dias úteis, no caso de licitação e 10 \n(dez) dias úteis, no caso de contratação direta.",
+                "B": "10 (dez) dias úteis, no caso de licitação e 20 \n(vinte) dias úteis, no caso de contratação direta.",
+                "C": "05 (cinco) dias úteis, no caso de licitação e \n10 (dez) dias úteis, no caso de contratação direta.",
+                "D": "10 (dez) dias úteis, no caso de licitação e 05 \n(cinco) dias úteis, no caso de contratação direta.",
+                "E": "15 (quinze) dias úteis, no caso de licitação e \n07 (sete) dias úteis, no caso de contratação direta.  QUESTÃO 42  \nAssinale a alternativa correta quanto ao conceito \ne classificação dos servidores públicos.  \n(A) O empregado público tem a contratação \nregida, em regra, por estatuto, enquanto o \nservidor público tem a contratação regida pela \nCLT (Consolidação das Leis do Trabalho).  \n(B) Os empregados públicos possuem \nestabilidade.  \n(C) Agentes temporários possuem um vínculo \ntemporário com a administração pública, ou seja, \nsão contratados para cumprir uma função por um \ndeterminado período.  \n(D) Os servidores públicos podem ser \nexoneração a qualquer tempo.  \n(E) A estabilidade do empregado público ocorre \napós três anos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Entende -se por conjunto de deveres, proibições, \nresponsabilidades, procedimentos disciplinares e \nsanções aplicáveis aos servidores públicos:",
+            "alternativas": {
+                "A": "Legislação.",
+                "B": "Regime disciplinar.",
+                "C": "Regimento interno.",
+                "D": "Constituição Federal.",
+                "E": "Poder disciplinar."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: O servidor público poderá ser punido com \nsuspensão nos casos de:",
+            "alternativas": {
+                "A": "Abandono de cargo.",
+                "B": "Injustificadamente, recusar -se a ser \nsubmetido a inspeção médica determinada pela \nautoridade competente.",
+                "C": "Inassiduidade habitual.",
+                "D": "Insubordinação grave em serviço.",
+                "E": "Aplicação irregular de dinheiros públicos.  \n \n Prefeitura Municipal de Cabreúva  – Concurso Público - 01/2024                                   INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                       Página 11 de 12 QUESTÃO 45  \nO servidor público, como medida cautelar, \npoderá ser afastado do cargo, para apuração do \nprocesso administrativo disciplinar, pelo prazo \nde: \n(A) até 20 (vinte) dias, sem prejuízo da \nremuneração.  \n(B) até 25 (vinte e cinco) dias, sem prejuízo da \nremuneração.  \n(C) até 30 (trinta) dias, sem prejuízo da \nremuneração.  \n(D) até 40 (quarenta) dias, sem prejuízo da \nremuneração.  \n(E) até 60 (sessenta) dias, sem prejuízo da \nremuneração."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31: É correto afirmar quanto aos Bens Públicos:",
+            "alternativas": {
+                "A": "Os bens públicos de uso comum do povo são \ninalienáveis, enquanto conservarem a sua \nqualificação, na forma que a lei determinar.",
+                "B": "Os bens públicos estão sujeitos a usucapião.",
+                "C": "Os bens públicos dominicais são \ninalienáveis.",
+                "D": "Os bens públicos de uso especial podem ser \nalienados.",
+                "E": "São bens públicos os de uso especial, tais \ncomo praias, rios e mares."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32: Dentre os princípios que norteiam a \nadministração pública, pode -se afirmar que é \nconsiderado um princípio implícito o:",
+            "alternativas": {
+                "A": "Princípio da eficiência.",
+                "B": "Princípio da moralidade.",
+                "C": "Princípio da razoabilidade.",
+                "D": "Princípio da legalidade.",
+                "E": "Princípio da eficiência.  \n \n QUESTÃO 48  \nSão espécies de atos administrativos \nenunciativos:  \n(A) circulares, avisos, portarias e atestado.  \n(B) certidão, autorização, permissão e admissão.  \n(C) apostila, atestado, certidão e parecer.  \n(D) licença, portarias, ofícios e exoneração a \npedido.  \n(E) instruções, ordens de serviços, despachos e \nnomeação."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33: São considerados atributos do ato administrativo:",
+            "alternativas": {
+                "A": "Impessoalidade, presunção de legalidade, \npublicidade e tipicidade.",
+                "B": "Razoabilidade, proporcionalidade, \nautoexecutoriedade e ampla defesa.",
+                "C": "Motivação, ampla defesa, tipicidade e \npresunção de legitimidade.",
+                "D": "Finalidade, legalidade, razoabilidade e \nimpessoalidade.",
+                "E": "Presunção de legitimidade, imperatividade, \ntipicidade e autoexecutoriedade."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 34: É correto afirmar quanto à revogação do ato \nadministrativo, EXCETO:",
+            "alternativas": {
+                "A": "É uma forma de desfazer ato válido e \nlegítimo.",
+                "B": "A revogação extingue atos ilegais.",
+                "C": "Seus efeitos são “ex nunc” .",
+                "D": "A revogação pode ser total (ab -rogação) ou \nparcial (derrogação).",
+                "E": "Ocorre em atos discricionários.        \n \n \n \n \n \n \n Prefeitura Municipal de Cabreúva  – Concurso Público - 01/2024                                   INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                       Página 12 de 12"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com a reportagem, é incorreto afirmar \nque:",
+            "alternativas": {
+                "A": "a descoberta da contaminação por \nmicroplásticos leva arqueólogos a questionarem \na forma tradicional de preservar amostras \narqueológicas.",
+                "B": "a contaminação por microplásticos não \ncompromete o valor de evidência de amostras \narqueológicas.",
+                "C": "é possível que microplásticos prejudiquem a \npreservação de vestígios arqueológicos.",
+                "D": "a química do solo pode ser afetada por \nmicroplásticos.",
+                "E": "a grande produção de plástico pode \ncontaminar os oceanos.  Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                      Página 3 de 12 QUESTÃO 02  \nConsidere o excerto: “Nós pensamos nos \nmicroplásticos como um fenômeno moderno, já \nque só temos ouvido falar deles nos últimos 20 \nanos”. A relação estabelecida entre a oração \nprincipal e a oração subordinada no contexto \napresentado é:  \n(A) causal.  \n(B) concessiva.  \n(C) adversativa.  \n(D) conformativa.  \n(E) comparativa."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Considere o excerto: “Assim, surge uma dúvida: \nserá que preservar amostras arqueológicas in situ \ncontinua sendo a abordagem mais adequada?” \nNesse contexto, em relação à coesão textual, o \npapel da expressão “assim” é estabelecer:",
+            "alternativas": {
+                "A": "referenciação anafórica.",
+                "B": "referenciação catafórica.",
+                "C": "sinonímia.",
+                "D": "substituição.",
+                "E": "sequenciação.  \n \nConsidere o excerto a seguir para responder \nàs questões 4 e 5:  \n \n“Esse novo estudo mostra que as partículas se \ninfiltraram em depósitos arqueológicos. E, como \nno caso dos oceanos, isso provavelmente está \nacontecendo há um período similar, \nconsiderando que partículas foram encontradas \nem amostras de solo retiradas e arquivadas em \n1988, de Wellingto n Row, em York”, sugere \nJennings."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: No contexto apresentado, o elemento com o qual \no verbo “infiltraram” concorda, que atua, \nportanto, como sujeito da oração em que ocorre, \né:",
+            "alternativas": {
+                "A": "“novo estudo”.",
+                "B": "“as partículas”.",
+                "C": "“as partículas se”.",
+                "D": "“depósitos arqueológicos”.",
+                "E": "“se”.  QUESTÃO 05  \nO vocábulo “que”, em destaque no excerto \napresentado, classifica -se quanto à função \ngramatical que desempenha como:  \n(A) conjunção causal.  \n(B) conjunção explicativa.  \n(C) conjunção integrante.  \n(D) pronome relativo.  \n(E) preposição."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: A palavra “exequível” é paroxítona e polissílaba. \nUma palavra que tem exatamente a mesma \ntonicidade e quantidade de sílabas é:",
+            "alternativas": {
+                "A": "esquelético.",
+                "B": "inexorável.",
+                "C": "inóspito.",
+                "D": "frutescente.",
+                "E": "polímero."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Dentre as palavras a seguir, aquela em que ocorre \nemprego incorreto do hífen é:",
+            "alternativas": {
+                "A": "cobra -d’água.",
+                "B": "pré -vestibular.",
+                "C": "auto -eficácia.",
+                "D": "sub -região.",
+                "E": "vice -diretor."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: A palavra substantiva cuja designação é abstrata \né:",
+            "alternativas": {
+                "A": "equidade.",
+                "B": "galáxia.",
+                "C": "lírio.",
+                "D": "pó.",
+                "E": "farol.  Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                      Página 4 de 12 QUESTÃO 09  \nAnalise as sentenças a seguir e assinale a \nalternativa em que o termo em destaque é um \nadvérbio que exprime noções relacionadas a \npossibilidade.   \n(A) Podiam estar muito  à frente do oponente se \ntivessem se preparado antes.  \n(B) Altair preferia usar massas de bolo que \nvinham já misturadas na proporção certa.  \n(C) Querer começar um novo negócio agora  é \num pouco irresponsável.  \n(D) Não esperaram a comida esfriar sequer  por \num minuto.  \n(E) Adiantou aos amigos que talvez  não \nencontrassem mais ingressos para o evento."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Dentre as palavras a seguir, aquela que é comum \nde dois gêneros é:",
+            "alternativas": {
+                "A": "reles.",
+                "B": "mestre.",
+                "C": "pagão.",
+                "D": "étnico.",
+                "E": "binário.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: A Amazônia Legal brasileira, que pertence à \nbacia Amazônica, tem uma área de \naproximadamente 5 milhões de quilômetros \nquadrados. Também estima -se que esta área \ntenha 400 bilhões de árvores. Considerando estes \nvalores, qual a quantidade média de árvores por  \nquilômetro quadrado na Amazônia Legal?",
+            "alternativas": {
+                "A": "80.",
+                "B": "800.",
+                "C": "8000.",
+                "D": "80.000.",
+                "E": "800.000.  \n QUESTÃO 12  \nUm estudante está escrevendo um artigo e fará \num gráfico em forma de triângulo para \nrepresentar porcentagens, conforme a figura:  \n \nOs triângulos são equiláteros. O estudante deseja \nque a área sombreada represente 10% da área \ntotal do triângulo maior. Qual deve ser a razão \nentre h e H (alturas dos triângulos menor e maior, \nrespectivamente) para que isso seja possível?  \n(A) 1/10.  \n(B) 10.  \n(C) √10. \n(D) 1/√10. \n(E) 1/102."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Em uma cidade, no mês de fevereiro, o número \nde casos de uma doença misteriosa aumentou em \n50% em relação ao mês anterior. Isso fez com \nque as autoridades de saúde tomassem medidas \ndrásticas para conter a propagação da doença. \nApós as medidas, no mês de março houve uma \nredução de 40% nos casos relatados, em relação \na fevereiro. No entanto, em abril, os casos \naumentaram novamente em relação a março, \ndesta vez em 25%. Se o número de casos \nrelatados em janeiro foi de 2000, quantos casos \nda doença foram relatados em abril?",
+            "alternativas": {
+                "A": "1875.",
+                "B": "2250.",
+                "C": "1800.",
+                "D": "3000.",
+                "E": "1500.  \n \n \nPrefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                      Página 5 de 12 QUESTÃO 14  \nLucas fez um empréstimo de R$ 5000 para ser \npago durante 6 meses a uma taxa de juros simples \nde 4% ao mês. No entanto, ele só conseguiu \npagar R$ 4000 no total após os 6 meses. Ele quer \nrenegociar o restante da dívida (incluindo o juro \nnão pago anteriorment e) para pagamento em \nmais 4 meses. O banco, desta vez, cobrará uma \ntaxa de 8% ao mês no regime de juro simples. \nQuanto Lucas pagará por mês ao banco após essa \nrenegociação?  \n(A) R$ 550,00.  \n(B) R$ 704,00.  \n(C) R$ 726,00.  \n(D) R$ 330,00.  \n(E) R$ 360,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Considere como verdadeira a proposição lógica:  \n“Todos os mamíferos têm pelos”  \nSão negações dessa proposição, EXCETO:",
+            "alternativas": {
+                "A": "Algum mamífero não tem pelo.",
+                "B": "Pelo menos um mamífero não tem pelo.",
+                "C": "Existe um mamífero que não tem pelo.",
+                "D": "Todos os mamíferos não têm pelo.",
+                "E": "Nenhum mamífero não tem pelo.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: No Windows 7, o principal botão da barra de \ntarefas, onde, ao clicar sobre ele é possível \nacessar o “Menu Iniciar” do Sistema Operacional \né o botão:",
+            "alternativas": {
+                "A": "Maximizar.",
+                "B": "Enter.",
+                "C": "Acionar.",
+                "D": "Iniciar.",
+                "E": "Gerar.  \n \n \n \n \n QUESTÃO 17 \nÉ possível visualizar a data de criação de uma \npasta qualquer no Windows 7, utilizando qual \ndas ações propostas a seguir:  \n \n(A) Clicando com o botão esquerdo sobre a pasta, \nselecionado a opção “Informações Gerais” e \nabrindo a guia “Data de Abertura”.  \n(B) Clicando com o botão esquerdo sobre a pasta, \nselecionado a opção “Informações Gerais” e \nabrindo a guia “Criação”.  \n(C) Clicando com o botão esquerdo sobre a pasta, \nselecionado a opção “Propriedades” e abrindo a \nguia “Geral”.  \n(D) Clicando com o botão direito sobre a pasta, \nselecionado a opção “Propriedades” e abrindo a \nguia “Geral”.  \n(E) Clicando com o botão direito sobre a pasta, \nselecionado a opção “Conceder acesso a” e \nabrindo a guia “Geral”."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: O Microsoft Word 2016 marca as questões de \nortografia, gramática e problemas estilísticos \ncom um sublinhado no texto.  \nCom relação ao corretor de textos, assinale a \núnica alternativa que apresenta uma afirmação \nincorreta:",
+            "alternativas": {
+                "A": "O corretor de texto permite que o usuário \nclique sobre a palavra sublinhada e selecione a \nmelhor opção para substituir o trecho do texto.",
+                "B": "A verificação total do documento pode ser \nfeita através do botão “ABC Verificar \ndocumento”, presente na guia Referências.",
+                "C": "O painel “Editor” categoriza os problemas de \nortografia, gramática e estilos do texto.",
+                "D": "É possível ignorar as sugestões de correção \nortográfica feitas pelo corretor.",
+                "E": "Além do corretor o Microsoft Word 2016 \napresenta um dicionário de sinônimos que pode \nser usado em eventuais ajustes no texto \nproduzido.  \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                      Página 6 de 12 QUESTÃO 19 \nCom base nos principais recursos presentes no \nMicrosoft Word 2016, analisar as afirmações a \nseguir:  \nI. O Microsoft Word 2016 pode contar o número \nde palavras em um documento enquanto o texto \né digitado.  \nII. Ao copiar um endereço da barra de endereços \ndo navegador da web e copiar para o Word, o \nprograma irá transformá -lo em texto de hiperlink.  \nIII. Para remover o hiperlink do texto basta clicar \ncom o botão direito no link e escolha  “Remover \nHiperlink” . \nEstá(ão) Correto(s):  \n(A) Somente o item I.  \n(B) Somente o item II.  \n(C) Somente o item III.  \n(D) Somente os itens I e III.  \n(E) Todos os itens."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Um professor criou uma tabela no Microsoft \nExcel 2016 e lançou todas as notas dos seus \nalunos particulares de inglês, conforme \nrepresentação a seguir:  \n \n \n \nFonte: 1 Microsoft Excel 2016  \n \nPara obter a média geral da classe, o professor \ndeve introduzir na Célula B6 qual das fórmulas \ndescritas:",
+            "alternativas": {
+                "A": "=(MÉDIA.INTERNA(B2:B5))",
+                "B": "=(MÉDIA(B2:B5))",
+                "C": "=(MÁXIMO([Nota]))",
+                "D": "=(MÉDIO([Nota]))",
+                "E": "=MÉDIASE([Nota])  \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: 1 \nDe acordo com a Lei n 13.460 de 2017, assinale \na alteranativa que dispõe corretamente o conceito \nde agente público .",
+            "alternativas": {
+                "A": "atividade administrativa ou de prestação \ndireta ou indireta de bens ou serviços à \npopulação, exercida por órgão ou entidade da \nadministração pública;",
+                "B": "quem exerce cargo, emprego ou função \npública, de natureza civil ou militar, ainda que \ntransitoriamente ou sem remuneração;",
+                "C": "pessoa física ou jurídica que se beneficia ou \nutiliza, efetiva ou potencialmente, de serviço \npúblico;",
+                "D": "quem exerce cargo, emprego ou função \npública, de natureza civil,  exceto militar, ainda \nque transitoriamente ou sem remuneração;",
+                "E": "atividade administrativa ou de prestação \ndireta, de bens ou serviços à população, exercida \npor órgão ou entidade da administração pública e \nprivada;"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Acerca da Lei que dispõe sobre participação, \nproteção e defesa dos direitos do usuário dos \nserviços públicos da administração pública, leia \natentamente o trecho a seguir:  \n“serviços públicos e o atendimento do usuário \nserão realizados de forma adequada, observados \nos _______ da regularidade, __________, \nefetividade, segurança, atualidade, ________, \ntransparência e_______.”  \n \nAgora, assinale a alternativa que não completa \ncorretamente uma das lacunas.",
+            "alternativas": {
+                "A": "generalidade",
+                "B": "princípios",
+                "C": "relação de consumo",
+                "D": "cortesia",
+                "E": "continuidade  \nPrefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                      Página 7 de 12 QUESTÃO 23  \nConforme estabelecido pelo Código de Defesa \ndo Consumidor, Art. 14. qual é a \nresponsabilidade do fornecedor de serviços em \nrelação aos danos causados aos consumidores?  \n \n(A) Responde apenas se houver comprovação de \nculpa em relação aos defeitos nos serviços \nprestados.  \n(B) Não responde pelos danos causados, a menos \nque haja comprovação de negligência.  \n(C) Responde somente por danos causados por \ninformações inadequadas sobre os serviços, sem \nrelação com defeitos na prestação dos mesmos.  \n(D) Responde, independentemente da existência \nde culpa, pela reparação dos danos causados aos \nconsumidores por defeitos relativos à prestação \ndos serviços, bem como por informações \ninsuficientes ou inadequadas sobre sua fruição e \nriscos.  \n(E) Não responde por danos causados por \ninformações insuficientes ou inadequadas, \napenas por defeitos na prestação dos serviços."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Assinale a alternativa que completa \nrespectivamente as lacunas.  \n \n____________ : dados, processados ou não, que \npodem ser utilizados para produção e \ntransmissão de conhecimento, contidos em \nqualquer meio, suporte ou formato;  \n______________: unidade de registro de \ninformações, qualquer que seja o suporte ou \nformato;  \n____________ : qualidade da informação não \nmodificada, inclusive quanto à origem, trânsito e \ndestino;  \n_____________: aquela relacionada à pessoa \nnatural identificada ou identificável;",
+            "alternativas": {
+                "A": "informação – documento - integridade - \ninformação pessoal",
+                "B": "informação – informação pessoal  - \ndocumento - integridade -",
+                "C": "integridade  - informação – documento - - \ninformação pessoal",
+                "D": "informação – documento - integridade - \ninformação sigilosa",
+                "E": "primariedade – documento - integridade - \ninformação sigilosa  QUESTÃO 25  \nAnalise os itens a seguir em relação a Lei Geral \nde Proteção de Dados Pessoais (LGPD).  \n \nI. o respeito à privacidade;  \nII. a liberdade de expressão, de informação, de \ncomunicação e de opinião;  \nIII. a inviolabilidade da intimidade, da honra e da \nimagem;  \nIV. o desenvolvimento econômico e tecnológico \ne a inovação;  \nCom base nos itens acima, qual alternativa está \ncorreta?  \n(A) Apenas os itens I e II estão corretos.  \n(B) Apenas os itens  II e III estão corretos.  \n(C) Apenas os itens II, III e IV estão corretos.  \n(D) Todos os itens estão corretos.  \n(E) Apenas os itens I, II e III estão corretos"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Analise os itens abaixo de acordo com a Lei n \n13.460 de 2017.  \nI – considera -se agente público - pessoa física ou \njurídica que se beneficia ou utiliza, efetiva ou \npotencialmente, de serviço público;  \nII – considera -se administração pública - órgão \nou entidade integrante da administração pública \nde qualquer dos Poderes da União, dos Estados, \ndo Distrito Federal e dos Municípios, a \nAdvocacia Pública e a Defensoria Pública;",
+            "alternativas": {
+                "A": "A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.",
+                "B": "As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.",
+                "C": "A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.",
+                "D": "As asserções I e II são proposições falsas.",
+                "E": "As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                      Página 8 de 12 QUESTÃO 27  \nDe acordo com a  Lei nº 12.527 de 2011.  A \ninformação em poder dos órgãos e entidades \npúblicas, observado o seu teor e em razão de sua \nimprescindibilidade à segurança da sociedade ou \ndo Estado, poderá ser classificada como:  \n(A) Pública, confidencial ou sigilosa.  \n(B) ultrassecreta, privada e restrita.  \n(C) Transparente, reservada ou confidencial.  \n(D) ultrassecreta, secreta ou reservada  \n(E) Livre, protegida e restrita."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Em relação as Técnicas de Comuni cação, por que \né importante utilizar linguagem adequada ao \npúblico -alvo durante a comunicação?",
+            "alternativas": {
+                "A": "Para complicar a mensagem e torná -la mais \ndesafiadora.",
+                "B": "Para alienar o público e criar uma barreira de \ncomunicação.",
+                "C": "Para garantir que a mensagem seja entendida \ne assimilada pelo público.",
+                "D": "Para demonstrar superioridade intelectual e \ndomínio do assunto.",
+                "E": "Para aumentar a confusão e dificultar a \ncompreensão."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Conforme a Lei n 13.460 de 2017, São direitos  \nbásicos do usuário: EXCETO.",
+            "alternativas": {
+                "A": "participação no acompanhamento da \nprestação e na avaliação dos serviços;",
+                "B": "obtenção e utilização dos serviços com \nliberdade de escolha entre os meios oferecidos e \nsem discriminação;",
+                "C": "atuação integrada e sistêmica na expedição \nde atestados, certidões e documentos \ncomprobatórios de regularidade;",
+                "D": "prestar as informações pertinentes ao serviço \nprestado quando solicitadas",
+                "E": "comunicação prévia da suspensão da \nprestação de serviço.  \n QUESTÃO 30  \nAnalise os itens e informe se é verdadeiro (V) ou \nfalso (F):  \nAs atividades de tratamento de dados pessoais \ndeverão observar a boa -fé e os seguintes \nprincípios:   \n( )  livre acesso: garantia, aos titulares, de \nconsulta facilitada e gratuita sobre a forma e a \nduração do tratamento, bem como sobre a \nintegralidade de seus dados pessoais;  \n( ) segurança: utilização de medidas técnicas e \nadministrativas aptas a proteger os dados \npessoais de acessos não autorizados e de \nsituações acidentais ou ilícitas de destruição, \nperda, alteração, comunicação ou difusão;   \n( ) não discriminação: possibilidade de realização \ndo tratamento para fins discriminatórios ilícitos \nou abusivos;  \nAssinale a alternativa que apresenta a sequência \ncorreta.  \n(A) V – F – F. \n(B) F – V – V. \n(C) V – V – V. \n(D) V – V – F. \n(E) F – F – V."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Em relação aos telefones úteis e de emergência; \nassinale a alternativa que correspondem, \nrespectivamente aos telefones de emergência da \nPolícia Rodoviária Federal, Guarda Municipal e \nao Serviço de Atendimento Móvel de Urgência?",
+            "alternativas": {
+                "A": "191 - 153 - 192",
+                "B": "191 - 155 - 193",
+                "C": "192 - 190 - 153",
+                "D": "155 - 153 - 192",
+                "E": "Nenhuma das alternativas  \n \n \n \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                      Página 9 de 12 QUESTÃO 32  \nAssinale a alternativa incorreta de código  de \nDefesa do Consumidor.  \n \n(A) A ignorância do fornecedor sobre os vícios \nde qualidade por inadequação dos produtos e \nserviços o exime da responsabilidade.  \n(B) A garantia legal de adequação do produto ou \nserviço independe de termo expresso, vedada a \nexoneração contratual do fornecedor.  \n(C) No fornecimento de serviços que tenham por \nobjetivo a reparação de qualquer produto \nconsiderar -se-á implícita a obrigação do \nfornecedor de empregar componentes de \nreposição originais adequados e novos, ou que \nmantenham as especificações técnicas do \nfabrica nte, salvo, quanto a estes últimos, \nautorização em contrário do      consumidor.  \n(D) os órgãos públicos, por si ou suas empresas, \nconcessionárias, permissionárias ou sob qualquer \noutra forma de empreendimento, são obrigados a \nfornecer serviços adequados, eficientes, seguros \ne, quanto aos essenciais, contínuos.  \n(E) O fornecedor do produto ou serviço é \nsolidariamente responsável pelos atos de seus \nprepostos ou representantes autônomos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Qual dos seguintes aspectos é fundamental para \ngarantir a qualidade no atendimento ao público?",
+            "alternativas": {
+                "A": "Tempo de espera longo",
+                "B": "Comunicação inadequada",
+                "C": "Falta de empatia e cordialidade",
+                "D": "Eficiência na resolução de problemas",
+                "E": "Ignorar as necessidades e preocupações do \npúblico  \n \n \n \n QUESTÃO 3 4 \nAnalise os itens abaixo em relação a propaganda \nenganosa e abusiva.  \nI –  É abusiva qualquer modalidade de \ninformação ou comunicação de caráter \npublicitário, inteira ou parcialmente falsa, ou, por \nqualquer outro modo, mesmo por omissão, capaz \nde induzir em erro o consumidor a respeito da \nnatureza, características, qualidade, quan tidade, \npropriedades, origem, preço e quaisquer outros \ndados sobre produtos e serviços.  \nII – É enganosa, dentre outras a publicidade \ndiscriminatória de qualquer natureza, a que incite \nà violência, explore o medo ou a superstição, se \naproveite da deficiência de julgamento e \nexperiência da criança, desrespeita valores \nambientais, ou que seja capaz de induzir o \nconsumidor a se comportar de forma prejudicial \nou perigosa à sua saúde ou segurança.  \n \n(A) A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.  \n(B) As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.  \n(C) A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.  \n(D) As asserções I e II são proposições falsas.  \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Marta e Joana estão caminhando quando Marta \ncomeça a passar mal. Joana percebe que é \nnecessário chamar ajuda médica imediatamente. \nDiante dessa situação, qual é o número de \ntelefone correto para Joana ligar e solicitar \nassistência do Serviço de Atendimento Móvel de \nUrgência (SAMU)?",
+            "alternativas": {
+                "A": "192",
+                "B": "190",
+                "C": "193",
+                "D": "191",
+                "E": "153 \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                      Página 10 de 12 QUESTÃO 3 6 \nPara os efeitos da Lei nº 12.527 de 2011, \nconsidera -se: \n(  )  autenticidade: qualidade da informação não \nmodificada, inclusive quanto à origem, trânsito e \ndestino;   \n(  )  integridade: qualidade da informação que \ntenha sido produzida, expedida, recebida ou \nmodificada por determinado indivíduo, \nequipamento ou sistema;   \n( )  disponibilidade: qualidade da informação que \npode ser conhecida e utilizada por indivíduos, \nequipamentos ou sistemas autorizados;  \n \nIndique “V” para verdadeiro e “F” para falso.  \n(A) V, V, V.  \n(B) F, F, V.  \n(C) V, V, F.  \n(D) F, V, V.  \n(E) V, F, V."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Em relação ao acesso à informação contida em \num documento que possa ser prejudicado pela \nmanipulação direta, qual é o procedimento \nrecomendado?",
+            "alternativas": {
+                "A": "Permitir a manipulação direta do documento \noriginal para facilitar o acesso.",
+                "B": "Oferecer apenas a consulta visual do \ndocumento original sem possibilidade de cópia.",
+                "C": "Fornecer uma cópia do documento com \ncertificação de que esta confere com o original.",
+                "D": "Exigir que o acesso seja feito somente por \nmeio de uma transcrição verbal do conteúdo.",
+                "E": "Negar o acesso à informação devido ao risco \nde prejudicar a integridade do documento \noriginal.  \n \n \n QUESTÃO 3 8 \nAnalise os itens a seguir em relação princípios do \nDireito Administrativo.  \n    \n I - Princípio da publicidade - esse princípio \ndetermina que, em qualquer atividade, a \nAdministração Pública está estritamente \nvinculada à lei. Se não houver isso, nada pode ser \nfeito.  Em resumo, esse princípio pressupõe que o \nestado não pode tomar nenhuma ação punitiva, \nadministrativa ou restritiva contra o indivíduo se \nnão houver, para tal, previsão em lei.   \nII - Princípio da impessoalidade - Esse princípio \nna Administração Pública surge com o objetivo \nde manter a igualdade no tratamento de todos os \nindivíduos que compõem a sociedade. Ou seja, \ncompreende -se que toda pessoa tem o dever de \nter imparcialidade na defesa dos interesses \npúblicos.  \nIII - Princípio da legalidade - Tem relação com a \ntransparência dos atos administrativos. Isto é, \ntodos devem ter acesso às ações da \nAdministração Pública (atos, contratos, \ninstrumentos jurídicos) que promovam impactos \nsobre a sociedade.  \n \nEstão corretos os itens:  \n \n(A) I apenas  \n(B) II apenas  \n(C) II e III apenas  \n(D) Todos os itens estão corretos.  \n(E) Todos os itens estão incorretos.  \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                      Página 11 de 12 QUESTÃO 3 9 \nAnalise os itens de acordo com Lei Geral de \nProteção de Dados Pessoais (LGPD).  \n \n(  )  considera -se dado pessoal: dado pessoal \nsobre origem racial ou étnica, convicção \nreligiosa, opinião política, filiação a sindicato ou \na organização de caráter religioso, filosófico ou \npolítico, dado referente à saúde ou à vida sexual, \ndado genético ou biométrico, quando vinculado \na uma pessoa na tural;  \n(  )  considera -se titular:  pessoa natural ou \njurídica, de direito público ou privado, a quem \ncompetem as decisões referentes ao tratamento \nde dados pessoais;  \n( ) considera -se dado anonimizado: dado relativo \na titular que não possa ser identificado, \nconsiderando a utilização de meios técnicos \nrazoáveis e disponíveis na ocasião de seu \ntratamento;  \n \nIndique “V” para verdadeiro e “F” para falso.  \n(A) V, V, V.  \n(B) F, F, F.  \n(C) V, V, F.  \n(D) F, V, V.  \n(E) F, F, V."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OUVIDOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Qual é o prazo para caducidade do direito de \nreclamar pelos vícios aparentes ou de fácil \nconstatação, de acordo com o Código de Defesa \ndo Consumidor?",
+            "alternativas": {
+                "A": "trinta dias, tratando -se de fornecimento de \nserviço e de produtos duráveis ;",
+                "B": "noventa dias, tratando -se de fornecimento de \nserviço e de produtos não duráveis;",
+                "C": "noventa dias, tratando -se de fornecimento de \nserviço e de produtos duráveis.",
+                "D": "Vinte dias, tratando -se de fornecimento de \nserviço e de produtos não duráveis.",
+                "E": "quarenta e cinco dias, tratando -se de \nfornecimento de serviço e de produtos não \nduráveis;   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Juquitiba  – Concurso Público  01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nOUVIDOR                                                                                                                                                      Página 12 de 12"
+            },
+            "resposta_correta": "A"
+        }
+    ]
+}

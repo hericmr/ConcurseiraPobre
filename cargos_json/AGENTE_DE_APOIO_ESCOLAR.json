@@ -1,3 +1,816 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e406514a83afac5f3a11f17350270d283767c13ea84fe5421998966bceb2352d
-size 63350
+{
+    "AGENTE DE APOIO ESCOLAR": [
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: O final da narrativa permite concluir que o \npersonagem do velho era:",
+            "alternativas": {
+                "A": "Gottfried Silbermann.",
+                "B": "o padre.",
+                "C": "Bach.",
+                "D": "um fiel qualquer.",
+                "E": "um sacristão."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: O julgamento do sacristão em relação ao velho \nindica que ele:",
+            "alternativas": {
+                "A": "não entendia por que o velho não conhecia \nBach.",
+                "B": "não conhecia o velho pessoalmente.",
+                "C": "aceitava o fato de que as pessoas têm \ninteresses distintos.",
+                "D": "julgava importante que conhecessem \npessoalmente Gottfried Silbermann.",
+                "E": "suspeitava que o velho fosse alguém ilustre."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Em “(...) como fazia todos os domingos (...)” , o \nsentido do verbo “fazer” , conjugado no \npretérito imperfeito do indicativo, indica uma \nação:",
+            "alternativas": {
+                "A": "hipotética.",
+                "B": "pontual.",
+                "C": "habitual.",
+                "D": "terminada.",
+                "E": "contínua."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Considere o excerto: “ Você merece a vida \ninsignificante que leva, disse o menino, \nrecolhendo o copo tosco em que trouxera o \nvinho (...) ”. A palavra que melhor substituí \n“tosco” , no contexto indicado, é:",
+            "alternativas": {
+                "A": "lapidado.",
+                "B": "demasiado.",
+                "C": "envernizado.",
+                "D": "rústico.",
+                "E": "tolo.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 3 de 10 QUESTÃO 05 \nConsidere o excerto: “Dali a pouco o velho \nouviu um “Pst ” e depois um “Você está aí?”.” \nAs palavras “dali”  e “aí” , que ocorrem no \nexcerto dado, funcionam como elementos:  \n(A) indicadores de modo.  \n(B) indicadores de lugar.  \n(C) intensificadores.  \n(D) indicadores de pessoa e posse, \nrespectivamente.  \n(E) indicadores de tempo e de espaço, \nrespectivamente."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: As palavras “encaracolando”  e \n“desencaracolando”  são ambas formadas \npelo(s) processo(s) de formação:",
+            "alternativas": {
+                "A": "derivação prefixal e derivação sufixal.",
+                "B": "derivação parassintética e derivação \nsufixal.",
+                "C": "derivação imprópria.",
+                "D": "composição por justaposição.",
+                "E": "composição por aglutinação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir quanto às formas \nverbais empregadas. Assinale a alternativa em \nque ocorre um verbo em forma nominal.",
+            "alternativas": {
+                "A": "Quando fervidos, os vegetais perdem parte \nde seus nutrientes.",
+                "B": "Ao final da palestra, ele desligou as luzes \ndo auditório.",
+                "C": "Ela comprará as passagens de trem ainda \nhoje.",
+                "D": "A internet revolucionou a vida das pessoas.",
+                "E": "Sejam amigáveis com as visitas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as palavras a seguir e assinale a \nalternativa em que se verifica um substantivo \ndotado de um significado coletivo.",
+            "alternativas": {
+                "A": "lado.",
+                "B": "espícula.",
+                "C": "fluviográfico.",
+                "D": "vara.",
+                "E": "vigário.  QUESTÃO 09 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica um adjetivo \ndesempenhando a função de advérbio.   \n \n(A) Os elefantes comem mais do que as girafas.  \n(B) Ele é poeta, é muito bom escritor.  \n(C) A depressão chegou silenciosa à vida de \nAna.  \n(D) Foi só depois da discussão que eles \nvoltaram a se entender e a se respeitar.  \n(E) O professor de química passou vários \nexercícios difíceis como tarefa de casa."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Analise as palavras a seguir e assinale a \nalternativa em que ocorre dígrafo.",
+            "alternativas": {
+                "A": "água.",
+                "B": "quase.",
+                "C": "chá.",
+                "D": "ódio.",
+                "E": "máscara."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Analise as sentenças a seguir e assinale a \nalternativa em que o emprego do acento \nindicativo de crase é facultativo.",
+            "alternativas": {
+                "A": "Às vésperas do exame, a universidade \nentrou em greve.",
+                "B": "A notícia que chegou à sua mãe é a de que \nvocê está dando trabalho por aí.",
+                "C": "Ela tem preferência por cortes de cabelo à \nfrancesa.",
+                "D": "Sua parte dos bens correspondia à maior \nparte da herança familiar.",
+                "E": "A fala de Ana em relação à situação atual \nda empresa gerou novos rumores.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 4 de 10 QUESTÃO 12  \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica colocação \npronominal incorreta.   \n(A) Se a encontrasse, diria tudo o que senti nos \núltimos dias.   \n(B) Esta certamente não é a resposta que se \nesperava receber.   \n(C) Ninguém lhe acompanhará nos piores \nmomentos de sua vida.  \n(D) Em se tratando de um assunto urgente, \npassarei o recado imediatamente.   \n(E) Não há motivo para desconfiança, tenho \ncontado -lhe tudo o que acontece."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Nas sentenças apresentadas a seguir, o emprego \nda vírgula está incorreto apenas em:",
+            "alternativas": {
+                "A": "A mãe do garoto pediu à professora, que o \ncolocasse de castigo.",
+                "B": "Se for ao velório, mande lembranças a dona \nMaria.",
+                "C": "A menina, que já estava de castigo, tornou \na desobedecer às ordens do pai.",
+                "D": "Marta pratica esportes regularmente; sua \nirmã, não.",
+                "E": "Ficou muito, muito triste com o falecimento \ndo amigo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: A sentença que está incorreta quanto à \nconcordância verbal ou nominal é:",
+            "alternativas": {
+                "A": "O café e a torta estavam ótimos.",
+                "B": "A vítima apresentava ferimentos no dedo \nindicador e no mindinho.",
+                "C": "É necessário atenção para perceber as \nentrelinhas do texto.",
+                "D": "Foram considerados culpados pelo crime \ncometido o homem e sua esposa.",
+                "E": "À noite, se vê que há bastante pessoas na \nrua. QUESTÃO 15  \nA sentença que apresenta o emprego de um item \nlexical com sentido figurado é:  \n(A) Durante o protesto, a multidão caminhava \nem uma mesma direção.  \n(B) A viatura colou no caminhão, na tentativa \nde capturar o motorista, suspeito do crime.   \n(C) A criança implorava pelo carinho da mãe.   \n(D) Enfeitaram o lugar com balões coloridos e \nfitilhos cintilantes.  \n(E) A cachorra se animou ao rever sua dona.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Suponha que um ano bissexto ocorre a cada 4 \nanos. Sabe -se que 2024 foi um ano bissexto. \nQual será o próximo ano bissexto depois de \n2150?",
+            "alternativas": {
+                "A": "2152.",
+                "B": "2154.",
+                "C": "2156.",
+                "D": "2158.",
+                "E": "2160."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Um reservatório de água tem formato de um \nprisma quadrangular reto (paralelepípedo cuja \nbase é um quadrado). A base quadrada tem lado \n2 metros, e o reservatório tem altura total de 4 \nmetros. Esse reservatório foi cheio com água \naté uma altura de 1,55 metros. Se forem \nadicionados mais 600 litros de água, qual deve \nser a nova altura da coluna de água?",
+            "alternativas": {
+                "A": "1,565 m.",
+                "B": "1,665 m.",
+                "C": "1,700 m.",
+                "D": "1,755 m.",
+                "E": "1,800 m.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 5 de 10 QUESTÃO 18 \nUm determinado pacote de biscoitos era \ninicialmente vendido com 10 unidades \n(pesando 15 gramas cada unidade), e custava \nR$ 5,00. Após uma mudança de fábrica, o \npacote passou a ter 12 unidades, mas diminuiu \no peso para 12 gramas por unidade. Além disso, \neste novo pacote passou a ser comercializado \npor R$ 6,00. Com respeito à razão entre o preço \npor grama do produto, é correto afirmar que:  \n(A) Diminuiu 20%.  \n(B) Diminuiu 25%.  \n(C) Aumentou 15%.  \n(D) Aumentou 25%.  \n(E) Aumentou 20%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Um empreendedor decide fazer a receita de pão \nde queijo da sua avó para vender. A receita \nindica utilizar uma proporção de 2 xícaras de \npovilho para cada 3 ovos. Porém, para ser mais \npreciso, ele mede que o peso do conteúdo de \npovilho em uma xícara é de 12 0 gramas. Se esse \nempreendedor quer utilizar 10 kg de povilho no \ntotal, quantos ovos ele deve dispor para realizar \na receita?",
+            "alternativas": {
+                "A": "80.",
+                "B": "90.",
+                "C": "100.",
+                "D": "115.",
+                "E": "125."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Um corredor corre todos os dias 10 km. Durante \nos 6 dias de uma dada semana, ele mede que a \nmédia do tempo em que ele consegue terminar \nprova é de 1 hora e 10 minutos. Se no 7º dia, o \ncorredor correr bem mais lento e levar 2 horas \ne 20 minutos para complet ar a prova, qual será \na média do tempo do corredor nos 7 dias da \nsemana?",
+            "alternativas": {
+                "A": "1h20min.",
+                "B": "1h30min.",
+                "C": "1h40min.",
+                "D": "1h50min.",
+                "E": "2h00min.  \n QUESTÃO 21 \nCerto dia, um pai diz para o seu filho:  \n“Hoje eu tenho 7 vezes a sua idade, e daqui a \ndois anos terei 5 vezes a sua idade”.  \nCom base nessa informação, qual a idade do pai \natualmente?  \n(A) 26.  \n(B) 28.  \n(C) 30.  \n(D) 32.  \n(E) 34."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Um tabuleiro de xadrez 8x8 tem 64 casas, das \nquais metade são pretas e o restante são \nbrancas. As casas são pintadas de forma \nalternada, exatamente como num tabuleiro de \nxadrez convencional. Num tabuleiro 16x16, \nque tem uma construção periódica também \nconv encional, quantas são as casas pretas que \nnão fazem parte da borda do tabuleiro?",
+            "alternativas": {
+                "A": "78.",
+                "B": "86.",
+                "C": "98.",
+                "D": "102.",
+                "E": "116."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Um triângulo retângulo tem altura 5 cm, e base \n12 cm, indique seu perímetro e sua área, \nrespectivamente:",
+            "alternativas": {
+                "A": "17 cm e 30 cm2.",
+                "B": "17 cm e 60 cm2.",
+                "C": "29 cm e 30 cm2.",
+                "D": "30 cm e 60 cm2.",
+                "E": "30 cm e 30 cm2. \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 6 de 10 QUESTÃO 24 \nDuas retas são concorrentes. O menor ângulo \nentre essas retas é 25º. Se esse ângulo passar a \nser 49º, quanto vai passar a ser o maior ângulo \nentre essas retas?  \n(A) 65°.  \n(B) 41º.  \n(C) 165°.  \n(D) 131°.  \n(E) 125°."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Observe dois exemplos a seguir de como um \nquadrado é enumerado com uma determinada \nsequência lógica:  \n \nO exemplo de esquerda é um quadrado de lado \n2. A soma dos números de todas as suas casas é \n6. Já o quadrado da direita tem lado 4. A soma \nos números de todas as suas casas é 44. Qual \nserá a soma dos números de todas as casas de \num quadrado de lado 8?",
+            "alternativas": {
+                "A": "140.",
+                "B": "148.",
+                "C": "280.",
+                "D": "344.",
+                "E": "444.  \n \n \n \n \n NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: A respeito das medidas de segurança na \nnavegação na internet, analisar as afirmações a \nseguir:  \nI. É recomendado manter os softwares de \nnavegação sempre atualizados.  \nII. É importante definir Passwords diferentes \npara diferentes contas que são utilizadas na \ninternet.  \nIII. Uma das formas comuns de apanhar vírus é \nbaixando ficheiros aparentemente confiáveis na \ninternet.  \nEstá(ão) Correto(s):",
+            "alternativas": {
+                "A": "Somente o item I.",
+                "B": "Somente o item II.",
+                "C": "Somente o item III.",
+                "D": "Somente os itens I e II.",
+                "E": "Todos os itens."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Uma das formas de aumentar o nível de \nsegurança na navegação da internet é:",
+            "alternativas": {
+                "A": "Compartilhar dados com outros usuários na \ninternet.",
+                "B": "Utilizar a autenticação de dois fatores em \nsites e contas.",
+                "C": "Manter o computador com usuário e senha \nativos, mesmo sem estar na frente da tela.",
+                "D": "Clicar em links desconhecidos e baixar \npacotes de sites inseguros.",
+                "E": "Divulgar dados pessoais nas redes sociais."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Os endereços da internet são geralmente \ncompostos por três parâmetros diferentes. O \nWWW  no início dos endereços corresponde a \nabreviação de:",
+            "alternativas": {
+                "A": "World Wagon Web",
+                "B": "Word Whiz Web.",
+                "C": "World Wide Web.",
+                "D": "Word Wall Web.",
+                "E": "Word Want Web  \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 7 de 10 QUESTÃO 29 \nO correio eletrônico ou também conhecido \ncomo e -mail é um método que permite compor, \nenviar e receber mensagens através de sistemas \neletrônicos de comunicação.  \nUma das vantagens do uso do e -mail é:  \n(A) O alto custo para utilização do serviço.  \n(B) Poder ser enviado em poucos segundos para \nlongas distâncias.  \n(C) Exigir que a outra pessoa autorize sua \ncomunicação previamente.  \n(D) Ser acessível somente com o uso da \ninternet.  \n(E) Todos terem acesso a caixa de entrada dos \ne-mails de todos os usuários, independente de \nsenha."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Com relação a estruturação e uso do e -mail, \nmarcar C para as afirmativas Certas, E para as \nErradas e, após, assinalar a alternativa que \napresenta a sequência CORRETA:  \n(_) Para utilizar o e -mail é necessário fazer o \ncadastro de uma conta em um provedor de e -\nmail.  \n(_) Todos os provedores de e -mail são pagos, \nportanto, terá um custo para criar cada uma \ndas contas que serão usadas.  \n(_) Para que o computador não corra risco de \ncontrair vírus por intermédio do e -mail, \nrecomenda -se utilizar um antivírus.",
+            "alternativas": {
+                "A": "C – C – C.",
+                "B": "C – C – E.",
+                "C": "C – E – C.",
+                "D": "E – C – E.",
+                "E": "E – E – E. \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Em consonância com o Estatuto da Criança e do \nAdolescente (ECA), em seu artigo 3º, são \ndestacados alguns aspectos relativos ao \ndesenvolvimento da criança e do adolescente \nque são assegurados por meio de referido \ninstrumento. Dessa forma, por lei ou por outros \nmeios, procura -se facultar o desenvolvimento \nfísico, mental, moral, espiritual e social tanto da \ncriança quanto do adolescente. Em que \ncondições esse desenvolvimento é assegur ado?",
+            "alternativas": {
+                "A": "Igualdade e democracia",
+                "B": "Liberdade e dignidade",
+                "C": "Equidade e soberania",
+                "D": "Cidadania e direito social",
+                "E": "Éticas e sociais"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Por meio do ECA, é definido o grau de \nprioridade para a efetivação dos direitos \nassegurados legalmente para as crianças e \nadolescentes. Qual é o nível de prioridade \ndefinido por meio desse instrumento legal?",
+            "alternativas": {
+                "A": "Relativa",
+                "B": "Absoluta",
+                "C": "Integral",
+                "D": "Compartilhada",
+                "E": "Proporcional"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Na interpretação da Lei Federal 8.069/1990, \nqual dos critérios a seguir corresponde \ncorretamente aos aspectos que deverão ser \nobservados?",
+            "alternativas": {
+                "A": "Objetivos educacionais a que ela se dirige.",
+                "B": "As exigências do direito público social.",
+                "C": "Os direitos e deveres estritos ao âmbito \nindividual.",
+                "D": "A condição peculiar da criança e do \nadolescente como indivíduos vulneráveis e que \nprecisam de cuidado e proteção.",
+                "E": "Fins sociais a que ela se dirige.  \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 8 de 10 QUESTÃO 34 \nUma atividade corriqueira e aparentemente \nsimples é o controle da movimentação dos \nalunos. No entanto, há uma série de fatores \nenvolvidos que tanto podem contribuir como \ndificultar o fluxo dentro do ambiente \neducacional. Nesse sentido, destaque a \nalternativa que apresenta um erro de \ninterpretação em relação à correta \nmovimentação dos alunos.  \n(A) Uso de catracas inteligentes vai de encontro \na uma gestão administrativa escolar eficiente \nque visa agilizar a movimentação dos alunos.  \n(B) Escalonar, por turmas dos mais diversos \nníveis da Educação Básica, o horário de início \ne término das aulas contribui para facilitar a \nmovimentação dos alunos.  \n(C) Carteirinhas tradicionais, bem como, a \nimplementação de aplicativos e outras medidas \ntecnológicas ajudam a manter a ordem e a \nsegurança no início e término das aulas.  \n(D) Treinamento adequado dos profissionais \nenvolvidos.  \n(E) Suporte da gestão administrativa."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: 5 \nPara assegurar a conduta assertiva do \nprofissional, no intuito de manter a ordem e \nobservar as normas da escola, são verdadeiras \nas seguintes afirmações, afora:",
+            "alternativas": {
+                "A": "As normas de gestão e convivência visam \norientar as relações profissionais e interpessoais \nque ocorrem no âmbito educacional.",
+                "B": "Alguns princípios devem ser observados, a \nfim de garantir que as relações construídas \ndentro da escola contribuam efetivamente para \na ordem e o bom êxito dos trabalhos, como por \nexemplo, a singularidade cultural.",
+                "C": "Todas as ações que caracterizem infração \ndo Regimento Escolar devem ser analisadas e \njulgadas de acordo com a gravidade do ato \ncometido.",
+                "D": "O Conselho de Escola ou departamento \nanálogo a essa função deve ser acionado \nquando houver alguma falta grave cometida no \nâmbito escolar.",
+                "E": "Todos os procedimentos que atentem contra \nas normas de convivência da escola precisam \nser coibidos.  \n QUESTÃO 3 6 \nNo exercício das atribuições inerentes aos \ncargos respectivos ao âmbito educacional, em \nobservância ao artigo 13º do ECA, o Conselho \nTutelar deverá ser notificado nas situações de \nsuspeita ou confirmação contra a criança ou \nadolescente elencadas a seguir, salvo:  \n(A) Castigo físico  \n(B) Tratamento cruel  \n(C) Tratamento degradante  \n(D) Tratamento corretivo  \n(E) Maus -tratos"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: 7 \nObserve as diretrizes descritas a seguir e \nassinale a que condiz corretamente às ações \ncorrespondentes ao Programa Saúde na Escola.",
+            "alternativas": {
+                "A": "Centralização e respeito à autonomia \nmunicipal.",
+                "B": "Integração e articulação das redes privadas \nde ensino e de saúde.",
+                "C": "Territorialidade.",
+                "D": "Multidisciplinaridade.",
+                "E": "Cuidado restrito ao tempo e ao espaço."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: 8 \nSobre a educação inclusiva, é correto afirmar:",
+            "alternativas": {
+                "A": "As diretrizes atuais da educação inclusiva, \nde acordo com os principais documentos \nestruturadores dessa modalidade de ensino, \npropõem que a educação é um direito específico \ndos indivíduos com necessidades especiais.",
+                "B": "A educação de pessoas com necessidades \nespeciais deve ser feita, preferencialmente, na \nrede especializada de ensino, em escolas e \nclasses onde essas pessoas convivam e \ninterajam com as demais.",
+                "C": "A educação de pessoas com necessidades \nespeciais na rede regular de ensino vem de \nencontro ao paradigma de que é direito de todos \na convivência em sociedade, a frequência e o \nusufruto de todos os espaços sociais.",
+                "D": "A educação inclusiva é pautada na \nprevalência da educação especializada sobre a \neducação proveniente do sistema regular de \nensino.",
+                "E": "No caso da educação inclusiva, a adaptação \nda escola na sua totalidade para receber os \nalunos com deficiência é garantida por lei.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 9 de 10 QUESTÃO 3 9 \nAo longo dos períodos históricos que foram \nresponsáveis pelo embasamento do atual \nmodelo de educação inclusiva, o que significa a \nexpressão: institucionalização da deficiência?  \n(A) Oferta de ensino às pessoas com deficiência \nem locais especializados.  \n(B) Regulamentação legal das características \nque correspondem a cada tipo de deficiência.  \n(C) Atendimento às pessoas com deficiência, a \nfim de minimizar seu quadro clínico.  \n(D) Democratização do ensino para os \nindivíduos com deficiência.  \n(E) Ação conjunta em prol da inserção dos \nindivíduos com deficiência no sistema de \nensino regular."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: O paradigma da educação inclusiva surgiu, \nprimeiramente, em função de quais dos fatores \na seguir?",
+            "alternativas": {
+                "A": "Necessidade social e necessidade de \nmudança de mentalidade.",
+                "B": "Imposição do poder público e imposição da \nsociedade civil.",
+                "C": "Maior nível de conhecimento e informação.",
+                "D": "Influência dos modelos internacionais.",
+                "E": "Incentivos fiscais e governamentais.  \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 10 de 10"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: O final da narrativa permite concluir que o \npersonagem do velho era:",
+            "alternativas": {
+                "A": "Gottfried Silbermann.",
+                "B": "o padre.",
+                "C": "Bach.",
+                "D": "um fiel qualquer.",
+                "E": "um sacristão."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: O julgamento do sacristão em relação ao velho \nindica que ele:",
+            "alternativas": {
+                "A": "não entendia por que o velho não conhecia \nBach.",
+                "B": "não conhecia o velho pessoalmente.",
+                "C": "aceitava o fato de que as pessoas têm \ninteresses distintos.",
+                "D": "julgava importante que conhecessem \npessoalmente Gottfried Silbermann.",
+                "E": "suspeitava que o velho fosse alguém ilustre."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Em “(...) como fazia todos os domingos (...)” , o \nsentido do verbo “fazer” , conjugado no \npretérito imperfeito do indicativo, indica uma \nação:",
+            "alternativas": {
+                "A": "hipotética.",
+                "B": "pontual.",
+                "C": "habitual.",
+                "D": "terminada.",
+                "E": "contínua."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Considere o excerto: “ Você merece a vida \ninsignificante que leva, disse o menino, \nrecolhendo o copo tosco em que trouxera o \nvinho (...) ”. A palavra que melhor substituí \n“tosco” , no contexto indicado, é:",
+            "alternativas": {
+                "A": "lapidado.",
+                "B": "demasiado.",
+                "C": "envernizado.",
+                "D": "rústico.",
+                "E": "tolo.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 3 de 10 QUESTÃO 05 \nConsidere o excerto: “Dali a pouco o velho \nouviu um “Pst ” e depois um “Você está aí?”.” \nAs palavras “dali”  e “aí” , que ocorrem no \nexcerto dado, funcionam como elementos:  \n(A) indicadores de modo.  \n(B) indicadores de lugar.  \n(C) intensificadores.  \n(D) indicadores de pessoa e posse, \nrespectivamente.  \n(E) indicadores de tempo e de espaço, \nrespectivamente."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: As palavras “encaracolando”  e \n“desencaracolando”  são ambas formadas \npelo(s) processo(s) de formação:",
+            "alternativas": {
+                "A": "derivação prefixal e derivação sufixal.",
+                "B": "derivação parassintética e derivação \nsufixal.",
+                "C": "derivação imprópria.",
+                "D": "composição por justaposição.",
+                "E": "composição por aglutinação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir quanto às formas \nverbais empregadas. Assinale a alternativa em \nque ocorre um verbo em forma nominal.",
+            "alternativas": {
+                "A": "Quando fervidos, os vegetais perdem parte \nde seus nutrientes.",
+                "B": "Ao final da palestra, ele desligou as luzes \ndo auditório.",
+                "C": "Ela comprará as passagens de trem ainda \nhoje.",
+                "D": "A internet revolucionou a vida das pessoas.",
+                "E": "Sejam amigáveis com as visitas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as palavras a seguir e assinale a \nalternativa em que se verifica um substantivo \ndotado de um significado coletivo.",
+            "alternativas": {
+                "A": "lado.",
+                "B": "espícula.",
+                "C": "fluviográfico.",
+                "D": "vara.",
+                "E": "vigário.  QUESTÃO 09 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica um adjetivo \ndesempenhando a função de advérbio.   \n \n(A) Os elefantes comem mais do que as girafas.  \n(B) Ele é poeta, é muito bom escritor.  \n(C) A depressão chegou silenciosa à vida de \nAna.  \n(D) Foi só depois da discussão que eles \nvoltaram a se entender e a se respeitar.  \n(E) O professor de química passou vários \nexercícios difíceis como tarefa de casa."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Analise as palavras a seguir e assinale a \nalternativa em que ocorre dígrafo.",
+            "alternativas": {
+                "A": "água.",
+                "B": "quase.",
+                "C": "chá.",
+                "D": "ódio.",
+                "E": "máscara."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Analise as sentenças a seguir e assinale a \nalternativa em que o emprego do acento \nindicativo de crase é facultativo.",
+            "alternativas": {
+                "A": "Às vésperas do exame, a universidade \nentrou em greve.",
+                "B": "A notícia que chegou à sua mãe é a de que \nvocê está dando trabalho por aí.",
+                "C": "Ela tem preferência por cortes de cabelo à \nfrancesa.",
+                "D": "Sua parte dos bens correspondia à maior \nparte da herança familiar.",
+                "E": "A fala de Ana em relação à situação atual \nda empresa gerou novos rumores.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 4 de 10 QUESTÃO 12  \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica colocação \npronominal incorreta.   \n(A) Se a encontrasse, diria tudo o que senti nos \núltimos dias.   \n(B) Esta certamente não é a resposta que se \nesperava receber.   \n(C) Ninguém lhe acompanhará nos piores \nmomentos de sua vida.  \n(D) Em se tratando de um assunto urgente, \npassarei o recado imediatamente.   \n(E) Não há motivo para desconfiança, tenho \ncontado -lhe tudo o que acontece."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Nas sentenças apresentadas a seguir, o emprego \nda vírgula está incorreto apenas em:",
+            "alternativas": {
+                "A": "A mãe do garoto pediu à professora, que o \ncolocasse de castigo.",
+                "B": "Se for ao velório, mande lembranças a dona \nMaria.",
+                "C": "A menina, que já estava de castigo, tornou \na desobedecer às ordens do pai.",
+                "D": "Marta pratica esportes regularmente; sua \nirmã, não.",
+                "E": "Ficou muito, muito triste com o falecimento \ndo amigo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: A sentença que está incorreta quanto à \nconcordância verbal ou nominal é:",
+            "alternativas": {
+                "A": "O café e a torta estavam ótimos.",
+                "B": "A vítima apresentava ferimentos no dedo \nindicador e no mindinho.",
+                "C": "É necessário atenção para perceber as \nentrelinhas do texto.",
+                "D": "Foram considerados culpados pelo crime \ncometido o homem e sua esposa.",
+                "E": "À noite, se vê que há bastante pessoas na \nrua. QUESTÃO 15  \nA sentença que apresenta o emprego de um item \nlexical com sentido figurado é:  \n(A) Durante o protesto, a multidão caminhava \nem uma mesma direção.  \n(B) A viatura colou no caminhão, na tentativa \nde capturar o motorista, suspeito do crime.   \n(C) A criança implorava pelo carinho da mãe.   \n(D) Enfeitaram o lugar com balões coloridos e \nfitilhos cintilantes.  \n(E) A cachorra se animou ao rever sua dona.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Suponha que um ano bissexto ocorre a cada 4 \nanos. Sabe -se que 2024 foi um ano bissexto. \nQual será o próximo ano bissexto depois de \n2150?",
+            "alternativas": {
+                "A": "2152.",
+                "B": "2154.",
+                "C": "2156.",
+                "D": "2158.",
+                "E": "2160."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Um reservatório de água tem formato de um \nprisma quadrangular reto (paralelepípedo cuja \nbase é um quadrado). A base quadrada tem lado \n2 metros, e o reservatório tem altura total de 4 \nmetros. Esse reservatório foi cheio com água \naté uma altura de 1,55 metros. Se forem \nadicionados mais 600 litros de água, qual deve \nser a nova altura da coluna de água?",
+            "alternativas": {
+                "A": "1,565 m.",
+                "B": "1,665 m.",
+                "C": "1,700 m.",
+                "D": "1,755 m.",
+                "E": "1,800 m.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 5 de 10 QUESTÃO 18 \nUm determinado pacote de biscoitos era \ninicialmente vendido com 10 unidades \n(pesando 15 gramas cada unidade), e custava \nR$ 5,00. Após uma mudança de fábrica, o \npacote passou a ter 12 unidades, mas diminuiu \no peso para 12 gramas por unidade. Além disso, \neste novo pacote passou a ser comercializado \npor R$ 6,00. Com respeito à razão entre o preço \npor grama do produto, é correto afirmar que:  \n(A) Diminuiu 20%.  \n(B) Diminuiu 25%.  \n(C) Aumentou 15%.  \n(D) Aumentou 25%.  \n(E) Aumentou 20%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Um empreendedor decide fazer a receita de pão \nde queijo da sua avó para vender. A receita \nindica utilizar uma proporção de 2 xícaras de \npovilho para cada 3 ovos. Porém, para ser mais \npreciso, ele mede que o peso do conteúdo de \npovilho em uma xícara é de 12 0 gramas. Se esse \nempreendedor quer utilizar 10 kg de povilho no \ntotal, quantos ovos ele deve dispor para realizar \na receita?",
+            "alternativas": {
+                "A": "80.",
+                "B": "90.",
+                "C": "100.",
+                "D": "115.",
+                "E": "125."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Um corredor corre todos os dias 10 km. Durante \nos 6 dias de uma dada semana, ele mede que a \nmédia do tempo em que ele consegue terminar \nprova é de 1 hora e 10 minutos. Se no 7º dia, o \ncorredor correr bem mais lento e levar 2 horas \ne 20 minutos para complet ar a prova, qual será \na média do tempo do corredor nos 7 dias da \nsemana?",
+            "alternativas": {
+                "A": "1h20min.",
+                "B": "1h30min.",
+                "C": "1h40min.",
+                "D": "1h50min.",
+                "E": "2h00min.  \n QUESTÃO 21 \nCerto dia, um pai diz para o seu filho:  \n“Hoje eu tenho 7 vezes a sua idade, e daqui a \ndois anos terei 5 vezes a sua idade”.  \nCom base nessa informação, qual a idade do pai \natualmente?  \n(A) 26.  \n(B) 28.  \n(C) 30.  \n(D) 32.  \n(E) 34."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Um tabuleiro de xadrez 8x8 tem 64 casas, das \nquais metade são pretas e o restante são \nbrancas. As casas são pintadas de forma \nalternada, exatamente como num tabuleiro de \nxadrez convencional. Num tabuleiro 16x16, \nque tem uma construção periódica também \nconv encional, quantas são as casas pretas que \nnão fazem parte da borda do tabuleiro?",
+            "alternativas": {
+                "A": "78.",
+                "B": "86.",
+                "C": "98.",
+                "D": "102.",
+                "E": "116."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Um triângulo retângulo tem altura 5 cm, e base \n12 cm, indique seu perímetro e sua área, \nrespectivamente:",
+            "alternativas": {
+                "A": "17 cm e 30 cm2.",
+                "B": "17 cm e 60 cm2.",
+                "C": "29 cm e 30 cm2.",
+                "D": "30 cm e 60 cm2.",
+                "E": "30 cm e 30 cm2. \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 6 de 10 QUESTÃO 24 \nDuas retas são concorrentes. O menor ângulo \nentre essas retas é 25º. Se esse ângulo passar a \nser 49º, quanto vai passar a ser o maior ângulo \nentre essas retas?  \n(A) 65°.  \n(B) 41º.  \n(C) 165°.  \n(D) 131°.  \n(E) 125°."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Observe dois exemplos a seguir de como um \nquadrado é enumerado com uma determinada \nsequência lógica:  \n \nO exemplo de esquerda é um quadrado de lado \n2. A soma dos números de todas as suas casas é \n6. Já o quadrado da direita tem lado 4. A soma \nos números de todas as suas casas é 44. Qual \nserá a soma dos números de todas as casas de \num quadrado de lado 8?",
+            "alternativas": {
+                "A": "140.",
+                "B": "148.",
+                "C": "280.",
+                "D": "344.",
+                "E": "444.  \n \n \n \n \n NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: A respeito das medidas de segurança na \nnavegação na internet, analisar as afirmações a \nseguir:  \nI. É recomendado manter os softwares de \nnavegação sempre atualizados.  \nII. É importante definir Passwords diferentes \npara diferentes contas que são utilizadas na \ninternet.  \nIII. Uma das formas comuns de apanhar vírus é \nbaixando ficheiros aparentemente confiáveis na \ninternet.  \nEstá(ão) Correto(s):",
+            "alternativas": {
+                "A": "Somente o item I.",
+                "B": "Somente o item II.",
+                "C": "Somente o item III.",
+                "D": "Somente os itens I e II.",
+                "E": "Todos os itens."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Uma das formas de aumentar o nível de \nsegurança na navegação da internet é:",
+            "alternativas": {
+                "A": "Compartilhar dados com outros usuários na \ninternet.",
+                "B": "Utilizar a autenticação de dois fatores em \nsites e contas.",
+                "C": "Manter o computador com usuário e senha \nativos, mesmo sem estar na frente da tela.",
+                "D": "Clicar em links desconhecidos e baixar \npacotes de sites inseguros.",
+                "E": "Divulgar dados pessoais nas redes sociais."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Os endereços da internet são geralmente \ncompostos por três parâmetros diferentes. O \nWWW  no início dos endereços corresponde a \nabreviação de:",
+            "alternativas": {
+                "A": "World Wagon Web",
+                "B": "Word Whiz Web.",
+                "C": "World Wide Web.",
+                "D": "Word Wall Web.",
+                "E": "Word Want Web  \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 7 de 10 QUESTÃO 29 \nO correio eletrônico ou também conhecido \ncomo e -mail é um método que permite compor, \nenviar e receber mensagens através de sistemas \neletrônicos de comunicação.  \nUma das vantagens do uso do e -mail é:  \n(A) O alto custo para utilização do serviço.  \n(B) Poder ser enviado em poucos segundos para \nlongas distâncias.  \n(C) Exigir que a outra pessoa autorize sua \ncomunicação previamente.  \n(D) Ser acessível somente com o uso da \ninternet.  \n(E) Todos terem acesso a caixa de entrada dos \ne-mails de todos os usuários, independente de \nsenha."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Com relação a estruturação e uso do e -mail, \nmarcar C para as afirmativas Certas, E para as \nErradas e, após, assinalar a alternativa que \napresenta a sequência CORRETA:  \n(_) Para utilizar o e -mail é necessário fazer o \ncadastro de uma conta em um provedor de e -\nmail.  \n(_) Todos os provedores de e -mail são pagos, \nportanto, terá um custo para criar cada uma \ndas contas que serão usadas.  \n(_) Para que o computador não corra risco de \ncontrair vírus por intermédio do e -mail, \nrecomenda -se utilizar um antivírus.",
+            "alternativas": {
+                "A": "C – C – C.",
+                "B": "C – C – E.",
+                "C": "C – E – C.",
+                "D": "E – C – E.",
+                "E": "E – E – E. \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Em consonância com o Estatuto da Criança e do \nAdolescente (ECA), em seu artigo 3º, são \ndestacados alguns aspectos relativos ao \ndesenvolvimento da criança e do adolescente \nque são assegurados por meio de referido \ninstrumento. Dessa forma, por lei ou por outros \nmeios, procura -se facultar o desenvolvimento \nfísico, mental, moral, espiritual e social tanto da \ncriança quanto do adolescente. Em que \ncondições esse desenvolvimento é assegur ado?",
+            "alternativas": {
+                "A": "Igualdade e democracia",
+                "B": "Liberdade e dignidade",
+                "C": "Equidade e soberania",
+                "D": "Cidadania e direito social",
+                "E": "Éticas e sociais"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Por meio do ECA, é definido o grau de \nprioridade para a efetivação dos direitos \nassegurados legalmente para as crianças e \nadolescentes. Qual é o nível de prioridade \ndefinido por meio desse instrumento legal?",
+            "alternativas": {
+                "A": "Relativa",
+                "B": "Absoluta",
+                "C": "Integral",
+                "D": "Compartilhada",
+                "E": "Proporcional"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Na interpretação da Lei Federal 8.069/1990, \nqual dos critérios a seguir corresponde \ncorretamente aos aspectos que deverão ser \nobservados?",
+            "alternativas": {
+                "A": "Objetivos educacionais a que ela se dirige.",
+                "B": "As exigências do direito público social.",
+                "C": "Os direitos e deveres estritos ao âmbito \nindividual.",
+                "D": "A condição peculiar da criança e do \nadolescente como indivíduos vulneráveis e que \nprecisam de cuidado e proteção.",
+                "E": "Fins sociais a que ela se dirige.  \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 8 de 10 QUESTÃO 34 \nUma atividade corriqueira e aparentemente \nsimples é o controle da movimentação dos \nalunos. No entanto, há uma série de fatores \nenvolvidos que tanto podem contribuir como \ndificultar o fluxo dentro do ambiente \neducacional. Nesse sentido, destaque a \nalternativa que apresenta um erro de \ninterpretação em relação à correta \nmovimentação dos alunos.  \n(A) Uso de catracas inteligentes vai de encontro \na uma gestão administrativa escolar eficiente \nque visa agilizar a movimentação dos alunos.  \n(B) Escalonar, por turmas dos mais diversos \nníveis da Educação Básica, o horário de início \ne término das aulas contribui para facilitar a \nmovimentação dos alunos.  \n(C) Carteirinhas tradicionais, bem como, a \nimplementação de aplicativos e outras medidas \ntecnológicas ajudam a manter a ordem e a \nsegurança no início e término das aulas.  \n(D) Treinamento adequado dos profissionais \nenvolvidos.  \n(E) Suporte da gestão administrativa."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: 5 \nPara assegurar a conduta assertiva do \nprofissional, no intuito de manter a ordem e \nobservar as normas da escola, são verdadeiras \nas seguintes afirmações, afora:",
+            "alternativas": {
+                "A": "As normas de gestão e convivência visam \norientar as relações profissionais e interpessoais \nque ocorrem no âmbito educacional.",
+                "B": "Alguns princípios devem ser observados, a \nfim de garantir que as relações construídas \ndentro da escola contribuam efetivamente para \na ordem e o bom êxito dos trabalhos, como por \nexemplo, a singularidade cultural.",
+                "C": "Todas as ações que caracterizem infração \ndo Regimento Escolar devem ser analisadas e \njulgadas de acordo com a gravidade do ato \ncometido.",
+                "D": "O Conselho de Escola ou departamento \nanálogo a essa função deve ser acionado \nquando houver alguma falta grave cometida no \nâmbito escolar.",
+                "E": "Todos os procedimentos que atentem contra \nas normas de convivência da escola precisam \nser coibidos.  \n QUESTÃO 3 6 \nNo exercício das atribuições inerentes aos \ncargos respectivos ao âmbito educacional, em \nobservância ao artigo 13º do ECA, o Conselho \nTutelar deverá ser notificado nas situações de \nsuspeita ou confirmação contra a criança ou \nadolescente elencadas a seguir, salvo:  \n(A) Castigo físico  \n(B) Tratamento cruel  \n(C) Tratamento degradante  \n(D) Tratamento corretivo  \n(E) Maus -tratos"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: 7 \nObserve as diretrizes descritas a seguir e \nassinale a que condiz corretamente às ações \ncorrespondentes ao Programa Saúde na Escola.",
+            "alternativas": {
+                "A": "Centralização e respeito à autonomia \nmunicipal.",
+                "B": "Integração e articulação das redes privadas \nde ensino e de saúde.",
+                "C": "Territorialidade.",
+                "D": "Multidisciplinaridade.",
+                "E": "Cuidado restrito ao tempo e ao espaço."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: 8 \nSobre a educação inclusiva, é correto afirmar:",
+            "alternativas": {
+                "A": "As diretrizes atuais da educação inclusiva, \nde acordo com os principais documentos \nestruturadores dessa modalidade de ensino, \npropõem que a educação é um direito específico \ndos indivíduos com necessidades especiais.",
+                "B": "A educação de pessoas com necessidades \nespeciais deve ser feita, preferencialmente, na \nrede especializada de ensino, em escolas e \nclasses onde essas pessoas convivam e \ninterajam com as demais.",
+                "C": "A educação de pessoas com necessidades \nespeciais na rede regular de ensino vem de \nencontro ao paradigma de que é direito de todos \na convivência em sociedade, a frequência e o \nusufruto de todos os espaços sociais.",
+                "D": "A educação inclusiva é pautada na \nprevalência da educação especializada sobre a \neducação proveniente do sistema regular de \nensino.",
+                "E": "No caso da educação inclusiva, a adaptação \nda escola na sua totalidade para receber os \nalunos com deficiência é garantida por lei.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 9 de 10 QUESTÃO 3 9 \nAo longo dos períodos históricos que foram \nresponsáveis pelo embasamento do atual \nmodelo de educação inclusiva, o que significa a \nexpressão: institucionalização da deficiência?  \n(A) Oferta de ensino às pessoas com deficiência \nem locais especializados.  \n(B) Regulamentação legal das características \nque correspondem a cada tipo de deficiência.  \n(C) Atendimento às pessoas com deficiência, a \nfim de minimizar seu quadro clínico.  \n(D) Democratização do ensino para os \nindivíduos com deficiência.  \n(E) Ação conjunta em prol da inserção dos \nindivíduos com deficiência no sistema de \nensino regular."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE DE APOIO ESCOLAR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: O paradigma da educação inclusiva surgiu, \nprimeiramente, em função de quais dos fatores \na seguir?",
+            "alternativas": {
+                "A": "Necessidade social e necessidade de \nmudança de mentalidade.",
+                "B": "Imposição do poder público e imposição da \nsociedade civil.",
+                "C": "Maior nível de conhecimento e informação.",
+                "D": "Influência dos modelos internacionais.",
+                "E": "Incentivos fiscais e governamentais.  \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nAGENTE DE APOIO ESCOLAR                                                                                                                      Página 10 de 10"
+            },
+            "resposta_correta": "A"
+        }
+    ]
+}

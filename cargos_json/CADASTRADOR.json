@@ -1,3 +1,340 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6dfeec4cb46b913182d10a911abb17672dac2af0df8878bbf6644786c033805
-size 38167
+{
+    "CADASTRADOR": [
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, os Jogos Paralímpicos:",
+            "alternativas": {
+                "A": "Tiveram início durante a Segunda Guerra \nMundial, com soldados lesionados que não \npodiam retornar ao confronto.",
+                "B": "Foram resultado de uma abordagem \nrevolucionária de tratamento de pacientes feridos \nno pós -guerra, que incluía artesanato e a prática \nde esportes.",
+                "C": "Foram idealizados pelo médico neurologista \nSir Ludwig Guttman, que também era portador \nde deficiência e não concordava com a \ninatividade de pessoas como ele.",
+                "D": "Aconteceram de forma oficial e internacional \npela primeira vez em julho de 1948, dentro de um \nhospital, sob incentivo do médico Sir Ludwig \nGuttman.",
+                "E": "Aumentou a perspectiva de vida das pessoas \ncom deficiência em geral, uma vez que, ao \npraticar esportes, saem de longos períodos de \ninatividade."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Analise os excertos a seguir, retirados do texto, e \nassinale a alternativa em que o vocábulo “o(s)” \nocorre como pronome demonstrativo, \nconsiderando também a possibilidade de \ncontração com uma preposição.",
+            "alternativas": {
+                "A": "Os Jogos Paralímpicos, como conhecemos \nhoje, não começaram como uma grande \ncompetição mundial de diversos esportes.",
+                "B": "Essas competições continuaram a crescer, \ntornando -se eventos anuais no hospital.",
+                "C": "O que começou com uma competição \nmodesta entre alguns pacientes veio a se tornar \num dos maiores símbolos de inclusão do mundo.",
+                "D": "O impacto foi imediato e transformador.",
+                "E": "O crescimento do movimento paralímpico foi \nacompanhado pela inclusão de atletas com \ndiferentes tipos de deficiência.  \n \n \n  \nConsidere o seguinte excerto, retirado do \ntexto, para responder às questões 3 e 4:  \n“Ele acreditava que a prática esportiva não \napenas ajudaria no condicionamento físico, mas \ntambém restauraria a dignidade e a autoestima \ndaquelas pessoas.”"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A expressão “não apenas […] mas também”, que \nocorre no excerto dado, imprime ao contexto um \nsentido:",
+            "alternativas": {
+                "A": "adversativo.",
+                "B": "aditivo.",
+                "C": "conformativo.",
+                "D": "consecutivo.",
+                "E": "concessivo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: O vocábulo “que” , que ocorre no excerto dado, \natua como:",
+            "alternativas": {
+                "A": "pronome relativo.",
+                "B": "pronome interrogativo.",
+                "C": "conjunção integrante.",
+                "D": "conjunção causal.",
+                "E": "preposição."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: O encontro vocálico encontrado em “pedreira ” é \num ditongo decrescente. O mesmo tipo de \nditongo também se encontra em:",
+            "alternativas": {
+                "A": "ouriço.",
+                "B": "rosácea.",
+                "C": "pátria.",
+                "D": "equino.",
+                "E": "névoa.  \n \n \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nCADASTRADOR                                                                                                                                             Página 4 de 12 QUESTÃO 06 \nHá o emprego incorreto da vírgula, separando o \nverbo de seu(s) complemento(s), apenas em:  \n(A) A mulher questionou a professora, das falas \nsobre seu filho.  \n(B) Todo o meu rosto, em razão da insolação, \nardia como fogo.   \n(C) Sua preguiça era tanta, que não conseguiu \nfinalizar suas tarefas.  \n(D) Alguns disseram que ela ficou furiosa, \noutros, que apenas se chateou.  \n(E) Enquanto ela preparava o jantar, a garotinha \nbrincava de boneca."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: A concordância nominal está incorreta  apenas \nem:",
+            "alternativas": {
+                "A": "A senhora possui muitas joias e outros itens \ncaros em sua casa.",
+                "B": "Delicadas flores e ornamentos enchiam as \nprateleiras das janelas.",
+                "C": "Este manuscrito foi traduzido para as línguas \ninglesa e espanhola.",
+                "D": "Esses dois artigos, por si só, bastariam para \ntorná -lo um gênio.",
+                "E": "Pedro e Ana casaram -se às pressas, um por \namor, o outro, por obrigação."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Ocorre um verbo com regência pronominal e \ntransitiva indireta, simultaneamente, apenas em:",
+            "alternativas": {
+                "A": "Ele estreou -se no programa televisivo, como \nator, na última semana.",
+                "B": "Disseram -lhe que as provas seriam \nremarcadas.",
+                "C": "Sabe -se que as investigações policiais \ncostumam demorar.",
+                "D": "As meninas ajudavam -no a melhorar nos dias \ntristes.",
+                "E": "Perguntaram -me se iria à festa, mas não pude \nrespondê -los.  QUESTÃO 09 \nA sentença cuja palavra em destaque é um \npronome indefinido é:  \n(A) Avisem -nos a respeito dos novos prazos de \ninscrição do curso.  \n(B) Tudo aquilo  está disponível para doação.  \n(C) As pessoas costumam acreditar no que \npodem ver.   \n(D) Alguns  dos alunos não tiveram tempo de \nfinalizar suas redações.  \n(E) As suas memórias são o que você tem de \nmais valioso."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Dentre as palavras a seguir, verifica -se um sufixo \nindicador de grau aumentativo apenas em:",
+            "alternativas": {
+                "A": "aldeões.",
+                "B": "muralha.",
+                "C": "cirurgiã.",
+                "D": "estudantes.",
+                "E": "cresceram.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Dado um triângulo retângulo isóscele cuja \nmedida do cateto é igual a 2 cm, qual deve ser o \nlado, aproximadamente, de um quadrado para \nque este tenha a mesma área que o triângulo?",
+            "alternativas": {
+                "A": "2,2 cm.",
+                "B": "1,4 cm.",
+                "C": "1,0 cm.",
+                "D": "0,8 cm.",
+                "E": "0,9 cm.  \n \n \n \n \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nCADASTRADOR                                                                                                                                             Página 5 de 12 QUESTÃO 12  \nSabe -se que a média aritmética simples das \nidades de uma turma de 100 pessoas é 36 anos e \nque ninguém nesta turma tem idade exatamente \nigual a 36 anos. Além disso, sabe -se que a médias \ndas idades das 50 pessoas mais velhas é 25% \nmaior que a média das idades das 50 pessoas \nmais jovens. Nesta situação, qual a média das \nidades das 50 pessoas mais jovens?  \n(A) 34 anos.  \n(B) 28 anos.  \n(C) 31 anos.  \n(D) 32 anos.  \n(E) 35 anos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Um dodecágono é um polígono regular que tem \n12 lados. Se o perímetro de um dodecágono é 18 \ncm, então pode -se afirmar que seu lado mede:",
+            "alternativas": {
+                "A": "0,2 cm.",
+                "B": "1,0 cm.",
+                "C": "1,5 cm.",
+                "D": "1,8 cm.",
+                "E": "1,2 cm."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Se daqui a 64 dias será uma sexta -feira, qual dia \nda semana será daqui a 268 dias?",
+            "alternativas": {
+                "A": "Quarta -feira.",
+                "B": "Quinta -feira.",
+                "C": "Sexta -feira.",
+                "D": "Sábado.",
+                "E": "Domingo.  \n \n \n \n QUESTÃO 15  \nA figura abaixo mostra três elementos de um \nconjunto que contém figuras seguindo uma \nmesma lógica de construção:  \n \n \nNas figuras, apenas círculos de cores diferentes \nsão ligados. Observando o padrão das figuras, \nqual elemento dentre as correspondências \nabaixo, poderia ser um elemento desse conjunto?  \n \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V.  \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Qual dos seguintes programas é um software \nnativo incluído na versão do sistema operacional \nWindows 7?  \nAssinale a opção que apresenta um aplicativo que \nvem pré -instalado com o sistema e é utilizado \npara tarefas comuns do dia a dia de usuários em \ngeral:",
+            "alternativas": {
+                "A": "Adobe Photoshop.",
+                "B": "Microsoft Office Word.",
+                "C": "VLC Media Player.",
+                "D": "CorelDRAW.",
+                "E": "Windows Media Player.  \nPrefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nCADASTRADOR                                                                                                                                             Página 6 de 12 QUESTÃO 17  \nAnalise a lista de softwares abaixo e assinale a \nalternativa que identifica corretamente o \nprograma utilizado para a criação de desenhos \nsimples e para a edição de imagens no Windows \n7:  \n(A) Microsoft SQL.  \n(B) Microsoft Script.  \n(C) Microsoft Paint.  \n(D) Microsoft Power.  \n(E) Microsoft Scrum."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: No contexto da navegação na internet, é \nimportante compreender os diversos termos e \nconceitos utilizados para descrever elementos e \nfuncionalidades da web. O termo \"home page\" \nestá associado a qual das definições descritas a \nseguir:",
+            "alternativas": {
+                "A": "Trata -se da página principal que carrega por \npadrão ao digitar o endereço de um site.",
+                "B": "Trata -se da página de login de um site \nbancário.",
+                "C": "Trata -se da ferramenta de busca do Google.",
+                "D": "Trata -se da página de configurações de \npreferências de navegação.",
+                "E": "Trata -se da ferramenta de restrição de acessos \ndo Google Chrome."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: É uma área de armazenamento temporário do \nnavegador de internet que guarda arquivos e \ninformações de sites visitados anteriormente, \npara acelerar o tempo de carregamento da página:",
+            "alternativas": {
+                "A": "Histórico de Navegação.",
+                "B": "Favoritos.",
+                "C": "Cache.",
+                "D": "Flash.",
+                "E": "Modo Incognito,  \n QUESTÃO 20  \nNos navegadores de internet, também \nconhecidos como browsers, o campo onde o \nusuário digita a URL do site que deseja visitar é \nintitulado de:  \n(A) Barra de Favoritos.  \n(B) Barra de Endereços.  \n(C) Barra de Opções.  \n(D) Barra de Ferramentas.  \n(E) Barra de Status.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: 1 \nDe acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, quantos dias \nconsecutivos um funcionário pode se ausentar do \nserviço por motivo de casamento?",
+            "alternativas": {
+                "A": "Até 1 (um) dia",
+                "B": "Até 3 (três) dias",
+                "C": "Até 5 (cinco) dias",
+                "D": "Até 8 (oito) dias",
+                "E": "Até 10 (dez) dias"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: De acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, o salário família \né um auxílio especial concedido ao funcionário \nem exercício, aposentado ou em disponibilidade \npara ajudar na manuten ção de um dependente.  \nA quem é concedido o salário família quando \nambos os pais são funcionários do Município e \nnão vivem em comum?",
+            "alternativas": {
+                "A": "Ao pai",
+                "B": "À mãe",
+                "C": "A ambos os pais",
+                "D": "Será concedido ao que tiver o dependente \nsob sua guarda ou em sua companhia.",
+                "E": "Nenhum dos pais, o critério para receber o \nsalário família é o casamento.  \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nCADASTRADOR                                                                                                                                             Página 7 de 12 QUESTÃO 23  \nLendas locais.  \n \nO Livro de Paraty , conta a história de uma moça \nda cidade, que às vésperas de seu casamento, \namanheceu morta. Após o enterro, no cemitério \nda Igreja da Santa Rita, o noivo, inconsolável, \npermaneceu no jardim da praça da igreja, \nlamentando a sua sorte. À noite, ele viu sair  da \nporta do cemitério um vulto vestido de noiva que \nvinha beber água no chafariz da praça. \nAproximou -se e reconheceu sua noiva e \nperguntou -lhe o que fazia ali, àquela hora. Ela \nrespondeu que vinha beber água, pois havia \nmorrido com sede e , sumiu no ar. Desesperado, \nele procurou os pais da moça, as autoridades, \ncontou a história e disse que sua noiva fora \nenterrada viva.  \nO que foi encontrado quando a sepultura da noiva \nfoi aberta pela manhã?  \n \n(A) O corpo da moça estava em posição normal \nno caixão.  \n(B) Encontraram o corpo da moça fora do caixão.  \n(C) O corpo da moça estava com um copo de \nágua ao lado.  \n(D) Encontraram o corpo da moça de bruços no \ncaixão.  \n(E) O corpo da moça não estava no caixão."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: De acordo com a Unidade 5 do livro de Paraty, \nque trata sobre Política e Cidadania, qual das \nseguintes opções  não é um dever  do cidadão?",
+            "alternativas": {
+                "A": "Votar para escolher os governantes;",
+                "B": "Cumprir as leis;",
+                "C": "Educar e proteger seus semelhantes;",
+                "D": "Proteger o patrimônio público e social do \nPaís.",
+                "E": "É um dever, à saúde, à educação, à moradia, \nao trabalho, à previdência social, ao lazer, entre \noutros.  \n \n \n \n \n QUESTÃO 25  \nDe acordo com a Lei Orgânica Municipal de \nParaty, qual é a duração do mandato do Prefeito?  \n \n(A) 2 (dois) anos  \n(B) 3 (três) anos  \n(C) 5 (cinco) anos  \n(D) 4 (quatro) anos  \n(E) 6 (seis) anos"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Considere que você está avaliando um imóvel \npara atualização cadastral, deve -se realizar o \ncálculo do valor venal de propriedades utilizando \na fórmula padrão  adotada pelas prefeituras. \nSobre esse método de cálculo, assinale a \nalternativa que descreve CORRETAMENTE.",
+            "alternativas": {
+                "A": "O valor venal do imóvel (V) é calculado \nmultiplicando a área do terreno ou edificação (A) \npelo valor unitário padrão residencial (VR) e pela \nidade do imóvel (I), sem considerar a posição do \nimóvel no logradouro (P) e a tipologia residencial \n(TR).",
+                "B": "Para calcular o valor venal do imóvel (V), é \nnecessário multiplicar a área do terreno ou \nedificação (A) pelo valor unitário padrão \nresidencial (VR), pela idade do imóvel (I), pela \nposição do imóvel no logradouro (P) e pela \ntipologia residencial (TR).",
+                "C": "A fórmula para calcular o valor venal do \nimóvel (V) inclui apenas a área do terreno ou \nedificação (A) e o valor unitário padrão \nresidencial (VR), desconsiderando a idade do \nimóvel (I), a posição do imóvel no logradouro (P) \ne a tipologia residencial (TR ).",
+                "D": "O valor venal do imóvel (V) é determinado \nexclusivamente pela área do terreno ou \nedificação (A) e pela tipologia residencial (TR), \nsem levar em conta o valor unitário padrão \nresidencial (VR), a idade do imóvel (I) e a \nposição do imóvel no logradouro (P ).",
+                "E": "Para calcular o valor venal do imóvel (V), \ndeve -se considerar apenas a idade do imóvel (I) \ne a posição do imóvel no logradouro (P), \nignorando a área do terreno ou edificação (A), o \nvalor unitário padrão residencial (VR) e a \ntipologia residencial (TR).  Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nCADASTRADOR                                                                                                                                             Página 8 de 12 QUESTÃO 27  \nDurante a execução de suas funções, um \ncadastrador deve assegurar a confidencialidade e \nsegurança das informações cadastrais, seguindo \nprincípios éticos rigorosos. Assinale a alternativa \nque complete a frase CORRETAMENTE.  \n“Um dos princípios fundamentais é a _____ dos \ndados, que garante que as informações \nmantenham suas características originais e não \nsejam alteradas indevidamente.”  \n \n(A) Confidencialidade  \n(B) Disponibilidade  \n(C) Integridade  \n(D) Autenticidade  \n(E) Privacidade"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Durante a verificação de croquis simples \nreferentes a terrenos baldios, edificações e \nquarteirões, um cadastrador deve saber analisar \ntécnicas específicas para garantir a precisão e \nclareza dos desenhos. Marque as afirmativas em \nV para verdadeiro ou F para  falso e depois \nassinale a alternativa que contenha a sequência \nCORRETA.  \n \n( ) A escala humana é um importante instrumento \nde proporção, pois permite transmitir a dimensão \nde uma edificação ou espaço em relação às \npessoas representadas.  \n( ) Croquis em perspectiva não são recomendados \npara representar diferentes faces de uma \nedificação ou elementos de um espaço.  \n( ) A aplicação de luz e sombra nos croquis \nauxilia na identificação da tridimensionalidade \ndo desenho, evidenciando volume e \nprofundidade.  \n( ) O uso do escalímetro ou de uma escala \narbitrária é essencial para respeitar as relações de \nproporção encontradas na realidade.",
+            "alternativas": {
+                "A": "V, F, V, V",
+                "B": "F, V, V, F",
+                "C": "V, V, F, V",
+                "D": "F, F, V, V",
+                "E": "V, F, V, F QUESTÃO 29  \nComo cadastrador, você deve assegurar que \ntodos os cálculos realizados sejam revisados e \nvalidados por superiores para assegurar a \nprecisão e conformidade com as normas. Desse \nmodo, assinale a alternativa INCORRETA sobre \no procedimento de revisão e validação . \n(A) A revisão superior dos cálculos deve incluir \na verificação da precisão dos dados inseridos no \nsistema.  \n(B) Os superiores devem validar os cálculos de \náreas, valores venais e impostos antes de sua \nfinalização.  \n(C) A revisão superior é opcional e pode ser \ndispensada se o cadastrador estiver confiante na \nprecisão dos cálculos.  \n(D) Procedimentos de revisão devem garantir \nque todas as informações estejam corretas e \natualizadas antes de serem registradas \noficialmente.  \n(E) A validação dos cálculos por superiores é \numa etapa crucial para evitar erros e garantir a \nconformidade com as regulamentações."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Durante a análise de terrenos e edificações, um \ncadastrador deve calcular a Taxa de Ocupação \npara garantir que o projeto esteja de acordo com \nas normas e regulamentos locais. De acordo com \nas definições de Taxa de Ocupação, assinale a \nalternativa CORRETA.",
+            "alternativas": {
+                "A": "A Taxa de Ocupação é calculada dividindo a \nárea total do lote pela soma da área total \nconstruída do primeiro pavimento e das áreas \nexcedentes dos outros pavimentos.",
+                "B": "A Taxa de Ocupação é a relação entre a área \nconstruída e a área do terreno, incluindo todas as \náreas pavimentadas.",
+                "C": "A Taxa de Ocupação é calculada dividindo a \nsoma da área total construída do primeiro \npavimento e das áreas excedentes dos outros \npavimentos pela área total do lote.",
+                "D": "A Taxa de Ocupação é a relação entre a área \ntotal do lote e a área de vegetação presente no \nterreno.",
+                "E": "A Taxa de Ocupação é calculada \nconsiderando apenas a área construída do \nprimeiro pavimento, sem incluir as áreas \nexcedentes dos outros pavimentos.  Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nCADASTRADOR                                                                                                                                             Página 9 de 12 QUESTÃO 31  \nComo cadastrador, você deve garantir que os \nimóveis estejam devidamente inscritos no \ncadastro imobiliário. Além disso, é essencial \ncompreender as regras específicas para a \ninscrição de unidades imobiliárias autônomas e \náreas comuns. Portanto, sobre esse te ma, assinale \na alternativa INCORRETA.  \n(A) Nos casos de centros comerciais e \n“shopping -center” com administração \nindependente, haverá inscrições individuais dos \nestabelecimentos lojistas nele localizados.  \n(B) Os imóveis localizados na área urbana, de \nexpansão urbana ou urbanizável do Município \nficam sujeitos à inscrição no cadastro \nimobiliário.  \n(C) Aplica -se a inscrição no cadastro aos imóveis \nlocalizados na área urbana cujos contribuintes \nsejam isentos do imposto ou a ele imunes.  \n(D) A cada unidade imobiliária autônoma \ncorresponderá uma inscrição, permitindo uma \nocupação ou utilização privativa a que se tenha \nacesso independentemente das demais.  \n(E) Nos casos de Postos de Combustíveis de \nVeículos, a inscrição será única para o imóvel \ncomo um todo, independentemente da existência \nde lojas de conveniência."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Para a execução dos serviços de escritório, um \ncadastrador deve organizar os fichários, arquivos \ne sistemas de cadastro de acordo com um plano \nou código de classificação. Desse modo, assinale \na alternativa INCORRETA.",
+            "alternativas": {
+                "A": "A classificação dos documentos deve ser \nrealizada com base no conteúdo do documento, \nrefletindo a atividade que o gerou.",
+                "B": "A organização dos documentos em um \narquivo deve facilitar o uso corrente e a \nrecuperação rápida das informações.",
+                "C": "A atribuição de símbolos para identificar os \nitens documentais é desnecessária e pode ser \ndispensada.",
+                "D": "A classificação dos documentos deve \nconsiderar as necessidades de uso dos \ndocumentos por parte de quem os gerou.",
+                "E": "A classificação é uma atividade essencial \npara o gerenciamento eficiente e ágil das \ninformações em um arquivo.  \n QUESTÃO 33  \nDurante uma inspeção de campo, você precisa \ngarantir que o sinal de GPS seja adequado para a \ncoleta de dados precisos. Sobre a utilização de \nequipamentos fornecidos pelo município, como \no GPS, assinale a alternativa CORRETA sobre o \nseu funcionamento.  \n(A) O GPS pode ser utilizado dentro de \nedificações sem qualquer perda de sinal, \nindependentemente da presença de metal ou \nconstrução.  \n(B) O número de satélites visível ao receptor \nGPS é sempre constante, independentemente da \nhora e do lugar.  \n(C) Para usar o GPS, é necessário apenas um \nreceptor GPS, sem a necessidade de antena ou \nqualquer outro equipamento.  \n(D) O sinal de GPS pode ser enfraquecido por \nfolhagem densa ou próximo a equipamentos \nemissores de ondas de rádio.  \n(E) O GPS utiliza múltiplas frequências de \nsatélites para uso civil, garantindo maior \nprecisão."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Durante a execução de suas funções, um \ncadastrador deve compreender a importância do \ncadastro para a administração pública, gestão de \nimpostos e taxas. Com base nisso, assinale a \nalternativa INCORRETA.",
+            "alternativas": {
+                "A": "Uma boa gestão tributária diminui os riscos \nde irregularidades com os órgãos fiscais, \ntrazendo maior segurança na quitação das \nobrigações.",
+                "B": "Os impostos, taxas e contribuições são \nfundamentais na composição do preço de \nprodutos ou serviços e podem aumentar a \ncompetitividade da marca.",
+                "C": "Conduzir uma rotina de gestão tributária é \nimportante para garantir que todas as \nparticularidades de atividade, cidade, estado e \nregime tributário estão sendo consideradas.",
+                "D": "A gestão tributária não influencia na \ncompetitividade da marca, pois os impostos são \nfixos e não variam conforme a gestão.",
+                "E": "Avaliar periodicamente o crescimento do \nnegócio e ajustar o regime tributário é essencial \npara a conformidade com a legislação e a \nsustentabilidade do projeto.  \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nCADASTRADOR                                                                                                                                             Página 10 de 12 QUESTÃO 35  \nVocê como cadastrador, ao realizar suas \natividades diárias no registro civil de pessoas \nnaturais, deve estar atento aos atos que precisam \nser averbados conforme a Lei Federal nº \n6.015/1973 e suas atualizações. Considerando o \nartigo 29 desta lei, assinale a  alternativa que \ncontenha um item que NÃO serão averbados no \nregistro civil de pessoas naturais.  \n(A) As sentenças que decidirem a nulidade ou \nanulação do casamento, o desquite e o \nrestabelecimento da sociedade conjugal;  \n(B) As sentenças que julgarem ilegítimos os \nfilhos concebidos na constância do casamento e \nas que declararem a filiação legítima;  \n(C) Os casamentos de que resultar a legitimação \nde filhos havidos ou concebidos anteriormente;  \n(C) Os atos judiciais ou extrajudiciais de \nreconhecimento de filhos ilegítimos;  \n(E) As escrituras de adoção e os atos que não \ndissolverem essa relação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Como cadastrador, você deve confirmar que as \ninformações cadastrais dos imóveis estejam \nsempre corretas. Para isso, é necessário seguir os \nprocessos estabelecidos para a alteração e \ncorreção de dados. Com base nisso, assinale a \nalternativa INCORRETA.",
+            "alternativas": {
+                "A": "A inscrição imobiliária deve ser realizada \nmediante o preenchimento de uma ficha de \ninscrição, seguindo o modelo aprovado e \nfornecido pelo Município, podendo ser utilizada \nexclusivamente a forma eletrônica.",
+                "B": "Os contribuintes devem efetuar a inscrição \ninicial dentro de 30 dias após a conclusão de uma \nnova obra, e renová -la em até 60 dias após a \nreforma que tenha resultado no aumento da área \nconstruída.",
+                "C": "O novo proprietário do imóvel deve atualizar \na inscrição no prazo de 60 dias a partir da data de \naquisição, independentemente do título de \naquisição.",
+                "D": "Em casos de desmembramento, a inscrição \ndeve ser realizada em até 60 dias a partir do \nregistro do ato no Registro de Imóveis.",
+                "E": "Os órgãos municipais não são responsáveis \npor manter atualizado o Cadastro Fiscal \nImobiliário, sendo essa responsabilidade \nexclusiva dos contribuintes.  QUESTÃO 37  \nComo cadastrador, você deve garantir que os \ndados cadastrais de imóveis sejam precisos, \nconforme as regulamentações vigentes. O \nSistema Nacional de Gestão de Informações \nTerritoriais (Sinter) e o Cadastro Imobiliário \nBrasileiro regulam o compartilhamento d e dados \nrelativos a bens imóveis. Durante uma auditoria, \nvocê precisa verificar quais usuários são \nconsideradas geradoras ou consulentes  de dados \ne informações no Sinter. Sendo assim, avalie e \nassinale a alternativa INCORRETA.  \n(A) A Secretaria Especial da Receita Federal do \nBrasil do Ministério da Economia é considerada \num gerador de dados e de informações no Sinter.  \n(B) Os órgãos e entidades da administração \npública, direta e indireta, da União, dos Estados, \ndo Distrito Federal e dos Municípios são \nconsiderados geradores de dados e de \ninformações no Sinter.  \n(C) Os usuários que compartilharem dados e \ninformações por meio do Sinter são responsáveis \npor assegurar a interoperabilidade dos bancos de \ndados, dos cadastros e dos sistemas sob a sua \ngestão.  \n(D) Pessoas naturais e jurídicas de direito público \nou privado podem ser consulentes de dados e de \ninformações no Sinter.  \n(E) Serviços registrais e notariais são \nconsiderados consulentes de dados e de \ninformações no Sinter.  \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nCADASTRADOR                                                                                                                                             Página 11 de 12 QUESTÃO 38  \nNa criação e verificação de desenhos e croquis \nreferentes a edificações, um cadastrador deve \npossuir o entendimento sobre a utilização \nferramentas e softwares  para desenhos. Assinale \na alternativa CORRETA sobre o uso de softwares  \nnesta tipologia de desenhos.  \n \n(A) O uso de software  para desenhos e croquis é \ndesnecessário, pois todos os croquis devem ser \nfeitos manualmente para garantir a precisão.  \n(B) Softwares  de edição de texto são os mais \nindicados para a criação de croquis devido à sua \nversatilidade e facilidade de uso.  \n(C) Ferramentas de design gráfico, como editores \nde imagem, são suficientes para a criação de \ncroquis técnicos detalhados.  \n(D) Softwares  específicos de CAD ( Computer -\nAided Design ), como o AutoCAD, são \namplamente utilizados para a criação de croquis \nprecisos e detalhados.  \n(E) A utilização de software  para desenhos e \ncroquis deve ser evitada, pois pode comprometer \na clareza e a precisão dos desenhos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CADASTRADOR",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: No exercício de suas funções, um cadastrador \ndeve estar atento às diferentes situações \ncadastrais das unidades imobiliárias, conforme \ndefinido pela Receita Federal. Assinale a \nalternativa que complete a frase \nCORRETAMENTE.  \n“Quando há inscrição indevida de dados \ncadastrais ou georreferência, bem como erros \ndurante o procedimento de inscrição, a situação \ncadastral da unidade imobiliária é considerada \n__________.”",
+            "alternativas": {
+                "A": "Ativa",
+                "B": "Rregular",
+                "C": "Extinta",
+                "D": "Pendente",
+                "E": "Nula  QUESTÃO 40  \nUm cadastrador está realizando o \ngeorreferenciamento de uma propriedade para \ngarantir que todas as informações estejam \natualizadas e em conformidade com a legislação \nvigente. Considerando o contexto prático da \natuação do cadastrador, assinale a alternativa \nCORRETA sobre os benefícios do \ngeorreferenciamento.  \n \n(A)O georreferenciamento elimina a necessidade \nde monitoramento contínuo da área, pois todas as \ninformações são obtidas em um único \nlevantamento.  \n(B)A comparação de imagens em momentos \ndiferentes no georreferenciamento pode fornecer \nideias sobre o que ocorre na área, auxiliando no \nmonitoramento e planejamento.  \n(C)A padronização das coordenadas no \ngeorreferenciamento é irrelevante para a \nvalorização da propriedade no mercado \nimobiliário.  \n(D)O georreferenciamento é necessário apenas \npara propriedades urbanas, não sendo aplicável a \npropriedades rurais.  \n(E)O georreferenciamento não tem impacto na \nsegurança jurídica da propriedade, sendo apenas \numa exigência burocrática sem benefícios \npráticos.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nCADASTRADOR                                                                                                                                             Página 12 de 12"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

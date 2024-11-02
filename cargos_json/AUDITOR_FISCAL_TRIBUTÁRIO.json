@@ -1,3 +1,900 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30c01211f40c8aad11a0913288bfb2ec7cc12db659b67a7b8d745a68cc4c43f5
-size 82057
+{
+    "AUDITOR FISCAL TRIBUTÁRIO": [
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: De acordo com o texto, conclui-se que:",
+            "alternativas": {
+                "A": "Luiz Augusto deixou Beatriz para ficar com \nJacinta por conta da omelete perfeita.",
+                "B": "Jacinta não aprendeu a omelete perfeita \nporque fez apenas a parte teórica do curso de \nculinária.",
+                "C": "Jacinta contava com o apoio de suas amigas \npara recuperar Luiz Augusto.",
+                "D": "Luiz Augusto deu uma segunda chance, mas \nnão aprovou a nova versão da omelete de Jacinta.",
+                "E": "Jacinta não atingiu a omelete perfeita porque \ntinha um entendimento distinto de baveuse . \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 3 de 14 QUESTÃO 02 \nO pronome demonstrativo em “—  Não — disse \nJacinta —, eu chamo isto de baveuse. ” funciona \ncomo um recurso de coesão textual de: \n(A) anáfora. \n(B) catáfora. \n(C) elipse. \n(D) substituição.  \n(E) sinonímia."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Das associações sobre as personagens propostas \nnas alternativas a seguir, aquela que pode ser \ndepreendida corretamente do texto é:",
+            "alternativas": {
+                "A": "Caio Ribeiro – referência de bom preparo de \nomeletes, segundo o gosto de Luiz Augusto.",
+                "B": "Jacinta – atingiu, por fim, o preparo da \nomelete perfeita, ao gosto de Luiz Augusto, após \no curso de culinária, mas perdeu o interesse por \nele.",
+                "C": "Luiz Augusto – apreciador exigente de \nomeletes, demandava que sua companheira \npreparasse omeletes tão bem quanto ele.",
+                "D": "Beatriz – pessoa com quem Luiz Augusto foi \nmorar após se separar de Jacinta, fazia omeletes \nquase tão boas quanto as de Caio Ribeiro.",
+                "E": "Professora do curso de culinária – sugeriu a \nJacinta usar uma frigideira de ferro, para o caso \nde a omelete não ficar perfeita."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Analise as sentenças retiradas do texto e assinale \naquela em que o vocábulo “se” è um pronome \nexpletivo.",
+            "alternativas": {
+                "A": "“Mas Jacinta não se conformava.”",
+                "B": "“Quando alguèm —  desinformado ou \ndesalmado — perguntava perto da Jacinta se \n“omelete” era masculino ou feminino”.",
+                "C": "“Luiz Augusto sentou -se.”",
+                "D": "“O que se poderia dizer de um homem que \ntinha abandonado a mulher de dez anos de \ncasamento, para não falar em cotas num \ncondomínio horizontal da zona Sul, por uma \nomelete bem- feita?”",
+                "E": "“Luiz Augusto não se cansava de repetir que \na omelete perfeita devia ser tostada por fora e \númida por dentro.”  \n \n \n Considere o excerto a seguir para responder \nàs questões 5, 6 e 7:  \n \nDurante dez anos, Jacinta ouvira críticas à sua \nomelete. Quando Luiz Augusto anunciara que \nencontrara uma mulher que fazia omeletes \nperfeitas — melhores, inclusive, que as do Caio \nRibeiro — e que iria morar com ela, \nacrescentou:  — Você não pode dizer que não lhe \ndei todas as chances, Cintinha."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: No contexto apresentado, em relação à classe \ngramatical, os vocábulos “que” em destaque \natuam, respectivamente, como:",
+            "alternativas": {
+                "A": "conjunção integrante, pronome relativo e \nconjunção comparativa.",
+                "B": "conjunção integrante, pronome relativo e \nconjunção integrante.",
+                "C": "preposição, pronome relativo e preposição.",
+                "D": "conjunção causal, conjunção integrante e \nconjunção integrante.",
+                "E": "conjunção causal, pronome interrogativo e \nconjunção comparativa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Dentre todas as palavras que ocorrem no excerto \napresentado, pertencem à classe gramatical das \npreposições:",
+            "alternativas": {
+                "A": "à, do.",
+                "B": "durante, com.",
+                "C": "a, quando, de, com.",
+                "D": "durante, à, inclusive, do.",
+                "E": "durante, a, de, com."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Os verbos “ouvira”, “anunciara” e “encontrara”, \nque ocorrem no excerto apresentado, estão \nconjugados no tempo:",
+            "alternativas": {
+                "A": "pretérito imperfeito do modo indicativo.",
+                "B": "pretérito perfeito do modo indicativo.",
+                "C": "pretérito mais-que-perfeito do modo \nindicativo.",
+                "D": "futuro do pretérito do modo indicativo.",
+                "E": "pretérito imperfeito do modo subjuntivo. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 4 de 14 QUESTÃO 08 \nDe acordo com a gramática normativa, a ênclise \nestá vetada se: \nI. O verbo está flexionado em uma oração \nsubordinada. \nII. A oração é iniciada por palavra interrogativa. \nIII. Em uma locução verbal, o verbo auxiliar está \nflexionado no presente do indicativo.  \nÉ (são) verdadeira(s) apenas a(s) afirmativa(s) \nem:  \n(A) I. \n(B) II. \n(C) III. \n(D) I e II. \n(E) II e III."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a qualidade expressa pelo adjetivo é \ncomparativa.",
+            "alternativas": {
+                "A": "Maria é tão caprichosa quanto sua irmã.",
+                "B": "Estou extremamente cansada.",
+                "C": "A atriz estava elegantíssima no desfile de \nmoda.",
+                "D": "Daniel é o mais engajado dentre os \nparticipantes do programa.",
+                "E": "Quando percebeu minha tristeza, passou a ser \ngentil."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale aquela \nem que ocorre desvio ortográfico.",
+            "alternativas": {
+                "A": "O casal se separou recentemente, razão por \nque não foram juntos ao evento.",
+                "B": "Isto é só mais um empecilho para dificultar \nas coisas.",
+                "C": "Os funcionários estão reinvindicando \nmelhores condições de trabalho.",
+                "D": "Que coincidência nos encontrarmos aqui!",
+                "E": "Espetáculos teatrais são ótimas formas de \nentretenimento. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Em uma certa loja, o preço das camisas era o \nmesmo para todas as camisas e o preço das calças \nera o mesmo para todas as calças. Leandro \ncomprou nessa loja 2 camisas e 3 calças e pagou \nR$ 510,00. Ele também comprou 1 camisa e 2 \ncalças para seu filho e pagou R$ 320,00. \nPodemos afirmar que o preço de cada camisa \nnessa loja é:",
+            "alternativas": {
+                "A": "R$ 60,00.",
+                "B": "R$ 65,00.",
+                "C": "R$ 58,00.",
+                "D": "R$ 72,00.",
+                "E": "R$ 55,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Segundo dados do IBGE de 2021, o município de \nArarendá, no Ceará, possui o maior IDEB (Índice \nde Desenvolvimento da Educação Básica) nos \nanos iniciais do ensino fundamental. No ano de \n2019 o IDEB foi de 8,3 e no ano de 2021 o IDEB \nfoi de 9,5. Podemos afirmar que o crescimento \npercentual do IDEB de 2019 para 2021 foi \naproximadamente de:",
+            "alternativas": {
+                "A": "10%.",
+                "B": "14%.",
+                "C": "25%.",
+                "D": "22%.",
+                "E": "20%.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 5 de 14 QUESTÃO 13 \nUm marceneiro recebe um pedido para fazer uma \nmesa em forma de um coração, composta por \ndois semicírculos e um quadrado, conforme a \nfigura abaixo. \n \n \n \n \n \n \nSabendo que os gastos com a figura mostrada são \nde R$ 120,00 por metro quadrado, qual é o gasto \ntotal se o quadrado possui lado de 1m? Considere \n𝜋 ≈ 3 . \n(A) R$ 175,00. \n(B) R$ 180,00. \n(C) R$ 190,00.  \n(D) R$ 200,00. \n(E) R$ 210,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Considere verdadeira a seguinte proposição \ncondicional: \n“Se Paulo sabe fazer bolo, então ele sabe fazer \nbiscoitos.”  \nA partir dessa proposição, também é verdade \nque:",
+            "alternativas": {
+                "A": "Se Paulo não sabe fazer biscoitos, então ele \nnão sabe fazer bolo.",
+                "B": "Provavelmente Paulo sabe fazer bolo e sabe \nfazer biscoitos.",
+                "C": "Ou Paulo sabe fazer bolo ou Paulo sabe fazer \nbiscoitos.",
+                "D": "Se Paulo souber fazer bolo, também saberá \nfazer biscoitos.",
+                "E": "Paulo não sabe fazer bolo, nem sabe fazer \nbiscoitos.  \n \n QUESTÃO 15 \nO dono de um brechó decidiu fazer uma \npromoção para as camisas que ele vende. Ele \nobservou que as vendas das camisas durante o \nmês anterior ocorreram segundo a tabela: \nMarca da \ncamisa Preço da \ncamisa Número de \ncamisas \nvendidas  \nMarca A R$ 20,00 20 \nMarca B R$ 18,00 22 \nMarca C R$ 25,00 20 \n \nEle decidiu que no mês atual as camisas de todas \nas marcas possuirão o mesmo preço. O dono do \nbrechó definiu o novo preço da camisa como \nsendo o preço médio de todas as camisas \nvendidas independentemente de sua marca. \nAssim, no mês atual, o preço da camisa é \naproximadamente: \n(A) R$ 18,90. \n(B) R$ 20,90. \n(C) R$ 21,70. \n(D) R$ 22,80.  \n(E) R$ 24,60."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: A sequência abaixo mostra os 4 primeiros \nnúmeros primos: \n2,3,5,7 …  \nOs números primos são números que somente \nsão divisíveis por 1 e por eles mesmos. Qual é o \nsétimo termo dessa sequência?",
+            "alternativas": {
+                "A": "12.",
+                "B": "13.",
+                "C": "15.",
+                "D": "17.",
+                "E": "19. \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 6 de 14 QUESTÃO 17 \nCarlos fez uma aplicação de R$ 12.000,00 a uma \ntaxa de 5% ao mês durante 3 anos em regime de \njuros simples. Ao final dessa aplicação qual é o \nmontante que Carlos possuirá? \n(A) R$ 26.800,00.  \n(B) R$ 30.600,00. \n(C) R$ 33.600,00. \n(D) R$ 34.000,00. \n(E) R$ 36.700,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Suponha que no ano de 2023, 8% de todas as \ndespesas do governo de um determinado país \nforam com Educação. Já dentre as despesas com \na Educação, as despesas com educação \nprofissionalizante representaram 10%. Se o valor \nde todas as despesas do governo foi de R$ 4 \ntrilhões, então qual o valor as despesas com \neducação profissionalizante?",
+            "alternativas": {
+                "A": "R$ 3,2 bilhões.",
+                "B": "R$ 320 bilhões.",
+                "C": "R$ 32 bilhões.",
+                "D": "R$ 400 bilhões.",
+                "E": "R$ 40 bilhões."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Queremos construir duas figuras geométricas, \num quadrado de lado 𝑎 e um triângulo equilátero \nde lado 𝑑, de modo que os dois tenham o mesmo \nperímetro. Qual é a razão entre a área e o \nperímetro do quadrado em termos de 𝑑?",
+            "alternativas": {
+                "A": "2\n7𝑑.",
+                "B": "3\n8𝑑.",
+                "C": "3\n32𝑑.",
+                "D": "3\n16𝑑.",
+                "E": "1\n2𝑑. \n QUESTÃO 20 \nUm projetista recomenda que para fazer o \nconcreto utilize-se, para cada porção de cimento, \n2 porções de areia e 3 porções de pedra brita, em \nmassa. Sendo assim, na mistura final que o \nprojetista recomenda a quantidade de areia \nrepresenta qual porcentagem da massa total? \n(A) 19%.  \n(B) 20%. \n(C) 25%. \n(D) 30%. \n(E) 33%. \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "Não encontrada"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Sobre a função “responder” no MS -Outlook \n2016, é incorreto o que se afirma em: \nI - O anexo será mantido na mensagem. \nII - O campo “Para” deverá ser preenchido.  \nIII - A mensagem de resposta será enviada \napenas para o remetente original. \nIV - O campo “Assunto” não será preenchido \nautomaticamente. \nV - O texto original do remetente não será \nmantido.",
+            "alternativas": {
+                "A": "I e III, apenas.",
+                "B": "I, II e V, apenas.",
+                "C": "I, II, IV e V, apenas.",
+                "D": "I, II, III e V, apenas.",
+                "E": "Nenhuma das afirmativas estão incorretas. \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 7 de 14 QUESTÃO 22 \nO MS-Word 2016 possui diversas ferramentas de \nedição e formatação texto, sendo algumas delas: \n \nAssinale a alternativa que não contenha um dos \nelementos de formatação dentre os \nrepresentados. \n(A) Tachado.  \n(B) Sublinhado. \n(C) Subscrito.  \n(D) Itálico. \n(E) Negrito."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Analiseas imagens a seguir: \nI: \n \nII:",
+            "alternativas": {
+                "A": "A imagem I representa um gerenciador de e-\nmails da suíte Microsoft Office.",
+                "B": "A imagem II representa um gerenciador de e-\nmails desenvolvido e mantido pela Google.",
+                "C": "Ambas as imagens representam softwares de \ndesenvolvimento de planilhas eletrônicas.",
+                "D": "Nenhuma das imagens representam \ngerenciadores de e-mails.",
+                "E": "Ambas as imagens representam \ngerenciadores de e-mails. \n \n \n QUESTÃO 24 \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Nesse \ncontexto, são palavras que integram o significado \nde URL: \n( ) Uniform.  \n( ) Resource  \n( ) Lover. \n( ) User. \n( ) Locator. \nIndique “V” para verdadeiro e “F” para falso.  \n(A) V, F, V, F, V. \n(B) F, F, V, V, F. \n(C) V, V, F, F, V. \n(D) V, V, F, V, V.  \n(E) F, F, V, F, F."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Leia atentamente os trechos a seguir: \nTrecho 1: As configurações de impressão \npermitem escolher entre as opções de orientação \nretrato (vertical) e paisagem (horizontal) para \ndeterminar a direção da impressão na página. \nTrecho 2: É possível selecionar o tamanho do \npapel a ser utilizado na impressão, como A4, \ncarta, ofício, entre outros, para corresponder ao \nformato desejado. \nTrecho 3: Não é possível ajustar as margens da \npágina, determinando a quantidade de espaço em \nbranco ao redor do conteúdo impresso, \npersonalizando a formatação da página. \nDiante da análise, assinale a alternativa correta.",
+            "alternativas": {
+                "A": "Todos os trechos apresentados fazem \nafirmações corretas acerca da digitalização de \num documento.",
+                "B": "Todos os trechos apresentados fazem \nafirmações incorretas acerca da impressão de um \ndocumento.",
+                "C": "O trecho 1 está correto ao afirmar que é \npossível selecionar o tamanho do papel a ser \nutilizado na impressão .",
+                "D": "O trecho 3 se equivoca ao mencionar que não \npossível ajustar as margens da página.",
+                "E": "O trecho 2 está correto ao afirmar que as \nconfigurações de impressão permitem escolher \nentre as opções de orientação retrato. \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 8 de 14 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Suponha que um comerciante aplique o valor de \nR$ 10.000,00 em um CDB que paga juros \ncompostos de 10% ao semestre. Se o investidor \nresgatar o valor aplicado 1 ano e meio depois, o \nvalor total recebido será de:",
+            "alternativas": {
+                "A": "13.310,00.",
+                "B": "11.330,00.",
+                "C": "13.666,67.",
+                "D": "13.333,33.",
+                "E": "12.990,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Muito adotado no mercado financeiro brasileiro, \no Sistema de Amortização Francês tem \ncaracterísticas peculiares. Desta feita, assinale a \nalternativa correta sobre o assunto (considerando \num cenário ideal sem inflação).",
+            "alternativas": {
+                "A": "Neste sistema de amortização os juros ficam \nmaiores à medida que são pagas as prestações.",
+                "B": "Neste sistema, o valor das amortizações da \ndívida decresce conforme as prestações são \npagas.",
+                "C": "Neste sistema, o valor das amortizações da \ndívida permanece inalterado durante a execução \ndo contrato.",
+                "D": "Neste sistema, o valor dos juros pagos \npermanece inalterado até a última prestação.",
+                "E": "Neste sistema de amortização, o valor das \nprestações não se altera ao longo do contrato. \n \n \n \n \n \n \n \n \n QUESTÃO 28 \nNas decisões relativas a projetos de \ninvestimentos financeiros de longo prazo, utiliza-\nse um conceito avançado de orçamento de \ncapital: o Valor Presente Líquido (VPL). Acerca \ndo assunto, informe se é verdadeiro (V) ou falso \n(F) para o que se afirma a seguir. \n( ) O VPL é a somatória, na data-base, do valor \nnominal dos fluxos de entrada futuros de um \ninvestimento. \n( ) No cálculo do VPL, desconsidera-se o valor \ndo desembolso inicial a ser efetuado no projeto. \n( ) Tecnicamente, um projeto não deve ser levado \nadiante caso seu Valor Presente Líquido seja \ninferior a zero. \nA sequência está correta em: \n(A) F – V – V. \n(B) V – F – V. \n(C) V – F – F. \n(D) F – F – V. \n(E) V – V – V."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Uma pessoa investe um capital em uma aplicação \nque paga juros simples de 0,7% ao mês, \nmantendo-o aplicado por um período de 18 \nmeses. Se consideramos que os juros gerados na \ntransação totalizam R$ 1.890,00, é apropriado \nafirmar que o capital inicial investido foi:",
+            "alternativas": {
+                "A": "R$ 14.900,00.",
+                "B": "R$ 15.500,00.",
+                "C": "R$ 15.000,00.",
+                "D": "R$ 14.700,00.",
+                "E": "R$ 15.200,00. \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 9 de 14 QUESTÃO 30 \nUm empresário possui R$ 24.000,00 que não \npretende utilizar em suas atividades comerciais. \nEle espera investir este capital num produto que \nrende juros simples e auferir, em um ano, juros \nde R$ 3.600,00. Com base nessas informações é \npossível concluir que a aplicação desejada deverá \noferecer uma taxa de remuneração mensal de: \n(A) 1,5%. \n(B) 1,25%. \n(C) 0,95%. \n(D) 1,10%. \n(E) 1,15%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Quando o Estado, agindo como se particular \nfosse, busca angariar receitas públicas através da \nexploração de seu patrimônio, por meio da \nprestação de serviços remunerados ou exercendo \natividades econômicas, tais receitas são \nconceituadas pela doutrina como:",
+            "alternativas": {
+                "A": "patrimoniais.",
+                "B": "originárias.",
+                "C": "vinculadas.",
+                "D": "agroindustriais.",
+                "E": "financeiras."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Um dos princípios constitucionais tributários \ndetermina que é vedado a todos os entes da \nFederação cobrar tributos em relação a fatos \ngeradores ocorridos antes do início da vigência \nda lei que os houver instituído ou aumentado, \nguardando relação com a ideia de que a lei nova \nnão pode prejudicar os direitos adquiridos e os \natos jurídicos aperfeiçoados. Trata-se do \nPrincípio:",
+            "alternativas": {
+                "A": "da Anterioridade.",
+                "B": "da Irretroatividade.",
+                "C": "da Legalidade Estrita.",
+                "D": "da Tipicidade.",
+                "E": "da Salvaguarda Tributária. \n QUESTÃO 33 \nSe um Governo está altamente endividado e \npretende reduzir a Necessidade de \nFinanciamento do Setor Público, ele deve buscar \nobter: \n(A) resultados nominais nulos. \n(B) resultados nominais negativos. \n(C) resultados nominais positivos. \n(D) resultados operacionais positivos. \n(E) resultados primários positivos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Conceito relacionado à ideia de busca por \nequidade fiscal, baseado na premissa de que \nquem possui maior capacidade financeira deve \ncontribuir com uma parcela maior de sua renda \npara o financiamento dos gastos públicos. O \nenunciado está a se referir aos:",
+            "alternativas": {
+                "A": "Impostos Sociais.",
+                "B": "Impostos Diretos.",
+                "C": "Impostos Proporcionais.",
+                "D": "Impostos Progressivos.",
+                "E": "Impostos Neutros."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Espécie tributária instituída em função da \nprestação de um serviço estatal específico e \ndivisível aos contribuintes, e que tem por \nfundamento a reposição dos custos incorridos \npelo Poder Público na prestação do referido \nserviço. A coleta de lixo, por exemplo, é um \nserviço que justifica sua imposição. O enunciado \nexpressa o conceito de:",
+            "alternativas": {
+                "A": "Custas.",
+                "B": "Emolumentos.",
+                "C": "Laudêmio.",
+                "D": "Tarifa.",
+                "E": "Taxa. \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 10 de 14 QUESTÃO 36 \nAs funções clássicas do orçamento foram \ninicialmente propostas por Richard Musgrave e \nsão amplamente aceitas na teoria econômica e na \nadministração pública. Dentre elas, uma \nespecificamente é utilizada pelo Governo para \noperar em momentos de flutuações econômicas, \nquando as receitas e despesas públicas atuam \ncomo instrumentos de contenção da inflação ou \nde estímulo da demanda. Trata-se da: \n(A) Função Distributiva. \n(B) Função Estabilizadora. \n(C) Função Política. \n(D) Função Macroeconômica. \n(E) Função Alocativa."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: A Lei de Responsabilidade Fiscal adota a \n___________ como parâmetro para limitação da \nDespesa Total com Pessoal (DTP) dos entes da \nFederação. Nos Municípios, em cada período de \napuração, a DTP não poderá ultrapassar __ do \nreferido parâmetro. Assinale a alternativa que \ncorreta e sequencialmente preenche as lacunas.",
+            "alternativas": {
+                "A": "Receita Corrente Líquida / 70%",
+                "B": "Receita Corrente Líquida / 54%",
+                "C": "Receita Corrente / 60%",
+                "D": "Receita Corrente Líquida / 60%",
+                "E": "Receita Orçamentária Líquida / 54% \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 38 \nÀ luz da disciplina da Lei Complementar nº \n101/2000 (LRF), avalie as afirmativas a seguir. \nI. A Lei de Diretrizes Orçamentárias deverá estar \nacompanhada do Anexo de Riscos Fiscais, \ndestinado a avaliar os passivos contingentes e \noutros riscos capazes de afetar as contas públicas, \ninformando as providências a serem tomadas, \ncaso se concretizem. \nII. No último ano de mandato do Chefe do Poder \nExecutivo é vedada a edição de qualquer ato que \nimplique aumento de gastos com pessoal além da \nreposição inflacionária. \nIII. É vedada a realização de operação de crédito \npor antecipação de receita orçamentária de \ntributo cujo fato gerador ainda não tenha \nocorrido. \nEstá correto o que se afirma: \n(A) em I e III, apenas. \n(B) em I e II, apenas. \n(C) em III, apenas. \n(D) em II e III, apenas. \n(E) em I, II e III, apenas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Nos termos da NBC TG – Estrutura Conceitual \npara Relatório Financeiro, do Conselho Federal \nde Contabilidade, Prudência  é o exercício de \ncautela ao fazer julgamentos sob condições de \nincerteza. O exercício de prudência significa que \n____________ não estão superavaliados e \n_______________ não estão subavaliados. \nAssinale a alternativa que correta e \nsequencialmente preenche as lacunas.",
+            "alternativas": {
+                "A": "ativos e despesas / passivos e receitas",
+                "B": "ativos e passivos / receitas e despesas",
+                "C": "ativos e receitas / passivos e despesas",
+                "D": "passivos e receitas / ativos e despesas",
+                "E": "receitas e despesas / ativos e passivos \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 11 de 14 QUESTÃO 40 \nATENÇÃO! Para resolução das próximas OITO  \nquestões (números 40 a 47), considere as \ninformações adiante. \nA Company Ltda. é uma empresa que atua na \nrevenda de materiais de escritório. O quadro a \nseguir contém a relação de contas e saldos em \n31/12/2023, após incorporado o resultado do \nexercício: \nAbatimentos sobre vendas 8.000,00  \nAções em Tesouraria 3.000,00  \nAdiantamentos de Clientes 12.000,00  \nAdiantamentos de Fornecedores 15.000,00  \nAjuste a valor recuperável de \nImobilizado* 16.000,00  \nCaixa e Equivalentes de Caixa 46.000,00  \nCapital Social 100.000,00  \nComissões sobre vendas 8.000,00  \nCusto das Mercadorias Vendidas 36.000,00  \nDepreciação Acumulada 23.000,00  \nDescontos incondicionais concedidos 6.000,00  \nDuplicatas a Receber 63.000,00  \nDuplicatas descontadas 22.000,00  \nEmpréstimos e Financiamentos (LP) 275.000,00  \nEncargos Financeiros a Transcorrer (LP) 45.000,00  \nEstoques 19.000,00  \nICMS sobre vendas 32.000,00  \nJuros Passivos 13.000,00  \nObrigações Tributárias a recolher 31.000,00  \nParticipações Societárias Permanentes 25.000,00  \nPerdas estimadas com Clientes* 5.000,00  \nPIS sobre folha de pagamento 8.000,00  \nPrédios e Edificações 200.000,00  \nPrejuízo Acumulado 31.000,00  \nReceita Bruta de Vendas 220.000,00  \nReservas de Capital 17.000,00  \nReservas de Lucros 11.000,00  \nSalários e encargos sociais 48.000,00  \nVeículos 65.000,00  \nO total de Capitais de Terceiros que financia as \natividades da entidade em 31/12/2023 é de: \n(A) 285.000,00. \n(B) 265.000,00. \n(C) 275.000,00. \n(D) 295.000,00. \n(E) 305.000,00. \n \n QUESTÃO 41 \nO Ativo Não-Circulante da Company Ltda. em \n31/12/2023 é de: \n(A) 226.000,00. \n(B) 267.000,00. \n(C) 251.000,00. \n(D) 274.000,00. \n(E) 263.000,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: O Resultado com Mercadorias da Company Ltda. \nno exercício de 2023 foi igual a:",
+            "alternativas": {
+                "A": "136.000,00.",
+                "B": "138.000,00.",
+                "C": "130.000,00.",
+                "D": "133.000,00.",
+                "E": "144.000,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: O Patrimônio Líquido da entidade no \nencerramento do exercício de 2023 equivale a:",
+            "alternativas": {
+                "A": "94.000,00.",
+                "B": "115.000,00.",
+                "C": "85.000,00.",
+                "D": "97.000,00.",
+                "E": "100.000,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29: O Índice de Endividamento Geral da Company \nLtda. ao fim do exercício de 2023 é de, \naproximadamente:",
+            "alternativas": {
+                "A": "65,7%.",
+                "B": "62,0%.",
+                "C": "79,9%.",
+                "D": "72,4%.",
+                "E": "75,8%. \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 12 de 14 QUESTÃO 45 \nO Índice de Liquidez Corrente da Company Ltda. \nao fim do exercício de 2023 é de, \naproximadamente: \n(A) 2,12. \n(B) 1,75. \n(C) 1,89. \n(D) 2,05. \n(E) 2,29."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30: Sabendo que a empresa paga uma alíquota de \nImposto de Renda sobre o Lucro de 15%, é \ncorreto afirmar que o Lucro Líquido do Exercício \nde 2023 foi de:",
+            "alternativas": {
+                "A": "24.000,00.",
+                "B": "28.000,00.",
+                "C": "38.000,00.",
+                "D": "34.000,00.",
+                "E": "36.000,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31: A Margem Líquida de Vendas obtida pela \nCompany Ltda. no exercício de 2023 é de, \naproximadamente:",
+            "alternativas": {
+                "A": "17%.",
+                "B": "18,5%.",
+                "C": "19,5%.",
+                "D": "20%.",
+                "E": "23,5%. \n \n \n \n \n \n \n QUESTÃO 48 \nDe acordo com as Normas Brasileiras de \nAuditoria, _______________consistem em \navaliação das informações feitas por meio de \nestudo das relações plausíveis entre dados \nfinanceiros e não financeiros. Incluem também a \ninvestigação de flutuações e relações \nidentificadas que sejam inconsistentes com \noutras informações relevantes ou que se desviem \nsignificativamente dos valores previstos. \nAssinale a alternativa que contenha o \nprocedimento de auditoria que corretamente \npreenche a lacuna. \n(A) as observações \n(B) os recálculos \n(C) os procedimentos analíticos \n(D) as inspeções \n(E) as contagens físicas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 32: No decorrer de seus trabalhos na entidade \nauditada, o auditor constata de forma inequívoca \nque há um erro de classificação no Balanço \nPatrimonial relativo a Ativos Não-Circulantes \nMantidos para Venda, e que tal erro é relevante a \nponto de causar distorção no demonstrativo, mas \nsem contaminar as demais demonstrações \ncontábeis. Diante do caso em tela, e com base nas \nNormas Brasileiras de Auditoria, a opinião \nadequada a ser emitida é do tipo:",
+            "alternativas": {
+                "A": "Não modificada, com ressalva.",
+                "B": "Modificada, com ressalva.",
+                "C": "Modificada, adversa.",
+                "D": "Modificada, com abstenção de opinião.",
+                "E": "Não modificada, adversa. \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 13 de 14 QUESTÃO 50 \nEm situações em que haja uma grande \nquantidade de itens a serem auditados, o auditor \npode empregar a técnica de amostragem \nestatística. Nesse processo, o auditor pode dividir \na população em subgrupos, nos quais as unidades \nde amostragem compartilham características \nsemelhantes. E acordo com a NBC TA 530 – \nAmostragem em Auditoria, esta prática é \ndenominada: \n(A) Subdivisão. \n(B) Ordenação. \n(C) Qualificação. \n(D) Pré-seleção. \n(E) Estratificação. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 14 de 14"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: De acordo com o texto, conclui-se que:",
+            "alternativas": {
+                "A": "Luiz Augusto deixou Beatriz para ficar com \nJacinta por conta da omelete perfeita.",
+                "B": "Jacinta não aprendeu a omelete perfeita \nporque fez apenas a parte teórica do curso de \nculinária.",
+                "C": "Jacinta contava com o apoio de suas amigas \npara recuperar Luiz Augusto.",
+                "D": "Luiz Augusto deu uma segunda chance, mas \nnão aprovou a nova versão da omelete de Jacinta.",
+                "E": "Jacinta não atingiu a omelete perfeita porque \ntinha um entendimento distinto de baveuse . \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 3 de 14 QUESTÃO 02 \nO pronome demonstrativo em “—  Não — disse \nJacinta —, eu chamo isto de baveuse. ” funciona \ncomo um recurso de coesão textual de: \n(A) anáfora. \n(B) catáfora. \n(C) elipse. \n(D) substituição.  \n(E) sinonímia."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Das associações sobre as personagens propostas \nnas alternativas a seguir, aquela que pode ser \ndepreendida corretamente do texto é:",
+            "alternativas": {
+                "A": "Caio Ribeiro – referência de bom preparo de \nomeletes, segundo o gosto de Luiz Augusto.",
+                "B": "Jacinta – atingiu, por fim, o preparo da \nomelete perfeita, ao gosto de Luiz Augusto, após \no curso de culinária, mas perdeu o interesse por \nele.",
+                "C": "Luiz Augusto – apreciador exigente de \nomeletes, demandava que sua companheira \npreparasse omeletes tão bem quanto ele.",
+                "D": "Beatriz – pessoa com quem Luiz Augusto foi \nmorar após se separar de Jacinta, fazia omeletes \nquase tão boas quanto as de Caio Ribeiro.",
+                "E": "Professora do curso de culinária – sugeriu a \nJacinta usar uma frigideira de ferro, para o caso \nde a omelete não ficar perfeita."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Analise as sentenças retiradas do texto e assinale \naquela em que o vocábulo “se” è um pronome \nexpletivo.",
+            "alternativas": {
+                "A": "“Mas Jacinta não se conformava.”",
+                "B": "“Quando alguèm —  desinformado ou \ndesalmado — perguntava perto da Jacinta se \n“omelete” era masculino ou feminino”.",
+                "C": "“Luiz Augusto sentou -se.”",
+                "D": "“O que se poderia dizer de um homem que \ntinha abandonado a mulher de dez anos de \ncasamento, para não falar em cotas num \ncondomínio horizontal da zona Sul, por uma \nomelete bem- feita?”",
+                "E": "“Luiz Augusto não se cansava de repetir que \na omelete perfeita devia ser tostada por fora e \númida por dentro.”  \n \n \n Considere o excerto a seguir para responder \nàs questões 5, 6 e 7:  \n \nDurante dez anos, Jacinta ouvira críticas à sua \nomelete. Quando Luiz Augusto anunciara que \nencontrara uma mulher que fazia omeletes \nperfeitas — melhores, inclusive, que as do Caio \nRibeiro — e que iria morar com ela, \nacrescentou:  — Você não pode dizer que não lhe \ndei todas as chances, Cintinha."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: No contexto apresentado, em relação à classe \ngramatical, os vocábulos “que” em destaque \natuam, respectivamente, como:",
+            "alternativas": {
+                "A": "conjunção integrante, pronome relativo e \nconjunção comparativa.",
+                "B": "conjunção integrante, pronome relativo e \nconjunção integrante.",
+                "C": "preposição, pronome relativo e preposição.",
+                "D": "conjunção causal, conjunção integrante e \nconjunção integrante.",
+                "E": "conjunção causal, pronome interrogativo e \nconjunção comparativa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Dentre todas as palavras que ocorrem no excerto \napresentado, pertencem à classe gramatical das \npreposições:",
+            "alternativas": {
+                "A": "à, do.",
+                "B": "durante, com.",
+                "C": "a, quando, de, com.",
+                "D": "durante, à, inclusive, do.",
+                "E": "durante, a, de, com."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Os verbos “ouvira”, “anunciara” e “encontrara”, \nque ocorrem no excerto apresentado, estão \nconjugados no tempo:",
+            "alternativas": {
+                "A": "pretérito imperfeito do modo indicativo.",
+                "B": "pretérito perfeito do modo indicativo.",
+                "C": "pretérito mais-que-perfeito do modo \nindicativo.",
+                "D": "futuro do pretérito do modo indicativo.",
+                "E": "pretérito imperfeito do modo subjuntivo. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 4 de 14 QUESTÃO 08 \nDe acordo com a gramática normativa, a ênclise \nestá vetada se: \nI. O verbo está flexionado em uma oração \nsubordinada. \nII. A oração é iniciada por palavra interrogativa. \nIII. Em uma locução verbal, o verbo auxiliar está \nflexionado no presente do indicativo.  \nÉ (são) verdadeira(s) apenas a(s) afirmativa(s) \nem:  \n(A) I. \n(B) II. \n(C) III. \n(D) I e II. \n(E) II e III."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a qualidade expressa pelo adjetivo é \ncomparativa.",
+            "alternativas": {
+                "A": "Maria é tão caprichosa quanto sua irmã.",
+                "B": "Estou extremamente cansada.",
+                "C": "A atriz estava elegantíssima no desfile de \nmoda.",
+                "D": "Daniel é o mais engajado dentre os \nparticipantes do programa.",
+                "E": "Quando percebeu minha tristeza, passou a ser \ngentil."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale aquela \nem que ocorre desvio ortográfico.",
+            "alternativas": {
+                "A": "O casal se separou recentemente, razão por \nque não foram juntos ao evento.",
+                "B": "Isto é só mais um empecilho para dificultar \nas coisas.",
+                "C": "Os funcionários estão reinvindicando \nmelhores condições de trabalho.",
+                "D": "Que coincidência nos encontrarmos aqui!",
+                "E": "Espetáculos teatrais são ótimas formas de \nentretenimento. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Em uma certa loja, o preço das camisas era o \nmesmo para todas as camisas e o preço das calças \nera o mesmo para todas as calças. Leandro \ncomprou nessa loja 2 camisas e 3 calças e pagou \nR$ 510,00. Ele também comprou 1 camisa e 2 \ncalças para seu filho e pagou R$ 320,00. \nPodemos afirmar que o preço de cada camisa \nnessa loja é:",
+            "alternativas": {
+                "A": "R$ 60,00.",
+                "B": "R$ 65,00.",
+                "C": "R$ 58,00.",
+                "D": "R$ 72,00.",
+                "E": "R$ 55,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Segundo dados do IBGE de 2021, o município de \nArarendá, no Ceará, possui o maior IDEB (Índice \nde Desenvolvimento da Educação Básica) nos \nanos iniciais do ensino fundamental. No ano de \n2019 o IDEB foi de 8,3 e no ano de 2021 o IDEB \nfoi de 9,5. Podemos afirmar que o crescimento \npercentual do IDEB de 2019 para 2021 foi \naproximadamente de:",
+            "alternativas": {
+                "A": "10%.",
+                "B": "14%.",
+                "C": "25%.",
+                "D": "22%.",
+                "E": "20%.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 5 de 14 QUESTÃO 13 \nUm marceneiro recebe um pedido para fazer uma \nmesa em forma de um coração, composta por \ndois semicírculos e um quadrado, conforme a \nfigura abaixo. \n \n \n \n \n \n \nSabendo que os gastos com a figura mostrada são \nde R$ 120,00 por metro quadrado, qual é o gasto \ntotal se o quadrado possui lado de 1m? Considere \n𝜋 ≈ 3 . \n(A) R$ 175,00. \n(B) R$ 180,00. \n(C) R$ 190,00.  \n(D) R$ 200,00. \n(E) R$ 210,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Considere verdadeira a seguinte proposição \ncondicional: \n“Se Paulo sabe fazer bolo, então ele sabe fazer \nbiscoitos.”  \nA partir dessa proposição, também é verdade \nque:",
+            "alternativas": {
+                "A": "Se Paulo não sabe fazer biscoitos, então ele \nnão sabe fazer bolo.",
+                "B": "Provavelmente Paulo sabe fazer bolo e sabe \nfazer biscoitos.",
+                "C": "Ou Paulo sabe fazer bolo ou Paulo sabe fazer \nbiscoitos.",
+                "D": "Se Paulo souber fazer bolo, também saberá \nfazer biscoitos.",
+                "E": "Paulo não sabe fazer bolo, nem sabe fazer \nbiscoitos.  \n \n QUESTÃO 15 \nO dono de um brechó decidiu fazer uma \npromoção para as camisas que ele vende. Ele \nobservou que as vendas das camisas durante o \nmês anterior ocorreram segundo a tabela: \nMarca da \ncamisa Preço da \ncamisa Número de \ncamisas \nvendidas  \nMarca A R$ 20,00 20 \nMarca B R$ 18,00 22 \nMarca C R$ 25,00 20 \n \nEle decidiu que no mês atual as camisas de todas \nas marcas possuirão o mesmo preço. O dono do \nbrechó definiu o novo preço da camisa como \nsendo o preço médio de todas as camisas \nvendidas independentemente de sua marca. \nAssim, no mês atual, o preço da camisa é \naproximadamente: \n(A) R$ 18,90. \n(B) R$ 20,90. \n(C) R$ 21,70. \n(D) R$ 22,80.  \n(E) R$ 24,60."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: A sequência abaixo mostra os 4 primeiros \nnúmeros primos: \n2,3,5,7 …  \nOs números primos são números que somente \nsão divisíveis por 1 e por eles mesmos. Qual é o \nsétimo termo dessa sequência?",
+            "alternativas": {
+                "A": "12.",
+                "B": "13.",
+                "C": "15.",
+                "D": "17.",
+                "E": "19. \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 6 de 14 QUESTÃO 17 \nCarlos fez uma aplicação de R$ 12.000,00 a uma \ntaxa de 5% ao mês durante 3 anos em regime de \njuros simples. Ao final dessa aplicação qual é o \nmontante que Carlos possuirá? \n(A) R$ 26.800,00.  \n(B) R$ 30.600,00. \n(C) R$ 33.600,00. \n(D) R$ 34.000,00. \n(E) R$ 36.700,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Suponha que no ano de 2023, 8% de todas as \ndespesas do governo de um determinado país \nforam com Educação. Já dentre as despesas com \na Educação, as despesas com educação \nprofissionalizante representaram 10%. Se o valor \nde todas as despesas do governo foi de R$ 4 \ntrilhões, então qual o valor as despesas com \neducação profissionalizante?",
+            "alternativas": {
+                "A": "R$ 3,2 bilhões.",
+                "B": "R$ 320 bilhões.",
+                "C": "R$ 32 bilhões.",
+                "D": "R$ 400 bilhões.",
+                "E": "R$ 40 bilhões."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Queremos construir duas figuras geométricas, \num quadrado de lado 𝑎 e um triângulo equilátero \nde lado 𝑑, de modo que os dois tenham o mesmo \nperímetro. Qual é a razão entre a área e o \nperímetro do quadrado em termos de 𝑑?",
+            "alternativas": {
+                "A": "2\n7𝑑.",
+                "B": "3\n8𝑑.",
+                "C": "3\n32𝑑.",
+                "D": "3\n16𝑑.",
+                "E": "1\n2𝑑. \n QUESTÃO 20 \nUm projetista recomenda que para fazer o \nconcreto utilize-se, para cada porção de cimento, \n2 porções de areia e 3 porções de pedra brita, em \nmassa. Sendo assim, na mistura final que o \nprojetista recomenda a quantidade de areia \nrepresenta qual porcentagem da massa total? \n(A) 19%.  \n(B) 20%. \n(C) 25%. \n(D) 30%. \n(E) 33%. \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "Não encontrada"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Sobre a função “responder” no MS -Outlook \n2016, é incorreto o que se afirma em: \nI - O anexo será mantido na mensagem. \nII - O campo “Para” deverá ser preenchido.  \nIII - A mensagem de resposta será enviada \napenas para o remetente original. \nIV - O campo “Assunto” não será preenchido \nautomaticamente. \nV - O texto original do remetente não será \nmantido.",
+            "alternativas": {
+                "A": "I e III, apenas.",
+                "B": "I, II e V, apenas.",
+                "C": "I, II, IV e V, apenas.",
+                "D": "I, II, III e V, apenas.",
+                "E": "Nenhuma das afirmativas estão incorretas. \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 7 de 14 QUESTÃO 22 \nO MS-Word 2016 possui diversas ferramentas de \nedição e formatação texto, sendo algumas delas: \n \nAssinale a alternativa que não contenha um dos \nelementos de formatação dentre os \nrepresentados. \n(A) Tachado.  \n(B) Sublinhado. \n(C) Subscrito.  \n(D) Itálico. \n(E) Negrito."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Analiseas imagens a seguir: \nI: \n \nII:",
+            "alternativas": {
+                "A": "A imagem I representa um gerenciador de e-\nmails da suíte Microsoft Office.",
+                "B": "A imagem II representa um gerenciador de e-\nmails desenvolvido e mantido pela Google.",
+                "C": "Ambas as imagens representam softwares de \ndesenvolvimento de planilhas eletrônicas.",
+                "D": "Nenhuma das imagens representam \ngerenciadores de e-mails.",
+                "E": "Ambas as imagens representam \ngerenciadores de e-mails. \n \n \n QUESTÃO 24 \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Nesse \ncontexto, são palavras que integram o significado \nde URL: \n( ) Uniform.  \n( ) Resource  \n( ) Lover. \n( ) User. \n( ) Locator. \nIndique “V” para verdadeiro e “F” para falso.  \n(A) V, F, V, F, V. \n(B) F, F, V, V, F. \n(C) V, V, F, F, V. \n(D) V, V, F, V, V.  \n(E) F, F, V, F, F."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Leia atentamente os trechos a seguir: \nTrecho 1: As configurações de impressão \npermitem escolher entre as opções de orientação \nretrato (vertical) e paisagem (horizontal) para \ndeterminar a direção da impressão na página. \nTrecho 2: É possível selecionar o tamanho do \npapel a ser utilizado na impressão, como A4, \ncarta, ofício, entre outros, para corresponder ao \nformato desejado. \nTrecho 3: Não é possível ajustar as margens da \npágina, determinando a quantidade de espaço em \nbranco ao redor do conteúdo impresso, \npersonalizando a formatação da página. \nDiante da análise, assinale a alternativa correta.",
+            "alternativas": {
+                "A": "Todos os trechos apresentados fazem \nafirmações corretas acerca da digitalização de \num documento.",
+                "B": "Todos os trechos apresentados fazem \nafirmações incorretas acerca da impressão de um \ndocumento.",
+                "C": "O trecho 1 está correto ao afirmar que é \npossível selecionar o tamanho do papel a ser \nutilizado na impressão .",
+                "D": "O trecho 3 se equivoca ao mencionar que não \npossível ajustar as margens da página.",
+                "E": "O trecho 2 está correto ao afirmar que as \nconfigurações de impressão permitem escolher \nentre as opções de orientação retrato. \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 8 de 14 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Suponha que um comerciante aplique o valor de \nR$ 10.000,00 em um CDB que paga juros \ncompostos de 10% ao semestre. Se o investidor \nresgatar o valor aplicado 1 ano e meio depois, o \nvalor total recebido será de:",
+            "alternativas": {
+                "A": "13.310,00.",
+                "B": "11.330,00.",
+                "C": "13.666,67.",
+                "D": "13.333,33.",
+                "E": "12.990,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Muito adotado no mercado financeiro brasileiro, \no Sistema de Amortização Francês tem \ncaracterísticas peculiares. Desta feita, assinale a \nalternativa correta sobre o assunto (considerando \num cenário ideal sem inflação).",
+            "alternativas": {
+                "A": "Neste sistema de amortização os juros ficam \nmaiores à medida que são pagas as prestações.",
+                "B": "Neste sistema, o valor das amortizações da \ndívida decresce conforme as prestações são \npagas.",
+                "C": "Neste sistema, o valor das amortizações da \ndívida permanece inalterado durante a execução \ndo contrato.",
+                "D": "Neste sistema, o valor dos juros pagos \npermanece inalterado até a última prestação.",
+                "E": "Neste sistema de amortização, o valor das \nprestações não se altera ao longo do contrato. \n \n \n \n \n \n \n \n \n QUESTÃO 28 \nNas decisões relativas a projetos de \ninvestimentos financeiros de longo prazo, utiliza-\nse um conceito avançado de orçamento de \ncapital: o Valor Presente Líquido (VPL). Acerca \ndo assunto, informe se é verdadeiro (V) ou falso \n(F) para o que se afirma a seguir. \n( ) O VPL é a somatória, na data-base, do valor \nnominal dos fluxos de entrada futuros de um \ninvestimento. \n( ) No cálculo do VPL, desconsidera-se o valor \ndo desembolso inicial a ser efetuado no projeto. \n( ) Tecnicamente, um projeto não deve ser levado \nadiante caso seu Valor Presente Líquido seja \ninferior a zero. \nA sequência está correta em: \n(A) F – V – V. \n(B) V – F – V. \n(C) V – F – F. \n(D) F – F – V. \n(E) V – V – V."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Uma pessoa investe um capital em uma aplicação \nque paga juros simples de 0,7% ao mês, \nmantendo-o aplicado por um período de 18 \nmeses. Se consideramos que os juros gerados na \ntransação totalizam R$ 1.890,00, é apropriado \nafirmar que o capital inicial investido foi:",
+            "alternativas": {
+                "A": "R$ 14.900,00.",
+                "B": "R$ 15.500,00.",
+                "C": "R$ 15.000,00.",
+                "D": "R$ 14.700,00.",
+                "E": "R$ 15.200,00. \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 9 de 14 QUESTÃO 30 \nUm empresário possui R$ 24.000,00 que não \npretende utilizar em suas atividades comerciais. \nEle espera investir este capital num produto que \nrende juros simples e auferir, em um ano, juros \nde R$ 3.600,00. Com base nessas informações é \npossível concluir que a aplicação desejada deverá \noferecer uma taxa de remuneração mensal de: \n(A) 1,5%. \n(B) 1,25%. \n(C) 0,95%. \n(D) 1,10%. \n(E) 1,15%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Quando o Estado, agindo como se particular \nfosse, busca angariar receitas públicas através da \nexploração de seu patrimônio, por meio da \nprestação de serviços remunerados ou exercendo \natividades econômicas, tais receitas são \nconceituadas pela doutrina como:",
+            "alternativas": {
+                "A": "patrimoniais.",
+                "B": "originárias.",
+                "C": "vinculadas.",
+                "D": "agroindustriais.",
+                "E": "financeiras."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Um dos princípios constitucionais tributários \ndetermina que é vedado a todos os entes da \nFederação cobrar tributos em relação a fatos \ngeradores ocorridos antes do início da vigência \nda lei que os houver instituído ou aumentado, \nguardando relação com a ideia de que a lei nova \nnão pode prejudicar os direitos adquiridos e os \natos jurídicos aperfeiçoados. Trata-se do \nPrincípio:",
+            "alternativas": {
+                "A": "da Anterioridade.",
+                "B": "da Irretroatividade.",
+                "C": "da Legalidade Estrita.",
+                "D": "da Tipicidade.",
+                "E": "da Salvaguarda Tributária. \n QUESTÃO 33 \nSe um Governo está altamente endividado e \npretende reduzir a Necessidade de \nFinanciamento do Setor Público, ele deve buscar \nobter: \n(A) resultados nominais nulos. \n(B) resultados nominais negativos. \n(C) resultados nominais positivos. \n(D) resultados operacionais positivos. \n(E) resultados primários positivos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Conceito relacionado à ideia de busca por \nequidade fiscal, baseado na premissa de que \nquem possui maior capacidade financeira deve \ncontribuir com uma parcela maior de sua renda \npara o financiamento dos gastos públicos. O \nenunciado está a se referir aos:",
+            "alternativas": {
+                "A": "Impostos Sociais.",
+                "B": "Impostos Diretos.",
+                "C": "Impostos Proporcionais.",
+                "D": "Impostos Progressivos.",
+                "E": "Impostos Neutros."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Espécie tributária instituída em função da \nprestação de um serviço estatal específico e \ndivisível aos contribuintes, e que tem por \nfundamento a reposição dos custos incorridos \npelo Poder Público na prestação do referido \nserviço. A coleta de lixo, por exemplo, é um \nserviço que justifica sua imposição. O enunciado \nexpressa o conceito de:",
+            "alternativas": {
+                "A": "Custas.",
+                "B": "Emolumentos.",
+                "C": "Laudêmio.",
+                "D": "Tarifa.",
+                "E": "Taxa. \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 10 de 14 QUESTÃO 36 \nAs funções clássicas do orçamento foram \ninicialmente propostas por Richard Musgrave e \nsão amplamente aceitas na teoria econômica e na \nadministração pública. Dentre elas, uma \nespecificamente é utilizada pelo Governo para \noperar em momentos de flutuações econômicas, \nquando as receitas e despesas públicas atuam \ncomo instrumentos de contenção da inflação ou \nde estímulo da demanda. Trata-se da: \n(A) Função Distributiva. \n(B) Função Estabilizadora. \n(C) Função Política. \n(D) Função Macroeconômica. \n(E) Função Alocativa."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: A Lei de Responsabilidade Fiscal adota a \n___________ como parâmetro para limitação da \nDespesa Total com Pessoal (DTP) dos entes da \nFederação. Nos Municípios, em cada período de \napuração, a DTP não poderá ultrapassar __ do \nreferido parâmetro. Assinale a alternativa que \ncorreta e sequencialmente preenche as lacunas.",
+            "alternativas": {
+                "A": "Receita Corrente Líquida / 70%",
+                "B": "Receita Corrente Líquida / 54%",
+                "C": "Receita Corrente / 60%",
+                "D": "Receita Corrente Líquida / 60%",
+                "E": "Receita Orçamentária Líquida / 54% \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 38 \nÀ luz da disciplina da Lei Complementar nº \n101/2000 (LRF), avalie as afirmativas a seguir. \nI. A Lei de Diretrizes Orçamentárias deverá estar \nacompanhada do Anexo de Riscos Fiscais, \ndestinado a avaliar os passivos contingentes e \noutros riscos capazes de afetar as contas públicas, \ninformando as providências a serem tomadas, \ncaso se concretizem. \nII. No último ano de mandato do Chefe do Poder \nExecutivo é vedada a edição de qualquer ato que \nimplique aumento de gastos com pessoal além da \nreposição inflacionária. \nIII. É vedada a realização de operação de crédito \npor antecipação de receita orçamentária de \ntributo cujo fato gerador ainda não tenha \nocorrido. \nEstá correto o que se afirma: \n(A) em I e III, apenas. \n(B) em I e II, apenas. \n(C) em III, apenas. \n(D) em II e III, apenas. \n(E) em I, II e III, apenas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Nos termos da NBC TG – Estrutura Conceitual \npara Relatório Financeiro, do Conselho Federal \nde Contabilidade, Prudência  é o exercício de \ncautela ao fazer julgamentos sob condições de \nincerteza. O exercício de prudência significa que \n____________ não estão superavaliados e \n_______________ não estão subavaliados. \nAssinale a alternativa que correta e \nsequencialmente preenche as lacunas.",
+            "alternativas": {
+                "A": "ativos e despesas / passivos e receitas",
+                "B": "ativos e passivos / receitas e despesas",
+                "C": "ativos e receitas / passivos e despesas",
+                "D": "passivos e receitas / ativos e despesas",
+                "E": "receitas e despesas / ativos e passivos \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 11 de 14 QUESTÃO 40 \nATENÇÃO! Para resolução das próximas OITO  \nquestões (números 40 a 47), considere as \ninformações adiante. \nA Company Ltda. é uma empresa que atua na \nrevenda de materiais de escritório. O quadro a \nseguir contém a relação de contas e saldos em \n31/12/2023, após incorporado o resultado do \nexercício: \nAbatimentos sobre vendas 8.000,00  \nAções em Tesouraria 3.000,00  \nAdiantamentos de Clientes 12.000,00  \nAdiantamentos de Fornecedores 15.000,00  \nAjuste a valor recuperável de \nImobilizado* 16.000,00  \nCaixa e Equivalentes de Caixa 46.000,00  \nCapital Social 100.000,00  \nComissões sobre vendas 8.000,00  \nCusto das Mercadorias Vendidas 36.000,00  \nDepreciação Acumulada 23.000,00  \nDescontos incondicionais concedidos 6.000,00  \nDuplicatas a Receber 63.000,00  \nDuplicatas descontadas 22.000,00  \nEmpréstimos e Financiamentos (LP) 275.000,00  \nEncargos Financeiros a Transcorrer (LP) 45.000,00  \nEstoques 19.000,00  \nICMS sobre vendas 32.000,00  \nJuros Passivos 13.000,00  \nObrigações Tributárias a recolher 31.000,00  \nParticipações Societárias Permanentes 25.000,00  \nPerdas estimadas com Clientes* 5.000,00  \nPIS sobre folha de pagamento 8.000,00  \nPrédios e Edificações 200.000,00  \nPrejuízo Acumulado 31.000,00  \nReceita Bruta de Vendas 220.000,00  \nReservas de Capital 17.000,00  \nReservas de Lucros 11.000,00  \nSalários e encargos sociais 48.000,00  \nVeículos 65.000,00  \nO total de Capitais de Terceiros que financia as \natividades da entidade em 31/12/2023 é de: \n(A) 285.000,00. \n(B) 265.000,00. \n(C) 275.000,00. \n(D) 295.000,00. \n(E) 305.000,00. \n \n QUESTÃO 41 \nO Ativo Não-Circulante da Company Ltda. em \n31/12/2023 é de: \n(A) 226.000,00. \n(B) 267.000,00. \n(C) 251.000,00. \n(D) 274.000,00. \n(E) 263.000,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: O Resultado com Mercadorias da Company Ltda. \nno exercício de 2023 foi igual a:",
+            "alternativas": {
+                "A": "136.000,00.",
+                "B": "138.000,00.",
+                "C": "130.000,00.",
+                "D": "133.000,00.",
+                "E": "144.000,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: O Patrimônio Líquido da entidade no \nencerramento do exercício de 2023 equivale a:",
+            "alternativas": {
+                "A": "94.000,00.",
+                "B": "115.000,00.",
+                "C": "85.000,00.",
+                "D": "97.000,00.",
+                "E": "100.000,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29: O Índice de Endividamento Geral da Company \nLtda. ao fim do exercício de 2023 é de, \naproximadamente:",
+            "alternativas": {
+                "A": "65,7%.",
+                "B": "62,0%.",
+                "C": "79,9%.",
+                "D": "72,4%.",
+                "E": "75,8%. \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 12 de 14 QUESTÃO 45 \nO Índice de Liquidez Corrente da Company Ltda. \nao fim do exercício de 2023 é de, \naproximadamente: \n(A) 2,12. \n(B) 1,75. \n(C) 1,89. \n(D) 2,05. \n(E) 2,29."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30: Sabendo que a empresa paga uma alíquota de \nImposto de Renda sobre o Lucro de 15%, é \ncorreto afirmar que o Lucro Líquido do Exercício \nde 2023 foi de:",
+            "alternativas": {
+                "A": "24.000,00.",
+                "B": "28.000,00.",
+                "C": "38.000,00.",
+                "D": "34.000,00.",
+                "E": "36.000,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31: A Margem Líquida de Vendas obtida pela \nCompany Ltda. no exercício de 2023 é de, \naproximadamente:",
+            "alternativas": {
+                "A": "17%.",
+                "B": "18,5%.",
+                "C": "19,5%.",
+                "D": "20%.",
+                "E": "23,5%. \n \n \n \n \n \n \n QUESTÃO 48 \nDe acordo com as Normas Brasileiras de \nAuditoria, _______________consistem em \navaliação das informações feitas por meio de \nestudo das relações plausíveis entre dados \nfinanceiros e não financeiros. Incluem também a \ninvestigação de flutuações e relações \nidentificadas que sejam inconsistentes com \noutras informações relevantes ou que se desviem \nsignificativamente dos valores previstos. \nAssinale a alternativa que contenha o \nprocedimento de auditoria que corretamente \npreenche a lacuna. \n(A) as observações \n(B) os recálculos \n(C) os procedimentos analíticos \n(D) as inspeções \n(E) as contagens físicas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUDITOR FISCAL TRIBUTÁRIO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 32: No decorrer de seus trabalhos na entidade \nauditada, o auditor constata de forma inequívoca \nque há um erro de classificação no Balanço \nPatrimonial relativo a Ativos Não-Circulantes \nMantidos para Venda, e que tal erro é relevante a \nponto de causar distorção no demonstrativo, mas \nsem contaminar as demais demonstrações \ncontábeis. Diante do caso em tela, e com base nas \nNormas Brasileiras de Auditoria, a opinião \nadequada a ser emitida é do tipo:",
+            "alternativas": {
+                "A": "Não modificada, com ressalva.",
+                "B": "Modificada, com ressalva.",
+                "C": "Modificada, adversa.",
+                "D": "Modificada, com abstenção de opinião.",
+                "E": "Não modificada, adversa. \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 13 de 14 QUESTÃO 50 \nEm situações em que haja uma grande \nquantidade de itens a serem auditados, o auditor \npode empregar a técnica de amostragem \nestatística. Nesse processo, o auditor pode dividir \na população em subgrupos, nos quais as unidades \nde amostragem compartilham características \nsemelhantes. E acordo com a NBC TA 530 – \nAmostragem em Auditoria, esta prática é \ndenominada: \n(A) Subdivisão. \n(B) Ordenação. \n(C) Qualificação. \n(D) Pré-seleção. \n(E) Estratificação. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nAUDITOR FISCAL TRIBUTÁRIO                                                                                                                   Página 14 de 14"
+            },
+            "resposta_correta": "C"
+        }
+    ]
+}

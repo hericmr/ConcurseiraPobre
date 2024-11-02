@@ -1,3 +1,788 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f18ccdc056b8f93a65c922036e745fa3169f4f67f93214589a8ec41ec49320c7
-size 59922
+{
+    "AUXILIAR DE BIBLIOTECA": [
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Após a leitura da charge, cujos personagens são \nCalvin, o garoto, e Haroldo, seu tigre de pelúcia, \nconclui -se que:",
+            "alternativas": {
+                "A": "Calvin ficou frustrado com a resposta de \nHaroldo à sua fala sobre as possibilidades da \nvida.",
+                "B": "A  fala de Calvin a respeito das possibilidades \nfrustradas não tem relação com a fala anterior de \nHaroldo.",
+                "C": "Calvin é pessimista, pois considera apenas \npossibilidades que possam gerar frustração a ele.",
+                "D": "Haroldo não acredita que haja outras \npossibilidades na vida além daquela de esperar o \nônibus da escola.",
+                "E": "Calvin e Haroldo compartilham da mesma \nopinião a respeito das possibilidades da vida."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: No segundo quadrinho da charge, Calvin parece \nestar:",
+            "alternativas": {
+                "A": "Animado sobre a possibilidade de ir à escola.",
+                "B": "Animado sobre a possibilidade de não ir à \nescola.",
+                "C": "Sendo irônico a respeito da migração dos \ngnus, na África.",
+                "D": "Pessimista sobre a possibilidade de não ir à \nescola.",
+                "E": "Pessimista sobre a gama de possibilidades \nque existem na vida."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A palavra “possibilidades” , que ocorre na \ncharge, é:",
+            "alternativas": {
+                "A": "Um substantivo masculino no plural.",
+                "B": "Um substantivo feminino no plural.",
+                "C": "Um adjetivo masculino no plural.",
+                "D": "Um adjetivo feminino no plural.",
+                "E": "Um advérbio de incerteza.  \n \n \n QUESTÃO 04 \nDentre as palavras a seguir, que ocorrem na \ncharge, aquela que apresenta grau aumentativo é:  \n(A) agora.  \n(B) ôn ibus.  \n(C) escola.  \n(D) dedão.  \n(E) carona."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Considere as seguintes sentenças, que ocorrem \nna charge:  \nI. “A vida é cheia de possibilidades.”  \nII. “Eu poderia levantar o dedão, pegar uma \ncarona e passar o resto da minha vida no \nSerengeti, migrando com os Gnus.”  \nIII. “O Serengeti fica na África.”  \nVerifica -se verbo no gerúndio apenas em:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "I e II.",
+                "E": "II e III."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: A regência do verbo “esperar” , que ocorre no \nsegundo quadrinho da charge, é:",
+            "alternativas": {
+                "A": "transitiva direta.",
+                "B": "transitiva indireta.",
+                "C": "transitiva direta e indireta.",
+                "D": "intransitiva.",
+                "E": "pronominal.  \n \n \n \n \n \n \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE BIBLIOTECA                                                                                                                        Página 4 de 11 QUESTÃO 07 \nAssinale a alternativa em que o pronome pessoal \noblíquo ocorre em próclise.  \n(A) Os rapazes daquele colégio não se \ninteressavam por nenhum esporte.  \n(B) Avisaram -no de última hora sobre a festa de \naniversário.  \n(C) Minhas amigas disseram -me que não \nparticiparão da formatura.  \n(D) Vê -lo-ei na próxima semana.  \n(E) Contaria a ele tudo isso que contou a mim?"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Ocorre verbo irregular apenas em:",
+            "alternativas": {
+                "A": "Os bolos desta confeitaria não duram 24 \nhoras.",
+                "B": "Ela sabe que pode contar conosco.",
+                "C": "A menina cozinhava admiravelmente.",
+                "D": "As aulas não costumam atrasar.",
+                "E": "Estes barcos naufragaram no mesmo ano."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as palavras a seguir e assinale a \nalternativa em que todas as palavras dadas são \nsinônimas.",
+            "alternativas": {
+                "A": "indispensável; prescindível; escusável.",
+                "B": "papalvo; moralista; empedernido.",
+                "C": "altruísta; compassivo; mentiroso.",
+                "D": "pífio; abjeto; nobre.",
+                "E": "insigne; célebre; eminente."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: A palavra a seguir que apresenta exatamente seis \nsílabas é:",
+            "alternativas": {
+                "A": "amparo.",
+                "B": "alienado.",
+                "C": "característica.",
+                "D": "estátuas.",
+                "E": "peculiaridade.  MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Um editor leva aproximadamente 30 minutos \npara revisar um artigo. Se ele precisa revisar 6 \nartigos iguais e leva o mesmo tempo para revisar \ncada um, quantas horas o editor levará para \nrevisar todos os 6 artigos?",
+            "alternativas": {
+                "A": "3 horas",
+                "B": "3 horas e 30 minutos",
+                "C": "2 horas e 40 minutos",
+                "D": "1 hora e 60 minutos",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Em uma sala de conferências, cada fileira possui \nexatamente 18 assentos. Se a sala tem 30 fileiras, \nqual é o número total de assentos nessa sala?",
+            "alternativas": {
+                "A": "540",
+                "B": "550",
+                "C": "560",
+                "D": "580",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Assinale a alternativa que apresenta o \nQuadragésimo terceiro número ímpar sucessor \nde 301:",
+            "alternativas": {
+                "A": "344",
+                "B": "345",
+                "C": "385",
+                "D": "387",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Considere a sequência numérica: 2, 6, 12, 20, 30, \n(...). Qual é o próximo termo dessa sequência?",
+            "alternativas": {
+                "A": "40",
+                "B": "42",
+                "C": "44",
+                "D": "54",
+                "E": "Nenhuma das alternativas  \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE BIBLIOTECA                                                                                                                        Página 5 de 11 QUESTÃO 15  \nAna colocou 8 caixas iguais sobre uma balança, \nque registrou o valor de 480g. Se ela colocar 16 \ncaixas dos mesmos tipos sobre a mesma balança, \nqual será o valor aproximado registrado?  \n(A) 900g  \n(B) 960g  \n(C) 1.050g  \n(D) 1.200g  \n(E) 1.350g"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Uma cafeteria recebe em média 150 clientes por \ndia. Se 20% desses clientes utilizam um cartão de \ndesconto, quantos clientes, por dia, não utilizam \no cartão e pagam o preço normal pelos produtos?",
+            "alternativas": {
+                "A": "30 clientes",
+                "B": "112 clientes",
+                "C": "125 clientes",
+                "D": "120 clientes",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Um aquário tem 400 peixes, entre bagres, trutas \ne salmões. Sabe -se que 50% dos peixes são \nbagres, 25% são trutas e os 25% restantes são \nsalmões. Se 20% dos bagres, 30% das trutas e \n15% dos salmões são juvenis, quantos peixes \nadultos há no aquário?",
+            "alternativas": {
+                "A": "260",
+                "B": "280",
+                "C": "300",
+                "D": "315",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Considere a sequência: R, 12, S, 24, T, 36, (...). \nQual é o 16º termo dessa sequência?",
+            "alternativas": {
+                "A": "108",
+                "B": "U",
+                "C": "96",
+                "D": "V",
+                "E": "Nenhuma das alternativas  \n QUESTÃO 19  \nCarlos encontrou um cofre com moedas de \ndiferentes valores. Ele encontrou 45 moedas de \nR$ 0,10 e 56 moedas de R$ 0,25. Qual é o valor \ntotal que Carlos encontrou no cofre?  \n(A) R$ 14,00  \n(B) R$ 23,50  \n(C) R$ 18,50  \n(D) R$ 25,60  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Maria e Pedro estão conversando sobre a escola \nonde Maria estuda. Maria conta para Pedro que, \nna escola dela, dos 400 alunos, 45% dos alunos \nnão gostam de Matemática. Pedro fica curioso e \npergunta: Se 45% dos alunos não gostam de \nMatemática, quantos alunos gostam de \nMatemática?  \nQual é o número de alunos que gostam de \nMatemática?",
+            "alternativas": {
+                "A": "180",
+                "B": "220",
+                "C": "230",
+                "D": "240",
+                "E": "260 \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: 1 \nDe acordo com a Lei Orgânica do Município de \nParaty , analise os itens a seguir e assinale a \nalternativa correta.   \nI – São poderes do Município, independentes e \nharmônicos entre si, o Legislativo e o Executivo.  \nII – São símbolos do Município o Hino, as armas \ne o selo nacionais, exceto a bandeira.",
+            "alternativas": {
+                "A": "A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.",
+                "B": "As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.",
+                "C": "A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.",
+                "D": "As asserções I e II são proposições falsas.",
+                "E": "As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE BIBLIOTECA                                                                                                                        Página 6 de 11 QUESTÃO 22  \nComplete a lacuna de acordo com a Lei Orgânica \ndo Município de Paraty . \n \nA Câmara Municipal é composta de vereadores \neleitos pelo sistema proporcional como \nrepresentantes do povo, com mandato de \n________.  \n \n(A) dois anos  \n(B) três anos  \n(C) quatro anos  \n(D) cinco anos  \n(E) seis anos"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Qual é a lenda local de Paraty que conta sobre \numa criança transformada em uma serpente, cuja \ncabeça está sob os pés da imagem de Nossa \nSenhora dos Remédios e cujo corpo se estende ao \nlongo do Rio Perequê -açu, ameaçando destruir a \ncidade se a imagem for removida?",
+            "alternativas": {
+                "A": "A lenda do Ouro Maldito",
+                "B": "A lenda da Serpente da Matriz",
+                "C": "A lenda do Fantasma do Porto",
+                "D": "A lenda da Pedra da Macela",
+                "E": "A lenda da Cruz do Descobrimento"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: De acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, assinale a \nalternativa incorreta. São deveres dos \nfuncionários:",
+            "alternativas": {
+                "A": "Assiduidade",
+                "B": "Pontualidade",
+                "C": "Discrição",
+                "D": "Urbanidade",
+                "E": "Negligência  \n \n \n \n \n \n \n \n QUESTÃO 25  \nQual é o nome do instrumento descrito a seguir?  \n \nFonte: Livro de Paraty  \n \nEste instrumento tem origem árabe e possui três \ncordas. Em Paraty, é feito de madeiras de cedro \ne caixeta e é conhecido por animar bailes de \nciranda, folias de Reis e do Divino. \nReintroduzido na Ciranda da cidade após meio \nséculo por um jovem cirandeiro, ele desempenha \num papel importante na preservação da cultura \nlocal.  \n \n(A) Violão  \n(B) Bandolim  \n(C) Rabeca  \n(D) Cavaquinho  \n(E) Violino"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: A Biblioteca Escolar desempenha um papel \nfundamental no ambiente educacional. Além de \nfomentar a leitura e o acesso à informação, ela \nintegra -se com a sala de aula e o currículo \nescolar, contribuindo para o desenvolvimento \ndos alunos. Com base nesse contex to, qual das \nalternativas NÃO  descreve uma das funções ou \nobjetivos de uma Biblioteca Escolar?",
+            "alternativas": {
+                "A": "Servir como centro de recursos educativos \nintegrados ao processo de ensino -aprendizagem.",
+                "B": "Funcionar exclusivamente como um local de \narmazenamento de livros e materiais didáticos.",
+                "C": "Promover o desenvolvimento e o incentivo à \nleitura entre os alunos.",
+                "D": "Oferecer suporte à comunidade em suas \nnecessidades informacionais.",
+                "E": "Integrar -se ao currículo escolar para auxiliar \nna formação acadêmica dos estudantes.  \n \nPrefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE BIBLIOTECA                                                                                                                        Página 7 de 11 QUESTÃO 27  \nA Classificação Decimal de Dewey (CDD) é um \nsistema amplamente utilizado para organizar o \nacervo de bibliotecas, dividindo o conhecimento \nem dez grandes categorias. Criado por Melvil \nDewey em 1876, esse sistema permite a fácil \nlocalização de livros e mater iais de acordo com \nsuas áreas de conhecimento. Com base nisso, \nqual das alternativas a seguir descreve \ncorretamente uma função da CDD?  \n(A) Organizar os livros por ordem de chegada à \nbiblioteca.  \n(B) Dividir o conhecimento humano em dez \ncategorias principais, que incluem áreas como \nfilosofia, religião, história e geografia.  \n(C) Classificar os livros apenas com base no \nnúmero de páginas e tamanho.  \n(D) Usar um sistema de cores para identificar os \nlivros de diferentes autores.  \n(E) Priorizar o empréstimo de livros mais \npopulares, independentemente do tema."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: A expressão “escuta ativa”, criada pelos \npsicólogos Carl Rogers e Richard Farson na \ndécada de 1950, visa melhorar os \nrelacionamentos interpessoais, especialmente em \nambientes de trabalho. No contexto do \natendimento ao cliente, qual das opções a seguir \nNÃO  representa uma prática de escuta ativa?",
+            "alternativas": {
+                "A": "Fazer perguntas relevantes para entender \nmelhor as necessidades do cliente.",
+                "B": "Ouvir o cliente com atenção, sem \ninterrupções, para captar o que está sendo dito e \nexpresso.",
+                "C": "Interagir passivamente, permitindo que o \ncliente fale, mas sem demonstrar interesse em \nsuas preocupações.",
+                "D": "Buscar compreender as emoções do cliente \natravés da análise da sua linguagem verbal e não \nverbal.",
+                "E": "Empregar esforços para entender e solucionar \nas demandas apresentadas pelo cliente.  \n \n \n QUESTÃO 29  \nConsiderando as espécies de Indexação \nexistentes, analise o enunciado abaixo e assinale \na alternativa que apresenta corretamente ao \ntermo correspondente:  \nA forma mais simples de _________________ \nconsiste em contar palavras, um mecanismo que \nsimula a leitura humana pelo computador. As \ncontagens são geralmente realizadas mediante o \nuso de duas listas: uma negativa e uma positiva.   \n(A) Indexação Automática.  \n(B) Indexação Manual.  \n(C) Indexação Semiautomática.  \n(D) Indexação por Assunto.  \n(E) Indexação Informatizada."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Analise as afirmativas abaixo, e assinale a \nalternativa que apresenta a sequência correta \nindicando V (Verdadeiro) ou F (Falso):  \nSão obras intelectuais protegidas as criações do \nespírito, expressas por qualquer meio ou fixadas \nem qualquer suporte, tangível ou intangível, \nconhecido ou que se invente no futuro, tais como:  \n( ) As obras dramáticas e dramático -musicais;  \n( ) As conferências, alocuções, sermões e outras \nobras da mesma natureza;  \n( ) Os textos de obras literárias, artísticas ou \ncientíficas.",
+            "alternativas": {
+                "A": "V, F, V.",
+                "B": "F, V, F.",
+                "C": "V, V, V.",
+                "D": "F, F, V.",
+                "E": "Nenhuma das alternativas.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE BIBLIOTECA                                                                                                                        Página 8 de 11 QUESTÃO 31  \nNo contexto dos critérios adotados para o \ndescarte de documentos em Bibliotecas, o \ncritério de obsolescência  refere -se a: \n(A) Obras cujos conteúdos são irrelevantes para \nos objetivos institucionais da biblioteca.  \n(B) Documentos cujos conteúdos estão \ndesatualizados, em desuso, ou que foram \nsuperados por edições mais recentes.  \n(C) Publicações que são consideradas raras e \nvaliosas, independentemente da atualidade do \nconteúdo.  \n(D) Obras que estão fisicamente deterioradas e \nprecisam ser substituídas.  \n(E) Duplicatas de documentos que não têm \nrelevância para o acervo da biblioteca."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: A Biblioteca de Alexandria é amplamente \nreconhecida como uma das maiores e mais \nimportantes bibliotecas da Antiguidade, \nreunindo um vasto acervo de cultura e ciência ao \nlongo de sete séculos. Sobre a Biblioteca de \nAlexandria, qual das seguintes afirmações,  NÃO \né considerada correta?",
+            "alternativas": {
+                "A": "A biblioteca foi um centro de conhecimento \ne aprendizagem que reuniu o maior acervo \ncultural e científico da Antiguidade.",
+                "B": "O acervo da biblioteca era organizado em \nrolos e etiquetado com os nomes dos autores e \ntítulos das obras.",
+                "C": "A biblioteca sobreviveu a muitos saques e \nincêndios ao longo de sua existência.",
+                "D": "O acesso à biblioteca era restrito apenas a \nestudiosos, sem acesso ao público em geral.",
+                "E": "A Biblioteca de Alexandria é considerada \numa das mais famosas e importantes do mundo \nantigo.  \n \n \n \n \n \n \n \n QUESTÃO 33  \nA Proteção dos Direitos Patrimoniais sobre \nmateriais bibliográficos e outros tipos de obras é \nregulada pela Legislação Brasileira. Neste \nsentido, assinale a alternativa que descreve \ncorretamente a duração da proteção dos direitos \npatrimoniais sobre obras l iterárias, artísticas e \ncientíficas:  \n(A) Os direitos patrimoniais sobre obras \npóstumas perduram por sessenta anos contados \ndo falecimento do autor.  \n(B) Quando uma obra é realizada em co -autoria, \no prazo de proteção é contado a partir da morte \ndo segundo co -autor falecido.  \n(C) Obras anônimas ou pseudônimas têm um \nprazo de proteção de setenta anos, contados a \npartir do ano da primeira publicação.  \n(D) O prazo de proteção dos direitos patrimoniais \nsobre obras audiovisuais e fotográficas é de \ncinquenta anos a partir da data de sua divulgação.  \n(E) As obras pertencem ao domínio público se o \nprazo de proteção expirar e o autor tiver deixado \nsucessores."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: O Sistema de Gerenciamento de Biblioteca \nIntegrado, conhecido pela sigla ILS ( Integrated \nLibrary System ), é um software fundamental para \no funcionamento das bibliotecas modernas. Com \nisto, qual das alternativas abaixo não representa \numa função ou característica típica de um ILS?",
+            "alternativas": {
+                "A": "Catalogação de materiais e controle de \nacervos bibliográficos.",
+                "B": "Gerenciamento de circulação e empréstimo \nde livros aos usuários.",
+                "C": "Automatização do processo de aquisição e \ncontrole de novos materiais.",
+                "D": "Organização e classificação manual de \ndocumentos históricos.",
+                "E": "Gerenciamento de seriados e periódicos, \nincluindo a renovação de assinaturas.  \n \n \n \n \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE BIBLIOTECA                                                                                                                        Página 9 de 11 QUESTÃO 35  \nO Papel das Bibliotecas em uma comunidade ou \ncidade vai além da simples disseminação de \ninformações, atuando como um ponto de \ninclusão e acesso ao conhecimento em uma era \nmarcada pela abundância de informações. Com \nbase na descrição do papel social das bib liotecas, \nqual das seguintes afirmações é correta?  \n(A) As bibliotecas são responsáveis apenas pela \norganização e empréstimo de livros, sem a \nnecessidade de promover atividades adicionais \npara a comunidade.  \n(B) As bibliotecas desempenham um papel \nimportante na inclusão cultural, oferecendo \napenas recursos digitais para seus usuários.  \n(C) Além de fornecer acesso a livros e \ninformações, as bibliotecas realizam atividades \ncomo oficinas, feiras culturais e projetos de \nleitura para engajar a comunidade e fomentar o \nconhecimento.  \n(D) O papel social das bibliotecas está restrito à \ndisseminação de informações acadêmicas e \ncientíficas, sem envolver atividades culturais.  \n(E) As bibliotecas são importantes para a \ncomunidade apenas no contexto acadêmico e não \ntêm impacto significativo em outras áreas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: A catalogação de livros é uma atividade crucial \npara a organização e administração eficaz dos \nacervos em bibliotecas. Para garantir uma \ncatalogação adequada, é necessário que o \nbibliotecário registre as seguintes informações \nsobre o livro:",
+            "alternativas": {
+                "A": "Título, Autor(es), Tradutor(es), Número da \nedição, Editor, Local, data de publicação, \nnúmero de páginas e ISBN da obra.",
+                "B": "Autor(es), Tradutor(es), Título, ano de \naquisição, número de páginas, e código de barras \nda obra.",
+                "C": "Título, Editor, Local, data de publicação, \ngênero literário, e número de exemplares \ndisponíveis na biblioteca.",
+                "D": "Título, Autor(es), Tradutor(es), Códigos de \nclassificação, número de páginas, e data de \nrevisão do catálogo.",
+                "E": "Título, Autor(es), Editora, Local de \npublicação, data de aquisição, e condição física \ndo livro.  QUESTÃO 37  \nAnalise as afirmativas abaixo, e assinale a \nalternativa que apresenta a sequência correta \nindicando V (Verdadeiro) ou F (Falso):  \nNão são objeto de proteção como direitos \nautorais:  \n( ) Os nomes e títulos conjuntamente;  \n( ) Os textos de tratados ou convenções, leis, \ndecretos, regulamentos, decisões extrajudiciais e \ndemais atos extra oficiais;  \n( ) Os esquemas, planos ou regras para realizar \natos mentais, jogos ou negócios.  \n(A) F, F, V.  \n(B) V, F, V.  \n(C) F, V, V.  \n(D) V, F, F.  \n(E) Nenhuma das alternativas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Um usuário da biblioteca apresenta uma \nreclamação informando que um livro adquirido \nestá danificado e solicita uma solução, como o \nreparo do livro ou a substituição por um \nexemplar em bom estado. Diante do caso em tela, \nqual dos seguintes passos deve ser i ncluído no \natendimento para garantir uma resolução \neficiente?",
+            "alternativas": {
+                "A": "Ignorar a reclamação do usuário e aguardar \naté que outros livros danificados sejam \nreportados antes de tomar qualquer ação.",
+                "B": "Solicitar ao usuário que devolva o livro \ndanificado e aguardar o retorno do item antes de \niniciar qualquer comunicação adicional ou \nsolução.",
+                "C": "Avaliar o dano do livro, oferecer uma solução \nimediata, como o reparo ou substituição do \nexemplar, e informar ao usuário com uma \ncomunicação clara e respeitosa sobre as etapas e \nprazos envolvidos no processo de resolução.",
+                "D": "Pedir ao usuário que procure uma empresa \nexterna especializada em reparo de livros e, \nsomente após o laudo, considerar a possibilidade \nde substituição ou reparo.",
+                "E": "Solicitar ao usuário que aguarde \nindefinidamente enquanto a biblioteca realiza \numa revisão completa do acervo.  \n \n Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE BIBLIOTECA                                                                                                                        Página 10 de 11 QUESTÃO 39  \nA primeira Biblioteca Pública oficial do Brasil \ndesempenhou um papel crucial na formação da \ncultura e da educação nacional. No contexto \nhistórico, onde foi estabelecida essa importante \ninstituição?  \n(A) Biblioteca Nacional de São Paulo.  \n(B) Biblioteca Nacional do Rio de Janeiro.  \n(C) Biblioteca Municipal de Salvador.  \n(D) Biblioteca Estadual de Minas Gerais.  \n(E) Biblioteca Estadual de Mato Grosso."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Para garantir a preservação adequada de um \nLivro e prolongar sua vida útil, é importante \nseguir práticas corretas ao manusear e armazenar. \nPortanto, observe as alternativas abaixo e \nassinale aquela que apresenta uma atitude que \nNÃO  contribui para a preservação dos livros e \npode, na verdade, causar danos ao material?",
+            "alternativas": {
+                "A": "Manter as mãos limpas ao manusear o livro, \npara evitar a transferência de sujeira e gordura \npara o papel.",
+                "B": "Manter o Livro em local úmido para garantir \nsua qualidade.",
+                "C": "Evitar consumir alimentos e bebidas perto \ndos livros para prevenir acidentes que podem \ndanificar o papel e atrair insetos.",
+                "D": "Utilizar marcadores de páginas em vez de \nfazer dobras nas folhas ou usar grampos \nmetálicos para marcar o texto.",
+                "E": "Transportar os livros com cuidado e protegê -\nlos da exposição direta ao sol e da umidade para \nmanter sua integridade.  \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n  Prefeitura Municipal de P araty  - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE BIBLIOTECA                                                                                                                        Página 11 de 11"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: 1 \nEm Poema Em Linha Reta, Álvaro Campos \ndirige uma crítica à/às:",
+            "alternativas": {
+                "A": "hipocrisia da sociedade contemporânea.",
+                "B": "pessoas que fingem ser melhores em tudo \ne não reconhecem seus erros.",
+                "C": "moralidade da sociedade moderna.",
+                "D": "pessoas de mente tacanha.",
+                "E": "falta de senso crítico das pessoas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: 2 \nUma característica marca a fala do autor na \nnarrativa. Qual é essa característica?",
+            "alternativas": {
+                "A": "animosidade.",
+                "B": "ironia.",
+                "C": "exagero.",
+                "D": "contingência.",
+                "E": "obliquidade.  \n \n \n \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE BIBLIOTECA                                                                                                                              Página 3 de 9 \n QUESTÃO 0 3 \nSobre o texto é correto afirmar que:  \nI – O eu poético sente -se injustiçado.  \nII – O eu poético trata da falsidade e hipocrisia \ndas pessoas.  \nIII – O eu poético sente, verdadeiramente, que \né o único que comete erros.  \n \n(A) Apenas II está correta.  \n(B) I e II estão corretas.   \n(C) II e III estão corretas.  \n(D) I, II e III estão corretas.  \n(E) I, II e III estão incorretas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: 4 \n No trecho “ Eu, que tenho sido cômico às \ncriadas de hotel  (...) o uso do acento indicativo \nde crase dá -se pela mesma regra que:",
+            "alternativas": {
+                "A": "Sua imagem veio à minha mente.",
+                "B": "Esteja pron to às treze horas.",
+                "C": "Entreguei meu coração àquela que sempre \namei.",
+                "D": "No verão, sinto -me feliz em ir à praia.",
+                "E": "Falei à beça, mas não quiseram escutar."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: 5 \nNo trecho “ Que confessasse não um pecado, \nmas uma infâmia  (..), o uso da vírgula:",
+            "alternativas": {
+                "A": "é prescindível.",
+                "B": "é obrigatória, pois a conjunção “mas” \nmarca uma oração coordenada adversativa.",
+                "C": "é facultativa, pois a conjunção “mas” \npossui valor aditivo.",
+                "D": "pode ser substituída por ponto final.",
+                "E": "está incorreta mente empregada, pois o \ncorreto seria a utilização de ponto e vírgula (;).  QUESTÃO 0 6 \nNo trecho “ Eu, que tenho sido vil, literalmente \nvil (...)”, a palavra em destaque estabelece \nrelação de sinonímia com:  \n(A) ignoto.  \n(B) ignóbil.   \n(C) ambíguo.  \n(D) lúgubre.  \n(E) mórbido."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: 7 \nDas alternativas abaixo, há erro ortográfico \nem:",
+            "alternativas": {
+                "A": "Seu corpo exsudava com o calor da minha \npele.",
+                "B": "Era preciso peneirar  a areia antes de usá -la.",
+                "C": "Ao presenciar a briga entre os jogadores, o \njuiz interviu.",
+                "D": "Bicarbonato de sódio é bom para má \ndigestão.",
+                "E": "A dor torácica pode ser consequência de \numa cardiopatia."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: 8 \nDas alternativas abaixo, qual apresenta \nINCORRETA colocação pronominal?",
+            "alternativas": {
+                "A": "Faça -me o favor de avisar quando sair.",
+                "B": "Quando eu man dar, retirem -no daqui.",
+                "C": "Afinal, deram -me uma boa notícia.",
+                "D": "Nunca o vi triste assim.",
+                "E": "Me mande notícias assim que puder.   \n \n \n \n \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE BIBLIOTECA                                                                                                                              Página 4 de 9 \n QUESTÃO 0 9 \nHá erro de concordância nominal em:  \n \n(A) Adoro as comidas francesa e italiana.  \n(B) Recebemos bastantes pedidos.  \n(C) As cartas seguem anexas ao e -mail.  \n(D) Verdura é bom para saúde.  \n(E) Para um bom relacionamento, paciência é \nnecessária."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: Qual palavra abaixo NÃO é formada pelo \nprocesso de derivação parassintética?",
+            "alternativas": {
+                "A": "Amadurecer.",
+                "B": "Apodrecer.",
+                "C": "Esquentar.",
+                "D": "Deslealmente.",
+                "E": "Enfileirar  \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: Para fazer uma torta grande, Juliana utiliza \ndois quilos de frango. Considerando essa \nproporção, se ela utilizar vinte e seis quilos de \nfrango, ela fará quantas tortas do mesmo \ntamanho:",
+            "alternativas": {
+                "A": "13.",
+                "B": "14.",
+                "C": "15.",
+                "D": "16.",
+                "E": "17."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: A fábrica de tecidos de Paulo produziu 50 \ntoneladas de tecidos, no mês de fevereiro. Já no \nmês de março a s produções aumentaram em \n40%. Daí, a quantidade em toneladas que foi \nfabricada, em março, é:",
+            "alternativas": {
+                "A": "74 toneladas.",
+                "B": "70 toneladas.",
+                "C": "68 toneladas.",
+                "D": "60 toneladas.",
+                "E": "55 toneladas.  QUESTÃO 13 \nNa turma do professor Gildo, sabe -se que dois \nalunos tiraram nota 10 na prova, cinco alunos \ntiraram nota 8, doze alunos tiraram nota 7 e \nvinte alunos tiraram nota 6. A razão entre o \nnúmero de alunos que tiraram nota 10, pelo \nnúmero de alunos que tiraram nota 8, é:  \n(A) 0,25.  \n(B) 0,4.  \n(C) 1.  \n(D) 1,75.  \n(E) 2,6.  \n \nQUESTÃ O 14 \nUm terreno de forma trapezoidal foi vendido. \nO mesmo possui medidas de: 5,6 m de base \nmaior, 4,8 m de base menor e altura de 8 m. \nDaí, a área desse terreno é:  \n(A) 94,6 𝑚2. \n(B) 83,2  𝑚2. \n(C) 47,3 𝑚2. \n(D) 41,6 𝑚2. \n(E) 38,1 𝑚2."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Antônio aplicou R$ 82 000,00 no regime de \njuros simples, a uma taxa de 3% ao mês. O \ntempo que essa quantia ficou aplicada foi de \ndois anos, então o montante recebido, após \nesse tempo, foi de:",
+            "alternativas": {
+                "A": "R$ 40 400,00",
+                "B": "R$ 59 040,00.",
+                "C": "R$ 122 400,00.",
+                "D": "R$ 141  040,00.",
+                "E": "R$ 162 900,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: Abaixo, estão expostas a quantidade de \ncrianças que cada família da rua de Sara, \npossui. Analisando os dados, é possível \nafirmar que a média de crianças, por família, é:  \n7  /  3  /  1  /  2  / 3  /  5  /  9  /  4  /  2  /  4",
+            "alternativas": {
+                "A": "3.",
+                "B": "4.",
+                "C": "5.",
+                "D": "6.",
+                "E": "7.  \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE BIBLIOTECA                                                                                                                              Página 5 de 9 \n QUESTÃO 17 \nO máximo divisor comum entre os números  \n1040 ; 2 064 ; 3 000, é:  \n(A) 2.  \n(B) 4.  \n(C) 5.  \n(D) 8.  \n(E) 15."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: A distância entre a rodoviária de uma cidade, \naté o hospital, na mesma, é de 5,6 Km. Caso \numa pessoa ande esse percurso, ela terá \nandando quantos metros, no total:",
+            "alternativas": {
+                "A": "0,56 m.",
+                "B": "5,6 m.",
+                "C": "56 m.",
+                "D": "560 m.",
+                "E": "5 600 m."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: Letícia desenhou em seu caderno dois ângulos. \nEla disse que os dois são complementares, \nentão é correto afirmar que eles, juntos, \nformam um ângulo de:",
+            "alternativas": {
+                "A": "245°.",
+                "B": "360°.",
+                "C": "180°.",
+                "D": "75°.",
+                "E": "90°."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: Dado o sistema de equação do primeiro grau, \nabaixo, é possível identificar que os valores de \n𝑋 e 𝑌, respectivamente, são:  \n \n2𝑥+3𝑦=17,5 \n𝑥−4𝑦=−5",
+            "alternativas": {
+                "A": "2 e 7.",
+                "B": "0 e 4.",
+                "C": "3,25 e 1,75.",
+                "D": "5 e 2,5.",
+                "E": "1,5 e 3.  \n \n \n \n \n \n ATUALIDADES"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: Em 24 de fever eiro de 2022, o presidente da \nRússia, Vladimir Putin, anunciou pela TV, \numa operação militar na região do Donbass, no \nleste da Ucrânia , iniciando um conflito entre \nessas nações. O presidente da Ucrânia é o ator \ne comediante:",
+            "alternativas": {
+                "A": "Leonid Kuchma .",
+                "B": "Viktor Yushchenko .",
+                "C": "Volodymyr Zelensky.",
+                "D": "Oleksandr Turchyno .",
+                "E": "Petro Poroshenko ."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: Por conta da ação de hacker, em dezembro de \n2021, o aplicativo ConecteSus, do Ministério \nda Saúde, ficou sem funcionar e voltou a \nnormalidade após:",
+            "alternativas": {
+                "A": "10 dias.",
+                "B": "11 dias.",
+                "C": "12 dias.",
+                "D": "13 dias.",
+                "E": "14 dias."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: A combinação de pandemia, baixo \ncrescimento econômico, inflação provoca o \navanço de uma tragédia , a fome. Segundo \nreportagem da revista Veja, em 06 de julho de \n2022, a porcentagem de brasileiros expostos a \nfome é de:",
+            "alternativas": {
+                "A": "33%.",
+                "B": "34%.",
+                "C": "35%.",
+                "D": "36%.",
+                "E": "37%.  \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE BIBLIOTECA                                                                                                                              Página 6 de 9 \n QUESTÃO 24 \nObserve a fotografia abaixo:  \n \nNa fotografia vemos o indigenista brasileiro \nassassinado no Vale do Javari, estado do \nAmazonas juntamente com o jornalista Dom \nPhillips, desaparecidos em 05 de junho de \n2022 e teve seus restos mortais encontrados em \n15 de junho do mesmo ano. Seu nome é:  \n(A) Chico Mendes.  \n(B) Bruno Pereira.  \n(C) Maxciel Pereira dos Santos . \n(D) Paulo Paulino Guajajara . \n(E) Reginaldo Al ves Barros ."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: Em 09 de junho de 2022, o primeiro caso de \nVaríola do Macaco foi confirmado no Brasil, \npor homem que viera de Portugal e Espanha. O \nprimeiro caso foi registrado no estado \nbrasileiro:",
+            "alternativas": {
+                "A": "Minas Gerais.",
+                "B": "Amazonas.",
+                "C": "Rio de Janeiro.",
+                "D": "Pernambuco.",
+                "E": "São Paulo.  \n \n NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: No MS Power Point 2016, .ppsx  representa:",
+            "alternativas": {
+                "A": "extensão modelo de arquivo para \napresentação de vídeos .",
+                "B": "extensão padrão do documento do \nPowerPoint para edição.",
+                "C": "arquivo do PowerPoint habilitado para \nmacros.",
+                "D": "extensão de apresentação de slides, ou seja, \no arquivo é aberto no modo de apresentação.",
+                "E": "cria, abre, edita e salva arquivos do \nLibreOffice Impress."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: Observe a imagem:  \n \nConsiderando o Microsoft Excel 2016, qual o \nresultado demonstrado pela fórmula aplicada?",
+            "alternativas": {
+                "A": "16.",
+                "B": "20.",
+                "C": "15.",
+                "D": "25.",
+                "E": "30.  \n \n \n \n \n \n \n \n \nPrefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE BIBLIOTECA                                                                                                                              Página 7 de 9 \n QUESTÃO 28 \n__________ é o que especifica a localização \ndos documentos, objetos, ligações, referências \ne programas executáveis , na rede Internet  \nAssinale a alternativa que preenche, \ncorretamente, a lacuna do texto:  \n \n(A) IP.  \n(B) URL.  \n(C) ODT.  \n(D) DNS.  \n(E) Site,"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: No Windows 7, as Notas Autoadesivas:",
+            "alternativas": {
+                "A": "São lembretes que ficam pendurados na \nÁrea de trabalho do Windows.",
+                "B": "Aplicativo que possibilita a conexão com \noutros computadores remotamente, desde que \nse obedeçam às permissões.",
+                "C": "Aplicativo que permite a conexão \nfacilitada a um projetor para exibição da tela \nem ambientes apropriados, tais como \nauditórios, salas de reunião, salas de \ntreinamento etc.",
+                "D": "Aplicativo para edição de imagens, além \nde permitir criá -las.",
+                "E": "Ampliam partes diferentes da tela. Esse \nrecurso é útil para a exibição de partes difíceis \nde ver."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: CTRL X é o atalho do MS Word 2016 para:",
+            "alternativas": {
+                "A": "Copiar um texto selecionado.",
+                "B": "Desfazer ações.",
+                "C": "Refazer ações.",
+                "D": "Recortar um texto selecionado.",
+                "E": "Salvar um documento.  CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: Sobre os sinais e símbolos da CDU, relação \nsimples é representado por:",
+            "alternativas": {
+                "A": ":",
+                "B": "/",
+                "C": "+",
+                "D": "[]",
+                "E": "::"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: Sobre os sinais e símbolos da CDU, \nsubagrupamento é representado por:",
+            "alternativas": {
+                "A": ":",
+                "B": "/",
+                "C": "+",
+                "D": "[]",
+                "E": "::"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: A ABNT NBR 14724:2011 denomina a \nrepresentação de uma palavra por meio de \nalguma(s) de sua(s) sílaba(s) ou letra(s)  como:",
+            "alternativas": {
+                "A": "codificação.",
+                "B": "abreviatura.",
+                "C": "catalogação.",
+                "D": "escopo.",
+                "E": "elemento.  \n \n \n \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE BIBLIOTECA                                                                                                                              Página 8 de 9 \n QUESTÃO 34 \nA ABNT NBR 14724:2011  define citação \ncomo:  \n \n(A) texto ou documento elaborado pelo autor, \na fim de complementar sua argumentação, sem \nprejuízo da unidade nuclear do trabalho.  \n(B) texto ou documento não elaborado pelo \nautor, que serve de fundamentação, \ncomprovação e ilustração.  \n(C) registro das informaçõ es que identificam a \npublicação na sua situação atual.  \n(D) texto em que o autor presta homenagem ou \ndedica seu trabalho.  \n(E) menção, no texto, de uma informação \nextraída de outra fonte."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: _________ é o texto em que o autor apresenta \numa citação, s eguida de indicação de autoria, \nrelacionada com a matéria tratada no corpo do \ntrabalho.  \nAssinale a alternativa que preenche, \ncorretamente, a lacuna do texto:",
+            "alternativas": {
+                "A": "elemento textual.",
+                "B": "elemento pré -textual.",
+                "C": "elemento pós -textual.",
+                "D": "epígrafe.",
+                "E": "disse rtação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 27: Dos Métodos de arranjo de documentos, é \nmétodo por critério externo:",
+            "alternativas": {
+                "A": "ano da aquisição.",
+                "B": "ano da publicação.",
+                "C": "idioma.",
+                "D": "número de acesso.",
+                "E": "tipo de encadernação.  QUESTÃO 37 \nDe acordo com Broughton  (2004), a \nlocalização fixa era um sistema de organização \ndos livros em bibliotecas em que as estantes ou \narmários eram numerados, podendo, também, \nserem usadas letras, e os livros eram \norganizados de acordo com esse código. \nGeralmente, o sistema de número s de chamada \nfixo era constituído por três elementos, sendo \neles: \nI - Número da estante (possivelmente um \nalgarismo romano ou arábico ou letra).  \nII - Marca denotando a prateleira \n(possivelmente letra ou algarismo).  \nIII - Número de entrada (normalmente, \nalgarismo arábico) ou a posição do livro na \nprateleira.  \nÉ correto o que se afirma em:  \n(A) I, apenas.  \n(B) I e II, apenas.  \n(C) II e III, apenas.  \n(D) III, apenas.  \n(E) I, II e III."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 28: É a teoria de Organização e Administração de \nbibliotecas que tem como p aradigma a \n“galáxia de Gutenberg”, alicerçada no livro e \nna biblioteca discutida por Audin em 1972 \n(apud CHARTIER, 1997) e complementada \npela teoria do livro como monumento discutida \npor Roche (apud CHARTIER, 1995), à luz da \nsociedade da informação (inform ação \ndisseminada) e da sociedade de leitores (a \ngarantia de acesso) :",
+            "alternativas": {
+                "A": "A teoria do “caos documentário”.",
+                "B": "A teoria do desenvolvimento de coleções .",
+                "C": "A teoria da organização do conhecimento.",
+                "D": "A teoria da biblioteca enciclopédica, aberta \ne universal.",
+                "E": "A teoria do crescimento exponencial do \nacervo versus o crescimento aritmético do uso.  Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nAUXILIAR DE BIBLIOTECA                                                                                                                              Página 9 de 9 \n QUESTÃO 39 \nSobre os tipos de documentos jurídicos, não se \nclassifica como jurisprudência:  \n \n(A) doutrinas.  \n(B) súmulas.  \n(C) acórdãos.  \n(D) sentenças.  \n(E) enunciados."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE BIBLIOTECA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 29: A citação longa tem mais de três linhas. \nSeguindo as regras estabelecidas pela ABNT, \numa citação direta longa deve ser inserida num \nparágrafo diferente do texto anterior.  \nSobre as regras para citações longas, responda \nverdadeiro (V) ou  falso (F) e assinale a \nalternativa que traz a sequência correta:  \n(__) Fonte tamanho 7, menor que o restante do \ntexto.  \n(__) Recuo de 4cm da margem direita.  \n(__) Espaço de 1,5 cm entre o texto e a citação; \nEspaçamento simples nas entrelinhas.",
+            "alternativas": {
+                "A": "V – V – V.",
+                "B": "V – F – V.",
+                "C": "F – V – V.",
+                "D": "F – F – V.",
+                "E": "F – F – F."
+            },
+            "resposta_correta": "A"
+        }
+    ]
+}

@@ -1,3 +1,424 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d17ee47512d41dfb30ef32f1b69a7fde8adc0060fc280ca7e2cdfbd47a3a9b81
-size 24281
+{
+    "GARI": [
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: VERGONHA PARCELADA  \n(Gregório Duvivier)  \n \nNÃO ESTRANHE se você me vir levando as \nmãos ao rosto no meio da rua e gritando \ncomigo mesmo: \"Não! Não, Gregorio! Por que \nvocê fez isso, cara?\". Sofro de uma síndrome \ncomum: a da vergonha parcelada. Algumas \nsituações me causam tanto embaraço que pago \npor e las a vida inteira. A cada vez que uma \nvergonha antiga me vem à cabeça, sofro como \nse fosse a primeira vez que estivesse sofrendo.  \nNão parecem vergonhas monumentais, são \nvergonhas ridículas - mas é isso o que faz delas \nmonumentais. Exemplo: no aeroporto de  \nCongonhas, pedi um café. \"Carioca?\" - a moça \nperguntou. \"Sou\", respondi, achando que ela \nqueria saber minha procedência.  \nA moça pensou que eu tinha feito uma \npiadinha péssima e retribuiu. Tive vontade de \nme esconder debaixo dos bancos do salão de \nembarque  pelo simples fato de que alguém no \nmundo tinha achado que eu era uma pessoa que \nfaria aquele tipo de piada. Até hoje, só passo \nem frente à Casa do Pão de Queijo de \nCongonhas com uma mochila escondendo o \nrosto.  \nOutro dia, chovia a cântaros - deve fazer um \nbom tempo, porque faz um bom tempo que não \nchove a cântaros. Acenava desesperadamente \npara os táxis, em frente ao Shopping da Gávea. \nEis que um sujeito surge e começa a fazer o \nmesmo, alguns passos à minha frente. Todo ser \nhumano civilizado sabe que, a par tir do \nmomento em que uma pessoa acena para os \ntáxis, os outros candidatos têm que se \nposicionar atrás dela. Na frente, nunca. \nRevoltado, intercedi: \"Amigo, desculpa, \ncheguei antes\". Ao que ele respondeu, \nhumilde: \"Tô chamando táxi pra você. Sou \nsegurança do shopping\". E conseguiu um táxi, \ne abriu a porta pra mim, e eu entrei, e ele bateu \na porta, e junto com a porta se abateu sobre \nmim o peso da miséria humana  Encontrei um amigo de longa data. Não \nlembrava seu nome, e ainda hoje não lembro - \ntalvez fosse M arcelo. Consegui disfarçar \nchamando o amigo de   brother, até que sua \nnamorada me perguntou: \"Há quanto tempo \nvocê conhece o Marcelo?\". Respondi: \n\"Desculpa, não sei de quem você tá falando\". \nO Marcelo em questão, perplexo, me \nobservava com um misto de trist eza pelo \nesquecimento e espanto pela minha estupidez.  \nEnquanto escrevo essa crônica, algumas vezes \nprecisei interromper a digitação para levar as \nmãos ao rosto e exclamar, em voz alta: \"Não! \nNão, Gregorio! Por que você fez isso, cara?\".  \n \nQUESTÃO 0 1 \nNa crônica , acim a, quantas histórias são \ncontadas pelo autor?",
+            "alternativas": {
+                "A": "Duas.",
+                "B": "Três.",
+                "C": "Quatro.",
+                "D": "Cinco.",
+                "E": "Apenas uma."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: 2 \nSobre o texto, é correto afirmar que:  \nI – Em dado momento, Duvivier afirma ser do \nRio de Janeiro.  \nII – O segurança do shopping quis ajudar \nDuvivier.  \nIII – “Brother” é a forma costumeira que o \nautor usava para tratar seu amigo de infância.  \nIV – O autor não se lembrava do nome do \namigo de infância.",
+            "alternativas": {
+                "A": "Apenas I e II estão corretas.",
+                "B": "Apenas II e III estão corretas.",
+                "C": "Apenas III e IV estão corretas.",
+                "D": "Apenas I, II e IV estão corretas.",
+                "E": "Apenas II, III e IV estão corretas.  Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nGARI                                                                                                                                                                 Página 3 de 7 QUESTÃO 0 3 \nQual o ponto de conexão entre as narrativas \napresentadas, na crônica?  \n \n(A) Todas elas acontecem no mesmo lugar.  \n(B) Atitudes das quais o autor envergonha -se.  \n(C) Todas elas acontecem ao mesmo tempo.  \n(D) O autor fala sobre todas elas com nostalgia.  \n(E) Acontecimentos imprevisíveis."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: 4 \n Qual o significado da expressão “ chovia a \ncântaros ”, presente no quarto parágrafo?",
+            "alternativas": {
+                "A": "Chovia muito.",
+                "B": "Chovia pouco.",
+                "C": "Chovia e parava.",
+                "D": "Chovia somente em alguns pontos.",
+                "E": "Chovia fino."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: 5 \nO texto apresentado trata -se de uma crônica, \ncomo pode ser percebido, na seguinte \ncaracterística:",
+            "alternativas": {
+                "A": "Apresenta a moral da história.",
+                "B": "Os personagens são fictícios.",
+                "C": "Os fatos narrados não possuem lógica.",
+                "D": "Os fatos narrados apresentam situações do \ncotidiano.",
+                "E": "Trata -se de um texto jornalístico.  \n \n \n \n \n \n QUESTÃO 0 6 \nEm: “a  cada vez que uma vergonha antiga me \nvem à cabeça ” temos correto uso da crase. O \nmesmo se dá em:   \n \n(A) Fui à pé para casa.  \n(B) Ontem andei à cavalo.  \n(C) Estava à pou cos metros de distância.  \n(D) Escrevi a carta à lápis.  \n(E) Hoje não fui à escola."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: 7 \nEm: “ Não parecem vergonhas monumentais , \nsão vergonhas ridículas ” a palavra em destaque \nestabelece relação de sinonímia com:",
+            "alternativas": {
+                "A": "imperceptível.",
+                "B": "inócua.",
+                "C": "enorme.",
+                "D": "irrelevante.",
+                "E": "insignificante."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: 8 \nNo trecho “ \"Sou\", respondi, achando que ela \nqueria saber minha procedência .” Temos em \ndestaque, respectivamente:",
+            "alternativas": {
+                "A": "Pronome demonstrativo e substantivo.",
+                "B": "Pronome possessivo e substantivo.",
+                "C": "Substantivo e adjetivo.",
+                "D": "Advérbio e verbo.",
+                "E": "Substantivo e verbo.  \n \n \n \n \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nGARI                                                                                                                                                                 Página 4 de 7 QUESTÃO 0 9 \nEm: “ outros candidatos têm que se posicionar \natrás dela ” a acentuação da palavra em \ndestaque dá -se pela mesma regra que:  \n \n(A) Os ônibus  estão velhos.  \n(B) No âmbito  do texto, situamos os \npersonagens.  \n(C) Pela manhã, chegaram as \ncorrespondências.   \n(D) Amanhã os alunos vêm à aula.   \n(E) A âncora  segura o navio"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: No trecho “Revoltado, intercedi: \"Amigo, \ndesculpa, cheguei antes.”, o uso dos dois \npontos dá -se porque:",
+            "alternativas": {
+                "A": "Introduz uma fala.",
+                "B": "Inicia uma enumeração.",
+                "C": "Introduz um exemplo.",
+                "D": "Inicia a citação de outro autor.",
+                "E": "Nenhuma das alternativas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: Há erro de concordância em:",
+            "alternativas": {
+                "A": "Gabriela e eu fomos ao supermercado.",
+                "B": "Nenhum de nós trazia casaco.",
+                "C": "Fomos aos Estados Unidos nas férias.",
+                "D": "Vendem -se ovos caipiras.",
+                "E": "Fazem dez anos que saí da faculdade.   \n \n \n \n \n QUESTÃO 12 \nA palavra pedregulho é um:  \n \n(A) Substantivo primitivo.  \n(B) Substantivo superlativo.  \n(C) substantivo derivado.   \n(D) Substantivo composto.  \n(E) Substantivo abstrato."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: Na frase “Joana comeu demasiadamente  no \njantar”, em destaque temos um advérbio de:",
+            "alternativas": {
+                "A": "intensidade.",
+                "B": "tempo.",
+                "C": "lugar.",
+                "D": "modo.",
+                "E": "afirmação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Na frase “Não entendia ou fingia não \nentender”, temos em destaque uma conjunção:",
+            "alternativas": {
+                "A": "Aditiva.",
+                "B": "Alternativa.",
+                "C": "Explicativa.",
+                "D": "Conclusiva.",
+                "E": "Adversativa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: Na frase “As mulheres foram colocadas em \nfila” temos em destaque uma preposição de:",
+            "alternativas": {
+                "A": "Lugar.",
+                "B": "Tempo.",
+                "C": "Modo.",
+                "D": "Distância.",
+                "E": "Finalidade.  \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nGARI                                                                                                                                                                 Página 5 de 7 QUESTÃO 16 \nPassando a frase “João divide a cama comigo” \npara o pretérito mais -que-perfeito do \nindicativo teremos:  \n(A) João dividirá a cama comigo.  \n(B) João dividiu a cama co migo.  \n(C) João dividiria a cama comigo.  \n(D) João dividira a cama comigo.  \n(E) João dividia a cama comigo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Em “ Esta bicicleta é da minha irmã.” a palavra \nem destaque é um pronome:",
+            "alternativas": {
+                "A": "Possessivo.",
+                "B": "Demonstrativo.",
+                "C": "Indefinido.",
+                "D": "Relativo.",
+                "E": "Interrogativo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: “Vossa Alteza” é um pronome de tratamento \nutilizado para se dirigir a/ao:",
+            "alternativas": {
+                "A": "Papa.",
+                "B": "Presidente da República.",
+                "C": "Reis.",
+                "D": "Príncipes.",
+                "E": "Cardeais."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: Das frases, abaixo, apresentadas, há presença \nde numeral em:",
+            "alternativas": {
+                "A": "Comi apenas um biscoito.",
+                "B": "Em um tempo como este, é muito bom sair.",
+                "C": "Falei umas  verdades para ela.",
+                "D": "Enquanto uns riem, outros choram.",
+                "E": "Preciso consultar um astrólogo.  QUESTÃO 20 \nA palavra “sagaz” possui relação de antonímia \ncom:  \n \n(A) esperto.  \n(B) perspicaz.  \n(C) arguto.  \n(D) palerma .  \n(E) astuto.  \nMATEMÁTICA E  RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: Um computador custava R$ 1 500,00. Em \ndezembro, o mesmo teve desconto de 12%. \nEntão, seu novo valor passou a ser de:",
+            "alternativas": {
+                "A": "R$ 1 .105,00.",
+                "B": "R$ 1 .268,00.",
+                "C": "R$ 1 .410,00.",
+                "D": "R$ 1 .320,00.",
+                "E": "R$ 1 .210,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: Um tanque estava completo com água. \nSabendo que seu volume é de 30 𝑚3, então, \nquantos litros o mesmo possui?",
+            "alternativas": {
+                "A": "3 000 litros.",
+                "B": "30 .000 litros.",
+                "C": "300 litros.",
+                "D": "0,003 litros.",
+                "E": "0,000003 litros."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: A quantidade de casas que o pai de Lavínia \npossui, é um antecessor no número 10. Então, \nessa quantidade é:",
+            "alternativas": {
+                "A": "11.",
+                "B": "12.",
+                "C": "8.",
+                "D": "9.",
+                "E": "10.  \n \n \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nGARI                                                                                                                                                                 Página 6 de 7 QUESTÃO 24 \nA idade da avó de Sara é um múltiplo de 5, \nentão, sua idade é:  \n \n(A) 72.  \n(B) 84.  \n(C) 89.  \n(D) 95.  \n(E) 102."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: Um edredom custa R$ 200,00 em uma loja. No \ninverno, o mesmo teve aumento de 15%. \nEntão, seu valor passou a ser de:",
+            "alternativas": {
+                "A": "R$ 206,00.",
+                "B": "R$ 215,00.",
+                "C": "R$ 225,00.",
+                "D": "R$ 230,00.",
+                "E": "R$ 243,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: Foram compradas 256 camisas para dividir \nentre 16 crian ças, de forma que cada uma \nrecebesse a mesma quantidade de peças. \nEntão, cada criança recebeu:",
+            "alternativas": {
+                "A": "16 camisas.",
+                "B": "14 camisas.",
+                "C": "12 camisas.",
+                "D": "8 camisas.",
+                "E": "10 camisas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: Uma bailarina treina durante vinte e três \nminutos por dia. Se ela tiver treinado, \ndezessete dias, ela terá treinado quantos \nminutos no total?",
+            "alternativas": {
+                "A": "360 minutos.",
+                "B": "372 minutos.",
+                "C": "380 minutos.",
+                "D": "391 minutos.",
+                "E": "400 minutos.  \n \n \n \n \n \n QUESTÃO 28 \nHelena faz brinquedos para doação. Em um \ndia, ela fez oito brinquedos, no seg undo dia fez \ndoze brinquedos, no terceiro dia vinte \nbrinquedos e no quarto dia sete brinquedos. O \ntotal de brinquedos que ela fez é:  \n \n(A) 55.  \n(B) 50.  \n(C) 47.  \n(D) 42.  \n(E) 39."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: Um tênis custa R$ 800, 00. O pai de Antônio \nlhe deu 60% do valor do mesmo para comprá -\nlo. Então, a quantia que faltou para Antônio \ncomprar esse tênis é:",
+            "alternativas": {
+                "A": "R$ 480,00.",
+                "B": "R$ 460,00.",
+                "C": "R$ 390,00.",
+                "D": "R$ 320,00.",
+                "E": "R$ 280,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: Em um estacionamento havia 30 ônibus. \nPassando -se algumas horas, ficaram apenas 19 \nônibus. Então, a quantidade de ônibus que \nsaíram foi:",
+            "alternativas": {
+                "A": "14.",
+                "B": "11.",
+                "C": "9.",
+                "D": "7.",
+                "E": "5."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: Uma garotinha precisou tomar 1 500 ml de \nsoro. Essa quantidade em litros, é:",
+            "alternativas": {
+                "A": "1 500 litros.",
+                "B": "150 litros.",
+                "C": "1,5 litros.",
+                "D": "15 litros.",
+                "E": "0,0015 litros.  \n \n \n \n Prefeitura  Municipal de Laranjal Paulista  - SP – Concurso Público  01/2022                   INSTITUTO AVANÇA SÃO PAULO  \n \n \nGARI                                                                                                                                                                 Página 7 de 7 QUESTÃO 32 \nUm galo após ser morto, foi pesado. Seu peso \nconstou 4,2 Kg. Esse peso, em g, é:  \n \n(A) 4,2 g.  \n(B) 42 g.  \n(C) 420 g.  \n(D) 4 200 g.  \n(E) 42 000 g."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: Um bebê quando nasceu possuía comprimento \nde 0,49 m. Esse comprimento, em cm, é:",
+            "alternativas": {
+                "A": "4 900 cm.",
+                "B": "490 cm.",
+                "C": "49 cm.",
+                "D": "4,9 cm.",
+                "E": "0,0049 cm."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: A padaria de Selma faz 800 pães de sal por dia. \nSe ela quiser aumentar essa fabricação em \n20%, quantos pães deverá fazer a mais:",
+            "alternativas": {
+                "A": "145 pães.",
+                "B": "160 pães.",
+                "C": "170 pães.",
+                "D": "200 pães.",
+                "E": "229 pães."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: Para pagar os remédios que comprou, Lais deu \nao caixa R$ 300,00. Sabendo que suas compras \nficaram em R$ 276,25, então o troco que ela \nrecebeu foi:",
+            "alternativas": {
+                "A": "R$ 30,00.",
+                "B": "R$ 28,05.",
+                "C": "R$ 25,00.",
+                "D": "R$ 23,75.",
+                "E": "R$ 19,75."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 27: Das alternativas, a que representa um divisor \ndo número 84 é:",
+            "alternativas": {
+                "A": "9.",
+                "B": "6.",
+                "C": "5.",
+                "D": "13.",
+                "E": "15.  \n QUESTÃO 37 \nA quantidade de cadeiras que tinha no \naniversário de Pedro é um múltiplo do número \n8. Das alternativas, a que representa essa \nquantidade é:  \n \n(A) 250.  \n(B) 260.  \n(C) 273.  \n(D) 280.  \n(E) 305."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 28: O antecessor do número 4006 é:",
+            "alternativas": {
+                "A": "4 .007.",
+                "B": "4 .006.",
+                "C": "4 .005.",
+                "D": "4 .004.",
+                "E": "4 .003."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 29: O dia de nascimento de Olívia é o sucessor da \ndata de nascimento de Aline. Sabendo que \nAline nasceu dia 8 de julho, então Olívia \nnasceu no dia:",
+            "alternativas": {
+                "A": "7 de julho.",
+                "B": "8 de julho.",
+                "C": "9 de julho.",
+                "D": "10 de julho.",
+                "E": "11 de julho."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "GARI",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 30: Das alternativas abaixo, qual apresenta um \nnúmero inteiro:",
+            "alternativas": {
+                "A": "0,345.. .",
+                "B": "– 0,216...",
+                "C": "0,00578...",
+                "D": "0.",
+                "E": "0,006."
+            },
+            "resposta_correta": "B"
+        }
+    ]
+}

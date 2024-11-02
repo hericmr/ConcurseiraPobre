@@ -1,3 +1,1922 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72da076f5b95a6823f82033c9de2d3c96a177d910cffeccaf665a68a34984e94
-size 141892
+{
+    "AJUDANTE GERAL": [
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, qual a concepção de \nconsumerismo dentro da esfera social?",
+            "alternativas": {
+                "A": "Movimento voltado para a ampliação dos \ndireitos dos consumidores.",
+                "B": "Movimento voltado para a proteção dos \ndireitos dos consumidores.",
+                "C": "Movimento voltado para assegurar a \nrecapitulação dos direitos dos consumidores.",
+                "D": "Movimento voltado para a derrelição dos \ndireitos dos consumidores.",
+                "E": "Movimento voltado para a gestão dos direitos \ndos consumidores. QUESTÃO 02 \nAo analisar o nível de esforços a serem \nempregados em prol da consecução do \nconsumerismo, depreende-se que o esforço é:  \n(A) global unificado \n(B) coletivo bilateral \n(C) global organizado \n(D) sistêmico multifocal \n(E) coletivo primário"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: No contexto brasileiro, as primeiras iniciativas \nconsumeristas são marcadas por um período de:",
+            "alternativas": {
+                "A": "Aumento dos preços dos alimentos.",
+                "B": "Escassez de alimentos.",
+                "C": "Baixa demanda de alimentos.",
+                "D": "Alta demanda de alimentos.",
+                "E": "Incompatibilidade dos valores apurados pela \nbalança de produção alimentícia."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Retome o último parágrafo, destaque a relação \nque a conjunção estabelece no referido trecho do \ntexto.",
+            "alternativas": {
+                "A": "conformidade",
+                "B": "causa",
+                "C": "concessão",
+                "D": "comparação",
+                "E": "adversidade \n \n \n \n \n \n \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nAJUDANTE GERAL                                                                                                                                       Página 3 de 10 QUESTÃO 05 \nAs figuras de linguagem são palavras ou \nexpressões que destoam da linguagem \ndenotativa, logo pertencem à linguagem \nfigurada. Elas podem ser classificadas como \nsemânticas, de pensamento, de sintaxe ou de \nsom. \nLeia novamente o segundo parágrafo e marque a \nfigura de linguagem que se encontra presente \nnaquele trecho do texto em análise. \n(A) Perífrase \n(B) Metonímia \n(C) Litotes \n(D) Eufemismo \n(E) Anáfora"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Observe o excerto abaixo, extraído do texto \nanterior: \n[...] resulta de dissensão de poder entre \nvendedores e compradores no mercado e da \nconsequente insatisfação dos compradores. \nA seguir, foram elencados alguns sinônimos da \npalavra grifada, afora:",
+            "alternativas": {
+                "A": "divergência",
+                "B": "dissídio",
+                "C": "controvérsia",
+                "D": "dissidência",
+                "E": "anuência"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Destaque a alternativa que não traz nenhum erro \nde concordância verbal.",
+            "alternativas": {
+                "A": "Assistem-se a movimentos feministas \nespalhados pelo mundo.",
+                "B": "Seis meses são muito tempo de espera por \numa vaga de emprego.",
+                "C": "Uma e outra resolução tratam da mesma \nquestão criminal.",
+                "D": "Minha dúvida é os casos expressivos de \ndengue pelo país.",
+                "E": "Viu-as vacilarem com os problemas \nfinanceiros. \n QUESTÃO 08 \nEm qual das alternativas abaixo é possível \nobservar um erro de regência? \n(A) Todos anuíram aquela conduta incorreta. \n(B) Aspiramos o ar puro da fazenda, cheiro de \nleite, feno e mel. \n(C) O vigia atendeu o telefone de forma \ninadvertida. \n(D) O professor atendeu ao pedido do aluno. \n(E) A ata consta de cinco partes fundamentais."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Observe as orações abaixo, destaque a alternativa \nque apresenta um erro de pontuação.",
+            "alternativas": {
+                "A": "Chegou a Belo Horizonte, visitou o centro \nhistórico, conheceu o Jardim Zoológico e voltou \npara casa muito feliz.",
+                "B": "A festa de aniversário, creio eu, deverá ser \numa reunião familiar.",
+                "C": "O gato, que é um felino, deve ser castrado.",
+                "D": "As regras, em quaisquer circunstâncias, não \npodem ser quebradas; mesmo em caso de \ndivergências, portanto, elas devem ser \nrespeitadas.",
+                "E": "Como foi a festa? Sem dúvida, todos amaram \nmuito."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise o emprego dos pronomes demonstrativos \nnos enunciados abaixo. Destaque a alternativa \nincorreta.",
+            "alternativas": {
+                "A": "A proposta foi assinada nesse final de \nsemana (tempo passado).",
+                "B": "A professora iniciou a aula com esta \ninformação: a partir de amanhã, as aulas \nterminarão mais tarde.",
+                "C": "As regras apresentadas nesta prova devem ser \ncumpridas.",
+                "D": "O relatório já foi concluído. Este documento \ndeverá ser enviado imediatamente.",
+                "E": "O Brasil foi descoberto em 1500. Naquela \népoca, o país era dominado pelos indígenas. \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nAJUDANTE GERAL                                                                                                                                       Página 4 de 10 QUESTÃO 11 \nEm relação ao emprego das expressões grifadas, destaque a alternativa que se refere ao sinôn imo entre \nparênteses. \n(A) Ao em vez de aumentar os salários, a empresa reduziu a carga horária. (ao contrário de) \n(B) O real não está a par do euro. (ter valor equivalente/ de acordo com uma convenção) \n(C) Naquela situação, o arresto é inafiançável. (caso jurídico julgado) \n(D) Avocou a si culpas de seus subordinados. (atribuir-se) \n(E) Ele trabalha em qual sessão da empresa? (setor, departamento)"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Em qual alternativa, a colocação pronominal não foi devidamente construída?",
+            "alternativas": {
+                "A": "Tudo me parece tão complicado.",
+                "B": "Aqui se come muito bem.",
+                "C": "Por amarem-se muito, decidiram construir uma vida a dois.",
+                "D": "Em se tratando de crianças, todo carinho é pouco.",
+                "E": "Estou aqui para dar-te o meu melhor."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Em observância às regras acerca do emprego da crase, destaque a alternativa correta.",
+            "alternativas": {
+                "A": "Permanecerei na empresa até às 17 horas, pois tenho um compromisso.",
+                "B": "Quero demonstrar todo o meu respeito à Vossa Senhoria.",
+                "C": "Paula é a única à quem devo toda a minha consideração.",
+                "D": "Os namorados ficaram à bordo do navio, sonhando com o futuro que teriam juntos.",
+                "E": "Ele retorna a casa todos os dias esgotado."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Observe a charge abaixo: \n \n          Fonte: Google charges, 2024. \nComo Isaías interpretou o pedido de seu amigo?",
+            "alternativas": {
+                "A": "Sentido literal",
+                "B": "Sentido conotativo",
+                "C": "Sentido figurado",
+                "D": "Sentido impróprio",
+                "E": "Sentido não dicionarizado \nFundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nAJUDANTE GERAL                                                                                                                                       Página 5 de 10 QUESTÃO 15 \nTodos os advérbios abaixo são classificados \ncomo advérbio de modo, afora:  \n(A) ao léu  \n(B) debalde \n(C) à toa \n(D) em silêncio \n(E) deveras \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Considere a sequência: A, 3, B, 6, C, 9, (...). Qual \né o 12º termo dessa sequência?",
+            "alternativas": {
+                "A": "18",
+                "B": "F",
+                "C": "21",
+                "D": "15",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Um fazendeiro está planejando uma colheita e \ndecide plantar sementes em um padrão \nespecífico. No primeiro dia, ele planta 5 \nsementes e a cada dia seguinte, ele planta o dobro \nda quantidade do dia anterior. Se ele continuar \nesse padrão por 3 dias, quantas sementes ele terá \nplantado ao final do período?",
+            "alternativas": {
+                "A": "15 sementes",
+                "B": "25 sementes",
+                "C": "30 sementes",
+                "D": "35 sementes",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Assinale a alternativa que apresenta o décimo \noitavo número ímpar antecessor de 51:",
+            "alternativas": {
+                "A": "33",
+                "B": "31",
+                "C": "35",
+                "D": "15",
+                "E": "13 QUESTÃO 19 \nUma editora leva aproximadamente 18 minutos \npara revisar um capítulo de um livro. Ela precisa \nrevisar 5 capítulos de um livro recém-\nmanuscrito. Supondo que o tempo de revisão de \ncada capítulo seja de 18 minutos, quantas horas a \neditora levará para revisar todos os 5 capítulos? \n \n(A) 1 horas e 50 minutos \n(B) 2 horas e 18 minutos \n(C) 1 horas e 30 minutos \n(D) 3 horas \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Ana está comprando materiais para pintar sua \nsala. Ela precisa de 8 latas de tinta, cada uma \ncustando R$ 32,50. Quanto Ana gastará na \ncompra das latas de tinta?",
+            "alternativas": {
+                "A": "R$ 240,00",
+                "B": "R$ 260,00",
+                "C": "R$ 270,00",
+                "D": "R$ 280,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Um restaurante oferece descontos especiais para \nclientes que possuem um cupom promocional. Se \n25% dos clientes que frequentam o restaurante \nutilizam esse cupom, e o restaurante atende em \nmédia 120 clientes por dia, quantos clientes por \ndia não utilizam o cupom promocional e pagam \no preço regular pelos pratos?",
+            "alternativas": {
+                "A": "90 clientes",
+                "B": "95 clientes",
+                "C": "100 clientes",
+                "D": "105 clientes",
+                "E": "Nenhuma das alternativas \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nAJUDANTE GERAL                                                                                                                                       Página 6 de 10 QUESTÃO 22 \nUm professor está organizando uma biblioteca e \ndecide categorizar os livros em prateleiras de \nacordo com um padrão específico. Na primeira \nprateleira, ele coloca 8 livros e a cada prateleira \nsubsequente, ele adiciona o dobro da quantidade \nda prateleira anterior. Se ele continuar esse \npadrão por 4 prateleiras, quantos livros ele terá \norganizado ao final desse período? \n \n(A) 64 livros \n(B) 48 livros \n(C) 56 livros \n(D) 120 livros \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Uma caixa de cereal contém 600 gramas. \nQuantos quilogramas de cereal há nessa caixa?",
+            "alternativas": {
+                "A": "0,6 quilogramas",
+                "B": "6.000 quilogramas",
+                "C": "0,60 quilogramas",
+                "D": "0,066 quilogramas",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Renato tinha um cofre com algumas notas e \nmoedas. Ao abri-lo, ele encontrou 15 notas de R$ \n20,00 e 25 notas de R$ 10,00. Além disso, havia \ntambém 50 moedas de R$ 0,50 e 75 moedas de \nR$ 0,10. Qual é o valor total que Renato tinha no \ncofre?",
+            "alternativas": {
+                "A": "R$ 300,00",
+                "B": "R$ 5570,13",
+                "C": "R$ 582,50",
+                "D": "R$ 630,25",
+                "E": "Nenhuma das alternativas \n \n \n \n QUESTÃO 25 \nAssinale a alternativa que apresenta o \nquinquagésimo número par sucessor de 50: \n(A) 50 \n(B) 100 \n(C) 150 \n(D) 250 \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Em uma padaria, uma pessoa compra cinco cafés \nexpressos e dois croissants, gastando no total R$ \n35,00. Se o preço de um café expresso é \ndesconhecido e o preço de um croissant é de R$ \n5,00, qual é o preço de um café expresso?",
+            "alternativas": {
+                "A": "R$ 5,00",
+                "B": "R$ 6,00",
+                "C": "R$ 8,00",
+                "D": "R$ 10,00",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Em uma loja de tecnologia, um óculos de \nrealidade virtual está com desconto de 15% sobre \no preço original de R$ 800,00. Qual é o preço do \nóculos de realidade virtual com o desconto \naplicado?",
+            "alternativas": {
+                "A": "R$ 780,00",
+                "B": "R$ 700,00",
+                "C": "R$ 720,00",
+                "D": "R$ 680,00",
+                "E": "Nenhuma das alternativas \n \n \n \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nAJUDANTE GERAL                                                                                                                                       Página 7 de 10 QUESTÃO 28 \nAssinale a alternativa que apresenta o vigésimo \nsétimo número ímpar sucessor de 77: \n(A) 105 \n(B) 107 \n(C) 103 \n(D) 129 \n(E) 131"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Considere a sequência: P, 4, Q, 8, R, 12, (...). \nQual é o 14º termo dessa sequência?",
+            "alternativas": {
+                "A": "28",
+                "B": "V",
+                "C": "W",
+                "D": "32",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Maria está planejando uma semana de férias e \nprecisa organizar suas finanças. Ela percebeu que \nsua maior despesa será o aluguel de uma casa de \npraia, que custa R$ 120,00 por dia. Se ela alugar \na casa por 5 dias, começando na segunda-feira, \nem que dia ela encerrará o aluguel?",
+            "alternativas": {
+                "A": "Sexta-feira",
+                "B": "Sábado",
+                "C": "Domingo",
+                "D": "Segunda-feira",
+                "E": "Terça-feira \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Em relação ao Ajudante Geral, analise os itens a \nseguir e, ao final, assinale a alternativa correta. \nI – Um ajudante geral pode ser responsável por \nrealizar tarefas de limpeza e manutenção básica. \nII – Parte das responsabilidades de um ajudante \ngeral inclui a gestão de recursos financeiros da \nempresa. \n(A)A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira. \n(B)As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I. \n(C)A asserção I é uma proposição verdadeira, e a \nII é uma proposição falsa. \n(D)As asserções I e II são proposições falsas. \n(E)As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. \n \nQUESTÃO 32 \nQual dos seguintes materiais é comumente \nutilizado pelo ajudante geral para limpeza  em \ngeral?",
+            "alternativas": {
+                "A": "Fita adesiva colorida.",
+                "B": "Pincel para pintura.",
+                "C": "Detergente ou sabão líquido.",
+                "D": "Lápis e papel.",
+                "E": "Martelo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Qual das seguintes atividades é uma \nresponsabilidade típica de um ajudante geral?",
+            "alternativas": {
+                "A": "Desenvolvimento de estratégias de \nmarketing para a Fundação.",
+                "B": "Manutenção predial e reparos básicos.",
+                "C": "Análise de dados financeiros da \norganização.",
+                "D": "Elaboração de relatórios de pesquisa \ncientífica.",
+                "E": "Planejamento de eventos corporativos. \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nAJUDANTE GERAL                                                                                                                                       Página 8 de 10 QUESTÃO 34 \nQual dos seguintes itens exemplifica uma boa \nmaneira de comportamento social? \n \n(A) Dizer \"Por favor\" e \"Obrigado\". \n(B) Não cumprimentar nem se despedir. \n(C) Tratar as pessoas sem respeito.  \n(D) Empurrar outras pessoas para ser o primeiro. \n(E) Ignorar a importância da pontualidade."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Entre as seguintes opções, qual NÃO representa \numa boa maneira de comportamento social?",
+            "alternativas": {
+                "A": "Dizer \"Por favor\" e \"Obrigado\".",
+                "B": "Pedir licença.",
+                "C": "Falar alto em lugares fechados.",
+                "D": "Cumprimentar e despedir-se.",
+                "E": "Não Interromper"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Em relação ao Ajudante Geral, analise os itens a \nseguir e, ao final, assinale a alternativa correta. \nI – Um bom ajudante geral deve ter habilidades \navançadas em programação de computadores. \nII – Não é papel do ajudante geral tomar decisões \nestratégicas de longo prazo para a empresa; \n(A)A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira. \n(B)As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I. \n(C)A asserção I é uma proposição verdadeira, e a \nII é uma proposição falsa. \n(D)As asserções I e II são proposições falsas. \n(E)As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. \n \n \n \n QUESTÃO 37 \nQual comportamento é mais adequado para um \najudante geral no ambiente de trabalho?",
+            "alternativas": {
+                "A": "Ficar frequentemente ausente sem avisar.",
+                "B": "Cumprir as tarefas atribuídas de forma \neficiente.",
+                "C": "Ignorar as instruções dos supervisores.",
+                "D": "Fofocar sobre colegas de trabalho.",
+                "E": "Assumir decisões importantes sem consultar \na equipe."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Identifique qual dos seguintes materiais é não \nutilizado pelo ajudante geral para limpeza em \ngeral:",
+            "alternativas": {
+                "A": "Esponja",
+                "B": "Desinfetante",
+                "C": "Vassoura",
+                "D": "Balde",
+                "E": "Lápis e papel"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Acerca das funções do Ajudante Geral, considere \n“V” para verdadeiro e “F” para falso e, ao final, \nassinale a alternativa correta. \nSão atividades de um Ajudante Geral: \n( ) Auxiliar na organização e limpeza de espaços \nde trabalho e áreas comuns da empresa. \n(  ) Prestar suporte operacional em diversos \ndepartamentos conforme necessário. \n(  ) Coordenar eventos corporativos e sociais da \nempresa.",
+            "alternativas": {
+                "A": "V – V – F.",
+                "B": "V – F – F.",
+                "C": "F – V – V.",
+                "D": "V – V – V.",
+                "E": "V – F – V. \n \n \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nAJUDANTE GERAL                                                                                                                                       Página 9 de 10 QUESTÃO 40 \nQual das seguintes atividades NÃO é uma \nresponsabilidade típica de um ajudante geral? \n \n(A) Auxiliar na organização e limpeza de \nespaços de trabalho e áreas comuns da empresa. \n(B) Realizar a manutenção regular de \nequipamentos de produção na linha de \nmontagem. \n(C) Coordenar eventos corporativos e sociais da \nempresa. \n(D) Auxiliar em tarefas administrativas simples, \ncomo arquivamento e cópia de documentos. \n(E) Prestar suporte operacional em diversos \ndepartamentos conforme necessário. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Fundação Beneficente de Pedreira - FUNBEPE – Processo Seletivo - 01/2024                 INSTITUTO AVANÇA SÃ O PAULO \n \nAJUDANTE GERAL                                                                                                                                       Página 10 de 10"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Observe a colocação pronominal presente na primeira fala de Calvin. A seguir, foram construídas \nalgumas orações, porém apenas uma está correta, condizendo com o referido exemplo, assinale -a:",
+            "alternativas": {
+                "A": "Depois de melhorar, nos avisem.",
+                "B": "Gostaria de te mostrar o meu convite.",
+                "C": "Me surpreendi com seu comportamento.",
+                "D": "Conforme lhe disse, hoje foi um dia especial.",
+                "E": "O seu maior sonho é se casar."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Observe a expressão: “Isso é muito gentil  da sua parte”. Destaque a alternativa que manteve o mesmo \nsentido do termo destacado.",
+            "alternativas": {
+                "A": "Isso é muito nobre da sua parte.",
+                "B": "Isso é muito encantador da sua parte.",
+                "C": "Isso é muito distinto da sua parte.",
+                "D": "Isso é muito atencioso da sua parte.",
+                "E": "Isso é muito amorável da sua parte.  \n \n \n \n \n \n \n \n \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE GERAL                                                                                                                                       Página 3 de 10 QUESTÃO 03  \nAnalise novamente a charge e destaque a seguir \na figura de linguagem que aparece em uma das \nfalas de Haroldo.  \n(A) Hipérbato  \n(B) Hipérbole  \n(C) Eufemismo  \n(D) Ironia  \n(E) Polissíndeto"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Observe o primeiro balão: “A mamãe não está se \nsentindo bem. Por isso eu estou fazendo um \ncartão pra ela”. Qual das alternativas não \napresenta nenhum erro de classificação \ngramatical?",
+            "alternativas": {
+                "A": "está, estou, fazendo = verbo de ligação",
+                "B": "não, bem, isso = advérbios",
+                "C": "mamãe, cartão, ela = substantivos",
+                "D": "se, por isso, pra = conjunções",
+                "E": "eu, ela = pronome pessoal"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Em qual tempo verbal está a expressão: “Fique \nboa logo”.",
+            "alternativas": {
+                "A": "Presente do Indicativo",
+                "B": "Futuro do Presente do Indicativo",
+                "C": "Presente do Subjuntivo",
+                "D": "Futuro do Subjuntivo",
+                "E": "Pretérito Mais -que-perfeito do Indicativo  \n \n \n \n \n \n \n \n Leia o texto a seguir e responda \nposteriormente as questões de 6 a 10 . \n \nTeoria é um conjunto de suposições inter -\nrelacionadas para explicar alguma coisa. Sem \nquestionamento as suposições são aceitas pelos \nadeptos da teoria. O valor de qualquer teoria \ndepende da sua capacidade de explicar e resolver \nproblemas concretos e prover uma base para \nplanejar.  As teorias organizacionais podem ser \nentendidas como um conjunto de princípios e \nprescrições que visam a facilitar a realização dos \nobjetivos das organizações e serão mais ou \nmenos válidas na medida em que isso \nefetivamente ocorrer.  \nCada uma das abordagens reflete, em grande \nparte, as preocupações e as relações econômicas \ne sociais da época em que foram formuladas. \nMuitas teorias organizacionais contêm princípios \nque ainda são assaz válidos. Uma nova teoria não \nelimina as que a preced eram, mas as completa, \naborda novos ângulos e amplia a visão dos \nadministradores para a solução de problemas e o \naproveitamento de oportunidades. [...] Como \nalguns administradores não têm ciência dessa \namplitude, acabam perdendo tais oportunidades.  \nFonte: LACOMBE, F. Teoria geral da \nadministração. São Paulo: Saraiva, 2009."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Em relação às ideias apresentadas pelo texto, \ndepreende -se:",
+            "alternativas": {
+                "A": "A teoria representa uma ideia absoluta sobre \nalguma coisa.",
+                "B": "Por meio de inferências é possível explicar o \nque se pretende. No entanto, há a necessidade de \nvalidação dessas inferências pelos adeptos da \nteoria em questão.",
+                "C": "O valor de uma teoria está na capacidade que \nse tem de implementar a ação concreta abstraída \nde suas suposições.",
+                "D": "Cada nova teoria é responsável por dirimir a \nanterior, em função das novas informações e dos \nnovos ângulos que são trazidos pelo novo modelo \nteórico.",
+                "E": "Um dos parâmetros de validação de uma \nteoria é a consecução dos objetivos \norganizacionais.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE GERAL                                                                                                                                       Página 4 de 10 QUESTÃO 07 \nDestaque a alternativa que alterou o sentido \nexpresso na seguinte oração: “Teoria é um \nconjunto de suposições inter -relacionadas para \nexplicar alguma coisa”.  \n(A) Teoria é um conjunto de suposições \ncorrelacionadas para explicar alguma coisa.  \n(B) Teoria é um conjunto de suposições \ninterdependentes para explicar alguma coisa.  \n(C) Teoria é um conjunto de suposições \nrecíprocas para explicar alguma coisa.  \n(D) Teoria é um conjunto de suposições \ncorrespondentes para explicar alguma coisa.  \n(E) Teoria é um conjunto de suposições \nintersubjetivas para explicar alguma coisa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Assim como as expressões possuem um sentido \npróprio e figurado, o texto também pode \napresentar um sentido literal ou possibilitar uma \nplurissignificação do enunciado. Dessa forma, \nretome o primeiro parágrafo e destaque a figura \nde linguagem presente na seg unda oração.",
+            "alternativas": {
+                "A": "Metáfora",
+                "B": "Metonímia",
+                "C": "Hipérbato",
+                "D": "Sinestesia",
+                "E": "Hipérbole"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Releia o texto e destaque o sentido que a \nconjunção imprime às relações estabelecidas \npela última oração do texto.",
+            "alternativas": {
+                "A": "Comparação",
+                "B": "Concessão",
+                "C": "Causa",
+                "D": "Condição",
+                "E": "Proporção  \n \n QUESTÃO 10  \nDestaque a seguir a alternativa que condiz com o \nsentido expresso em cada um dos três advérbios \nque aparecem na oração abaixo:  \n“Muitas teorias organizacionais contêm \nprincípios que ainda são assaz válidos”.  \n(A) intensidade / tempo / intensidade  \n(B) modo / intensidade/ tempo  \n(C) intensidade/ tempo/ afirmação  \n(D) tempo/ tempo/ afirmação  \n(E) intensidade/ tempo/ lugar"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Observe as orações a seguir e destaque a \nalternativa que traz um erro de colocação \npronominal.",
+            "alternativas": {
+                "A": "Devo -lhe contar toda a verdade.",
+                "B": "Para redimir, comprei -lhe um lindo anel de \nnoivado.",
+                "C": "Ontem apresentaram -me inúmeras propostas \nde trabalho.",
+                "D": "Nunca o vi tão pensativo como hoje.",
+                "E": "Isso me recorda as viagens que realizei ano \npassado."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Qual das alternativas a seguir não foi construída \nde forma adequada em relação à concordância \nnominal?",
+            "alternativas": {
+                "A": "Bruno agiu com presteza e sabedoria \nadmirável.",
+                "B": "A professora trajava blazer e blusa amarelos.",
+                "C": "Fomos a uma fazenda antiga e vimos \nartefatos e gravuras antigas.",
+                "D": "Não encontramos nem um nem outro \nprofessor disponíveis.",
+                "E": "A menina tem lindos olhos azuis -claros.  \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE GERAL                                                                                                                                       Página 5 de 10 QUESTÃO 13  \nDestaque a alternativa que não apresenta \ncorretamente a concordância verbal.  \n(A) Dez horas é muito tempo para esperar na \nrodoviária.  \n(B) Há sete dias que não o vejo.  \n(C) Deve existir muitas lembranças nas paredes \nde um asilo.  \n(D) Hajam vista os sonhos que guardei.  \n(E) Existem muitas pessoas que não assumem as \nconsequências de seus atos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Qual das alternativas, o uso da crase e/ou a falta \ndela está incorreto?",
+            "alternativas": {
+                "A": "O coordenador esperou até às 10 horas para \ncomeçar a reunião.",
+                "B": "A compra realizada a prazo ficou bem mais \ncara.",
+                "C": "Para não demostrar a tristeza, às vezes é \nmelhor fingir.",
+                "D": "Eu devo obediência a minha mãe.",
+                "E": "Bruno fez um apelo à Marina."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Observe os enunciados abaixo e destaque, \nposteriormente, a alternativa correta.  \nI – As férias estão a um piscar de olhos, vou \nmatar as saudades da minha vó.  \nII – Estou morto de cansaço, trabalhei mais de 10 \nhoras consecutivas.  \nIII- O indivíduo que assaltou a escola era um \npeixe ensaboado.  \nIV – Minhas mãos trazem as marcas das minhas \nfrustrações.",
+            "alternativas": {
+                "A": "Na alternativa I, há uma expressão com \nsentido literal e outra com sentido denotativo.",
+                "B": "A expressão “trabalhei mais de 10 horas \nconsecutivas” tem sentido figurado.",
+                "C": "A expressão “um peixe ensaboado” está em \nsentido literal.",
+                "D": "A expressão “as marcas das minhas \nfrustrações” traduz uma ideia denotativa.",
+                "E": "A alternativa I apresenta duas expressões que \ntêm sentido conotativo.  QUESTÃO 16  \nQual das alternativas a seguir não apresenta \nnenhum erro de regência verbal?  \n(A) Esse barulho dos pássaros não me lembra a \nminha juventude no interior de Pernambuco.  \n(B) A quebra de contrato implicará em multas \nexpressivas.  \n(C) Eu sempre obedeci meus pais, mesmo \nquando eles não estavam totalmente com a razão.  \n(D) A tutora assistiu o aluno com deficiência \nvisual.  \n(E) Ana aspirava o posto de líder de torcida da \nclasse."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Leia os enunciados e destaque a alternativa que \npossui um erro de regência nominal.",
+            "alternativas": {
+                "A": "Exercício e redação complicados foram \naplicados no último teste de aptidão.",
+                "B": "Angústia é maléfico para a alma.",
+                "C": "O show de palhaços agradou a todas as \ncrianças.",
+                "D": "Comentamos sobre o crime ocorrido no \ncentro de São Paulo.",
+                "E": "Custou a André entender o problema \nmatemático."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Em qual das orações abaixo, a vírgula foi \nempregada incorretamente?",
+            "alternativas": {
+                "A": "Paulo só queria uma coisa, que todos fossem \namigos.",
+                "B": "As meninas, que têm mais de 18 anos, podem \nmorar sozinhas.",
+                "C": "Os livros, que são fontes inesgotáveis de \nconhecimento, devem ser guardados com \ncarinho.",
+                "D": "Quando chegaram ao circo, procuraram o \nmalabarista.",
+                "E": "Olhou a lista dos aprovados, procurou seu \nnome, não encontrou.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE GERAL                                                                                                                                       Página 6 de 10 QUESTÃO 19  \nEm algumas situações o uso da vírgula é \nconsiderado correto, como nos exemplos a \nseguir, salvo:  \n(A) Objetos pleonásticos  \n(B) Nome e complemento nominal  \n(C) Adjunto adverbial deslocado  \n(D) Vocativo  \n(E) Zeugma verbal"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Dentre as situações descritas a seguir, qual não é \ncorreto o emprego das aspas?",
+            "alternativas": {
+                "A": "Citação indireta",
+                "B": "Discurso direto",
+                "C": "Neologismos",
+                "D": "Estrangeirismos",
+                "E": "Palavras em sentido conotativo  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: João, o cobrador do ônibus, começou seu turno \ncom R$ 380,00 na caixa registradora. Durante o \ntrajeto, ele arrecadou dinheiro em três paradas \ndistintas: R$ 50,50 na primeira parada, R$ 37,75 \nna segunda e R$ 45,20 na terceira. Ao encerrar o \nturno, ele precis ou fornecer R$ 10,00 de troco a \num passageiro. Qual será o valor restante na \ncaixa registradora de João ao final do turno?",
+            "alternativas": {
+                "A": "R$ 133,45",
+                "B": "R$ 502,55",
+                "C": "R$ 503,45",
+                "D": "R$ 123,45",
+                "E": "Nenhuma das alternativas  \n \n \n QUESTÃO 22  \nMaria foi ao supermercado com uma nota de R$ \n200,00. Ela comprou alguns itens que totalizaram \nR$ 33,75. Maria pagou pelos itens com a nota de \nR$ 200,00. Quanto Maria recebeu de troco?  \n \n(A) R$ 166,25  \n(B) R$ 166,50  \n(C) R$ 165,25  \n(D) R$ 165,50  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Enquanto estudava matemática, um aluno \ndecidiu fazer três séries de exercícios. Na \nprimeira série, resolveu 47 problemas, na \nsegunda, 63 problemas; e na terceira, 84 \nproblemas. Quantos problemas, ao todo, o aluno \nresolveu?",
+            "alternativas": {
+                "A": "193 problemas",
+                "B": "194 problemas",
+                "C": "195 problemas",
+                "D": "196 problemas",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Uma biblioteca adquiriu novos livros de três \ngêneros diferentes. Foram recebidas 2 caixas de \nlivros de romance, cada uma contendo 98 livros, \nalém de uma caixa de ficção científica com 125 \nlivros e outra caixa de biografias com 143 livros. \nQuantos livros a biblioteca adquiriu ao todo?",
+            "alternativas": {
+                "A": "366 livros",
+                "B": "313 livros",
+                "C": "364 livros",
+                "D": "464 livros",
+                "E": "406 livros  \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE GERAL                                                                                                                                       Página 7 de 10 QUESTÃO 25  \nMaria comprou um total de 330 bolinhas de gude \npara distribuir igualmente entre ela e seus 5 \namigos. Quantas bolinhas de gude cada amigo \nreceberá?  \n \n(A) 66 bolinhas de gude  \n(B) 55 bolinhas de gude  \n(C) 56 bolinhas de gude  \n(D)  57 bolinhas de gude  \n(E) 58 bolinhas de gude"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Um reservatório de água tem capacidade para \narmazenar 420 litros. Se for dividido igualmente \nem 7 partes, quantos litros de água caberão em \ncada parte?",
+            "alternativas": {
+                "A": "57 litros",
+                "B": "58 litros",
+                "C": "59 litros",
+                "D": "60 litros",
+                "E": "61 litros"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Um chefe de cozinha está preparando sobremesa \npara um evento e planeja fazer 12 tortas. Cada \ntorta é dividida em 8 fatias. Quantas fatias de \ntorta o chefe preparará ao todo?",
+            "alternativas": {
+                "A": "72",
+                "B": "80",
+                "C": "84",
+                "D": "88",
+                "E": "96  \n \n \n \n \n QUESTÃO 28  \nUm depósito de eletrônicos tem 18 prateleiras. \nEm cada prateleira cabem 45 caixas, e em cada \ncaixa podem ser armazenados 32 dispositivos \neletrônicos. Quantos dispositivos eletrônicos o \ndepósito pode armazenar no total?  \n \n(A) 25.920 dispositivos eletrônicos.  \n(B) 810 dispositivos eletrônicos.  \n(C) 576 dispositivos eletrônicos.  \n(D) 32.400 dispositivos eletrônicos.  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Um fio de cobre, com um comprimento total de \n18 metros, será dividido em pedaços de 1,2 \nmetros cada. Quantos pedaços serão obtidos?",
+            "alternativas": {
+                "A": "18 pedaços.",
+                "B": "19 pedaços.",
+                "C": "20 pedaços.",
+                "D": "21 pedaços.",
+                "E": "15 pedaços."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Em uma corrida de bicicleta, o ciclista Carlos \npercorreu 15 voltas em um circuito. Cada volta \ntem 2 quilômetros de extensão. Quantos \nquilômetros Carlos percorreu no total?",
+            "alternativas": {
+                "A": "20 quilômetros",
+                "B": "25 quilômetros",
+                "C": "30 quilômetros",
+                "D": "35 quilômetros",
+                "E": "40 quilômetros  \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE GERAL                                                                                                                                       Página 8 de 10 QUESTÃO 31  \nUm agricultor possui um campo de trigo que \nocupa 8 hectares. Se ele consegue colher 600 kg \nde trigo por hectare, quantos quilogramas de \ntrigo ele poderá colher no total?  \n(A) 4.000 kg  \n(B) 4.200 kg  \n(C) 4.500 kg  \n(D) 4.800 kg  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Um grupo de estudantes realizou uma pesquisa \nsobre o uso de smartphones. Eles entrevistaram \n200 pessoas e descobriram que 75% delas \npossuem smartphones. Quantas pessoas \nentrevistadas possuem smartphones?",
+            "alternativas": {
+                "A": "120 pessoas",
+                "B": "140 pessoas",
+                "C": "150 pessoas",
+                "D": "50 pessoas",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Assinale a alternativa que apresenta o \nQuadragésimo segundo número par antecessor \nde 300.",
+            "alternativas": {
+                "A": "342",
+                "B": "258",
+                "C": "216",
+                "D": "218",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Em uma competição de natação, 25% dos \nparticipantes chegaram em primeiro lugar, 15% \nforam desclassificados e o restante chegou em \nsegundo lugar. Se 200 nadadores participaram da \ncompetição, quantos nadadores foram \ndesclassificados?",
+            "alternativas": {
+                "A": "20 nadadores",
+                "B": "25 nadadores",
+                "C": "30 nadadores",
+                "D": "35 nadadores",
+                "E": "40 nadadores  QUESTÃO 35  \nUma cidade tinha uma população de 500.000 \nhabitantes em dezembro de 2024. Se a população \ncresce a uma taxa anual de 3%, qual será a \npopulação estimada para dezembro de 2025?  \n \n(A) 510.000 habitantes  \n(B) 512.500 habitantes  \n(C) 515.000 habitantes  \n(D) 517.500 habitantes  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Uma papelaria vendeu 25 kits escolares, e em \ncada kit havia 12 lápis e 13 canetas. Quantos \nlápis a papelaria vendeu no total?",
+            "alternativas": {
+                "A": "250 lápis",
+                "B": "300 lápis",
+                "C": "325 lápis",
+                "D": "625 lápis",
+                "E": "375 lápis"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Uma fazenda possui 24 prateleiras. Cada \nprateleira pode conter 36 caixas, e em cada caixa \ncabem 48 frutas. Quantas frutas a fazenda pode \narmazenar no total?",
+            "alternativas": {
+                "A": "864 frutas.",
+                "B": "36.432 frutas.",
+                "C": "41.472 frutas.",
+                "D": "1.728 frutas.",
+                "E": "41.742 frutas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Um carro tem um tanque de combustível com \ncapacidade para 60 litros. Se, no momento, o \ntanque contém 42 litros de combustível, qual é a \nporcentagem da capacidade total do tanque que \nestá sendo utilizada?",
+            "alternativas": {
+                "A": "30%",
+                "B": "40%",
+                "C": "50%",
+                "D": "60%",
+                "E": "70%  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE GERAL                                                                                                                                       Página 9 de 10 QUESTÃO 39  \nMariana possui 5 livros idênticos. Cada livro \npesa 800 gramas. Qual é a massa total dos 5 \nlivros que Mariana possui?  \n \n(A) 40 gramas  \n(B) 420 gramas  \n(C) 4000 gramas  \n(D) 400 gramas  \n(E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Assinale a alternativa que apresenta o trigésimo \nprimeiro número ímpar sucessor de 149.",
+            "alternativas": {
+                "A": "181",
+                "B": "211",
+                "C": "119",
+                "D": "87",
+                "E": "Nenhuma das alternativas  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nAJUDANTE GERAL                                                                                                                                       Página 10 de 10"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: O texto fala sobre:",
+            "alternativas": {
+                "A": "um desvio linguístico.",
+                "B": "uma adaptação linguística.",
+                "C": "um fenômeno linguístico.",
+                "D": "os sotaques do Brasil.",
+                "E": "as gírias faladas no Brasil."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: Pode-se afirmar que se trata de um texto:",
+            "alternativas": {
+                "A": "científico.",
+                "B": "jornalístico.",
+                "C": "acadêmico.",
+                "D": "didático.",
+                "E": "editorial."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: Segundo o texto, convergência linguística:",
+            "alternativas": {
+                "A": "é a imitação voluntária dos sotaques com a \nintenção de tirar sarro dos outros.",
+                "B": "é a imitação voluntária dos sotaques sem a \nintenção de tirar sarro dos outros.",
+                "C": "é a imitação involuntária dos sotaques com \na intenção de tirar sarro dos outros.",
+                "D": "a imitação inconsciente dos sotaques sem \na intenção de tirar sarro dos outros.",
+                "E": "é a imitação inconsciente dos sotaques com \na intenção de tirar sarro dos outros.QUESTÃO 04\nAinda segundo o texto, a convergência \nlinguística ocorre:\n(A) apenas para sermos aceitos, socialmente.\n(B) para sermos aceitos socialmente e aprender \noutros sotaques.\n(C) para sermos aceitos socialmente e por \ncausa da nossa necessidade de dialogar.\n(D) por causa da nossa necessidade de fazer \nnovos amigos \n(E) apenas por causa da nossa necessidade de \ndialogar."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: Segundo o texto, convergência fonética:",
+            "alternativas": {
+                "A": "é uma outra forma de se referir à \nconvergência linguística.",
+                "B": "é a classificação que se dá à mudança da \npronúncia de algumas palavras.",
+                "C": "é a incorporação dos termos e da \narticulação que os outros têm.",
+                "D": "é o mesmo que divergência linguística.",
+                "E": "é a adoção que fazemos do léxico das \noutras pessoas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: Ainda segundo o texto:",
+            "alternativas": {
+                "A": "A imitação do sotaque é um ato \ninconsciente, já a adoção da estrutura e do \nléxico do interlocutor é uma escolha \nconsciente.",
+                "B": "A imitação do sotaque, a adoção da \nestrutura e do léxico do interlocutor é um ato \ninconsciente.",
+                "C": "A imitação do sotaque é uma escolha \nconsciente, já a adoção da estrutura e do léxico \ndo interlocutor é um ato inconsciente.",
+                "D": "A imitação do sotaque, a adoção da \nestrutura e do léxico do interlocutor é uma \nescolha consciente.",
+                "E": "A imitação do sotaque é um ato \ninconsciente, a doação da estrutura e do léxico \ndo interlocutor também é uma escolha \nInconsciente.Guarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nAJUDANTE GERAL                                                                                                                                       Página 4 de 9QUESTÃO 07\nEm “Para algumas pessoas, esse mimetismo \nacontece imediatamente — e sem querer — ao \ncomeçar a conversar com uma pessoa de \nsotaque diferente, sem nem ao menos precisar \nviajar.”, o termo destacado é sinônimo de:\n(A) adaptação.\n(B) igualdade.\n(C) compreensão.\n(D) desigualdade.\n(E) imitação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: Em “o interlocutor pode ficar com a leve \nsuspeita de que estão tirando sarro dele”, \nlocução destacada tem o mesmo sentido que:",
+            "alternativas": {
+                "A": "querer vantagem sobre o outro.",
+                "B": "zoar com a intenção de ofender.",
+                "C": "fazer uma brincadeira desagradável.",
+                "D": "zoar sem más intenções.",
+                "E": "discutir calorosamente."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: Em “Além disso, diz ela, a convergência é uma \nconsequência cognitiva automática da \ncompreensão da linguagem.”, a locução \ndestacada é classificada como:",
+            "alternativas": {
+                "A": "advérbio de tempo.",
+                "B": "advérbio de modo.",
+                "C": "conjunção adversativa.",
+                "D": "conjunção alternativa.",
+                "E": "conjunção aditiva.QUESTÃO 10\nEm “Curiosamente, também acontece que às \nvezes modificamos nossa maneira de falar não \nde acordo com o que ouvimos, \nnecessariamente, mas com base em nossas \nexpectativas sobre o que vamos ouvir.”, o \ntermo destacado é classificado como:\n(A) advérbio de afirmação.\n(B) advérbio de modo.\n(C) advérbio de intensidade.\n(D) conjunção explicativa.\n(E) conjunção conclusiva."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: Em “Ela explica que às vezes as pessoas \npercebem que estão mudando a maneira de \nfalar no momento em que o fazem e depois \ncontinuam por notar um benefício social \npositivo.”, o emprego da crase ocorre pela \nmesma regra que em:",
+            "alternativas": {
+                "A": "Se for sair à noite, me chama.",
+                "B": "Refiro-me àquelas meninas da escola.",
+                "C": "Comprei uma semelhante à que você tem.",
+                "D": "Fomos à reunião do condomínio.",
+                "E": "Entregamos o cartão à senhora."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: Em “Ou seja, as palavras típicas de um \ndeterminado grupo ou de uma determinada \nregião.\", os termos destacados são:",
+            "alternativas": {
+                "A": "substantivos.",
+                "B": "advérbios.",
+                "C": "adjetivos.",
+                "D": "pronomes.",
+                "E": "verbos.Guarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nAJUDANTE GERAL                                                                                                                                       Página 5 de 9QUESTÃO 13\n“Chovia tanto ontem que a rua encheu”. \nSobre as formas verbais destacadas, afirmasse \nque:\nI – estão modo indicativo.\nII – chovia está no pretérito perfeito.\nIII – encheu está no pretérito imperfeito.\nEstão corretas:\n(A) Apenas I.\n(B) Apenas II.\n(C) Apenas III.\n(D) Apenas II e III.\n(E) Apenas I e III."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Ocorre ênclise em:",
+            "alternativas": {
+                "A": "Os seus pais me ligaram para saber das \nsuas notas.",
+                "B": "Disseram-me que não sabiam do caso do \nmenino desaparecido.",
+                "C": "Eles te convidarão para a formatura.",
+                "D": "Entregá-lo-ei aos seus pais.",
+                "E": "Foi que contaram a mim."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: A concordância nominal está correta em:",
+            "alternativas": {
+                "A": "Matriculou-se em bastante cursos.",
+                "B": "Você e seus irmãos estão bastantes \nmudados.",
+                "C": "Há bastantes motivos para comemorar.",
+                "D": "Bastante alunos não foram a aula hoje.",
+                "E": "Amor e paixão são bastantes diferentes.QUESTÃO 16\nA concordância verbal está correta em:\n(A) Fazem dez dias que não vejo a Maria.\n(B) Hoje são 25 de dezembro.\n(C) Brasil ou Argentina devem sediar o evento.\n(D) Da minha casa até a de Maria é só 50 \nmetros.\n(E) Amanhã serão 26 de dezembro."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Assinale a alternativa correta:",
+            "alternativas": {
+                "A": "Vende-se carros.",
+                "B": "Aluga-se apartamentos mobiliados.",
+                "C": "Compra-se roupas usadas.",
+                "D": "Precisam-se de recepcionistas bilíngues.",
+                "E": "Aceitam-se encomenda de salgados para \nfesta."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: O uso da vírgula está correto em:",
+            "alternativas": {
+                "A": "Maria, comprou uma casa na praia.",
+                "B": "Comemos tanto que, nem sobrou bolo.",
+                "C": "Bom dia amigos, e amigas!",
+                "D": "João chegou ao show, animado.",
+                "E": "Mariana convidou, Marcos e Nádia para \ntomar sorvete."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: A regência nominal está correta em:",
+            "alternativas": {
+                "A": "Ele está apto a trabalhar.",
+                "B": "Tenho horror de fofoca.",
+                "C": "O médico foi negligente por liberar o \npaciente.",
+                "D": "Ele foi permissivo com a situação.",
+                "E": "Ele sempre foi leal com os amigos.Guarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nAJUDANTE GERAL                                                                                                                                       Página 6 de 9QUESTÃO 20\nA regência verbal está correta em:\n(A) Assistimos o novo filme da Viola Davis.\n(B) Ela aspirava ao perfume das flores.\n(C) Ele aspirava o cargo de gerente.\n(D) Esqueci dos remédios.\n(E) Esqueci a consulta com o médico ontem.\nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: Um engenheiro fez a planta de uma residência \nna escala 1:125. Na residência há uma estufa \nquadrada com 400 m2   de área. Na planta, \nessa estufa é um quadrado de lado:",
+            "alternativas": {
+                "A": "4 cm.",
+                "B": "8 cm.",
+                "C": "12 cm.",
+                "D": "16 cm.",
+                "E": "20 cm."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: Inês recebe mensalmente 20% a menos do que \nManoel que, por sua vez, recebe 15% a mais \nque Aroldo. Em relação ao honorário recebido \npor Aroldo, Inês recebe",
+            "alternativas": {
+                "A": "2,5% a menos.",
+                "B": "8% a menos.",
+                "C": "4% a menos.",
+                "D": "5% a menos.",
+                "E": "10,5% a menos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: Se a sentença “Se a camisa não é branca, então \no boné é preto” é falsa, é CORRETO concluir \nque",
+            "alternativas": {
+                "A": "“A camisa não é branca ou o boné é preto.”",
+                "B": "“A camisa é branca e o boné não é preto.”",
+                "C": "“A camisa é branca ou o boné é preto.”",
+                "D": "“A camisa não é branca e o boné é preto.”",
+                "E": "“Se o boné não é preto, então a camisa é \nbranca.”QUESTÃO 24\nDividindo o número inteiro M por 13, tem-se \npara resto 11; dividindo o número M+11 por \n13, o resto é\n(A) 0.\n(B) 3.\n(C) 6.\n(D) 9.\n(E) 12."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: Foram convocados em um concurso público 39 \ndocentes licenciados. Desses docentes 15 são \nformados em medicina e 19 também são \nformados em direito. No total, 7 docentes são \napenas licenciados. O número de docentes que \ntambém são formados em medicina e direito é:",
+            "alternativas": {
+                "A": "3",
+                "B": "5",
+                "C": "2",
+                "D": "7",
+                "E": "1"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: A sucessão de palavras a seguir obedece a um \npadrão lógico:\n▪ALGOZ\n▪DEVANEIO\n▪GAIATO\n▪GIGOLÔ\nUma quinta palavra que daria continuidade \nlógica à sucessão poderia ser:",
+            "alternativas": {
+                "A": "TEMPO",
+                "B": "LIBERDADE",
+                "C": "PERSPICAZ",
+                "D": "GENTIL",
+                "E": "MESQUINHOGuarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nAJUDANTE GERAL                                                                                                                                       Página 7 de 9QUESTÃO 27\nAssinale a alternativa que apresenta a \nquantidade números ímpares de 1987 até 2017 \né\n(A) 30.\n(B) 16.\n(C) 19.\n(D) 32.\n(E) 15."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: Ary e Alberto possuem, nessa ordem, R$94,60 \ne R$125,00. Para que Alberto fique com triplo \nda quantia de Ary, Ary tem que emprestar a \nAlberto",
+            "alternativas": {
+                "A": "R$54,90.",
+                "B": "R$45,80.",
+                "C": "R$39,70.",
+                "D": "R$70,10.",
+                "E": "R$63,20."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: Em uma repartição pública trabalham 12 \nhomens e 08 mulheres. O número máximo de \nduplas distintas que se pode formar contendo \napenas um homem e uma mulher dessa \nrepartição é igual a:",
+            "alternativas": {
+                "A": "84.",
+                "B": "50.",
+                "C": "72.",
+                "D": "68.",
+                "E": "96.QUESTÃO 30\nSegundo o processo seletivo realizado para \nMediador Escolar, o número total de \nconvocados é igual a 204. Esse número é \nmúltiplo de:\n(A) 14.\n(B) 15.\n(C) 16.\n(D) 17.\n(E) 18."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: Distribuindo-se 164 balas em pacotes de 7 \nbalas cada um, obtém-se x pacotes completos \ne um pacote incompleto. O valor de x é:",
+            "alternativas": {
+                "A": "23.",
+                "B": "22.",
+                "C": "21.",
+                "D": "20.",
+                "E": "19."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: A soma de certo número com seu sucessor, é \nigual à metade do seu dobro mais 10 unidades. \nEsse número é:",
+            "alternativas": {
+                "A": "7.",
+                "B": "9.",
+                "C": "11.",
+                "D": "13.",
+                "E": "15.Guarda Municipal de Americana - SP – Concurso Público 01/2022                               INSTITUTO AVANÇA SÃO PAULO\nAJUDANTE GERAL                                                                                                                                       Página 8 de 9QUESTÃO 33\nAssinale a alternativa que apresenta o valor \ncorrespondente a 0,1×0,5-2×0,01\n0,2×0,1:\n(A)1,2.\n(B) 1,3.\n(C) 1,4.\n(D) 1,5.\n(E) 1,6."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: Uma cartela de adesivos que era vendida a \nR$7,50 passou a ser vendida a R$6,25. Logo, \ndas alternativas abaixo, a que mais se aproxima \ndo desconto dado sobre os R$7,50 é:",
+            "alternativas": {
+                "A": "17%.",
+                "B": "15%.",
+                "C": "13%.",
+                "D": "9%.",
+                "E": "11%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: Na sucessão numérica …, 21, 30, 40, 51, 63, \n76, ..., o número 21 é o nono elemento. \nMantido o padrão de formação, o vigésimo \nelemento será",
+            "alternativas": {
+                "A": "105.",
+                "B": "135.",
+                "C": "175.",
+                "D": "195.",
+                "E": "215."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: Considere a seguinte afirmação:\nTodo docente é licenciado.\nA alternativa que apresenta uma negação \nlógica para essa afirmação é:",
+            "alternativas": {
+                "A": "Existe docente que não é licenciado.",
+                "B": "Todo licenciado é docente.",
+                "C": "Nenhum docente é licenciado.",
+                "D": "Não existe docente que não é licenciado.",
+                "E": "Nenhum licenciado é docente. QUESTÃO 37\nUm viveiro tem 0,00015 km2 de área. Em m2, a \nárea desse viveiro corresponde a\n(A) 1500000.\n(B) 150000.\n(C) 15000.\n(D) 1500.\n(E) 150."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 27: O preço da resma de folha sofreu dois \naumentos subsequentes: 10 e 20%. Se, \natualmente, na papelaria X, a resma de folha \ncusta R$19,80, pode-se concluir que, antes dos \naumentos, custava",
+            "alternativas": {
+                "A": "R$16,50.",
+                "B": "R$15,00.",
+                "C": "R$18,00.",
+                "D": "R$14,50.",
+                "E": "R$14,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2022",
+            "questão": "Questão 28: Se 2/5 do salário de Bel equivale a R$2.400,00, \n3/4 do salário dele corresponde a",
+            "alternativas": {
+                "A": "R$5.400,00.",
+                "B": "R$4.200,00.",
+                "C": "R$6.000,00.",
+                "D": "R$4.500,00.",
+                "E": "R$1.800,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 1: Com base no texto, qual das seguintes afirmações \né verdadeira?",
+            "alternativas": {
+                "A": "Todas as escavações arqueológicas \nconfirmaram a existência de escravidão africana \nna metrópole portuguesa no período colonial.",
+                "B": "A ocupação moderna da região do Monte do \nVale de Lachique, ao sul de Lisboa, ocorreu \nprincipalmente devido ao trabalho de \nescravizados africanos.",
+                "C": "As escavações arqueológicas na região do \nMonte do Vale de Lachique não encontraram \nvestígios de ocupações no período colonial.",
+                "D": "Os escravizados africanos que foram trazidos \npara Portugal no período colonial eram \npredominantemente utilizados na indústria \naçucareira.",
+                "E": "O trabalho dos escravizados africanos na \nmetrópole portuguesa no período colonial não \nestá relacionado ao tráfico de pessoas \nescravizadas da África Ocidental e Central. Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 3 de 11 QUESTÃO 02 \nCom base no texto, qual das seguintes palavras é um antônimo da palavra \"intenso\", conforme utilizado \nno seguinte trecho: \"Esse é um período em que o tráfico de pessoas escravizadas para Portugal a partir \nda África Ocidental e Central foi bastante  intenso \"? \n(A) Frequente. \n(B) Duradouro. \n(C) Profundo. \n(D) Acentuado. \n(E) Fraco."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 2: No trecho \" Faz sentido: estudos recentes estimam que foram trazidos da África para a colônia \nestabelecida por Portugal no Novo Mundo pelo menos 5,8 milhões de indivíduos escravizados \nentre os séculos 16 e 19 ,\" identifique a classe gramatical da palavra \"indivíduos\".",
+            "alternativas": {
+                "A": "Substantivo.",
+                "B": "Verbo.",
+                "C": "Adjetivo.",
+                "D": "Advérbio.",
+                "E": "Pronome."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 3: Das alternativas a seguir, escolha aquela que apresenta uma preposição na frase: \"durante esse período \nforam levadas muitas pessoas escravizadas para o sul\":",
+            "alternativas": {
+                "A": "durante.",
+                "B": "muitas.",
+                "C": "para.",
+                "D": "pessoas.",
+                "E": "sul. \n \n \n \n \n \n \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 4 de 11 QUESTÃO 05 \nConsidere o trecho a seguir: \n\"O autor escreveu, com habilidade notável, diversos contos que encantaram os leitores.\" \nNesse contexto, a pontuação com vírgulas desempenha um papel específico. Qual é a função princip al \ndas vírgulas no trecho acima? \n(A) Separar elementos de uma enumeração. \n(B) Indicar a presença de um aposto explicativo. \n(C) Sinalizar uma oração subordinada adverbial. \n(D) Isolar um adjunto adverbial de modo. \n(E) Separar o sujeito do predicado."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 4: (Disponível em: https://revistagalileu.globo.com/Cultura/noticia/2020/09/7-tirinhas-de-mafalda-para-\nrefletir-sobre-os-tempos-atuais.html .  \nCom base na tirinha da Mafalda, qual das seguintes alternativas melhor reflete a mensagem central do \nquadrinho?",
+            "alternativas": {
+                "A": "Mafalda está elogiando o pai por se preocupar mais com futebol do que com questões sociais.",
+                "B": "O pai de Mafalda se sente envergonhado porque percebeu que estava priorizando o futebol em vez \nde questões sociais mais importantes.",
+                "C": "Mafalda critica o pai por não se importar com futebol, que ela considera um assunto relevante.",
+                "D": "O pai de Mafalda está feliz porque sua filha compartilha seu interesse pelo futebol.",
+                "E": "Mafalda zomba do pai por se importar tanto com futebol enquanto questões sociais sérias são \nignoradas. \n \n \n \nPrefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 5 de 11 QUESTÃO 07 \n\"Na exposição de arte, havia três esculturas \nmodernas em destaque.\"  \nQual classe de palavras corresponde à palavra \ndestacada no trecho? \n(A) Verbo. \n(B) Substantivo. \n(C) Numeral.  \n(D) Adjetivo.  \n(E) Advérbio."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 5: Leia o seguinte trecho de um romance e responda \nà pergunta a seguir: \n\"O sol brilhava no céu azul, as árvores \nbalançavam suavemente ao vento e os pássaros \ncantavam alegremente.\" \nA conjunção \"e\" no trecho acima desempenha \nque função na estrutura da frase?",
+            "alternativas": {
+                "A": "Indicar uma oposição entre os elementos \nenumerados.",
+                "B": "Estabelecer uma relação de causa e efeito \nentre os elementos.",
+                "C": "Adicionar ênfase a cada elemento da \nenumeração.",
+                "D": "Conectar elementos de maneira coordenada, \nindicando que eles ocorrem simultaneamente.",
+                "E": "Separar elementos em categorias distintas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 6: Assinale a alternativa correta sobre pronomes \nrelativos:",
+            "alternativas": {
+                "A": "Pronomes relativos são sempre utilizados no \nsingular.",
+                "B": "O pronome relativo \"quem\" refere-se a \nobjetos e coisas.",
+                "C": "O pronome relativo \"que\" pode ser utilizado \npara substituir um antecedente masculino ou \nfeminino.",
+                "D": "Pronomes relativos introduzem uma ideia de \nposse ou pertencimento.",
+                "E": "Os pronomes relativos não podem ser \nutilizados para introduzir orações subordinadas \nadjetivas. \n QUESTÃO 10 \nJoão e Maria eram irmãos que viviam em uma \npequena casa no bosque com seu pai e madrasta. \nUm dia, a família enfrentou tempos difíceis e a \nmadrasta, influenciada pela ganância, convenceu \no pai a abandonar as crianças no coração da \nfloresta, para que eles não fossem um fardo. João, \nporém, ouviu a conversa e planejou um plano. \nEle pegou algumas pedrinhas brilhantes e as \nespalhou pelo caminho enquanto caminhavam na \nescuridão da noite. Assim, eles conseguiram \nencontrar o caminho de volta para casa. \nNo entanto, a madrasta não desistiu tão \nfacilmente. Em uma segunda tentativa, ela \nconvenceu o pai a levá-los ainda mais fundo na \nfloresta e deixá-los lá. Desta vez, João e Maria \ntiveram apenas migalhas de pão para seguir o \ncaminho de volta, mas as migalhas foram \ndevoradas pelos pássaros famintos do bosque. \nPerdidos, eles vagaram pela floresta até encontrar \numa casa feita de doces, coberta de açúcar e \nchocolate. Famintos e atraídos pela visão, \ncomeçaram a comer a casa. \nA casa pertencia a uma bruxa malvada que \naprisionou João e Maria. Através de coragem e \nastúcia, eles conseguiram escapar das garras da \nbruxa e voltar para casa, onde seu pai havia \nfinalmente reconhecido o erro e estava esperando \npor eles com arrependimento. \nJoão e Maria\" (Texto Adaptado).  Em: Contos de Fadas Clássicos. \nEditora Encanto, 2005, p. 32-40 \n \nCom base no excerto do conto de fadas \"João e \nMaria\", qual foi o motivo que levou a madrasta a \nconvencer o pai a tomar uma decisão drástica em \nrelação às crianças? \n(A) A madrasta estava preocupada com a \nsegurança das crianças na floresta. \n(B) A madrasta estava tomada por uma emoção \nnegativa e achava que as crianças representavam \num desafio devido aos tempos difíceis que a \nfamília estava enfrentando.  \n(C) A madrasta acreditava que as crianças \nprecisavam aprender a sobreviver na natureza e \npor isso convenceu o marido a deixá-las na \nfloresta.  \n(D) A madrasta desejava que as crianças \ntivessem uma experiência de vida única na \nfloresta, desta forma poderiam desenvolver mais \nrapidamente sua maturidade.  \n(E) A madrasta queria ensinar uma lição valiosa \nàs crianças. Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 6 de 11 TEXTO \nLeia o texto para responder às questões 11 e 12. \n \nPelo menos 100 pessoas morreram e outras 150 \nficaram feridas em um incêndio em um \ncasamento no norte do Iraque, informou a mídia \nestatal do país. A noiva e o noivo estariam entre \nas vítimas, segundo véiculos da imprensa local. \nO incêndio aconteceu no distrito de Al-\nHamdaniya, na província de Nínive, na noite de \nterça-feira (26). Ainda não está claro o que \ncausou o incêndio, mas os primeiros relatos \nindicam que ele começou depois que fogos de \nartifício foram usados.Painéis inflamáveis no \nlocal podem ter ajudado a propagação das \nchamas, fazendo com que partes do teto caíssem.  \n“O incêndio levou ao colapso de partes do \npavilhão como resultado do uso de materiais de \nconstrução altamente inflamáveis e de baixo \ncusto, que desmoronaram em poucos minutos \nquando o in cêndio começou”, afirmou a Defesa \nCivil do Iraque, citada pela agência Nina.  \nUm vídeo registrado por um correspondente da \nagência de notícias Reuters mostra bombeiros \nescalando os destroços do prédio em busca de \nsobreviventes nas primeiras horas da manhã de \nquarta-feira (27, no horário local).  \n\"Vimos o fogo pulsando, saindo do corredor. \nQuem conseguiu, escapou, e quem não \nconseguiu, ficou preso\", disse à Reuters Imad \nYohana, um homem de 34 anos que conseguiu \nescapar. Ambulâncias e equipes médicas foram \nenviadas ao local. \nO primeiro-ministro do Iraque ordenou às \nautoridades que \"mobilizem todos os esforços \npara fornecer ajuda às pessoas afetadas pelo \ninfeliz incidente\", afirmou o seu gabinete numa \npublicação no X (rede anteriormente conhecida \ncomo Twitter). Os feridos foram transferidos \npara hospitais em toda a região de Nínive, disse \no governador da região. Ele sugeriu que o \nnúmero de mortos e feridos ainda pode aumentar.  \nNo principal hospital de Hamdaniya, cidade a \nleste da capital da região, Mossul, dezenas de \npessoas apareceram para doar sangue para ajudar \nos feridos. \n(Disponível em: \nhttps://www.bbc.com/portuguese/articles/c03dgl\n89z84o .  QUESTÃO 11 \nDe acordo com a notícia sobre o incêndio durante \num casamento no norte do Iraque, qual evento \ndurante a celebração foi mencionado como um \npossível fator que contribuiu para o início do \nincêndio? \n(A) A queima de velas decorativas. \n(B) A explosão de um gerador de energia.  \n(C) A queda de objetos inflamáveis.  \n(D) O disparo de fogos de artifício.  \n(E) O superaquecimento do sistema de \niluminação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 7: De acordo com o texto, qual foi a reação das \npessoas após o incêndio ocorrido durante o \ncasamento no norte do Iraque?",
+            "alternativas": {
+                "A": "Elas fugiram imediatamente do local.",
+                "B": "Elas ajudaram a apagar o incêndio.",
+                "C": "Elas doaram sangue para as vítimas.",
+                "D": "Elas permaneceram dentro do pavilhão.",
+                "E": "Elas responsabilizaram o governo pela \ntragédia."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 8: Qual das seguintes afirmações descreve com \nprecisão a função principal do verbo em uma \nsentença, levando em consideração sua relação \ncom os elementos gramaticais e a estrutura da \nfrase?",
+            "alternativas": {
+                "A": "Controlar a concordância entre sujeito e \npredicado.",
+                "B": "Determinar a ordem das palavras na \nsentença.",
+                "C": "Indicar a relação entre dois substantivos na \nfrase.",
+                "D": "Indicar uma ação, estado ou fenômeno da \nnatureza.",
+                "E": "Estabelecer a relação causal entre duas \norações independentes. \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 7 de 11 QUESTÃO 14 \nLeia atentamente o trecho a seguir e identifique \no advérbio: \n\"Naquela manhã ensolarada, as crianças \nbrincavam alegremente no parque, enquanto os \nadultos conversavam animadamente sobre \ndiversos assuntos.\" \n(A) Naquela \n(B) ensolarada \n(C) alegremente \n(D) no \n(E) sobre"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 9: Em um debate sobre a evolução da literatura \ngótica, o palestrante mencionou que uma das \ncaracterísticas marcantes desse gênero é a \natmosfera \"lúgubre\" que frequentemente permeia \nas histórias. No contexto literário, qual das \nseguintes palavras é um sinônimo adequado para \n\"lúgubre\"?",
+            "alternativas": {
+                "A": "Ensolarado.",
+                "B": "Melancólico.",
+                "C": "Animado.",
+                "D": "Triunfante.",
+                "E": "Majestoso."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 10: A crase é uma característica marcante da língua \nportuguesa e seu uso pode ser desafiador para \nmuitos falantes. Considere a seguinte frase: \n \n\"Maria foi à escola.\" \nQual é o propósito do emprego da crase na frase \nacima?",
+            "alternativas": {
+                "A": "Expressar pluralidade de objetos de forma \nenfática.",
+                "B": "Sinalizar acento tônico em sílabas \nespecíficas.",
+                "C": "Indicar a omissão de uma vogal em casos \nespecíficos.",
+                "D": "Promover a fusão de sons vocálicos em \ncontextos determinados.",
+                "E": "Distinguir o gênero gramatical de \nsubstantivos em frases complexas. \n QUESTÃO 17 \nO que caracteriza o sentido figurado das \npalavras?  \n(A) O uso das palavras com significado literal.  \n(B) A utilização de palavras em seu sentido real.  \n(C) O emprego das palavras em contextos \nespecíficos. \n(D) A atribuição de significados não literais às \npalavras. \n(E) A correspondência direta entre palavra e \nconceito."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 11: Qual é a função do adjetivo na língua portuguesa \nde acordo com as normas gramaticais?",
+            "alternativas": {
+                "A": "Denotar ação ou estado.",
+                "B": "Atuar como um substituto de um \nsubstantivo.",
+                "C": "Estabelecer conexões entre frases em um \ntexto.",
+                "D": "Indicar uma relação temporal.",
+                "E": "Qualificar ou caracterizar um substantivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 12: A concordância de número se refere à \ncorrespondência gramatical entre as palavras em \numa frase em relação ao número. Identifique a \nalternativa em que há um erro de concordância \nnominal:",
+            "alternativas": {
+                "A": "Os livros antigos estão empoeirados.",
+                "B": "As flores perfumadas alegram o jardim.",
+                "C": "Os aluno estudiosos receberam elogios.",
+                "D": "O céu noturno estava estrelado.",
+                "E": "O carro novo é mais econômico. \n \n \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 8 de 11 QUESTÃO 20 \nA linguagem figurada desempenha um papel \ncrucial na comunicação e na literatura, \npermitindo que os escritores expressem ideias e \nemoções de maneira criativa e simbólica. \nConsidere a seguinte frase: \n\"A notícia da promoção dela foi música para os \nmeus ouvidos.\" \nNesta frase, qual das expressões a seguir \napresenta um sentido figurado? \n(A) \"Notícia da promoção\" que sugere uma \natualização sobre o status profissional. \n(B) \"Música para os meus ouvidos\" que denota \numa reação extremamente positiva à notícia. \n(C) \"Ouvir música\" que se refere à ação de \nescutar músicas. \n(D) “A notícia” que indica o conteúdo da \nmensagem comunicada. \n(E) “Meus ouvidos” que identifica o órgão \nsensorial envolvido na audição. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 13: Assinale a alternativa que apresenta o Vigésimo \nsegundo número ímpar antecessor de 137:",
+            "alternativas": {
+                "A": "91",
+                "B": "97",
+                "C": "115",
+                "D": "95",
+                "E": "93"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 14: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n1425 + 9 x 9",
+            "alternativas": {
+                "A": "1494",
+                "B": "1514",
+                "C": "1476",
+                "D": "1537",
+                "E": "1506 \n QUESTÃO 23 \nAssinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n43 x 123 x 2 \n \n(A) 10.578 \n(B) 8.196 \n(C) 9.616 \n(D) 6.578 \n(E) 10.598"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 15: Um livro tem 1269 páginas. Se uma pessoa lê 27 \npáginas por dia, quantos dias levará para terminar \nde ler o livro?",
+            "alternativas": {
+                "A": "45 dias",
+                "B": "46 dias",
+                "C": "47 dias",
+                "D": "48 dias",
+                "E": "49 dias"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 16: Em uma maratona, um corredor completou 8 \nvoltas em um circuito. Na primeira volta, ele fez \no percurso em 6 minutos, na segunda volta em 7 \nminutos, na terceira volta em 5 minutos, na \nquarta volta em 6 minutos, na quinta volta em 8 \nminutos, na sexta volta em 7 minutos, na sétima \nvolta em 5 minutos e na oitava volta em 6 \nminutos. Quantos minutos o corredor levou para \ncompletar todas as voltas?",
+            "alternativas": {
+                "A": "50 minutos",
+                "B": "53 minutos",
+                "C": "54 minutos",
+                "D": "56 minutos",
+                "E": "58 minutos \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 9 de 11 QUESTÃO 26 \nUm parque de diversões vende ingressos para um \nespetáculo. Durante um dia, foram vendidos 25 \ningressos pela manhã, 12 à tarde e 8 à noite. Cada \ningresso vendido pela manhã custa R$ 15,00, à \ntarde custa R$ 17,00 e à noite custa R$ 33,00. \nQual foi a receita total do parque nesse dia? \n \n(A) R$ 562,00 \n(B) R$ 732,00 \n(C) R$ 925,00 \n(D) R$ 843,00 \n(E) R$ 1.200,00"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 17: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n173 + 9 x 52",
+            "alternativas": {
+                "A": "714",
+                "B": "730",
+                "C": "555",
+                "D": "641",
+                "E": "380"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 18: Em uma caixa, há 24 lápis em cada pacote, e há \n9 pacotes. Quantos lápis há no total?",
+            "alternativas": {
+                "A": "215 lápis",
+                "B": "216 lápis",
+                "C": "217 lápis",
+                "D": "210 lápis",
+                "E": "220 lápis"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 19: Uma loja oferece um desconto de 25% em todos \nos produtos durante uma liquidação. Se um \nvestido custa R$ 185,00, qual é o preço com o \ndesconto aplicado?",
+            "alternativas": {
+                "A": "R$ 138,75",
+                "B": "R$ 129,25",
+                "C": "R$ 141,00",
+                "D": "R$ 135,00",
+                "E": "R$ 139,50 QUESTÃO 30 \nAssinale a alternativa que apresenta o Trigésimo \nnono número ímpar sucessor de 253: \n \n(A) 335 \n(B) 333 \n(C) 331 \n(D) 329 \n(E) 175"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 20: Uma loja de brinquedos vendeu 50 bonecas, 30 \ncarrinhos e 20 jogos de quebra-cabeça em um \ndia. Cada boneca custa R$ 25,00 cada carrinho \ncusta R$ 15,00 e cada jogo de quebra-cabeça \ncusta R$ 10,00. Qual foi o valor total das vendas \nda loja neste dia?",
+            "alternativas": {
+                "A": "R$ 2.500",
+                "B": "R$ 1.500",
+                "C": "R$ 3.000",
+                "D": "R$ 1.900",
+                "E": "R$ 4.000"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 21: Um edifício tem 12 andares. Se cada andar tem 4 \napartamentos e cada apartamento tem 3 quartos, \nquantos quartos há no edifício?",
+            "alternativas": {
+                "A": "48 quartos",
+                "B": "22 quartos",
+                "C": "144 quartos",
+                "D": "36 quartos",
+                "E": "124 quartos"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 22: Assinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n382 x 49",
+            "alternativas": {
+                "A": "18.604",
+                "B": "18.659",
+                "C": "18.703",
+                "D": "18.718",
+                "E": "18.725 Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 10 de 11 QUESTÃO 34 \nAssinale a alternativa que apresenta o \nQuadragésimo número ímpar antecessor de 165: \n(A) 85 \n(B) 90 \n(C) 87 \n(D) 81 \n(E) 83"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 23: Em uma loja, há 6 computadores em cada \nprateleira, e há 28 prateleiras no total. Quantos \ncomputadores há na loja?",
+            "alternativas": {
+                "A": "136 computadores",
+                "B": "140 computadores",
+                "C": "142 computadores",
+                "D": "148 computadores",
+                "E": "168 computadores"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 24: Em um cofrinho, Maria tem 80 moedas, sendo 30 \nmoedas de R$ 0,10, 20 moedas de R$ 0,25 e 30 \nmoedas de R$ 0,50. Qual é o valor total que \nMaria encontrou no cofrinho?",
+            "alternativas": {
+                "A": "R$ 25,00",
+                "B": "R$ 20,00",
+                "C": "R$ 22,50",
+                "D": "R$ 23,00",
+                "E": "R$ 21,50"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 25: Uma loja de eletrônicos oferece um desconto de \n15% em todos os produtos durante uma \nliquidação. Se um televisor custa R$ 2.000,00 \nsem o desconto, qual é o preço com o desconto \naplicado?",
+            "alternativas": {
+                "A": "R$ 1.600,00",
+                "B": "R$ 1.700,00",
+                "C": "R$ 1.800,00",
+                "D": "R$ 1.850,00",
+                "E": "R$ 2.100,00 QUESTÃO 38 \nJoão estabeleceu uma meta de economia para três \nsemanas consecutivas. Na primeira semana, ele \neconomizou R$ 15,00. Na segunda semana, ele \neconomizou R$ 20,00, mas também gastou R$ \n8,00 em um presente para um amigo. Na terceira \nsemana, ele economizou R$ 25,00, mas precisou \ngastar R$ 12,00 em um livro escolar. Quanto \ndinheiro João possui agora após as economias? \n(A) R$ 40,00 \n(B) R$ 45,00 \n(C) R$ 35,00 \n(D) R$ 30,00 \n(E) R$ 27,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 26: Em uma competição de matemática, um \nprofessor distribuiu o total de 40 pontos entre \nseus alunos. Se ele deu 5 pontos para cada aluno, \nquantos alunos participaram da competição?",
+            "alternativas": {
+                "A": "4 alunos",
+                "B": "6 alunos",
+                "C": "8 alunos",
+                "D": "10 alunos",
+                "E": "12 alunos"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 27: Lucas foi a uma loja de brinquedos com R$ 40,00 \npara comprar alguns itens. Ele comprou um \ncarrinho por R$ 18,00, uma bola por R$ 7,50 e \num quebra-cabeça por R$ 14,00. Quanto Lucas \ngastou no total?",
+            "alternativas": {
+                "A": "R$ 0,50",
+                "B": "R$ 21,50",
+                "C": "R$ 25,00",
+                "D": "R$ 39,50",
+                "E": "R$ 42,50 \n \n \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 11 de 11"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 1: Com base no texto, qual das seguintes afirmações \né verdadeira?",
+            "alternativas": {
+                "A": "Todas as escavações arqueológicas \nconfirmaram a existência de escravidão africana \nna metrópole portuguesa no período colonial.",
+                "B": "A ocupação moderna da região do Monte do \nVale de Lachique, ao sul de Lisboa, ocorreu \nprincipalmente devido ao trabalho de \nescravizados africanos.",
+                "C": "As escavações arqueológicas na região do \nMonte do Vale de Lachique não encontraram \nvestígios de ocupações no período colonial.",
+                "D": "Os escravizados africanos que foram trazidos \npara Portugal no período colonial eram \npredominantemente utilizados na indústria \naçucareira.",
+                "E": "O trabalho dos escravizados africanos na \nmetrópole portuguesa no período colonial não \nestá relacionado ao tráfico de pessoas \nescravizadas da África Ocidental e Central. Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 3 de 11 QUESTÃO 02 \nCom base no texto, qual das seguintes palavras é um antônimo da palavra \"intenso\", conforme utilizado \nno seguinte trecho: \"Esse é um período em que o tráfico de pessoas escravizadas para Portugal a partir \nda África Ocidental e Central foi bastante  intenso \"? \n(A) Frequente. \n(B) Duradouro. \n(C) Profundo. \n(D) Acentuado. \n(E) Fraco."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 2: No trecho \" Faz sentido: estudos recentes estimam que foram trazidos da África para a colônia \nestabelecida por Portugal no Novo Mundo pelo menos 5,8 milhões de indivíduos escravizados \nentre os séculos 16 e 19 ,\" identifique a classe gramatical da palavra \"indivíduos\".",
+            "alternativas": {
+                "A": "Substantivo.",
+                "B": "Verbo.",
+                "C": "Adjetivo.",
+                "D": "Advérbio.",
+                "E": "Pronome."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 3: Das alternativas a seguir, escolha aquela que apresenta uma preposição na frase: \"durante esse período \nforam levadas muitas pessoas escravizadas para o sul\":",
+            "alternativas": {
+                "A": "durante.",
+                "B": "muitas.",
+                "C": "para.",
+                "D": "pessoas.",
+                "E": "sul. \n \n \n \n \n \n \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 4 de 11 QUESTÃO 05 \nConsidere o trecho a seguir: \n\"O autor escreveu, com habilidade notável, diversos contos que encantaram os leitores.\" \nNesse contexto, a pontuação com vírgulas desempenha um papel específico. Qual é a função princip al \ndas vírgulas no trecho acima? \n(A) Separar elementos de uma enumeração. \n(B) Indicar a presença de um aposto explicativo. \n(C) Sinalizar uma oração subordinada adverbial. \n(D) Isolar um adjunto adverbial de modo. \n(E) Separar o sujeito do predicado."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 4: (Disponível em: https://revistagalileu.globo.com/Cultura/noticia/2020/09/7-tirinhas-de-mafalda-para-\nrefletir-sobre-os-tempos-atuais.html .  \nCom base na tirinha da Mafalda, qual das seguintes alternativas melhor reflete a mensagem central do \nquadrinho?",
+            "alternativas": {
+                "A": "Mafalda está elogiando o pai por se preocupar mais com futebol do que com questões sociais.",
+                "B": "O pai de Mafalda se sente envergonhado porque percebeu que estava priorizando o futebol em vez \nde questões sociais mais importantes.",
+                "C": "Mafalda critica o pai por não se importar com futebol, que ela considera um assunto relevante.",
+                "D": "O pai de Mafalda está feliz porque sua filha compartilha seu interesse pelo futebol.",
+                "E": "Mafalda zomba do pai por se importar tanto com futebol enquanto questões sociais sérias são \nignoradas. \n \n \n \nPrefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 5 de 11 QUESTÃO 07 \n\"Na exposição de arte, havia três esculturas \nmodernas em destaque.\"  \nQual classe de palavras corresponde à palavra \ndestacada no trecho? \n(A) Verbo. \n(B) Substantivo. \n(C) Numeral.  \n(D) Adjetivo.  \n(E) Advérbio."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 5: Leia o seguinte trecho de um romance e responda \nà pergunta a seguir: \n\"O sol brilhava no céu azul, as árvores \nbalançavam suavemente ao vento e os pássaros \ncantavam alegremente.\" \nA conjunção \"e\" no trecho acima desempenha \nque função na estrutura da frase?",
+            "alternativas": {
+                "A": "Indicar uma oposição entre os elementos \nenumerados.",
+                "B": "Estabelecer uma relação de causa e efeito \nentre os elementos.",
+                "C": "Adicionar ênfase a cada elemento da \nenumeração.",
+                "D": "Conectar elementos de maneira coordenada, \nindicando que eles ocorrem simultaneamente.",
+                "E": "Separar elementos em categorias distintas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 6: Assinale a alternativa correta sobre pronomes \nrelativos:",
+            "alternativas": {
+                "A": "Pronomes relativos são sempre utilizados no \nsingular.",
+                "B": "O pronome relativo \"quem\" refere-se a \nobjetos e coisas.",
+                "C": "O pronome relativo \"que\" pode ser utilizado \npara substituir um antecedente masculino ou \nfeminino.",
+                "D": "Pronomes relativos introduzem uma ideia de \nposse ou pertencimento.",
+                "E": "Os pronomes relativos não podem ser \nutilizados para introduzir orações subordinadas \nadjetivas. \n QUESTÃO 10 \nJoão e Maria eram irmãos que viviam em uma \npequena casa no bosque com seu pai e madrasta. \nUm dia, a família enfrentou tempos difíceis e a \nmadrasta, influenciada pela ganância, convenceu \no pai a abandonar as crianças no coração da \nfloresta, para que eles não fossem um fardo. João, \nporém, ouviu a conversa e planejou um plano. \nEle pegou algumas pedrinhas brilhantes e as \nespalhou pelo caminho enquanto caminhavam na \nescuridão da noite. Assim, eles conseguiram \nencontrar o caminho de volta para casa. \nNo entanto, a madrasta não desistiu tão \nfacilmente. Em uma segunda tentativa, ela \nconvenceu o pai a levá-los ainda mais fundo na \nfloresta e deixá-los lá. Desta vez, João e Maria \ntiveram apenas migalhas de pão para seguir o \ncaminho de volta, mas as migalhas foram \ndevoradas pelos pássaros famintos do bosque. \nPerdidos, eles vagaram pela floresta até encontrar \numa casa feita de doces, coberta de açúcar e \nchocolate. Famintos e atraídos pela visão, \ncomeçaram a comer a casa. \nA casa pertencia a uma bruxa malvada que \naprisionou João e Maria. Através de coragem e \nastúcia, eles conseguiram escapar das garras da \nbruxa e voltar para casa, onde seu pai havia \nfinalmente reconhecido o erro e estava esperando \npor eles com arrependimento. \nJoão e Maria\" (Texto Adaptado).  Em: Contos de Fadas Clássicos. \nEditora Encanto, 2005, p. 32-40 \n \nCom base no excerto do conto de fadas \"João e \nMaria\", qual foi o motivo que levou a madrasta a \nconvencer o pai a tomar uma decisão drástica em \nrelação às crianças? \n(A) A madrasta estava preocupada com a \nsegurança das crianças na floresta. \n(B) A madrasta estava tomada por uma emoção \nnegativa e achava que as crianças representavam \num desafio devido aos tempos difíceis que a \nfamília estava enfrentando.  \n(C) A madrasta acreditava que as crianças \nprecisavam aprender a sobreviver na natureza e \npor isso convenceu o marido a deixá-las na \nfloresta.  \n(D) A madrasta desejava que as crianças \ntivessem uma experiência de vida única na \nfloresta, desta forma poderiam desenvolver mais \nrapidamente sua maturidade.  \n(E) A madrasta queria ensinar uma lição valiosa \nàs crianças. Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 6 de 11 TEXTO \nLeia o texto para responder às questões 11 e 12. \n \nPelo menos 100 pessoas morreram e outras 150 \nficaram feridas em um incêndio em um \ncasamento no norte do Iraque, informou a mídia \nestatal do país. A noiva e o noivo estariam entre \nas vítimas, segundo véiculos da imprensa local. \nO incêndio aconteceu no distrito de Al-\nHamdaniya, na província de Nínive, na noite de \nterça-feira (26). Ainda não está claro o que \ncausou o incêndio, mas os primeiros relatos \nindicam que ele começou depois que fogos de \nartifício foram usados.Painéis inflamáveis no \nlocal podem ter ajudado a propagação das \nchamas, fazendo com que partes do teto caíssem.  \n“O incêndio levou ao colapso de partes do \npavilhão como resultado do uso de materiais de \nconstrução altamente inflamáveis e de baixo \ncusto, que desmoronaram em poucos minutos \nquando o in cêndio começou”, afirmou a Defesa \nCivil do Iraque, citada pela agência Nina.  \nUm vídeo registrado por um correspondente da \nagência de notícias Reuters mostra bombeiros \nescalando os destroços do prédio em busca de \nsobreviventes nas primeiras horas da manhã de \nquarta-feira (27, no horário local).  \n\"Vimos o fogo pulsando, saindo do corredor. \nQuem conseguiu, escapou, e quem não \nconseguiu, ficou preso\", disse à Reuters Imad \nYohana, um homem de 34 anos que conseguiu \nescapar. Ambulâncias e equipes médicas foram \nenviadas ao local. \nO primeiro-ministro do Iraque ordenou às \nautoridades que \"mobilizem todos os esforços \npara fornecer ajuda às pessoas afetadas pelo \ninfeliz incidente\", afirmou o seu gabinete numa \npublicação no X (rede anteriormente conhecida \ncomo Twitter). Os feridos foram transferidos \npara hospitais em toda a região de Nínive, disse \no governador da região. Ele sugeriu que o \nnúmero de mortos e feridos ainda pode aumentar.  \nNo principal hospital de Hamdaniya, cidade a \nleste da capital da região, Mossul, dezenas de \npessoas apareceram para doar sangue para ajudar \nos feridos. \n(Disponível em: \nhttps://www.bbc.com/portuguese/articles/c03dgl\n89z84o .  QUESTÃO 11 \nDe acordo com a notícia sobre o incêndio durante \num casamento no norte do Iraque, qual evento \ndurante a celebração foi mencionado como um \npossível fator que contribuiu para o início do \nincêndio? \n(A) A queima de velas decorativas. \n(B) A explosão de um gerador de energia.  \n(C) A queda de objetos inflamáveis.  \n(D) O disparo de fogos de artifício.  \n(E) O superaquecimento do sistema de \niluminação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 7: De acordo com o texto, qual foi a reação das \npessoas após o incêndio ocorrido durante o \ncasamento no norte do Iraque?",
+            "alternativas": {
+                "A": "Elas fugiram imediatamente do local.",
+                "B": "Elas ajudaram a apagar o incêndio.",
+                "C": "Elas doaram sangue para as vítimas.",
+                "D": "Elas permaneceram dentro do pavilhão.",
+                "E": "Elas responsabilizaram o governo pela \ntragédia."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 8: Qual das seguintes afirmações descreve com \nprecisão a função principal do verbo em uma \nsentença, levando em consideração sua relação \ncom os elementos gramaticais e a estrutura da \nfrase?",
+            "alternativas": {
+                "A": "Controlar a concordância entre sujeito e \npredicado.",
+                "B": "Determinar a ordem das palavras na \nsentença.",
+                "C": "Indicar a relação entre dois substantivos na \nfrase.",
+                "D": "Indicar uma ação, estado ou fenômeno da \nnatureza.",
+                "E": "Estabelecer a relação causal entre duas \norações independentes. \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 7 de 11 QUESTÃO 14 \nLeia atentamente o trecho a seguir e identifique \no advérbio: \n\"Naquela manhã ensolarada, as crianças \nbrincavam alegremente no parque, enquanto os \nadultos conversavam animadamente sobre \ndiversos assuntos.\" \n(A) Naquela \n(B) ensolarada \n(C) alegremente \n(D) no \n(E) sobre"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 9: Em um debate sobre a evolução da literatura \ngótica, o palestrante mencionou que uma das \ncaracterísticas marcantes desse gênero é a \natmosfera \"lúgubre\" que frequentemente permeia \nas histórias. No contexto literário, qual das \nseguintes palavras é um sinônimo adequado para \n\"lúgubre\"?",
+            "alternativas": {
+                "A": "Ensolarado.",
+                "B": "Melancólico.",
+                "C": "Animado.",
+                "D": "Triunfante.",
+                "E": "Majestoso."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 10: A crase é uma característica marcante da língua \nportuguesa e seu uso pode ser desafiador para \nmuitos falantes. Considere a seguinte frase: \n \n\"Maria foi à escola.\" \nQual é o propósito do emprego da crase na frase \nacima?",
+            "alternativas": {
+                "A": "Expressar pluralidade de objetos de forma \nenfática.",
+                "B": "Sinalizar acento tônico em sílabas \nespecíficas.",
+                "C": "Indicar a omissão de uma vogal em casos \nespecíficos.",
+                "D": "Promover a fusão de sons vocálicos em \ncontextos determinados.",
+                "E": "Distinguir o gênero gramatical de \nsubstantivos em frases complexas. \n QUESTÃO 17 \nO que caracteriza o sentido figurado das \npalavras?  \n(A) O uso das palavras com significado literal.  \n(B) A utilização de palavras em seu sentido real.  \n(C) O emprego das palavras em contextos \nespecíficos. \n(D) A atribuição de significados não literais às \npalavras. \n(E) A correspondência direta entre palavra e \nconceito."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 11: Qual é a função do adjetivo na língua portuguesa \nde acordo com as normas gramaticais?",
+            "alternativas": {
+                "A": "Denotar ação ou estado.",
+                "B": "Atuar como um substituto de um \nsubstantivo.",
+                "C": "Estabelecer conexões entre frases em um \ntexto.",
+                "D": "Indicar uma relação temporal.",
+                "E": "Qualificar ou caracterizar um substantivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 12: A concordância de número se refere à \ncorrespondência gramatical entre as palavras em \numa frase em relação ao número. Identifique a \nalternativa em que há um erro de concordância \nnominal:",
+            "alternativas": {
+                "A": "Os livros antigos estão empoeirados.",
+                "B": "As flores perfumadas alegram o jardim.",
+                "C": "Os aluno estudiosos receberam elogios.",
+                "D": "O céu noturno estava estrelado.",
+                "E": "O carro novo é mais econômico. \n \n \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 8 de 11 QUESTÃO 20 \nA linguagem figurada desempenha um papel \ncrucial na comunicação e na literatura, \npermitindo que os escritores expressem ideias e \nemoções de maneira criativa e simbólica. \nConsidere a seguinte frase: \n\"A notícia da promoção dela foi música para os \nmeus ouvidos.\" \nNesta frase, qual das expressões a seguir \napresenta um sentido figurado? \n(A) \"Notícia da promoção\" que sugere uma \natualização sobre o status profissional. \n(B) \"Música para os meus ouvidos\" que denota \numa reação extremamente positiva à notícia. \n(C) \"Ouvir música\" que se refere à ação de \nescutar músicas. \n(D) “A notícia” que indica o conteúdo da \nmensagem comunicada. \n(E) “Meus ouvidos” que identifica o órgão \nsensorial envolvido na audição. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 13: Assinale a alternativa que apresenta o Vigésimo \nsegundo número ímpar antecessor de 137:",
+            "alternativas": {
+                "A": "91",
+                "B": "97",
+                "C": "115",
+                "D": "95",
+                "E": "93"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 14: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n1425 + 9 x 9",
+            "alternativas": {
+                "A": "1494",
+                "B": "1514",
+                "C": "1476",
+                "D": "1537",
+                "E": "1506 \n QUESTÃO 23 \nAssinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n43 x 123 x 2 \n \n(A) 10.578 \n(B) 8.196 \n(C) 9.616 \n(D) 6.578 \n(E) 10.598"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 15: Um livro tem 1269 páginas. Se uma pessoa lê 27 \npáginas por dia, quantos dias levará para terminar \nde ler o livro?",
+            "alternativas": {
+                "A": "45 dias",
+                "B": "46 dias",
+                "C": "47 dias",
+                "D": "48 dias",
+                "E": "49 dias"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 16: Em uma maratona, um corredor completou 8 \nvoltas em um circuito. Na primeira volta, ele fez \no percurso em 6 minutos, na segunda volta em 7 \nminutos, na terceira volta em 5 minutos, na \nquarta volta em 6 minutos, na quinta volta em 8 \nminutos, na sexta volta em 7 minutos, na sétima \nvolta em 5 minutos e na oitava volta em 6 \nminutos. Quantos minutos o corredor levou para \ncompletar todas as voltas?",
+            "alternativas": {
+                "A": "50 minutos",
+                "B": "53 minutos",
+                "C": "54 minutos",
+                "D": "56 minutos",
+                "E": "58 minutos \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 9 de 11 QUESTÃO 26 \nUm parque de diversões vende ingressos para um \nespetáculo. Durante um dia, foram vendidos 25 \ningressos pela manhã, 12 à tarde e 8 à noite. Cada \ningresso vendido pela manhã custa R$ 15,00, à \ntarde custa R$ 17,00 e à noite custa R$ 33,00. \nQual foi a receita total do parque nesse dia? \n \n(A) R$ 562,00 \n(B) R$ 732,00 \n(C) R$ 925,00 \n(D) R$ 843,00 \n(E) R$ 1.200,00"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 17: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n173 + 9 x 52",
+            "alternativas": {
+                "A": "714",
+                "B": "730",
+                "C": "555",
+                "D": "641",
+                "E": "380"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 18: Em uma caixa, há 24 lápis em cada pacote, e há \n9 pacotes. Quantos lápis há no total?",
+            "alternativas": {
+                "A": "215 lápis",
+                "B": "216 lápis",
+                "C": "217 lápis",
+                "D": "210 lápis",
+                "E": "220 lápis"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 19: Uma loja oferece um desconto de 25% em todos \nos produtos durante uma liquidação. Se um \nvestido custa R$ 185,00, qual é o preço com o \ndesconto aplicado?",
+            "alternativas": {
+                "A": "R$ 138,75",
+                "B": "R$ 129,25",
+                "C": "R$ 141,00",
+                "D": "R$ 135,00",
+                "E": "R$ 139,50 QUESTÃO 30 \nAssinale a alternativa que apresenta o Trigésimo \nnono número ímpar sucessor de 253: \n \n(A) 335 \n(B) 333 \n(C) 331 \n(D) 329 \n(E) 175"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 20: Uma loja de brinquedos vendeu 50 bonecas, 30 \ncarrinhos e 20 jogos de quebra-cabeça em um \ndia. Cada boneca custa R$ 25,00 cada carrinho \ncusta R$ 15,00 e cada jogo de quebra-cabeça \ncusta R$ 10,00. Qual foi o valor total das vendas \nda loja neste dia?",
+            "alternativas": {
+                "A": "R$ 2.500",
+                "B": "R$ 1.500",
+                "C": "R$ 3.000",
+                "D": "R$ 1.900",
+                "E": "R$ 4.000"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 21: Um edifício tem 12 andares. Se cada andar tem 4 \napartamentos e cada apartamento tem 3 quartos, \nquantos quartos há no edifício?",
+            "alternativas": {
+                "A": "48 quartos",
+                "B": "22 quartos",
+                "C": "144 quartos",
+                "D": "36 quartos",
+                "E": "124 quartos"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 22: Assinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n382 x 49",
+            "alternativas": {
+                "A": "18.604",
+                "B": "18.659",
+                "C": "18.703",
+                "D": "18.718",
+                "E": "18.725 Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 10 de 11 QUESTÃO 34 \nAssinale a alternativa que apresenta o \nQuadragésimo número ímpar antecessor de 165: \n(A) 85 \n(B) 90 \n(C) 87 \n(D) 81 \n(E) 83"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 23: Em uma loja, há 6 computadores em cada \nprateleira, e há 28 prateleiras no total. Quantos \ncomputadores há na loja?",
+            "alternativas": {
+                "A": "136 computadores",
+                "B": "140 computadores",
+                "C": "142 computadores",
+                "D": "148 computadores",
+                "E": "168 computadores"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 24: Em um cofrinho, Maria tem 80 moedas, sendo 30 \nmoedas de R$ 0,10, 20 moedas de R$ 0,25 e 30 \nmoedas de R$ 0,50. Qual é o valor total que \nMaria encontrou no cofrinho?",
+            "alternativas": {
+                "A": "R$ 25,00",
+                "B": "R$ 20,00",
+                "C": "R$ 22,50",
+                "D": "R$ 23,00",
+                "E": "R$ 21,50"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 25: Uma loja de eletrônicos oferece um desconto de \n15% em todos os produtos durante uma \nliquidação. Se um televisor custa R$ 2.000,00 \nsem o desconto, qual é o preço com o desconto \naplicado?",
+            "alternativas": {
+                "A": "R$ 1.600,00",
+                "B": "R$ 1.700,00",
+                "C": "R$ 1.800,00",
+                "D": "R$ 1.850,00",
+                "E": "R$ 2.100,00 QUESTÃO 38 \nJoão estabeleceu uma meta de economia para três \nsemanas consecutivas. Na primeira semana, ele \neconomizou R$ 15,00. Na segunda semana, ele \neconomizou R$ 20,00, mas também gastou R$ \n8,00 em um presente para um amigo. Na terceira \nsemana, ele economizou R$ 25,00, mas precisou \ngastar R$ 12,00 em um livro escolar. Quanto \ndinheiro João possui agora após as economias? \n(A) R$ 40,00 \n(B) R$ 45,00 \n(C) R$ 35,00 \n(D) R$ 30,00 \n(E) R$ 27,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 26: Em uma competição de matemática, um \nprofessor distribuiu o total de 40 pontos entre \nseus alunos. Se ele deu 5 pontos para cada aluno, \nquantos alunos participaram da competição?",
+            "alternativas": {
+                "A": "4 alunos",
+                "B": "6 alunos",
+                "C": "8 alunos",
+                "D": "10 alunos",
+                "E": "12 alunos"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AJUDANTE GERAL",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "06/2023",
+            "questão": "Questão 27: Lucas foi a uma loja de brinquedos com R$ 40,00 \npara comprar alguns itens. Ele comprou um \ncarrinho por R$ 18,00, uma bola por R$ 7,50 e \num quebra-cabeça por R$ 14,00. Quanto Lucas \ngastou no total?",
+            "alternativas": {
+                "A": "R$ 0,50",
+                "B": "R$ 21,50",
+                "C": "R$ 25,00",
+                "D": "R$ 39,50",
+                "E": "R$ 42,50 \n \n \n Prefeitura Municipal Da Estância Balneária De Ubatuba Concurso Público 06/2023                 INSTITUTO AVANÇA SÃO PAULO \n \nAJUDANTE GERAL                                                                                                                                     Página 11 de 11"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

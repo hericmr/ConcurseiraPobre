@@ -1,3 +1,1894 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5902f3802dfad6d459f8304cfdb7a9681e20626de459912f738b3f1d0525fc35
-size 191206
+{
+    "TESOUREIRO": [
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, os Jogos Paralímpicos:",
+            "alternativas": {
+                "A": "Tiveram início durante a Segunda Guerra \nMundial, com soldados lesionados que não \npodiam retornar ao confronto.",
+                "B": "Foram resultado de uma abordagem \nrevolucionária de tratamento de pacientes feridos \nno pós-guerra, que incluía artesanato e a prática \nde esportes.",
+                "C": "Foram idealizados pelo médico neurologista \nSir Ludwig Guttman, que também era portador \nde deficiência e não concordava com a \ninatividade de pessoas como ele.",
+                "D": "Aconteceram de forma oficial e internacional \npela primeira vez em julho de 1948, dentro de um \nhospital, sob incentivo do médico Sir Ludwig \nGuttman.",
+                "E": "Aumentou a perspectiva de vida das pessoas \ncom deficiência em geral, uma vez que, ao \npraticar esportes, saem de longos períodos de \ninatividade."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Analise os excertos a seguir, retirados do texto, e \nassinale a alternativa em que o vocábulo “o(s)” \nocorre como pronome demonstrativo, \nconsiderando também a possibilidade de \ncontração com uma preposição.",
+            "alternativas": {
+                "A": "Os Jogos Paralímpicos, como conhecemos \nhoje, não começaram como uma grande \ncompetição mundial de diversos esportes.",
+                "B": "Essas competições continuaram a crescer, \ntornando-se eventos anuais no hospital.",
+                "C": "O que começou com uma competição \nmodesta entre alguns pacientes veio a se tornar \num dos maiores símbolos de inclusão do mundo.",
+                "D": "O impacto foi imediato e transformador.",
+                "E": "O crescimento do movimento paralímpico foi \nacompanhado pela inclusão de atletas com \ndiferentes tipos de deficiência. \n \n \n  \nConsidere o seguinte excerto, retirado do \ntexto, para responder às questões 3 e 4:  \n“Ele acreditava que a prática esportiva não \napenas ajudaria no condicionamento físico, mas \ntambém restauraria a dignidade e a autoestima \ndaquelas pessoas.”"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A expressão “não apenas […] mas também”, que \nocorre no excerto dado, imprime ao contexto um \nsentido:",
+            "alternativas": {
+                "A": "adversativo.",
+                "B": "aditivo.",
+                "C": "conformativo.",
+                "D": "consecutivo.",
+                "E": "concessivo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: O vocábulo “que” , que ocorre no excerto dado, \natua como:",
+            "alternativas": {
+                "A": "pronome relativo.",
+                "B": "pronome interrogativo.",
+                "C": "conjunção integrante.",
+                "D": "conjunção causal.",
+                "E": "preposição."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: O encontro vocálico encontrado em “pedreira ” é \num ditongo decrescente. O mesmo tipo de \nditongo também se encontra em:",
+            "alternativas": {
+                "A": "ouriço.",
+                "B": "rosácea.",
+                "C": "pátria.",
+                "D": "equino.",
+                "E": "névoa. \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 4 de 15 QUESTÃO 06 \nHá o emprego incorreto da vírgula, separando o \nverbo de seu(s) complemento(s), apenas em: \n(A) A mulher questionou a professora, das falas \nsobre seu filho. \n(B) Todo o meu rosto, em razão da insolação, \nardia como fogo.  \n(C) Sua preguiça era tanta, que não conseguiu \nfinalizar suas tarefas. \n(D) Alguns disseram que ela ficou furiosa, \noutros, que apenas se chateou. \n(E) Enquanto ela preparava o jantar, a garotinha \nbrincava de boneca."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: A concordância nominal está incorreta  apenas \nem:",
+            "alternativas": {
+                "A": "A senhora possui muitas joias e outros itens \ncaros em sua casa.",
+                "B": "Delicadas flores e ornamentos enchiam as \nprateleiras das janelas.",
+                "C": "Este manuscrito foi traduzido para as línguas \ninglesa e espanhola.",
+                "D": "Esses dois artigos, por si só, bastariam para \ntorná-lo um gênio.",
+                "E": "Pedro e Ana casaram-se às pressas, um por \namor, o outro, por obrigação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Ocorre um verbo com regência pronominal e \ntransitiva indireta, simultaneamente, apenas em:",
+            "alternativas": {
+                "A": "Ele estreou-se no programa televisivo, como \nator, na última semana.",
+                "B": "Disseram-lhe que as provas seriam \nremarcadas.",
+                "C": "Sabe-se que as investigações policiais \ncostumam demorar.",
+                "D": "As meninas ajudavam-no a melhorar nos dias \ntristes.",
+                "E": "Perguntaram-me se iria à festa, mas não pude \nrespondê-los.  QUESTÃO 09 \nA sentença cuja palavra em destaque é um \npronome indefinido é: \n(A) Avisem- nos a respeito dos novos prazos de \ninscrição do curso. \n(B) Tudo aquilo  está disponível para doação. \n(C) As pessoas costumam acreditar no que \npodem ver.  \n(D) Alguns  dos alunos não tiveram tempo de \nfinalizar suas redações. \n(E) As suas memórias são o que você tem de \nmais valioso."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Dentre as palavras a seguir, verifica-se um sufixo \nindicador de grau aumentativo apenas em:",
+            "alternativas": {
+                "A": "aldeões.",
+                "B": "muralha.",
+                "C": "cirurgiã.",
+                "D": "estudantes.",
+                "E": "cresceram. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Dado um triângulo retângulo isóscele cuja \nmedida do cateto é igual a 2 cm, qual deve ser o \nlado, aproximadamente, de um quadrado para \nque este tenha a mesma área que o triângulo?",
+            "alternativas": {
+                "A": "2,2 cm.",
+                "B": "1,4 cm.",
+                "C": "1,0 cm.",
+                "D": "0,8 cm.",
+                "E": "0,9 cm. \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 5 de 15 QUESTÃO 12 \nSabe-se que a média aritmética simples das \nidades de uma turma de 100 pessoas é 36 anos e \nque ninguém nesta turma tem idade exatamente \nigual a 36 anos. Além disso, sabe-se que a médias \ndas idades das 50 pessoas mais velhas é 25% \nmaior que a média das idades das 50 pessoas \nmais jovens. Nesta situação, qual a média das \nidades das 50 pessoas mais jovens? \n(A) 34 anos.  \n(B) 28 anos.  \n(C) 31 anos. \n(D) 32 anos. \n(E) 35 anos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Um dodecágono é um polígono regular que tem \n12 lados. Se o perímetro de um dodecágono é 18 \ncm, então pode-se afirmar que seu lado mede:",
+            "alternativas": {
+                "A": "0,2 cm.",
+                "B": "1,0 cm.",
+                "C": "1,5 cm.",
+                "D": "1,8 cm.",
+                "E": "1,2 cm."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Se daqui a 64 dias será uma sexta-feira, qual dia \nda semana será daqui a 268 dias?",
+            "alternativas": {
+                "A": "Quarta-feira.",
+                "B": "Quinta-feira.",
+                "C": "Sexta-feira.",
+                "D": "Sábado.",
+                "E": "Domingo. \n \n \n \n QUESTÃO 15 \nA figura abaixo mostra três elementos de um \nconjunto que contém figuras seguindo uma \nmesma lógica de construção: \n \n \nNas figuras, apenas círculos de cores diferentes \nsão ligados. Observando o padrão das figuras, \nqual elemento dentre as correspondências \nabaixo, poderia ser um elemento desse conjunto? \n \n(A) I.  \n(B) II.  \n(C) III. \n(D) IV. \n(E) V. \n \nNOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Qual dos seguintes programas é um software \nnativo incluído na versão do sistema operacional \nWindows 7?  \nAssinale a opção que apresenta um aplicativo que \nvem pré-instalado com o sistema e é utilizado \npara tarefas comuns do dia a dia de usuários em \ngeral:",
+            "alternativas": {
+                "A": "Adobe Photoshop.",
+                "B": "Microsoft Office Word.",
+                "C": "VLC Media Player.",
+                "D": "CorelDRAW.",
+                "E": "Windows Media Player. \nPrefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 6 de 15 QUESTÃO 17 \nAnalise a lista de softwares abaixo e assinale a \nalternativa que identifica corretamente o \nprograma utilizado para a criação de desenhos \nsimples e para a edição de imagens no Windows \n7:  \n(A) Microsoft SQL.  \n(B) Microsoft Script. \n(C) Microsoft Paint. \n(D) Microsoft Power. \n(E) Microsoft Scrum."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: No contexto da navegação na internet, é \nimportante compreender os diversos termos e \nconceitos utilizados para descrever elementos e \nfuncionalidades da web. O termo \"home page\" \nestá associado a qual das definições descritas a \nseguir:",
+            "alternativas": {
+                "A": "Trata-se da página principal que carrega por \npadrão ao digitar o endereço de um site.",
+                "B": "Trata-se da página de login de um site \nbancário.",
+                "C": "Trata-se da ferramenta de busca do Google.",
+                "D": "Trata-se da página de configurações de \npreferências de navegação.",
+                "E": "Trata-se da ferramenta de restrição de acessos \ndo Google Chrome."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: É uma área de armazenamento temporário do \nnavegador de internet que guarda arquivos e \ninformações de sites visitados anteriormente, \npara acelerar o tempo de carregamento da página:",
+            "alternativas": {
+                "A": "Histórico de Navegação.",
+                "B": "Favoritos.",
+                "C": "Cache.",
+                "D": "Flash.",
+                "E": "Modo Incognito, \n QUESTÃO 20 \nNos navegadores de internet, também \nconhecidos como browsers, o campo onde o \nusuário digita a URL do site que deseja visitar é \nintitulado de:  \n(A) Barra de Favoritos. \n(B) Barra de Endereços. \n(C) Barra de Opções. \n(D) Barra de Ferramentas. \n(E) Barra de Status. \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: De acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, quantos dias \nconsecutivos um funcionário pode se ausentar do \nserviço por motivo de casamento?",
+            "alternativas": {
+                "A": "Até 1 (um) dia",
+                "B": "Até 3 (três) dias",
+                "C": "Até 5 (cinco) dias",
+                "D": "Até 8 (oito) dias",
+                "E": "Até 10 (dez) dias"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: De acordo com a Lei Municipal nº 851 de 1990, \nque dispõe sobre o Estatuto dos Funcionários \nPúblicos Municipais de Paraty, o salário família \né um auxílio especial concedido ao funcionário \nem exercício, aposentado ou em disponibilidade \npara ajudar na manutenção de um dependente.  \nA quem é concedido o salário família quando \nambos os pais são funcionários do Município e \nnão vivem em comum?",
+            "alternativas": {
+                "A": "Ao pai",
+                "B": "À mãe",
+                "C": "A ambos os pais",
+                "D": "Será concedido ao que tiver o dependente \nsob sua guarda ou em sua companhia.",
+                "E": "Nenhum dos pais, o critério para receber o \nsalário família é o casamento.  \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 7 de 15 QUESTÃO 23 \nLendas locais. \n \nO Livro de Paraty , conta a história de uma moça \nda cidade, que às vésperas de seu casamento, \namanheceu morta. Após o enterro, no cemitério \nda Igreja da Santa Rita, o noivo, inconsolável, \npermaneceu no jardim da praça da igreja, \nlamentando a sua sorte. À noite, ele viu sair da \nporta do cemitério um vulto vestido de noiva que \nvinha beber água no chafariz da praça. \nAproximou-se e reconheceu sua noiva e \nperguntou-lhe o que fazia ali, àquela hora. Ela \nrespondeu que vinha beber água, pois havia \nmorrido com sede e, sumiu no ar. Desesperado, \nele procurou os pais da moça, as autoridades, \ncontou a história e disse que sua noiva fora \nenterrada viva.  \nO que foi encontrado quando a sepultura da noiva \nfoi aberta pela manhã? \n \n(A) O corpo da moça estava em posição normal \nno caixão. \n(B) Encontraram o corpo da moça fora do caixão. \n(C) O corpo da moça estava com um copo de \nágua ao lado. \n(D) Encontraram o corpo da moça de bruços no \ncaixão.  \n(E) O corpo da moça não estava no caixão."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: De acordo com a Unidade 5 do livro de Paraty, \nque trata sobre Política e Cidadania, qual das \nseguintes opções  não é um dever  do cidadão?",
+            "alternativas": {
+                "A": "Votar para escolher os governantes;",
+                "B": "Cumprir as leis;",
+                "C": "Educar e proteger seus semelhantes;",
+                "D": "Proteger o patrimônio público e social do \nPaís.",
+                "E": "É um dever, à saúde, à educação, à moradia, \nao trabalho, à previdência social, ao lazer, entre \noutros. \n \n \n \n \n QUESTÃO 25 \nDe acordo com a Lei Orgânica Municipal de \nParaty, qual é a duração do mandato do Prefeito? \n \n(A) 2 (dois) anos \n(B) 3 (três) anos \n(C) 5 (cinco) anos \n(D) 4 (quatro) anos \n(E) 6 (seis) anos"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: Os dispêndios, assim como os ingressos de \nreceitas, são tipificados em orçamentários e \nextraorçamentários. Segundo o art. 35 da Lei nº \n4.320/1964 e Manual de Contabilidade Aplicada \nao Setor Público (MCASP) (2023), pertencem ao \nexercício financeiro de um período as receitas \nnele arrecadadas e as despesas nele legalmente \nempenhadas. \nSobre o assunto, avalie a veracidade (V) ou \nfalsidade (F) das afirmações a seguir. \n \n(   ) No momento da sua realização, a despesa \norçamentária não efetiva, não reduz a situação \nlíquida patrimonial da entidade, pois constitui \nfato contábil permutativo. \n(   ) Em geral, a despesa orçamentária efetiva é \ndespesa corrente, mas pode ter caráter de despesa \ncorrente não efetiva, caso represente fatos \ncontábeis permutativos. \n(   ) No momento de sua realização, a despesa \norçamentária efetiva não reduz a situação líquida \npatrimonial da entidade, ou seja, constitui fato \ncontábil permutativo.",
+            "alternativas": {
+                "A": "F – V – F.",
+                "B": "F – F – V.",
+                "C": "V – V – F.",
+                "D": "V – F – V.",
+                "E": "F – V – V. \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 8 de 15 QUESTÃO 27 \nSegundo o Manual de Contabilidade Aplicada ao Setor Público (MCASP) (2023 p. 130), distinguem-\nse dois tipos de restos a pagar: os processados e os não processados, sendo os primeiros formados pelas \n__________________ e os segundos __________________. Ainda segundo o MCASP, a continuidade \ndos estágios de execução de tais despesas ocorrerá no próximo exercício, devendo ser controlados em \ncontas de natureza de informação orçamentária específicas. \nAssinale a alternativa que correta e sequencialmente preenche as lacunas \n(A) Despesas fixas / Despesas variáveis. \n(B) Despesas de capital / Despesas de custeio. \n(C) Despesas com ativos circulantes / Despesas com ativos imobilizados. \n(D) Despesas com bens de capital / Despesas com bens de consumo corrente. \n(E) Despesas já liquidadas /despesas a liquidar ou em liquidação."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: O Balanço Orçamentário (BO) apresenta o confronto entre as receitas e despesas previstas e re alizadas \ne serve de base para apurar o superávit ou o déficit orçamentário de um período. Considere o BO \nsimplificado abaixo e, com base nessas informações, calcule as diferenças entre receitas e despes as, \nprevistas e realizadas correntes e de capital, e apure o superávit ou déficit do período. \n \nRECEITAS \nItem Previsão Execução Diferença \nCorrente 400 440  \nDe capital 100 80  \nTotal    \nDéficit   \nTOTAL    \nDESPESAS \nItem  Previsão Execução Diferença \nCorrente 300 300  \nDe capital 200 100  \nTotal    \nSuperávit    \nTOTAL    \n \nConsiderando os conceitos e cálculos efetuados é correto afirmar em:",
+            "alternativas": {
+                "A": "Ocorreu déficit na conta de capital das receitas.",
+                "B": "Ocorreu superávit na receita corrente no período.",
+                "C": "Ocorreu déficit na conta de capital das despesas.",
+                "D": "Ocorreu superávit de capital no período analisado.",
+                "E": "Ocorreu superávit na conta corrente das despesas. \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 9 de 15 QUESTÃO 29 \nComo estabelece a Lei nº 4.320/1964 e o Manual \nde Contabilidade Aplicada ao Setor Público \n(MCASP) (2023), a execução da despesa \norçamentária ocorre por meio de três estágios: \nempenho, liquidação e pagamento. O empenho \ncompreende ato realizado por autoridade \ncompetente que atribui ao Estado obrigação de \npagamento pendente ou não de implemento de \ncondição. \nAvalie as afirmações a seguir: \nI. Empenho ordinário: tipo de empenho utilizado \npara despesas contratuais ou outras de valor \ndeterminado, sujeitas a parcelamento. \nII. Empenho estimativo: é o tipo de empenho \nutilizado para as despesas cujo montante não se \npode determinar de forma assertiva. \nIII. Empenho global: tipo de empenho utilizado \npara as despesas de valor fixo e previamente \ndeterminado, cujo pagamento deva ocorrer de \numa só vez. \n \nEstá correto o que se afirma em: \n(A) I e III, apenas. \n(B) III, apenas. \n(C) II, apenas. \n(D) I e II, apenas. \n(E) II e III, apenas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Um órgão da prefeitura precisa realizar a \ndepreciação de equipamento empregando o \nmétodo das cotas constantes. O valor bruto \ncontábil do bem é R$ 1.000. As estimativas de \nvalor residual desse e sua vida útil foram \nestimados em R$ 200 e 5 anos, respectivamente. \n \nConsiderado o exposto os valores depreciável e \nda depreciável são, respectivamente, de:",
+            "alternativas": {
+                "A": "R$ 900 e R$ 190.",
+                "B": "R$ 880 e R$ 180.",
+                "C": "R$ 180 e R$ 800.",
+                "D": "R$ 800 e R$ 160.",
+                "E": "R$ 850 e R$ 180. \n QUESTÃO 31 \nO Manual de Contabilidade Aplicada ao Setor \nPúblico (MCASP) (2023) versa sobre a \ncontabilidade de órgão direta ou indiretamente \nligados ao setor público. Ademais, os dispêndios \n(ou despesas), assim como os ingressos de \nrecursos (ou receitas), são objeto do Art. 35 da \nLei nº 4.320/1964, que relaciona essas \nmovimentações no exercício financeiro de cada \nperíodo. \nConsiderando as práticas de contabilidade \naplicadas ao setor público no MCASP e a Lei nº \n4.320/1964, avalie as afirmações a seguir: \nI. É obrigatório que as empresas estatais \ndependentes sigam aos ditames estabelecidos \npela MCASP, pois empregam recursos do erário \npúblico para o exercício de suas atividades. \nII. A contabilidade pública se aplica \nintegralmente a todos as entidades que, por \nqualquer modo, arrecadem receitas, realizem \ndespesas, gerenciem ou guardem bens a esse \npertencentes ou confiados. \nIII. Segundo a Lei nº 4.320/1964 o exercício \nfinanceiro deve coincidir com o ano civil e, \nconsiderando o regime de competência, \npertencem ao exercício financeiro as receitas \nnele arrecadadas e as despesas nele empenhadas. \nEstá correto o que se afirma em: \n(A) I e III, apenas. \n(B) III, apenas. \n(C) II, apenas. \n(D) I e II, apenas. \n(E) II e III, apenas. \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 10 de 15 QUESTÃO 32 \nA elaboração e divulgação da informação \ncontábil fornece informações para a prestação de \ncontas, responsabilização ( accountability ) e \ntomada de decisões na esfera pública. Certas \ncaracterísticas qualitativas são atributos que \ntornam a informação útil aos seus usuários, \ndando suporte ao cumprimento dos objetivos da \ninformação contábil e seu uso. \nAvalia e as afirmações a seguir: \n \nI. A verificabilidade da informação assegura aos \nusuários que a informação das demonstrações \ncontábeis represente fielmente os fenômenos \neconômicos ou de outra natureza que se propõe a \nrepresentar. \nII. Tempestividade é a qualidade da informação \nque possibilita aos usuários identificar \nsemelhanças e diferenças entre dois conjuntos de \nfenômenos em momentos diferentes no tempo. \nIII. A representação fidedigna de fenômenos \ncontábeis deve ser completa, neutra e livre de \nerros materiais para a avaliação dos interessados \nnas informações apresentadas. \n \nEstá correto o que se afirma em: \n \n(A) I e III, apenas. \n(B) III, apenas. \n(C) II, apenas. \n(D) I e II, apenas. \n(E) II e III, apenas. \n \n \n \n \n \n \n \n \n QUESTÃO 33 \nAs variações patrimoniais aumentativas (VPA) e \ndiminutivas (VPD) são elementos importantes na \napuração dos resultados das atividades exercidas \npelo setor público e são contempladas no Manual \nde Contabilidade Aplicada ao Setor Público \n(MCASP) (2023). \n \nSobre o assunto, avalie a veracidade (V) ou \nfalsidade (F) das afirmações a seguir. \n \n(   ) São exemplos de VPD a extinção do valor \neconômico de um ativo ou surgimento de um \npassivo, sem o correspondente aumento no ativo. \n(   ) Sob o enfoque patrimonial, a receita será \ndenominada variação patrimonial aumentativa \n(VPA) e a despesa variação e patrimonial \ndiminutiva (VPD), sendo a primeira \ncontabilizada como ativo e a segunda como \npassivo no quadro principal no Balanço \nPatrimonial. \n(   ) São exemplos de VPA a extinção parcial ou \ntotal de um passivo, qualquer que seja o motivo, \nsem o a baixa concomitante de um ativo de valor \nigual ou maior ou recebimento efetivo de \ndoações e subvenções. \n \n(A) F – V – F. \n(B) F – F – V. \n(C) V – V – F. \n(D) V – F – V. \n(E) F – V – V.  \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 11 de 15 QUESTÃO 34 \nSegundo o Manual de Contabilidade Aplicada ao \nSetor Público (MCASP) (2023), a Demonstração \ndos Fluxos de Caixa (DFC) apresenta as entradas \ne saídas de caixa, sendo essas classificadas como: \nfluxos de caixa operacional, de investimento e de \nfinanciamento. O DFC deve indicar as fontes de \ngeração dos fluxos de entrada de caixa, os itens \nde consumo de caixa e o saldo final de caixa na \ndata das demonstrações contábeis do período. \n \nEm relação a esse assunto, está correto o que se \nafirma em: \n \n(A) Faz parte do DCF financeiro recebimentos ou \npagamentos em caixa decorrentes da solução de \nlitígios. \n(B) Faz parte do DFC de financiamento os \nrecebimentos de caixa resultante da venda de \nativo imobilizado, intangível e outros ativos de \nlongo prazo. \n(C) Faz parte do FDC operacional os pagamentos \nem caixa para aquisição de ativo imobilizado, \nintangível e outros ativos de longo prazo, \nincluindo os custos de desenvolvimento ativados \ne ativos imobilizados de construção própria. \n(D) Faz parte do FDC operacional pagamentos \nem caixa a outras entidades do setor público \nempregados para financiar suas atividades, ou \nseja, a oferta de serviços públicos. \n(E) Faz parte do FDC de investimentos a \namortização de empréstimos e financiamentos \ncontraídos e pagamentos em caixa por \narrendatário, para redução do passivo relativo a \narrendamento mercantil financeiro. \n \n \n \n \n \n \n \n QUESTÃO 35 \nSegundo o Manual de Contabilidade Aplicada ao \nSetor Público (MCASP) (2023), a Lei nº \n4.320/1964 estabeleceu regras para disciplinar o \nacompanhamento e controle das finanças \npúblicas, bem como a construção de \nmetodologias de administração financeira e \ncontábeis sólidas no Brasil. \nCom relação ao campo de atuação da \ncontabilidade aplicada ao setor público, \nconsidere as afirmações: \n \nI. Tem como objeto o patrimônio das entidades \nda administração pública, tanto direta quanto \nindireta, com exceção das empresas estatais e \nautarquias. \nII. Possui como objetivo fornecer a diferentes \nusuários informações precisas e confiáveis sobre \nos resultados alcançados e informações de \nnatureza orçamentária, econômica, financeira e \nfísica relacionados ao patrimônio das entidades \nvinculadas ao setor público. \nIII. Abrange integralmente as entidades \ngovernamentais aos serviços sociais constituídos \ne parcialmente aos conselhos profissionais e \nentidades que recebam recursos públicos como \nmeio de garantir procedimentos para prestação \nde contas ao Estado. \n \nEstá correto o que se afirma em: \n \n(A) I e III, apenas. \n(B) III, apenas. \n(C) II, apenas. \n(D) I e II, apenas. \n(E) II e III, apenas. \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 12 de 15 QUESTÃO 36 \nSegundo o Manual de Contabilidade Aplicada ao \nSetor Público (MCASP) (2023), são \nconsiderados Restos a Pagar todas as despesas \nregularmente empenhadas, do exercício atual ou \nanterior, mas não pagas até 31 de dezembro do \nexercício financeiro vigente. \n \nSobre o assunto, avalie a veracidade (V) ou \nfalsidade (F) das afirmações a seguir. \n \n(   ) Os Restos a Pagar Processados (RPP) \nincluem o serviço ou material contratado tenha \nsido prestado ou entregue e que se encontre, em \n31 de dezembro de cada exercício financeiro em \nfase de verificação do direito adquirido pelo \ncredor. \n(   ) A Lei de Responsabilidade Fiscal - LRF (Lei \nComplementar nº 101/2000) estabelece que, no \nencerramento do exercício, a parcela da despesa \norçamentária que se encontrar empenhada, mas \nainda não paga, poderá ser inscrita em restos a \npagar. \n(   ) Os Restos a Pagar Não Processados (RPNP) \nserão inscritas em restos a pagar processados \ncomo despesas liquidadas e não pagas no \nexercício financeiro, ou seja, aquelas em que o \nserviço, a obra ou o material contratado tenha \nsido prestado ou entregue e aceito pelo \ncontratante. \n \n(A) F – V – F. \n(B) F – F – V. \n(C) V – V – F. \n(D) V – F – V. \n(E) F – V – V \n \n \n \n \n \n \n QUESTÃO 37 \nA Contabilidade Aplicada ao Setor Público \n(CAPS) é um ramo específico da contabilidade \nque descreve e prevê a aplicação de normas, \nmétodos e técnicas que devem ser aplicadas aos \nentes públicos, entidades e empresas de direito \npúblico ou privado. \n \nSobre o assunto, avalie a veracidade (V) ou \nfalsidade (F) das afirmações a seguir. \n \n(   ) Todas as autarquias devem seguir \nparcialmente a CASP, já as empresas de \neconomia mista controlados pelo Estado devem \nseguir integralmente a CASP como meio de \ngarantir procedimentos suficientes de prestação \nde contas e instrumentalização do controle social \ndo orçamento público. \n(   ) Devem seguir integralmente a CASP, as \nentidades governamentais, os serviços sociais e \nos conselhos profissionais, como Conselho \nFederal de Medicina (CFM), Conselho Federal \nde Engenharia e Arquitetura (CONFEA) e \nConselho Federal de Contabilidade (CFC). \n(   ) Entidades do setor público, ou seja, pessoas \njurídicas de direito privado que recebam, \nguardem, movimentem, gerenciem ou apliquem \ndinheiro, bens e valores do setor público devem \nseguir parcialmente a CASP. \n \n(A) F – V – F. \n(B) F – F – V. \n(C) V – V – F. \n(D) V – F – V. \n(E) F – V – V. \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 13 de 15 QUESTÃO 38 \nA Demonstração das Variações Patrimoniais \n(DVP) tem como objetivo evidenciar alterações \nverificadas no patrimônio, oriundas ou \nindependentes da execução orçamentária, e deve \nindicar o resultado patrimonial do exercício. \nSegundo a NBC TSP, a DVP deve incluir certos \nitens que apresentam valores do período contábil. \n \nSobre o assunto, avalie a veracidade (V) ou \nfalsidade (F) das afirmações a seguir. \n \n(   ) A DVP deve incluir as receitas oriundas de \nvariações patrimoniais aumentativas (VPA), ou \nseja, aquelas decorrentes de operações \nfinanceiras, tais como: juros pagos, despesas \nbancárias pagas e correções monetárias sobre \ndívidas governamentais. \n(   ) A DVP deve incluir a parcela do resultado de \nempresas coligadas e empreendimento \ncontrolados pelo governo, sendo mensuradas \npelo método da equivalência patrimonial dos \nativos mantidos pelos entes governamentais. \n(   ) A DVP deve incluir as despesa relacionadas \nà variações patrimoniais diminutivas (VPD), \ndecorrentes de operações financeiras, tais como: \ndescontos obtidos em financiamentos, juros \nrecebidos, prêmios obtidos no resgate antecipado \nde títulos e debêntures realizados pelo governo. \n \n(A) F – V – F. \n(B) F – F – V. \n(C) V – V – F. \n(D) V – F – V. \n(E) F – V – V. \n \n \n \n \n \n \n QUESTÃO 39 \nNa Contabilidade Aplicada ao Setor Público \n(CAPS) as etapas da receita orçamentária podem \nser resumidas em: previsão, lançamento, \narrecadação e recolhimento. \nConsiderando as etapas da receita orçamentária, \nassinale a alternativa correta. \n \nSobre o assunto, avalie a veracidade (V) ou \nfalsidade (F) das afirmações a seguir.  \n \n(   ) O lançamento corresponde à entrega dos \nrecursos devidos ao Tesouro pelos contribuintes \nou devedores, por meio dos agentes \narrecadadores ou instituições financeiras \nautorizadas. \n(   ) Compreende a previsão de arrecadação a \nreceita orçamentária estimada pelo governo e \naprovada pelo Congresso Nacional e constante \nna Lei Orçamentária Anual (LOA). \n(   ) O recolhimento é o procedimento \nadministrativo que verifica a ocorrência do fato \ngerador da obrigação correspondente, determina \na matéria tributável e calcula o montante do \ntributo devido pelo contribuinte. \n \n(A) F – V – F. \n(B) F – F – V. \n(C) V – V – F. \n(D) V – F – V. \n(E) F – V – V. \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 14 de 15 QUESTÃO 40 \nSegundo o Manual de Contabilidade Aplicada ao \nSetor Público (MCASP) (2023), a exaustão é \nrealizada quando há exploração de recursos \nnaturais esgotáveis que tiverem a vida útil \neconômica limitada e têm como característica \nfundamental a adoção de método aplicado para a \nredução em seu valor. \nConsidere uma jazida cujo valor contábil, \ncapacidade de produção e volume de extração \nforam estimados em R$ 5.000, 500t e 40t, \nrespectivamente. \nDadas essas informações e realizados os \ncálculos, a taxa de exaustão e a o valor da \nexaustão foram estimadas, respectivamente, em: \n \n(A) 5% e R$ 500. \n(B) 8% e R$ 400. \n(C) 8% e R$ 600. \n(D) 4% e R$ 800. \n(E) 8% e R$ 500. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Paraty - Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO \n \nTESOUREIRO                                                                                                                                              Página 15 de 15"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, todas as afirmações a \nseguir são verdadeiras, exceto:",
+            "alternativas": {
+                "A": "os artefatos do auge da cultura maia são \nescassos.",
+                "B": "os hieróglifos gravados nos pedaços de fêmur \nsão evidências da linhagem real.",
+                "C": "as conchas encontradas na tumba tinham \nutilidades diversas na sociedade maia.",
+                "D": "o mapeamento do local em que a tumba foi \nencontrada foi feito por meio de máquinas de \nraio-x.",
+                "E": "o auge da civilização maia durou mais de \nmeio século."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Segundo o texto, as relíquias encontradas na \ntumba maia são consideradas extraordinárias \nporque:",
+            "alternativas": {
+                "A": "apresentam um alto valor comercial e podem \ntrazer recursos financeiros para os pesquisadores.",
+                "B": "podem contribuir para o entendimento de um \nperíodo sobre o qual não se tem muita \ninformação.",
+                "C": "sugerem que os estados maias Chochkitam, \nTikal e Teotihuacan não tinham qualquer tipo de \nligação.",
+                "D": "confirmam que o rei maia a que se referem \nas oferendas tinha familiares no poder em outros \nestados maias.",
+                "E": "são escrituras em hieróglifos raros que \ncontam histórias que contrariam o que já se sabia \nsobre Tikal e Teotihuacan.  Câmara Municipal de Paraty /RJ– Concurso Público  01/2024                                          INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 3 de 12 QUESTÃO 03 \n Considere o excerto: “Isso revolucionou o nosso \ncampo.” No contexto apresentado, o pronome \ndemonstrativo “isso”  é utilizado como um \nrecurso de coesão referencial anafórico. O \nreferente ao qual remete tal pronome é:  \n \n(A) a tecnologia LIDAR.  \n(B) a floresta.  \n(C) a expedição na floresta.   \n(D) o avião utilizado na expedição.   \n(E) as relíquias encontradas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Considere os seguintes excertos, retirados do \ntexto:  \n \nI. Estima -se que as relíquias sejam de 350 d.C.   \nII. Os pesquisadores suspeitam que os hieróglifos \nvistos no material possam identificar o pai e o \navô do líder, conectando -o a outros estados \nmaias, como Tikal e Teotihuacan.  \nAs normas gramaticais que sugerem a colocação \npronominal enclítica nos casos apresentados são, \nrespectivamente:",
+            "alternativas": {
+                "A": "I. não se inicia período por pronome átono e \nII. usa -se ênclise em verbos flexionados em \noração subordinada.",
+                "B": "I. usa -se ênclise quando houver palavra \natrativa antes do verbo e II. usa -se ênclise em \norações subordinadas com verbos flexionados \nem qualquer tempo e modo.",
+                "C": "I. não se inicia período por pronome átono e \nII. usa -se ênclise em orações reduzidas de \ngerúndio não precedidas pela preposição em.",
+                "D": "I. usa -se ênclise em orações imperativas \nafirmativas e II. usa -se ênclise em orações \nreduzidas de gerúndio, independentemente dos \ndemais elementos colocados.",
+                "E": "I. usa -se ênclise em orações reduzidas de \ninfinitivo flexionado e II. usa -se ênclise em \norações reduzidas de gerúndio antecedidas pela \npreposição em, mesmo que esta esteja implícita.   \nConsidere o excerto a seguir para responder \nàs questões 5, 6 e 7:  \n \n“Uma descoberta como essa é um pouco como \nganhar na loteria, em termos de informação”, \nconstata o arqueólogo Estrada -Belli. “Ela abre \numa janela para um tempo obscuro sobre o qual \ntemos pouquíssimos textos.”"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: No excerto apresentado, a regência verbal de \n“abrir” é:",
+            "alternativas": {
+                "A": "transitiva direta.",
+                "B": "transitiva indireta.",
+                "C": "intransitiva.",
+                "D": "transitiva direta e indireta.",
+                "E": "pronominal."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Em relação às categorias gramaticais, no \ncontexto em que ocorrem, as palavras “uma”, \n“descoberta”, “obscuro” e “qual” classificam -se \nrespectivamente em:",
+            "alternativas": {
+                "A": "pronome indefinido, adjetivo, substantivo e \npronome relativo.",
+                "B": "artigo indefinido, substantivo, adjetivo e \npronome relativo.",
+                "C": "artigo indefinido, substantivo, adjetivo e \npronome interrogativo.",
+                "D": "artigo indefinido, adjetivo, adjetivo e \npronome interrogativo.",
+                "E": "pronome indefinido, substantivo, substantivo \ne pronome relativo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: O adjetivo “pouquíssimos” , que ocorre no \nexcerto apresentado, exprime sua qualidade no \ngrau:",
+            "alternativas": {
+                "A": "positivo.",
+                "B": "comparativo.",
+                "C": "superlativo relativo.",
+                "D": "superlativo absoluto sintético.",
+                "E": "superlativo absoluto analítico.  \n \n Câmara Municipal de Paraty /RJ– Concurso Público  01/2024                                          INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 4 de 12 QUESTÃO 08 \nAnalise as palavras a seguir quanto à tonicidade \ne assinale a alternativa em que a palavra dada é \noxítona.   \n(A) hostil.  \n(B) aeromoça.  \n(C) espelho.  \n(D) patente.  \n(E) esperança."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Analise as sentenças a seguir e assinale aquela \nem que ocorre um verbo defectivo.",
+            "alternativas": {
+                "A": "Deste pico se vê toda a praia.",
+                "B": "A prefeitura demoliu os prédios mais antigos \nda cidade ontem à tarde.",
+                "C": "Os incêndios florestais criminosos \nmultiplicam -se nessa época do ano.",
+                "D": "A exposição de fotos na biblioteca da \nuniversidade está belíssima.",
+                "E": "Ele imprimiu todas as suas fotos da viagem à \nFlórida."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale a \nalternativa em que as palavras apontadas \npreenchem corretamente as lacunas.   \nI. O _______ da máquina de lavar ficou muito \ncaro.  \nII. Já reservamos os _______ para assistirmos à \npeça teatral.   \nIII. Finalmente, as crianças _______ a gritaria.",
+            "alternativas": {
+                "A": "I. concerto; II. assentos; III. cessaram.",
+                "B": "I. conserto; II. assentos; III. cessaram.",
+                "C": "I. conserto; II. acentos; III. cessaram.",
+                "D": "I. concerto; II. assentos; III. sessaram.",
+                "E": "I. conserto; II. acentos; III. sessaram.  \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: A figura abaixo mostra a antecedência de compra \ndos clientes para uma determinada sessão de \ncinema:  \nA antecedência de compra é a diferença de tempo \nentre o horário do início do filme e o horário da \ncompra do bilhete. Com base no gráfico, pode -se \ndizer que a média de antecedência de compra, em \nhoras, é:",
+            "alternativas": {
+                "A": "8,54.",
+                "B": "8,15.",
+                "C": "9,80.",
+                "D": "7,92.",
+                "E": "5,15."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Um quadrado e um triângulo equilátero têm a \nmesma área, qual a razão entre o perímetro deste \nquadrado e o perímetro deste triângulo? Sabe -se \nque a altura do triângulo equilátero é 𝑎√3\n2, onde \n𝑎 é a medida do seu lado.",
+            "alternativas": {
+                "A": "3\n2√34.",
+                "B": "1\n3√34.",
+                "C": "3\n2√34.",
+                "D": "3\n4√34.",
+                "E": "2\n3√34. \n \nCâmara Municipal de Paraty /RJ– Concurso Público  01/2024                                          INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 5 de 12 QUESTÃO 13 \nObserve o sistema de equações do primeiro grau \nabaixo:  \n2𝑦=2𝑥−2 \n−𝑦=−𝑥+1 \nEssas equações podem ser representadas por \nretas r e s, respectivamente, num gráfico. Dentre \nas correspondências abaixo, indique o gráfico ao \nqual este sistema corresponde:  \n \n \n \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V.  \n \n QUESTÃO 14 \nUm professor aplicou uma prova cuja nota final \ndeve estar entre zero e dez. Ao calcular as notas, \nele viu que a média da turma foi 3,0, e o \ncandidato com maior nota tirou 6,0. Ele resolveu \n‘normalizar’ as notas e atribuiu a nota 10,0 ao \nestudante com nota máxima anterior, e aumentou \na nota de todos os outros alunos na mesma \nporcentagem que aumentou a do estudante com \nnota máxima. Neste caso, quanto passou a ser a \nmédi a da turma?  \n \n(A) 5,5.  \n(B) 5,0.  \n(C) 7,0.  \n(D) 6,5.  \n(E) 6,0."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Num gráfico de pizza, se quisermos representar \numa fração de 36%, conforme a figura abaixo:  \n \n \n \n \nQual deve ser o ângulo X do setor circular?",
+            "alternativas": {
+                "A": "224,0°.",
+                "B": "129,6°.",
+                "C": "136,4°.",
+                "D": "64,0°.",
+                "E": "112,9°.  \n \nCâmara Municipal de Paraty /RJ– Concurso Público  01/2024                                          INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 6 de 12 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: No MS -Word 2016, qual das seguintes \nalternativas descreve corretamente o processo \npara recuperar um documento que não foi salvo \nantes do fechamento do aplicativo?",
+            "alternativas": {
+                "A": "Acessar o menu \"Arquivo\", selecionar \n\"Informações\", depois \"Gerenciar Documento\" e \n\"Recuperar Documentos Não Salvos\".",
+                "B": "Reabrir o Word, que automaticamente \nexibirá os documentos não salvos.",
+                "C": "Usar a função \"Pesquisar\" do sistema \noperacional para localizar o arquivo temporário \nque corresponderá à versão mais recente editada.",
+                "D": "Ir em \"Opções\" dentro do Word, selecionar \n\"Salvar\" e acessar a pasta de auto recuperação \n\"Recuperar Documentos Não Salvos\".",
+                "E": "Clicar no botão \"Desfazer\" na barra de \nferramentas de acesso rápido após reabrir o \nWord."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Quando se deseja alterar a aparência do texto no \nMicrosoft Word 2016, pode -se modificar a fonte, \no tamanho, sublinhar e alinhar o texto através da \nguia _______.",
+            "alternativas": {
+                "A": "Revisão",
+                "B": "Inserir",
+                "C": "Layout de Página",
+                "D": "Página Inicial",
+                "E": "Referências"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: No Excel 2016, como uma fórmula deve ser \niniciada para realizar cálculos dentro de uma \ncélula?",
+            "alternativas": {
+                "A": "Com o sinal #",
+                "B": "Com o sinal &",
+                "C": "Com o sinal @",
+                "D": "Com o sinal %",
+                "E": "Com o sinal =  QUESTÃO 19 \nNo Microsoft Excel 2016, para realizar o cálculo \ndo total dos valores presentes em um \ndeterminado conjunto de células, que no presente \ncaso compreende de A1 até A5, qual das funções \na seguir é apropriada?  \n \n(A) =SOMA(A1:A5)  \n(B) =SUBTRAIR(A1:A5)  \n(C) =MULTIPLICAR(A1:A5)  \n(D) =DIVIDIR(A1:A5)  \n(E) =MÉDIA(A1:A5)"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Em relação à criação e execução de macros no \nMS-Excel 2016, qual afirmação é verdadeira?",
+            "alternativas": {
+                "A": "O Excel não permite a importação de macros \nde outras planilhas, mas suporta a exportação \ndireta de macros para outros softwares de \nplanilha.",
+                "B": "É impossível atribuir uma macro a um botão \nna planilha para facilitar sua execução.",
+                "C": "Macros são usadas para operações de \nformatação e não podem automatizar cálculos ou \nanálise de dados.",
+                "D": "Para executar uma macro, o usuário precisa \nacessar sempre o Visual Basic for Applications \n(VBA).",
+                "E": "Macros permitem automatizar tarefas \nrepetitivas, incluindo cálculos complexos, \natravés de scripts no VBA.  \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Paraty /RJ– Concurso Público  01/2024                                          INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 7 de 12 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: 1 \nIMPORTANTE! Para resolução das questões de número 21 a 30, considere as informações a seguir:  \nSuponha que no exercício de 2023 o Município de Guaracavuçu  tenha efetuado as seguintes transações \norçamentárias e financeiras.  \n \n \n \n \n \nInformações Adicionais:  \nI. Em 202 3 o Município pagou Restos a Pagar Processados inscritos em 201 9, relativos à obra de \nconstrução de uma escola, no montante de R$ 21.000,00.  \nII. Em 202 3, a depreciação do Ativo Imobilizado do Município importou em R$ 13.000,00 . \nIII. No exercício de 202 3, o Município contratou operação de crédito por antecipação da receita \norçamentária no valor de R$ 17.000,00, integralmente quitada no mesmo exercício.  \nIV. Em 202 3, o Município recebeu veículos provenientes de doação do Governo Estadual, no valor de \nR$ 2 7.000,00.  \nV. Em dezembro/2023, o Município recebeu cauções de contratos de aluguel e efetuou consignações \nem folha de pagamento, no valor de R$ 15.000,00, a serem restituídas/recolhidas em 2024.  \nVI. Como fato gerador das variações patrimoniais diminutivas, deve -se considerar o momento da \nliquidação da despesa orçamentária .\n Prevista  Arrecadada Recolhida\nAmortização de E mpréstimos Concedidos                        22.500,00            20.000,00 18.500,00           \nImposto sobre a Renda Retido na Fonte                        11.000,00            10.000,00 10.000,00           \nImposto sobre a Propriedade Territorial Urbana                        45.000,00            42.500,00            40.000,00 \nOperações de Crédito                        30.000,00            30.000,00            30.000,00 \nFundo de Participação dos Municípios                        42.500,00            75.000,00 75.000,00           \nAlienação de Bens Imóveis                        35.000,00            20.000,00 20.000,00           \nImposto Sobre Serviços de Qualquer Natureza                        20.000,00            30.000,00 29.000,00           \nReceita de Contribuições                        14.000,00            10.000,00            10.000,00 \nTransferências de Capital                        20.000,00            20.000,00 20.000,00           Receita Orçamentária\nClassificação por \nnaturezaE lemento da Despesa FixadaE mpenhada/ \nLiquidadaPaga\n3.2.90.23.00Juros, Deságios eDescontos da Dívida\nMobiliária28.500,00 27.500,00 26.500,00\n4.5.90.65.00 Aumento de Capital de Empresas Públicas 49.000,00 42.500,00 42.500,00\n4.4.90.51.00 Obras e Instalações 22.000,00 22.000,00 20.000,00\n3.1.90.34.00Outras Despesas dePessoal decorrentes de\nContratos de Terceirização23.500,00 22.500,00 22.500,00\n3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil 37.500,00 35.000,00 32.500,00\n3.1.90.04.00 Contratação por Tempo Determinado 21.000,00 15.000,00 15.000,00\n4.5.90.52.00 Equipamentos e Material Permanente 26.000,00 21.000,00 18.500,00\n3.1.90.13.00 Obrigações Patronais 32.500,00 32.000,00 21.500,00Despesa OrçamentáriaCâmara Municipal de Paraty /RJ– Concurso Público  01/2024                                          INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 8 de 12 QUESTÃO 21  \nO montante da despesa orçamentária inscrita em \nRestos a Pagar no exercício financeiro de 2023 é \nde:",
+            "alternativas": {
+                "A": "22.500,00.",
+                "B": "16.500,00.",
+                "C": "16.000,00.",
+                "D": "18.500,00.",
+                "E": "18.000,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: No Balanço Financeiro encerrado em \n31/12/2023, o saldo a ser evidenciado na linha \n‘Recebimentos Extraorçamentários’ será de:",
+            "alternativas": {
+                "A": "50.000,00.",
+                "B": "50.500,00.",
+                "C": "48.500,00.",
+                "D": "47.500,00.",
+                "E": "56.500,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: A Receita Corrente arrecadada no exercício \nfinanceiro de 2023 importa em:",
+            "alternativas": {
+                "A": "167.500,00.",
+                "B": "170.000,00.",
+                "C": "174.000,00.",
+                "D": "163.500,00.",
+                "E": "165.500,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: O total dos Pagamentos Extraorçamentários a ser \nevidenciado no Balanço Financeiro equivale a:",
+            "alternativas": {
+                "A": "40.000,00.",
+                "B": "42.000,00.",
+                "C": "36.000,00.",
+                "D": "32.000,00.",
+                "E": "38.000,00.  QUESTÃO 25  \nO total das Variações Patrimoniais Diminutivas \na ser evidenciado na Demonstração das \nVariações Patrimoniais importa em:  \n(A) 136.000,00.  \n(B) 141.000,00.  \n(C) 145.000,00.  \n(D) 154.000,00.  \n(E) 132.000,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: O total de despesas orçamentárias empenhadas \nno Grupo de Natureza de Despesa ‘Inversões \nFinanceiras’  no exercício financeiro importa em:",
+            "alternativas": {
+                "A": "42.500,00.",
+                "B": "63.500,00.",
+                "C": "90.500,00.",
+                "D": "55.000,00.",
+                "E": "59.500,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: O total da Receita de Capital arrecadada no \nexercício financeiro de 2023 é de:",
+            "alternativas": {
+                "A": "90.000,00.",
+                "B": "70.000,00.",
+                "C": "60.000,00.",
+                "D": "80.000,00.",
+                "E": "88.500,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: De acordo com os dados fornecidos e com o atual \nregramento contábil aplicado ao Setor Público, o \nresultado a ser evidenciado no Balanço \nOrçamentário é um:",
+            "alternativas": {
+                "A": "déficit de 20.000,00.",
+                "B": "superávit de 60.000,00.",
+                "C": "superávit de 67.000,00.",
+                "D": "superávit de 40.000,00.",
+                "E": "déficit de 10.000,00.  Câmara Municipal de Paraty /RJ– Concurso Público  01/2024                                          INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 9 de 12 QUESTÃO 29  \nO total da receita orçamentária arrecadada na \norigem ‘Impostos, Taxas e Contribuições de \nMelhoria’ no exercício financeiro de 2023 \nimporta em:  \n(A) 67.500,00.  \n(B) 95.500,00.  \n(C) 82.500,00 . \n(D) 72.500,00.  \n(E) 40.000,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Ao analisar o Balanço Orçamentário encerrado \nem 31/12/2023 é possível concluir que houve:",
+            "alternativas": {
+                "A": "uma economia orçamentária de 41.000,00.",
+                "B": "uma frustração de arrecadação de 12.500,00.",
+                "C": "um excesso de arrecadação de 17.500,00.",
+                "D": "uma economia orçamentária de 22.500,00.",
+                "E": "empenho da despesa em valor superior ao \nfixado na LOA."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Como forma de garantir recursos a serem \ndestinados a políticas públicas na área da \neducação, a Constituição Federal determina que, \nno âmbito dos Municípios, deverão ser aplicados, \na cada exercício, no mínimo ________________  \nna manutenção e desenvolvimento do ensino.  \nAssinale a alternativa que corretamente preenche \na lacuna.",
+            "alternativas": {
+                "A": "vinte e cinco por cento da receita de \nImpostos, compreendida a proveniente de \ntransferências",
+                "B": "quinze por cento da receita de Impostos, \ncompreendida a proveniente de transferências",
+                "C": "vinte e cinco por cento da receita de Impostos \ne Taxas",
+                "D": "vinte e cinco por cento da receita de \nImpostos, Taxas e Contribuições de Melhoria",
+                "E": "vinte por cento de toda a receita corrente do \nMunicípio  QUESTÃO 32  \nO Imposto sobre a Propriedade Territorial Rural \né tributo de competência da União. Contudo, os \nMunicípios que optarem por fiscalizar e cobrar o \nITR poderão ficar com:  \n \n(A) 50% do valor arrecadado.  \n(B) 60% do valor arrecadado.  \n(C) 100% do valor arrecadado.  \n(D) 80% do valor arrecadado.  \n(E) 90% do valor arrecadado."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Dispõe a Constituição Federal de 1988 que \npertencem aos Municípios ____________ do \nproduto da arrecadação do imposto do Estado \nsobre a propriedade de veículos automotores \nlicenciados em seus territórios.  Assinale a \nalternativa que corretamente preenche a lacuna.",
+            "alternativas": {
+                "A": "trinta por cento",
+                "B": "vinte e cinco por cento",
+                "C": "trinta e cinco por cento",
+                "D": "quarenta por cento",
+                "E": "cinquenta por cento"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Acerca dos componentes do Balanço \nPatrimonial, avalie o que se afirma a seguir, com \nbase no atual regramento do tema.  \n \nI. O Ativo Permanente compreenderá os créditos \ne valores realizáveis independentemente de \nautorização orçamentária e os valores \nnumerários.  \nII. Nas contas de compensação serão registrados \nos bens, valores, obrigações e situações que, \nmediata ou indiretamente, possam vir a afetar o \npatrimônio.  \nIII. O Passivo Permanente compreenderá as \ndívidas fundadas e outras cujo pagamento \nindependa de autorização orçamentária.  \nEstá correto o que se afirma em:",
+            "alternativas": {
+                "A": "III, apenas.",
+                "B": "II e III, apenas.",
+                "C": "nenhuma das afirmativas.",
+                "D": "I e II, apenas.",
+                "E": "II, apenas.  \n Câmara Municipal de Paraty /RJ– Concurso Público  01/2024                                          INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 10 de 12 QUESTÃO 35  \nO Superávit Financeiro apurado em um exercício \nfinanceiro pode ser utilizado para abertura de \ncréditos adicionais no exercício subsequente. \nAssinale a alternativa que indica a Demonstração \nContábil na qual é apurada este indicador.  \n \n(A) Demonstração dos Fluxos de Caixa.  \n(B) Quadro das Origens e Aplicações de \nRecursos.  \n(C) Balanço Patrimonial.  \n(D) Balanço Orçamentário.  \n(E) Balanço Financeiro."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: A Lei nº 14.133/2021 – Nova Lei de Licitações e \nContratos Administrativos – permite que alguns \nserviços técnicos de natureza \npredominantemente intelectual sejam \ncontratados através de inexigibilidade de \nlicitação. Assinale a alternativa que NÃO \nrepresenta uma destas hipóteses permitidas pela \nLei.",
+            "alternativas": {
+                "A": "fiscalização, supervisão e gerenciamento de \nobras e serviços .",
+                "B": "patrocínio ou defesa de causas judiciais e \nadministrativas .",
+                "C": "desenvolvimento de softwares de gestão \norçamentária, financeira e patrimonial.",
+                "D": "treinamento e aperfeiçoamento de pessoal .",
+                "E": "assessorias e consultorias técnicas e \nauditorias financeiras e tributárias . \n \n \n \n \n \n \n QUESTÃO 37  \nIMPORTANTE!  Para resolução das próximas \nQUATRO  questões, leve em consideração as \ninformações abaixo. Elas se referem a transações \nocorridas no Município de Água Viva, no \nexercício de 2023.  \nI. Empenho de  Pessoal e Encargos Sociais, no \nvalor de R$  350.000,00 , referentes à manutenção \ndos serviços públicos . Foram pagos no exercício \n80% deste valor;  \nII. Aquisição de um a ambulância  destinad a à \nSecretaria de Saúde , no valor de R$ 80.000,00, \nsendo integralmente pago exercício;  \nIII. Contratação  de uma operação de crédito por \nantecipação de receita orçamentária, no valor de \nR$ 75.000,00 , sendo integralmente quitada em \nnovembro/2023;  \nIV. Empenho de Juros e Encargos da Dívida, no \nvalor de R$ 25.000,00, sendo pagos R$ \n20.000,00 no exercício de 2023;  \nV. Lançamento de Impostos, Taxas e \nContribuições de Melhoria,  no importe de R$ \n720.000,00 , sendo que deste montante, R$ \n680.000,00 foram arrecadados, e o restante \ninscrito em Dívida Ativa ; \nVI. Recebimento de devolução de Empréstimos \nConcedidos a juros subsidiados, sendo R$ \n100.000,00  referentes ao principal e R$ 4.000,00  \nreferentes aos juros;  \nVII. Despesa Orçamentária com Amortização da \nDívida, no montante de R$  80.000,00, totalmente \npaga em 2023.  \nÀ luz da vigente normatização sobre a elaboração \nda Demonstração dos Fluxos de Caixa (DFC) no \nSetor Público, assinale a alternativa que \nevidencie o fluxo líquido de caixa das atividades \noperacionais  em 2023:  \n \n(A) R$ 388.000,00.  \n(B) R$ 368.000,00.  \n(C) R$ 364.000,00.  \n(D) R$ 384.000,00.  \n(E) R$ 380.000,00.  \n Câmara Municipal de Paraty /RJ– Concurso Público  01/2024                                          INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 11 de 12 QUESTÃO 38  \nÀ luz da vigente normatização sobre a elaboração \nda DFC no Setor Público, assinale a alternativa \nque evidencie o fluxo líquido de caixa das \natividades de investimento em 2023:  \n(A) R$ 60.000,00.  \n(B) R$ 20.000,00.  \n(C) R$ 24.000,00.  \n(D) (R$ 20.000,00).  \n(E) (R$ 24.000,00)."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: À luz da vigente normatização sobre a elaboração \nda DFC no Setor Público, assinale a alternativa \nque evidencie o fluxo líquido de caixa das \natividades de financiamento em 2023:",
+            "alternativas": {
+                "A": "(R$ 80.000,00).",
+                "B": "(R$ 84.000,00).",
+                "C": "(R$ 5.000,00).",
+                "D": "R$ 80.000,00.",
+                "E": "R$ 75.000,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Supondo que o saldo contábil da conta ‘Caixa e \nEquivalentes de Caixa (CEC)’ no início do \nexercício financeiro de 2023 era de R$ \n35.000,00, assinale a alternativa que evidencie o \nsaldo final desta conta:",
+            "alternativas": {
+                "A": "R$ 434.000,00.",
+                "B": "R$ 359.000,00.",
+                "C": "R$ 355.000,00.",
+                "D": "R$ 430.000,00.",
+                "E": "R$ 289.000,00.  \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Paraty /RJ– Concurso Público  01/2024                                          INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 12 de 12"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: A partir do que é exposto no texto, conclui -se que \na língua materna:",
+            "alternativas": {
+                "A": "não tem qualquer relação com as áreas do \ncérebro associadas à linguagem e ao raciocínio \ncognitivo.",
+                "B": "é responsável por moldar as conexões \ninternas das áreas do cérebro associadas à \nlinguagem.",
+                "C": "é o único componente responsável por \nestabelecer a conectividade cerebral.",
+                "D": "não é impactante o suficiente para moldar \nconexões cerebrais e afetar o raciocínio \ncognitivo.",
+                "E": "é indiferente ao processo de aprendizagem, já \nque falantes nativos de línguas diferentes \napresentam exatamente as mesmas conexões \ncerebrais.  Prefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 3 de 13 QUESTÃO 02 \nConsidere as afirmativas a seguir:  \nI. A conectividade mais forte entre os \nhemisférios esquerdo e direito explica por que os \nfalantes nativos de árabe são capazes de fazer \nconexões entre ideias mais rápido que os falantes \nnativos de alemão.    \nII. Tanto o árabe quanto o alemão apresentam \ncomplexidades próprias, que podem influenciar \nna conectividade cerebral de seus falantes \nnativos.   \nIII. As particularidades de uma língua materna \npodem afetar as regiões cerebrais associadas à \nlinguagem.  \nIV. A anatomia cerebral facilita conexões mais \npróximas no cérebro, que favorecem o \naprendizado de alemão frente ao de árabe.   \nO texto permite concluir apenas as afirmativas \nem: \n(A) I e IV. \n(B) II e III.  \n(C) II e IV.   \n(D) I e III.   \n(E) II, III e IV.  \n \nConsidere o excerto a seguir para responder \nàs questões 3 e 4:  \n \nEm uma próxima análise, a equipe pretende \ninvestigar mudanças estruturais longitudinais no \ncérebro de adultos de língua árabe à medida que  \naprendem alemão ao longo de seis meses."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: A locução em destaque no excerto apresentado é \ntípica das orações subordinadas adverbiais que \nexprimem, em relação à oração principal à qual \nse relacionam, um valor:",
+            "alternativas": {
+                "A": "condicional.",
+                "B": "concessivo.",
+                "C": "temporal.",
+                "D": "proporcional.",
+                "E": "comparativo.  QUESTÃO 04 \nConforme a função que desempenha e sua \ncomposição interna, a classificação gramatical da \nlocução “à medida que” é:  \n \n(A) locução conjuntiva.  \n(B) locução adverbial.  \n(C) locução adjetiva.  \n(D) locução prepositiva.  \n(E) locução verbal."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: A expressão “ não apenas … mas também ”, que \nocorre em “As imagens de alta resolução não \napenas mostram a anatomia do cérebro, mas \ntambém permitem derivar a conectividade entre \nas áreas cerebrais (...)”, é empregada como um \nrecurso de coesão sequencial, que imprime ao \ncontexto em que ocorre o sentido de:",
+            "alternativas": {
+                "A": "adição.",
+                "B": "restrição.",
+                "C": "oposição.",
+                "D": "alternância.",
+                "E": "explicação."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Assinale a alternativa que apresenta um termo \nsinônimo da palavra em destaque na seguinte \noração: “A consciência política resulta na \nexprobração  àqueles que se apoiam em falsas \npromessas.”",
+            "alternativas": {
+                "A": "validação.",
+                "B": "apoio.",
+                "C": "confiança.",
+                "D": "censura.",
+                "E": "encômio.  \n Prefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 4 de 13 QUESTÃO 07 \nAnalise as sentenças a seguir quanto aos \nelementos em destaque:   \nI. Candidatei -me ao conselho da universidade, já \nque ninguém se dispôs.  \nII. Continuaremos batalhando em prol dos \ntrabalhadores, não obstante  as críticas e as \nsabotagens.   \nIII. O acampamento foi cancelado, porquanto  os \nescoteiros se perderam na mata.   \nIV. O evento será ao ar livre, contanto  que não \nchova.  \nA alternativa que apresenta elementos de \nsentidos e funções correspondentes, que \nsubstituem, correta e respectivamente, as \nexpressões em destaque nas sentenças dadas é \n(em caso de encontro entre preposição e artigo ao \nsubstituir, considere que ocorre contr ação):  \n(A) I. uma vez que; II. porquanto; III. porque; IV. \nainda que.   \n(B) I. pois; II. a despeito de; III. porque; IV. a \nmenos.   \n(C) I. pois; II. apesar de; III. visto que; IV. desde \nque.  \n(D) I. malgrado; II. desde que; III. embora; IV. \ndesde que.  \n(E) I. ainda que; II. porquanto; III. embora; IV. \nainda que."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Analise as sentenças a seguir quanto à classe \ngramatical das palavras que as compõem. \nAssinale a alternativa em que se verifica uma \npreposição acidental.",
+            "alternativas": {
+                "A": "Ainda não somos casados perante a lei.",
+                "B": "As próprias colegas de time se posicionam \ncontra ela.",
+                "C": "O aluno não parou de conversar durante a \naula.",
+                "D": "Começou a organizar os preparativos de sua \nfesta.",
+                "E": "As chaves da casa estão sob o tapete da sala.  \n QUESTÃO 09 \nAnalise a estrutura das palavras a seguir e \nassinale a alternativa em que a palavra dada é \nformada pelo processo de derivação \nparassintética.  \n \n(A) clarividente.  \n(B) amendoado.   \n(C) intraocular.  \n(D) esclarecer.  \n(E) desenvolvimento."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: O emprego do acento indicativo de crase está \ncorreto em:",
+            "alternativas": {
+                "A": "Qualquer atitude é desnecessária à essa altura \ndo campeonato.",
+                "B": "O garoto deu flores à ela.",
+                "C": "Joana tem que ir à uma reunião de trabalho.",
+                "D": "Não pude responder à sua mensagem antes.",
+                "E": "Dedicou a sua vida à apresentações de teatro.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Um carro tem 4 rodas e uma moto tem 2 rodas. \nSabe -se que em um pátio há 100 veículos, \nsomente carros e motos. Adalberto contou o \nnúmero de rodas dos veículos deste pátio e \nencontrou o valor de 336. Quantos carros tem no \npátio?",
+            "alternativas": {
+                "A": "68.",
+                "B": "32.",
+                "C": "44.",
+                "D": "96.",
+                "E": "64.  \n Prefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 5 de 13 QUESTÃO 12 \nObserve o trecho:  \n“Aberta em 2021, a piscina mais funda do mundo \ntem 60 metros de profundidade e abriga até uma \n“cidade” subaquática. Com 14 milhões de litros \nde água e temperatura média de 30°C, a Deep \nDive Dubai é certificada pelo Guinness World \nRecords como ‘a piscina ma is profunda para o \nmergulho’ do mundo.”  \nFonte: CNN Brasil.  \nIndique o valor do volume de água da piscina \nmencionada na unidade de metros cúbicos:  \n(A) 140.  \n(B) 1.400.  \n(C) 14.000.  \n(D) 140.000.  \n(E) 1.400.000."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Pedro tem 5 filhos, sendo 4 deles maiores de 10 \nanos. Para todo filho maior de 10 anos, ele dá \nmensalmente uma mesada, no mesmo valor para \ntodos. O 5° filho, que ainda não recebia a \nmesada, irá completar 10 anos em breve, e deverá \nreceber uma mesada também. Porém, Pedro não \nquer aumentar o  seu custo geral com a mesada \ndos filhos, e, portanto, o valor total atualmente \npago será igualmente dividido entre os 5. Com \nisso, qual o decréscimo percentual sofrido no \nvalor de cada filho que já recebia a mesada antes?",
+            "alternativas": {
+                "A": "15%.",
+                "B": "20%.",
+                "C": "25%.",
+                "D": "12%.",
+                "E": "18%."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Júlio escreveu um livro à mão, resultando em 210 \npáginas. Quando ele estava redigitando o livro no \ncomputador, ele percebeu que a cada 5 páginas \nescritas à mão, equivale a 3 páginas digitadas. \nNessas condições, quantas páginas digitadas terá \no livro de Júl io?",
+            "alternativas": {
+                "A": "350.",
+                "B": "126.",
+                "C": "123.",
+                "D": "35.",
+                "E": "96.  QUESTÃO 15 \nObserve a seguinte sequência lógica numérica:  \n \n \nA sequência continua indefinidamente. Quantos \ncaracteres ‘A’ serão utilizados para fazer o 11° \nelemento desta sequência?  \n(A) 144.  \n(B) 121.  \n(C) 99.  \n(D) 169.  \n(E) 155."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Observe a seguinte sequência lógica  \n \nB, 4, F, 8, J, 12, ...  \n \nO próximo elemento da sequência será:",
+            "alternativas": {
+                "A": "L.",
+                "B": "12.",
+                "C": "M.",
+                "D": "14.",
+                "E": "N."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: O morador de uma certa vila quer encher um \nreservatório. Ele busca água no açude próximo e \nconsegue despejar no reservatório 30 litros de \nágua a cada meia hora. Porém, o reservatório tem \num pequeno vazamento e perde 0,5 litro de água \na cada 10 minutos. Sup ondo que quando o \nmorador começou a encher o reservatório ele \nestava vazio, quanto tempo levará, após o \nprimeiro despejo de água, para encher o \nreservatório, sabendo -se que este tem um volume \ntotal de 543 litros?",
+            "alternativas": {
+                "A": "8 horas e 30 minutos.",
+                "B": "10 horas.",
+                "C": "9 horas e 30 minutos.",
+                "D": "9 horas.",
+                "E": "10 horas e 30 minutos.  \nPrefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 6 de 13 QUESTÃO 18 \nGraça, Maria e Rosana moram todas no mesmo \nbairro. Elas vão ao posto médico do seu bairro a \ncada 30, 40 e 60 dias, respectivamente. Certo dia, \nas três se encontraram simultaneamente no \nconsultório. Após este encontro, quantos dias \ndepois acontecerá o próxi mo encontro \nsimultâneo entre elas?  \n(A) 60.  \n(B) 240.  \n(C) 140.  \n(D) 160.  \n(E) 120."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Um triângulo equilátero e um quadrado têm \ninicialmente o mesmo perímetro. Se a área do \nquadrado e do triângulo dobrarem, mantendo -se \nos formatos, então pode -se afirmar que:",
+            "alternativas": {
+                "A": "O perímetro do quadrado será o dobro do \nperímetro do triângulo.",
+                "B": "O perímetro do triângulo será o dobro do \nperímetro do quadrado.",
+                "C": "O quadrado e o triângulo terão lados iguais.",
+                "D": "O quadrado e o triângulo continuarão tendo \niguais perímetros entre si.",
+                "E": "O lado do triângulo será o dobro do lado do \nquadrado."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Luana e Alan tinham inicialmente o mesmo \ncapital cada. Luana aplicou 1/4 do seu capital \nnum regime de juro simples com uma \ndeterminada taxa de juro, enquanto Alan aplicou \ntodo seu capital em outro investimento também a \njuro simples, mas com outra taxa de juro. Sabe -\nse que o juro mensal coletado por Luana é o \ndobro do juro mensal colet ado por Alan. Neste \ncaso, a razão entre a taxa de juro da aplicação de \nLuana e a taxa de juro da aplicação de Allan é:",
+            "alternativas": {
+                "A": "8.",
+                "B": "4.",
+                "C": "2.",
+                "D": "1/4.",
+                "E": "1/8.  NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Considerando os aplicativos e programas \npresentes no Windows 7, qual dos executáveis a \nseguir é caracterizado por ser um processador de \ntextos incluído na instalação desta versão do \nWindows:",
+            "alternativas": {
+                "A": "Mypone.",
+                "B": "Getgo.",
+                "C": "Wordpad.",
+                "D": "Google Chrome.",
+                "E": "Rclone."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: O Windows 7, desenvolvido pela Microsoft, é \nclassificado como um:",
+            "alternativas": {
+                "A": "Sistema operacional.",
+                "B": "Banco de dados.",
+                "C": "Navegador da web.",
+                "D": "Antivírus.",
+                "E": "Gerenciador de e -mail."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: As teclas de atalho podem ser usadas para acessar \nrapidamente funções comuns do Windows 7.  O \ncomando presente ao clicar na tecla do logotipo \ndo Windows é responsável por:",
+            "alternativas": {
+                "A": "Desligar o computador.",
+                "B": "Abrir ou fechar o menu iniciar.",
+                "C": "Minimizar todas as janelas abertas.",
+                "D": "Mover uma janela de um monitor para outro.",
+                "E": "Percorrer os gadgets."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Para recordar um item selecionado no Windows \n7 o usuário pode fazer uso da tecla de atalho:",
+            "alternativas": {
+                "A": "Ctrl + T.",
+                "B": "Ctrl + R.",
+                "C": "Ctrl + Y.",
+                "D": "Ctrl + X",
+                "E": "Alt + Enter.  \n Prefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 7 de 13 QUESTÃO 25 \nObserva a imagem a seguir, extraída do \nnavegador Google Chrome, e assinale a \nalternativa que relaciona corretamente e \nrespectivamente as funções das três primeiras \nopções ilustradas:  \n \nFonte: 1 Google Chrome  \n(A) Retroceder, avançar e recarregar a página.  \n(B) Apagar, digitar e recarregar página.  \n(C) Recarregar página, acessar histórico e \natualização versão.  \n(D) Recarregar página, avançar para próxima \npágina e exclusão de versão.  \n(E) Excluir histórico, armazenar dados e atualizar \ndados.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: A Nova Lei de Licitações foi aprovada para \nmodernizar e aprimorar os processos de \ncontratação pública no Brasil, revogando a Lei nº \n8.666/93, a Lei do Pregão (Lei nº 10.520/2002) e \no Regime Diferenciado de Contratações (Lei nº \n12.462/2011). A nova legislaç ão foi \ndesenvolvida para tornar os procedimentos mais \ntransparentes, eficientes e alinhados com boas \npráticas internacionais. À luz de sua disciplina, \njulgue os itens a seguir.  \nI. A lei define o Pregão como modalidade de \nlicitação obrigatória para aquisição de bens e \nserviços comuns.  \nII. Não são abrangidas por esta Lei as empresas \npúblicas, as sociedades de economia mista e as \nsuas subsidiárias, ressalvado quanto às \ndisposições relativas aos crimes em licitações e \ncontratos administrativos.  \nIII. Um dos objetos contratuais regidos pela Lei \nnº 14.133/2021 são as concessões a terceiros de \nserviços públicos de competência exclusiva do \nPoder Público.  \nEstá correto o que se afirma em:",
+            "alternativas": {
+                "A": "I e III, apenas.",
+                "B": "I, apenas.",
+                "C": "II e III, apenas.",
+                "D": "I e II, apenas.",
+                "E": "II, apenas.  \n QUESTÃO 27  \nNos termos da Lei nº 14.133/2021, o documento \nnecessário para a contratação de bens e serviços, \nque deve conter, dentre outros parâmetros e \nelementos descritivos, a definição do objeto, \nincluídos sua natureza, os quantitativos, o prazo \ndo contrato e, se fo r o caso, a possibilidade de sua \nprorrogação, é o:  \n(A) anteprojeto.  \n(B) projeto básico.  \n(C) termo de referência.  \n(D) projeto integral.  \n(E) memorial descritivo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: A Lei nº 14.133/2021 trouxe significativas \nalterações quanto às modalidades de licitação. \nDesta feita, assinale a alternativa que representa \numa modalidade suprimida pela nova Lei:",
+            "alternativas": {
+                "A": "Leilão.",
+                "B": "Diálogo Competitivo.",
+                "C": "Concurso.",
+                "D": "Concorrência.",
+                "E": "Convite."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Procedimento administrativo previsto na Lei nº \n14.133/2021 mediante o qual a Administração \nPública convoca indivíduos ou empresas \ninteressadas em fornecer bens ou serviços a se \ninscreverem, desde que atendam aos requisitos \nestabelecidos, para que possam se r convocados a \nexecutar o objeto quando solicitados pelo órgão \nou entidade competente. Trata -se do:",
+            "alternativas": {
+                "A": "Cadastramento.",
+                "B": "Credenciamento.",
+                "C": "Habilitação.",
+                "D": "Inscrição Prévia.",
+                "E": "Capacitação.  \n \nPrefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 8 de 13 QUESTÃO 30  \nDispõe a Lei nº 14.133/2021 que a habilitação é \na fase da licitação em que se verifica o conjunto \nde informações e documentos necessários e \nsuficientes para demonstrar a capacidade do \nlicitante de realizar o objeto da licitação. A Lei \nadmite que seja exigida dos licitantes \ndocumentação referente à comprovação das \ncondições adiante elencadas, EXCETO:  \n(A) Qualificação técnica.  \n(B) Habilitação fiscal, social e trabalhista.  \n(C) Comprovação da propriedade legal dos bens \ndestinados à produção do objeto licitado.  \n(D) Habilitação jurídica.  \n(E) Qualificação econômico -financeira."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Sobre as vinculações constitucionais da receita \npública, informe se é verdadeiro (V) ou falso (F) \npara o que se afirma a seguir.  \n( ) Pertencem aos Municípios cinquenta por cento \ndo produto da arrecadação do imposto da União \nsobre renda e proventos de qualquer natureza, \nincidente na fonte, sobre rendimentos pagos, a \nqualquer título, por eles, suas autarquias e pelas \nfundações que ins tituírem e mantiverem.  \n( ) Pertencem aos Estados e ao Distrito Federal \nvinte por cento do produto da arrecadação do \nimposto que a União vier a instituir no exercício \nda competência tributária residual que lhe é \natribuída pelo art. 154, I, da Constituição de 1988 \n(os chamados imp ostos residuais).  \n( ) Pertencem aos Municípios vinte e cinco por \ncento do produto da arrecadação do imposto do \nEstado sobre a propriedade de veículos \nautomotores licenciados em seus territórios.",
+            "alternativas": {
+                "A": "F – V – F.",
+                "B": "V – V – F.",
+                "C": "F – F – V.",
+                "D": "F – V – V.",
+                "E": "V – F – F. \n QUESTÃO 32  \nOs preços públicos são uma espécie de receita \norçamentária e são arrecadados pelo Poder \nPúblico quando este atua na área de prestação de \nserviços como se empresário fosse. Sobre o tema, \njulgue os itens a seguir.  \n \nI. o fundamento de sua cobrança se confunde \ncom o das taxas de prestação de serviços.  \n \nII. a compulsoriedade de cobrança é uma de suas \nprincipais características, e sua inadimplência \nocasiona a inscrição em dívida ativa tributária.  \n \nIII. o preço público decorre de uma relação \ncontratual, revestida de natureza jurídica de \nDireito Privado.  \n \nEstá correto o que se afirma em:  \n \n(A) I e III, apenas.  \n(B) nenhuma das afirmativas.  \n(C) II e III, apenas.  \n(D) II, apenas.  \n(E) III, apenas.  \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 9 de 13 QUESTÃO 33  \nIMPORTANTE ! Para resolução das questões \nde número 33 a 40 , considere as informações a \nseguir. Elas são relativas a transações realizadas \npelo Município de São João de Barro, no \nexercício financeiro de 2023.  \n \n \nAinda, no exercício de 2023 o Município:  \n* Contratou de operação de crédito por \nantecipação de receita orçamentária, no valor de \nR$ 40.000,00, sendo integralmente quitada no \nmesmo ano, com juros de 10%.  \n* Recebeu Depósitos em procedimentos \nadministrativos tributários, no valor de R$ \n15.000,00, sendo que metade deste valor foi \ndevolvido no mesmo exercício;  \n* Efetuou consignações de retenção \nprevidenciária em folha de pagamento, no mês de \ndezembro, no importe de R$ 25.000,00, a ser \nrepassado ao INSS em janeiro seguinte.  \n* Efetuou pagamento de restos a pagar inscritos \nem 2021, no valor de R$ 17.500,00.  \nCom fulcro nas informações apresentadas, é \ncorreto afirmar que os restos a pagar processados \ne não -processados inscritos no exercício \nimportam, respectivamente, em:  \n(A) 55.000,00 e 30.000,00.  \n(B) 55.000,00 e 25.000,00.  \n(C) 30.000,00 e 55.000,00.  \n(D) 30.000,00 e 50.000,00.  \n(E) 25.000,00 e 50.000,00.  QUESTÃO 34  \nÀ luz dos dados apresentados, assinale a \nalternativa que indica o total da despesa corrente \nliquidada pelo Município no exercício de 2023.  \n(A) 600.000,00.  \n(B) 620.000,00.  \n(C) 545.000,00.  \n(D) 585.000,00.  \n(E) 670.000,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Com fulcro nas informações fornecidas, assinale \na alternativa que indica o resultado orçamentário \na ser evidenciado no Balanço Orçamentário de \n2023.",
+            "alternativas": {
+                "A": "déficit de 65.000,00.",
+                "B": "superávit de 105.000,00.",
+                "C": "superávit de 65.000,00.",
+                "D": "superávit de 80.000,00.",
+                "E": "déficit de 80.000,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Com base nos dados fornecidos, assinale a \nalternativa que indica o total da receita de capital \narrecadada pelo Município no exercício de 2023.",
+            "alternativas": {
+                "A": "575.000,00.",
+                "B": "450.000,00.",
+                "C": "475.000,00.",
+                "D": "500.000,00.",
+                "E": "525.000,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Ao final do exercício de 2023, a linha \n‘Pagamentos Extraorçamentários’, do Balanço \nFinanceiro, evidenciará um total de:",
+            "alternativas": {
+                "A": "52.500,00.",
+                "B": "60.000,00.",
+                "C": "45.000,00.",
+                "D": "47.500,00.",
+                "E": "40.000,00.  \n \nReceitas Arrecadadas:\nTransferências de Capital        75.000,00 \nReceitas Agropecuárias        25.000,00 \nImpostos, Taxas e\nContribuições de Melhoria     370.000,00 \nReceita de Serviços        85.000,00 \nAlienação de Bens      110.000,00 \nReceita de Contribuições        95.000,00 \nAmortização de Empréstimos        65.000,00 \nReceita Patrimonial      140.000,00 \nOperações de Crédito      275.000,00 \nDespesas Orçamentárias Empenhadas Liquidadas Pagas\nOutras Despesas Correntes        90.000,00       85.000,00       80.000,00 \nAmortização da Dívida      215.000,00     210.000,00     205.000,00 \nPessoal e Encargos Sociais      485.000,00     480.000,00     460.000,00 \nInvestimentos      275.000,00     270.000,00     265.000,00 \nJuros e Encargos da Dívida        60.000,00       55.000,00       45.000,00 \nInversões Financeiras      180.000,00     175.000,00     165.000,00 Prefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 10 de 13 QUESTÃO 38  \nAo final do exercício de 2023, a linha \n‘Recebimentos Extraorçamentários’, do Balanço \nFinanceiro, evidenciará um total de:  \n \n(A) 165.000,00.  \n(B) 80.000,00.  \n(C) 150.000,00.  \n(D) 140.000,00.  \n(E) 130.000,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: O Resultado Financeiro do exercício de 2023, \nexprimido no Balanço Financeiro, é positivo, no \nvalor de:",
+            "alternativas": {
+                "A": "160.000,00.",
+                "B": "172.500,00.",
+                "C": "167.500,00.",
+                "D": "152.500,00.",
+                "E": "145.000,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Considerando que a Despesa Orçamentária Total \nFixada na LOA para o exercício de 2023 foi de \n1.420.000,00, e que não houve empenhos \ncancelados no exercício, a economia \norçamentaria apresentada no exercício equivale \na:",
+            "alternativas": {
+                "A": "95.000,00.",
+                "B": "85.000,00.",
+                "C": "105.000,00.",
+                "D": "115.000,00.",
+                "E": "135.000,00.  \n \n \n QUESTÃO 41  \nAcerca das operações de crédito por antecipação \nda receita orçamentária, julgue os itens a seguir à \nluz da vigente legislação.  \nI.  A operação de crédito por antecipação de \nreceita realizar -se-á somente a partir do décimo \ndia do início do exercício.  \nII. É vedada sua realização enquanto existir \noperação anterior da mesma natureza não \nintegralmente resgatada.  \nIII. É vedada sua realização nos dois últimos anos \nde mandato do Chefe do Poder Executivo.  \nEstá correto o que se afirma em:  \n(A) I e III, apenas.  \n(B) I, apenas.  \n(C) II e III, apenas.  \n(D) II, apenas.  \n(E) I e II, apenas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Sobre o regime de adiantamento (ou suprimento \nde fundos), informe se é verdadeiro (V) ou falso \n(F) para o que se afirma a seguir.  \n( ) Por ser um regime destinado à execução de \ndespesas urgentes, dispensa a prévia emissão de \nempenho.  \n( ) Caso o agente suprido não utilize os valores \nadiantados e os devolva no mesmo exercício \nfinanceiro da concessão, estes serão \ncontabilizados como anulação de despesa \norçamentária.  \n( ) A Lei nº 4.320/1964 expressamente define o \nlimite máximo de valor que pode ser adiantado \naos agentes supridos.  \nA sequência está correta em:",
+            "alternativas": {
+                "A": "F – V – F.",
+                "B": "F – F – F.",
+                "C": "V – V – F.",
+                "D": "F – V – V.",
+                "E": "V – F – F. \n Prefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 11 de 13 QUESTÃO 43  \nO Estado pode angariar receitas não apenas \natravés da imposição de seu poder soberano, mas \ntambém agindo em condição idêntica aos \nparticulares, explorando seu patrimônio e \nobtendo receitas financeiras, receitas de alugueis \netc. Às receitas obtidas desta úl tima forma, a \ndoutrina denomina:  \n \n(A) receitas extraordinárias.  \n(B) receitas recorrentes.  \n(C) receitas nominais.  \n(D) receitas originárias.  \n(E) receitas efetivas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: Sobre o Balanço Patrimonial das entidades do \nSetor Público, assinale a alternativa \nINCORRETA.",
+            "alternativas": {
+                "A": "O saldo patrimonial resulta da diferença entre \no Ativo Permanente e o Passivo Permanente, \nacrescido das contas de compensação.",
+                "B": "O Ativo Financeiro compreenderá os créditos \ne valores realizáveis independentemente de \nautorização orçamentária e os valores \nnumerários.",
+                "C": "O Ativo Permanente compreenderá os bens, \ncréditos e valores, cuja mobilização ou alienação \ndependa de autorização legislativa.",
+                "D": "O Passivo Financeiro compreenderá as \ndívidas fundadas e outras pagamento independa \nde autorização orçamentária.",
+                "E": "O Passivo Permanente compreenderá as \ndívidas fundadas e outras que dependam de \nautorização legislativa para amortização ou \nresgate.  \n \n \n \n QUESTÃO 45  \nNo Brasil, o reconhecimento da receita e a da \ndespesa orçamentárias obedece a um regime \npeculiar, chamado de regime misto ou de base \nmodificada, segundo o qual:  \n \n(A) as receitas serão reconhecidas no momento \nda arrecadação e as despesas, no momento da \nliquidação.  \n(B) as receitas serão reconhecidas no momento \nda arrecadação e as despesas, no momento do \nempenho.  \n(C) as receitas serão reconhecidas no momento \nda arrecadação e as despesas, no momento do \npagamento.  \n(D) as receitas serão reconhecidas no momento \ndo recolhimento e as despesas, no momento do \npagamento.  \n(E) as receitas serão reconhecidas no momento \ndo lançamento e as despesas, no momento do \nempenho."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Uma entidade registra no Livro Razão da conta \nBancos c/ Mov. um saldo devedor de R$ \n5.000,00 em 31/12/2022. Contudo, há um cheque \nde R$ 500,00 emitido pela entidade e não \ncompensado pelo portador, e uma transferência a \nser recebida do exterior, ainda em li quidação, no \nimporte de R$ 1.000,00. Após a devida \nconciliação bancária, a conta -contábil Bancos c/ \nMov. apresentará:",
+            "alternativas": {
+                "A": "saldo devedor de R$ 4.000,00.",
+                "B": "saldo devedor de R$ 6.000,00.",
+                "C": "saldo devedor de R$ 4.500,00.",
+                "D": "saldo credor de R$ 4.500,00.",
+                "E": "saldo devedor de R$ 5.500,00.  \n \n \n \n Prefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 12 de 13 QUESTÃO 47  \nIMPORTANTE ! Para resolução das questões de \nnúmero 47 a 50 , considere as informações a seguir. \nElas são relativas a transações realizadas pelo \nMunicípio de Bem -te-vi, no exercício financeiro de \n2022.  \nI. Empenho de despesa com Juros e Encargos da \nDívida, no valor de R$ 27.500,00, integralmente paga \nno exercício;  \nII. Despesa paga referente a Amortização da Dívida \nPública, no importe de R$ 30.000,00.  \nIII. Aquisição de uma máquina de tomografia para a \nSecretaria de Saúde, no valor de R$ 65.000,00, sendo \npagos 70% no exercício, e o restante inscrito em \nrestos a pagar;  \nIV. Lançamento de tributos municipais no montante \nde R$ 275.000,00, sendo que deste montante, R$ \n35.000,00 foram inscritos em Dívida Ativa e o \nrestante arrecadado no exercício;  \nV. Pagamento de Pessoal e Encargos Sociais, no valor \nde R$ 125.000,00, referentes à manutenção dos \nserviços públicos;  \nVI. Recebimento de devolução de Empréstimos \nConcedidos a juros subsidiados, sendo R$ 85.000,00 \nreferentes ao principal e R$ 10.000,00 referentes aos \njuros;  \nVII. Baixa de mobiliário por sinistro em decorrência \nde um incêndio, no valor total de 12.500,00;  \nVIII. Recebimento de transferência de capital da \nUnião, no valor de R$ 75.000,00, destinada à \nconstrução de uma escola municipal em 2023, cuja \nlicitação já está em andamento;  \nIX. Leilão de veículos inservíveis, arrecadando um \nmontante de R$ 35.000,00 em 2022;  \nX. Recebimento de três vans para o transporte \nescolar, doadas pelo Governo do Estado, no valor de \nR$ 125.000,00;  \nXI. Contratação de operação de crédito de longo \nprazo no valor de R$ 60.000,00. A carência para \ninício de amortização é de dois anos;  \nXII. Saldo de Caixa e Equivalentes de Caixa no início \ndo exercício financeiro: R$ 25.500,00.  \nCom base nos normativos aplicáveis à elaboração da \nDemonstração dos Fluxos de Caixa no Setor Público, \nassinale a alternativa que evidencie o fluxo líquido de \ncaixa das atividades operacionais no exercício de \n2022:  \n \n(A) 107.500,00.  \n(B) 162.500,00.  \n(C) 172.500,00.  \n(D) 200.000,00.  \n(E) 97.500,00.  \n QUESTÃO 48  \nCom base nos normativos aplicáveis à \nelaboração da Demonstração dos Fluxos de \nCaixa no Setor Público, assinale a alternativa que \nevidencie o fluxo líquido de caixa das atividades \nde financiamento no exercício de 2022:  \n(A) 105.000,00.  \n(B) (2.500,00).  \n(C) (30.000,00).  \n(D) 2.500,00.  \n(E) 30.000,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: Com base nos normativos aplicáveis à \nelaboração da Demonstração dos Fluxos de \nCaixa no Setor Público, assinale a alternativa que \nevidencie o fluxo líquido de caixa das atividades \nde investimento no exercício de 2022:",
+            "alternativas": {
+                "A": "74.500,00.",
+                "B": "187.000,00.",
+                "C": "199.500,00.",
+                "D": "149.500,00.",
+                "E": "55.000,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31: Assinale a alternativa que evidencia o saldo final \nde Caixa e Equivalentes de Caixa em \n31/12/2022:",
+            "alternativas": {
+                "A": "290.000,00.",
+                "B": "302.500,00.",
+                "C": "427.500,00.",
+                "D": "415.000,00.",
+                "E": "327.500,00.  \n \n \n \n \n Prefeitura Municipal de São Lourenço  da Serra – Concurso Público - 01/2024                  INSTITUTO AVANÇA SÃO PAULO  \n \nTESOUREIRO                                                                                                                                                 Página 13 de 13"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: Segundo a reportagem apresentada, conclui-se \nque:",
+            "alternativas": {
+                "A": "o elefante-marinho mais velho ofereceu \nassistência ao filhote por considerá-lo uma \npresa.",
+                "B": "a assistência do elefante-marinho mais \nvelho se trata de um comportamento sexual mal \ndirecionado em relação à mãe do filhote.",
+                "C": "o cuidado com os filhotes dessa espécie \ncostuma ser de responsabilidade das fêmeas, e \nnão dos machos.",
+                "D": "o resgate do filhote foi feito pelo elefante-\nmarinho mais velho em troca de acasalamento.",
+                "E": "os elefantes-marinhos machos não \nparticipam do cuidado com os filhotes porque \nfocam em sua própria sobrevivência. \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 3 de 15 QUESTÃO 02 \nOs pesquisadores consideraram o resgate do \nfilhote como um episódio de altruísmo pois: \n(A) o elefante-marinho sofreu risco de vida para \nsalvar o filhote. \n(B) o elefante-marinho sacrificou outro animal \npara salvar o filhote.  \n(C) o elefante-marinho gastou sua energia no \nresgate do filhote, e não em outras atividades. \n(D) elefantes-marinhos machos costumam ser \nbastante agressivos com filhotes, e não \ncompassivos. \n(E) elefantes-marinhos machos costumam \ndominar fêmeas e filhotes para competir com \noutros animais."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: Analise o excerto a seguir quanto aos \nmecanismos de coesão textual: “Ele, por sua \nvez, não conseguia nadar e era puxado para \nmais longe pelas ondas.” Assinale a alternativa \nque classifica corretamente o tipo de coesão \ntextual verificada no excerto apresentado, com \nbase no emprego do pronome pessoal, bem \ncomo indica o elemento a que o pronome se \nrefere no texto.",
+            "alternativas": {
+                "A": "coesão referencial anafórica, que retoma o \nreferente “o filhote” anteriormente enunciado.",
+                "B": "coesão referencial catafórica, que introduz \no referente “o filhote” no texto.",
+                "C": "coesão referencial anafórica, que retoma o \nreferente “um macho” anteriormente \nenunciado.",
+                "D": "coesão por substituição, que retoma e \natualiza com uma nova característica o \nreferente “o filhote” anteriormente enunciado.",
+                "E": "coesão lexical, que retoma por meio de um \nhiperônimo o referente “o filhote” \nanteriormente enunciado. \n \n \n \n \n \n  \nConsidere o excerto a seguir para responder \nàs questões 4 e 5: \n \nEntão, um macho, identificado como o alfa do \ngrupo, se aproximou da fêmea e, logo depois, \nseguiu em direção ao filhote – que já estava a \naproximadamente 40 metros da fêmea."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: Em termos de papel sintático, o elemento \ncolocado entre vírgulas “identificado como o \nalfa do grupo”, no contexto apresentado, \nconstitui:",
+            "alternativas": {
+                "A": "aposto do sujeito.",
+                "B": "complemento nominal.",
+                "C": "adjunto adnominal.",
+                "D": "vocativo do sujeito.",
+                "E": "adjunto adverbial."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: Quanto à classificação gramatical, a oração \nintroduzida pelo sinal de travessão ( –), no \nexcerto apresentado, corresponde a uma:",
+            "alternativas": {
+                "A": "oração coordenada explicativa.",
+                "B": "oração subordinada adjetiva explicativa.",
+                "C": "oração subordinada adjetiva restritiva.",
+                "D": "oração coordenada aditiva.",
+                "E": "oração subordinada substantiva objetiva \ndireta."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Analise as sentenças a seguir e assinale aquela \nem que ocorre uma oração subordinada \nsubstantiva subjetiva.",
+            "alternativas": {
+                "A": "A expectativa é de que o professor cancele \na prova.",
+                "B": "Ela se esqueceu de anotar os compromissos \nnaquele dia.",
+                "C": "Não é segredo que eles já não se toleram no \nambiente de trabalho.",
+                "D": "Não demore muito, que estou com pressa.",
+                "E": "Os meninos foram suspensos porque só \nfaziam bagunça na sala de aula.  \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 4 de 15 QUESTÃO 07 \nConsidere o excerto a seguir, retirado de uma \nreportagem publicada na Revista Galileu, \nacerca de uma descoberta arqueológica:  \n“‘A parte mais incrível [da descoberta] é o \nquanto tudo está bem preservado e que agora \nsabemos onde havia árvores em ambientes que \nnão as têm mais’, diz Basil Stow, guarda \nflorestal do National Trust, em entrevista ao \njornal The Guardian.”   \nO excerto dado se apresenta em discurso direto. \nAssinale a alternativa que o reescreve \ncorretamente em discurso indireto.  \n(A) Basil Stow, guarda florestal do National \nTrust, disse, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] é o quanto tudo está bem \npreservado e que agora sabem onde há árvores \nem ambientes que não as teriam mais.  \n(B) Basil Stow, guarda florestal do National \nTrust, diz, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] é o quanto tudo está bem \npreservado e que agora sabem onde há árvores \nem ambientes que não as tinham mais.  \n(C) Basil Stow, guarda florestal do National \nTrust, disse, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] foi o quanto tudo estava bem \npreservado e que agora sabem onde havia \nárvores em ambientes que não as tinham mais.  \n(D) Basil Stow, guarda florestal do National \nTrust, disse, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] era o quanto tudo estava bem \npreservado e que agora sabiam onde havia \nárvores em ambientes que não as tinham mais.  \n(E) Basil Stow, guarda florestal do National \nTrust, diz, em entrevista ao jornal The \nGuardian, que a parte mais incrível [da \ndescoberta] é o quanto tudo estava bem \npreservado e que agora sabem onde havia \nárvores em ambientes que não as têm mais. \n \n \n \n \n QUESTÃO 08 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica a ocorrência de \num vocativo.  \n(A) Ana, que já não aguentava o calor, \ndesmaiou em meio ao espetáculo. \n(B) A garota, filha mais velha do romancista, \ntambém passou a escrever nas horas vagas. \n(C) Já te disse, meu amigo, que a vida não pausa \npara que possamos resolver as coisas. \n(D) Foi ensinada desde pequena a ser fiel aos \ndeuses.  \n(E) Nessa época do ano, as folhas amanhecem \nsempre umedecidas pelo orvalho."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Considere as sentenças:  \nI. Os frascos do laboratório _____ amostras do \nvírus, que serão analisadas para o \ndesenvolvimento da vacina. \nII. A garota não espera que _____ com ela para \na feira de ciências. \nIII. Gostaria de saber quantos litros de gás \n_____ este botijão.   \nAssinale as alternativas que indicam os verbos \nque preenchem corretamente as lacunas das \nsentenças dadas.",
+            "alternativas": {
+                "A": "contém; contem; contêm.",
+                "B": "contêm; contem; contém.",
+                "C": "contem; contém; contêm.",
+                "D": "contêm; contém; contem.",
+                "E": "contém; contem; contém."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: Assinale a alternativa em que todas as palavras \nindicadas flexionam em gênero.",
+            "alternativas": {
+                "A": "pastor; credo; oráculo.",
+                "B": "amplitude; amazona; inimigo.",
+                "C": "cidadão; piloto; fantástico.",
+                "D": "qual; muito; atacante.",
+                "E": "jogador; esquerda; titular.  Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 5 de 15 MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: Dois irmãos recebem uma mesada. Um deles, o \nmais velho, recebe R$ 80,00, e o mais novo \nrecebe R$ 55,00. Insatisfeito com o constante \naumento de preços na cantina da escola, o irmão \nmais velho pediu um aumento da sua mesada \npara que ele receba o valor de R$ 100,00, que \nlhe foi concedido. A mesada do irmão mais \nnovo também será aumentada na mesma \nproporção. Qual será o novo valor recebido pelo \nirmão mais novo?",
+            "alternativas": {
+                "A": "R$ 75,00.",
+                "B": "R$ 68,75.",
+                "C": "R$ 60,00.",
+                "D": "R$ 72,15.",
+                "E": "R$ 69,25."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Observe a sequência lógica figural abaixo: \nDentre as correspondências, indique o próximo \nelemento desta sequência:",
+            "alternativas": {
+                "A": "I.",
+                "B": "II.",
+                "C": "III.",
+                "D": "IV.",
+                "E": "V. \n \n \n QUESTÃO 13 \nA figura abaixo mostra um quadrado ABCD de \nlado 1 cm. Os segmentos EF e GH passam \nexatamente pelo centro do quadrado, e são \nparalelos aos lados, conforme a figura: \nIndique a área da região sombreada, em cm2: \n(A) 1/4.  \n(B) 1/8.  \n(C) 1/16.  \n(D) 1/32.  \n(E) 1/64."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Observe a sequência abaixo feita com \nquadrados de lado 𝑎: \n \nO primeiro elemento é feito com quatro \nquadrados, e seu perímetro é 10𝑎. Indique o \nperímetro do 10° elemento:",
+            "alternativas": {
+                "A": "23𝑎.",
+                "B": "32𝑎.",
+                "C": "40𝑎.",
+                "D": "56𝑎.",
+                "E": "64𝑎. \n \n \nCâmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 6 de 15 QUESTÃO 15 \nJoão está fazendo um experimento para a feira \nde ciências da sua escola. Ele pretende medir \numa grandeza física cujo valor correto é 10,0, \nmas nos seus cálculos ele obtém o valor de 12,0. \nEm quantos por cento a medida de João difere \nem relação ao valor correto? \n(A) 16,7%. \n(B) 18,4%. \n(C) 25,0%. \n(D) 20,0%. \n(E) 19,5%."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Numa escola, cada aluno tem um armário para \nguardar seus pertences. Os armários são \nenfileirados e enumerados. Os armários \nenumerados de 1 a 5 pertencem aos estudantes \nMatilde, Jéssica, Ana, Gabriel e Carlos, não \nnecessariamente nesta ordem. No primeiro dia \nde Gabriel, ele não sabia qual seria o seu \narmário, e perguntou para os demais colegas. \nEles responderam: \n• O número do armário de Matilde é \nmaior que o seu;  \n• O número do armário de Carlos é maior \nque o de Matilde;  \n• Os dois últimos armários pertencem a \nJéssica ou a Ana; \nCom essas informações, qual o número do \narmário de Gabriel?",
+            "alternativas": {
+                "A": "1.",
+                "B": "2.",
+                "C": "3.",
+                "D": "4.",
+                "E": "5. \n \n \n \n \n QUESTÃO 17 \nDois reservatórios A e B, de 1000 litros cada, \nserão cheios por torneiras que têm vazões \ndiferentes. Antes de começar o enchimento, o \nreservatório A está incialmente vazio e o \nreservatório B já está com 1/8 do seu volume \npreenchido. A torneira que encherá o \nreservatório A despejará 6 litros de água a cada \nsegundo. Já a torneira que encherá o \nreservatório B despejará 2 litros de água a cada \nsegundo. Sabendo-se que as duas torneiras \nserão ligadas simultaneamente, em quanto \ntempo após o ligamento os reservatórios terão o \nmesmo volume? \n(A) 31,25 segundos. \n(B) 15,12 segundos. \n(C) 19,65 segundos. \n(D) 18,15 segundos. \n(E) 42,25 segundos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Uma pessoa está fazendo uma pesquisa de \nsatisfação com os clientes de uma determinada \nmarca. A pesquisa consiste em o cliente dar \numa nota de 0 a 100 para o serviço desta marca. \nNo ano passado, a média da nota dada pelos \nclientes foi 68. Esse ano, a meta é que a nota \naumente em 25%. Se a pesquisa for feita com \n100 clientes, qual deve ser a soma das suas \nrespectivas notas para que se atinja a meta?",
+            "alternativas": {
+                "A": "8500.",
+                "B": "850.",
+                "C": "170.",
+                "D": "1700.",
+                "E": "17000. \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 7 de 15 QUESTÃO 19 \nObserve as seguintes afirmativas sobre ângulos \npositivos: \nI – Um ângulo reto é sempre igual a 90°; \nII – Ângulos agudos são menores que 90°; \nIII – Ângulos obtusos então entre 90° e 180°. \nEstão corretos: \n(A) Somente I. \n(B) I e II. \n(C) I e III. \n(D) II e III. \n(E) I, II e III."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: De acordo com o Instituto Brasileiro de \nGeografia e Estatística (IBGE), em 2020 o \nnúmero de pessoas desempregadas no Brasil foi \nde 14 milhões. O gráfico abaixo mostra \nalgumas estratificações desse número: \nAdaptado de: Pnad Covid 19, IBGE.  \nAnalisando o gráfico, é possível afirmar que o \nnúmero de pessoas desempregadas com 50 anos \nou mais é, em milhões:",
+            "alternativas": {
+                "A": "1,40.",
+                "B": "1,82.",
+                "C": "13,0.",
+                "D": "10,0.",
+                "E": "0,42. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: Com base nos conhecimentos relacionados ao \nWindows 7, analisar as afirmações a seguir: \nI. O Windows 7 permite o compartilhamento de \narquivos entre computadores conectados a uma \nmesma rede doméstica. \nII. O Windows 7 permite o compartilhamento \nde impressoras entre computadores conectados \na uma mesma rede doméstica. \nIII. Quando você abre arquivos e programas no \nWindows 7, os ícones aparecem no menu de \nconfigurações para que você possa alternar \nentre eles. \nEstá(ão) Correto(s):",
+            "alternativas": {
+                "A": "Somente o item I.",
+                "B": "Somente o item II.",
+                "C": "Somente os itens I e II.",
+                "D": "Somente os itens II e III.",
+                "E": "Todos os itens."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: Sobre as funcionalidades presentes na barra de \ntarefas do Windows 7, marcar C para as \nafirmativas Certas, E para as Erradas e, após, \nassinalar a alternativa que apresenta a sequência \nCORRETA:  \n(_) É possível visualizar os programas que \nestão abertos no Windows 7 utilizando a \nbarra de tarefas.  \n(_) A barra de tarefas apresenta ao usuário a \nopção de desinstalar rapidamente um \nprograma em uso.  \n(_) É possível fixar os programas mais \nutilizados na barra de tarefas, para facilitar o \ntrabalho no dia a dia.",
+            "alternativas": {
+                "A": "C – C – C.",
+                "B": "C – E – E.",
+                "C": "C – E – C.",
+                "D": "E – E – C.",
+                "E": "E – C – C. \nCâmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 8 de 15 QUESTÃO 23 \nÉ um dos programas nativos do Windows 7, \npresente ao instalar a versão do Sistema \nOperacional: \n(A) Calculadora. \n(B) 7-zip. \n(C) Winzip. \n(D) Dropbox. \n(E) Steam."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Quanto mais você usa seu computador, mais \naumenta o número de arquivos que precisam ser \ngerenciados. O meio indicado para abrir pastas \ne navegar entre os diretórios existentes no \nWindows 7 é utilizando o:",
+            "alternativas": {
+                "A": "Google Chrome.",
+                "B": "Windows Explorer.",
+                "C": "Bloco de notas.",
+                "D": "Adobe 7.0.",
+                "E": "Google Maps."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Entre as teclas de atalho presentes no Windows \n7, qual das funções abaixo é acionada ao utilizar \no comando de teclado Windows + T:",
+            "alternativas": {
+                "A": "Trocar de usuário do computador.",
+                "B": "Bloquear o computador.",
+                "C": "Maximizar a janela.",
+                "D": "Maximiza a janela.",
+                "E": "Percorrer aplicativos na barra de tarefas. \n \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: ATENÇÃO! Para resolução das próximas \nSETE  questões, considere as informações a \nseguir, relativas a dados orçamentários e \nfinanceiros do Município de Colibri, exercício \nfinanceiro de 2023. \n \nDespesa Liquidada  1.130.000,00  \nReceita prevista na LOA  1.200.000,00  \nDespesa Empenhada   1.175.000,00  \nDespesa Paga  1.090.000,00  \nEmpenhos Cancelados       25.000,00  \nDespesa fixada na LOA  1.200.000,00  \nReceita Arrecadada  1.315.000,00  \nReceita Recolhida  1.300.000,00  \n \nAinda, no exercício de 2023 houve as seguintes \ntransações: \n \n* Reabertura de créditos especiais abertos em \ndezembro/2022, no importe de R$ 35.000,00. \n* Pagamento de Restos a Pagar inscritos no \nexercício anterior, referentes a serviços de \nterceiros – pessoa jurídica, no valor de R$ \n40.000,00. \n* Contratação de Operação de Crédito por \nAntecipação da Receita Orçamentária, no valor \nde R$ 30.000,00, sendo integralmente quitada \nno mesmo ano, com juros de 10%. \n* Recebimento de Depósitos em procedimentos \nadministrativos, no valor de R$ 15.000,00, \nsendo que metade deste valor foi devolvido no \nmesmo exercício \n* Consignação, no mês de dezembro/2023, de \nparcelas de empréstimos na folha dos \nservidores, no importe de R$ 25.000,00, a ser \nrepassado ao banco em janeiro/2024. \n \nDe acordo com os dados, é correto afirmar que, \nno exercício de 2023, o Município inscreveu em \nRestos a Pagar Processados o montante de:",
+            "alternativas": {
+                "A": "40.000,00.",
+                "B": "65.000,00.",
+                "C": "75.000,00.",
+                "D": "35.000,00.",
+                "E": "30.000,00. Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 9 de 15 QUESTÃO 27 \nCom base nos dados fornecidos, é possível \nconcluir, através da análise do Balanço \nOrçamentário, que, no exercício de 2023: \n(A) o Município experimentou uma frustração \nde arrecadação de receita orçamentária, da \nordem de 115.000,00. \n(B) o Município experimentou um excesso de \narrecadação de receita orçamentária, da ordem \nde 115.000,00. \n(C) o Município experimentou uma frustração \nde arrecadação de receita orçamentária, da \nordem de 100.000,00. \n(D) o Município experimentou um excesso de \narrecadação de receita orçamentária, da ordem \nde 90.000,00. \n(E) o Município experimentou um excesso de \narrecadação de receita orçamentária, da ordem \nde 100.000,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: No Balanço Financeiro do exercício de 2023, o \ntotal evidenciado na linha ‘Recebimentos \nExtraorçamentários’ será de:",
+            "alternativas": {
+                "A": "155.000,00.",
+                "B": "105.000,00.",
+                "C": "130.000,00.",
+                "D": "115.000,00.",
+                "E": "100.000,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: No exercício de 2023 o Município de Colibri \nexperimentou uma economia orçamentária da \nordem de:",
+            "alternativas": {
+                "A": "25.000,00.",
+                "B": "15.000,00.",
+                "C": "60.000,00.",
+                "D": "50.000,00.",
+                "E": "75.000,00. \n QUESTÃO 30 \nCom base nas informações, é correto afirmar \nque, no exercício de 2023, o Município \ninscreveu em Restos a Pagar Não-Processados \ndespesas no importe de: \n(A) 10.000,00. \n(B) 45.000,00. \n(C) 55.000,00. \n(D) 25.000,00. \n(E) 20.000,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: No Balanço Financeiro do exercício de 2023, o \ntotal evidenciado na linha ‘Pagamentos \nExtraorçamentários’ será de:",
+            "alternativas": {
+                "A": "80.500,00.",
+                "B": "77.500,00.",
+                "C": "70.000,00.",
+                "D": "82.500,00.",
+                "E": "102.500,00."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: O resultado orçamentário a ser expresso no \nBalanço Orçamentário encerrado no exercício \nde 2023 é um superávit de:",
+            "alternativas": {
+                "A": "140.000,00.",
+                "B": "150.000,00.",
+                "C": "165.000,00.",
+                "D": "190.000,00.",
+                "E": "200.000,00. \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 10 de 15 QUESTÃO 33 \nAs receitas ___________ entram nos cofres \npúblicos por meio de coação ao indivíduo, \nimposta ao contribuinte com base no poder \nsoberano que é ao Estado outorgado pelo \npróprio povo. Assinale a alternativa que \ncorretamente preenche a lacuna. \n(A) regulares \n(B) derivadas \n(C) originárias \n(D) ordinárias \n(E) extemporâneas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Nos termos do vigente regramento sobre \nFinanças Públicas, as disponibilidades de caixa \ndos Estados, do Distrito Federal, dos \nMunicípios e dos órgãos ou entidades do Poder \nPúblico e das empresas por ele controladas \ndeverão ser mantidas depositadas:",
+            "alternativas": {
+                "A": "em bancos de desenvolvimento regional.",
+                "B": "em instituições financeiras oficiais, \nressalvados os casos previstos em lei.",
+                "C": "em bancos múltiplos com carteira de \ninvestimento.",
+                "D": "em bancos de investimento com carteira \ncomercial.",
+                "E": "nas instituições que ofereçam as melhores \ncondições de rentabilidade e os menores custos \npara operações de crédito. \n \n \n \n \n \n \n \n \n \n QUESTÃO 35 \nSobre as operações de crédito por antecipação \nde receita orçamentária, informe se é \nverdadeiro (V) ou falso (F) para o que se afirma \na seguir. \n( ) É vedada a captação de recursos a título de \nantecipação de receita de tributo ou \ncontribuição cujo fato gerador ainda não tenha \nocorrido. \n( ) A operação de crédito por antecipação de \nreceita destina-se a atender insuficiência de \ncaixa durante o exercício financeiro e realizar-\nse-á somente a partir do décimo dia do início do \nexercício. \n( ) É facultado ao Chefe do Poder Executivo \ncontratar este tipo de operação de crédito \ndiscricionariamente, a qualquer tempo dentro \nde seu mandato. \n(A) F – V – F. \n(B) V – F – V. \n(C) F – V – V. \n(D) F – F – V. \n(E) V – V – F."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: De acordo com a vigente normatização aplicada \nà contabilidade pública, a Dívida Ativa será \nevidenciada no ____________, no Balanço \nPatrimonial, e será escriturada como receita \norçamentária no exercício em que for \n___________. Assinale a alternativa que \nadequadamente preenche as lacunas.",
+            "alternativas": {
+                "A": "Ativo Circulante / verificada",
+                "B": "Ativo Não-Circulante / arrecadada",
+                "C": "Passivo Não-Circulante / inscrita",
+                "D": "Passivo Circulante / arrecadada",
+                "E": "Ativo Não-Circulante / lançada \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 11 de 15 QUESTÃO 37 \nATENÇÃO! Para resolução das próximas \nCINCO  questões, considere as informações a \nseguir. \nNo exercício financeiro de 2022, o Município \nde Cacatua realizou as seguintes transações \norçamentárias: \n \nReceitas Arrecadadas: \n \n \n \nDespesas Empenhadas, Liquidadas e Pagas: \n \n \n \n*As Inversões Financeiras se referem a \naquisição de veículos usados e as ‘outras \ndespesas correntes’ são referentes a gastos com \na manutenção das atividades do ente. \n \nConsiderando as informações fornecidas, e \nelaborando a Demonstração dos Fluxos de \nCaixa pelo método direto, assinale a alternativa \nque indica o valor dos fluxos líquidos das \natividades operacionais (valores entre \nparênteses representam números negativos). \n(A) 65.000,00. \n(B) (280.000,00) \n(C) 280.000,00. \n(D) 60.000,00. \n(E) (60.000,00). QUESTÃO 38 \nConsiderando as informações fornecidas, e \nelaborando a Demonstração dos Fluxos de \nCaixa pelo método direto, assinale a alternativa \nque indica o valor dos fluxos líquidos das \natividades de financiamento.  \n(A) 290.000,00. \n(B) 225.000,00. \n(C) 185.000,00. \n(D) 310.000,00. \n(E) 10.000,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: Considerando as informações fornecidas, e \nelaborando a Demonstração dos Fluxos de \nCaixa pelo método direto, assinale a alternativa \nque indica o valor dos fluxos líquidos das \natividades de investimento (valores entre \nparênteses representam números negativos).",
+            "alternativas": {
+                "A": "(215.000,00).",
+                "B": "(195.000,00).",
+                "C": "(300.000,00).",
+                "D": "(70.000,00).",
+                "E": "(120.000,00)."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: A Receita Corrente arrecadada pelo Município \nde Cacatua no exercício financeiro de 2023 \nimporta em:",
+            "alternativas": {
+                "A": "955.000,00.",
+                "B": "890.000,00.",
+                "C": "735.000,00.",
+                "D": "825.000,00.",
+                "E": "1.080.000,00. \n \n \n \n Amortização de Empréstimos      105.000,00 \nReceita Patrimonial      220.000,00 \nReceita de Serviços      130.000,00 \nOperações de Crédito      415.000,00 \nAlienação de Bens      225.000,00 \nImpostos, Taxas e\nContribuições de Melhoria     455.000,00 \nReceita de Contribuições        85.000,00 \nTransferências de Capital      125.000,00 \nReceitas Agropecuárias        65.000,00 \nInvestimentos      325.000,00 \nInversões Financeiras      200.000,00 \nPessoal e Encargos Sociais      725.000,00 \nJuros e Encargos da Dívida      175.000,00 \nAmortização da Dívida      230.000,00 \nOutras Despesas Correntes      115.000,00 Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 12 de 15 QUESTÃO 41 \nA Despesa de Capital empenhada pelo \nMunicípio de Cacatua no exercício financeiro \nde 2023 importa em:  \n(A) 555.000,00. \n(B) 525.000,00. \n(C) 930.000,00. \n(D) 755.000,00. \n(E) 430.000,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Nos termos da Nova Lei de Licitações e \nContratos Administrativos (Lei nº \n14.133/2021), a modalidade de licitação \ndestinada à escolha de trabalho técnico, \ncientífico ou artístico, cujo critério de \njulgamento será o de melhor técnica ou \nconteúdo artístico, e para concessão de prêmio \nou remuneração ao vencedor, é denominada:",
+            "alternativas": {
+                "A": "Leilão.",
+                "B": "Seleção Pública.",
+                "C": "Credenciamento.",
+                "D": "Concurso.",
+                "E": "Diálogo Competitivo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28: O Estatuto dos Servidores Públicos do \nMunicípio de Itapecerica da Serra/SP \nestabelece que são estáveis após __________ \nos servidores nomeados em virtude de concurso \npúblico. Assinale a alternativa que \ncorretamente preenche a lacuna.",
+            "alternativas": {
+                "A": "três anos após a nomeação",
+                "B": "dois anos a contar da convocação",
+                "C": "três anos após a posse",
+                "D": "dois anos após a aprovação em concurso \npúblico",
+                "E": "três anos de efetivo exercício \n \n QUESTÃO 44 \nÀ luz das disposições da Lei nº 14.133/2021 \nsobre Inexigibilidade de Licitação, informe se é \nverdadeiro (V) ou falso (F) para o que se afirma \na seguir, e assinale a alternativa que evidencie a \nsequência correta. \n( ) A Lei determina que é inexigível a licitação \nquando inviável a competição, listando um rol \nexemplificativo de situações que se enquadram \nnesta possibilidade. \n( ) Para tornar mais ágil o processo de \ncontratação, a lei estipula que é inexigível a \nlicitação para compras de bens e serviços \ncomuns de até R$ 100.000,00. \n( ) A aquisição ou locação de imóvel cujas \ncaracterísticas de instalações e de localização \ntornem necessária sua escolha pela \nAdministração é uma das hipóteses permitidas \nde Inexigibilidade de Licitação. \n(A) F – V – F. \n(B) V – F – V. \n(C) F – V – V. \n(D) F – F – V. \n(E) V – V – F. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 13 de 15 QUESTÃO 45 \nA Câmara Municipal de Itapecerica da \nSerra/SP, no exercício de suas atribuições, \npoderá editar Decretos Legislativos e \nResoluções. Sobre essa legislação, avalie as \nafirmativas a seguir. \nI. O projeto de decreto legislativo é a \nproposição destinada a regular qualquer matéria \nde competência do Município que produza \nefeitos externos. \nII. O projeto de resolução é a proposição \ndestinada a regular matéria político-\nadministrativa da Câmara, de sua competência \nexclusiva. \nIII. Tanto o decreto legislativo quanto a \nresolução dependem de sanção do Prefeito \nMunicipal, que terá o prazo de 15 dias úteis a \ncontar do seu recebimento. \nEstá correto o que se afirma em: \n(A) II, apenas. \n(B) II e III, apenas. \n(C) I e III, apenas. \n(D) III, apenas. \n(E) I e II, apenas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29: Compete ao Tribunal de Contas do Estado \napreciar as contas do Prefeito Municipal de \nItapecerica da Serra e sobre estas emitir Parecer \nPrévio. A Câmara Municipal, no entanto, não \nestá a ele vinculada, podendo rejeitá-lo, nos \ntermos da Lei Orgânica do Município, pelo \nvoto:",
+            "alternativas": {
+                "A": "da maioria absoluta dos membros.",
+                "B": "de 4/5 dos membros.",
+                "C": "de 75% dos membros.",
+                "D": "da maioria qualificada dos membros.",
+                "E": "da maioria simples dos membros. \n \n \n QUESTÃO 47 \nSobre a fiscalização contábil, financeira e \norçamentária no Município de Itapecerica da \nSerra/SP, assinale a alternativa em \nDESACORDO com a Lei Orgânica Municipal. \n(A) Os Poderes Legislativo e Executivo \nmanterão de forma integrada sistema de \ncontrole interno. \n(B) Uma das finalidades do sistema de controle \ninterno é avaliar o cumprimento das metas \nprevistas no Plano Plurianual, a execução dos \nprogramas e dos orçamentos do Município. \n(C) O controle externo será exercido pela \nCâmara Municipal com o auxílio do Tribunal \nde Contas do Estado de São Paulo. \n(D) Entendendo o Tribunal de Contas do Estado \npela irregularidade ou ilegalidade, a Comissão \nPermanente de Finanças e Orçamento proporá \nà Câmara Municipal a imediata abertura de \nprocesso de impedimento do Chefe do Poder \nExecutivo. \n(E) Os responsáveis pelo controle interno, ao \ntomarem conhecimento de qualquer ilegalidade \nou irregularidade, dela deverão dar ciência à \nComissão Permanente de Finanças e \nOrçamento da Câmara Municipal, sob pena de \nresponsabilidade solidária. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 14 de 15 QUESTÃO 48 \nÀ luz da Lei Orgânica do Município de \nItapecerica da Serra/SP, julgue a veracidade (V) \nou falsidade (F) das afirmações a seguir. \n( ) O Código Tributário do Município e o Plano \nDiretor são temas reservados a Lei \nComplementar. \n( ) A matéria constante do projeto de lei \nrejeitado somente poderá constituir objeto de \nnovo projeto, na mesma sessão legislativa, \nmediante proposta da maioria absoluta dos \nmembros da Câmara Municipal. \n( ) Quanto à tramitação dos Projetos de Lei, \nquando a matéria for submetida a dois turnos de \ndiscussão e votação, sendo rejeitada no \nprimeiro será sumariamente arquivada. \nA sequência está correta em: \n(A) F – V – F. \n(B) V – F – V. \n(C) F – V – V. \n(D) F – F – V. \n(E) V – V – F."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30: Com base no Estatuto dos Servidores Públicos \ndo Município de Itapecerica da Serra/SP, \nassinale a alternativa correta.",
+            "alternativas": {
+                "A": "Os ocupantes de cargos em comissão não \nsão considerados servidores públicos, haja vista \na possibilidade de exoneração a qualquer \ntempo.",
+                "B": "O estágio probatório no Município de \nItapecerica da Serra é de 02 anos.",
+                "C": "Carreira é o conjunto de classes da mesma \nnatureza de trabalho e de idêntica habilitação \nprofissional, escalonadas segundo a \nresponsabilidade e complexidade das \natribuições, para progressão dos titulares dos \ncargos que a integram.",
+                "D": "Os cargos públicos do Município de \nItapecerica da Serra são destinados \nexclusivamente a brasileiros natos.",
+                "E": "A Lei permite contratação temporária para \natender a situações excepcionais, dispensada a \nrealização de processo seletivo. \n QUESTÃO 50 \nNos termos do Estatuto dos Servidores Públicos \ndo Município de Itapecerica da Serra/SP, o \nreingresso do servidor estável no serviço \nPúblico Municipal em virtude de decisão \njudicial transitada em julgado é denominado: \n(A) aproveitamento. \n(B) reintegração. \n(C) reversão. \n(D) readaptação. \n(E) recondução. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Câmara Municipal de Itapecerica da Serra - SP – Concurso Público 01/2023                  INSTITUTO AVANÇA SÃO PAULO \n \n \nTESOUREIRO                                                                                                                                                Página 15 de 15"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 1: De acordo com o texto, a diferença na formação \ndo diamante rosa em comparação com os demais \ntipos, que o torna um mineral raro, se dá em \ndecorrência da:",
+            "alternativas": {
+                "A": "menor intensidade de forças de calor e \npressão.",
+                "B": "interação de carbono com boro.",
+                "C": "interação do carbono com enxofre.",
+                "D": "distorção em sua estrutura que altera \ncaracterísticas da luz refletida pelo diamante.",
+                "E": "interação do carbono com nitrogênio."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 2: Considere o excerto: “Embora o continente que \nse tornaria a Austrália não tenha se dividido, a \nárea onde Argyle está situada foi esticada”. No \ncontexto em que ocorre, a oração iniciada pela \nconjunção “embora” exprime um sentido de:",
+            "alternativas": {
+                "A": "adversidade.",
+                "B": "proporcionalidade.",
+                "C": "causalidade.",
+                "D": "condicionalidade.",
+                "E": "concessividade."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 3: Em relação à coesão, no excerto “A pesquisa é \ninteressante não só por dar mais pistas sobre a \norigem dos diamantes rosas, mas também por \napontar possíveis condições para a exploração de \nnovas minas.”, a expressão “não só… mas \ntambém” funciona como:",
+            "alternativas": {
+                "A": "operador argumentativo de adição.",
+                "B": "operador argumentativo de oposição.",
+                "C": "operador argumentativo de explicação.",
+                "D": "operador argumentativo de proporção.",
+                "E": "operador argumentativo de conclusão. QUESTÃO 04 \nConsidere as palavras I. supercontinente, II. \npedrinhas e III. cientistas, que ocorrem no texto. \nEm relação aos processos de formação, aquela(s) \nque apresenta(m) prefixo derivacional é (são): \n \n(A) I. \n(B) II. \n(C) III. \n(D) I e II. \n(E) II e III."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 4: Considere o excerto: “Essa é a nova hipótese para \nexplicar como esses minerais – muito mais raros \nque diamantes comuns – se formaram na \nAustrália.” Quanto às classes gramaticais, as \npalavras “essa”, “hipótese”, “raros” e “se” \nclassificam-se, respectivamente, como:",
+            "alternativas": {
+                "A": "pronome relativo, substantivo, adjetivo e \npronome reflexivo.",
+                "B": "pronome demonstrativo, adjetivo, adjetivo e \npronome reflexivo.",
+                "C": "pronome demonstrativo, substantivo, \nadjetivo e pronome reflexivo.",
+                "D": "pronome demonstrativo, substantivo, \nsubstantivo e pronome reflexivo.",
+                "E": "pronome demonstrativo, substantivo, \nadjetivo e conjunção integrante. \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nTESOUREIRO                                                                                                                                              Página 4 de 13 QUESTÃO 06 \nConsidere as seguintes sentenças, retiradas do \ntexto: \nI. “Só uma minoria é destinada a joias (até porque \nnem todos têm as características necessárias para \nfazê- las)”  \nII. “os pesquisadores descobriram que um grande \ndepósito de diamantes rosa se formou há 1,3 \nbilhões de anos”  \nEm relação à colocação dos pronomes oblíquos, \nnas sentenças dadas observa-se, \nrespectivamente: \n \n(A) ênclise e próclise. \n(B) ênclise e ênclise. \n(C) próclise e ênclise.  \n(D) próclise e mesóclise. \n(E) mesóclise e próclise."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 5: Considere o excerto: “Para que isso aconteça, ele \ntem que ser submetido a forças intensas de calor \ne pressão.” No c ontexto apresentado, ocorre(m) \napenas pronome(s) do(s) tipo(s):",
+            "alternativas": {
+                "A": "demonstrativo e pessoal.",
+                "B": "demonstrativo.",
+                "C": "pessoal.",
+                "D": "relativo.",
+                "E": "indefinido."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 6: Considere a seguinte sentença: “Avistaram \nalguns homens conduzindo uma cáfila até o \nlago.” Nesse contexto, a palavra “cáfila” se refere \na:",
+            "alternativas": {
+                "A": "um grupo de lobos.",
+                "B": "um grupo de porcos.",
+                "C": "um grupo de camelos.",
+                "D": "um grupo de búfalos.",
+                "E": "um grupo de cabras. QUESTÃO 09 \nAssinale a alternativa em que a sentença \napresenta apenas voz ativa.  \n(A) O garoto foi atacado por dois cachorros.  \n(B) Encontravam-se cinzas no chão após as \nfestas. \n(C) O homem suicidou-se em sua própria casa. \n(D) Um gato foi resgatado na estrada.  \n(E) Pedro e Maria deram uma festa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 7: Assinale a alternativa em que, na sentença \napresentada, a palavra “que” atua como pronome \ninterrogativo.",
+            "alternativas": {
+                "A": "Que desânimo!",
+                "B": "Fiquei feliz que você veio.",
+                "C": "O que você fez ontem?",
+                "D": "Ele deduz que foi traído pela esposa.",
+                "E": "Não há perdão para o que você fez. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 8: Considere a seguinte sequência lógica \nnumérica: \n \n1\n2, 1,3\n2, 2,5\n2, 3,7\n2, …  \n \nObservando o padrão da sequência, podemos \nafirmar que o centésimo termo dessa sequência \né:",
+            "alternativas": {
+                "A": "101/2.",
+                "B": "99/2.",
+                "C": "51/2.",
+                "D": "100.",
+                "E": "50.Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nTESOUREIRO                                                                                                                                              Página 5 de 13 QUESTÃO 12 \nO gráfico abaixo mostra a população e o número de domicílios ocupados por classe de densidade \npopulacional  \n \n \nFonte: Adaptado do Censo Demográfico 2010 - IBGE \nAnalisando o gráfico, quantos por cento dos domicílios ocupados estão situados em regiões cuja \ndensidade populacional é superior a 5000 habitantes por quilômetro quadrado aproximadamente? \n(A) 21,0%. \n(B) 28,0%. \n(C) 27,5%. \n(D) 26,8%. \n(E) 38,9%."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 9: Um químico misturou uma certa quantidade de cloro em água, mas por descuido esqueceu de anotar \nas respectivas quantidades das substâncias. Para não perder o seu trabalho, ele fez um experime nto \npara determinar a proporção entre cloro e água, em volume, que encontrou ser 1/5. Além disso, ele \nsabe que o volume final da mistura é 1,2 litro. Quanto de cloro ele usou nesta mistura?",
+            "alternativas": {
+                "A": "200 ml.",
+                "B": "400 ml.",
+                "C": "600 ml.",
+                "D": "800 ml.",
+                "E": "1000 ml. \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nTESOUREIRO                                                                                                                                              Página 6 de 13 QUESTÃO 14 \nObserve a seguinte sequência lógica figural: \n \nConforme as correspondências abaixo, indique o elemento faltante (marcado com símbolo de \ninterrogação):  \n \n(A) I. \n(B) II. \n(C) III. \n(D) IV. \n(E) V."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 10: Um fazendeiro tem 80 hectares de terra onde ele planta milho. Cada hectare ele consegue produzir 6 \ntoneladas de milho, no qual ele ensaca em sacos de 60 kg, e vende a R$ 60,00 R$/saco. Qual o valor \narrecadado numa colheita completa da sua plantação, em reais?",
+            "alternativas": {
+                "A": "4,8 mil.",
+                "B": "48 mil.",
+                "C": "480 mil.",
+                "D": "4,8 milhões.",
+                "E": "48 milhões. \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nTESOUREIRO                                                                                                                                              Página 7 de 13 NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 11: O Microsoft Outlook 2016 é um cliente de email \nque permite configurar e gerenciar várias contas \nde email em um único local. Neste sentido, \npode-se afirmar que o Outlook: \nI - Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente. \nII - Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais. \nIII - Permite criar gráficos e visualizações de \ndados para representar informações de maneira \nmais compreensível.",
+            "alternativas": {
+                "A": "Nenhuma das afirmativas estão corretas.",
+                "B": "I e III, apenas.",
+                "C": "II  e III, apenas.",
+                "D": "I, apenas.",
+                "E": "II, apenas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 12: O  Microsoft PowerPoint 2016 é um aplicativo \nusado para criar apresentações visuais. Ele \npermite criar slides que contêm texto, imagens, \ngráficos, vídeos e elementos interativos. Neste \nsentido, pode-se afirmar que o PowerPoint:",
+            "alternativas": {
+                "A": "Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de \nemail, números de telefone e detalhes pessoais.",
+                "B": "Oferece uma variedade de modelos de slides \ne opções de design para criar apresentações.",
+                "C": "O software oferece recursos de elaboração \nde planilhas, exibindo anotações de slides para \nauxiliar o orador durante a apresentação.",
+                "D": "Se restringe à configuração e gerenciamento \nde apenas uma conta de email em um único \nlocal.",
+                "E": "Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente. QUESTÃO 18  \nO Microsoft Word 2016 é um software de \nprocessamento de texto amplamente utilizado \npara criar, editar e formatar documentos. Ele \noferece uma ampla gama de ferramentas para \nformatar texto de maneira profissional e \npersonalizada. Neste sentido, é incorreto \nafirmar que o Word:  \nI – Permite inserir imagens, gráficos e outros \nelementos visuais nos documentos. \nII - O Word não oferece opções para criar listas \nnumeradas ou com marcadores em um \ndocumento. \nIII - Para justificar o texto no Word, é preciso \nimprimir o documento e, em seguida, alinhá-lo \nmanualmente com uma régua. \n(A) Nenhuma das afirmativas estão incorretas.  \n(B) I e II, apenas. \n(C) II e III, apenas.  \n(D) I, apenas. \n(E) II, apenas. \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nTESOUREIRO                                                                                                                                              Página 8 de 13 QUESTÃO 19  \nAnalise a imagem a seguir: \n \nPode-se afirmar que o programa apresentado \npossui as seguintes funções, exceto: \n(A) Permite realizar cálculos matemáticos, \ncomo adição, subtração, multiplicação e \ndivisão, usando fórmulas. \n(B) Permite organizar dados em planilhas, que \nsão compostas por células dispostas em linhas e \ncolunas. \n(C) Pode classificar dados em ordem alfabética \nou numérica e aplicar filtros para exibir apenas \nos dados que atendem a critérios específicos. \n(D) Possui funções integradas para trabalhar \ncom datas e horas, como calcular diferenças de \ndatas, extrair partes de datas (dia, mês, ano) e \nrealizar cálculos baseados em horários. \n(E) Permite enviar, receber e organizar emails. \nSendo possível criar, responder, encaminhar e \narquivar mensagens de email de forma eficiente. \n \n \n \n \n \n \n \n \n \n QUESTÃO 20  \nO Microsoft Word 2016 oferece amplas opções \nde formatação de texto, incluindo formatação de \nfonte, alinhamento, espaçamento entre linhas, \nrecuos e estilos de parágrafo, permitindo \npersonalizar a aparência do documento. Neste \nsentido, pode-se afirmar que o Word: \n(A) Permite armazenar e organizar informações \nde contato, incluindo nomes, endereços de email, \nnúmeros de telefone e detalhes pessoais. \n(B) Oferece uma variedade de modelos de slides \ne opções de design para criar apresentações. \n(C) Possui recursos de revisão que facilitam a \ncolaboração. Sendo possível adicionar \ncomentários, fazer alterações e usar o controle de \nalterações para rastrear as edições. \n(D) O software oferece recursos de elaboração de \nplanilhas, exibindo anotações de slides para \nauxiliar o orador durante a apresentação. \n(E) Oferece uma ampla gama de fórmulas e \nfunções integradas que permitem realizar \ncálculos complexos automaticamente. \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 13: Na Demonstração dos Fluxos de Caixa de 2022, \no fluxo líquido das atividades de investimento \nserá de:",
+            "alternativas": {
+                "A": "-R$ 70.000,00.",
+                "B": "R$ 95.000,00.",
+                "C": "-R$ 90.000,00.",
+                "D": "R$ 85.000,00.",
+                "E": "R$ 90.000,00. \n \n \n \n \n \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nTESOUREIRO                                                                                                                                              Página 9 de 13 QUESTÃO 22 \nAtenção! Considere as informações abaixo como \nbase de resposta das questões 21 a 30. \nImagine que no exercício financeiro de 2022 o \nMunicípio hipotético de Bom Jesus tenha feito as \nseguintes transações: \n* Lançamento de Taxas municipais, no valor de R$ \n40.000,00, sendo totalmente arrecadadas no \nexercício. \n* Compra de um imóvel destinado à construção de \numa escola municipal. Foi empenhado no exercício o \nvalor de R$ 100.000,00, sendo liquidados e pagos \n80% deste valor no exercício. \n* Integralização de capital em uma empresa pública \ndo Município, no valor de R$ 35.000,00, empenhado \ne integralmente pago no exercício. \n* Realização de uma operação de crédito por \nantecipação de receita orçamentária, no valor de R$ \n40.000,00. A operação foi integralmente liquidada no \nexercício, com juros de R$ 5.000,00. \n* Empenho da folha de pagamento do funcionalismo \nmunicipal, no valor de R$ 120.000,00, sendo \nliquidados R$ 100.000,00 e pagos R$ 95.000,00 no \nexercício. \n* Venda de veículos inservíveis, arrecadando um total \nde R$ 45.000,00. \n* Realização de uma operação de crédito junto ao \nBanco de Desenvolvimento do Estado, no valor de R$ \n120.000,00. \n* Lançamento de IPTU, no valor de R$ 300.000,00, \nsendo arrecadados R$ 270.000,00 no exercício. \n* Empenho no valor de R$ 75.000,00 para pagamento \nde fornecedores de material de consumo, sendo que \nR$ 50.000,00 foram liquidados e R$ 40.000,00 foram \npagos no exercício. \n* Pagamento de restos a pagar relativos à aquisição \nde ambulâncias novas, no importe de R$ 20.000,00. \n* Recebimento de Amortização de Empréstimos \nConcedidos, no valor de R$ 25.000,00. \n \nNa Demonstração dos Fluxos de Caixa de 2022, \no fluxo líquido das atividades operacionais será \nde: \n \n(A) R$ 170.000,00. \n(B) R$ 165.000,00. \n(C) R$ 160.000,00. \n(D) R$ 200.000,00. \n(E) R$ 175.000,00. \n QUESTÃO 23 \nNa Demonstração dos Fluxos de Caixa de 2022, \no fluxo líquido das atividades de financiamento \nserá de: \n(A) R$ 150.000,00. \n(B) R$ 140.000,00. \n(C) R$ 120.000,00. \n(D) R$ 145.000,00. \n(E) R$ 190.000,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 14: Sabendo que o saldo de Caixa e Equivalentes de \nCaixa no início do exercício era de R$ 15.000,00, \nqual o valor do saldo de Caixa e Equivalentes de \nCaixa em 31/12/2022?",
+            "alternativas": {
+                "A": "R$ 180.000,00.",
+                "B": "R$ 185.000,00.",
+                "C": "R$ 220.000,00.",
+                "D": "R$ 230.000,00.",
+                "E": "R$ 240.000,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 15: O total dos ingressos extraorçamentários a ser \nevidenciado no Balanço Financeiro de 2022 \nimporta em:",
+            "alternativas": {
+                "A": "R$ 40.000,00.",
+                "B": "R$ 120.000,00.",
+                "C": "R$ 80.000,00.",
+                "D": "R$ 100.000,00.",
+                "E": "R$ 60.000,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 16: O montante dos Restos a Pagar Não-Processados \ninscritos no exercício de 2022 é de:",
+            "alternativas": {
+                "A": "R$ 15.000,00.",
+                "B": "R$ 20.000,00.",
+                "C": "R$ 25.000,00.",
+                "D": "R$ 45.000,00.",
+                "E": "R$ 65.000,00. \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nTESOUREIRO                                                                                                                                              Página 10 de 13 QUESTÃO 27 \nO resultado orçamentário do exercício, a ser \nevidenciado no Balanço Orçamentário, é: \n(A) um superávit, no valor de R$ 170.000,00. \n(B) um superávit, no valor de R$ 165.000,00. \n(C) um déficit, no valor de R$ 170.000,00. \n(D) um déficit, no valor de R$ 165.000,00. \n(E) um superávit, no valor de R$ 175.000,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 17: A Receita Orçamentária Corrente realizada no \nexercício de 2022 resulta em:",
+            "alternativas": {
+                "A": "R$ 300.000,00.",
+                "B": "R$ 340.000,00.",
+                "C": "R$ 290.000,00.",
+                "D": "R$ 335.000,00.",
+                "E": "R$ 310.000,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 18: A Despesa Orçamentária de Capital realizada no \nexercício de 2022 equivale a:",
+            "alternativas": {
+                "A": "R$ 160.000,00.",
+                "B": "R$ 135.000,00.",
+                "C": "R$ 120.000,00.",
+                "D": "R$ 150.000,00.",
+                "E": "R$ 145.000,00."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 19: O total dos pagamentos extraorçamentários a ser \nevidenciado no Balanço Financeiro de 2022 é de:",
+            "alternativas": {
+                "A": "R$ 55.000,00.",
+                "B": "R$ 50.000,00.",
+                "C": "R$ 60.000,00.",
+                "D": "R$ 35.000,00.",
+                "E": "R$ 45.000,00. \n \n QUESTÃO 31 \nDe acordo com a normatização vigente sobre as \ndemonstrações contábeis do Setor Público, é \ncorreto afirmar que, no Balanço Financeiro, as \nreceitas e despesas orçamentárias serão \nevidenciadas segundo a classificação: \n(A) econômica. \n(B) institucional. \n(C) programática. \n(D) por natureza. \n(E) por fonte/destinação de recursos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 20: Informe se é verdadeiro (V) ou falso (F) para o \nque se afirma sobre os componentes do Balanço \nPatrimonial, e assinale a alternativa que contenha \na sequência correta. \nI.  Nas contas de compensação serão registrados \nos bens, valores, obrigações e situações não \ncompreendidas nos parágrafos anteriores e que, \nmediata ou indiretamente, possam vir a afetar o \npatrimônio. \nII. O Ativo Permanente compreenderá os bens, \ncréditos e valores, cuja mobilização ou alienação \nindependa de autorização legislativa. \nIII. O Passivo Permanente compreenderá as \ndívidas fundadas e outras que dependam de \nautorização legislativa para amortização ou \nresgate.",
+            "alternativas": {
+                "A": "Apenas I e II estão corretas.",
+                "B": "Apenas I e III estão corretas.",
+                "C": "Apenas I está correta.",
+                "D": "Apenas II e III estão corretas.",
+                "E": "Apenas III está correta. \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nTESOUREIRO                                                                                                                                              Página 11 de 13 QUESTÃO 33 \nA apuração do Superávit Financeiro, possível \nfonte de recursos para abertura de créditos \nadicionais, é evidenciada:  \n(A) na Demonstração das Variações \nPatrimoniais. \n(B) no Balanço Financeiro. \n(C) na Demonstração das Origens e Aplicações \nde Recursos. \n(D) no Balanço Patrimonial. \n(E) na Demonstração dos Fluxos de Caixa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 21: Nos termos do regramento vigente sobre as \nDemonstrações Contábeis Aplicadas ao Setor \nPúblico, além do Quadro principal, o Balanço \nOrçamentário será acompanhado pelo:",
+            "alternativas": {
+                "A": "Quadro das Transferências Financeiras \nConcedidas e Recebidas.",
+                "B": "Quadro das Variações Patrimoniais \nQualitativas.",
+                "C": "Quadro de Desembolsos de Pessoal e Demais \nDespesas por Função.",
+                "D": "Quadro de Juros e Encargos da Dívida.",
+                "E": "Quadro da Execução dos Restos a Pagar \nProcessados."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 22: Sobre o Regime de Adiantamento, indique se as \nafirmações são verdadeiras (V) ou falsas (F). \nPosteriormente, marque a alternativa com a \nsequência correta. \n( ) Deve ser exclusivamente aplicado em \ndespesas orçamentárias correntes. \n( ) Sempre será precedido de empenho em \ndotação própria. \n( ) Não se fará adiantamento a servidor em \nalcance nem a responsável por dois \nadiantamentos.",
+            "alternativas": {
+                "A": "F – F – V.",
+                "B": "V – F – V.",
+                "C": "F – V – F.",
+                "D": "F – V – V.",
+                "E": "V – V – F. \n QUESTÃO 36 \nEstágio da despesa orçamentária definido como \num ato da autoridade competente que cria uma \nobrigação de pagamento para a entidade, \npendente ou não de implemento de condição. \nServe como garantia ao credor de que parte da \ndotação orçamentária foi reservada para seu \neventual pagamento. Trata-se: \n(A) da Fixação. \n(B) da Previsão. \n(C) do Empenho. \n(D) da Liquidação. \n(E) da Homologação."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 23: Modalidade de licitação inaugurada pela Lei nº \n14.133/2021 (Nova Lei de Licitações e Contratos \nAdministrativos), e que tem por intuito \nselecionar pretendentes aptos a desenvolver uma \nsolução sob medida para demandas específicas \nda Administração Pública:",
+            "alternativas": {
+                "A": "Registro Prévio.",
+                "B": "Diálogo Competitivo.",
+                "C": "Regime Diferenciado de Contratação.",
+                "D": "Credenciamento.",
+                "E": "Convite."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 24: Nos termos expressos da Lei nº 14.133/2021, é \ndispensável a licitação para aquisições \nrelacionadas a obras e serviços de engenharia ou \nde serviços de manutenção de veículos \nautomotores de valor até:",
+            "alternativas": {
+                "A": "R$ 50.000,00.",
+                "B": "R$ 60.000,00.",
+                "C": "R$ 70.000,00.",
+                "D": "R$ 80.000,00.",
+                "E": "R$ 100.000,00. \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nTESOUREIRO                                                                                                                                              Página 12 de 13 QUESTÃO 39 \nNos termos da Nova Lei de Licitações e \nContratos Administrativos, a modalidade de \nlicitação para alienação de bens imóveis ou de \nbens móveis inservíveis ou legalmente \napreendidos a quem oferecer o maior lance é \ndenominada: \n(A) Leilão. \n(B) Arremate. \n(C) Concorrência. \n(D) Pregão. \n(E) Praça."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TESOUREIRO",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "05/2023",
+            "questão": "Questão 25: Com base nas regras vigentes, indique se as \nafirmações são verdadeiras (V) ou falsas (F). \nPosteriormente, marque a alternativa com a \nsequência correta. \n(  )  A operação de crédito por antecipação de \nreceita não será autorizada se forem cobrados \noutros encargos que não a taxa de juros da \noperação, obrigatoriamente prefixada ou \nindexada à taxa básica financeira, ou à que vier a \nesta substituir. \n(  ) É vedada a contratação de operação de crédito \npor antecipação de receita enquanto existir \noperação anterior da mesma natureza não \nintegralmente resgatada. \n(  ) É vedada a captação de recursos a título de \nantecipação de receita de tributo ou contribuição \ncujo fato gerador ainda não tenha ocorrido.",
+            "alternativas": {
+                "A": "F – V – V.",
+                "B": "V – F – V.",
+                "C": "V – V – F.",
+                "D": "V – V – V.",
+                "E": "F – F – V. \n \n \n \n  \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nTESOUREIRO                                                                                                                                              Página 13 de 13"
+            },
+            "resposta_correta": "B"
+        }
+    ]
+}

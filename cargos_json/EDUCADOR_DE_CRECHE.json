@@ -1,3 +1,760 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6cdf892892ff82704e5ceea50c0e55b295ec873cc557016075a40313694c7c51
-size 77425
+{
+    "EDUCADOR DE CRECHE": [
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1: De acordo com o texto, o possível aparecimento \nde espécies não nativas na Antártica estaria \nrelacionado:",
+            "alternativas": {
+                "A": "às mudanças no ecossistema local em função \ndo aumento de algas flutuantes.",
+                "B": "ao aumento das polínias, que fornecem \nhabitats livres de gelo para espécies costeiras.",
+                "C": "ao aumento da quantidade de gelo, que \nfacilita a permanência dos animais nativos.",
+                "D": "à diminuição da temperatura global, que \nintensifica a produção de gelo nessas regiões.",
+                "E": "à diminuição das polínias, que indica o \naumento das temperaturas globais."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2: De acordo com o texto, as espécies não nativas \nda Antártica:",
+            "alternativas": {
+                "A": "se estabelecem nos ambientes costeiros em \nfunção do acúmulo de gelo nessas áreas.",
+                "B": "dependem apenas de algas flutuantes para se \nestabelecerem no ecossistema local.",
+                "C": "são prejudicadas pela erosão do gelo \ncosteiro.",
+                "D": "se adaptam às condições do clima local sem \na necessidade de qualquer modificação.",
+                "E": "são adaptativas a qualquer condição de clima, \nespecialmente em áreas de gelo.  \n \nConsidere o contexto a seguir para responder \nàs questões 3 e 4:   \n \n““Essas tendências são fascinantes – e não as \nhavíamos notado antes”, comenta o pesquisador \nGrant Duffy.”  Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 3 de 15 QUESTÃO 03 \nNo excerto apresentado, o emprego da expressão \n“essas tendências”  é uma estratégia de coesão \nque retoma, textualmente:  \n(A) “um padrão intrigante”.   \n(B) “as áreas de polínias”.   \n(C) “aumento das temperaturas globais”.   \n(D) “padrão cíclico”.   \n(E) “implicações ecológicas”."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3: No excerto apresentado, o emprego proclítico do \npronome oblíquo átono de terceira pessoa \ndecorre do uso:",
+            "alternativas": {
+                "A": "da conjunção ‘e’ anteposta à locução verbal \ncom a qual o pronome se relaciona.",
+                "B": "do adjetivo ‘fascinantes’  anteposto à locução \nverbal com a qual o pronome se relaciona.",
+                "C": "do item de valor negativo anteposto à locução \nverbal com a qual o pronome se relaciona.",
+                "D": "da conjugação do verbo ‘ haver’  no pretérito \nimperfeito do indicativo.",
+                "E": "do advérbio de tempo ‘antes’  posposto à \nlocução verbal com a qual o pronome se \nrelaciona.  \n \nConsidere o excerto a seguir para responder \nàs questões 5 e 6:  \n \n“Conforme aponta o estudo, as áreas de polínia \nestão aumentando significativamente – \ninfluenciadas, inclusive, pelo aumento das \ntemperaturas globais.”"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4: A relação que se estabelece entre a primeira \noração do período e as demais orações que nele \nocorrem, no excerto indicado, é de:",
+            "alternativas": {
+                "A": "condicionalidade.",
+                "B": "causa.",
+                "C": "concessão.",
+                "D": "conformidade.",
+                "E": "consecutividade.  QUESTÃO 06 \nDentre as palavras a seguir, que ocorrem no \nexcerto indicado, aquela que pertence à classe \ngramatical de advérbio é:  \n \n(A) conforme.  \n(B) globais.  \n(C) aponta.  \n(D) aumento.  \n(E) inclusive."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5: Considere as seguintes palavras do texto: I. \necossistema , II. costeiro , III. cíclico  e IV. \nquantidade . Verifica -se sufixo formador de \nadjetivos apenas em:",
+            "alternativas": {
+                "A": "I. ecossistema e II. costeiro.",
+                "B": "I. ecossistema e III. cíclico.",
+                "C": "II. costeiro e IV. quantidade.",
+                "D": "II. costeiro e III. cíclico.",
+                "E": "III. ecossistema e IV. quantidade."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6: Analise as sentenças a seguir e assinale a \nalternativa em que se verifica um verbo \nirregular.",
+            "alternativas": {
+                "A": "Qualquer assunto em biologia desperta o \ninteresse de Ana.",
+                "B": "Os estudantes declamaram poemas de \nCamões durante a feira do livro.",
+                "C": "Frida levará em consideração todas as \nreclamações que recebeu sobre as avaliações.",
+                "D": "Os povos do leste europeu deram origem aos \nque agora vivem nessa região .",
+                "E": "Evidentemente, tais acusações não \nprocedem.  \n Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 4 de 15 QUESTÃO 09 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica regência nominal \nincorreta.  \n(A) É nítido que ele ficou insatisfeito com o \nresultado do exame.   \n(B) A proposta apresentada pela autora é avessa \nà esperada pela editora.  \n(C) De sua parte havia um enorme dispêndio de \nenergia em futilidades.  \n(D) A dileção de Pedro pela garota era tão clara \nque todos podiam perceber.   \n(E) O comportamento de Fernanda está em \nconsonância para os princípios da instituição."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7: A palavra que apresenta desvio ortográfico é:",
+            "alternativas": {
+                "A": "água -viva.",
+                "B": "eczema.",
+                "C": "aniquilação.",
+                "D": "insígnea.",
+                "E": "coerdeiro.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8: A figura abaixo mostra três semicírculos \nidênticos, dispostos com os centros sob um \nmesmo segmento de reta:  \n \n \nCom base na figura, e nas medidas apresentadas, \nque são dadas em centímetros, indique o raio dos \nsemicírculos:",
+            "alternativas": {
+                "A": "12 cm.",
+                "B": "13 cm.",
+                "C": "14 cm.",
+                "D": "15 cm.",
+                "E": "16 cm.  \n \n QUESTÃO 12 \nO gráfico abaixo mostra o número de docentes \nem exercício (em milhares), por sexo e categoria, \nnos anos de 2010 e 2022:  \n \n \nFonte: Adaptado de: Pesquisa FAPESP. \nParticipação feminina na docência superior. Ed. \n337, mar de 2024.  \nCom base no gráfico, é correto afirmar que:  \n(A) Em 2010, em todas as categorias, o número \nde docentes homens era maior que o número de \ndoentes mulheres. Esta constatação se manteve \ntambém para o ano de 2022.  \n(B) O número de docentes da rede privada sem \nfins lucrativos caiu pela metade, enquanto os da \nreta pública federal dobrou, entre os anos \nanalisados.  \n(C) A razão entre o número de docentes homens \ne mulheres na rede pública municipal se tornou \nmais próximo de 1 no ano de 2022, comparado a \n2010.  \n(D) A razão entre o número de docentes homens \ne mulheres da rede privada com fins lucrativos se \ntornou maior que 1 no ano de 2022.  \n(E) A disparidade entre o número de docentes \nhomens e mulheres na rede pública federal \ndiminuiu entre 2010 e 2022.  \nPrefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 5 de 15 QUESTÃO 13  \nNuma determinada universidade, a razão entre \nprofessores homens e mulheres é de 13/9. \nSuponha que atualmente há 260 professores \nhomens. Para realizar uma equiparação, a reitoria \ndecidiu contratar somente professoras mulheres. \nQuantas professoras serão nece ssárias contratar \npara que a razão entre professores homens e \nmulheres se torne igual a 1?  \n \n(A) 90.  \n(B) 180.  \n(C) 60.  \n(D) 80.  \n(E) 40."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9: Uma pessoa possui três copos grandes e cinco \ncopos pequenos. Todos os copos grandes têm o \nmesmo volume. Similarmente, todos os copos \npequenos também têm o mesmo volume. A \npessoa inicialmente encheu os três copos grandes \ne transpôs o líquido para os cinco c opos \npequenos, e viu que sobrou 30 ml. A pessoa \ndepois encheu apenas dois copos grandes e viu \nque com esse volume conseguiria encher 3 copos \npequenos, e faltaria 80 ml para conseguir encher \no próximo copo. Com base nessas informações, \nqual a diferença entr e o volume de um copo \ngrande e de um copo pequeno?",
+            "alternativas": {
+                "A": "85 ml.",
+                "B": "100 ml.",
+                "C": "110 ml.",
+                "D": "125 ml.",
+                "E": "75 ml."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10: Observe a seguinte sequência lógica:  \n \n3, 6, 9, 12, 15, 18, ...  \nQuais dos números abaixo não aparecerá na \nsequência dada?",
+            "alternativas": {
+                "A": "521.",
+                "B": "522.",
+                "C": "450.",
+                "D": "321.",
+                "E": "123.  \n \n QUESTÃO 16 \nUma empresa vende para uma obra um lote de \ntijolos que contém 1000 peças. A obra, antes de \naceitar o lote, deve fazer uma inspeção para \navaliar a qualidade das peças. Ela vai tomar uma \namostragem de 5% das peças do lote e realizará \ntestes em todas elas. Da s amostras que foram \npara teste, 90% delas devem ter resultado \npositivo. Caso contrário, todas as peças deverão \nser descartadas. Qual o número máximo de peças \ntestadas que podem ter resultado negativo para \nque o lote não seja descartado?  \n \n(A) 1.  \n(B) 2.  \n(C) 3.  \n(D) 4.  \n(E) 5."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11: Um pintor sabe que utilizará exatamente de 12 \nlatas de tinta para realizar um determinado \nserviço. Em um dado momento durante o serviço, \nele calcula que já completou 88% da área \nprevista a ser pintada. Considere que a \nquantidade de tinta usada é proporcional à área \npintada. Suponha também que uma lata de tinta \ntem 18 litros. Com ess as informações, quantos \nlitros de tinta ainda restam para concluir o \nserviço?",
+            "alternativas": {
+                "A": "24,13.",
+                "B": "25,92.",
+                "C": "18,44.",
+                "D": "19,12.",
+                "E": ". 26,88  \n \n \n \n \n Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 6 de 15 QUESTÃO 18 \nObserve as seguintes afirmativas:  \nI – Dado um triângulo com lados 𝑎, 𝑏, e 𝑐. O \nTeorema de Pitágoras na forma 𝑎2+𝑏2=𝑐2 só \né válido se o triângulo for retângulo.  \nII – Dado um triângulo que tem um ângulo \ninterno igual a 90°, não pode haver nenhum outro \nângulo interno superior ou igual a 90°.  \nIII – Um triângulo que tem os três ângulos \ninternos iguais, necessariamente terá os três lados \ntambém iguais.  \nEstão corretas:  \n(A) Somente I.  \n(B) Somente II.  \n(C) I e II.  \n(D) II e III.  \n(E) I, II e III."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12: Num relógio de ponteiro, à meia -noite e ao meio -\ndia todos os ponteiros estão alinhados na vertical, \nna mesma posição. À medida que o tempo vai \npassando, o ponteiro das horas e dos minutos \navançam proporcionalmente, e continuamente \n(cada um na sua velocidade). Dado este \nfuncionamento, qual o ângulo compreendido \nentre os ponteiros da s horas e dos minutos, num \nrelógio de ponteiros, exatamente às 2h 30min 00 \nseg.?",
+            "alternativas": {
+                "A": "90°.",
+                "B": "115°.",
+                "C": "120°.",
+                "D": "105°.",
+                "E": "125°."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13: Numa determinada prova com 10 questões \nenumeradas de 1 a 10, as questões pares têm peso \n2 e as questões ímpares têm peso 3. Cada questão \ntem pontuação 5,00 pontos. Se a pessoa errar \numa questão, ela não pontua nessa questão. Se \nacertar, ela recebe a pontua ção completa. \nConsidere que uma pessoa errou 2 questões pares \ne 3 ímpares, qual a média de pontuação das \nquestões dessa pessoa na prova?",
+            "alternativas": {
+                "A": "2,4.",
+                "B": "2,3.",
+                "C": "2,2.",
+                "D": "2,1.",
+                "E": "2,0.  CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14: O processo de ensinar e aprender vai muito além \nda transmissão de um determinado conteúdo. O \ntermo processo já traz toda essa dimensão por \ntrás das inúmeras variáveis que tanto contribuem \nquanto dificultam a sistematização do \naprendizado. Quando esse processo é \ndirecionado à infância, é preciso um cuidado \nainda maior, por ser uma fase que depende da \nestruturação do ambiente. Tendo como \nparâmetro a obr a de Stela Barbieri: “Interações: \nonde está a arte na infância?”, assinale o \nenunciado que apresenta uma perspectiva que vai \nde encontro às ponderações da referida autora.",
+            "alternativas": {
+                "A": "Dentro do âmbito educacional, a realização \ndas atividades lúdicas, além de um espaço físico \npara esse fim, depende de um espaço, enquanto \nabertura, disponível para a ludicidade.",
+                "B": "O ambiente é construído por meio da \nocupação e dos sentidos que são postos em ação \nnesses espaços voltados para o lúdico.",
+                "C": "Para efetuar o planejamento de uma aula de \narte, é necessário realizar uma leitura minuciosa \nacerca das características das crianças, no intuito \nde adequar a atividade proposta com as \nnecessidades de cada uma delas.",
+                "D": "Numa proposta de artes, é importante que as \natividades coletivas sejam organizadas em \ndetrimento às individuais.",
+                "E": "É necessário trabalhar diversos tipos de \nmateriais, a fim de possibilitar que a criança \nempregue seu corpo de diferentes maneiras.  \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 7 de 15 QUESTÃO 22  \nConforme Barbieri, para ampliar o interesse e a \nconcentração da criança sobre suas próprias \nproduções, é possível implementar a seguinte \nação:  \n \n(A) Estabelecer uma conduta -padrão no intuito \nde adequar o desenvolvimento de todas as \ncrianças.  \n(B) Ao ingressar na escola, deve -se assegurar de \nimediato que a criança dedique um tempo \nsignificativo em suas produções.  \n(C) O professor deverá estabelecer um vínculo \ncom a criança, uma vez que a concentração da \ncriança possui relação com seu interesse, \nenvolvimento e interação com o professor.  \n(D) Ampliar a perspectiva da criança sobre seu \ntrabalho, delimitando as atividades e o tempo \nrespectivo.  \n(E) Disponibilizar poucos materiais para que a \ncriança aumente seu nível de concentração e não \ndisperse com a variedade.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 23  \nPara compreender a Pedagogia da Infância, é \npossível reportar a documentos que procuram \nauxiliar a tomada de decisão no contexto \neducacional. Um desses documentos, elaborado \npelo Ministério da Educação, intitulado: \nParâmetros Nacionais de Qualidade para a \nEducação Infantil, traz uma série de informações \nque precisam ser contextualizadas. Uma dessas \ninformações aborda a “concepção de criança e de \npedagogia da Educação Infantil, sendo possível \nafirmar apenas:  \n \n(A) A criança é um sujeito egocêntrico que está \ninserida em uma sociedade na qual recebe uma \ndeterminada cultura.  \n(B) A criança é profundamente marcada pelo \nmeio social em que se desenvolve, porém \ncontribui de forma irrelevante, uma vez que \nainda está em desenvolvimento.  \n(C) A criança, por estar em fase de \ndesenvolvimento, é considerada como uma \nabstração, ou seja, ela é o produto da história e da \ncultura.  \n(D) Na primeira infância, a interação não pode \nser vista como algo genérico, mas deve ser \ncompreendida enquanto processo de ordem \nsocial.  \n(E) Nos primeiros anos de vida, as interações \nsociais devem ser pautadas na construção de \nvínculos com um número mais restrito de \nparceiros, a fim de garantir o desenvolvimento \nintegral dessa criança e um ambiente mais seguro \ne confortável para ela.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 8 de 15 QUESTÃO 24  \nDe acordo com Brasil (2006, p. 18), “[...] para \nque sua sobrevivência esteja garantida e seu \ncrescimento e desenvolvimento sejam \nfavorecidos, para que o cuidar/educar sejam \nefetivados, é necessário que sejam oferecidas às \ncrianças dessa faixa etária condiç ões de \nusufruírem plenamente suas possibilidades de \napropriação e de produção de significados no \nmundo da natureza e da cultura. As crianças \nprecisam ser apoiadas em suas iniciativas \nespontâneas e incentivadas a [...]”.  \nEm resposta ao enunciado anterior, destaque uma \ndessas iniciativas que deve ser incentivada.  \n(A) ficar em um ambiente restrito que caracteriza \nas salas de aula.  \n(B) dominar seus sentimentos.  \n(C) controlar sua curiosidade.  \n(D) aprender.  \n(E) diversificar escolhas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15: De acordo com Brasil (2006), no que se refere à \nEducação Infantil, a origem do debate sobre a \nqualidade foi marcada por qual abordagem?",
+            "alternativas": {
+                "A": "abordagem psicológica",
+                "B": "abordagem pedagógica",
+                "C": "abordagem crítica",
+                "D": "abordagem integrativa",
+                "E": "abordagem sociológica"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16: Tomando como parâmetro as diferentes \ndimensões que constituem a Pedagogia da \nInfância, complete o excerto a seguir, extraído \ndos Parâmetros Nacionais de Qualidade para a \nEducação Infantil.  \n“A partir do debate mais geral sobre a qualidade \nna educação e mais especificamente em relação \nao atendimento na Educação Infantil, é possível \nextrair algumas conclusões: depende \ndo(a)____________”.",
+            "alternativas": {
+                "A": "criança.",
+                "B": "educador.",
+                "C": "estrutura educacional.",
+                "D": "contexto.",
+                "E": "material pedagógico.  \n QUESTÃO 27  \nA fim de garantir o desenvolvimento e a \naprendizagem da criança de 0 a 3 anos, o \nMinistério da Educação estabelece “Critérios \npara um Atendimento em Creches que Respeite \nos Direitos Fundamentais das Crianças”. De \nacordo com esses critérios, é possível \ndimensiona r a política adotada pela creche, no \nintuito de verificar se ela reconhece que as \ncrianças têm direito a ampliar seus \nconhecimentos. Em conformidade com o \nreferido conteúdo, é pertinente a seguinte \nafirmativa:  \n \n(A) A política de creche possibilita que as \ncrianças tenham acesso à produção cultural local.  \n(B) Os profissionais de creche dispõem de um \nnível de instrução acadêmico elevado, com \ncursos de extensão que assegurem a qualidade do \ntrabalho a ser desempenhado.  \n(C) A política de creche incorpora a preocupação \nde encontrar meios adequados para promover o \ndesenvolvimento e a aceitação aos parâmetros \nrígidos que constituem o modelo escolar.  \n(D) A programação prevê que as famílias sejam \ninformadas sobre os progressos de suas crianças, \nrecebendo periodicamente os resultados dos \nprocessos avaliativos aplicados.  \n(E) A política da creche ratifica a importância \ndos brinquedos, dos materiais e dos livros para a \npromoção do desenvolvimento e ampliação dos \nconhecimentos das crianças.  \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 9 de 15 QUESTÃO 28  \nSobre as características, atributos e \nespecificidades presentes no documento \nintitulado: “Critérios para um Atendimento em \nCreches que Respeite os Direitos Fundamentais \ndas Crianças”, destaque a asserção que foi bem \nelaborada.  \n \n(A) Por meio desse documento, são definidos \ncritérios relativos à definição de diretrizes e \nnormas políticas, programas e sistemas de \nfinanciamento de creches públicas.  \n(B) O referido documento detalha e especifica \ntecnicamente todas as etapas para a implantação \ndos programas.  \n(C) Os critérios foram redigidos no imperativo, a \nfim de conferir o tom de obrigatoriedade que o \nreferido documento possui.  \n(D) Os critérios definidos pelo referido \ndocumento possuem uma dupla aplicabilidade, \nou seja, exercem o papel de roteiro para \nimplantação e avaliação e, ao mesmo tempo, \natuam como um termo de responsabilidade.  \n(E) O texto utiliza uma linguagem indireta, \nobjetivando atribuir a responsabilidade a todos e \nnão apenas a um grupo específico.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 29  \nDe acordo com Brasil (2012), o manual \n“Brinquedos e Brincadeiras nas Creches”, tem a \nfinalidade de orientar a seleção, organização e o \nuso de brinquedos e brincadeiras nas creches \ndestinadas especificamente a crianças com \nidades entre 0 e 3 anos e 11 meses , com base nas \nrecomendações das Diretrizes Curriculares \nNacionais para a Educação Infantil.  \nAinda conforme o referido manual, a introdução \nde brinquedos e brincadeiras na creche depende \nde condições prévias. Nesse sentido, leia as \nassertivas a seguir e destaque a que representa na \níntegra a proposta do referido manual.  \n(A) Aceitação do brincar como um recurso para \ndespertar a atenção da criança.  \n(B) Compreensão da importância do brincar para \na criança, vista como um ser que precisa de \natenção, carinho e que possui um nível limitado \nde iniciativas e saberes.  \n(C) Compreensão da importância do brincar para \na criança enquanto ser que não consegue \ndemonstrar satisfatoriamente seus interesses e \nsuas necessidades.  \n(D) Criação de ambientes educativos \nespecialmente planejados, que ofereçam \noportunidades de qualidade para brincadeiras e \ninterações.  \n(E) Desenvolvimento da dimensão \npsicopedagógica da professora."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17: Como o Manual de Orientação Pedagógica do \nMinistério da Educação considera o brincar e a \nbrincadeira?",
+            "alternativas": {
+                "A": "O brincar e a brincadeira são considerados \ncom o mesmo significado ao longo do texto.",
+                "B": "O brincar e a brincadeira são considerados \ncom significados diferentes ao longo do texto.",
+                "C": "O brincar e a brincadeira são considerados \ncom significados antagônicos ao longo do texto.",
+                "D": "O brincar e a brincadeira são considerados \ncom significados complementares ao longo do \ntexto.",
+                "E": "O brincar e a brincadeira são considerados \ncom significados que se alternam ao longo do \ntexto.  Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 10 de 15 QUESTÃO 31  \nDe acordo com Brasil (2012), as Diretrizes \nCurriculares Nacionais de Educação Infantil, de \n2009, indicam que as práticas pedagógicas que \ncompõem a proposta curricular da Educação \nInfantil devem ter como eixos norteadores as \ninterações e a brincadeira, as q uais devem ser \nobservadas, registradas e avaliadas. Na Educação \nInfantil, sob a ótica das crianças, as interações \nsão construídas de diferentes maneiras.  \nAssim, destaque a alternativa, em conformidade \ncom o material intitulado: Brinquedos e \nBrincadeiras nas Creches: Manual de Orientação \nPedagógica, que se refere ao tipo de interação \nconsiderado essencial “para dar riqueza e \ncomplexidade às brincadeiras”.  \n \n(A) As crianças entre si.  \n(B) As crianças e as professoras/adultos.  \n(C) As crianças e os pais/familiares.  \n(D) As crianças e os brinquedos.  \n(E) As crianças e o ambiente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18: De acordo com Brasil (2012), o berçário é mais \ndo que a sala de atividades onde os bebês \nbrincam. Nesse sentido, a análise desse ambiente \neducativo, onde os bebês interagem e brincam, é \napresentada em cinco segmentos descritos a \nseguir. No entanto, um dess es segmentos não \ncondiz com o referido Manual de Orientação \nPedagógica, destaque -o:",
+            "alternativas": {
+                "A": "entrada e acolhimento",
+                "B": "sala de atividades",
+                "C": "espaço do sono",
+                "D": "espaço do banho",
+                "E": "espaço de alimentação  \n \n \n QUESTÃO 33  \nA seção II da LDB retrata sobre a Educação \nInfantil. Assim, complete o excerto extraído de \nseu artigo 29:  \n“A Educação Infantil, primeira etapa da \nEducação Básica, tem como finalidade o \ndesenvolvimento integral da criança de até 5 \n(cinco) anos, em seus aspectos físico, \npsicológico, intelectual e social, ___________a \nação da família e da comunidade”.  \n(A) substituindo  \n(B) auxiliando  \n(C) complementando  \n(D) ratificando  \n(E) aprofundando"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19: Conforme o artigo 31 (item V) da LDB, o que \npermite atestar os processos de desenvolvimento \ne aprendizagem da criança?",
+            "alternativas": {
+                "A": "observação sistemática",
+                "B": "expedição de documentação",
+                "C": "material avaliativo",
+                "D": "registro pedagógico de desenvolvimento",
+                "E": "conceitos valorativos"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20: Conforme o artigo 26 da LDB, “os currículos da \nEducação Infantil, do Ensino Fundamental e do \nEnsino Médio devem ter base nacional comum, a \nser complementada, em cada sistema de ensino e \nem cada estabelecimento escolar, por uma parte \ndiversificada, exigida pelas características [...]” \nUma dessas exigências foi apontada por meio de \nqual alternativa?",
+            "alternativas": {
+                "A": "da economia",
+                "B": "da instituição escolar",
+                "C": "do governo",
+                "D": "da matriz pedagógica",
+                "E": "globais  Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 11 de 15 QUESTÃO 36  \nConforme a LDB, os conteúdos relativos aos \ndireitos humanos e à prevenção de todas as \nformas de violência contra a criança, o \nadolescente e a mulher possuem um tratamento \nespecífico ao serem incluídos nos respectivos \ncurrículos. Assim, como esses temas são \nconhecidos?  \n(A) temas multidisciplinares  \n(B) temas extracurriculares  \n(C) temas obrigatórios  \n(D) temas transversais  \n(E) temas facultativos"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21: Um dos direitos assegurados por meio do \nEstatuto da Criança e do Adolescente, previsto \npor meio do artigo 17, consiste na inviolabilidade \nda integridade  em três níveis específicos, \nabrangendo a preservação da imagem, da \nidentidade, da autonomia, dos valores, ideias e \ncrenças, dos espaços e objetos pessoais. Esses \ntrês níveis foram descritos por meio de qual \nalternativa?",
+            "alternativas": {
+                "A": "física, emocional e psicológica",
+                "B": "material, imaterial e social",
+                "C": "física, psíquica e ética",
+                "D": "humana, material e moral",
+                "E": "física, psíquica e moral"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22: Conforme o artigo 53, parágrafo único, do \nEstatuto da Criança e do Adolescente, quais são \nos direitos dos pais ou responsáveis?",
+            "alternativas": {
+                "A": "Ter ciência do processo pedagógico e das \npropostas educacionais.",
+                "B": "Participar da elaboração do processo \npedagógico e da definição das propostas \neducacionais.",
+                "C": "Ter ciência do processo pedagógico e \nparticipar da definição das propostas \neducacionais.",
+                "D": "Participar da elaboração do processo \npedagógico e ter ciência das propostas \neducacionais.",
+                "E": "Acompanhar a elaboração do processo \npedagógico e avaliar a efetividade das propostas \neducacionais.  \n QUESTÃO 39  \nQuando se tratar de criança de 0 (zero) a 3 (três) \nanos em acolhimento institucional, de acordo \ncom o Estatuto da Criança e do Adolescente, é \nratificada a importância do atendimento das \nnecessidades básicas, destacando a inclusão de \num atributo como prioritário. Que atributo é \nesse?  \n \n(A) higiene  \n(B) vestuário  \n(C) afeto  \n(D) educação  \n(E) assistência"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23: Por meio das reflexões teóricas propostas por \nRichter e Barbosa, é possível compreender \nalgumas das variáveis que caracterizam o \ncurrículo, tomando por embasamento as \nmúltiplas linguagens na creche. Nessa \nsistemática, complete o enunciado a seguir:  \n \n“[...] o sentido curricular encontra -se no \naprendizado ____________ que ocorre durante a \nformulação e a manutenção contínua de uma \nhistória de vida. É o aprendizado que demanda \nmodalidades diferentes de planejamento e de \npesquisa para a compreensão dos pro cessos de \naprender que passam a relacionar -se com as \nnecessidades e os interesses dos envolvidos no \nprocesso”.",
+            "alternativas": {
+                "A": "prescritivo",
+                "B": "narrativo",
+                "C": "normativo",
+                "D": "conformativo",
+                "E": "formal  \n \n \n Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 12 de 15 QUESTÃO 41  \nUm dos assuntos abordados, no livro: Infância e \nsuas Linguagens de Gobbi e Pinazza, descreve \nsobre a “didática da maravilha: um novo \nparadigma epistemológico”. A partir dessas \nreflexões, é possível repensar alguns conceitos \nconcernentes ao processo de ensi nar e aprender. \nEm consonância com o referido material, uma \n“didática da maravilha” apresenta os aspectos \ndescritos a seguir, salvo:  \n \n(A) Uma didática pautada na estruturação do \nponto de vista lógico -textual e na organização \ndas atividades e dos materiais a serem \ntrabalhados pelas crianças.  \n(B) Uma didática que possibilite a cada criança o \naprendizado a partir de seus erros.  \n(C) Uma didática que possibilite a elaboração de \nrespostas e estratégias diferentes daquelas \nprevistas pelos adultos/professores.  \n(D) Uma didática aberta a perguntas.  \n(E) Uma didática que encoraje as crianças a \ndesmentir as hipóteses."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24: Como a criança é compreendida dentro da \nperspectiva apresentada por Gobbi e Pinazza?",
+            "alternativas": {
+                "A": "projeto de um homem futuro",
+                "B": "ser passivo",
+                "C": "ser dependente",
+                "D": "sujeito de direitos",
+                "E": "coadjuvante do processo educativo  \n \n \n \n \n \n \n \n QUESTÃO 43  \nPara dimensionar as diferentes linguagens na \ninfância, Gobbi e Pinazza  analisam concepções \nvariadas, a partir de inúmeros autores que \nretratam sobre o tema. Uma das autoras \nabordadas na referida obra: “Infância e suas \nLinguagens” é a Isabel Marques, reconhecida \npesquisadora brasileira. Dos assuntos a seguir, \nqual é o foco da  abordagem proposta pela \nreferida pesquisadora?  \n \n(A) Papel da linguagem da dança na educação de \ncrianças.  \n(B) Imaginação em interlocução profunda e \npoética com a literatura.  \n(C) Os traços invisíveis nos desenhos das \ncrianças.  \n(D) A relação poético -filosófica do desenho \ncriado por crianças e adultos.  \n(E) Similaridade entre os grandes cientistas -\nartistas e as crianças."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25: A compreensão sobre o desenvolvimento \ncognitivo de uma criança possui abordagens \ndiferentes que procuram analisar esse \ndesenvolvimento de acordo com critérios \nespecíficos. Nesse sentido, qual das alternativas \na seguir é pautada pela compreensão dos estágio s \nqualitativos presentes no funcionamento \ncognitivo?",
+            "alternativas": {
+                "A": "Abordagem psicométrica",
+                "B": "Abordagem behaviorista",
+                "C": "Abordagem piagetiana",
+                "D": "Condicionamento clássico",
+                "E": "Condicionamento operante  \n \n \n \n Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 13 de 15 QUESTÃO 45  \nSobre o desenvolvimento da motricidade, é \nincorreta a seguinte afirmativa:  \n(A) O desenvolvimento psicomotor evolui do \ngeral para o específico.  \n(B) O termo desenvolvimento motor depende da \ninteração entre o pensamento consciente e \ninconsciente e os movimentos efetuados pelos \nmúsculos, com o auxílio do sistema nervoso.  \n(C) O desenvolvimento motor está relacionado às \náreas cognitiva e afetiva do comportamento \nhumano, sendo influenciado por muitos fatores, \ncomo por exemplo, aspectos ambientais.  \n(D) O desenvolvimento motor é caracterizado \npela contínua alteração da motricidade que \nocorre especificamente na primeira infância.  \n(E) Os elementos básicos da psicomotricidade \ndesempenham um papel muito importante para o \nprocesso de aprendizagem infantil."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26: Leia os enunciados a seguir e destaque a \nalternativa que possui uma informação \nimprocedente.",
+            "alternativas": {
+                "A": "O brinquedo desempenha um papel de \ngrande relevância para o desenvolvimento \ninfantil, indo de encontro ao modo intuitivo que \ncaracteriza o seu aprendizado.",
+                "B": "O jogo contempla várias formas de \nrepresentação da criança e/ou suas múltiplas \ninteligências, compreendendo, por exemplo, \nafetividade, cognição, desenvolvimento físico e \npsicossocial etc.",
+                "C": "A dimensão educativa do jogo/brinquedo é \nresultado das situações lúdicas criadas de forma \nintencional pelo adulto.",
+                "D": "Desde que seja mantida a ação intencional da \ncriança para brincar, o educador está \npotencializando as situações de aprendizagem.",
+                "E": "Ao assumir a função lúdica, o brinquedo \npropicia diversão, prazer e até desprazer, quando \nescolhido voluntariamente.  \n \n QUESTÃO 47  \nSobre a motricidade, leia as assertivas a seguir e \nassinale a alternativa que traz um conceito \nequivocado.  \n(A) Recursos lúdicos corroboram para a \nevolução motora da criança.  \n(B) A coordenação global compreende a \ncoordenação motora grossa e a fina.  \n(C) Por meio da coordenação motora grossa são \ntrabalhados movimentos amplos com todo o \ncorpo, desenvolvendo ações simultâneas que \nenvolvem grupos musculares diferentes.  \n(D) A coordenação motora grossa é proporcional \nà capacidade de equilíbrio de cada indivíduo.  \n(E) A coordenação fina trabalha os pequenos \nmúsculos realizando movimentos coordenados e \nexercícios refinados."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27: Destaque o enunciado que condiz literalmente \ncom o artigo 2º da Lei de Diretrizes e Bases da \nEducação Nacional.",
+            "alternativas": {
+                "A": "“A educação, dever da família e do Estado, \ninspirada nos princípios educacionais, tem por \nfinalidade a formação integral do educando [...]”.",
+                "B": "“A educação, dever da família e do Estado, \ninspirada nos princípios constitucionais, tem por \nfinalidade desenvolver a capacidade de leitura e \ninterpretação do educando [...]”.",
+                "C": "“A educação, direito do cidadão e dever do \nEstado, inspirada nos princípios de solidariedade \ne equidade social, tem por finalidade prover o \ndesenvolvimento pleno de cada cidadão [...]”.",
+                "D": "A educação, dever da família e do Estado, \ninspirada nos princípios de liberdade e nos ideais \nde solidariedade humana, tem por finalidade o \npleno desenvolvimento do educando [...]”.",
+                "E": "“A educação, dever da família e do Estado, \ninspirada nos princípios de igualdade social, tem \npor finalidade a construção plena do indivíduo \nenquanto cidadão [...]”.  \n \n Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 14 de 15 QUESTÃO 49  \nPara compreender cada fase de desenvolvimento \ninfantil, é necessário conhecer as teorias que \nabordam sobre o tema. Tomando como \nparâmetro do estágio sensório -motor, destaque a \nalternativa incorreta:  \n \n(A) As realizações pertinentes a esse estágio são \nconsideradas como a base de todos os processos \ncognitivos do indivíduo.  \n(B) Os esquemas sensório -motores constituem as \nprimeiras formas de pensamento e expressão.  \n(C) Os esquemas sensório -motores constituem \npadrões de comportamento que têm \naplicabilidade em diferentes contextos.  \n(D) No estágio sensório -motor, o instrumento \nprincipal de apoio e de constituição de si mesma \ne do mundo é a função simbólica.  \n(E) O estágio da inteligência sensório -motora vai \ndo nascimento até, aproximadamente, os dois \nanos.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 50  \nSobre o papel da Educação Infantil no \ndesenvolvimento e na aprendizagem da criança \nde 0 a 3 anos, é incorreta a seguinte asserção:  \n(A) Quando a qualidade do ambiente familiar é \ncomprometida, o benefício de frequentar a creche \nou pré -escola é menos evidente, uma vez que \nhaverá maior dificuldade para adentrar no \nuniverso dessa criança.  \n(B) Estudos ratificam que creches de boa \nqualidade podem representar benefícios para o \ndesenvolvimento infantil, mas creches de baixa \nqualidade podem gerar prejuízos no \ndesenvolvimento das crianças.  \n(C) Para dimensionar a qualidade dos centros de \nEducação Infantil, há uma série de fatores que \npodem ser observados. Um desses exemplos é o \nperfil dos educadores, em que se avalia o nível de \nformação, se são atentos e responsivos às \nnecessidades da criança  e engajados em \npromover o desenvolvimento infantil integral.  \n(D) No Brasil, políticas públicas pró -infância nas \núltimas décadas contribuíram para o avanço na \ncobertura da Educação Infantil, mas ainda há \ndesigualdades em relação ao acesso a essa \nmodalidade de ensino entre as diferentes regiões \ndo país.  \n(E) A razão adulto -criança e o número de \ncrianças em cada grupo são fatores que \ninfluenciam significativamente o resultado \nobtido pela criança.  \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Amparo  – Processo Seletivo - 01/2024                                       INSTITUTO AVANÇA SÃO PAULO  \n \nEDUCADOR DE CRECHE                                                                                                                               Página 15 de 15"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 1: Indique a opção que descreve, de forma \nincorreta , o que é afirmado no texto:",
+            "alternativas": {
+                "A": "A maior parte das propriedades benéficas \ne saudáveis atribuídas ao mel são resultantes de \nsubstâncias minoritárias de sua composição.",
+                "B": "O mel é mais doce que o açúcar de mesa \npor ser composto, majoritariamente, de glicose \ne frutose.",
+                "C": "A proveniência g eográfica do mel é um dos \nfatores que causam a variedade do teor de seus \ncompostos.",
+                "D": "Dentre os compostos minoritários do mel, \nhá aqueles usados para a identificação da \norigem floral.",
+                "E": "Há evidências laboratoriais acerca de \npropriedades funcionais ou s audáveis do mel."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 2: Indique a opção que descreve, de forma \ncorreta , o que é afirmado no texto:",
+            "alternativas": {
+                "A": "As propriedades funcionais ou saudáveis \ndo mel são provenientes de substâncias \nminoritárias de sua composição, dentre as \nquais destacam -se os compostos fenólicos.",
+                "B": "O fato de o mel ser mais doce do que o \naçúcar de mesa anula suas propriedades \nfuncionais e saudáveis, em virtude dos perigos \ndo consumo de açúcar.",
+                "C": "As propriedades funcionais ou saudáveis \ndo mel são hipotéticas, n ão existindo \nevidências concretas sobre tais supostos \nbenefícios.",
+                "D": "A composição química do mel é sempre a \nmesma, independente de sua origem biológica \nou geográfica.",
+                "E": "Os compostos minoritários do mel são \nresponsáveis de modo idêntico entre si pelas \npropriedades benéficas do produto.  \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nEDUCADOR DE CRECHE                                                                                                                            Página 3 de 10 QUESTÃO 03  \nConsidere o seguinte trecho, presente no \npenúltimo parágrafo do texto:  \n \n“Muitos dos compostos minoritários, mas \nfundamentalmente  os compostos fenólicos, \nsão responsáveis pelas propriedades funcionais \nou saud áveis do mel.”  \n \nIndique a opção que substituiria, \ncorretamente , a parte destacada, preservando \no sentido do texto:  \n \n(A) excessivamente  \n(B) involuntariamente  \n(C) absurdamente  \n(D) essencialmente  \n(E) alternativamente"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 3: Considere o seguinte trecho, correspondente \nao quarto parágrafo do texto:  \n \n“É por isso que as flores servem como \nbiomarcadores da identidade do mel.”  \n \nIndique abaixo a opção em que o fragmento \nacima é corretamente  reescrito, com \npreservação do sentido do texto:",
+            "alternativas": {
+                "A": "“ O mel é, por isso, um biomarcador da \nidentidade das flores”",
+                "B": "“De tal modo, as flores e o mel possuem \nbiomarcadores.”",
+                "C": "“É por isso que o mel serve como \nbiomarcador da identidade das flores.”",
+                "D": "“É por tal razão que a identidade do mel se \nserve das fl ores como biomarcadores.”",
+                "E": "“As flores, são assim, identificações do mel \nbiomarcador.”  \n \n \n \n QUESTÃO 05  \nIndique a opção que descreve, de forma \ncorreta , o que é afirmado no texto:  \n \n(A) Embora o mel e o açúcar tenham diferentes \nníveis de doçura e propriedade s funcionais ou \nsaudáveis, é sempre melhor consumir \nalimentos não -condimentados.  \n(B) O teor dos compostos do mel pode variar \npor alguns motivos, dentre os quais sua origem \nsazonal.  \n(C) O mel é constituído, principalmente, por \nglicose e frutose, que fazem com que o produto \nseja 25% mais doce que o açúcar de mesa.  \n(D) O mel é significativamente mais saudável \nque o açúcar de mesa.  \n(E) O açúcar de mesa é significativamente \nmais saudável que o mel em virtude de ser 25% \nmenos doce."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 4: Na frase “Há evidências destas propriedades in \nvitro”, presente no último parágrafo do texto, a \nclasse gramatical de “Há” é:",
+            "alternativas": {
+                "A": "Artigo",
+                "B": "Advérbio",
+                "C": "Verbo",
+                "D": "Pronome",
+                "E": "Adjetivo  \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nEDUCADOR DE CRECHE                                                                                                                            Página 4 de 10 QUESTÃO 07  \nConsidere o seguinte trecho, correspondente \nao segundo parágrafo do texto:  \n“Mas mais de 150 substâncias minoritárias \nforam identificados em sua composição — e \nsão estes os responsáveis pela maioria das \npropriedades biológicas e saudáveis atribuídas \na ele.”  \nSobre o trecho, indique a opção correta : \n \n(A) Não há erros gramaticais no trecho em \nquestão.  \n(B) O número “150” deveria ter sido escrito \npor extenso, visto que o uso dos algarismos \nimpede a total compreensão do texto.  \n(C) As palavras “sua” e “ele” deveriam ser \nsubstituídas por “m el”, pois o uso dos \npronomes impede a identificação do \nsubstantivo.  \n(D) A vírgula deveria ter sido empregada ao \nmenos quatro vezes para que o trecho fosse \ncompletamente correto e inteligível.  \n(E) Há erros gramaticais de concordância no \ntrecho em questão."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 5: Considere o seguinte trecho, correspondente \nao quarto parágrafo do texto:  \n \n“É por isso que as flores  servem como \nbiomarcadores da identidade  do mel.” \n \nAs palavras destacadas são:",
+            "alternativas": {
+                "A": "Substantivos",
+                "B": "Verbos",
+                "C": "Adjetivos",
+                "D": "Artigos",
+                "E": "Advérbios  \n \n \n \n QUESTÃO 09  \nNa frase “Entre estes compostos minoritários, \nestão alguns minerais ( sobretudo , potássio)”, \na palavra destaca é um:  \n \n(A) Substantivo  \n(B) Advérbio  \n(C) Verbo  \n(D) Pronome  \n(E) Numeral"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 6: Na frase “Entre estes compostos minoritários, \nestão alguns  minerais (sobretudo, potássio)”, a \npalavra destacada é um",
+            "alternativas": {
+                "A": "Substantivo",
+                "B": "Advérbio",
+                "C": "Verbo",
+                "D": "Pronome",
+                "E": "Numeral"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 7: Indique, dentre as opções abaixo, aquela em \nque a palavra desta cada é um advérbio :",
+            "alternativas": {
+                "A": "Ela mora  muito longe.",
+                "B": "Pensarei em algo.",
+                "C": "Estarei por perto .",
+                "D": "Buscarei melhorar .",
+                "E": "Farei o conserto."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 8: Indique, dentre as opções abaixo, aquela em \nque a palavra destacada é um adjetivo :",
+            "alternativas": {
+                "A": "É um problema complexo .",
+                "B": "Somos pessoas  idealistas.",
+                "C": "A fé é indispensável.",
+                "D": "Temos  esperança de algo bom.",
+                "E": "Acredito que sim. \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nEDUCADOR DE CRECHE                                                                                                                            Página 5 de 10 QUESTÃO 13  \nIndique a frase escri ta corretamente : \n \n(A) A gente já fomos melhores.  \n(B) Sugiru que você tente.  \n(C) O mecânico concertou o carro.  \n(D) Assisti a “Seção da Tarde”.  \n(E) Prevejo muito sucesso."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 9: Indique a frase escrita incorretamente :",
+            "alternativas": {
+                "A": "Somos pessoas unidas.",
+                "B": "Você sabe dançar?",
+                "C": "É uma situação diferente.",
+                "D": "Eles tem muito quê fazer.",
+                "E": "Acalme -se, por favor!"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 10: Indique a opção na qual há o emprego \nincorreto do hífen:",
+            "alternativas": {
+                "A": "Micro -ônibus.",
+                "B": "Micro -ondas.",
+                "C": "Micro -fone.",
+                "D": "Pós -colonial.",
+                "E": "Arara -azul.  \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 11: Um capital de R$17.500,00 foi aplicado sob o \nregime de capitalização simples à taxa \ntrimestral de 1,2%. Para obter um montante de \nR$18.970,00, o prazo dessa aplicação deverá \nser de:",
+            "alternativas": {
+                "A": "1 ano e 7 meses.",
+                "B": "1 ano e 8 meses.",
+                "C": "1 ano e 9 meses.",
+                "D": "1 ano e 10 meses.",
+                "E": "1 ano e 11 meses.  QUESTÃO 17 \nUm cofre custa, à vista, R$901,00, valor este \nobtido por meio de um desconto de 32% sobre \no seu valor original. Se o desconto concedido \nsobre o valor original do cofre tivesse sido de \n60%, qual seria seu preço à vista?  \n(A) R$530,00 . \n(B) R$680,40.  \n(C) R$850,00.  \n(D) R$690,00.  \n(E) R$540,60."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 12: Em certo dia, em uma repartição pública, a \nrazão do número de pessoas presentes para o \nnúmero total de atendimentos foi de 3 para 4. \nSabendo -se que haviam 16 agendamentos para \nesse dia, quantas pessoas compareceram?",
+            "alternativas": {
+                "A": "11.",
+                "B": "12 .",
+                "C": "13.",
+                "D": "14.",
+                "E": "15."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 13: Assinale a alternativa que apresenta a quarta \nproporcional da sequência 56, 32, 28, 𝑥:",
+            "alternativas": {
+                "A": "14.",
+                "B": "15.",
+                "C": "16 .",
+                "D": "17.",
+                "E": "18. \n \n \n \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nEDUCADOR DE CRECHE                                                                                                                            Página 6 de 10 QUESTÃO 20 \nAtaíde é um livreiro muito renomado e \npretende conceder aos clientes um desconto de \n15% sobre o preço de venda de um almanaque \ne ainda lucrar, na venda de cada unidade, 20% \nsobre o seu custo. Se ele comprou cada \nalmanaque por R$170,00, então deverá vendê -\nlo a preço unitário de  \n(A) R$180,00.  \n(B) R$195,00.  \n(C) R$210,00.  \n(D) R$225,00.  \n(E) R$240, 00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 14: Huguinho e Zezinho trabalham embarcados. \nCada um trabalha em uma plataforma distinta \ne embarcaram, no mesmo dia. Huguinho \ndesembarca a cada 20 dias e Zezinho a cada 15 \ndias. Em quantos dias encontrar -se-ão em \nterra, pela primeira vez?",
+            "alternativas": {
+                "A": "30.",
+                "B": "40.",
+                "C": "50.",
+                "D": "60 .",
+                "E": "70."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 15: A soma do tempo de serviço de Bento e seu \nprimo Gael, respectivamente, na empresa é de \n24 anos. A razão entre o tempo de serviço de \nambos é de 3/5. Bento têm quanto tempo de \nserviço nessa empresa?",
+            "alternativas": {
+                "A": "9 anos .",
+                "B": "11 anos.",
+                "C": "15 anos.",
+                "D": "7 anos.",
+                "E": "13 anos.  \n \n QUESTÃO 23 \n7𝑑𝑚3 equivalem a:  \n(A) 7,0×10−7ℎ𝑚3. \n(B) 0,07𝑚3. \n(C) 7,0×10−8𝑘𝑚3. \n(D) 7,0×106𝑚𝑚3. \n(E) 0,0007𝑑𝑎𝑚3."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16: Natanael possui dois tampões de mesa de \nmesma área. O tampão quadrado possui lado \nde 6 m e o tampão retangular tem altura de 3 m \ne base de 10 m. Qual o perímetro da tábua \nretangular?",
+            "alternativas": {
+                "A": "36 m.",
+                "B": "28 m.",
+                "C": "24 m.",
+                "D": "32 m.",
+                "E": "26 m."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 17: O quingentésimo quarto algarismo da \nexpansão decimal 0,865708657086570... é \nigual a:",
+            "alternativas": {
+                "A": "0.",
+                "B": "5.",
+                "C": "6.",
+                "D": "7 .",
+                "E": "8."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 18: Para a confecção de um nicho, três peças de \nmadeira devem ser divididas em partes \nsimilares, do maior tamanho possível e sem \ndeixar restos. Se essas peças medem 30 cm, 40 \ncm e 50 cm, então o número total de peças que \nserão obtidos é de:",
+            "alternativas": {
+                "A": "5.",
+                "B": "8.",
+                "C": "10 .",
+                "D": "15.",
+                "E": "18. Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nEDUCADOR DE CRECHE                                                                                                                            Página 7 de 10 QUESTÃO 27 \nUm terreno possui área de 200𝑚2. Se a \nconstrução de um viveiro ocupa 8000𝑐𝑚2 da \nsua área, então, a porcentagem da de área do \nterreno não ocupada por esse viveiro é igual a:  \n(A) 95,8%.  \n(B) 96,7%.  \n(C) 97,2%.  \n(D) 98,5%.  \n(E) 99,6% ."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 19: Os karts atingem, normalmente, uma média de \n70 km/h. Essa mesma velocidade, em metros \npor seg undo, é igual a:",
+            "alternativas": {
+                "A": "16,8 m/s.",
+                "B": "19,4 m/s .",
+                "C": "20 m/s.",
+                "D": "18,6 m/s.",
+                "E": "15 m/s."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 20: 11,13 decâmetros correspondem a:",
+            "alternativas": {
+                "A": "11130 milímetros.",
+                "B": "111300 centímetros.",
+                "C": "1113 quilômetros.",
+                "D": "111,3 metros .",
+                "E": "1,113 decímetros."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 21: A sucessão numérica 9, 9, 3, 7, 7, 7, 7, 7, 9, 9, \n3, 7, 7, 7, 7, 7, 9, ... mantém um padrão lógico \nde formação, indefinidamente. A soma dos \n1005 primeiros termos dessa sucessão é:",
+            "alternativas": {
+                "A": "7035 .",
+                "B": "7030.",
+                "C": "7025.",
+                "D": "7020.",
+                "E": "7015.  \n \n CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 22: Pesquisas realizadas desde a década de 1970 \n(HARDY; PLATONE; STAMBACK, 1991) \nenfatizam que todas as crianças podem \naprender, mas não sob qualquer condição. Os \nParâmetros Nacionais de Qualidade para a \nEducação Infantil — Volume 1 (BRASILIA, \n2006), apontam alguns direitos da criança que \nvive em nosso país, dos quais NÃO fazem \nparte:",
+            "alternativas": {
+                "A": "à individualidade, ao tempo livre e ao \nconvívio social;",
+                "B": "a profissionais com formação específica;",
+                "C": "à igualdade de oportunidades;",
+                "D": "acesso a hegemonia cultural por meio  da \neducação pública",
+                "E": "a espaços, tempos e materiais específicos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 23: Ainda sobre os Parâmetros Nacionais de \nQualidade para a Educação Infantil  \n(BRASILIA, 2006), trata -se de uma \ncaracterística da qualidade em \nestabelecimentos de Educação Infantil:",
+            "alternativas": {
+                "A": "Independe do contexto.",
+                "B": "Baseia -se em direitos, necessidades, \ndemandas, conhecimentos e possibilidades.",
+                "C": "Conceito construído  por órgãos \ncompet entes , sujeito a constantes negociações",
+                "D": "É relativa ao público a que se destina",
+                "E": "Não influi, diretamente, no processo ensino \naprendizagem  \n \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nEDUCADOR DE CRECHE                                                                                                                            Página 8 de 10 QUESTÃO 33 \nSegundo a publicação do Ministério da \nEducação e Cultura intitulado “ Critérios para \num atendimento em creches que respeite os \ndireitos fundamentais das crianças ” \n(BRASÍLIA,  2009 ), são características de \numa Creche que respeita a criança, \nEXCETO:  \n(A) Nossas crianças têm direito a um ambiente \naconchegante, seguro  e estimulante.  \n(B) Nossas cria nças têm direito a desenvolver \nsua curiosidade . \n(C) Nossas crianças têm direito a uma especial \natenção durante seu  período de adaptação à \ncreche . \n(D) Nossas crianças têm direito a desenvolver \numa identidade cultural, racial e religiosa \nadequadas aos princí pios estabelecidos por sua \ncreche.  \n(E) Nossas crianças têm direito a higiene e à \nsaúde"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 24: Sobre o Brincar em Ambientes de Creche, \nrefletindo ainda sobre os “ Critérios para um \natendimento em creches que respeite os \ndireitos fundamentais das crianças ” \n(BRASÍLIA,  2009 ) é correto afirmar que:",
+            "alternativas": {
+                "A": "As famílias conhecem por si a  importância \ndas brincadeiras para o desenvolvimento \ninfantil .",
+                "B": "Os brinquedos são guardados em locais \nque possibilitem ao professor acesso nos \nmomentos direcionados à br incadeira.",
+                "C": "Os adultos também propõem brincadeiras \nàs crianças .",
+                "D": "As crianças maiores não podem organizar \nos seus jogos de bola, inclusive futebol.",
+                "E": "Demonstramos o valor que damos às \nbrincadeiras infantis  supervisionando -as, sem \ninterferir, mesmo quando  as crianças pedem .  \n \n \n QUESTÃO 35 \nA Lei Nº9.394/96, também conhecida como \nLei de Diretrizes e Bases da Educação, inicia -\nse ratificando que “ Art. 1º A educação abrange \nos processos formativos que se desenvol vem \nna _____________ , na convivência humana, \nno ______________ , nas instituições de \nensino e pesquisa, nos _____________ e \norganizações da sociedade civil e nas \nmanifestações culturais ”. Completam, \ncorretamente, as lacunas os termos:  \n(A) vida familiar, trabalho e movimentos \nsociais.  \n(B) escola, trabalho e grupos.  \n(C) vida familiar, meio e bairros.  \n(D) escola, grupo familiar e grupos sociais.  \n(E) escola, trabalho e bairros."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 25: Segundo a Lei de Diretrizes e Bases da \nEducação (BRASIL, 1999 6), “A educação \nescolar deverá vincular -se”:",
+            "alternativas": {
+                "A": "à família e a sociedade.",
+                "B": "ao mundo do trabalho e à prática social.",
+                "C": "ao educando e ao educador.",
+                "D": "à escola e a família.",
+                "E": "ao indivíduo e ao seu meio."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 26: São Princípios da Educação Nacional \n(L9.394/96), EXCETO:",
+            "alternativas": {
+                "A": "liberdade de aprender, ensinar, pesquisar \ne divulgar a cultura, o pensamento, a arte e o \nsaber.",
+                "B": "valorização da experiência extraescolar.",
+                "C": "consideração com a diversidade étnico -\nracial.",
+                "D": "respeito à diversidade humana, \nlinguística, cultural e identitária das pessoas \nsurdas, surdo -cegas e com deficiência \nauditiva.",
+                "E": "garantia do direito à educação e à \naprendizagem na faixa etária de escolarização \nobrigatória.  \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nEDUCADOR DE CRECHE                                                                                                                            Página 9 de 10 QUESTÃO 38 \nNo Manual de Orientação Pedagógica \n“Brinquedos e Brincadeiras de Creche” \n(BRASÍLIA, 2012), defende que “O brincar e \na Brincadeira”:  \n(A) podem ocorrer, no ambiente da creche, \npreferencialmente, como recursos lúdicos da \naprendizagem.  \n(B) não dependem de se r estimulados, pois são \nparte da natureza do infante.  \n(C) tem seu horário programado na rotina \nescolar, devidamente, previsto em \nplanejamento e incluso, pragmaticamente, em \nseu cotidiano.  \n(D) a principal atividade da criança.  \n(E) compete ao horário de recreio (brincadeiras \nlivres) e momentos destinados a recreação \ndirigida."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "EDUCADOR DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2022",
+            "questão": "Questão 27: O Estatuto da Criança e do Adolescente (Lei \n8.069/90) ratifica que “ A garantia de \nprioridade compreende:  \na) primazia de receber proteção e socorro em \nquaisquer circunstâncias;  \nb) precedência de atendimento nos serviços \npúblicos ou de relevância pública;  \nc) preferência na formulação e na execução das \npolíticas sociais públicas;  \nd) destinação privilegiada de recursos públicos \nnas áreas relacionadas com a proteção à  \ninfância e à juventude ”.  \nAssinale a alternativa correta:",
+            "alternativas": {
+                "A": "As afirmativas A, B e C estão corretas.",
+                "B": "As afirmativas A, B e C estão incorretas.",
+                "C": "As afirmativas B, C e D estão corretas.",
+                "D": "As afirmativas C, D e E estão corretas.",
+                "E": "Todas as altern ativas correspondem \nintegralmente ao que prevê o ECA.  \n \n QUESTÃO 40 \nSobre a Vacinação Infantil, o Estatuto da \nCrian ça e do Adolescente sanciona que:  \n(A) Compete à família decidir quais vacinas \nserão administradas ao menor, sendo \nrecomendada a orientação de um Médico \nPediatra para essa escolha.  \n(B) É obrigatória a vacinação das crianças, \nnos casos recomendados pelas autoridades \nsanitárias.   \n(C) A vacinação  das crianças é recomendada, \nporém não pode ser obrigada por autoridades \nsanitárias.  \n(D) É obrigatória a vacinação de crianças \nsomente até seus primeiros 5 anos de idade, \nsegundo recomendação da Organização \nMundial da Saúde (OMS).  \n(E) A vacinação é um dire ito de todas as \ncrianças, porém sua oferta varia segundo a \nnecessidade de cada localidade.   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de Amparo  - SP – Concurso Público  01/2022                               INSTITUTO AVANÇA SÃO PAULO  \n \n \nEDUCADOR DE CRECHE                                                                                                                            Página 10 de 10"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}

@@ -1,3 +1,424 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4e38ec2f3877c225bdb556bd690441dbae425af9be30d00f033f4f090cd3841b
-size 42986
+{
+    "PROFESSOR DE LIBRAS": [
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Todas as afirmações a seguir podem ser \ndepreendidas da reportagem apresentada, \nexceto :",
+            "alternativas": {
+                "A": "Os cientistas têm dificuldade de avaliar o real \nimpacto das minerações aos primatas e seu \nhabitat em função da falta de compartilhamento \nde dados pelos projetos de mineração.",
+                "B": "A exploração de minerais como cobre, lítio, \nníquel e cobalto causa desmatamento de florestas \ntropicais.",
+                "C": "Na Guiné, a ameaça da mineração, de forma \ndireta ou indireta, atinge até 83% da população \nde macacos do país.",
+                "D": "As empresas que operam projetos de \nmineração devem dispor de dados robustos sobre \nas espécies que residem na região explorada, para \nelaborar ações de mitigação e compensação.",
+                "E": "Ações de mitigação e compensação de curto \nprazo são suficientes para resolver o impacto \ncausado pela mineração."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: Considere o seguinte excerto: “(...) as áreas de \nmineração se intersectam com o que é \nconsiderado “habitat crítico”, isto é, regiões \ncruciais para a biodiversidade (...)” . A locução \n“isto é” , que ocorre no contexto dado, introduz \numa paráfrase e poderia ser substituída pela \nexpressão de mesma função textual e significado:",
+            "alternativas": {
+                "A": "de modo que.",
+                "B": "de fato.",
+                "C": "ou seja.",
+                "D": "com efeito.",
+                "E": "grosso modo.  \n \n \n \n \n QUESTÃO 03  \nConsidere as sentenças a seguir, que ocorrem no \ntexto:  \nI. “É o que sugere um estudo publicado no \nperiódico Science Advances”.  \nII. “Os pesquisadores, no entanto, ressaltam que \no número de primatas em risco pode ser maior.”  \nIII. “As empresas que operam nessas áreas \ndevem ter esquemas adequados de mitigação”.  \nNas sentenças dadas, verifica -se o emprego da \npalavra “que”  como pronome relativo apenas \nem:  \n(A) I.  \n(B) II.  \n(C) III.  \n(D) I e II.  \n(E) I e III."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Analise o seguinte excerto quanto à pontuação: \n“Necessários para uma transição em larga \nescala para uma energia mais limpa, minerais \ncomo cobre, lítio, níquel e cobalto têm sido \nexplorados na África [...]”  A primeira vírgula \nempregada no excerto ocorre em função do papel \nsintático desempenhado pela construção que o \ninicia, que corresponde a:",
+            "alternativas": {
+                "A": "aposto do sujeito.",
+                "B": "sujeito da oração.",
+                "C": "objeto da locução verbal “têm sido”.",
+                "D": "vocativo.",
+                "E": "adjunto adnominal."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: A palavra “amortecimento” , que ocorre no texto, \né derivada de “amortecer” . A palavra \n“amortecer”, por sua vez, é formada por:",
+            "alternativas": {
+                "A": "derivação prefixal.",
+                "B": "derivação sufixal.",
+                "C": "derivação parassintética.",
+                "D": "derivação regressiva.",
+                "E": "derivação imprópria.  \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 4 de 14 QUESTÃO 06  \nO tipo de encontro vocálico que ocorre em \n“antologia” é o mesmo que em:  \n(A) esquentar.  \n(B) amêndoa.  \n(C) coração.  \n(D) roseira.  \n(E) coisa."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: Assinale a alternativa em que o elemento em \ndestaque é um advérbio de modo.",
+            "alternativas": {
+                "A": "A paciência é a mais  bela das virtudes.",
+                "B": "Atualmente , há uma gama de alimentos \nprocessados nos mercados.",
+                "C": "Precisamos somente  de alimentos não \nperecíveis.",
+                "D": "Agrada -me o silêncio depois  da meia -noite.",
+                "E": "Temos de resolver esta situação depressa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Considere a sentença: “ Fez questão de expressar  \nseu inexorável desprezo pelo rapaz.”  O \nsignificado da palavra “inexorável” é o mesmo \nde:",
+            "alternativas": {
+                "A": "infundado.",
+                "B": "implacável.",
+                "C": "pequeno.",
+                "D": "irreparável.",
+                "E": "remediável."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Analise as sentenças a seguir quanto à relação \nentre o verbo e o(s) seu(s) complemento(s). \nAssinale a alternativa em que a regência verbal \nestá correta.",
+            "alternativas": {
+                "A": "Revigorou -se apenas com alimentação \nsaudável.",
+                "B": "O governo destinou recursos sobre a \neducação infantil.",
+                "C": "A família precaveu perante o pior.",
+                "D": "Eles requereram da prefeitura uma licença \nespecial.",
+                "E": "O grupo contribuiu do cadastro de dados dos \nassistidos pelo projeto.  \n QUESTÃO 10  \nHá incorreção de concordância nominal em:  \n(A) A casa recém -reformada cheirava a madeira \ne tinta fresca.  \n(B) Tudo isso aconteceu em má hora e dia.  \n(C) O vale e suas casas pareciam assombradas.  \n(D) Passadas duas semanas, ela voltou ao \ntrabalho.  \n(E) Foram rasgados os álbuns de fotos e as cartas \ndo casal.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: A comissão organizadora de um evento vai \nseparar quatro áreas diferentes para os \nespectadores. Cada área terá um determinado \nvalor de ingresso, e comportará um número \nmáximo de pessoas. A tabela abaixo mostra a as \náreas disponíveis, o número máximo de pess oas \nque pode comportar, e o valor do ingresso \nindividual de cada área.  \nÁrea  Número máximo \nde pessoas  Valor do \ningresso  \nPista  1000  R$ 125  \nLateral 1  500 R$ 150  \nLateral 2  500 R$ 200  \nCamarote  200 R$ 400  \n \nSe todas as áreas venderem todos os ingressos \ndisponíveis, qual será a arrecadação total do \nevento dividido pelo número total de pessoas? \nIndique o valor mais próximo:",
+            "alternativas": {
+                "A": "R$ 154.",
+                "B": "R$ 161.",
+                "C": "R$ 173.",
+                "D": "R$ 183.",
+                "E": "R$ 125.  \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 5 de 14 QUESTÃO 12  \nUm retângulo com uma determinada largura e \naltura inicial sofre um aumento de altura de 20% \ne uma diminuição de largura de 20%. Com essas \ninformações, é correto afirmar que:  \n(A) A área do novo retângulo será igual à área do \nretângulo anterior.  \n(B) A área do novo retângulo sofrerá uma \ndiminuição de 4% independentemente da sua \naltura e largura original.  \n(C) A redução ou incremento na área do novo \nretângulo depende da altura e largura do \nretângulo original.  \n(D) A área do novo retângulo sofrerá um \naumento de 4% independentemente da sua altura \ne largura original.  \n(E) O perímetro do novo retângulo continuará \nigual ao perímetro do retângulo original, \nindependentemente da altura e largura original."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Uma garrafa de refrigerante tem 2 litros de \nlíquido que serão distribuídos em copos de 180 \nml. Alguns copos serão cheios e o último copo \nficará parcialmente cheio. Qual a porcentagem de \nlíquido nesse último copo, em relação ao seu \nvolume máximo comportado,  aproximadamente?",
+            "alternativas": {
+                "A": "11,1%.",
+                "B": "22,2%.",
+                "C": "15,5%.",
+                "D": "2,22%.",
+                "E": "1,11%."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Em uma escola, o intervalo do lanche ocorre em \nhorários diferentes para cada turma. A turma A \ninicia seu intervalo às 9:00 e tem duração de 45 \nminutos, já a turma B inicia seu intervalo num \ndeterminado horário após a turma A, e as duas \nturmas permanecem ju ntas em intervalo por 25 \nminutos. Após esse tempo, a turma A volta para \na sala e a turma B continua sozinha no intervalo \naté às 10:00. Quanto tempo a turma B passou o \nintervalo sozinha?",
+            "alternativas": {
+                "A": "20 minutos.",
+                "B": "25 minutos.",
+                "C": "45 minutos.",
+                "D": "15 minutos.",
+                "E": "30 minutos.  QUESTÃO 15  \nUm estudante fez cinco provas durante um \nsemestre e obteve as seguintes notas: 70, 75, 80, \n85 e 𝑥. Se a média aritmética das cinco notas foi \n80, qual é o valor de 𝑥? \n(A) 80.  \n(B) 82.  \n(C) 84.  \n(D) 86.  \n(E) 90.  \n \nATUALIDADES"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Qual o nome do apresentador de TV que no ano \nde 2023 passou por um transplante de coração e \nem fevereiro de 2024, por um transplante de rim?",
+            "alternativas": {
+                "A": "Antônio Augusto Moraes Liberato (Gugu \nLiberato).",
+                "B": "Fausto Corrêa da Silva (Faustão).",
+                "C": "Celso Yunes Portiolli  (Celso Portiolli).",
+                "D": "Raul Gil.",
+                "E": "Senor Abravanel (Silvio Santos)."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Qual é a doença que se alastrou no Brasil, desde \no início de 2024?",
+            "alternativas": {
+                "A": "Caxumba.",
+                "B": "Gripe.",
+                "C": "H1N1.",
+                "D": "Dengue.",
+                "E": "Catapora."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Quem é o tetracampeão do mundo, consagrado \ncomo jogador e técnico de futebol, que faleceu \nno início de 2024, aos 92 anos?",
+            "alternativas": {
+                "A": "Zagallo.",
+                "B": "Maradona.",
+                "C": "Taffarel.",
+                "D": "Pelé.",
+                "E": "Palhinha.  \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 6 de 14 QUESTÃO 19  \nO estado do Rio Grande do Sul, desde abril do \nano em curso, vem sofrendo com fortes chuvas e \nenchentes. O contato da população com a água \ncontaminada da enchente pode causar qual tipo \nde doença?  \n(A) Meningite.  \n(B) Covid.  \n(C) Leptospirose.  \n(D) Gastrite.  \n(E) Parkinson ."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Em maio de 2024, o presidente Ebrahim Raisi, \nmorreu na queda de um helicóptero, aos 63 anos. \nQual o país do oriente médio Ebrahim presidia?",
+            "alternativas": {
+                "A": "Alemanha.",
+                "B": "França.",
+                "C": "Canadá.",
+                "D": "Rússia.",
+                "E": "Irã.  \n \nNOÇÕES  DE INFORMÁTICA"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Com base nos conhecimentos relacionados ao \nsistema operacional Windows 7, assinale a \nalternativa que completa corretamente a lacuna \ndo texto a seguir:  \n \nO Windows 7, desenvolvido pela ___________, \né uma versão do sistema operacional Windows, \ndestinado a computadores pessoais, tanto para \nuso doméstico quanto empresarial.",
+            "alternativas": {
+                "A": "Intel",
+                "B": "Oracle",
+                "C": "Microsoft",
+                "D": "Sansung",
+                "E": "Apple  \n QUESTÃO 22  \nNa barra de tarefas do Windows 7 é possível \nvisualizar facilmente informações importantes \npara usuário, como:  \n \n(A) A data atual.  \n(B) A velocidade de processamento do \ncomputador.  \n(C) A capacidade de processamento do \ncomputador.  \n(D) A configuração do servidor de e -mail do \nusuário.  \n(E) A versão do Microsoft Office instalado na \nmáquina."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Analise a lista de aplicativos descritos nas \nalternativas a seguir e assinale a opção que \ndescreve o único programa nativo do Windows \n7:",
+            "alternativas": {
+                "A": "iMovie.",
+                "B": "GarageBand.",
+                "C": "Bloco de Notas.",
+                "D": "AutoCade 2024.",
+                "E": "Keynote."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Entre as alternativas abaixo, qual delas descreve \numa das funções do Microsoft Word:",
+            "alternativas": {
+                "A": "Criar imagens vetoriais.",
+                "B": "Editar filmes em alta resolução.",
+                "C": "Gerenciamento de banco de dados.",
+                "D": "Criar e editar documentos de texto.",
+                "E": "Calcular Equação Diferencial.  \n \n \n \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 7 de 14 QUESTÃO 25  \nO atalho do Microsoft Word intitulado de \n“Orientação” ilustrado a seguir, tem a função de:  \n \nFonte: 1 https://support.microsoft.com/  \n \n(A) Alterar as bordas da página para impressão \nem papel A5.  \n(B) Alterar o espaçamento entre parágrafos de \ncada página.  \n(C) Alterar a orientação da página para paralelo \nou vertical.  \n(D) Alterar a orientação da página para posto ou \nsobreposto.  \n(E) Alterar a orientação da página para paisagem \nou retrato.  \n \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: 6 \nConforme as Diretrizes Nacionais para a \nEducação Especial na Educação Básica, ao \nanalisar os princípios e fundamentos da \nEducação Especial, observa -se que a ação \npedagógica é construída por meio de certas \nacepções. Nesse sentido, quando o propósito dos \nrecursos e serviços educacionais especializados \nestão pautados no ato de “ampliar” o que isso \nsignifica?",
+            "alternativas": {
+                "A": "Assegurar resposta educativa de qualidade às \nnecessidades educacionais especiais dos alunos \nnos serviços educacionais comuns.",
+                "B": "Prestar auxílio ao professor e ao aluno no \nprocesso de ensino e aprendizagem, tanto nas \nclasses comuns quanto em salas de recursos.",
+                "C": "Completar o currículo para viabilizar o \nacesso à base nacional comum.",
+                "D": "Compreender o atendimento educacional \nespecializado realizado em classes especiais, \nescolas especiais, classes hospitalares e \natendimento domiciliar.",
+                "E": "Flexibilizar a proposta pedagógica para o \naluno com necessidades especiais.  \n \n \n QUESTÃO 27  \nDe acordo com Brasil (2001), “o Brasil fez opção \npela construção de um sistema educacional \ninclusivo ao concordar com a Declaração \nMundial de Educação para Todos, firmada em \nJomtien, na Tailândia, em 1990, e ao mostrar \nconsonância com os postulados produzi dos em \nSalamanca”. Nesse contexto, destaque a \nalternativa que não segue fielmente uma das \npropostas apresentadas na Declaração de \nSalamanca, em conformidade literal com o texto \nelaborado no documento: Diretrizes Nacionais \npara a Educação Especial na Educaç ão Básica.  \n(A) “Todas as crianças, de ambos os sexos, têm \ndireito fundamental à educação e que a ela deva \nser dada a oportunidade de obter e manter nível \naceitável de conhecimento”.  \n(B) “Os sistemas educativos devem ser \nprojetados e os programas aplicados de modo que \ntenham em vista toda a gama dessas diferentes \ncaracterísticas e necessidades. As pessoas com \nnecessidades educacionais especiais devem ter \nacesso às escolas comuns que de verão integrá -las \nnuma pedagogia centrada nos parâmetros \ninclusivos”.  \n(C) “Os pais têm o direito inerente de serem \nconsultados sobre a forma de educação que \nmelhor se ajuste às necessidades, circunstâncias \ne aspirações de seus filhos”.  \n(D) “As políticas educacionais deverão levar em \nconta as diferenças individuais e as diversas \nsituações. Deve ser levada em consideração, por \nexemplo, a importância da língua de sinais como \nmeio de comunicação para os surdos [...]”.  \n(E) “A escolarização de crianças em escolas \nespeciais ou classes especiais na escola regular \ndeveria ser uma exceção [...]”.  \n \n \n \n \n \n \n \n \nPrefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 8 de 14 QUESTÃO 28  \nLeia as asserções posteriores e destaque a \nalternativa elaborada erroneamente.  \n(A) As escolas comuns ou especiais que têm \ncomo base o oralismo objetivam capacitar o \nindivíduo com surdez a utilizar a modalidade \noral, por meio da voz e da leitura labial.  \n(B) O oralismo corrobora para a diferenciação \nentre surdos e ouvintes.  \n(C) O oralismo pode contribuir para déficits \ncognitivos.  \n(D) Os resultados obtidos com a comunicação \ntotal são questionáveis quando se analisam as \npessoas com surdez frente aos desafios da vida \ncotidiana.  \n(E) A comunicação total é considerada, na \nliteratura, como uma outra feição do oralismo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Sobre alguns dos aspectos básicos da Libras, é \npossível depreender:",
+            "alternativas": {
+                "A": "A Libras não é considerada uma língua \ncompleta, uma vez que sua estrutura linguística \nnão compreende todos os aspectos que \ncaracterizam as outras línguas orais.",
+                "B": "Uma língua só tem valor se for oficializada, \nlogo a língua de sinais não terá valor caso não \ntenha sido oficializada em um determinado país.",
+                "C": "A partir da Lei 10.436/02, o status linguístico \nda Libras foi reconhecido e, em função disso, ela \npassou a ser oficializada no país.",
+                "D": "O reconhecimento da Libras como língua no \nBrasil oportunizou a construção de um corpus \nlinguístico representativo.",
+                "E": "A Libras sofre influência de outras línguas \norais. Um desses exemplos são os empréstimos \nlinguísticos do português.  \n \n \n \n \n \n QUESTÃO 30  \nLeia os enunciados a seguir, coloque V \n(verdadeiro) e F (falso) e marque a alternativa \ncorrespondente.  \n[...] Há uma grande diferença entre esses dois \ntermos: pessoa surda e pessoa com deficiência \nauditiva.  \n[...] A pessoa com deficiência auditiva é um \ntermo empregado de forma mais suave, menos \npreconceituosa e, por isso, mais aceito pela \npessoa com deficiência.  \n[...] Na área clínica, a língua de sinais é \nreconhecida como um idioma cada vez mais \naprendido pelos profissionais que atuam na área \nda saúde.  \n[...] São objetivos da audição detectar, \ndecodificar e transmitir as informações sonoras, \nalém de manter o ponto de equilíbrio do corpo.  \n(A) V, V, V, V  \n(B) F, F, F, V  \n(C) F, V, V, V  \n(D) V, F, F, V  \n(E) V, V, F, F"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Para entender certos aspectos por trás da questão \nda surdez, dentro da perspectiva educacional, \ntomando como parâmetro a obra intitulada: \nEnsino de Língua Portuguesa para Surdos - \nCaminhos para a Prática Pedagógica, observa -se \nque “um surdo estará mais ou menos próximo da \ncultura surda a depender da identidade que \nassume dentro da sociedade”. Na sequência, o \ntexto contextualiza várias formas de identidade. \nAssim, como é definida a identidade na qual o \nsurdo se espelha na representação hegemônica do \nouvinte,  vivendo e se manifestando de acordo \ncom o mundo ouvinte?",
+            "alternativas": {
+                "A": "Identidade flutuante",
+                "B": "Identidade inconformada",
+                "C": "Identidade de transição",
+                "D": "Identidade híbrida",
+                "E": "Identidade surda  \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 9 de 14 QUESTÃO 32  \nAo retratar a questão da alfabetização de surdos, \ndentro do material elaborado pelo Ministério da \nEducação, intitulado: Ensino de Língua \nPortuguesa para Surdos - Caminhos para a \nPrática Pedagógica, é impertinente afirmar:  \n(A) É importante destacar a necessidade de serem \nconstruídas estórias em primeira pessoa sobre \npessoas surdas, sobre pessoas ouvintes, produzir \nvídeos de produções literárias de adultos surdos.  \n(B) Em relação à modalidade escrita de \nalfabetização de surdos, observa -se que a Escrita \nSurda numa interlíngua vai de encontro ao \nmodelo considerado como ideal.  \n(C) A alfabetização de surdos deve iniciar por \nmeio da língua de sinais.  \n(D) O signwriting  é uma forma de agregar as \ntecnologias educacionais empregadas no ensino \nde surdos, além de tornar perenes e sólidas suas \nideias, confirmando, reforçando e ampliando a \n“marca surda” de pertinência no mundo.  \n(E) Educadores e formuladores das políticas \neducacionais devem oportunizar o papel central \nque o surdo deve ocupar dentro do processo de \nalfabetização a ele direcionado."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Ao analisar as modalidades visuoespacial e a \noral-auditiva, qual é o aspecto que sobressai ao \nanalisar a relação existente entre o significante \n(imagem acústica / fônica) e o significado \n(propriedades da substância do conteúdo)?",
+            "alternativas": {
+                "A": "Complementariedade",
+                "B": "Arbitrariedade",
+                "C": "Analogia",
+                "D": "Singularismo",
+                "E": "Discrepância  \n \n \n \n \n \n QUESTÃO 34  \nA partir da análise de alguns aspectos linguísticos \nda Libras, são verdadeiras as seguintes asserções, \nafora:  \n(A) A codificação da atitude do falante em \nrelação ao que está sendo descrito, em particular \na distinção entre os tipos frasais: declarativo, \ninterrogativo, exclamativo, imperativo (diretivo/ \noptativo/ exortativo) ilustra uma situação em que \né possível des tacar a simultaneidade que se \nmanifesta tanto na língua de sinais como em \nlínguas orais.  \n(B) Na língua de sinais, os sinais, em si mesmos, \nsão responsáveis por expressar o significado \ncompleto do discurso.  \n(C) Os surdos utilizam a expressão facial e \ncorporal para omitir, enfatizar, negar, afirmar, \nquestionar, salientar, desconfiar e assim por \ndiante.  \n(D) Há estudos que buscam investigar a hipótese \nde que as expressões faciais codificam \npropriedades gramaticais de categorias \nfuncionais da estrutura oracional.  \n(E) Os universais linguísticos encontrados nas \nlínguas orais são também identificados nas \nlínguas de sinais, a que se associam \ncaracterísticas sociolinguísticas e funções \npragmáticas e discursivas semelhantes.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 10 de 14 QUESTÃO 35  \nObserve a imagem a seguir e destaque a \nalternativa que se refere a ela.  \n \nFonte: BRASIL. Ensino de Língua Portuguesa para Surdos - Caminhos \npara a prática pedagógica. Brasília: MEC, SEE, 2007.  \n(A) Universais semânticos, como fêmea ou \nmacho, animado ou humano, são encontrados em \ntodas as línguas.  \n(B) Todas as línguas possuem formas para \nindicar tempo passado, negação, pergunta, \ncomando etc.  \n(C) Todas as línguas mudam ao longo do tempo.  \n(D) Relações entre sons e significados das \nlínguas faladas e entre gestos (sinais) e os \nsignificados das línguas de sinais.  \n(E) Todas as línguas humanas utilizam um \nconjunto finito de sons discretos ou gestos que \nsão combinados para formar elementos \nsignificativos ou palavras, os quais por sua vez \nformam um conjunto infinito de sentenças \npossíveis."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Qual dos exemplos a seguir é considerado uma \nunidade constitutiva do sinal?",
+            "alternativas": {
+                "A": "Configuração gestual",
+                "B": "Ponto de angulação",
+                "C": "Lateralidade",
+                "D": "Estática",
+                "E": "Expressões não -manuais  \n \n \n QUESTÃO 37  \nHá inúmeras formas de definir o conceito de \ndeficiência. Tomando como parâmetro o \nconceito de deficiência descrito por meio do \nDecreto 3956/2001, são verdadeiros os aspectos \ndescritos a seguir, salvo:  \n(A) restrição física  \n(B) restrição comportamental  \n(C) natureza permanente ou transitória  \n(D) limita a capacidade de exercer uma ou mais \natividades essenciais da vida diária  \n(E) causada ou agravada pelo ambiente \neconômico e social"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Alguns parâmetros propostos por Zabala, em sua \nobra: A Prática Educativa: como ensinar , ajudam \na entender a sistematização do modelo \neducacional que, por sua vez, amplia a reflexão \nsobre como construir um ensino que realmente \ncompreenda as especificidades do educando, \ncaracterizadas pelos aspectos que diferenciam \num aluno do outro. Assim, l eia as alternativas a \nseguir e destaque a que vai de encontro aos \nponderamentos apresentados pelo referido autor.",
+            "alternativas": {
+                "A": "O ensino que objetiva a formação integral do \naluno não pode ser pautado pela uniformidade \npreconizada pelo modelo tradicional.",
+                "B": "Os processos de ensino e aprendizagem \ndentro da abordagem construtivista corroboram \npara uma maior atenção aos aspectos \nhomogêneos presentes na vivência educacional.",
+                "C": "A busca do “modelo único”, do “método \nideal” que substitui o modelo único tradicional \nnão tem nenhum sentido, pois não há uma \nfórmula magistral.",
+                "D": "A aprendizagem deve ser compreendida \ncomo uma construção pessoal que cada indivíduo \nrealiza graças à ajuda que recebe de outras \npessoas.",
+                "E": "Uma aprendizagem significativa deve \npossibilitar que sejam estabelecidos tantos \nvínculos essenciais e não -arbitrários entre os \nnovos conteúdos e os conhecimentos prévios \nquanto permita a situação.  \nPrefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 11 de 14 QUESTÃO 39  \nAo analisar os aspectos linguísticos da Libras, é \npossível observar que os classificadores em \nlíngua de sinais podem ser divididos em cinco \ncategorias principais. Nesse sentido, como são \ndenominados os classificadores que fazem o \ndetalhamento sobre alguma coisa (objeto e /ou \npessoa) em que são especificados, por exemplo, \no tamanho, o cheiro, a textura, a forma etc.?  \n(A) Descritivos  \n(B) Especificadores  \n(C) Plural  \n(D) Instrumental  \n(E) De corpo"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Qual é a parte da linguística que estuda a \nprodução do sinal no intuito de descrever cada \nparte que o compõe, contudo, sem analisar o \nsentido dessa produção?",
+            "alternativas": {
+                "A": "Fonética",
+                "B": "Fonologia",
+                "C": "Morfologia",
+                "D": "Sintaxe",
+                "E": "Semântica"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Dentro dos aspectos linguísticos da Libras, qual \no conceito que define: “sinais iguais que \napresentam significados diferentes”?",
+            "alternativas": {
+                "A": "Sinonímia",
+                "B": "Antonímia",
+                "C": "Parônimos",
+                "D": "Polissemia",
+                "E": "Monossemia  \n \n \n \n QUESTÃO 42  \nEm conformidade com as ponderações de \nMantoan (2015), destaque a alternativa incorreta.  \n(A) As questões por trás da inclusão são \ncomplexas, pois envolvem um grande confronto \nsocial decorrente de aspectos que estão \narraigados na prática vivenciada pelo indivíduo.  \n(B) Os velhos paradigmas da modernidade \ncontinuam sendo contestados, e o conhecimento, \nmatéria -prima da educação escolar, precisa ser \nressignificado.  \n(C) Uma proposta inclusiva possui caráter \nmultidimensional dos problemas e das soluções, \nlogo o currículo trabalhado deve possibilitar que \nas diferenças sejam reveladas e compreendidas.  \n(D) A transformação das escolas passa pela \ncompreensão entre os aspectos que diferem a \nintegração da inclusão.  \n(E) Ao analisar a relação identidade versus  \ndiferença, a tolerância e o respeito são \nconsiderados como posturas imprescindíveis \npara assegurar a inclusão."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Dentro da concepção de Educação Inclusiva \ndescrita por Mantoan, complete o excerto a \nseguir:  \n“As ações educativas têm como eixos o convívio \ncom a diferença e a aprendizagem como \nexperiência ______________, participativa, que \nproduz sentido para o aluno, pois contempla sua \nsubjetividade”.",
+            "alternativas": {
+                "A": "coletiva",
+                "B": "individual",
+                "C": "relacional",
+                "D": "absoluta",
+                "E": "relativa  \n \n \n \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 12 de 14 QUESTÃO 44  \nAo analisar os aparatos legais que normatizam a \nEducação Inclusiva no Brasil, Orrú (2017) tece \numa reflexão sobre brechas de termos existentes \nnas leis que são responsáveis por perpetuar a \nexclusão ou pseudalizar a inclusão a partir de \npropostas de integra ção do aluno com \ndeficiência. A seguir foi descrito um desses \ntermos, assinale -o: \n(A) preferencialmente  \n(B) esporadicamente  \n(C) normativamente  \n(D) possivelmente  \n(E) comumente"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Pense nos seguintes verbos: pensar, duvidar e \nentender. Qual das alternativas a seguir explica a \ngrande diferença entre esses três verbos?",
+            "alternativas": {
+                "A": "Expressão facial",
+                "B": "Configuração de mão em M",
+                "C": "Movimento alternado do dedo indicador",
+                "D": "Configuração de mão em G",
+                "E": "Lateralidade dos lábios"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28: Dentre os aspectos históricos que contextualizam \na Educação Especial, é possível citar a \nDeclaração de Jomtien. Em seu 2º artigo é \ndescrito: “Expandir o Enfoque”. Esse enfoque é \ndescrito por meio de cinco ações específicas. \nUma dessas ações foi descrita po r meio de qual \nalternativa?",
+            "alternativas": {
+                "A": "Descentralizar o acesso à educação e \npromover a liberdade.",
+                "B": "Concentrar a atenção no raciocínio \nmatemático.",
+                "C": "Ampliar os meios e o raio de ação da \nEducação Infantil.",
+                "D": "Propiciar um ambiente diversificado.",
+                "E": "Fortalecer alianças.  QUESTÃO 47  \nDe acordo com Brasil (2006), há vários tipos de \napoio que podem ser empregados no intuito de \nbeneficiar alunos surdos em sua escolarização \nformal, que são definidos por meio das Diretrizes \nNacionais para a Educação Especial na Educação \nBásica. Assim, desta que a alternativa que condiz \ncom a seguinte especificidade: “profissional \nespecializado, que presta atendimento integral às \nturmas do ensino comum em que estiverem \nmatriculados alunos surdos. Pode estar vinculado \nà sala de recursos, dispondo, em seu cronog rama, \nde horários para este atendimento”.  \n(A) Professor adjunto  \n(B) Professor de apoio fixo  \n(C) Professor itinerante  \n(D) Professor intérprete  \n(E) Professor -monitor"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29: Ao avaliar a produção escrita dos alunos surdos \nem língua portuguesa, qual dos aspectos a seguir \ndeve ser avaliado com maior flexibilidade?",
+            "alternativas": {
+                "A": "Nível semântico",
+                "B": "Aspecto cognitivo de sua linguagem",
+                "C": "Coerência",
+                "D": "Sequência lógica das ideias",
+                "E": "Nível morfossintático"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE LIBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30: O que significa monoparesia?",
+            "alternativas": {
+                "A": "É a perda parcial das funções motoras de um \nsó membro (inferior ou superior), geralmente \ncausada por uma lesão nervosa.",
+                "B": "Paralisia incompleta de nervo ou músculo \ndos membros inferiores e superiores que não \nperderam inteiramente a sensibilidade e o \nmovimento.",
+                "C": "É a perda total das funções motoras em três \nmembros.",
+                "D": "É um tipo de paralisia cerebral que atinge \napenas um dos lados do corpo, deixando a área \nafetada completamente paralisada.",
+                "E": "É uma abertura criada cirurgicamente em um \nmembro.  \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 13 de 14 QUESTÃO 50  \nAssim como as línguas orais, a Libras apresenta \ncomo principal ordem básica das frases da \nseguinte maneira: Sujeito (S) – Verbo (V) – \nObjeto (O). Porém, é possível encontrar outras \nordens de construção de frases. Assim, qual das \nalternativas contextualiza a ordem: OSV?  \n(A) Ocorre quando as expressões faciais não têm \nmuita importância na frase ou quando há a \npresença de estruturas mais complexas, como \numa oração subordinada.  \n(B) Ocorre quando há a presença de topicalização \nna frase.  \n(C) Ocorre quando há a utilização de verbo com \nconcordância.  \n(D) Ocorre quando há uma sentença afirmativa \ncom foco, pois há uma duplicação do verbo.  \n(E) Ocorre nas frases afirmativas com foco em \nque há a supressão do primeiro verbo.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE LIBRAS                                                                                                                               Página 14 de 14"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

@@ -1,3 +1,382 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76ceab72d51105be459ac6c45179a7ccbc9f43e81dc081820f7a978572a86adc
-size 30556
+{
+    "TÉCNICO EM LOGÍSTICA": [
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: Leia o texto 1 e assinale a alternativa que vai de \nencontro com a perspectiva apresentada pelo \nautor.",
+            "alternativas": {
+                "A": "O ensino da gramática histórica não é mais \nensinado em virtude da pouca importância desse \nconteúdo para os discentes.",
+                "B": "Os discentes de Letras são os principais \ninteressados pelas disciplinas concernentes ao \nensino da gramática histórica e história da língua \nportuguesa.",
+                "C": "A gramática histórica e a história da língua \nportuguesa são conteúdos que permitem o \nconhecimento das modificações sofridas pela \nlíngua portuguesa ao longo do tempo.",
+                "D": "O ensino da gramática histórica e a história \nda língua portuguesa tem caráter instrumental \npara os discentes  e profissionais de Letras e áreas \ncorrelatas.",
+                "E": "Dentro da grade curricular do ensino médio, \no ensino da gramática histórica e história da \nlíngua portuguesa não é mais trabalhado."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: De acordo com o Texto 1, qual o papel \ndesempenhado pela linguagem dentro do \ncontexto social?",
+            "alternativas": {
+                "A": "Papel exíguo.",
+                "B": "Papel módico.",
+                "C": "Papel insignificante.",
+                "D": "Papel substancial.",
+                "E": "Papel irrisório.  \n \n \n \n \n Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO  \n \n \nTÉCNICO EM LOGÍSTICA                                                                                                                           Página 3 de 11 QUESTÃO 03  \nSobre a relação existente entre os estudos do \nportuguês contemporâneo e sua historicidade, é \ninverídica a seguinte afirmativa:  \n(A) A linguística moderna possui certas vertentes \nque contrapõem a importância da historicidade da \nlíngua portuguesa.  \n(B) O sumário é a essência do plano da obra.  \n(C) O sumário apresent a as origens mais \nadjacentes da língua portuguesa.  \n(D) A historicidade compreende elementos que \ndão uma dimensão mais clara acerca dos estudos \ndo português contemporâneo.  \n(E) Ainda que haja pensamentos contrários, não é \npossível refutar a importância da historicidade da \nlíngua portuguesa."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: Releia o último parágrafo do texto e assinale a \nalternativa a seguir que a substituição dos termos \nnão alterou a proposta apresentada pelo autor.",
+            "alternativas": {
+                "A": "Dentro do estudo gramatical, certas \nponder ações não devem ser compreendidas [...]",
+                "B": "Dentro do estudo gramatical, todos  os \nargumentados devem ser apreendidos  [...]",
+                "C": "Dentro do estudo gramatical, certos \nargumentos devem ser desatentados [...]",
+                "D": "Dentro do estudo gramatical, uma pequena \nparte de ensaios deve ser descartada [...]",
+                "E": "Dentro do estudo gramatical, alguns \npensamentos devem ser adoptados [...]  \n \n \n \n \n \n QUESTÃO 05   \nNo texto aparece: “Mesmo a despeito do anti -\nhistoricismo  que caracteriza algumas correntes \nda linguística moderna, ainda é necessário \nconhecer a evolução da língua portuguesa no \ntempo e no espaço e fornecer uma trilha segura \npara os estudos do português atual”. A locução \nconjuncional que une a oração principal e a \noração subordinada expressa uma relação de  \n(A) causa  \n(B) conformidade  \n(C) oposição  \n(D) comparação  \n(E) proporcionalidade."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Releia o texto, encontre as palavras destacadas a \nseguir e assinale a opção que apresenta a correta \nclassificação gramatical do termo destacado.",
+            "alternativas": {
+                "A": "despeito = verbo",
+                "B": "forçosamente = adjetivo",
+                "C": "consubstanciado = adjetivo",
+                "D": "já = preposição",
+                "E": "diacrônica = substantivo"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: A seguir, são apresentadas algumas locuções \nadjetivas e seus adjetivos correspondentes. \nMarque a opção que apresenta um erro nessa \ncorrespondência.",
+            "alternativas": {
+                "A": "de fogo = ígneo",
+                "B": "de ilhas = insular",
+                "C": "de verão = estival",
+                "D": "de primavera = vernal",
+                "E": "do norte = meridional  \n Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO  \n \n \nTÉCNICO EM LOGÍSTICA                                                                                                                           Página 4 de 11 QUESTÃO 08 \nLeia os enunciados a seguir, marque a opção que \ncontraria as regras de concordância verbal.  \n(A) A multidão de fãs ultrapassou o limite \nimposto pela produção do show.  \n(B) Espero que haja sobrado alguns enfeites de \naniversário.  \n(C) Grande número de fãs partiram.  \n(D) Comprometimento e de dicação destacou \naquela gerência.  \n(E) A mãe ou o pai não lhe deu carinho."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: Sobre o processo de formação de palavras, \nassinale a única alternativa que foi definida \ncorretamente.",
+            "alternativas": {
+                "A": "ciumento – derivação parassintética",
+                "B": "entediar – derivação sufixal",
+                "C": "remoinho – derivação prefixal",
+                "D": "prodígio – derivação imprópria",
+                "E": "embora – derivação prefixal"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Observe o emprego da crase nas expressões \nsubsequentes e assinale a única alternativa \ncorreta.",
+            "alternativas": {
+                "A": "Vou à Formiga, Minas Gerais, nas próximas \nférias.",
+                "B": "Viajou até à praia.",
+                "C": "Por que Eduardo se conformou à isso?",
+                "D": "Dirigiu -se à mim.",
+                "E": "Andar à pé é cansativo.  \n \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Um consumidor, ao dirigir -se a um \nsupermercado para adquirir papel higiênico, \ndeparou -se com as seguintes opções: a nº 01, \nonde 20 rolos do produto, cada qual contendo \n100 metros de papel, custa R$ 30,00; a opção nº \n02, onde 15 rolos do produto, cada qual contendo \n80 metros de papel, custa R$24,00 e, por fi m, a \nnº 03, onde 10 rolos do produto, cada qual \ncontendo 60 metros de papel, custa R$20,00. \nNestes termos, qual opção representa o menor \ncusto por metro de produto adquirido?",
+            "alternativas": {
+                "A": "nº 01",
+                "B": "nº 02",
+                "C": "nº 03",
+                "D": "tanto a nº 01 quanto a nº 03 apresentam o \nmesmo valor por metro",
+                "E": "tanto a nº 01 quanto a nº 02 apresentam o \nmesmo valor por metro"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Considere um terreno retangular, onde um dos \nlados mede 10 (dez) metros. Considerando ainda \nque a área total do terreno é de 225 metros \nquad rados, qual o comprimento do outro lado do \nretângulo, em metros?",
+            "alternativas": {
+                "A": "17,5",
+                "B": "22,0",
+                "C": "22,5",
+                "D": "25,0",
+                "E": "27,5  \n \n \n \n \n Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO  \n \n \nTÉCNICO EM LOGÍSTICA                                                                                                                           Página 5 de 11 QUESTÃO 13  \nUma caixa d´água cúbica possui todos os lados \nmedindo 50 centímetros . Qual o volume total, em \nmetros cúbicos, de líquido que pode ser \narmazenado nela?  \n(A) 0,100  \n(B) 0,125  \n(C) 0,150  \n(D) 0,250  \n(E) 0,500"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Um investidor, ao deixar o capital de R$ \n150.000,00 (cento e cinquenta mil reais) aplicado \npelo período de 06 (seis) meses, terá qual valor ao \nrealizar o saque do montante total? Considere que \no capital será remunerado mediante aplicação da \ntaxa de juros simples de 1,5% (um e meio por \ncento) ao mês:",
+            "alternativas": {
+                "A": "R$ 157.500,00",
+                "B": "R$ 159.000,00",
+                "C": "R$ 162.000,00",
+                "D": "R$ 163.500,00",
+                "E": "R$ 165.000,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: O manual de uma máquina de lavar roupas \nprescreve que, para cada quilograma de roupa, \ndeve ser utilizada a quantidade de 12,5g (doze \ngramas e meio) de sabão em pó. Para efetuar a \nlavagem de 8,0kg (oito quilogramas) de roupa, \nqual quantidade de sabão em pó deve ser \nutilizada, seguindo -se as prescrições do manual \ndo usuário?",
+            "alternativas": {
+                "A": "80g",
+                "B": "100g",
+                "C": "120g",
+                "D": "140g",
+                "E": "160g  \n \n NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "Não encontrada"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: O que são pastas no MS -Windows 7?",
+            "alternativas": {
+                "A": "Programas para a utilização do sistema \noperacional.",
+                "B": "Diretórios que contêm arquivos e outras \npastas.",
+                "C": "Aplicativos para melhorar o desempenho do \nsistema.",
+                "D": "Ferramentas para acessar os arquivos de \noutros sistemas operacionais, apenas.",
+                "E": "Utilitários para aprimorar a segurança do \nsistema, apenas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Qual é o atalho do MS-Windows 7 para abrir o \ngerenciador de tarefas?",
+            "alternativas": {
+                "A": "Ctrl + Shift + Esc",
+                "B": "Alt + Seta para Cima",
+                "C": "F5 (ou Ctrl + R)",
+                "D": "Seta para a direita",
+                "E": "Seta para a esquerda"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Qual é o atalho do MS -Windows 7 para usar as \nteclas de direção para alternar itens abertos?",
+            "alternativas": {
+                "A": "Shift + Tab",
+                "B": "Alt + Shift",
+                "C": "Alt + Ctrl",
+                "D": "Ctrl + Alt + Tab",
+                "E": "Alt + Home"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Qual é o atalho do MS -Windows 7 que serve para \nabrir ou fechar o menu iniciar?",
+            "alternativas": {
+                "A": "Tecla do logotipo do Windows",
+                "B": "Tecla do logotipo do Windows + pausa",
+                "C": "Tecla do logotipo do Windows + D",
+                "D": "Tecla do logotipo do Windows + M",
+                "E": "Tecla do logotipo do Windows + Shift + M  Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO  \n \n \nTÉCNICO EM LOGÍSTICA                                                                                                                           Página 6 de 11 QUESTÃO 20 \nQual é o atalho do MS -Windows 7 que serve para \nminimizar todas as janelas?  \n(A) Tecla do logotipo do Windows + D  \n(B) Tecla do logotipo do Windows + E  \n(C) Tecla do logotipo do Windows + M  \n(D) Tecla do logotipo do Windows + F  \n(E) Tecla do logotipo do Windows + L  \nCONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: 1 \nSão princípios constitucionais que norteiam a \nadministração pública, EXCETO:",
+            "alternativas": {
+                "A": "Legalidade.",
+                "B": "Impessoalidade.",
+                "C": "Moralidade.",
+                "D": "Publicidade.",
+                "E": "Protecionismo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Considerando a Lei de Licitações n° 14.133/2021, \nanalise as afirmativas a seguir.  \nI. Fraudar licitação mediante fornecimento, como \nverdadeira, de mercadoria falsificada ou com \nprazo de validade vencido pode resultar em pena \nde até 8 anos de reclusão e multa.  \nII.  Os processos de licitação ocorrem em apenas \nduas fases: divulgação do edital e julgamento.  \nIII. O \nedital de licitação para registro de preços  deve \ndispor sobre as especificidades da licitação e de \nseu objeto, inclusive a quantidade máxima de \ncada item que poderá ser adquirida.  \nEstá correto o que se afirma apenas em:",
+            "alternativas": {
+                "A": "II.",
+                "B": "III.",
+                "C": "I e III.",
+                "D": "I e II.",
+                "E": "II e III.  \n ATENÇÃO  \nUtilize os dados a seguir para as Qu estões 23 a \n26. \nO técnico em logística é responsável por auxiliar \nno planejamento e controle de fluxo de materiais, \netapas importantes para estimar o preço final das \nanálises, custo da mercadoria em estoque e o lucro \nna revenda dos produtos. Suponha que certo \nprofissional  controla seus estoques através do \nmétodo de inventário permanente. No mês de \nMarço o profissional realizou a compra de kits \nquímicos para análise de nitrito de águas. Nesse \nperíodo, as seguintes transações (1, 2 e 3) foram \nrealizadas.  \n1. No início do pe ríodo, havia 100 kits de nitrato \nem estoque, registrados pelo valor total de R$ \n45.000,00.  \n2. Dias depois, a empresa adquiriu mais 50 kits \npelo valor de R$ 25.000,00.  \n3. Posteriormente, a empresa revendeu 110 kits \npelo valor de R$ 70.000,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: Considerando o critério de avaliação o Primeiro \nque Entra Primeiro que Sai (PEPS), assinale a \nalternativa que apresenta o custo da mercadoria \nvendida no período descrito.",
+            "alternativas": {
+                "A": "R$ 75.000,00",
+                "B": "R$ 50.000,00",
+                "C": "R$ 62.000,00",
+                "D": "R$ 42.000,00",
+                "E": "R$ 37.000,00"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Considerando ainda o critério PEPS, é correto \nafirmar que o valor do estoque ao final do período \nserá de:",
+            "alternativas": {
+                "A": "R$ 20.000,00",
+                "B": "R$ 31.000,00",
+                "C": "R$ 15.000,00",
+                "D": "R$ 17.500,00",
+                "E": "R$ 7.000,00  Departamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO  \n \n \nTÉCNICO EM LOGÍSTICA                                                                                                                           Página 7 de 11 QUESTÃO 25  \nSe aplicado o critério de avaliação Último que \nEntra Primeiro que Sai (UEPS), o custo da \nmercadoria vendida no período será de:  \n(A) R$ 50.000,00  \n(B) R$ 65.000,00  \n(C) R$ 35.500,00  \n(D) R$ 52.000,00  \n(E) R$ 24.000,00"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: Considerando ainda o critério UE PS, o valor do \nestoque ao final do período será de:",
+            "alternativas": {
+                "A": "R$ 50.000,00",
+                "B": "R$ 65.000,00",
+                "C": "R$ 35.500,00",
+                "D": "R$ 18.000,00",
+                "E": "R$ 24.000,00"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Trata -se de um princípio que exige que a \nAdministração Pública utilize adequadamente os \nrecursos disponíveis  para cumprir suas \natribuições e objetivos, buscando sempre a \nmelhoria da qualidade dos serviços prestados à \npopulação. Isso inclui maximizar o uso dos \nrecursos, evitar desperdícios e reduzir custos \ndesnecessários, além de buscar resolver \nproblemas e atend er às demandas da sociedade \nde forma ágil e eficaz. O princípio também se \nrelaciona com a economicidade e a transparência \nna gestão dos recursos públicos. A descrição \napresentada trata -se do princípio constitucional \nda:",
+            "alternativas": {
+                "A": "Oportunidade.",
+                "B": "Improbidade.",
+                "C": "Eficiência.",
+                "D": "Flexibilidade.",
+                "E": "Isonomia.  QUESTÃO 28   \nConsidere a imagem a seguir.  \n \nFonte: www.ferramentaskennedy.com.br/  \nO equipamento apresentado na imagem, \namplamente utilizado no movimento de cargas, é \nnomeado:  \n(A) Empilhadeira manual dupla.  \n(B) Empilhadeira motorizada.  \n(C) Carrinho tartaruga.  \n(D) Carrinho de tambor.  \n(E) Carro plataforma."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: A Lei de licitações n° 14.133/2021 aplica -se aos \nseguintes objetos contratuais, EXCETO:",
+            "alternativas": {
+                "A": "Alienação de bens.",
+                "B": "Compra por encomenda.",
+                "C": "Concessão do uso de patentes.",
+                "D": "Prestação de serviços profissionais \nespecializados.",
+                "E": "Locação.  \n \n \nDepartamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO  \n \n \nTÉCNICO EM LOGÍSTICA                                                                                                                           Página 8 de 11 QUESTÃO 30   \nSobre os equipamentos para movimentação de \nmateriais, analise as afirmativas a seguir.  \nI.Estrados são tablados de madeira, incompatíveis \ncom empilhadeiras e carrinhos hidrául icos.  \nII.A caçamba é uma armação de metal semelhante \nà gaiola, fechada dos quatro lados com chapas de \nmetal ondulado, e serve para acondicionar peças \npequenas a granel. É compatível com \nempilhadeira.  \nIII. O carrinho tartaruga serve para transportar \nrolos  e tapetes, ou mercadorias volumosas e \npesadas, até aproximadamente 1.200 kg.  \nEstá correto o que se afirma apenas em:  \n(A) I e III.  \n(B) I e II.  \n(C) II.  \n(D) I.  \n(E) II e III."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: Para o planejamento de estoque, é preciso \nclassificar os materiais de acordo com sua \nimportância e valor para a empresa. Assinale a \nalternativa que apresenta uma ferramenta de \nanálise em gestão de estoques amplamente \nutilizada para essa finalidade, na qual  os itens são \nseparados em três categorias.",
+            "alternativas": {
+                "A": "Gráfico de Bergson.",
+                "B": "Método de Foucault.",
+                "C": "Gráfico de Pareto.",
+                "D": "Curva Beauvoir.",
+                "E": "Método de Lacan.  \n \n \n QUESTÃO 32   \nSobre a logística reversa, assinale a alternativa \ncorreta.  \n(A) A logística reversa é obrigatória apenas para \nprodutos que geram resíduos cancerígenos.  \n(B) A logística reversa é facultativa para todas as \nempresas, independentemente do tipo de produto \nproduzido.  \n(C) A logística reversa é um processo realizado \nexclusivamente pelos c onsumidores.  \n(D) A logística reversa é um processo que só \nbeneficia o meio ambiente, sem trazer vantagens \neconômicas para as empresas.  \n(E) Na logística reversa, o produtor de um bem \ntem que prever toda a coleta, separação, \nreciclagem e como será feito o retorno e a \ndestinação ambiental adequada do produto."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Considere a imagem a seguir.  \n \nFonte: www.jungheinrich -shop.com.br/  \nO equipamento de movimentação de cargas \napresentado na imagem é nomeado:",
+            "alternativas": {
+                "A": "Alavanca com rodas.",
+                "B": "Carrinho patinete de transporte.",
+                "C": "Carrinho de tambor.",
+                "D": "Transpaleteira manual.",
+                "E": "Carrinho tartaruga.  \nDepartamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO  \n \n \nTÉCNICO EM LOGÍSTICA                                                                                                                           Página 9 de 11 QUESTÃO 34   \nConsidere a imagem a seguir.  \n \nFonte: https://www.fg.com.br/  \n \nO equipamento apresentado na imagem, utilizado \nno transporte de cargas, é nomeado:  \n(A) Alavanca com rodas.  \n(B) Cabo de mão.  \n(C) Transpaleteira manual.   \n(D) Carrinho de tambor.  \n(E) Carrinho de mão simples."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Nos termos da Lei de licitações n° 14.133/2021, \nsão modalidades de licitação, EXCETO:",
+            "alternativas": {
+                "A": "Pregão.",
+                "B": "Concorrência",
+                "C": "Chamamento público.",
+                "D": "Leilão.",
+                "E": "Diálogo competitivo.  QUESTÃO 36   \nConsiderando a nova Lei de licitações e contratos \nadministrativos, analise as afirmativas a seguir e, \nlogo após, marque (V) para verdadeira e (F) para \nfalsa.  \n( ) O objetivo das licitações é garantir a seleção da \nproposta que seja capaz de proporcionar à \nadministração pública o resultado de contratação \nmais vantajoso.  \n( ) A licitação visa assegurar o tratamento \ndiscriminado dos licitantes no processo de \ncompetição.  \n( ) O processo licitatório tem por \nobjetivo  incentivar a inovação e o \ndesenvolvimento nacional sustentável.  \nAssinale a alternativa que apresenta a sequência \ncorreta.  \n(A) F – F – F. \n(B) V – F – V. \n(C) F – V – V. \n(D) V – V – V. \n(E) V – V – F."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: Certa empresa tem um estoque médio a preço de \ncompra (sem impostos) de R$ 600.000,00. O \nvolume de vendas em 10 meses é de R$ \n1.800.000,00. O número de giro de estoque nesse \nperíodo será de:",
+            "alternativas": {
+                "A": "300",
+                "B": "180",
+                "C": "60",
+                "D": "3",
+                "E": "600  \n \n \n \nDepartamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO  \n \n \nTÉCNICO EM LOGÍSTICA                                                                                                                           Página 10 de 11 QUESTÃO 38   \nSobre as definições constantes na nova Lei de \nLicitações e contratos administrativos, assinale a \nalternativa INCORRETA.  \n(A) Entende -se por c ontratante a pessoa jurídica \nintegrante da Administração Pública responsável \npela contratação.  \n(B) Entende -se por compra a ob tenção de bens \npagos, que pode ser feita de uma vez ou em \nparcelas, sendo considerada imediata quando a \nentrega ocorre em até 30 dias da ordem de \nfornecimento.  \n(C)   Serviços e fornecimentos de grande vulto \nsão todos aqueles cujo valor estimado esteja \nacim a de R$ 50.000,00 (cinquenta mil reais).    \n(D) Licitante pode ser um consórcio de pessoas \njurídicas que manifesta a intenção de participar de \nprocesso licitatório.  \n(E) Entende -se por serviço a atividade ou \nconjunto de atividades destinadas a obter \ndetermin ada utilidade, intelectual ou material, de \ninteresse da Administração."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO EM LOGÍSTICA",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27: Considere as seguintes informações sobre uma \nrevendedora de determinado produto.  \n \nO estoque médio mensal = 600 produtos.  \nA empresa vendeu 5.400 produtos em 12 \nmeses.  \n \nConsiderando as informações apresentadas, o giro \nde estoque da empresa nesse período será de:",
+            "alternativas": {
+                "A": "9",
+                "B": "450",
+                "C": "50",
+                "D": "13",
+                "E": "45  QUESTÃO 40   \nConsidere a imagem a seguir.  \n \nFonte: www.anhangueraferramentas.com.br/  \nO equipamento apresentado na imagem, \nfrequentemente utilizado no transporte de cargas, \né nomeado:  \n(A) Carreta para empilhadeira.  \n(B) Carrinho de mão simples.  \n(C) Carro pantográfico hidráulico.  \n(D) Gaiola.  \n(E) Empilhadeira tartaruga.   \n \n \n \n \n \n \n \n \n \n \n \nDepartamento De Água E Esgoto De Santa Bárbara D’oeste - Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO  \n \n \nTÉCNICO EM LOGÍSTICA                                                                                                                           Página 11 de 11"
+            },
+            "resposta_correta": "D"
+        }
+    ]
+}

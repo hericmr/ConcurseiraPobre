@@ -1,3 +1,732 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25a5e719287b72ad312eda814d3cf016b9dbc0313304625cc61b5e1c1cac573f
-size 71957
+{
+    "ASSISTENTE DE CRECHE": [
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: O texto Versões, de Luís Fernando Verissimo, \nretrata os pensamentos de um personagem acerca \nde cenários possíveis decorrentes de caminhos \nnão tomados em sua vida. As expressões \nlinguísticas que corroboram a construção do \nsentido de hipótese, em relação à imaginação \ndesses cenários, são:",
+            "alternativas": {
+                "A": "os verbos conjugados no presente do modo \nindicativo.",
+                "B": "as orações subordinadas condicionais \nreticentes, iniciadas pela conjunção se.",
+                "C": "os pronomes em primeira pessoa.",
+                "D": "os discursos diretos na narrativa.",
+                "E": "as locuções verbais formadas por um verbo \nno pretérito perfeito do indicativo e um verbo no \nparticípio."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: A expressão em sentido figurado “por uma \nfábula”, empregada no excerto “Fui vendido para \no futebol europeu, por uma fábula.”, se refere:",
+            "alternativas": {
+                "A": "a uma narrativa imaginária que foi criada em \ntorno do jogador de futebol.",
+                "B": "a uma mentira que lhe foi contada no \npassado.",
+                "C": "à alta quantia de dinheiro envolvida em sua \nvenda para o futebol europeu.",
+                "D": "à baixa quantia de dinheiro envolvida em sua \nvenda para o futebol europeu.",
+                "E": "a um aspecto de sua carreira que foi motivo \nde zombaria por outras pessoas. \n \nConsidere o excerto a seguir para responder \nàs questões 3, 4, 5 e 6: \n \nAgora mesmo neste  bar imaginário em que estou \nbebendo para esquecer o que não fiz — aliás, o \nnome do bar é Imaginário —, sentou um cara do \nmeu lado direito e se apresentou: — Eu sou você, \nse tivesse feito aquele teste no Botafogo. \n \n \n \n \n \n QUESTÃO 03 \nA classe gramatical à qual pertence a palavra \n“aliás”, que ocorre no excerto apresentado, è:  \n(A) substantivo. \n(B) preposição. \n(C) conjunção. \n(D) advérbio. \n(E) adjetivo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: As palavras em destaque no excerto apresentado \nsão, respectivamente, pronomes dos tipos:",
+            "alternativas": {
+                "A": "relativo, demonstrativo, relativo e indefinido.",
+                "B": "demonstrativo, pessoal, interrogativo e \npessoal.",
+                "C": "demonstrativo, demonstrativo, interrogativo \ne pessoal.",
+                "D": "demonstrativo, pessoal, relativo e indefinido.",
+                "E": "demonstrativo, demonstrativo, relativo e \npessoal."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Na sentença “—  Eu sou você, se tivesse feito \naquele teste no Botafogo.”, a função gramatical \ndo vocábulo “se” è:",
+            "alternativas": {
+                "A": "conectar a oração principal à subordinada.",
+                "B": "modificar o pronome de tratamento “você”.",
+                "C": "modificar o verbo “sou”.",
+                "D": "conectar os constituintes intraoracionais \n“você” e “tivesse”.",
+                "E": "modificar o verbo “tivesse”."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: No contexto dado, a regência do verbo \n“apresentar” è:",
+            "alternativas": {
+                "A": "transitiva direta.",
+                "B": "transitiva indireta.",
+                "C": "transitiva direta e indireta.",
+                "D": "pronominal.",
+                "E": "intransitiva. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 4 de 12 QUESTÃO 07 \nConsidere o excerto: “O barman fez que sim com \na cabeça, tristemente.” Nesse contexto, a \nmodificação do advèrbio “tristemente” incide \nsobre: \n(A) “fez que sim com a cabeça”.  \n(B) “O barman”.   \n(C) “sim”.  \n(D) “com a cabeça”.  \n(E) “que sim”."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: As alternativas a seguir apresentam sentenças \nretiradas do texto. Analise-as e assinale aquela \nem que ocorre um verbo conjugado no pretérito \nimperfeito do modo indicativo.",
+            "alternativas": {
+                "A": "Fui vendido para o futebol europeu, por uma \nfábula.",
+                "B": "Eu sou você, se tivesse entrado para o serviço \npúblico.",
+                "C": "Vivemos cercados pelas nossas alternativas, \npelo que podíamos ter sido.",
+                "D": "Ele chutaria para fora.",
+                "E": "Não pude ser mais nada."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Considere as palavras apresentadas a seguir, que \nocorrem no texto: \nI. unzinho;  \nII. palidez;  \nIII. desanimado; \nIV. desgraça. \nOs elementos mórficos que constituem cada uma \ndas palavras dadas indicam que foram formadas \npelo processo de derivação sufixal apenas \naquelas apontadas em:",
+            "alternativas": {
+                "A": "I, II e III.",
+                "B": "II, III e IV.",
+                "C": "I, II, III e IV.",
+                "D": "I e II.",
+                "E": "III e IV.  \n QUESTÃO 10 \nAnalise as sentenças a seguir e assinale a \nalternativa em que a palavra destacada é \nantônima  de seu respectivo par indicado entre \nparênteses. \n(A) A solução aquosa e fétida  apresentava \nprovas sobre o assassinato. ( brilhosa ) \n(B) Tem personalidade de perdulário , assim \ncomo seu avô. ( gastador)  \n(C) Ainda que seja intangível, a música é algo \nque se pode sentir. (tátil ) \n(D) É alguém que dá muita importância às coisas \ntacanhas  da vida. ( insignificantes)  \n(E) Paulo foi pervicaz  em sua trajetória. \n(persistente )"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale aquela \nem que há inadequação no emprego do(s) \nsinal(is) de pontuação.",
+            "alternativas": {
+                "A": "Quanta liberdade temos na juventude!",
+                "B": "Na festa, os jovens conversavam, dançavam, \npaqueravam, e riam, riam muito.",
+                "C": "Ela deverá decidir por isso, ou todos nos \nrecusaremos a continuar neste trabalho.",
+                "D": "Ela sempre está assim, cheirosa, maquiada, \nelegante.",
+                "E": "Gosto do inverno, mas, os dias quentes \ntambém têm seu valor."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Analise as sentenças a seguir e assinale aquela \nem que a(s) forma(s) verbal(is) empregada(s) \nestá(ão) correta(s).",
+            "alternativas": {
+                "A": "Quando sobrepor a carta à mesa, lembre-se \nde prendê-la neste caderno.",
+                "B": "Nós repomos todos os itens do estoque ontem \nà tarde.",
+                "C": "Se você ver Maria nos corredores, avise-a de \nque estou procurando por ela.",
+                "D": "Não houveram motivos que o impedissem de \nlutar por sua amada.",
+                "E": "Eles retiveram o garoto na delegacia. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 5 de 12 QUESTÃO 13 \nAnalise as sentenças a seguir quanto ao emprego \ndo acento indicativo de crase. Assinale a \nalternativa em que o uso desse acento é \nfacultativo. \n(A) O pagamento desta compra será realizado à \nvista. \n(B) Nada sei quanto à última decisão do colégio. \n(C) A reunião de balanço da empresa será \nrealizada às 10h.  \n(D) Durante a apresentação, ele fez duras críticas \nà sua amiga. \n(E) Não estou à mercê de ninguém."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Assinale a alternativa em que a forma pluralizada \ndos substantivos compostos está correta, \nconsiderando o emprego do hífen.",
+            "alternativas": {
+                "A": "caças-níqueis.",
+                "B": "estados-membro.",
+                "C": "flores-de-abril.",
+                "D": "cavalos-vapores.",
+                "E": "bananas-das-terras."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Analise as sentenças a seguir e assinale a \nalternativa em que se verifica a colocação \npronominal correta, segundo a norma-padrão da \nlíngua portuguesa.",
+            "alternativas": {
+                "A": "Lhe compraram todos os presentes que \nesperava receber.",
+                "B": "Desconheço alguém que interessa-se por \nliteratura.",
+                "C": "Ainda não entreguei-lhe os livros \nemprestados.",
+                "D": "Os exercícios de matemática vão ajudá-lo no \nvestibular.",
+                "E": "Os pais decidiram a colocar nas aulas de \nnatação ainda bebê. \n \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Em uma academia, três amigos, André, Bianca e \nCarlos, estão competindo para ver quem \nconsegue levantar mais peso. André consegue \nlevantar 80% do peso que Bianca consegue, \nenquanto Carlos consegue levantar 75% do peso \nque André consegue. Sabendo que a soma dos \npesos levantados é 360 kg, qual a soma do peso \nlevantado por André e Bianca?",
+            "alternativas": {
+                "A": "270 kg.",
+                "B": "120 kg.",
+                "C": "150 kg.",
+                "D": "230 kg.",
+                "E": "190 kg."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Marcelo estava fazendo uma pesquisa de preço \npara comprar um celular novo em algumas lojas. \nNa primeira loja que entrou o aparelho custava \nR$ 1200,00. Na segunda loja o preço era um \nterço da primeira mais quinhentos reais. Na \nterceira loja o preço era metade da segunda mais \nmil reais. Qual era a loja com o aparelho mais \nbarato e quanto custava o aparelho na terceira \nloja, respectivamente?",
+            "alternativas": {
+                "A": "Primeira e R$ 1200,00.",
+                "B": "Segunda e R$ 1250,00.",
+                "C": "Terceira e R$ 1450,00.",
+                "D": "Segunda e R$ 1450,00.",
+                "E": "Primeira e R$ 1250,00. \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 6 de 12 QUESTÃO 18 \nPara serem aprovados em um determinado \nvestibular, os candidatos precisam fazer provas \nde Português, Matemática, Conhecimentos \nEspecíficos e uma Redação. As notas finais dos \nestudantes são calculadas com base na média \naritmética ponderada das provas. Os pesos de \ncada prova são respectivamente 3, 3, 3 e 1. \nPorém, a universidade possui também uma regra \ntal que: se a média aritmética simples das notas \nfor maior que a média ponderada, ela passará a \nser a nota final. Considere as notas dos \nparticipantes listados na tabela abaixo: \n \n Estudantes \n I II III \nPortuguês  8 6 9 \nMatemática  7 8 6 \nConhecimentos \nEspecíficos 9 7 8 \nRedação 6 9 7 \n \nA nota final dos estudantes I, II e III é, \nrespectivamente: \n(A) 7,8; 7,0 e 7,5.  \n(B) 7,2; 7,6 e 7,7.  \n(C) 7,8; 7,5 e 7,6.  \n(D) 7,5; 7,5 e 7,0.  \n(E) 7,8; 7,2 e 7,6.  \n \n \n \n \n \n \n \n QUESTÃO 19 \nEm um determinado jogo de turnos, é permitido \nque o personagem avance em passos \nfracionários. Na primeira rodada o jogador dá 4/3 \nde passo, na segunda rodada dá 8/9 de passo, e na \nterceira rodada dá 16/27. Seguindo esta \nsequência lógica, na quarta rodada qual será o \ntamanho do passo do jogador? \n(A) 16/54. \n(B) 16/49. \n(C) 32/54.  \n(D) 32/81. \n(E) 64/81."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Sabendo que, na figura abaixo, o círculo está \ncentrado em um dos vértices do quadrado, o \ndiâmetro do círculo mede 8 cm e o lado do \nquadrado mede 6 cm. Indique a área sombreada \nna figura: Considere 𝜋 ≈ 3 .",
+            "alternativas": {
+                "A": "10 cm2.",
+                "B": "12 cm2.",
+                "C": "30 cm2.",
+                "D": "6 cm2.",
+                "E": "20 cm2. \n \n \n \n \n \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 7 de 12 QUESTÃO 21 \nEm uma casa há três aparelhos de celular. O \nprimeiro aparelho passa por atualizações de \nsistema a cada 15 dias, o segundo a cada 20 dias \ne o terceiro a cada 30 dias. Suponha que os três \naparelhos foram comprados simultaneamente e \nna hora da compra foram todos atualizados. \nQuantos ciclos de atualização terão sido feitos no \nprimeiro celular quando todos os aparelhos \nforem atualizados simultaneamente pela primeira \nvez? \n(A) 3. \n(B) 4. \n(C) 5. \n(D) 6. \n(E) 10."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Em uma rua, foram plantadas árvores numeradas \nde 1 a 90. As árvores foram distribuídas \nuniformemente ao longo da rua. Se um morador \nquer podar todas as árvores cujo número é um \nmúltiplo de 3 ou um múltiplo de 4, quantas \nárvores ficarão sem poda?",
+            "alternativas": {
+                "A": "12.",
+                "B": "30.",
+                "C": "45.",
+                "D": "33.",
+                "E": "42."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Em uma temporada de colheita, um agricultor \nobteve 4 lotes com milhos de comprimentos \ndiferentes. No lote A foram 50 espigas de 27 cm, \nno lote B foram 100 espigas de 31 cm, no lote C \nmais 100 espigas de 29 cm e no lote D mais 50 \nespigas de 33 cm. Qual a média do comprimento \ndas espigas de milho, em cm, obtidas pelo \nagricultor nesta safra?",
+            "alternativas": {
+                "A": "27.",
+                "B": "28.",
+                "C": "29.",
+                "D": "30.",
+                "E": "31. \n QUESTÃO 24 \nMaria havia plantado um pé de café em seu \nquintal que estava com 25 cm de altura. Sua mãe \nentão lhe disse que se a planta fosse regada a cada \n2 dias por um ano, ela deveria chegar até 250% \ndo seu tamanho atual. Maria então seguiu à risca \no que sua mãe falou. Após passado um ano, \nMaria mediu o seu pé de café e este estava com \n75 cm de altura. Qual a diferença, em cm, entre o \ntamanho prometido pela mãe de Maria e o \ntamanho real do pé de café, no momento da \nmedição? \n(A) 10. \n(B) 11. \n(C) 12,5. \n(D) 15. \n(E) 16,5."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Ao realizar o planejamento de um determinado \nserviço, uma empresa calcula a sua margem de \nlucro como sendo 6% do valor total a ser \ncobrado. O lucro da empresa está dentro das \nDespesas Indiretas do serviço. Sabe-se que as \nDespesas Indiretas no geral representam 30% do \ntotal a ser cobrado. Nesta situação, quantos por \ncento o lucro representa das despesas indiretas?",
+            "alternativas": {
+                "A": "20%.",
+                "B": "25%.",
+                "C": "30%.",
+                "D": "33%.",
+                "E": "15%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: O comprimento e a largura de um retângulo é 5/2 \ncm e 4/3 cm, respectivamente. Se esse \ncomprimento é acrescido de 5/3, e a largura é \nacrescida de 8/5, qual o acréscimo, em cm2, que \nrepresentará na sua área?",
+            "alternativas": {
+                "A": "90/16.",
+                "B": "25/6.",
+                "C": "44/15.",
+                "D": "110/8.",
+                "E": "80/9. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 8 de 12 QUESTÃO 27 \nNo diagrama abaixo, o quadrado representa as \npessoas que gostam de filmes de romance, o \ntriângulo representa as pessoas que gostam de \nfilme de ação e o círculo representa os \nprofessores de matemática. \nCom base no diagrama, é correto afirmar que: \n(A) Não há nenhuma pessoa que goste de filme \nde romance, mas não goste de filme de ação. \n(B) Todo professor de matemática gosta de filme \nde romance. \n(C) Todo professor de matemática gosta de filme \nde ação. \n(D) Todas as pessoas que gostam de filme de \nromance também gostam de filme de ação.  \n(E) Não há nenhum professor de matemática que \ngosta de filmes de romance e ação \nsimultaneamente."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Considere como verdadeira a seguinte \nproposição: \n- Paulo foi ao parque e achou 50 reais \nEntão assinale a alternativa FALSA:",
+            "alternativas": {
+                "A": "Paulo foi ao parque ou não achou 50 reais.",
+                "B": "Se Paulo foi ao parque, então ele não achou \n50 reais.",
+                "C": "Se Paulo não foi ao parque, então ele não \nachou 50 reais.",
+                "D": "Paulo foi ao parque ou achou 50 reais.",
+                "E": "Paulo não foi ao parque e nem achou 50 reais. \n \n \n \n QUESTÃO 29 \nObserve o gráfico que mostra a faixa etária da \npopulação idosa nos anos de 2010 e 2022: \nFonte: poder360.com.br \nCom base no gráfico, indique a razão do número \nde pessoas de 65 a 69 anos entre os anos de 2022 \ne 2010: \n(A) 7,88/4,85. \n(B) 7,88/5,86. \n(C) 7,88/22,19. \n(D) 4,85/3,74.  \n(E) 4,85/7,88."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: João vai todo mês à farmácia comprar remédio \npara a sua mãe. Ele compra um remédio que \nsempre custou R$ 20,00, chamado valor-base. \nCerto dia, ele foi avisado de que a partir do mês \nseguinte, os remédios passariam a sofrer um \naumento mensal no regime de juro simples, onde \no capital inicial é o valor-base. No mês seguinte, \nele comprou o remédio por R$ 21,00. Baseado \nnos valores observados por João, qual é a taxa de \njuros mensal que está sendo aplicada sobre o \nvalor do remédio?",
+            "alternativas": {
+                "A": "15%.",
+                "B": "8%.",
+                "C": "10%.",
+                "D": "12%.",
+                "E": "5%. \n \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 9 de 12 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Ao analisar o contexto das creches, observa-se a \nnecessidade de acolhimento às vivências e aos \nconhecimentos construídos pelas crianças no \nambiente familiar e de sua comunidade e \narticulá-los nas propostas pedagógicas \ntrabalhadas na creche.  \nAssim, é necessário ampliar o universo de \nexperiências, conhecimento e habilidades dessas \ncrianças, diversificando e consolidando novas \naprendizagens. A partir da afirmativa anterior, \ncomo deve ser trabalhada a proposta pedagógica \nem relação à educação familiar, especialmente \nquando se trata dos bebês e crianças bem \npequenas?",
+            "alternativas": {
+                "A": "Trabalhada de forma substitutiva.",
+                "B": "Trabalhada de forma idêntica.",
+                "C": "Trabalhada de forma complementar.",
+                "D": "Trabalhada de forma contrária.",
+                "E": "Trabalhada de forma corretiva."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Ao analisar o desenvolvimento cognitivo das \ncrianças, principalmente, as menores de três \nanos, em relação à aprendizagem do conceito e \npropriedade envolvidos na compreensão de uma \npalavra, é correto afirmar:",
+            "alternativas": {
+                "A": "Para as crianças menores de três anos, é mais \nfácil compreender o significado das palavras que \ntrabalham a questão de propriedades, como por \nexemplo a cor de um objeto.",
+                "B": "Para as crianças menores aprenderem \nqualquer conceito que envolva propriedade, o \nimportante é criar um ambiente que exponha a \ncriança a um número significativo de \nexperiências que possibilitará a memorização do \nconceito, como por exemplo: “criar a sema na do \nvermelho”, no qual será explorada ao máximo \nessa cor.",
+                "C": "Para as crianças menores, a palavra, antes de \ndesempenhar a função de abstração, tem de partir \nda própria experiência sensorial da criança.",
+                "D": "As primeiras etapas do desenvolvimento \nsensorial são construídas pelo contato e \nexperiência com a denominação das \npropriedades das palavras.",
+                "E": "Em qualquer idade, o significado das \npalavras representa um ato de generalização que \nnão modifica com o tempo. \n QUESTÃO 33 \nEntende-se por motricidade ampla aquela que \nenvolve músculos grandes (correr, pular) e por \nmotricidade fina aquela relacionada aos \nmúsculos pequenos como mãos e dedos \n(escrever, montagem com blocos).  \nA partir do enunciado anterior, como devem ser \ntrabalhadas as atividades que envolvem \nmotricidade ampla e fina tão necessárias para o \ndesenvolvimento físico e psicomotor da criança? \n(A) Primeiro, deve-se trabalhar a motricidade \nampla e, posteriormente, com a maturação da \ncriança, iniciar os exercícios de motricidade fina. \n(B) Primeiro, deve-se trabalhar a motricidade \nfina e, posteriormente, com a maturação da \ncriança, iniciar os exercícios de motricidade \nampla. \n(C) Verificar o desenvolvimento físico da criança \npara escolher qual tipo de motricidade deve ser \ntrabalhada primeiro. \n(D) Trabalhar simultaneamente a motricidade \nampla e fina, sem negligenciar nenhuma delas. \n(E) Dividir as crianças em dois grupos: um \ntrabalha-se a motricidade fina e o outro a ampla. \nA cada bimestre, alterna esses grupos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: De acordo com o artigo 3º do Estatuto da Criança \ne do Adolescente, são definidos os direitos \nfundamentais inerentes à pessoa humana. A \nseguir, foram destacados os diversos tipos de \ndesenvolvimento a que se aplica o referido \nartigo. Destaque a alternativa incorreta.",
+            "alternativas": {
+                "A": "intelectual",
+                "B": "moral",
+                "C": "espiritual",
+                "D": "social",
+                "E": "mental \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 10 de 12 QUESTÃO 35 \nOrganizar todas as variáveis presentes no \ncotidiano da creche requer uma proposta \npedagógica que contemple uma sistemática de \nações que não se restringe a um aspecto em si, \nmas que vê o global da realidade vivenciada. \nSobre o referido tema, é correto afirmar: \n(A) O espaço onde as atividades infantis são \nrealizadas deve ser gerenciado de forma neutra. \n(B) As estruturas físicas devem ser planejadas \nobservando estritamente o cuidado com a \nsegurança da criança. \n(C) Organizar o tempo por meio de critérios \npautados na consciência crítica do adulto que \ndeverá estabelecer as prioridades a serem \natendidas, no intuito do proporcionar o cuidado \nnecessário para a criança. \n(D) Compete à equipe de educadores, com a \nparticipação das famílias, planejar as \nexperiências a serem exploradas em observância \nao projeto de Educação elaborado pela \nadministração escolar. \n(E) A transformação coletiva do trabalho docente \ne o aprendizado de diferentes formas de agir \noportuniza novas capacidades profissionais, \nconferindo uma dinâmica nova mesmo para \nsituações que pareçam similares."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Dentro do ambiente que caracteriza as creches, \nalguns cuidados são importantes para assegurar o \ndesenvolvimento da criança. Sobre tais cuidados \nespecíficos para crianças de um a dois anos, é \nimprocedente a afirmativa:",
+            "alternativas": {
+                "A": "Ao longo do período em que a criança estiver \nsob os cuidados da creche, deve ser oferecida \numa variedade de atividades físicas de \nintensidades variadas.",
+                "B": "O período, por exemplo, em carrinhos de \nbebê, cadeiras altas ou nas costas de um cuidador \nnão deve ultrapassar uma hora seguida.",
+                "C": "Recomenda-se que as crianças tenham entre \n11 a 14 horas de sono de boa qualidade, incluindo \ncochilos, com horários regulares para dormir e \nacordar.",
+                "D": "Em momentos de inatividade, é permitido \nque a criança com dois anos assista TV ou \nvídeos, desde que não ultrapasse uma hora.",
+                "E": "Em momentos de inatividade, é permitido \nque a criança de um ano de idade assista TV ou \nvídeos, desde que não ultrapasse meia hora. QUESTÃO 37 \nSobre os jogos para a Educação Infantil, é falsa a \nafirmativa: \n(A) Os eixos estruturantes para a Educação \nInfantil são as interações e as brincadeiras. \n(B) Os jogos podem tanto ser empregados para o \neixo da interação quanto para as brincadeiras. \n(C) Os jogos oportunizam a aprendizagem de \nregras de convivência, respeito ao próprio espaço \ne ao espaço coletivo. \n(D) Os jogos para a Educação Infantil vão de \nencontro à estrutura normativa brasileira para \nessa fase do desenvolvimento da criança. \n(E) Ainda que sejam importantes as brincadeiras \nlivres no ambiente escolar, é necessário também \nestruturar brincadeiras assistidas, como por \nexemplo, os jogos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Apesar de todo aparato de segurança que a creche \npossa oferecer, não é possível assegurar que \nalgum acidente não veia a acontecer. Nesse \nsentido, é muito importante que se tenha certas \nnoções de primeiros socorros que devem ser \ntomadas no intuito de evitar o agravamento da \nsituação. Nesse contexto, algumas medidas são \nsugeridas como as destacadas a seguir, exceto.",
+            "alternativas": {
+                "A": "Lavar a região afetada com água corrente \npara amenizar a dor. Em situações de \nqueimaduras químicas, lave por, pelo menos, 20 \nminutos. Especialmente nos olhos.",
+                "B": "Passar uma pomada anestésica específica \npara queimadura no local, a fim de evitar que o \nagravamento da queimadura e minimizar a dor.",
+                "C": "Proteger o local afetado com pano seco e \nlimpo.",
+                "D": "Remover cuidadosamente os restos de roupas \nque possam conter produtos químicos que \ncausem queimaduras.",
+                "E": "Em caso de queimadura elétrica, antes de \ntocar a vítima, a corrente elétrica terá que ser \ndesligada. \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 11 de 12 QUESTÃO 39 \nA partir dos parâmetros legais estabelecidos pela \nLDB, assinale a alternativa que apresenta um \nerro conceitual, ou seja, que não foi reproduzida \nfielmente de acordo com a referida Lei. \n(A) A Educação Infantil será oferecida em \ncreches, ou entidades equivalentes, para crianças \nde até três anos. \n(B) A Educação Infantil será organizada de \nacordo com a avaliação mediante \nacompanhamento e registro do desenvolvimento \ndas crianças, sem o objetivo de promoção, \nmesmo para o acesso ao ensino fundamental. \n(C) A Educação Infantil será organizada de \nacordo com a carga horária mínima anual de 800 \n(oitocentas) horas diárias por um mínimo de 200 \n(duzentos) dias de trabalho educacional. \n(D) A Educação Infantil será organizada de \nacordo com atendimento à criança de, no mínimo \n4 (quatro) horas diárias para o turno parcial e de \n7 (sete) horas para a jornada integral. \n(E) A Educação Infantil será organizada de \nacordo com controle de frequência pela \ninstituição de educação pré-escolar exigida a \nfrequência mínima de 50% (cinquenta por cento) \ndo total de horas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: A fratura exposta acontece quando existe uma \nferida associada à fratura, podendo ser possível \nobservar o osso ou não. Nesse tipo de situação, o \nque não deve ser feito?",
+            "alternativas": {
+                "A": "Peça assistência especializada, ligando para \n192.",
+                "B": "Explore a região da lesão.",
+                "C": "Se existir sangramento, tente estancá-lo por \nmeio de compressão moderada na região afetada, \na fim de dificultar a circulação do sangue que, \napós cessar o sangramento, deverá ser \nreestabelecida.",
+                "D": "Cubra o local com panos limpos, ou, \npreferencialmente, compressa esterilizada.",
+                "E": "Tente imobilizar as articulações que se \nencontram antes e depois da fratura, por meio de \ntalas improvisadas (barra de metal ou de madeira \npreviamente almofadadas). \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 12 de 12"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1: O texto Versões, de Luís Fernando Verissimo, \nretrata os pensamentos de um personagem acerca \nde cenários possíveis decorrentes de caminhos \nnão tomados em sua vida. As expressões \nlinguísticas que corroboram a construção do \nsentido de hipótese, em relação à imaginação \ndesses cenários, são:",
+            "alternativas": {
+                "A": "os verbos conjugados no presente do modo \nindicativo.",
+                "B": "as orações subordinadas condicionais \nreticentes, iniciadas pela conjunção se.",
+                "C": "os pronomes em primeira pessoa.",
+                "D": "os discursos diretos na narrativa.",
+                "E": "as locuções verbais formadas por um verbo \nno pretérito perfeito do indicativo e um verbo no \nparticípio."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2: A expressão em sentido figurado “por uma \nfábula”, empregada no excerto “Fui vendido para \no futebol europeu, por uma fábula.”, se refere:",
+            "alternativas": {
+                "A": "a uma narrativa imaginária que foi criada em \ntorno do jogador de futebol.",
+                "B": "a uma mentira que lhe foi contada no \npassado.",
+                "C": "à alta quantia de dinheiro envolvida em sua \nvenda para o futebol europeu.",
+                "D": "à baixa quantia de dinheiro envolvida em sua \nvenda para o futebol europeu.",
+                "E": "a um aspecto de sua carreira que foi motivo \nde zombaria por outras pessoas. \n \nConsidere o excerto a seguir para responder \nàs questões 3, 4, 5 e 6: \n \nAgora mesmo neste  bar imaginário em que estou \nbebendo para esquecer o que não fiz — aliás, o \nnome do bar é Imaginário —, sentou um cara do \nmeu lado direito e se apresentou: — Eu sou você, \nse tivesse feito aquele teste no Botafogo. \n \n \n \n \n \n QUESTÃO 03 \nA classe gramatical à qual pertence a palavra \n“aliás”, que ocorre no excerto apresentado, è:  \n(A) substantivo. \n(B) preposição. \n(C) conjunção. \n(D) advérbio. \n(E) adjetivo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3: As palavras em destaque no excerto apresentado \nsão, respectivamente, pronomes dos tipos:",
+            "alternativas": {
+                "A": "relativo, demonstrativo, relativo e indefinido.",
+                "B": "demonstrativo, pessoal, interrogativo e \npessoal.",
+                "C": "demonstrativo, demonstrativo, interrogativo \ne pessoal.",
+                "D": "demonstrativo, pessoal, relativo e indefinido.",
+                "E": "demonstrativo, demonstrativo, relativo e \npessoal."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4: Na sentença “—  Eu sou você, se tivesse feito \naquele teste no Botafogo.”, a função gramatical \ndo vocábulo “se” è:",
+            "alternativas": {
+                "A": "conectar a oração principal à subordinada.",
+                "B": "modificar o pronome de tratamento “você”.",
+                "C": "modificar o verbo “sou”.",
+                "D": "conectar os constituintes intraoracionais \n“você” e “tivesse”.",
+                "E": "modificar o verbo “tivesse”."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5: No contexto dado, a regência do verbo \n“apresentar” è:",
+            "alternativas": {
+                "A": "transitiva direta.",
+                "B": "transitiva indireta.",
+                "C": "transitiva direta e indireta.",
+                "D": "pronominal.",
+                "E": "intransitiva. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 4 de 12 QUESTÃO 07 \nConsidere o excerto: “O barman fez que sim com \na cabeça, tristemente.” Nesse contexto, a \nmodificação do advèrbio “tristemente” incide \nsobre: \n(A) “fez que sim com a cabeça”.  \n(B) “O barman”.   \n(C) “sim”.  \n(D) “com a cabeça”.  \n(E) “que sim”."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 6: As alternativas a seguir apresentam sentenças \nretiradas do texto. Analise-as e assinale aquela \nem que ocorre um verbo conjugado no pretérito \nimperfeito do modo indicativo.",
+            "alternativas": {
+                "A": "Fui vendido para o futebol europeu, por uma \nfábula.",
+                "B": "Eu sou você, se tivesse entrado para o serviço \npúblico.",
+                "C": "Vivemos cercados pelas nossas alternativas, \npelo que podíamos ter sido.",
+                "D": "Ele chutaria para fora.",
+                "E": "Não pude ser mais nada."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7: Considere as palavras apresentadas a seguir, que \nocorrem no texto: \nI. unzinho;  \nII. palidez;  \nIII. desanimado; \nIV. desgraça. \nOs elementos mórficos que constituem cada uma \ndas palavras dadas indicam que foram formadas \npelo processo de derivação sufixal apenas \naquelas apontadas em:",
+            "alternativas": {
+                "A": "I, II e III.",
+                "B": "II, III e IV.",
+                "C": "I, II, III e IV.",
+                "D": "I e II.",
+                "E": "III e IV.  \n QUESTÃO 10 \nAnalise as sentenças a seguir e assinale a \nalternativa em que a palavra destacada é \nantônima  de seu respectivo par indicado entre \nparênteses. \n(A) A solução aquosa e fétida  apresentava \nprovas sobre o assassinato. ( brilhosa ) \n(B) Tem personalidade de perdulário , assim \ncomo seu avô. ( gastador)  \n(C) Ainda que seja intangível, a música é algo \nque se pode sentir. (tátil ) \n(D) É alguém que dá muita importância às coisas \ntacanhas  da vida. ( insignificantes)  \n(E) Paulo foi pervicaz  em sua trajetória. \n(persistente )"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8: Analise as sentenças a seguir e assinale aquela \nem que há inadequação no emprego do(s) \nsinal(is) de pontuação.",
+            "alternativas": {
+                "A": "Quanta liberdade temos na juventude!",
+                "B": "Na festa, os jovens conversavam, dançavam, \npaqueravam, e riam, riam muito.",
+                "C": "Ela deverá decidir por isso, ou todos nos \nrecusaremos a continuar neste trabalho.",
+                "D": "Ela sempre está assim, cheirosa, maquiada, \nelegante.",
+                "E": "Gosto do inverno, mas, os dias quentes \ntambém têm seu valor."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9: Analise as sentenças a seguir e assinale aquela \nem que a(s) forma(s) verbal(is) empregada(s) \nestá(ão) correta(s).",
+            "alternativas": {
+                "A": "Quando sobrepor a carta à mesa, lembre-se \nde prendê-la neste caderno.",
+                "B": "Nós repomos todos os itens do estoque ontem \nà tarde.",
+                "C": "Se você ver Maria nos corredores, avise-a de \nque estou procurando por ela.",
+                "D": "Não houveram motivos que o impedissem de \nlutar por sua amada.",
+                "E": "Eles retiveram o garoto na delegacia. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 5 de 12 QUESTÃO 13 \nAnalise as sentenças a seguir quanto ao emprego \ndo acento indicativo de crase. Assinale a \nalternativa em que o uso desse acento é \nfacultativo. \n(A) O pagamento desta compra será realizado à \nvista. \n(B) Nada sei quanto à última decisão do colégio. \n(C) A reunião de balanço da empresa será \nrealizada às 10h.  \n(D) Durante a apresentação, ele fez duras críticas \nà sua amiga. \n(E) Não estou à mercê de ninguém."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10: Assinale a alternativa em que a forma pluralizada \ndos substantivos compostos está correta, \nconsiderando o emprego do hífen.",
+            "alternativas": {
+                "A": "caças-níqueis.",
+                "B": "estados-membro.",
+                "C": "flores-de-abril.",
+                "D": "cavalos-vapores.",
+                "E": "bananas-das-terras."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11: Analise as sentenças a seguir e assinale a \nalternativa em que se verifica a colocação \npronominal correta, segundo a norma-padrão da \nlíngua portuguesa.",
+            "alternativas": {
+                "A": "Lhe compraram todos os presentes que \nesperava receber.",
+                "B": "Desconheço alguém que interessa-se por \nliteratura.",
+                "C": "Ainda não entreguei-lhe os livros \nemprestados.",
+                "D": "Os exercícios de matemática vão ajudá-lo no \nvestibular.",
+                "E": "Os pais decidiram a colocar nas aulas de \nnatação ainda bebê. \n \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12: Em uma academia, três amigos, André, Bianca e \nCarlos, estão competindo para ver quem \nconsegue levantar mais peso. André consegue \nlevantar 80% do peso que Bianca consegue, \nenquanto Carlos consegue levantar 75% do peso \nque André consegue. Sabendo que a soma dos \npesos levantados é 360 kg, qual a soma do peso \nlevantado por André e Bianca?",
+            "alternativas": {
+                "A": "270 kg.",
+                "B": "120 kg.",
+                "C": "150 kg.",
+                "D": "230 kg.",
+                "E": "190 kg."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13: Marcelo estava fazendo uma pesquisa de preço \npara comprar um celular novo em algumas lojas. \nNa primeira loja que entrou o aparelho custava \nR$ 1200,00. Na segunda loja o preço era um \nterço da primeira mais quinhentos reais. Na \nterceira loja o preço era metade da segunda mais \nmil reais. Qual era a loja com o aparelho mais \nbarato e quanto custava o aparelho na terceira \nloja, respectivamente?",
+            "alternativas": {
+                "A": "Primeira e R$ 1200,00.",
+                "B": "Segunda e R$ 1250,00.",
+                "C": "Terceira e R$ 1450,00.",
+                "D": "Segunda e R$ 1450,00.",
+                "E": "Primeira e R$ 1250,00. \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 6 de 12 QUESTÃO 18 \nPara serem aprovados em um determinado \nvestibular, os candidatos precisam fazer provas \nde Português, Matemática, Conhecimentos \nEspecíficos e uma Redação. As notas finais dos \nestudantes são calculadas com base na média \naritmética ponderada das provas. Os pesos de \ncada prova são respectivamente 3, 3, 3 e 1. \nPorém, a universidade possui também uma regra \ntal que: se a média aritmética simples das notas \nfor maior que a média ponderada, ela passará a \nser a nota final. Considere as notas dos \nparticipantes listados na tabela abaixo: \n \n Estudantes \n I II III \nPortuguês  8 6 9 \nMatemática  7 8 6 \nConhecimentos \nEspecíficos 9 7 8 \nRedação 6 9 7 \n \nA nota final dos estudantes I, II e III é, \nrespectivamente: \n(A) 7,8; 7,0 e 7,5.  \n(B) 7,2; 7,6 e 7,7.  \n(C) 7,8; 7,5 e 7,6.  \n(D) 7,5; 7,5 e 7,0.  \n(E) 7,8; 7,2 e 7,6.  \n \n \n \n \n \n \n \n QUESTÃO 19 \nEm um determinado jogo de turnos, é permitido \nque o personagem avance em passos \nfracionários. Na primeira rodada o jogador dá 4/3 \nde passo, na segunda rodada dá 8/9 de passo, e na \nterceira rodada dá 16/27. Seguindo esta \nsequência lógica, na quarta rodada qual será o \ntamanho do passo do jogador? \n(A) 16/54. \n(B) 16/49. \n(C) 32/54.  \n(D) 32/81. \n(E) 64/81."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14: Sabendo que, na figura abaixo, o círculo está \ncentrado em um dos vértices do quadrado, o \ndiâmetro do círculo mede 8 cm e o lado do \nquadrado mede 6 cm. Indique a área sombreada \nna figura: Considere 𝜋 ≈ 3 .",
+            "alternativas": {
+                "A": "10 cm2.",
+                "B": "12 cm2.",
+                "C": "30 cm2.",
+                "D": "6 cm2.",
+                "E": "20 cm2. \n \n \n \n \n \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 7 de 12 QUESTÃO 21 \nEm uma casa há três aparelhos de celular. O \nprimeiro aparelho passa por atualizações de \nsistema a cada 15 dias, o segundo a cada 20 dias \ne o terceiro a cada 30 dias. Suponha que os três \naparelhos foram comprados simultaneamente e \nna hora da compra foram todos atualizados. \nQuantos ciclos de atualização terão sido feitos no \nprimeiro celular quando todos os aparelhos \nforem atualizados simultaneamente pela primeira \nvez? \n(A) 3. \n(B) 4. \n(C) 5. \n(D) 6. \n(E) 10."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15: Em uma rua, foram plantadas árvores numeradas \nde 1 a 90. As árvores foram distribuídas \nuniformemente ao longo da rua. Se um morador \nquer podar todas as árvores cujo número é um \nmúltiplo de 3 ou um múltiplo de 4, quantas \nárvores ficarão sem poda?",
+            "alternativas": {
+                "A": "12.",
+                "B": "30.",
+                "C": "45.",
+                "D": "33.",
+                "E": "42."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16: Em uma temporada de colheita, um agricultor \nobteve 4 lotes com milhos de comprimentos \ndiferentes. No lote A foram 50 espigas de 27 cm, \nno lote B foram 100 espigas de 31 cm, no lote C \nmais 100 espigas de 29 cm e no lote D mais 50 \nespigas de 33 cm. Qual a média do comprimento \ndas espigas de milho, em cm, obtidas pelo \nagricultor nesta safra?",
+            "alternativas": {
+                "A": "27.",
+                "B": "28.",
+                "C": "29.",
+                "D": "30.",
+                "E": "31. \n QUESTÃO 24 \nMaria havia plantado um pé de café em seu \nquintal que estava com 25 cm de altura. Sua mãe \nentão lhe disse que se a planta fosse regada a cada \n2 dias por um ano, ela deveria chegar até 250% \ndo seu tamanho atual. Maria então seguiu à risca \no que sua mãe falou. Após passado um ano, \nMaria mediu o seu pé de café e este estava com \n75 cm de altura. Qual a diferença, em cm, entre o \ntamanho prometido pela mãe de Maria e o \ntamanho real do pé de café, no momento da \nmedição? \n(A) 10. \n(B) 11. \n(C) 12,5. \n(D) 15. \n(E) 16,5."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17: Ao realizar o planejamento de um determinado \nserviço, uma empresa calcula a sua margem de \nlucro como sendo 6% do valor total a ser \ncobrado. O lucro da empresa está dentro das \nDespesas Indiretas do serviço. Sabe-se que as \nDespesas Indiretas no geral representam 30% do \ntotal a ser cobrado. Nesta situação, quantos por \ncento o lucro representa das despesas indiretas?",
+            "alternativas": {
+                "A": "20%.",
+                "B": "25%.",
+                "C": "30%.",
+                "D": "33%.",
+                "E": "15%."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18: O comprimento e a largura de um retângulo é 5/2 \ncm e 4/3 cm, respectivamente. Se esse \ncomprimento é acrescido de 5/3, e a largura é \nacrescida de 8/5, qual o acréscimo, em cm2, que \nrepresentará na sua área?",
+            "alternativas": {
+                "A": "90/16.",
+                "B": "25/6.",
+                "C": "44/15.",
+                "D": "110/8.",
+                "E": "80/9. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 8 de 12 QUESTÃO 27 \nNo diagrama abaixo, o quadrado representa as \npessoas que gostam de filmes de romance, o \ntriângulo representa as pessoas que gostam de \nfilme de ação e o círculo representa os \nprofessores de matemática. \nCom base no diagrama, é correto afirmar que: \n(A) Não há nenhuma pessoa que goste de filme \nde romance, mas não goste de filme de ação. \n(B) Todo professor de matemática gosta de filme \nde romance. \n(C) Todo professor de matemática gosta de filme \nde ação. \n(D) Todas as pessoas que gostam de filme de \nromance também gostam de filme de ação.  \n(E) Não há nenhum professor de matemática que \ngosta de filmes de romance e ação \nsimultaneamente."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19: Considere como verdadeira a seguinte \nproposição: \n- Paulo foi ao parque e achou 50 reais \nEntão assinale a alternativa FALSA:",
+            "alternativas": {
+                "A": "Paulo foi ao parque ou não achou 50 reais.",
+                "B": "Se Paulo foi ao parque, então ele não achou \n50 reais.",
+                "C": "Se Paulo não foi ao parque, então ele não \nachou 50 reais.",
+                "D": "Paulo foi ao parque ou achou 50 reais.",
+                "E": "Paulo não foi ao parque e nem achou 50 reais. \n \n \n \n QUESTÃO 29 \nObserve o gráfico que mostra a faixa etária da \npopulação idosa nos anos de 2010 e 2022: \nFonte: poder360.com.br \nCom base no gráfico, indique a razão do número \nde pessoas de 65 a 69 anos entre os anos de 2022 \ne 2010: \n(A) 7,88/4,85. \n(B) 7,88/5,86. \n(C) 7,88/22,19. \n(D) 4,85/3,74.  \n(E) 4,85/7,88."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20: João vai todo mês à farmácia comprar remédio \npara a sua mãe. Ele compra um remédio que \nsempre custou R$ 20,00, chamado valor-base. \nCerto dia, ele foi avisado de que a partir do mês \nseguinte, os remédios passariam a sofrer um \naumento mensal no regime de juro simples, onde \no capital inicial é o valor-base. No mês seguinte, \nele comprou o remédio por R$ 21,00. Baseado \nnos valores observados por João, qual é a taxa de \njuros mensal que está sendo aplicada sobre o \nvalor do remédio?",
+            "alternativas": {
+                "A": "15%.",
+                "B": "8%.",
+                "C": "10%.",
+                "D": "12%.",
+                "E": "5%. \n \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 9 de 12 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21: Ao analisar o contexto das creches, observa-se a \nnecessidade de acolhimento às vivências e aos \nconhecimentos construídos pelas crianças no \nambiente familiar e de sua comunidade e \narticulá-los nas propostas pedagógicas \ntrabalhadas na creche.  \nAssim, é necessário ampliar o universo de \nexperiências, conhecimento e habilidades dessas \ncrianças, diversificando e consolidando novas \naprendizagens. A partir da afirmativa anterior, \ncomo deve ser trabalhada a proposta pedagógica \nem relação à educação familiar, especialmente \nquando se trata dos bebês e crianças bem \npequenas?",
+            "alternativas": {
+                "A": "Trabalhada de forma substitutiva.",
+                "B": "Trabalhada de forma idêntica.",
+                "C": "Trabalhada de forma complementar.",
+                "D": "Trabalhada de forma contrária.",
+                "E": "Trabalhada de forma corretiva."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22: Ao analisar o desenvolvimento cognitivo das \ncrianças, principalmente, as menores de três \nanos, em relação à aprendizagem do conceito e \npropriedade envolvidos na compreensão de uma \npalavra, é correto afirmar:",
+            "alternativas": {
+                "A": "Para as crianças menores de três anos, é mais \nfácil compreender o significado das palavras que \ntrabalham a questão de propriedades, como por \nexemplo a cor de um objeto.",
+                "B": "Para as crianças menores aprenderem \nqualquer conceito que envolva propriedade, o \nimportante é criar um ambiente que exponha a \ncriança a um número significativo de \nexperiências que possibilitará a memorização do \nconceito, como por exemplo: “criar a sema na do \nvermelho”, no qual será explorada ao máximo \nessa cor.",
+                "C": "Para as crianças menores, a palavra, antes de \ndesempenhar a função de abstração, tem de partir \nda própria experiência sensorial da criança.",
+                "D": "As primeiras etapas do desenvolvimento \nsensorial são construídas pelo contato e \nexperiência com a denominação das \npropriedades das palavras.",
+                "E": "Em qualquer idade, o significado das \npalavras representa um ato de generalização que \nnão modifica com o tempo. \n QUESTÃO 33 \nEntende-se por motricidade ampla aquela que \nenvolve músculos grandes (correr, pular) e por \nmotricidade fina aquela relacionada aos \nmúsculos pequenos como mãos e dedos \n(escrever, montagem com blocos).  \nA partir do enunciado anterior, como devem ser \ntrabalhadas as atividades que envolvem \nmotricidade ampla e fina tão necessárias para o \ndesenvolvimento físico e psicomotor da criança? \n(A) Primeiro, deve-se trabalhar a motricidade \nampla e, posteriormente, com a maturação da \ncriança, iniciar os exercícios de motricidade fina. \n(B) Primeiro, deve-se trabalhar a motricidade \nfina e, posteriormente, com a maturação da \ncriança, iniciar os exercícios de motricidade \nampla. \n(C) Verificar o desenvolvimento físico da criança \npara escolher qual tipo de motricidade deve ser \ntrabalhada primeiro. \n(D) Trabalhar simultaneamente a motricidade \nampla e fina, sem negligenciar nenhuma delas. \n(E) Dividir as crianças em dois grupos: um \ntrabalha-se a motricidade fina e o outro a ampla. \nA cada bimestre, alterna esses grupos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23: De acordo com o artigo 3º do Estatuto da Criança \ne do Adolescente, são definidos os direitos \nfundamentais inerentes à pessoa humana. A \nseguir, foram destacados os diversos tipos de \ndesenvolvimento a que se aplica o referido \nartigo. Destaque a alternativa incorreta.",
+            "alternativas": {
+                "A": "intelectual",
+                "B": "moral",
+                "C": "espiritual",
+                "D": "social",
+                "E": "mental \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 10 de 12 QUESTÃO 35 \nOrganizar todas as variáveis presentes no \ncotidiano da creche requer uma proposta \npedagógica que contemple uma sistemática de \nações que não se restringe a um aspecto em si, \nmas que vê o global da realidade vivenciada. \nSobre o referido tema, é correto afirmar: \n(A) O espaço onde as atividades infantis são \nrealizadas deve ser gerenciado de forma neutra. \n(B) As estruturas físicas devem ser planejadas \nobservando estritamente o cuidado com a \nsegurança da criança. \n(C) Organizar o tempo por meio de critérios \npautados na consciência crítica do adulto que \ndeverá estabelecer as prioridades a serem \natendidas, no intuito do proporcionar o cuidado \nnecessário para a criança. \n(D) Compete à equipe de educadores, com a \nparticipação das famílias, planejar as \nexperiências a serem exploradas em observância \nao projeto de Educação elaborado pela \nadministração escolar. \n(E) A transformação coletiva do trabalho docente \ne o aprendizado de diferentes formas de agir \noportuniza novas capacidades profissionais, \nconferindo uma dinâmica nova mesmo para \nsituações que pareçam similares."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24: Dentro do ambiente que caracteriza as creches, \nalguns cuidados são importantes para assegurar o \ndesenvolvimento da criança. Sobre tais cuidados \nespecíficos para crianças de um a dois anos, é \nimprocedente a afirmativa:",
+            "alternativas": {
+                "A": "Ao longo do período em que a criança estiver \nsob os cuidados da creche, deve ser oferecida \numa variedade de atividades físicas de \nintensidades variadas.",
+                "B": "O período, por exemplo, em carrinhos de \nbebê, cadeiras altas ou nas costas de um cuidador \nnão deve ultrapassar uma hora seguida.",
+                "C": "Recomenda-se que as crianças tenham entre \n11 a 14 horas de sono de boa qualidade, incluindo \ncochilos, com horários regulares para dormir e \nacordar.",
+                "D": "Em momentos de inatividade, é permitido \nque a criança com dois anos assista TV ou \nvídeos, desde que não ultrapasse uma hora.",
+                "E": "Em momentos de inatividade, é permitido \nque a criança de um ano de idade assista TV ou \nvídeos, desde que não ultrapasse meia hora. QUESTÃO 37 \nSobre os jogos para a Educação Infantil, é falsa a \nafirmativa: \n(A) Os eixos estruturantes para a Educação \nInfantil são as interações e as brincadeiras. \n(B) Os jogos podem tanto ser empregados para o \neixo da interação quanto para as brincadeiras. \n(C) Os jogos oportunizam a aprendizagem de \nregras de convivência, respeito ao próprio espaço \ne ao espaço coletivo. \n(D) Os jogos para a Educação Infantil vão de \nencontro à estrutura normativa brasileira para \nessa fase do desenvolvimento da criança. \n(E) Ainda que sejam importantes as brincadeiras \nlivres no ambiente escolar, é necessário também \nestruturar brincadeiras assistidas, como por \nexemplo, os jogos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25: Apesar de todo aparato de segurança que a creche \npossa oferecer, não é possível assegurar que \nalgum acidente não veia a acontecer. Nesse \nsentido, é muito importante que se tenha certas \nnoções de primeiros socorros que devem ser \ntomadas no intuito de evitar o agravamento da \nsituação. Nesse contexto, algumas medidas são \nsugeridas como as destacadas a seguir, exceto.",
+            "alternativas": {
+                "A": "Lavar a região afetada com água corrente \npara amenizar a dor. Em situações de \nqueimaduras químicas, lave por, pelo menos, 20 \nminutos. Especialmente nos olhos.",
+                "B": "Passar uma pomada anestésica específica \npara queimadura no local, a fim de evitar que o \nagravamento da queimadura e minimizar a dor.",
+                "C": "Proteger o local afetado com pano seco e \nlimpo.",
+                "D": "Remover cuidadosamente os restos de roupas \nque possam conter produtos químicos que \ncausem queimaduras.",
+                "E": "Em caso de queimadura elétrica, antes de \ntocar a vítima, a corrente elétrica terá que ser \ndesligada. \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 11 de 12 QUESTÃO 39 \nA partir dos parâmetros legais estabelecidos pela \nLDB, assinale a alternativa que apresenta um \nerro conceitual, ou seja, que não foi reproduzida \nfielmente de acordo com a referida Lei. \n(A) A Educação Infantil será oferecida em \ncreches, ou entidades equivalentes, para crianças \nde até três anos. \n(B) A Educação Infantil será organizada de \nacordo com a avaliação mediante \nacompanhamento e registro do desenvolvimento \ndas crianças, sem o objetivo de promoção, \nmesmo para o acesso ao ensino fundamental. \n(C) A Educação Infantil será organizada de \nacordo com a carga horária mínima anual de 800 \n(oitocentas) horas diárias por um mínimo de 200 \n(duzentos) dias de trabalho educacional. \n(D) A Educação Infantil será organizada de \nacordo com atendimento à criança de, no mínimo \n4 (quatro) horas diárias para o turno parcial e de \n7 (sete) horas para a jornada integral. \n(E) A Educação Infantil será organizada de \nacordo com controle de frequência pela \ninstituição de educação pré-escolar exigida a \nfrequência mínima de 50% (cinquenta por cento) \ndo total de horas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE DE CRECHE",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26: A fratura exposta acontece quando existe uma \nferida associada à fratura, podendo ser possível \nobservar o osso ou não. Nesse tipo de situação, o \nque não deve ser feito?",
+            "alternativas": {
+                "A": "Peça assistência especializada, ligando para \n192.",
+                "B": "Explore a região da lesão.",
+                "C": "Se existir sangramento, tente estancá-lo por \nmeio de compressão moderada na região afetada, \na fim de dificultar a circulação do sangue que, \napós cessar o sangramento, deverá ser \nreestabelecida.",
+                "D": "Cubra o local com panos limpos, ou, \npreferencialmente, compressa esterilizada.",
+                "E": "Tente imobilizar as articulações que se \nencontram antes e depois da fratura, por meio de \ntalas improvisadas (barra de metal ou de madeira \npreviamente almofadadas). \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nASSISTENTE DE CRECHE                                                                                                                          Página 12 de 12"
+            },
+            "resposta_correta": "E"
+        }
+    ]
+}
