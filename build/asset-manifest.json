@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Concurseira_Pobre/static/css/main.565838d2.css",
-    "main.js": "/Concurseira_Pobre/static/js/main.0975d229.js",
-    "static/js/453.a11aa9eb.chunk.js": "/Concurseira_Pobre/static/js/453.a11aa9eb.chunk.js",
-    "index.html": "/Concurseira_Pobre/index.html",
-    "main.565838d2.css.map": "/Concurseira_Pobre/static/css/main.565838d2.css.map",
-    "main.0975d229.js.map": "/Concurseira_Pobre/static/js/main.0975d229.js.map",
-    "453.a11aa9eb.chunk.js.map": "/Concurseira_Pobre/static/js/453.a11aa9eb.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.565838d2.css",
-    "static/js/main.0975d229.js"
-  ]
+    "main.css": "/ConcurseiraPobre/static/css/main.232fcec8.chunk.css",
+    "main.js": "/ConcurseiraPobre/static/js/main.eac70419.chunk.js",
+    "main.js.map": "/ConcurseiraPobre/static/js/main.eac70419.chunk.js.map",
+    "runtime~main.js": "/ConcurseiraPobre/static/js/runtime~main.5a36b0aa.js",
+    "runtime~main.js.map": "/ConcurseiraPobre/static/js/runtime~main.5a36b0aa.js.map",
+    "static/js/2.dccf2a7e.chunk.js": "/ConcurseiraPobre/static/js/2.dccf2a7e.chunk.js",
+    "static/js/2.dccf2a7e.chunk.js.map": "/ConcurseiraPobre/static/js/2.dccf2a7e.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/ConcurseiraPobre/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/ConcurseiraPobre/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/ConcurseiraPobre/index.html",
+    "precache-manifest.5bf7be53853625b27753b38f34d00942.js": "/ConcurseiraPobre/precache-manifest.5bf7be53853625b27753b38f34d00942.js",
+    "service-worker.js": "/ConcurseiraPobre/service-worker.js",
+    "static/css/main.232fcec8.chunk.css.map": "/ConcurseiraPobre/static/css/main.232fcec8.chunk.css.map"
+  }
 }

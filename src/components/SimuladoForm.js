@@ -34,22 +34,31 @@ const SimuladoForm = () => {
     fetchCargos();
   }, []);
 
-  // Carrega o JSON de questões para o cargo selecionado
   const loadCargoData = async (cargo) => {
     setIsLoading(true);
     setErrorMessage(""); // Reseta a mensagem de erro
     try {
       // Busca o nome do arquivo JSON correspondente ao cargo selecionado
       const cargoFile = cargoOptions[cargo];
+      console.log("Cargo selecionado:", cargo); // Adiciona este log
+      console.log("Arquivo correspondente:", cargoFile); // Adiciona este log
+  
       if (!cargoFile) {
         setErrorMessage("Cargo selecionado não é válido.");
         return;
       }
-
+  
       const response = await fetch(
         `https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/cargos_json/${cargoFile}`
       );
+      
+      // Verifica se a requisição foi bem-sucedida
+      if (!response.ok) {
+        throw new Error('Falha na requisição: ' + response.status);
+      }
+      
       const cargoData = await response.json();
+      console.log("Dados do cargo:", cargoData); // Adiciona este log
       const loadedQuestions = cargoData[cargo] || [];
       setQuestions(loadedQuestions); // Carrega as questões para o cargo
       setTotalQuestions(loadedQuestions.length);
@@ -62,7 +71,7 @@ const SimuladoForm = () => {
       setIsLoading(false);
     }
   };
-
+  
   // Gera as questões aleatórias para o simulado
   const handleGenerateQuestions = (e) => {
     e.preventDefault();
