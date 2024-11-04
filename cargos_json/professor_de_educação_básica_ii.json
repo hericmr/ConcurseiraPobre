@@ -4,13 +4,14 @@
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 1: Ao dizer que “Mas quantas vezes a insônia é um \ndom.” , a narradora refere-se:",
+            "questão": "Questão 1",
+            "enunciado": "Ao dizer que “Mas quantas vezes a insônia é um dom.” , a narradora refere-se: (",
             "alternativas": {
-                "A": "Ao fato de tornar-se mais produtiva no \ntrabalho durante a madrugada.",
-                "B": "Às vantagens da solidão da madrugada, \nexperienciadas em suas noites de insônia.",
-                "C": "Ao tédio que sente por passar a madrugada \ntoda de forma solitária.",
-                "D": "À impressão de passagem mais lenta do \ntempo, o que a permite fazer coisas de que gosta \ncom mais calma.",
-                "E": "À solidão como um recurso criativo para \nescrever e criar."
+                "A": "Ao fato de tornar-se mais produtiva no trabalho durante a madrugada. (",
+                "B": "Às vantagens da solidão da madrugada, experienciadas em suas noites de insônia. (",
+                "C": "Ao tédio que sente por passar a madrugada toda de forma solitária. (",
+                "D": "À impressão de passagem mais lenta do tempo, o que a permite fazer coisas de que gosta com mais calma. (",
+                "E": "À solidão como um recurso criativo para escrever e criar."
             },
             "resposta_correta": "A"
         },
@@ -18,13 +19,14 @@
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 2: Nas sentenças a seguir, retiradas do texto, ocorre \nverbo impessoal apenas em:",
+            "questão": "Questão 2",
+            "enunciado": "Nas sentenças a seguir, retiradas do texto, ocorre verbo impessoal apenas em: (",
             "alternativas": {
-                "A": "E as horas não passam.",
-                "B": "Mas e o vício que nos espreita?",
-                "C": "Ninguém me interrompe o nada.",
-                "D": "Depois vai amanhecendo.",
-                "E": "As nuvens se clareando sob um sol às vezes \npálido como uma lua, às vezes de fogo puro."
+                "A": "E as horas não passam. (",
+                "B": "Mas e o vício que nos espreita? (",
+                "C": "Ninguém me interrompe o nada. (",
+                "D": "Depois vai amanhecendo. (",
+                "E": "As nuvens se clareando sob um sol às vezes pálido como uma lua, às vezes de fogo puro."
             },
             "resposta_correta": "D"
         },
@@ -32,13 +34,14 @@
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 3: Em “ Não, não se pensa.” , o vocábulo ‘se’ \ndesempenha o papel gramatical de:",
+            "questão": "Questão 3",
+            "enunciado": "Em “ Não, não se pensa.” , o vocábulo ‘se’ desempenha o papel gramatical de: (",
             "alternativas": {
-                "A": "conjunção integrante.",
-                "B": "conjunção condicional.",
-                "C": "partícula expletiva.",
-                "D": "partícula apassivadora.",
-                "E": "índice de indeterminação do sujeito. \n \nConsidere o excerto a seguir para responder \nàs questões de 4 a 7:  \n \nE ainda por cima com um desses horríveis \nsubstitutos do açúcar, porque Dr. José Carlos \nCabral de Almeida, dietista, acha que preciso \nperder os quatro quilos que aumentei com a \nsuperalimentação depois do incêndio. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 3 de 14 QUESTÃO 04 \nA locução “ ainda por cima” , que ocorre no \nexcerto dado, classifica-se, do ponto de vista \ngramatical, como: \n(A) locução adjetiva. \n(B) locução adverbial. \n(C) locução prepositiva. \n(D) locução substantiva. \n(E) locução conjuntiva."
+                "A": "conjunção integrante. (",
+                "B": "conjunção condicional. (",
+                "C": "partícula expletiva. (",
+                "D": "partícula apassivadora. (",
+                "E": "índice de indeterminação do sujeito. Considere o excerto a seguir para responder às questões de 4 a 7: E ainda por cima com um desses horríveis substitutos do açúcar, porque Dr. José Carlos Cabral de Almeida, dietista, acha que preciso perder os quatro quilos que aumentei com a superalimentação depois do incêndio. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 3 de 14 QUESTÃO 04 A locução “ ainda por cima” , que ocorre no excerto dado, classifica-se, do ponto de vista gramatical, como: (A) locução adjetiva. (B) locução adverbial. (C) locução prepositiva. (D) locução substantiva. (E) locução conjuntiva."
             },
             "resposta_correta": "D"
         },
@@ -46,55 +49,44 @@
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 4: As ocorrências do vocábulo ‘ que’, destacadas no \nexcerto dado, correspondem, respectivamente, às \nseguintes classes gramaticais:",
+            "questão": "Questão 5",
+            "enunciado": "As ocorrências do vocábulo ‘ que’, destacadas no excerto dado, correspondem, respectivamente, às seguintes classes gramaticais: (",
             "alternativas": {
-                "A": "conjunção integrante e pronome relativo.",
-                "B": "conjunção integrante e conjunção integrante.",
-                "C": "pronome relativo e conjunção integrante.",
-                "D": "pronome relativo e pronome relativo.",
+                "A": "conjunção integrante e pronome relativo. (",
+                "B": "conjunção integrante e conjunção integrante. (",
+                "C": "pronome relativo e conjunção integrante. (",
+                "D": "pronome relativo e pronome relativo. (",
                 "E": "pronome relativo e conjunção causal."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 5: O prefixo apresentado em ‘ superalimentação’ , \npalavra que ocorre no excerto dado, imprime à \nsua palavra primitiva um sentido de:",
+            "questão": "Questão 6",
+            "enunciado": "O prefixo apresentado em ‘ superalimentação’ , palavra que ocorre no excerto dado, imprime à sua palavra primitiva um sentido de: (",
             "alternativas": {
-                "A": "posição.",
-                "B": "modo.",
-                "C": "excesso.",
-                "D": "negação.",
+                "A": "posição. (",
+                "B": "modo. (",
+                "C": "excesso. (",
+                "D": "negação. (",
                 "E": "falta."
             },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "02/2024",
-            "questão": "Questão 6: O termo “dietista” , que ocorre no excerto dado, \nse encontra entre vírgulas porque, na sentença, é \num(a):",
-            "alternativas": {
-                "A": "adjunto adnominal.",
-                "B": "adjunto adverbial.",
-                "C": "aposto.",
-                "D": "vocativo.",
-                "E": "sujeito. \n QUESTÃO 08 \nAssinale a alternativa em que há o emprego \nincorreto de verbo abundante.  \n(A) Os alunos que praticaram bullying  ficaram \nsuspensos por uma semana. \n(B) A prefeitura havia pago todos os ingressos do \nespetáculo para os alunos da escola municipal. \n(C) As botas que estavam sujas de lama foram \nlimpas pela garotinha. \n(D) Sua performance foi eleita a melhor do \nfestival de talentos. \n(E) Ela perguntou se a garota tinha imprimido \ncópias do trabalho."
-            },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 7: Identifique em qual das sentenças a seguir uma \nvírgula é empregada para introduzir uma oração \nsubordinada adjetiva explicativa.",
+            "questão": "Questão 7",
+            "enunciado": "O termo “dietista” , que ocorre no excerto dado, se encontra entre vírgulas porque, na sentença, é um(a): (",
             "alternativas": {
-                "A": "Ana foi logo tratando de resolver o problema, \nenquanto ele ainda não tinha a menor ideia do \nque fazer.",
-                "B": "Conforme instruiu o professor, os alunos \nfinalizaram a prova em quarenta minutos.",
-                "C": "O fim de semana parecia ideal para a viagem, \nse não fosse o clima chuvoso.",
-                "D": "Recém-acordado da cirurgia, o rapaz, que \nnão sabia de toda a história, ficou espantado ao \nouvi-la.",
-                "E": "No inverno, as cores do pôr do Sol costumam \nser menos intensas."
+                "A": "adjunto adnominal. (",
+                "B": "adjunto adverbial. (",
+                "C": "aposto. (",
+                "D": "vocativo. (",
+                "E": "sujeito."
             },
             "resposta_correta": "C"
         },
@@ -102,13 +94,14 @@
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 8: Nas palavras a seguir, identifique aquela em que \nocorre um prefixo indicativo de intensidade.",
+            "questão": "Questão 8",
+            "enunciado": "Assinale a alternativa em que há o emprego incorreto de verbo abundante. (",
             "alternativas": {
-                "A": "avermelhado.",
-                "B": "apatia.",
-                "C": "relutante.",
-                "D": "inevitável.",
-                "E": "desapartar. \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 4 de 14 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "Os alunos que praticaram bullying ficaram suspensos por uma semana. (",
+                "B": "A prefeitura havia pago todos os ingressos do espetáculo para os alunos da escola municipal. (",
+                "C": "As botas que estavam sujas de lama foram limpas pela garotinha. (",
+                "D": "Sua performance foi eleita a melhor do festival de talentos. (",
+                "E": "Ela perguntou se a garota tinha imprimido cópias do trabalho."
             },
             "resposta_correta": "C"
         },
@@ -116,323 +109,481 @@
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 9: Considere o seguinte conjunto de fatos \nconhecidos sobre garotas em uma determinada \ncasa: \n1- Se existe uma garota na sala, então ela \ntem cabelo preto. \n2- Toda garota de cabelo preto tem olhos \ncastanhos. \n3- Não há garotas de olho castanho no \nbanheiro. \n4- Toda garota loira tem namorado. \n5- Existe uma garota no banheiro que tem \nnamorado. \nO que se pode inferir dedutivamente destas \nhipóteses?",
+            "questão": "Questão 9",
+            "enunciado": "Identifique em qual das sentenças a seguir uma vírgula é empregada para introduzir uma oração subordinada adjetiva explicativa. (",
             "alternativas": {
-                "A": "Se uma garota tem olhos verdes, ela não tem \ncabelo preto.",
-                "B": "Existe uma garota de cabelo preto na sala.",
-                "C": "No banheiro existe uma garota loira.",
-                "D": "Se uma garota tem cabelo preto, então ela \nestá na sala.",
+                "A": "Ana foi logo tratando de resolver o problema, enquanto ele ainda não tinha a menor ideia do que fazer. (",
+                "B": "Conforme instruiu o professor, os alunos finalizaram a prova em quarenta minutos. (",
+                "C": "O fim de semana parecia ideal para a viagem, se não fosse o clima chuvoso. (",
+                "D": "Recém-acordado da cirurgia, o rapaz, que não sabia de toda a história, ficou espantado ao ouvi-la. (",
+                "E": "No inverno, as cores do pôr do Sol costumam ser menos intensas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 10",
+            "enunciado": "Nas palavras a seguir, identifique aquela em que ocorre um prefixo indicativo de intensidade. (",
+            "alternativas": {
+                "A": "avermelhado. (",
+                "B": "apatia. (",
+                "C": "relutante. (",
+                "D": "inevitável. (",
+                "E": "desapartar. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 4 de 14 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 11",
+            "enunciado": "Considere o seguinte conjunto de fatos conhecidos sobre garotas em uma determinada casa: 1- Se existe uma garota na sala, então ela tem cabelo preto. 2- Toda garota de cabelo preto tem olhos castanhos. 3- Não há garotas de olho castanho no banheiro. 4- Toda garota loira tem namorado. 5- Existe uma garota no banheiro que tem namorado. O que se pode inferir dedutivamente destas hipóteses? (",
+            "alternativas": {
+                "A": "Se uma garota tem olhos verdes, ela não tem cabelo preto. (",
+                "B": "Existe uma garota de cabelo preto na sala. (",
+                "C": "No banheiro existe uma garota loira. (",
+                "D": "Se uma garota tem cabelo preto, então ela está na sala. (",
                 "E": "Na casa não existem garotas."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 10: Um investidor investe um montante de R$ \n100,00 a juros simples de 50% por mês. Após 4 \nmeses, ele retira o valor final deste investimento \ne guarda 80% do que retirou. Quanto restou sem \nestar guardado?",
+            "questão": "Questão 12",
+            "enunciado": "Um investidor investe um montante de R$ 100,00 a juros simples de 50% por mês. Após 4 meses, ele retira o valor final deste investimento e guarda 80% do que retirou. Quanto restou sem estar guardado? (",
             "alternativas": {
-                "A": "R$ 80.",
-                "B": "R$ 60.",
-                "C": "R$ 100.",
-                "D": "R$ 50.",
-                "E": "R$ 20. \n \n \n \n \n \n QUESTÃO 13 \nEm um triângulo retângulo, a proporção da \nhipotenusa para o maior cateto é 5/4. Sabendo \nque o menor cateto mede 6cm, qual o valor da \nhipotenusa? \n(A) 8 cm.  \n(B) 6 cm. \n(C) 10 cm. \n(D) 4 cm. \n(E) 12 cm."
+                "A": "R$ 80. (",
+                "B": "R$ 60. (",
+                "C": "R$ 100. (",
+                "D": "R$ 50. (",
+                "E": "R$ 20."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "C"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 11: Considere a sequência \n8, 4, 2, 1, 10, 5, 50, 25, 250, ... \nQual o 15º elemento desta sequência?",
+            "questão": "Questão 13",
+            "enunciado": "Em um triângulo retângulo, a proporção da hipotenusa para o maior cateto é 5/4. Sabendo que o menor cateto mede 6cm, qual o valor da hipotenusa? (",
             "alternativas": {
-                "A": "31055.",
-                "B": "35050.",
-                "C": "30255.",
-                "D": "30550.",
+                "A": "8 cm. (",
+                "B": "6 cm. (",
+                "C": "10 cm. (",
+                "D": "4 cm. (",
+                "E": "12 cm."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 14",
+            "enunciado": "Considere a sequência 8, 4, 2, 1, 10, 5, 50, 25, 250, ... Qual o 15º elemento desta sequência? (",
+            "alternativas": {
+                "A": "31055. (",
+                "B": "35050. (",
+                "C": "30255. (",
+                "D": "30550. (",
                 "E": "31250."
             },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 15",
+            "enunciado": "Em uma dada confeitaria, a proporção usada é de 75g de fermento para se obter, ao final, 500g de bolo. Ao longo de um ano, esta confeitaria produziu 3,5 milhões de quilos de bolo. Quantos quilos de fermento foram usados ao longo do ano? (",
+            "alternativas": {
+                "A": "57500000. (",
+                "B": "525000. (",
+                "C": "52500000. (",
+                "D": "575000. (",
+                "E": "555000. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 5 de 14 QUESTÃO 16 Considere os triângulos abaixo, onde as retas da figura são paralelas: Sabendo que o comprimento GF e DE são o mesmo, e FH é maior que GF, assinale a alternativa corre ta com respeito às áreas dos triângulos DEG, DEF e DEH: (A) A área de DEG e a de DEF são iguais, e diferentes da área de DEH. (B) Estes 3 triângulos têm áreas distintas. (C) Estes 3 triângulos têm a mesma área. (D) Não se pode afirmar relação alguma entre as áreas. (E) A área de DEH é menor que a área de DEF."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 17",
+            "enunciado": "No gráfico abaixo, o eixo das ordenadas é o salário médio de uma empresa, em unidades de R$2.500, enquanto o eixo das abscissas representa o mês do qual se extraiu o dado. Sabendo que a variação (do valor) do salário médio entre maio e abril foi a mesma do que a variação entre abril e março, e que a variação do salário médio entre junho e maio foi a mesma do que a variação entre março e fevereiro, qual o salário médio dos empregados em junho? (",
+            "alternativas": {
+                "A": "R$10.000. (",
+                "B": "R$5.000. (",
+                "C": "R$2.500. (",
+                "D": "R$12.500. (",
+                "E": "R$7.500. 00,511,522,533,544,5 Janeiro Fevereiro Março AbrilSalário médio a cada mêsPrefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 6 de 14 QUESTÃO 18 Em um campeonato de xadrez, existem jogadores ruins, médios e bons. A razão de jogadores ruins para jogadores bons é 2/3. A razão de jogadores ruins para jogadores médios é 1/7. Sabemos que temos, no total, 57 jogadores. Quantos jogadores são bons? (A) 6. (B) 8. (C) 15. (D) 9. (E) 42."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 19",
+            "enunciado": "Para decidir qual roupa comprar, um matemático criou uma fórmula. A fórmula criada por ele consistia em uma média ponderada de algumas características. Ele atribuiu peso 4 para o conforto, peso 3 para a estética e peso 3 para o preço. Para cada roupa, essas características foram atribuídas valores de 0 a 10 conforme a tabela abaixo mostra. Sabendo que ele escolherá a roupa que obtiver o maior valor na sua fórmula, qual roupa ele irá escolher? Conforto Estética Preço Roupa 1 6 7 5 Roupa 2 8 9 2 Roupa 3 7 7 6 Roupa 4 5 8 6 Roupa 5 7 5 7 (",
+            "alternativas": {
+                "A": "Roupa 1. (",
+                "B": "Roupa 2. (",
+                "C": "Roupa 3. (",
+                "D": "Roupa 4. (",
+                "E": "Roupa 5."
+            },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 12: Em uma dada confeitaria, a proporção usada é de \n75g de fermento para se obter, ao final, 500g de \nbolo. Ao longo de um ano, esta confeitaria \nproduziu 3,5 milhões de quilos de bolo. Quantos \nquilos de fermento foram usados ao longo do \nano?",
+            "questão": "Questão 20",
+            "enunciado": "Considere que se sabe apenas dos seguintes fatos, tidos como verdadeiros: 1. Vacas não voam. 2. Porcos não voam. 3. Todas as borboletas são insetos. 4. Todo homem casado não é solteiro. 5. Todos os insetos são animais. Utilizando apenas os fatos que foram dados e as regras lógicas, marque a alternativa que NÃO é uma verdade necessária logicamente: (",
             "alternativas": {
-                "A": "57500000.",
-                "B": "525000.",
-                "C": "52500000.",
-                "D": "575000.",
-                "E": "555000. \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 5 de 14 QUESTÃO 16 \nConsidere os triângulos abaixo, onde as retas da figura são paralelas: \n \nSabendo que o comprimento GF e DE são o mesmo, e FH é maior que GF, assinale a alternativa corre ta \ncom respeito às áreas dos triângulos DEG, DEF e DEH: \n(A) A área de DEG e a de DEF são iguais, e diferentes da área de DEH.  \n(B) Estes 3 triângulos têm áreas distintas.  \n(C) Estes 3 triângulos têm a mesma área. \n(D) Não se pode afirmar relação alguma entre as áreas. \n(E) A área de DEH é menor que a área de DEF."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "02/2024",
-            "questão": "Questão 13: No gráfico abaixo, o eixo das ordenadas é o salário médio de uma empresa, em unidades de R$2.500, \nenquanto o eixo das abscissas representa o mês do qual se extraiu o dado. Sabendo que a variação (do \nvalor) do salário médio entre maio e abril foi a mesma do que a variação entre abril e março, e que a \nvariação do salário médio entre junho e maio foi a mesma do que a variação entre março e fevereiro, \nqual o salário médio dos empregados em junho?",
-            "alternativas": {
-                "A": "R$10.000.",
-                "B": "R$5.000.",
-                "C": "R$2.500.",
-                "D": "R$12.500.",
-                "E": "R$7.500. \n00,511,522,533,544,5\nJaneiro Fevereiro Março AbrilSalário médio a cada mêsPrefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 6 de 14 QUESTÃO 18 \nEm um campeonato de xadrez, existem jogadores \nruins, médios e bons. A razão de jogadores ruins \npara jogadores bons é 2/3. A razão de jogadores \nruins para jogadores médios é 1/7. Sabemos que \ntemos, no total, 57 jogadores. Quantos jogadores \nsão bons? \n(A) 6.  \n(B) 8. \n(C) 15. \n(D) 9. \n(E) 42."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "02/2024",
-            "questão": "Questão 14: Para decidir qual roupa comprar, um matemático \ncriou uma fórmula. A fórmula criada por ele \nconsistia em uma média ponderada de algumas \ncaracterísticas. Ele atribuiu peso 4 para o \nconforto, peso 3 para a estética e peso 3 para o \npreço. Para cada roupa, essas características \nforam atribuídas valores de 0 a 10 conforme a \ntabela abaixo mostra. Sabendo que ele escolherá \na roupa que obtiver o maior valor na sua fórmula, \nqual roupa ele irá escolher? \n Conforto Estética Preço \nRoupa 1 6 7 5 \nRoupa 2 8 9 2 \nRoupa 3 7 7 6 \nRoupa 4 5 8 6 \nRoupa 5 7 5 7",
-            "alternativas": {
-                "A": "Roupa 1.",
-                "B": "Roupa 2.",
-                "C": "Roupa 3.",
-                "D": "Roupa 4.",
-                "E": "Roupa 5. \n \n \n \n QUESTÃO 20 \nConsidere que se sabe apenas dos seguintes fatos, \ntidos como verdadeiros: \n1. Vacas não voam. \n2. Porcos não voam. \n3. Todas as borboletas são insetos. \n4. Todo homem casado não é solteiro. \n5. Todos os insetos são animais. \nUtilizando apenas os fatos que foram dados e as \nregras lógicas, marque a alternativa que NÃO é \numa verdade necessária logicamente: \n(A) Se vacas voam, então porcos voam.  \n(B) Todas as borboletas são animais.  \n(C) Porcos voam ou Vacas não voam. \n(D) Se um homem é solteiro, então ele não é \ncasado. \n(E) Existe um animal que não é uma borboleta. \n \nNOÇÕES DE INFORMÁTICA"
+                "A": "Se vacas voam, então porcos voam. (",
+                "B": "Todas as borboletas são animais. (",
+                "C": "Porcos voam ou Vacas não voam. (",
+                "D": "Se um homem é solteiro, então ele não é casado. (",
+                "E": "Existe um animal que não é uma borboleta. NOÇÕES DE INFORMÁTICA"
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 15: No Windows é o nome dado a uma estrutura \nutilizada para organizar arquivos em um \ncomputador:",
+            "questão": "Questão 21",
+            "enunciado": "No Windows é o nome dado a uma estrutura utilizada para organizar arquivos em um computador: (",
             "alternativas": {
-                "A": "Mouse.",
-                "B": "Tela.",
-                "C": "Periférico.",
-                "D": "Pasta.",
+                "A": "Mouse. (",
+                "B": "Tela. (",
+                "C": "Periférico. (",
+                "D": "Pasta. (",
                 "E": "Auxiliares."
             },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 22",
+            "enunciado": "Qual das pastas a seguir é local que armazena temporariamente os arquivos excluídos no Sistema Operacional Windows: (",
+            "alternativas": {
+                "A": "Downloads. (",
+                "B": "Lixeira. (",
+                "C": "Imagens. (",
+                "D": "Nuvem. (",
+                "E": "Fontes de dados. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 7 de 14 QUESTÃO 23 Qual dos seguintes atalhos de teclado é amplamente reconhecido e utilizado para desfazer a ação mais recente executada pelo usuário no Windows? (A) Ctrl + C. (B) Ctrl + A. (C) Ctrl + S (D) Ctrl + T. (E) Ctrl + Z."
+            },
             "resposta_correta": "A"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 16: Qual das pastas a seguir é local que armazena \ntemporariamente os arquivos excluídos no \nSistema Operacional Windows:",
+            "questão": "Questão 24",
+            "enunciado": "As extensões de arquivos são sufixos acrescentados ao nome dos arquivos para mostrar o tipo de dado que eles contêm e o programa necessário para abri-los. Analise as alternativas a seguir e assine-la a extensão que faz referência a um arquivo de texto simples, sem formatação: (",
             "alternativas": {
-                "A": "Downloads.",
-                "B": "Lixeira.",
-                "C": "Imagens.",
-                "D": "Nuvem.",
-                "E": "Fontes de dados. \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 7 de 14 QUESTÃO 23 \nQual dos seguintes atalhos de teclado é \namplamente reconhecido e utilizado para \ndesfazer a ação mais recente executada pelo \nusuário no Windows?  \n(A) Ctrl + C. \n(B) Ctrl + A. \n(C) Ctrl + S \n(D) Ctrl + T. \n(E) Ctrl + Z."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "02/2024",
-            "questão": "Questão 17: As extensões de arquivos são sufixos \nacrescentados ao nome dos arquivos para mostrar \no tipo de dado que eles contêm e o programa \nnecessário para abri-los. \nAnalise as alternativas a seguir e assine-la a \nextensão que faz referência a um arquivo de texto \nsimples, sem formatação:",
-            "alternativas": {
-                "A": ".cpo",
-                "B": ".ogx",
-                "C": ".olx",
-                "D": ".xll.",
+                "A": ".cpo (",
+                "B": ".ogx (",
+                "C": ".olx (",
+                "D": ".xll. (",
                 "E": ".txt"
             },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "02/2024",
-            "questão": "Questão 18: Assinale a opção que indica corretamente qual é \no programa do Sistema Operacional Windows \nutilizado para abrir arquivos com extensão .XLS:",
-            "alternativas": {
-                "A": "Microsoft Acrobat.",
-                "B": "Microsoft Eclipse.",
-                "C": "Microsoft PowerPoint.",
-                "D": "Microsoft Excel.",
-                "E": "Microsoft Dell. \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
-            },
             "resposta_correta": "C"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 19: Ao analisar as contribuições dos teóricos, \nobserva-se o papel relevante que cada um \ndesempenha em função dos estudos \ndesenvolvidos que corroboram para ampliar a \ncompreensão do desenvolvimento humano. Em \nrelação à teoria piagetiana, destaque a alternativa \ncorreta.",
+            "questão": "Questão 25",
+            "enunciado": "Assinale a opção que indica corretamente qual é o programa do Sistema Operacional Windows utilizado para abrir arquivos com extensão .XLS: (",
             "alternativas": {
-                "A": "O saber é um atributo que se encontra \npresente em todas as fases de desenvolvimento \ndo indivíduo, desde de seu nascimento.",
-                "B": "Ao longo do processo de desenvolvimento, a \ncriança assimila o modelo de mundo que \nrepresenta a realidade que deverá ser vivenciada \npor ela.",
-                "C": "Ao adquirir a tomada de consciência e de \npensamento, o indivíduo vivencia o processo de \naprendizagem denominado experiência concreta.",
-                "D": "A experiência física, segundo Piaget, \nrepresenta o estágio no qual a criança usa o tato \npara compreender o mundo ao seu redor.",
-                "E": "Dentro do processo de desenvolvimento \nintelectual, a adaptação, na visão piagetiana, é \ncompreendida como o estado de equilíbrio entre \no indivíduo e o meio."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "02/2024",
-            "questão": "Questão 20: Dentro da perspectiva de Vygotsky, observe os \nconceitos posteriores e assinale a alternativa que \ncondiz com as seguintes especificidades: “é \npossível medir não só o processo de \ndesenvolvimento até o momento presente e os \nprocessos de maturação que já se produziram, \nmas também os processos que estão ocorrendo \nainda, que só agora estão em processo de \nmaturação e desenvolvimento”.",
-            "alternativas": {
-                "A": "Zona de desenvolvimento proximal",
-                "B": "Zona de desenvolvimento potencial",
-                "C": "Interindividualidade por intermédio da \nrelação mediada",
-                "D": "Aprendizagem intrapsíquica",
-                "E": "Níveis interpsicológico e intrapsicológico \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 8 de 14 QUESTÃO 28 \nDentro da pedagogia defendida por Freinet, qual \ndeveria ser a centralidade das ações a serem \ntomadas dentro do universo educacional? \n(A) criança \n(B) professor \n(C) ambiente educacional \n(D) conteúdos ministrados \n(E) interação escola e comunidade"
+                "A": "Microsoft Acrobat. (",
+                "B": "Microsoft Eclipse. (",
+                "C": "Microsoft PowerPoint. (",
+                "D": "Microsoft Excel. (",
+                "E": "Microsoft Dell. CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 21: Sobre a pedagogia histórico-crítica, é falsa a \nseguinte afirmativa:",
+            "questão": "Questão 26",
+            "enunciado": "Ao analisar as contribuições dos teóricos, observa-se o papel relevante que cada um desempenha em função dos estudos desenvolvidos que corroboram para ampliar a compreensão do desenvolvimento humano. Em relação à teoria piagetiana, destaque a alternativa correta. (",
             "alternativas": {
-                "A": "A pedagogia histórico-crítica vai de encontro \nà concepção dialética, especialmente na versão \ndo materialismo histórico.",
-                "B": "A pedagogia histórico-crítica possui fortes \nafinidades com a psicologia histórico-cultural \ndesenvolvida pela Escola de Vygotsky.",
-                "C": "A prática social é considerada \nsimultaneamente como o ponto de partida e o \nponto de chegada da prática educativa.",
-                "D": "Aos momentos intermediários do método \ncabe identificar as questões suscitadas por três \nelementos principais: problematização, \ninstrumentalização e catarse.",
-                "E": "A educação constitui o ato de produzir, direta \ne indiretamente, em cada indivíduo singular, a \nhumanidade que é produzida histórica e \ncoletivamente pelo conjunto dos homens. \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 30 \nAo analisar o desenvolvimento humano, a partir \nda teoria piagetiana, assinale F (falso e V \n(verdadeiro) e, posteriormente, marque a \nalternativa correspondente. \n[...] A equilibração é considerada a categoria \nfundamental para o desenvolvimento humano, \numa vez que todo organismo necessita viver em \nestado de equilíbrio com o meio. \n[...] O meio suscita situações novas, desafiadoras \ne conflitantes nos organismos, causando \ndesequilíbrios que em certas circunstância \ncausam empecilhos para o desenvolvimento \nhumano. \n[...] Na teoria de Piaget, a acomodação ocorre \nquando um organismo, sem alterar as suas \nestruturas mentais, procura significado, a partir \nde experiências anteriores, para compreender um \nnovo conflito e desequilíbrio. \n[...] A assimilação e a acomodação ocorrem em \nmomentos distintos, tendo como objetivo a \nresolução dos conflitos. \n[...] Piaget identificou quatro estágios \nconsecutivos do desenvolvimento humano: \nsensório-motor, pré-operatório, operatório \nconcreto e operatório formal. Cada um desses \nestágios tem características próprias, engloba e \namplia o estágio anterior. \n(A) V, V, V, V, V \n(B) V, F, F, F, V \n(C) V, F, V, V, F \n(D) F, V, F, V, F \n(E) V, V, F, F, V \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 9 de 14 QUESTÃO 31 \nDe acordo com Piaget, o lado inferencial da \nequilibração corresponde à interação sistêmica \nque produz a novidade cognitiva, um nível de \nsignificação que se transforma em outro. Essas \ninferências dialéticas apresentam as cinco \nmodalidades abaixo descritas. Nesse sentido, \nassinale a modalidade com condiz com os \nseguintes aspectos: “propriedade antes \nconsiderada pelo sujeito como absoluta ou \nisolada das outras passa a ser considerada como \nparte de um sistema de interdependências”.  \n(A) Passagem da indiferenciação inicial das \npropriedades. \n(B) Articulação de sistemas. \n(C) Interações entre sujeito e objeto. \n(D) Relativização. \n(E) Construção do conhecimento (proativo e \nretroativo)."
+                "A": "O saber é um atributo que se encontra presente em todas as fases de desenvolvimento do indivíduo, desde de seu nascimento. (",
+                "B": "Ao longo do processo de desenvolvimento, a criança assimila o modelo de mundo que representa a realidade que deverá ser vivenciada por ela. (",
+                "C": "Ao adquirir a tomada de consciência e de pensamento, o indivíduo vivencia o processo de aprendizagem denominado experiência concreta. (",
+                "D": "A experiência física, segundo Piaget, representa o estágio no qual a criança usa o tato para compreender o mundo ao seu redor. (",
+                "E": "Dentro do processo de desenvolvimento intelectual, a adaptação, na visão piagetiana, é compreendida como o estado de equilíbrio entre o indivíduo e o meio."
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 22: O desenvolvimento humano é analisado de \nacordo com perspectivas diferentes que são \npautadas em teorias específicas que se \nrelacionam com proposições básicas. Dentro da \nperspectiva cognitiva, observe as seguintes \nproposições básicas: “ mudanças qualitativas no \npensamento ocorrem entre infância e \nadolescência; as crianças são iniciadoras ativas \ndo desenvolvimento ”. As proposições \nanteriormente descritas referem-se a qual das \nteorias abaixo?",
+            "questão": "Questão 27",
+            "enunciado": "Dentro da perspectiva de Vygotsky, observe os conceitos posteriores e assinale a alternativa que condiz com as seguintes especificidades: “é possível medir não só o processo de desenvolvimento até o momento presente e os processos de maturação que já se produziram, mas também os processos que estão ocorrendo ainda, que só agora estão em processo de maturação e desenvolvimento”. (",
             "alternativas": {
-                "A": "Teoria psicossocial",
-                "B": "Teoria da aprendizagem tradicional",
-                "C": "Teoria dos estágios cognitivos",
-                "D": "Teoria sociocognitiva",
-                "E": "Teoria do apego \n \n \n \n \n QUESTÃO 33 \nAlguns aspectos correspondentes à atuação \ninclusiva para alunos com necessidades \neducacionais especiais foram destacados a \nseguir. Assinale a alternativa que possui um \naspecto incorreto, ou seja, um dado que contradiz \na teoria. \n(A) As limitações em suas mais variadas formas: \nfísica, intelectual, social, emocional e linguística \nnão podem impedir o direito que todas as \ncrianças possuem de serem acomodadas na \nescola regular. \n(B) As diferenças humanas devem ser \ncompreendidas como algo normal à natureza de \ncada indivíduo. \n(C) Deve-se adaptar a criança aos aspectos que \ncompõem a natureza do processo de \naprendizagem. \n(D) Uma pedagogia inclusiva é centrada na \ncriança, no intuito de satisfazer suas \nnecessidades. \n(E) Escolas que possuem educação inclusiva \naprimoram a eficiência e, em última instância, o \ncusto da eficácia de todo o sistema educacional."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "02/2024",
-            "questão": "Questão 23: Em conformidade com o artigo 5º da Lei das \nDiretrizes e Bases da Educação, destaque a única \nalternativa que foi elaborada seguindo \nliteralmente o instrumento legal em questão.",
-            "alternativas": {
-                "A": "O acesso à educação básica obrigatória é um \ndireito público irrevogável, que pode ser exigido \npor qualquer indivíduo.",
-                "B": "O poder público, na esfera de sua \ncompetência federativa, deverá controlar a \nfrequência dos alunos matriculados.",
-                "C": "Em todas as esferas administrativas, o Poder \nPúblico assegurará o acesso ao ensino \nobrigatório em todos os níveis e modalidades de \nensino.",
-                "D": "Comprovada a negligência da autoridade \ncompetente para garantir o oferecimento do \nensino obrigatório, poderá ela ser imputada por \ncrime especial.",
-                "E": "Para garantir o cumprimento da \nobrigatoriedade de ensino, o Poder Público criará \nformas alternativas de acesso aos diferentes \nníveis de ensino, independentemente da \nescolarização anterior. \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 10 de 14 QUESTÃO 35 \nUm dos aspectos que são amplamente estudados \nna literatura, em relação ao desenvolvimento \ninfantil, é a importância do brincar, das \nbrincadeiras e dos jogos. Dentro desse universo, \nsão verdadeiras as seguintes afirmativas, salvo: \n(A) O brincar corrobora para o desenvolvimento \ndas habilidades amplas e finas. \n(B) As crianças mais novas somente conseguem \npensar a partir do seu universo particular, sendo \nque esse período é chamado por Piaget de estágio \ndo pensamento pré-operacional. \n(C) Em relação ao desenvolvimento afetivo, \ndurante os anos iniciais da infância, observa-se a \nprevalência específica de uma tarefa \nsocioemocional fundamental: senso de \nautonomia. \n(D) O brincar das crianças representa o modo \nprimário por meio da qual elas aprendem sobre \nseus corpos e potencialidades de movimento. \n(E) Dentro da concepção lógica das crianças em \nidade pr é-escolar, as suas conclusões não \nprecisam de justificativas."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "02/2024",
-            "questão": "Questão 24: Para promover o bom convívio escolar, por meio \nda mediação de conflitos, é necessário saber \ndiscernir o que caracteriza os conflitos. Assim, \nsão características dos conflitos, afora:",
-            "alternativas": {
-                "A": "O conflito pode ser analisado por meio da \ndimensão que se divide em absoluta ou relativa.",
-                "B": "A intensidade é uma característica que indica \no grau de intenção ou capacidade dos envolvidos \nde resistirem até as últimas consequências em um \nconflito.",
-                "C": "A violência é o extremo da intensidade.",
-                "D": "O conflito que obedece às regras é \ncaracterizado por provocar ajustes e reformas no \nsistema social estabelecido.",
-                "E": "O conflito sobre a regra social estabelecida é \naquele que provocará uma ruptura no sistema ou \numa revolução. \n \n QUESTÃO 37 \nTomando por base as concepções de Vygotsky \nsobre o papel do brincar no desenvolvimento \ninfantil, leia os enunciados posteriores e marque \na alternativa correta. \nI – A brincadeira é uma linguagem natural da \ncriança que evolui à medida que o \ndesenvolvimento cognitivo acontece. \nII – O desenvolvimento infantil é o estágio que \nencabeça a aprendizagem. \nIII – Brincadeira e aprendizagem possuem \nconcepções diferentes que estão relacionadas \ncom os objetivos específicos de cada uma dessas \nduas ações. \nIV – A espontaneidade que caracteriza a \nbrincadeira é um aspecto crucial para o \ndesenvolvimento infantil. \nV - A oportunidade de escolha que caracteriza as \nbrincadeiras contribui para tornar a criança mais \nobservadora e crítica, não aceitando ser \nfacilmente comandada. \n(A) Todas alternativas são verdadeiras. \n(B) Apenas as alternativas II e III são falsas. \n(C) Apenas a alternativa I é falsa. \n(D) Apenas as alternativas IV e V são falsas. \n(E) Apenas a alternativa III é falsa."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "02/2024",
-            "questão": "Questão 25: Sobre a avaliação somativa, é pertinente afirmar:",
-            "alternativas": {
-                "A": "A avaliação somativa tem como um de seus \npropósitos informar sobre rendimentos de \naprendizagem.",
-                "B": "Classificar os alunos ao fim de um semestre, \nano letivo ou curso, segundo os níveis de \naproveitamento é um dos propósitos da avaliação \nsomativa.",
-                "C": "Um dos propósitos da avaliação somativa é \ndeterminar a presença ou ausência de habilidades \nou pré-requisitos.",
-                "D": "A avaliação somativa deve ser feita durante \no processo.",
-                "E": "A ficha de observação é o principal \ninstrumento que deve ser empregado na \navaliação somativa. \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 11 de 14 QUESTÃO 39 \nLeia os enunciados abaixo e destaque a \nalternativa que possui um aspecto incorreto em \nrelação à educação inclusiva. \n(A) A escola especial não é mais considerada \ncomo o espaço primário para a educação das \ncrianças com necessidades especiais. \n(B) A educação especial deve ser compreendida \ncomo um sistema paralelo à educação regular, ou \nseja, que traz uma abordagem substitutiva que \npreenche as brechas porventura deixadas. \n(C) Um dos principais desafios é encontrar \nmetodologias de ensino e recursos diferenciados \nque assegurem a efetividade da atividade \npedagógica em prol da obtenção dos objetivos \ncurriculares básicos propostos às crianças com \nnecessidades educativas especiais. \n(D) As relações interpessoais devem receber uma \natenção especial, uma vez que sua efetividade \ncorrobora para a criação de um ambiente \ninclusivo. \n(E) A verdadeira reabilitação só pode ser \nalcançada mediante o desenvolvimento \ncompensatório das formas superiores de \natividades intelectuais informadas culturalmente."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "02/2024",
-            "questão": "Questão 26: As abordagens pedagógicas para o ensino na \neducação infantil e fundamental são pautadas em \ndiversos instrumentos normativos. Um desses \ninstrumentos retrata as diretrizes curriculares \nnacionais a serem observadas na educação \nbásica. Dentro dessa sistemática, a dimensão \narticuladora das diretrizes curriculares, \ncompondo as três etapas e as modalidades da \neducação básica, é articulada por meio da \nindissociabilidade de dois conceitos referenciais, \ndestaque-os:",
-            "alternativas": {
-                "A": "Alfabetização e letramento",
-                "B": "Conhecimento dedutivo e indutivo",
-                "C": "Cuidar e educar",
-                "D": "Cognição e psicomotricidade",
-                "E": "Cidadania e formação para o trabalho \n QUESTÃO 41 \nLeia os enunciados posteriores, foram destacados \nalguns aspectos referentes à avaliação da \naprendizagem na educação infantil. Assinale a \nalternativa que traz um dado incorreto. \n(A) As fontes para o estabelecimento de \nindicadores de avaliação educacional devem \nconsiderar as teorias concernentes ao \ndesenvolvimento infantil já elaboradas. \n(B) A classificação das crianças, dentro de uma \nescala de méritos e valores, é vista como uma \nforma de canalizar o seu desenvolvimento a \npartir de uma ação autorrelizadora. \n(C) As análises integrantes da avaliação são, a \num só tempo, situacionais e provisórias. \n(D) Avaliar a educação infantil implica detectar \nmudanças em competências das crianças que \npossam ser atribuídas tanto ao trabalho realizado \nna creche e pré-escola quanto à articulação \ndessas instituições com o cotidiano familiar. \n(E) A categorização, o registro, a classificação e \na mensuração das observações realizadas são os \npassos fundamentais a serem construídos ao \nlongo do exame de melhores caminhos para \navaliar as aprendizagens das crianças."
+                "A": "Zona de desenvolvimento proximal (",
+                "B": "Zona de desenvolvimento potencial (",
+                "C": "Interindividualidade por intermédio da relação mediada (",
+                "D": "Aprendizagem intrapsíquica (",
+                "E": "Níveis interpsicológico e intrapsicológico Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 8 de 14 QUESTÃO 28 Dentro da pedagogia defendida por Freinet, qual deveria ser a centralidade das ações a serem tomadas dentro do universo educacional? (A) criança (B) professor (C) ambiente educacional (D) conteúdos ministrados (E) interação escola e comunidade"
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 27: Ao analisar alguns aspectos relativos à \nintegração da escola com as famílias, é \nimpertinente a seguinte afirmativa:",
+            "questão": "Questão 29",
+            "enunciado": "Sobre a pedagogia histórico-crítica, é falsa a seguinte afirmativa: (",
             "alternativas": {
-                "A": "A integração entre a escola e a família deve \nater-se aos aspectos específicos da vida \neducacional do aluno.",
-                "B": "Às vezes, os professores relutam em envolver \nas famílias na escolarização. São vários os \nmotivos, dentre eles, é possível citar: o medo de \nperder a autoridade e a autonomia na sala de aula.",
-                "C": "As experiências negativas vivenciadas pelos \npais no ambiente escolar criam barreiras para o \nenvolvimento desses pais nas atividades \ndesenvolvidas pelas instituições de ensino.",
-                "D": "É função dos professores manterem os pais \ninformados sobre o rendimento escolar de seus \nfilhos.",
-                "E": "Os pais podem atuar como voluntários nas \nsalas de aula e na escola. \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 12 de 14 QUESTÃO 43 \nOs resultados obtidos por cada educando sofrem \ninfluências de variáveis diversas. O \nplanejamento de aulas e atividades pedagógicas \ndepende da compreensão entre a relação \nexistente entre uma dada ação e suas \nconsequências. Assim, o planejamento \ncuidadoso do ambiente físico é parte integrante \nda boa gestão da sala de aula. Vale destacar que \no planejamento do ambiente físico atua em \ndiferentes vertentes. No caso específico da \nseguinte ação: “personalização do espaço da sala \nde aula de modo que ele comunique informação \nadequada sobre o professor, os alunos e a \ndisciplina ministrada”, tal ação está trabalhando \nqual dos aspectos a seguir? \n(A) Segurança e abrigo \n(B) Contato social \n(C) Instrumentalidade de tarefas \n(D) Identificação simbólica \n(E) Prazer"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "02/2024",
-            "questão": "Questão 28: Tomando por base a ética profissional no \nexercício da docência, destaque a alternativa que \ntraz um erro conceitual.",
-            "alternativas": {
-                "A": "A base da capacidade humana de instituir-se \ncomo sujeito ético é o trabalho como práxis.",
-                "B": "A escola é considerada um lugar privilegiado \npara a concretização do ideal de humanidade \nconstruído em torno dos valores da democracia, \nda justiça, da paz e da solidariedade.",
-                "C": "Professores críticos precisam ter um \ncomprometimento ético em que a virtude está nos \nprincípios que defendem e nos exemplos morais \nque transmitem aos seus educandos.",
-                "D": "Somente uma educação que vai de encontro \naos valores egocêntricos que poderá fazer surgir \numa nova ética social capaz de conciliar direitos \nindividuais com responsabilidades interpessoais \ne coletivas.",
-                "E": "Uma vez que a ética precisa ser ensinada, a \neducação assume um papel protagonista, pois \nauxilia o indivíduo na adoção das práticas éticas \nem seu dia a dia. QUESTÃO 45 \nDe acordo com o artigo 32 da LDB, “o ensino \nfundamental obrigatório, com duração de 9 \n(nove) anos, gratuito na escola pública, \niniciando-se aos 6 (seis) anos de idade, terá por \nobjetivo a formação básica do cidadão, mediante \n[...]”. Dentro desse contexto, destaque a \nalternativa que completaria corretamente o \nenunciado anterior. \n(A) o desenvolvimento da capacidade de \naprender, tendo como meios básicos as \nhabilidades cognitivas e psicomotoras. \n(B) a compreensão dos aspectos que \ncaracterizam o sistema sociopolítico que \nfundamenta a sociedade. \n(C) a formação contínua do educando, tendo em \nvista a aquisição da capacidade de leitura, escrita \ne raciocínio lógico. \n(D) o fortalecimento dos vínculos de família, dos \nlaços de solidariedade humana e de tolerância \nrecíproca em que se assenta a vida educacional \nde cada indivíduo. \n(E) o desenvolvimento da capacidade de \naprendizagem, tendo em vista a aquisição de \nconhecimentos e habilidades e a formação de \natitudes e valores."
+                "A": "A pedagogia histórico-crítica vai de encontro à concepção dialética, especialmente na versão do materialismo histórico. (",
+                "B": "A pedagogia histórico-crítica possui fortes afinidades com a psicologia histórico-cultural desenvolvida pela Escola de Vygotsky. (",
+                "C": "A prática social é considerada simultaneamente como o ponto de partida e o ponto de chegada da prática educativa. (",
+                "D": "Aos momentos intermediários do método cabe identificar as questões suscitadas por três elementos principais: problematização, instrumentalização e catarse. (",
+                "E": "A educação constitui o ato de produzir, direta e indiretamente, em cada indivíduo singular, a humanidade que é produzida histórica e coletivamente pelo conjunto dos homens."
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 29: Dentro da atuação inclusiva, qual dos conceitos a \nseguir faz referência ao processo por meio do \nqual os professores satisfazem as necessidades de \nprogresso curricular através de seleção de \nmétodos pedagógicos apropriados que \ncombinem com as estratégias individuais de \naprendizagem de uma criança, em um contexto \nde trabalho de grupo?",
+            "questão": "Questão 30",
+            "enunciado": "Ao analisar o desenvolvimento humano, a partir da teoria piagetiana, assinale F (falso e V (verdadeiro) e, posteriormente, marque a alternativa correspondente. [...] A equilibração é considerada a categoria fundamental para o desenvolvimento humano, uma vez que todo organismo necessita viver em estado de equilíbrio com o meio. [...] O meio suscita situações novas, desafiadoras e conflitantes nos organismos, causando desequilíbrios que em certas circunstância causam empecilhos para o desenvolvimento humano. [...] Na teoria de Piaget, a acomodação ocorre quando um organismo, sem alterar as suas estruturas mentais, procura significado, a partir de experiências anteriores, para compreender um novo conflito e desequilíbrio. [...] A assimilação e a acomodação ocorrem em momentos distintos, tendo como objetivo a resolução dos conflitos. [...] Piaget identificou quatro estágios consecutivos do desenvolvimento humano: sensório-motor, pré-operatório, operatório concreto e operatório formal. Cada um desses estágios tem características próprias, engloba e amplia o estágio anterior. (",
             "alternativas": {
-                "A": "Homogeneização",
-                "B": "Heterogeneidade",
-                "C": "Diferenciação",
-                "D": "Padronização",
-                "E": "Conformidade \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 13 de 14 QUESTÃO 47 \nPara que as necessidades dos alunos com \nnecessidades educacionais especiais sejam \natendidas, é importante que alguns ajustes sejam \nrealizados no âmbito educacional. No caso \nespecífico do professor, é possível depreender, \nafora: \n(A) Criar condições físicas, ambientais e \nmateriais que corroborem para assegurar a \nparticipação do aluno com necessidades \nespeciais na sala de aula. \n(B) Favorecer os melhores níveis de \ncomunicação e de interação do aluno com as \npessoas com as quais convive na comunidade \nescolar. \n(C) Adaptar materiais de uso comum em sala de \naula. \n(D) Para atender às necessidades especiais \ncomuns em alunos com altas habilidades, deve-\nse explicar e discutir sobre sentimentos de \nsuperioridade, rejeição dos demais colegas e de \nisolamento, em prol da construção de um \nambiente mais favorável à consecução de \nrelações sociais estáveis. \n(E) Ratificar a importância do oralismo em sala \nde aula como primeira modalidade de língua, \nobjetivando assegurar que todos consigam se \nexpressar."
+                "A": "V, V, V, V, V (",
+                "B": "V, F, F, F, V (",
+                "C": "V, F, V, V, F (",
+                "D": "F, V, F, V, F (",
+                "E": "V, V, F, F, V Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 9 de 14 QUESTÃO 31 De acordo com Piaget, o lado inferencial da equilibração corresponde à interação sistêmica que produz a novidade cognitiva, um nível de significação que se transforma em outro. Essas inferências dialéticas apresentam as cinco modalidades abaixo descritas. Nesse sentido, assinale a modalidade com condiz com os seguintes aspectos: “propriedade antes considerada pelo sujeito como absoluta ou isolada das outras passa a ser considerada como parte de um sistema de interdependências”. (A) Passagem da indiferenciação inicial das propriedades. (B) Articulação de sistemas. (C) Interações entre sujeito e objeto. (D) Relativização. (E) Construção do conhecimento (proativo e retroativo)."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 32",
+            "enunciado": "O desenvolvimento humano é analisado de acordo com perspectivas diferentes que são pautadas em teorias específicas que se relacionam com proposições básicas. Dentro da perspectiva cognitiva, observe as seguintes proposições básicas: “ mudanças qualitativas no pensamento ocorrem entre infância e adolescência; as crianças são iniciadoras ativas do desenvolvimento ”. As proposições anteriormente descritas referem-se a qual das teorias abaixo? (",
+            "alternativas": {
+                "A": "Teoria psicossocial (",
+                "B": "Teoria da aprendizagem tradicional (",
+                "C": "Teoria dos estágios cognitivos (",
+                "D": "Teoria sociocognitiva (",
+                "E": "Teoria do apego"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 33",
+            "enunciado": "Alguns aspectos correspondentes à atuação inclusiva para alunos com necessidades educacionais especiais foram destacados a seguir. Assinale a alternativa que possui um aspecto incorreto, ou seja, um dado que contradiz a teoria. (",
+            "alternativas": {
+                "A": "As limitações em suas mais variadas formas: física, intelectual, social, emocional e linguística não podem impedir o direito que todas as crianças possuem de serem acomodadas na escola regular. (",
+                "B": "As diferenças humanas devem ser compreendidas como algo normal à natureza de cada indivíduo. (",
+                "C": "Deve-se adaptar a criança aos aspectos que compõem a natureza do processo de aprendizagem. (",
+                "D": "Uma pedagogia inclusiva é centrada na criança, no intuito de satisfazer suas necessidades. (",
+                "E": "Escolas que possuem educação inclusiva aprimoram a eficiência e, em última instância, o custo da eficácia de todo o sistema educacional."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 34",
+            "enunciado": "Em conformidade com o artigo 5º da Lei das Diretrizes e Bases da Educação, destaque a única alternativa que foi elaborada seguindo literalmente o instrumento legal em questão. (",
+            "alternativas": {
+                "A": "O acesso à educação básica obrigatória é um direito público irrevogável, que pode ser exigido por qualquer indivíduo. (",
+                "B": "O poder público, na esfera de sua competência federativa, deverá controlar a frequência dos alunos matriculados. (",
+                "C": "Em todas as esferas administrativas, o Poder Público assegurará o acesso ao ensino obrigatório em todos os níveis e modalidades de ensino. (",
+                "D": "Comprovada a negligência da autoridade competente para garantir o oferecimento do ensino obrigatório, poderá ela ser imputada por crime especial. (",
+                "E": "Para garantir o cumprimento da obrigatoriedade de ensino, o Poder Público criará formas alternativas de acesso aos diferentes níveis de ensino, independentemente da escolarização anterior. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 10 de 14 QUESTÃO 35 Um dos aspectos que são amplamente estudados na literatura, em relação ao desenvolvimento infantil, é a importância do brincar, das brincadeiras e dos jogos. Dentro desse universo, são verdadeiras as seguintes afirmativas, salvo: (A) O brincar corrobora para o desenvolvimento das habilidades amplas e finas. (B) As crianças mais novas somente conseguem pensar a partir do seu universo particular, sendo que esse período é chamado por Piaget de estágio do pensamento pré-operacional. (C) Em relação ao desenvolvimento afetivo, durante os anos iniciais da infância, observa-se a prevalência específica de uma tarefa socioemocional fundamental: senso de autonomia. (D) O brincar das crianças representa o modo primário por meio da qual elas aprendem sobre seus corpos e potencialidades de movimento. (E) Dentro da concepção lógica das crianças em idade pr é-escolar, as suas conclusões não precisam de justificativas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 36",
+            "enunciado": "Para promover o bom convívio escolar, por meio da mediação de conflitos, é necessário saber discernir o que caracteriza os conflitos. Assim, são características dos conflitos, afora: (",
+            "alternativas": {
+                "A": "O conflito pode ser analisado por meio da dimensão que se divide em absoluta ou relativa. (",
+                "B": "A intensidade é uma característica que indica o grau de intenção ou capacidade dos envolvidos de resistirem até as últimas consequências em um conflito. (",
+                "C": "A violência é o extremo da intensidade. (",
+                "D": "O conflito que obedece às regras é caracterizado por provocar ajustes e reformas no sistema social estabelecido. (",
+                "E": "O conflito sobre a regra social estabelecida é aquele que provocará uma ruptura no sistema ou uma revolução."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 37",
+            "enunciado": "Tomando por base as concepções de Vygotsky sobre o papel do brincar no desenvolvimento infantil, leia os enunciados posteriores e marque a alternativa correta. I – A brincadeira é uma linguagem natural da criança que evolui à medida que o desenvolvimento cognitivo acontece. II – O desenvolvimento infantil é o estágio que encabeça a aprendizagem. III – Brincadeira e aprendizagem possuem concepções diferentes que estão relacionadas com os objetivos específicos de cada uma dessas duas ações. IV – A espontaneidade que caracteriza a brincadeira é um aspecto crucial para o desenvolvimento infantil. V - A oportunidade de escolha que caracteriza as brincadeiras contribui para tornar a criança mais observadora e crítica, não aceitando ser facilmente comandada. (",
+            "alternativas": {
+                "A": "Todas alternativas são verdadeiras. (",
+                "B": "Apenas as alternativas II e III são falsas. (",
+                "C": "Apenas a alternativa I é falsa. (",
+                "D": "Apenas as alternativas IV e V são falsas. (",
+                "E": "Apenas a alternativa III é falsa."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 38",
+            "enunciado": "Sobre a avaliação somativa, é pertinente afirmar: (",
+            "alternativas": {
+                "A": "A avaliação somativa tem como um de seus propósitos informar sobre rendimentos de aprendizagem. (",
+                "B": "Classificar os alunos ao fim de um semestre, ano letivo ou curso, segundo os níveis de aproveitamento é um dos propósitos da avaliação somativa. (",
+                "C": "Um dos propósitos da avaliação somativa é determinar a presença ou ausência de habilidades ou pré-requisitos. (",
+                "D": "A avaliação somativa deve ser feita durante o processo. (",
+                "E": "A ficha de observação é o principal instrumento que deve ser empregado na avaliação somativa. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 11 de 14 QUESTÃO 39 Leia os enunciados abaixo e destaque a alternativa que possui um aspecto incorreto em relação à educação inclusiva. (A) A escola especial não é mais considerada como o espaço primário para a educação das crianças com necessidades especiais. (B) A educação especial deve ser compreendida como um sistema paralelo à educação regular, ou seja, que traz uma abordagem substitutiva que preenche as brechas porventura deixadas. (C) Um dos principais desafios é encontrar metodologias de ensino e recursos diferenciados que assegurem a efetividade da atividade pedagógica em prol da obtenção dos objetivos curriculares básicos propostos às crianças com necessidades educativas especiais. (D) As relações interpessoais devem receber uma atenção especial, uma vez que sua efetividade corrobora para a criação de um ambiente inclusivo. (E) A verdadeira reabilitação só pode ser alcançada mediante o desenvolvimento compensatório das formas superiores de atividades intelectuais informadas culturalmente."
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 30: Quando se analisam os termos: verificar e avaliar \ndentro do processo de ensino e aprendizagem, é \npossível observar que uma variável é considerada \ncomo o elemento-chave que diferencia esses dois \nprocessos (verificação e avaliação da \naprendizagem). Assim, qual seria essa variável?",
+            "questão": "Questão 40",
+            "enunciado": "As abordagens pedagógicas para o ensino na educação infantil e fundamental são pautadas em diversos instrumentos normativos. Um desses instrumentos retrata as diretrizes curriculares nacionais a serem observadas na educação básica. Dentro dessa sistemática, a dimensão articuladora das diretrizes curriculares, compondo as três etapas e as modalidades da educação básica, é articulada por meio da indissociabilidade de dois conceitos referenciais, destaque-os: (",
             "alternativas": {
-                "A": "atribuição de valor aos dados",
-                "B": "obtenção de dados",
-                "C": "análise de dados",
-                "D": "síntese de dados",
-                "E": "observação de dados \n \n QUESTÃO 49 \nSobre diversidade e inclusão, são verdadeiras as \nseguintes asserções, salvo: \n(A) A diversidade compreende uma variedade de \nfatores que possuem naturezas distintas e que \nsomados constituem a pluralidade dos \nindivíduos. \n(B) A forma como cada indivíduo lida com os \nproblemas vivenciados compreende a \ndiversidade cognitiva. \n(C) Para tentar atender às diversidades que \ncaracterizam cada ser humano, são destacadas as \nações inclusivas que visam mudar \ncomportamentos e condições em relação às \nsingularidades que caracterizam as diversidades \nde pessoas. \n(D) Dentre as formas de diversidade, a \nexperiencial - baseada nas experiências de vida \nque moldam o nosso emocional - é a mais \ntrabalhada e lembrada em função da sua relação \ncom a inclusão. \n(E) A diversidade representa a representatividade \nassumida pelos indivíduos diversos."
+                "A": "Alfabetização e letramento (",
+                "B": "Conhecimento dedutivo e indutivo (",
+                "C": "Cuidar e educar (",
+                "D": "Cognição e psicomotricidade (",
+                "E": "Cidadania e formação para o trabalho"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 41",
+            "enunciado": "Leia os enunciados posteriores, foram destacados alguns aspectos referentes à avaliação da aprendizagem na educação infantil. Assinale a alternativa que traz um dado incorreto. (",
+            "alternativas": {
+                "A": "As fontes para o estabelecimento de indicadores de avaliação educacional devem considerar as teorias concernentes ao desenvolvimento infantil já elaboradas. (",
+                "B": "A classificação das crianças, dentro de uma escala de méritos e valores, é vista como uma forma de canalizar o seu desenvolvimento a partir de uma ação autorrelizadora. (",
+                "C": "As análises integrantes da avaliação são, a um só tempo, situacionais e provisórias. (",
+                "D": "Avaliar a educação infantil implica detectar mudanças em competências das crianças que possam ser atribuídas tanto ao trabalho realizado na creche e pré-escola quanto à articulação dessas instituições com o cotidiano familiar. (",
+                "E": "A categorização, o registro, a classificação e a mensuração das observações realizadas são os passos fundamentais a serem construídos ao longo do exame de melhores caminhos para avaliar as aprendizagens das crianças."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "02/2024",
-            "questão": "Questão 31: Sobre o uso de recursos tecnológicos (TIC- \ntecnologias de comunicação e informação) em \nsala de aula, é impertinente afirmar:",
+            "questão": "Questão 42",
+            "enunciado": "Ao analisar alguns aspectos relativos à integração da escola com as famílias, é impertinente a seguinte afirmativa: (",
             "alternativas": {
-                "A": "A inclusão das TIC em sala de aula corrobora \npara o processo de aprendizagem em conjunto.",
-                "B": "As TIC oportunizam a construção de saberes \npor meio da interconectividade, o que possibilita \nmitigar as limitações sociais e culturais.",
-                "C": "Dentro da contemporaneidade, as tecnologias \ndevem ser compreendidas como a ferramenta \nprincipal para o processo de ensino-\naprendizagem.",
-                "D": "O professor deve atuar como um mediador \nno processo de aprendizagem do aluno.",
-                "E": "Para que os meios tecnológicos estejam \npresentes na vida escolar e sejam efetivos dentro \ndo processo de ensino e aprendizagem, é \nnecessário que os alunos e professores saibam \ncomo usar as tecnologias disponíveis de maneira \ncorreta. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024                              INSTITUTO AVANÇA SÃO PAULO \n \nPROFESSOR DE EDUCAÇÃO BÁSICA II                                                                                                 Página 14 de 14"
+                "A": "A integração entre a escola e a família deve ater-se aos aspectos específicos da vida educacional do aluno. (",
+                "B": "Às vezes, os professores relutam em envolver as famílias na escolarização. São vários os motivos, dentre eles, é possível citar: o medo de perder a autoridade e a autonomia na sala de aula. (",
+                "C": "As experiências negativas vivenciadas pelos pais no ambiente escolar criam barreiras para o envolvimento desses pais nas atividades desenvolvidas pelas instituições de ensino. (",
+                "D": "É função dos professores manterem os pais informados sobre o rendimento escolar de seus filhos. (",
+                "E": "Os pais podem atuar como voluntários nas salas de aula e na escola. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 12 de 14 QUESTÃO 43 Os resultados obtidos por cada educando sofrem influências de variáveis diversas. O planejamento de aulas e atividades pedagógicas depende da compreensão entre a relação existente entre uma dada ação e suas consequências. Assim, o planejamento cuidadoso do ambiente físico é parte integrante da boa gestão da sala de aula. Vale destacar que o planejamento do ambiente físico atua em diferentes vertentes. No caso específico da seguinte ação: “personalização do espaço da sala de aula de modo que ele comunique informação adequada sobre o professor, os alunos e a disciplina ministrada”, tal ação está trabalhando qual dos aspectos a seguir? (A) Segurança e abrigo (B) Contato social (C) Instrumentalidade de tarefas (D) Identificação simbólica (E) Prazer"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 44",
+            "enunciado": "Tomando por base a ética profissional no exercício da docência, destaque a alternativa que traz um erro conceitual. (",
+            "alternativas": {
+                "A": "A base da capacidade humana de instituir-se como sujeito ético é o trabalho como práxis. (",
+                "B": "A escola é considerada um lugar privilegiado para a concretização do ideal de humanidade construído em torno dos valores da democracia, da justiça, da paz e da solidariedade. (",
+                "C": "Professores críticos precisam ter um comprometimento ético em que a virtude está nos princípios que defendem e nos exemplos morais que transmitem aos seus educandos. (",
+                "D": "Somente uma educação que vai de encontro aos valores egocêntricos que poderá fazer surgir uma nova ética social capaz de conciliar direitos individuais com responsabilidades interpessoais e coletivas. (",
+                "E": "Uma vez que a ética precisa ser ensinada, a educação assume um papel protagonista, pois auxilia o indivíduo na adoção das práticas éticas em seu dia a dia. QUESTÃO 45 De acordo com o artigo 32 da LDB, “o ensino fundamental obrigatório, com duração de 9 (nove) anos, gratuito na escola pública, iniciando-se aos 6 (seis) anos de idade, terá por objetivo a formação básica do cidadão, mediante [...]”. Dentro desse contexto, destaque a alternativa que completaria corretamente o enunciado anterior. (A) o desenvolvimento da capacidade de aprender, tendo como meios básicos as habilidades cognitivas e psicomotoras. (B) a compreensão dos aspectos que caracterizam o sistema sociopolítico que fundamenta a sociedade. (C) a formação contínua do educando, tendo em vista a aquisição da capacidade de leitura, escrita e raciocínio lógico. (D) o fortalecimento dos vínculos de família, dos laços de solidariedade humana e de tolerância recíproca em que se assenta a vida educacional de cada indivíduo. (E) o desenvolvimento da capacidade de aprendizagem, tendo em vista a aquisição de conhecimentos e habilidades e a formação de atitudes e valores."
             },
             "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 46",
+            "enunciado": "Dentro da atuação inclusiva, qual dos conceitos a seguir faz referência ao processo por meio do qual os professores satisfazem as necessidades de progresso curricular através de seleção de métodos pedagógicos apropriados que combinem com as estratégias individuais de aprendizagem de uma criança, em um contexto de trabalho de grupo? (",
+            "alternativas": {
+                "A": "Homogeneização (",
+                "B": "Heterogeneidade (",
+                "C": "Diferenciação (",
+                "D": "Padronização (",
+                "E": "Conformidade Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 13 de 14 QUESTÃO 47 Para que as necessidades dos alunos com necessidades educacionais especiais sejam atendidas, é importante que alguns ajustes sejam realizados no âmbito educacional. No caso específico do professor, é possível depreender, afora: (A) Criar condições físicas, ambientais e materiais que corroborem para assegurar a participação do aluno com necessidades especiais na sala de aula. (B) Favorecer os melhores níveis de comunicação e de interação do aluno com as pessoas com as quais convive na comunidade escolar. (C) Adaptar materiais de uso comum em sala de aula. (D) Para atender às necessidades especiais comuns em alunos com altas habilidades, deve- se explicar e discutir sobre sentimentos de superioridade, rejeição dos demais colegas e de isolamento, em prol da construção de um ambiente mais favorável à consecução de relações sociais estáveis. (E) Ratificar a importância do oralismo em sala de aula como primeira modalidade de língua, objetivando assegurar que todos consigam se expressar."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 48",
+            "enunciado": "Quando se analisam os termos: verificar e avaliar dentro do processo de ensino e aprendizagem, é possível observar que uma variável é considerada como o elemento-chave que diferencia esses dois processos (verificação e avaliação da aprendizagem). Assim, qual seria essa variável? (",
+            "alternativas": {
+                "A": "atribuição de valor aos dados (",
+                "B": "obtenção de dados (",
+                "C": "análise de dados (",
+                "D": "síntese de dados (",
+                "E": "observação de dados"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 49",
+            "enunciado": "Sobre diversidade e inclusão, são verdadeiras as seguintes asserções, salvo: (",
+            "alternativas": {
+                "A": "A diversidade compreende uma variedade de fatores que possuem naturezas distintas e que somados constituem a pluralidade dos indivíduos. (",
+                "B": "A forma como cada indivíduo lida com os problemas vivenciados compreende a diversidade cognitiva. (",
+                "C": "Para tentar atender às diversidades que caracterizam cada ser humano, são destacadas as ações inclusivas que visam mudar comportamentos e condições em relação às singularidades que caracterizam as diversidades de pessoas. (",
+                "D": "Dentre as formas de diversidade, a experiencial - baseada nas experiências de vida que moldam o nosso emocional - é a mais trabalhada e lembrada em função da sua relação com a inclusão. (",
+                "E": "A diversidade representa a representatividade assumida pelos indivíduos diversos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE EDUCAÇÃO BÁSICA II",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "02/2024",
+            "questão": "Questão 50",
+            "enunciado": "Sobre o uso de recursos tecnológicos (TIC- tecnologias de comunicação e informação) em sala de aula, é impertinente afirmar: (",
+            "alternativas": {
+                "A": "A inclusão das TIC em sala de aula corrobora para o processo de aprendizagem em conjunto. (",
+                "B": "As TIC oportunizam a construção de saberes por meio da interconectividade, o que possibilita mitigar as limitações sociais e culturais. (",
+                "C": "Dentro da contemporaneidade, as tecnologias devem ser compreendidas como a ferramenta principal para o processo de ensino- aprendizagem. (",
+                "D": "O professor deve atuar como um mediador no processo de aprendizagem do aluno. (",
+                "E": "Para que os meios tecnológicos estejam presentes na vida escolar e sejam efetivos dentro do processo de ensino e aprendizagem, é necessário que os alunos e professores saibam como usar as tecnologias disponíveis de maneira correta. Prefeitura Municipal de Sete Barras – Concurso Público - 02/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE EDUCAÇÃO BÁSICA II Página 14 de 14"
+            },
+            "resposta_correta": "D"
         }
     ]
 }

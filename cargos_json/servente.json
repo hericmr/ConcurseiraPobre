@@ -4,13 +4,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: O que motivou a raposa a tentar alcançar as uvas \nna árvore?",
+            "questão": "Questão 1",
+            "enunciado": "O que motivou a raposa a tentar alcançar as uvas na árvore? (",
             "alternativas": {
-                "A": "A presença de outros animais observando -a.",
-                "B": "Seu desejo por algo refrescante e diferente do \ncomum.",
-                "C": "Sua necessidade urgente de alimento devido \nà fome.",
-                "D": "A competição com os pássaros para alcançar \nas uvas.",
-                "E": "A intenção de provar sua agilidade como uma \nraposa."
+                "A": "A presença de outros animais observando -a. (",
+                "B": "Seu desejo por algo refrescante e diferente do comum. (",
+                "C": "Sua necessidade urgente de alimento devido à fome. (",
+                "D": "A competição com os pássaros para alcançar as uvas. (",
+                "E": "A intenção de provar sua agilidade como uma raposa."
             },
             "resposta_correta": "B"
         },
@@ -18,13 +19,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: Qual é o propósito da declaração da raposa ao \npássaro no final do texto?",
+            "questão": "Questão 2",
+            "enunciado": "Qual é o propósito da declaração da raposa ao pássaro no final do texto? (",
             "alternativas": {
-                "A": "A raposa busca consolo e compreensão do \npássaro.",
-                "B": "A raposa tenta explicar sua inabilidade de \nalcançar ao dizer que as uvas estavam maduras.",
-                "C": "A raposa procura justificar sua desistência ao \nalegar que as uvas estavam verdes.",
-                "D": "A raposa expressa seu desejo de compartilhar \nas uvas com o pássaro.",
-                "E": "A raposa acusa o pássaro de zombar dela \ndurante suas tentativas."
+                "A": "A raposa busca consolo e compreensão do pássaro. (",
+                "B": "A raposa tenta explicar sua inabilidade de alcançar ao dizer que as uvas estavam maduras. (",
+                "C": "A raposa procura justificar sua desistência ao alegar que as uvas estavam verdes. (",
+                "D": "A raposa expressa seu desejo de compartilhar as uvas com o pássaro. (",
+                "E": "A raposa acusa o pássaro de zombar dela durante suas tentativas."
             },
             "resposta_correta": "C"
         },
@@ -32,12 +34,13 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 3: A palavra \"cansada\" no trecho \"Cansada pelo \nesforço\" é um sinônimo de qual outra palavra no \nmesmo contexto?",
+            "questão": "Questão 3",
+            "enunciado": "A palavra \"cansada\" no trecho \"Cansada pelo esforço\" é um sinônimo de qual outra palavra no mesmo contexto? (",
             "alternativas": {
-                "A": "Frustrada.",
-                "B": "Corrida.",
-                "C": "Saltada.",
-                "D": "Exausta.",
+                "A": "Frustrada. (",
+                "B": "Corrida. (",
+                "C": "Saltada. (",
+                "D": "Exausta. (",
                 "E": "Resignada"
             },
             "resposta_correta": "D"
@@ -46,13 +49,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 4: Qual é a classe de palavras da palavra \"esgotada\" \nno trecho \"Esgotada e resignada\"?",
+            "questão": "Questão 4",
+            "enunciado": "Qual é a classe de palavras da palavra \"esgotada\" no trecho \"Esgotada e resignada\"? (",
             "alternativas": {
-                "A": "Substantivo.",
-                "B": "Adjetivo.",
-                "C": "Numeral.",
-                "D": "Pronome.",
-                "E": "Verbo.  \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 3 de 9 QUESTÃO 0 5 \nDe acordo com a fábula, qual é a razão pela qual \na raposa não pegou as uvas  \n(A) A raposa estava muito enérgica, embora sem \nenergia para pular.  \n(B) As uvas estavam verdes e muito difíceis de \nalcançar.  \n(C) A raposa era boa demais para pular e subir \nem árvores.  \n(D) As uvas estavam mais altas do que a raposa \nimaginava e conseguia alcançar.  \n(E) A raposa não estava realmente interessada em \ncomer as uvas."
+                "A": "Substantivo. (",
+                "B": "Adjetivo. (",
+                "C": "Numeral. (",
+                "D": "Pronome. (",
+                "E": "Verbo. Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 3 de 9 QUESTÃO 0 5 De acordo com a fábula, qual é a razão pela qual a raposa não pegou as uvas (A) A raposa estava muito enérgica, embora sem energia para pular. (B) As uvas estavam verdes e muito difíceis de alcançar. (C) A raposa era boa demais para pular e subir em árvores. (D) As uvas estavam mais altas do que a raposa imaginava e conseguia alcançar. (E) A raposa não estava realmente interessada em comer as uvas."
             },
             "resposta_correta": "B"
         },
@@ -60,83 +64,59 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 5: 6 \nQual dos seguintes termos é um exemplo de \nadjetivo pátrio?",
+            "questão": "Questão 0",
+            "enunciado": "Qual dos seguintes termos é um exemplo de adjetivo pátrio? (",
             "alternativas": {
-                "A": "Feliz",
-                "B": "Canadense",
-                "C": "Rápido",
-                "D": "Inteligente",
+                "A": "Feliz (",
+                "B": "Canadense (",
+                "C": "Rápido (",
+                "D": "Inteligente (",
                 "E": "Bonito"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "Não encontrada"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 6: 7 \n \n \nCom base nas falas da personagem Mafalda na \ntirinha, o que ela está expressando sobre a \nsituação do país?",
+            "questão": "Questão 0",
+            "enunciado": "Com base nas falas da personagem Mafalda na tirinha, o que ela está expressando sobre a situação do país? (",
             "alternativas": {
-                "A": "Mafalda está destacando que a crise do país \ndiminuiu ao longo do tempo.",
-                "B": "Mafalda está ironicamente expressando \notimismo sobre a situação atual do país em \ncomparação com a crise de outrora.",
-                "C": "Mafalda está ironicamente sugerindo que, \napesar de já ter crescido, a situação do país ainda \né a mesma; de crise.",
-                "D": "Mafalda está comparando o tamanho das \npessoas ao tamanho do país.",
-                "E": "Mafalda está afirmando que o país estava \nmelhor quando era pequena, e que agora que \ncresceu as coisas melhoraram.  QUESTÃO 08 \nMaria olhou para o céu e viu as estrelas brilhando \nintensamente. Ela ficou maravilhada com a \nbeleza do universo, imaginando quantos \nsegredos aquele vasto espaço poderia esconder.  \nNa passagem, qual é o pronome pessoal do caso \nreto que se refere a Maria?  \n(A) Ficou  \n(B) Você  \n(C) Maravilhada  \n(D) Nós  \n(E) Ela"
+                "A": "Mafalda está destacando que a crise do país diminuiu ao longo do tempo. (",
+                "B": "Mafalda está ironicamente expressando otimismo sobre a situação atual do país em comparação com a crise de outrora. (",
+                "C": "Mafalda está ironicamente sugerindo que, apesar de já ter crescido, a situação do país ainda é a mesma; de crise. (",
+                "D": "Mafalda está comparando o tamanho das pessoas ao tamanho do país. (",
+                "E": "Mafalda está afirmando que o país estava melhor quando era pequena, e que agora que cresceu as coisas melhoraram. QUESTÃO 08 Maria olhou para o céu e viu as estrelas brilhando intensamente. Ela ficou maravilhada com a beleza do universo, imaginando quantos segredos aquele vasto espaço poderia esconder. Na passagem, qual é o pronome pessoal do caso reto que se refere a Maria? (A) Ficou (B) Você (C) Maravilhada (D) Nós (E) Ela"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "Não encontrada"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 7: 9 \nAssinale a alternativa que preenche corretamente \na frase:  \n\"A confraternização está prevista para _______ \n15h.\"",
+            "questão": "Questão 0",
+            "enunciado": "Assinale a alternativa que preenche corretamente a frase: \"A confraternização está prevista para _______ 15h.\" (",
             "alternativas": {
-                "A": "ao",
-                "B": "à",
-                "C": "as",
-                "D": "às",
+                "A": "ao (",
+                "B": "à (",
+                "C": "as (",
+                "D": "às (",
                 "E": "a"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "Não encontrada"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 8: Com base na tirinha, qual é o sentimento \npredominante expresso por Snoopy em relação à \nausência de seu amor?",
+            "questão": "Questão 10",
+            "enunciado": "Com base na tirinha, qual é o sentimento predominante expresso por Snoopy em relação à ausência de seu amor? (",
             "alternativas": {
-                "A": "Felicidade.",
-                "B": "Indiferença.",
-                "C": "Nostalgia.",
-                "D": "Angústia.",
-                "E": "Paciência.  \nPrefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 4 de 9 QUESTÃO 11  \nAssinale a alternativa que preenche corretamente \na frase:  \n \n\"As crianças ________ sempre a pé para a \nescola.\"  \n \n(A) vêem  \n(B) vem  \n(C) veêm  \n(D) vêm  \n(E) vém"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 9: A rosa e o sapo  \nA rosa se emocionava quando a elogiavam. No \nentanto, ela queria que a vissem mais de perto; \nnão entendia por que todos a observavam à \ndistância. Um dia ela percebeu que a seus pés \nsempre estava um enorme sapo escuro. Ele não \ntinha nada de bonito, com sua c or opaca e suas \nmanchas feias. Além disso, seus olhos eram bem \nesbugalhados, assustando a todos. A rosa \nentendeu que as pessoas não se aproximavam por \ncausa desse animal. Imediatamente, ela ordenou \nque o sapo fosse embora. Ele não percebia que \ndava a ela u ma imagem negativa? O sapo, muito \nhumilde e obediente, aceitou prontamente. Ele \nnão queria incomodá -la e então foi \nembora.Alguns dias depois, a rosa começou a se \ndeteriorar. Suas folhas e pétalas começaram a \ncair. Ninguém queria mais olhar para ela. Perto \ndela passava um lagarto que a viu chorando. Ele \nperguntou o que estava errado e ela respondeu \nque as formigas a estavam matando. Então o \nlagarto disse o que a rosa já sabia: “Era o sapo \nque comia as formigas e mantinha a sua beleza “.  \nAutor \ndesconhecido.  \nNo texto, a palavra \"emocionava\" poderia ser \nsubstituída pelo sinônimo?",
-            "alternativas": {
-                "A": "Assustava",
-                "B": "Comovia",
-                "C": "Aborrecia",
-                "D": "Enfraquecia",
-                "E": "Afastava  QUESTÃO 13  \nEntão, o mais terrível de todos os males, a morte, \nnão significa nada para nós, justamente porque, \nquando estamos vivos, é a morte que não está \npresente; ao contrário, quando a morte está \npresente, nós é que não estamos.  \nEpicuro  \nNa passagem, Epicuro argumenta que a morte \n\"não significa nada para nós\". Em que consiste o \nargumento apresentado?  \n(A) Ele sugere que a morte não deve ser temida, \npois, quando estamos mortos, estamos \nconscientes dela.  \n(B) Quando estamos vivos, a morte está presente, \ne, quando a morte está presente, nossa existência \nemerge.  \n(C) A morte é algo que podemos evitar através de \nações corretas e virtuosas.  \n(D) Enquanto estamos vivos, a morte não é \nrelevante, e quando a morte está presente, nós \nnão existimos mais.  \n(E) A morte é um mistério que ninguém \nconsegue compreender até que ela chegue."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 10: Com base na tirinha em que o personagem diz  \n \n \n\"Eu preciso de uma mudança\", qual das seguintes \nafirmações melhor descreve a situação?",
-            "alternativas": {
-                "A": "O personagem está animado com sua vida \nmonótona e não deseja mudanças drásticas.",
-                "B": "O personagem está insatisfeito com sua vida, \nmas não toma medidas para mudar.",
-                "C": "O personagem está fisicamente ativo, \nbuscando mudanças em sua vida.",
-                "D": "O personagem está satisfeito planejando uma \ngrande mudança em sua vida.",
-                "E": "O personagem está deitado por pura preguiça, \nsem interesse em qualquer mudança.  \nPrefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 5 de 9 QUESTÃO 15  \nQual das seguintes palavras é um antônimo de \n\"altruísta\"?  \n(A) Egoísta  \n(B) Generoso  \n(C) Solidário  \n(D) Altruístico  \n(E) Compreensivo"
+                "A": "Felicidade. (",
+                "B": "Indiferença. (",
+                "C": "Nostalgia. (",
+                "D": "Angústia. (",
+                "E": "Paciência. Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 4 de 9 QUESTÃO 11 Assinale a alternativa que preenche corretamente a frase: \"As crianças ________ sempre a pé para a escola.\" (A) vêem (B) vem (C) veêm (D) vêm (E) vém"
             },
             "resposta_correta": "D"
         },
@@ -144,97 +124,59 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 11: Identifique o verbo transitivo direto na seguinte \nfrase:  \n\"O menino encontrou a bola perdida no parque.\"",
+            "questão": "Questão 12",
+            "enunciado": "A rosa e o sapo A rosa se emocionava quando a elogiavam. No entanto, ela queria que a vissem mais de perto; não entendia por que todos a observavam à distância. Um dia ela percebeu que a seus pés sempre estava um enorme sapo escuro. Ele não tinha nada de bonito, com sua c or opaca e suas manchas feias. Além disso, seus olhos eram bem esbugalhados, assustando a todos. A rosa entendeu que as pessoas não se aproximavam por causa desse animal. Imediatamente, ela ordenou que o sapo fosse embora. Ele não percebia que dava a ela u ma imagem negativa? O sapo, muito humilde e obediente, aceitou prontamente. Ele não queria incomodá -la e então foi embora.Alguns dias depois, a rosa começou a se deteriorar. Suas folhas e pétalas começaram a cair. Ninguém queria mais olhar para ela. Perto dela passava um lagarto que a viu chorando. Ele perguntou o que estava errado e ela respondeu que as formigas a estavam matando. Então o lagarto disse o que a rosa já sabia: “Era o sapo que comia as formigas e mantinha a sua beleza “. Autor desconhecido. No texto, a palavra \"emocionava\" poderia ser substituída pelo sinônimo? (",
             "alternativas": {
-                "A": "menino",
-                "B": "encontrou",
-                "C": "bola",
-                "D": "perdida",
+                "A": "Assustava (",
+                "B": "Comovia (",
+                "C": "Aborrecia (",
+                "D": "Enfraquecia (",
+                "E": "Afastava QUESTÃO 13 Então, o mais terrível de todos os males, a morte, não significa nada para nós, justamente porque, quando estamos vivos, é a morte que não está presente; ao contrário, quando a morte está presente, nós é que não estamos. Epicuro Na passagem, Epicuro argumenta que a morte \"não significa nada para nós\". Em que consiste o argumento apresentado? (A) Ele sugere que a morte não deve ser temida, pois, quando estamos mortos, estamos conscientes dela. (B) Quando estamos vivos, a morte está presente, e, quando a morte está presente, nossa existência emerge. (C) A morte é algo que podemos evitar através de ações corretas e virtuosas. (D) Enquanto estamos vivos, a morte não é relevante, e quando a morte está presente, nós não existimos mais. (E) A morte é um mistério que ninguém consegue compreender até que ela chegue."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14",
+            "enunciado": "Com base na tirinha em que o personagem diz \"Eu preciso de uma mudança\", qual das seguintes afirmações melhor descreve a situação? (",
+            "alternativas": {
+                "A": "O personagem está animado com sua vida monótona e não deseja mudanças drásticas. (",
+                "B": "O personagem está insatisfeito com sua vida, mas não toma medidas para mudar. (",
+                "C": "O personagem está fisicamente ativo, buscando mudanças em sua vida. (",
+                "D": "O personagem está satisfeito planejando uma grande mudança em sua vida. (",
+                "E": "O personagem está deitado por pura preguiça, sem interesse em qualquer mudança. Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 5 de 9 QUESTÃO 15 Qual das seguintes palavras é um antônimo de \"altruísta\"? (A) Egoísta (B) Generoso (C) Solidário (D) Altruístico (E) Compreensivo"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16",
+            "enunciado": "Identifique o verbo transitivo direto na seguinte frase: \"O menino encontrou a bola perdida no parque.\" (",
+            "alternativas": {
+                "A": "menino (",
+                "B": "encontrou (",
+                "C": "bola (",
+                "D": "perdida (",
                 "E": "parque"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 12: Identifique a alternativa que contém um \nantônimo da palavra destacada no trecho abaixo:  \n\"O jornalista realizou uma minuciosa  \ninvestigação do caso.\"",
+            "questão": "Questão 17",
+            "enunciado": "Identifique a alternativa que contém um antônimo da palavra destacada no trecho abaixo: \"O jornalista realizou uma minuciosa investigação do caso.\" (",
             "alternativas": {
-                "A": "Desejada",
-                "B": "Demorada",
-                "C": "Superficial",
-                "D": "Precisa",
+                "A": "Desejada (",
+                "B": "Demorada (",
+                "C": "Superficial (",
+                "D": "Precisa (",
                 "E": "Aprofundada"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 13: Assinale a alternativa que preenche corretamente \na frase:  \n \n\"Se os supervisores, após todas as deliberações \nfeitas hoje na empresa, ____________ a postura \nautoritária, falaremos com a direção geral.\"",
-            "alternativas": {
-                "A": "mantiverem",
-                "B": "manterão",
-                "C": "manterem",
-                "D": "mantiverão",
-                "E": "manter  \n QUESTÃO 19  \nAssinale a alternativa que preenche corretamente \na frase:  \n \n\"Este é um projeto _____________ todos os \ntrabalhadores acreditam.\"  \n \n(A) na qual  \n(B) no qual  \n(C) dos quais  \n(D) cujo  \n(E) cujos"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 14: A crase ocorre quando a preposição \"a\" se funde \ncom o artigo definido feminino \"a\" ou \"as\". \nIndique a alternativa com uso incorreto  de crase.",
-            "alternativas": {
-                "A": "Ela está à espera do resultado.",
-                "B": "Eles foram à escola para a reunião.",
-                "C": "Vou à festa de aniversário da Maria.",
-                "D": "Sairei de casa às 12h30.",
-                "E": "Sabrina adquiriu um carro à diesel.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 15: Assinale a alternativa que apresenta o \nQuadragésimo número ímpar antecessor de 327:",
-            "alternativas": {
-                "A": "245",
-                "B": "247",
-                "C": "249",
-                "D": "251",
-                "E": "253"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 16: Qual é o resultado da seguinte operação:  \n73,9 x 13 – 9,2?",
-            "alternativas": {
-                "A": "942,3",
-                "B": "280,82",
-                "C": "965,8",
-                "D": "951,5",
-                "E": "666,88  \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 6 de 9 QUESTÃO 23 \nAssinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n22 x 7, 2 - 31 \n \n(A) 127,4  \n(B) 523,6  \n(C) 130,4  \n(D) 64,8  \n(E) 125"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 17: Pedro economizou R$ 60,00 por mês durante 8 \nmeses. Mas teve que gastar metade desse valor \nem um passeio, com quanto Pedro ficou após as \neconomias?",
-            "alternativas": {
-                "A": "R$ 240,00",
-                "B": "R$ 220,00",
-                "C": "R$ 200,00",
-                "D": "R$ 210,00",
-                "E": "R$ 230,00"
             },
             "resposta_correta": "C"
         },
@@ -242,13 +184,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 18: Eduardo está planejando comprar 18 metros de \ntecido para confeccionar camisetas. Cada metro \nde tecido custa R$ 12,50. Além disso, ele precisa \ncomprar 2 rolos de linha, cada um custando R$ \n31,80. Quanto Eduardo gastará no total?",
+            "questão": "Questão 18",
+            "enunciado": "Assinale a alternativa que preenche corretamente a frase: \"Se os supervisores, após todas as deliberações feitas hoje na empresa, ____________ a postura autoritária, falaremos com a direção geral.\" (",
             "alternativas": {
-                "A": "R$ 44,30",
-                "B": "R$ 256,80",
-                "C": "R$ 225,00",
-                "D": "R$ 63,60",
-                "E": "R$ 288,60"
+                "A": "mantiverem (",
+                "B": "manterão (",
+                "C": "manterem (",
+                "D": "mantiverão (",
+                "E": "manter"
             },
             "resposta_correta": "A"
         },
@@ -256,13 +199,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 19: Maria e João estão organizando um evento e \ndecidiram dividir as tarefas. A soma da idade de \nMaria e João é 50 anos. Se a idade de Maria é o \ntriplo da idade de João, quantos anos cada um \ndeles tem?",
+            "questão": "Questão 19",
+            "enunciado": "Assinale a alternativa que preenche corretamente a frase: \"Este é um projeto _____________ todos os trabalhadores acreditam.\" (",
             "alternativas": {
-                "A": "Maria tem 30 anos e João tem 20 anos",
-                "B": "Maria tem 25 anos e João tem 25 anos",
-                "C": "Maria tem 15 anos e João tem 35 anos",
-                "D": "Maria tem 20 anos e João tem 30 anos",
-                "E": "Maria tem 35 anos e João tem 15 anos  QUESTÃO 27  \nUma loja está oferecendo uma promoção: \ncompre 3 produtos e pague apenas 2. Cada \nproduto custa R$ 19,99. Se Maria comprar 6 \nprodutos, qual será o total a pagar?  \n \n(A) R$ 39,98  \n(B) R$ 119,94  \n(C) R$ 79,96  \n(D) R$ 69,96  \n(E) R$ 99,95"
+                "A": "na qual (",
+                "B": "no qual (",
+                "C": "dos quais (",
+                "D": "cujo (",
+                "E": "cujos"
             },
             "resposta_correta": "B"
         },
@@ -270,13 +214,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 20: André está controlando seus gastos mensais. Se \nele gastou 20% do seu salário de R$ 2.500,00 em \nalimentação, quanto ele gastou nessa categoria?",
+            "questão": "Questão 20",
+            "enunciado": "A crase ocorre quando a preposição \"a\" se funde com o artigo definido feminino \"a\" ou \"as\". Indique a alternativa com uso incorreto de crase. (",
             "alternativas": {
-                "A": "R$ 500,00",
-                "B": "R$ 400,00",
-                "C": "R$ 300,00",
-                "D": "R$ 600,00",
-                "E": "R$ 2.000,00"
+                "A": "Ela está à espera do resultado. (",
+                "B": "Eles foram à escola para a reunião. (",
+                "C": "Vou à festa de aniversário da Maria. (",
+                "D": "Sairei de casa às 12h30. (",
+                "E": "Sabrina adquiriu um carro à diesel. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "E"
         },
@@ -284,13 +229,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 21: Uma loja de produtos de higiene está com uma \npromoção: compre 3 itens e pague apenas 2. \nCada item custa R$ 5,99. Se Marcos comprar 9 \nitens, qual será o total a pagar?",
+            "questão": "Questão 21",
+            "enunciado": "Assinale a alternativa que apresenta o Quadragésimo número ímpar antecessor de 327: (",
             "alternativas": {
-                "A": "R$ 17,97",
-                "B": "R$ 23,96",
-                "C": "R$ 35,94",
-                "D": "R$ 53,91",
-                "E": "R$ 11,98"
+                "A": "245 (",
+                "B": "247 (",
+                "C": "249 (",
+                "D": "251 (",
+                "E": "253"
             },
             "resposta_correta": "B"
         },
@@ -298,13 +244,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 22: Assinale a alternativa que apresenta o Vigésimo \nterceiro número par sucessor de 86:",
+            "questão": "Questão 22",
+            "enunciado": "Qual é o resultado da seguinte operação: 73,9 x 13 – 9,2? (",
             "alternativas": {
-                "A": "122",
-                "B": "126",
-                "C": "130",
-                "D": "132",
-                "E": "136  Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 7 de 9 QUESTÃO 31  \nAssinale a alternativa que apresenta o Trigésimo \nnúmero ímpar antecessor de 777:  \n(A) 698  \n(B) 717  \n(C) 710  \n(D) 747  \n(E) 727"
+                "A": "942,3 (",
+                "B": "280,82 (",
+                "C": "965,8 (",
+                "D": "951,5 (",
+                "E": "666,88 Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 6 de 9 QUESTÃO 23 Assinale a alternativa que apresenta o resultado para a seguinte operação de multiplicação: 22 x 7, 2 - 31 (A) 127,4 (B) 523,6 (C) 130,4 (D) 64,8 (E) 125"
             },
             "resposta_correta": "D"
         },
@@ -312,68 +259,178 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 23: Uma loja vendeu 18 camisetas vermelhas, 25 \ncamisetas azuis e 14 camisetas verdes. Se cada \ncamiseta vermelha custa R$ 20,30 cada camiseta \nazul custa R$ 25,77 e cada camiseta verde custa \nR$ 18,57 qual é o valor total arrecadado pela \nloja?",
+            "questão": "Questão 24",
+            "enunciado": "Pedro economizou R$ 60,00 por mês durante 8 meses. Mas teve que gastar metade desse valor em um passeio, com quanto Pedro ficou após as economias? (",
             "alternativas": {
-                "A": "R$ 1270,63",
-                "B": "R$ 1269,63",
-                "C": "R$ 1398,15",
-                "D": "R$ 1262,71",
+                "A": "R$ 240,00 (",
+                "B": "R$ 220,00 (",
+                "C": "R$ 200,00 (",
+                "D": "R$ 210,00 (",
+                "E": "R$ 230,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25",
+            "enunciado": "Eduardo está planejando comprar 18 metros de tecido para confeccionar camisetas. Cada metro de tecido custa R$ 12,50. Além disso, ele precisa comprar 2 rolos de linha, cada um custando R$ 31,80. Quanto Eduardo gastará no total? (",
+            "alternativas": {
+                "A": "R$ 44,30 (",
+                "B": "R$ 256,80 (",
+                "C": "R$ 225,00 (",
+                "D": "R$ 63,60 (",
+                "E": "R$ 288,60"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26",
+            "enunciado": "Maria e João estão organizando um evento e decidiram dividir as tarefas. A soma da idade de Maria e João é 50 anos. Se a idade de Maria é o triplo da idade de João, quantos anos cada um deles tem? (",
+            "alternativas": {
+                "A": "Maria tem 30 anos e João tem 20 anos (",
+                "B": "Maria tem 25 anos e João tem 25 anos (",
+                "C": "Maria tem 15 anos e João tem 35 anos (",
+                "D": "Maria tem 20 anos e João tem 30 anos (",
+                "E": "Maria tem 35 anos e João tem 15 anos QUESTÃO 27 Uma loja está oferecendo uma promoção: compre 3 produtos e pague apenas 2. Cada produto custa R$ 19,99. Se Maria comprar 6 produtos, qual será o total a pagar? (A) R$ 39,98 (B) R$ 119,94 (C) R$ 79,96 (D) R$ 69,96 (E) R$ 99,95"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28",
+            "enunciado": "André está controlando seus gastos mensais. Se ele gastou 20% do seu salário de R$ 2.500,00 em alimentação, quanto ele gastou nessa categoria? (",
+            "alternativas": {
+                "A": "R$ 500,00 (",
+                "B": "R$ 400,00 (",
+                "C": "R$ 300,00 (",
+                "D": "R$ 600,00 (",
+                "E": "R$ 2.000,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29",
+            "enunciado": "Uma loja de produtos de higiene está com uma promoção: compre 3 itens e pague apenas 2. Cada item custa R$ 5,99. Se Marcos comprar 9 itens, qual será o total a pagar? (",
+            "alternativas": {
+                "A": "R$ 17,97 (",
+                "B": "R$ 23,96 (",
+                "C": "R$ 35,94 (",
+                "D": "R$ 53,91 (",
+                "E": "R$ 11,98"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30",
+            "enunciado": "Assinale a alternativa que apresenta o Vigésimo terceiro número par sucessor de 86: (",
+            "alternativas": {
+                "A": "122 (",
+                "B": "126 (",
+                "C": "130 (",
+                "D": "132 (",
+                "E": "136 Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 7 de 9 QUESTÃO 31 Assinale a alternativa que apresenta o Trigésimo número ímpar antecessor de 777: (A) 698 (B) 717 (C) 710 (D) 747 (E) 727"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 32",
+            "enunciado": "Uma loja vendeu 18 camisetas vermelhas, 25 camisetas azuis e 14 camisetas verdes. Se cada camiseta vermelha custa R$ 20,30 cada camiseta azul custa R$ 25,77 e cada camiseta verde custa R$ 18,57 qual é o valor total arrecadado pela loja? (",
+            "alternativas": {
+                "A": "R$ 1270,63 (",
+                "B": "R$ 1269,63 (",
+                "C": "R$ 1398,15 (",
+                "D": "R$ 1262,71 (",
                 "E": "R$ 1212,31"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 24: Maria decidiu poupar dinheiro colocando R$ \n0,75 em um cofre todos os dias. Ela guardou esse \nvalor todos os dias durante 77 dias antes de \ndecidir abrir o cofre. Qual é o valor total que \nMaria encontrará dentro do cofre?",
+            "questão": "Questão 33",
+            "enunciado": "Maria decidiu poupar dinheiro colocando R$ 0,75 em um cofre todos os dias. Ela guardou esse valor todos os dias durante 77 dias antes de decidir abrir o cofre. Qual é o valor total que Maria encontrará dentro do cofre? (",
             "alternativas": {
-                "A": "R$ 25,75",
-                "B": "R$ 50,75",
-                "C": "R$ 57,75",
-                "D": "R$ 58,25",
+                "A": "R$ 25,75 (",
+                "B": "R$ 50,75 (",
+                "C": "R$ 57,75 (",
+                "D": "R$ 58,25 (",
                 "E": "R$ 59,25"
             },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 34",
+            "enunciado": "Fernanda adquiriu um pacote contendo 80 canetas por um total de R$ 314,40. Qual é o custo unitário de cada caneta?\" (",
+            "alternativas": {
+                "A": "R$ 3,93 (",
+                "B": "R$ 4,20 (",
+                "C": "R$ 2,50 (",
+                "D": "R$ 3,00 (",
+                "E": "R$ 4,50"
+            },
             "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 25: Fernanda adquiriu um pacote contendo 80 \ncanetas por um total de R$ 314,40. Qual é o custo \nunitário de cada caneta?\"",
+            "questão": "Questão 35",
+            "enunciado": "Um jardim retangular tem 15 metros de comprimento e 12 metros de largura. Qual é a área total do jardim em metros quadrados? (",
             "alternativas": {
-                "A": "R$ 3,93",
-                "B": "R$ 4,20",
-                "C": "R$ 2,50",
-                "D": "R$ 3,00",
-                "E": "R$ 4,50  \n \n \n \n QUESTÃO 35  \nUm jardim retangular tem 15 metros de \ncomprimento e 12 metros de largura. Qual é a \nárea total do jardim em metros quadrados?  \n \n(A) 160 m²  \n(B) 180 m²  \n(C) 200 m²  \n(D) 220 m²  \n(E) 240 m²"
+                "A": "160 m² (",
+                "B": "180 m² (",
+                "C": "200 m² (",
+                "D": "220 m² (",
+                "E": "240 m²"
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 26: Uma empresa aumentou os salários de seus \nfuncionários em 10%. Se um funcionário \nganhava R$ 2.000, qual é o novo salário?",
+            "questão": "Questão 36",
+            "enunciado": "Uma empresa aumentou os salários de seus funcionários em 10%. Se um funcionário ganhava R$ 2.000, qual é o novo salário? (",
             "alternativas": {
-                "A": "R$ 2.100",
-                "B": "R$ 2.200",
-                "C": "R$ 2.100",
-                "D": "R$ 2.150",
+                "A": "R$ 2.100 (",
+                "B": "R$ 2.200 (",
+                "C": "R$ 2.100 (",
+                "D": "R$ 2.150 (",
                 "E": "R$ 2.050"
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 27: Em uma escola com 500 alunos, 20% deles \npraticam esportes regularmente. Quantos alunos \nestão envolvidos em atividades esportivas?",
+            "questão": "Questão 37",
+            "enunciado": "Em uma escola com 500 alunos, 20% deles praticam esportes regularmente. Quantos alunos estão envolvidos em atividades esportivas? (",
             "alternativas": {
-                "A": "30 alunos",
-                "B": "50 alunos",
-                "C": "100 alunos",
-                "D": "150 alunos",
+                "A": "30 alunos (",
+                "B": "50 alunos (",
+                "C": "100 alunos (",
+                "D": "150 alunos (",
                 "E": "250 alunos"
             },
             "resposta_correta": "C"
@@ -382,27 +439,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 28: Em uma cidade, 25% da população possui carros. \nSe a população total é de 120.000 habitantes, \nquantas pessoas têm carros?",
+            "questão": "Questão 38",
+            "enunciado": "Em uma cidade, 25% da população possui carros. Se a população total é de 120.000 habitantes, quantas pessoas têm carros? (",
             "alternativas": {
-                "A": "20.000 pessoas",
-                "B": "25.000 pessoas",
-                "C": "30.000 pessoas",
-                "D": "15.000 pessoas",
-                "E": "10.000 pessoas  \n \n \n \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 8 de 9 QUESTÃO 39  \nUm restaurante oferece um desconto de 5% para \npagamentos em dinheiro. Se a conta total foi de \nR$ 150, qual será o valor a ser pago em dinheiro?  \n \n(A) R$ 142,50  \n(B) R$ 148,75  \n(C) R$ 147,50  \n(D) R$ 150,75  \n(E) R$ 142,25"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 29: Um supermercado possui 6 prateleiras, cada uma \ncontendo 25 pacotes de macarrão. Quantos \npacotes de macarrão há no total?",
-            "alternativas": {
-                "A": "100 pacotes",
-                "B": "125 pacotes",
-                "C": "130 pacotes",
-                "D": "1140 pacotes",
-                "E": "150 pacotes  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 9 de 9"
+                "A": "20.000 pessoas (",
+                "B": "25.000 pessoas (",
+                "C": "30.000 pessoas (",
+                "D": "15.000 pessoas (",
+                "E": "10.000 pessoas Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 8 de 9 QUESTÃO 39 Um restaurante oferece um desconto de 5% para pagamentos em dinheiro. Se a conta total foi de R$ 150, qual será o valor a ser pago em dinheiro? (A) R$ 142,50 (B) R$ 148,75 (C) R$ 147,50 (D) R$ 150,75 (E) R$ 142,25"
             },
             "resposta_correta": "C"
         },
@@ -410,13 +454,29 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: O que motivou a raposa a tentar alcançar as uvas \nna árvore?",
+            "questão": "Questão 40",
+            "enunciado": "Um supermercado possui 6 prateleiras, cada uma contendo 25 pacotes de macarrão. Quantos pacotes de macarrão há no total? (",
             "alternativas": {
-                "A": "A presença de outros animais observando -a.",
-                "B": "Seu desejo por algo refrescante e diferente do \ncomum.",
-                "C": "Sua necessidade urgente de alimento devido \nà fome.",
-                "D": "A competição com os pássaros para alcançar \nas uvas.",
-                "E": "A intenção de provar sua agilidade como uma \nraposa."
+                "A": "100 pacotes (",
+                "B": "125 pacotes (",
+                "C": "130 pacotes (",
+                "D": "1140 pacotes (",
+                "E": "150 pacotes Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 9 de 9"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1",
+            "enunciado": "O que motivou a raposa a tentar alcançar as uvas na árvore? (",
+            "alternativas": {
+                "A": "A presença de outros animais observando -a. (",
+                "B": "Seu desejo por algo refrescante e diferente do comum. (",
+                "C": "Sua necessidade urgente de alimento devido à fome. (",
+                "D": "A competição com os pássaros para alcançar as uvas. (",
+                "E": "A intenção de provar sua agilidade como uma raposa."
             },
             "resposta_correta": "B"
         },
@@ -424,13 +484,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: Qual é o propósito da declaração da raposa ao \npássaro no final do texto?",
+            "questão": "Questão 2",
+            "enunciado": "Qual é o propósito da declaração da raposa ao pássaro no final do texto? (",
             "alternativas": {
-                "A": "A raposa busca consolo e compreensão do \npássaro.",
-                "B": "A raposa tenta explicar sua inabilidade de \nalcançar ao dizer que as uvas estavam maduras.",
-                "C": "A raposa procura justificar sua desistência ao \nalegar que as uvas estavam verdes.",
-                "D": "A raposa expressa seu desejo de compartilhar \nas uvas com o pássaro.",
-                "E": "A raposa acusa o pássaro de zombar dela \ndurante suas tentativas."
+                "A": "A raposa busca consolo e compreensão do pássaro. (",
+                "B": "A raposa tenta explicar sua inabilidade de alcançar ao dizer que as uvas estavam maduras. (",
+                "C": "A raposa procura justificar sua desistência ao alegar que as uvas estavam verdes. (",
+                "D": "A raposa expressa seu desejo de compartilhar as uvas com o pássaro. (",
+                "E": "A raposa acusa o pássaro de zombar dela durante suas tentativas."
             },
             "resposta_correta": "C"
         },
@@ -438,12 +499,13 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 3: A palavra \"cansada\" no trecho \"Cansada pelo \nesforço\" é um sinônimo de qual outra palavra no \nmesmo contexto?",
+            "questão": "Questão 3",
+            "enunciado": "A palavra \"cansada\" no trecho \"Cansada pelo esforço\" é um sinônimo de qual outra palavra no mesmo contexto? (",
             "alternativas": {
-                "A": "Frustrada.",
-                "B": "Corrida.",
-                "C": "Saltada.",
-                "D": "Exausta.",
+                "A": "Frustrada. (",
+                "B": "Corrida. (",
+                "C": "Saltada. (",
+                "D": "Exausta. (",
                 "E": "Resignada"
             },
             "resposta_correta": "D"
@@ -452,13 +514,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 4: Qual é a classe de palavras da palavra \"esgotada\" \nno trecho \"Esgotada e resignada\"?",
+            "questão": "Questão 4",
+            "enunciado": "Qual é a classe de palavras da palavra \"esgotada\" no trecho \"Esgotada e resignada\"? (",
             "alternativas": {
-                "A": "Substantivo.",
-                "B": "Adjetivo.",
-                "C": "Numeral.",
-                "D": "Pronome.",
-                "E": "Verbo.  \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 3 de 9 QUESTÃO 0 5 \nDe acordo com a fábula, qual é a razão pela qual \na raposa não pegou as uvas  \n(A) A raposa estava muito enérgica, embora sem \nenergia para pular.  \n(B) As uvas estavam verdes e muito difíceis de \nalcançar.  \n(C) A raposa era boa demais para pular e subir \nem árvores.  \n(D) As uvas estavam mais altas do que a raposa \nimaginava e conseguia alcançar.  \n(E) A raposa não estava realmente interessada em \ncomer as uvas."
+                "A": "Substantivo. (",
+                "B": "Adjetivo. (",
+                "C": "Numeral. (",
+                "D": "Pronome. (",
+                "E": "Verbo. Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 3 de 9 QUESTÃO 0 5 De acordo com a fábula, qual é a razão pela qual a raposa não pegou as uvas (A) A raposa estava muito enérgica, embora sem energia para pular. (B) As uvas estavam verdes e muito difíceis de alcançar. (C) A raposa era boa demais para pular e subir em árvores. (D) As uvas estavam mais altas do que a raposa imaginava e conseguia alcançar. (E) A raposa não estava realmente interessada em comer as uvas."
             },
             "resposta_correta": "B"
         },
@@ -466,83 +529,59 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 5: 6 \nQual dos seguintes termos é um exemplo de \nadjetivo pátrio?",
+            "questão": "Questão 0",
+            "enunciado": "Qual dos seguintes termos é um exemplo de adjetivo pátrio? (",
             "alternativas": {
-                "A": "Feliz",
-                "B": "Canadense",
-                "C": "Rápido",
-                "D": "Inteligente",
+                "A": "Feliz (",
+                "B": "Canadense (",
+                "C": "Rápido (",
+                "D": "Inteligente (",
                 "E": "Bonito"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "Não encontrada"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 6: 7 \n \n \nCom base nas falas da personagem Mafalda na \ntirinha, o que ela está expressando sobre a \nsituação do país?",
+            "questão": "Questão 0",
+            "enunciado": "Com base nas falas da personagem Mafalda na tirinha, o que ela está expressando sobre a situação do país? (",
             "alternativas": {
-                "A": "Mafalda está destacando que a crise do país \ndiminuiu ao longo do tempo.",
-                "B": "Mafalda está ironicamente expressando \notimismo sobre a situação atual do país em \ncomparação com a crise de outrora.",
-                "C": "Mafalda está ironicamente sugerindo que, \napesar de já ter crescido, a situação do país ainda \né a mesma; de crise.",
-                "D": "Mafalda está comparando o tamanho das \npessoas ao tamanho do país.",
-                "E": "Mafalda está afirmando que o país estava \nmelhor quando era pequena, e que agora que \ncresceu as coisas melhoraram.  QUESTÃO 08 \nMaria olhou para o céu e viu as estrelas brilhando \nintensamente. Ela ficou maravilhada com a \nbeleza do universo, imaginando quantos \nsegredos aquele vasto espaço poderia esconder.  \nNa passagem, qual é o pronome pessoal do caso \nreto que se refere a Maria?  \n(A) Ficou  \n(B) Você  \n(C) Maravilhada  \n(D) Nós  \n(E) Ela"
+                "A": "Mafalda está destacando que a crise do país diminuiu ao longo do tempo. (",
+                "B": "Mafalda está ironicamente expressando otimismo sobre a situação atual do país em comparação com a crise de outrora. (",
+                "C": "Mafalda está ironicamente sugerindo que, apesar de já ter crescido, a situação do país ainda é a mesma; de crise. (",
+                "D": "Mafalda está comparando o tamanho das pessoas ao tamanho do país. (",
+                "E": "Mafalda está afirmando que o país estava melhor quando era pequena, e que agora que cresceu as coisas melhoraram. QUESTÃO 08 Maria olhou para o céu e viu as estrelas brilhando intensamente. Ela ficou maravilhada com a beleza do universo, imaginando quantos segredos aquele vasto espaço poderia esconder. Na passagem, qual é o pronome pessoal do caso reto que se refere a Maria? (A) Ficou (B) Você (C) Maravilhada (D) Nós (E) Ela"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "Não encontrada"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 7: 9 \nAssinale a alternativa que preenche corretamente \na frase:  \n\"A confraternização está prevista para _______ \n15h.\"",
+            "questão": "Questão 0",
+            "enunciado": "Assinale a alternativa que preenche corretamente a frase: \"A confraternização está prevista para _______ 15h.\" (",
             "alternativas": {
-                "A": "ao",
-                "B": "à",
-                "C": "as",
-                "D": "às",
+                "A": "ao (",
+                "B": "à (",
+                "C": "as (",
+                "D": "às (",
                 "E": "a"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "Não encontrada"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 8: Com base na tirinha, qual é o sentimento \npredominante expresso por Snoopy em relação à \nausência de seu amor?",
+            "questão": "Questão 10",
+            "enunciado": "Com base na tirinha, qual é o sentimento predominante expresso por Snoopy em relação à ausência de seu amor? (",
             "alternativas": {
-                "A": "Felicidade.",
-                "B": "Indiferença.",
-                "C": "Nostalgia.",
-                "D": "Angústia.",
-                "E": "Paciência.  \nPrefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 4 de 9 QUESTÃO 11  \nAssinale a alternativa que preenche corretamente \na frase:  \n \n\"As crianças ________ sempre a pé para a \nescola.\"  \n \n(A) vêem  \n(B) vem  \n(C) veêm  \n(D) vêm  \n(E) vém"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 9: A rosa e o sapo  \nA rosa se emocionava quando a elogiavam. No \nentanto, ela queria que a vissem mais de perto; \nnão entendia por que todos a observavam à \ndistância. Um dia ela percebeu que a seus pés \nsempre estava um enorme sapo escuro. Ele não \ntinha nada de bonito, com sua c or opaca e suas \nmanchas feias. Além disso, seus olhos eram bem \nesbugalhados, assustando a todos. A rosa \nentendeu que as pessoas não se aproximavam por \ncausa desse animal. Imediatamente, ela ordenou \nque o sapo fosse embora. Ele não percebia que \ndava a ela u ma imagem negativa? O sapo, muito \nhumilde e obediente, aceitou prontamente. Ele \nnão queria incomodá -la e então foi \nembora.Alguns dias depois, a rosa começou a se \ndeteriorar. Suas folhas e pétalas começaram a \ncair. Ninguém queria mais olhar para ela. Perto \ndela passava um lagarto que a viu chorando. Ele \nperguntou o que estava errado e ela respondeu \nque as formigas a estavam matando. Então o \nlagarto disse o que a rosa já sabia: “Era o sapo \nque comia as formigas e mantinha a sua beleza “.  \nAutor \ndesconhecido.  \nNo texto, a palavra \"emocionava\" poderia ser \nsubstituída pelo sinônimo?",
-            "alternativas": {
-                "A": "Assustava",
-                "B": "Comovia",
-                "C": "Aborrecia",
-                "D": "Enfraquecia",
-                "E": "Afastava  QUESTÃO 13  \nEntão, o mais terrível de todos os males, a morte, \nnão significa nada para nós, justamente porque, \nquando estamos vivos, é a morte que não está \npresente; ao contrário, quando a morte está \npresente, nós é que não estamos.  \nEpicuro  \nNa passagem, Epicuro argumenta que a morte \n\"não significa nada para nós\". Em que consiste o \nargumento apresentado?  \n(A) Ele sugere que a morte não deve ser temida, \npois, quando estamos mortos, estamos \nconscientes dela.  \n(B) Quando estamos vivos, a morte está presente, \ne, quando a morte está presente, nossa existência \nemerge.  \n(C) A morte é algo que podemos evitar através de \nações corretas e virtuosas.  \n(D) Enquanto estamos vivos, a morte não é \nrelevante, e quando a morte está presente, nós \nnão existimos mais.  \n(E) A morte é um mistério que ninguém \nconsegue compreender até que ela chegue."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 10: Com base na tirinha em que o personagem diz  \n \n \n\"Eu preciso de uma mudança\", qual das seguintes \nafirmações melhor descreve a situação?",
-            "alternativas": {
-                "A": "O personagem está animado com sua vida \nmonótona e não deseja mudanças drásticas.",
-                "B": "O personagem está insatisfeito com sua vida, \nmas não toma medidas para mudar.",
-                "C": "O personagem está fisicamente ativo, \nbuscando mudanças em sua vida.",
-                "D": "O personagem está satisfeito planejando uma \ngrande mudança em sua vida.",
-                "E": "O personagem está deitado por pura preguiça, \nsem interesse em qualquer mudança.  \nPrefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 5 de 9 QUESTÃO 15  \nQual das seguintes palavras é um antônimo de \n\"altruísta\"?  \n(A) Egoísta  \n(B) Generoso  \n(C) Solidário  \n(D) Altruístico  \n(E) Compreensivo"
+                "A": "Felicidade. (",
+                "B": "Indiferença. (",
+                "C": "Nostalgia. (",
+                "D": "Angústia. (",
+                "E": "Paciência. Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 4 de 9 QUESTÃO 11 Assinale a alternativa que preenche corretamente a frase: \"As crianças ________ sempre a pé para a escola.\" (A) vêem (B) vem (C) veêm (D) vêm (E) vém"
             },
             "resposta_correta": "D"
         },
@@ -550,97 +589,59 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 11: Identifique o verbo transitivo direto na seguinte \nfrase:  \n\"O menino encontrou a bola perdida no parque.\"",
+            "questão": "Questão 12",
+            "enunciado": "A rosa e o sapo A rosa se emocionava quando a elogiavam. No entanto, ela queria que a vissem mais de perto; não entendia por que todos a observavam à distância. Um dia ela percebeu que a seus pés sempre estava um enorme sapo escuro. Ele não tinha nada de bonito, com sua c or opaca e suas manchas feias. Além disso, seus olhos eram bem esbugalhados, assustando a todos. A rosa entendeu que as pessoas não se aproximavam por causa desse animal. Imediatamente, ela ordenou que o sapo fosse embora. Ele não percebia que dava a ela u ma imagem negativa? O sapo, muito humilde e obediente, aceitou prontamente. Ele não queria incomodá -la e então foi embora.Alguns dias depois, a rosa começou a se deteriorar. Suas folhas e pétalas começaram a cair. Ninguém queria mais olhar para ela. Perto dela passava um lagarto que a viu chorando. Ele perguntou o que estava errado e ela respondeu que as formigas a estavam matando. Então o lagarto disse o que a rosa já sabia: “Era o sapo que comia as formigas e mantinha a sua beleza “. Autor desconhecido. No texto, a palavra \"emocionava\" poderia ser substituída pelo sinônimo? (",
             "alternativas": {
-                "A": "menino",
-                "B": "encontrou",
-                "C": "bola",
-                "D": "perdida",
+                "A": "Assustava (",
+                "B": "Comovia (",
+                "C": "Aborrecia (",
+                "D": "Enfraquecia (",
+                "E": "Afastava QUESTÃO 13 Então, o mais terrível de todos os males, a morte, não significa nada para nós, justamente porque, quando estamos vivos, é a morte que não está presente; ao contrário, quando a morte está presente, nós é que não estamos. Epicuro Na passagem, Epicuro argumenta que a morte \"não significa nada para nós\". Em que consiste o argumento apresentado? (A) Ele sugere que a morte não deve ser temida, pois, quando estamos mortos, estamos conscientes dela. (B) Quando estamos vivos, a morte está presente, e, quando a morte está presente, nossa existência emerge. (C) A morte é algo que podemos evitar através de ações corretas e virtuosas. (D) Enquanto estamos vivos, a morte não é relevante, e quando a morte está presente, nós não existimos mais. (E) A morte é um mistério que ninguém consegue compreender até que ela chegue."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14",
+            "enunciado": "Com base na tirinha em que o personagem diz \"Eu preciso de uma mudança\", qual das seguintes afirmações melhor descreve a situação? (",
+            "alternativas": {
+                "A": "O personagem está animado com sua vida monótona e não deseja mudanças drásticas. (",
+                "B": "O personagem está insatisfeito com sua vida, mas não toma medidas para mudar. (",
+                "C": "O personagem está fisicamente ativo, buscando mudanças em sua vida. (",
+                "D": "O personagem está satisfeito planejando uma grande mudança em sua vida. (",
+                "E": "O personagem está deitado por pura preguiça, sem interesse em qualquer mudança. Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 5 de 9 QUESTÃO 15 Qual das seguintes palavras é um antônimo de \"altruísta\"? (A) Egoísta (B) Generoso (C) Solidário (D) Altruístico (E) Compreensivo"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16",
+            "enunciado": "Identifique o verbo transitivo direto na seguinte frase: \"O menino encontrou a bola perdida no parque.\" (",
+            "alternativas": {
+                "A": "menino (",
+                "B": "encontrou (",
+                "C": "bola (",
+                "D": "perdida (",
                 "E": "parque"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 12: Identifique a alternativa que contém um \nantônimo da palavra destacada no trecho abaixo:  \n\"O jornalista realizou uma minuciosa  \ninvestigação do caso.\"",
+            "questão": "Questão 17",
+            "enunciado": "Identifique a alternativa que contém um antônimo da palavra destacada no trecho abaixo: \"O jornalista realizou uma minuciosa investigação do caso.\" (",
             "alternativas": {
-                "A": "Desejada",
-                "B": "Demorada",
-                "C": "Superficial",
-                "D": "Precisa",
+                "A": "Desejada (",
+                "B": "Demorada (",
+                "C": "Superficial (",
+                "D": "Precisa (",
                 "E": "Aprofundada"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 13: Assinale a alternativa que preenche corretamente \na frase:  \n \n\"Se os supervisores, após todas as deliberações \nfeitas hoje na empresa, ____________ a postura \nautoritária, falaremos com a direção geral.\"",
-            "alternativas": {
-                "A": "mantiverem",
-                "B": "manterão",
-                "C": "manterem",
-                "D": "mantiverão",
-                "E": "manter  \n QUESTÃO 19  \nAssinale a alternativa que preenche corretamente \na frase:  \n \n\"Este é um projeto _____________ todos os \ntrabalhadores acreditam.\"  \n \n(A) na qual  \n(B) no qual  \n(C) dos quais  \n(D) cujo  \n(E) cujos"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 14: A crase ocorre quando a preposição \"a\" se funde \ncom o artigo definido feminino \"a\" ou \"as\". \nIndique a alternativa com uso incorreto  de crase.",
-            "alternativas": {
-                "A": "Ela está à espera do resultado.",
-                "B": "Eles foram à escola para a reunião.",
-                "C": "Vou à festa de aniversário da Maria.",
-                "D": "Sairei de casa às 12h30.",
-                "E": "Sabrina adquiriu um carro à diesel.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 15: Assinale a alternativa que apresenta o \nQuadragésimo número ímpar antecessor de 327:",
-            "alternativas": {
-                "A": "245",
-                "B": "247",
-                "C": "249",
-                "D": "251",
-                "E": "253"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 16: Qual é o resultado da seguinte operação:  \n73,9 x 13 – 9,2?",
-            "alternativas": {
-                "A": "942,3",
-                "B": "280,82",
-                "C": "965,8",
-                "D": "951,5",
-                "E": "666,88  \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 6 de 9 QUESTÃO 23 \nAssinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n22 x 7, 2 - 31 \n \n(A) 127,4  \n(B) 523,6  \n(C) 130,4  \n(D) 64,8  \n(E) 125"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 17: Pedro economizou R$ 60,00 por mês durante 8 \nmeses. Mas teve que gastar metade desse valor \nem um passeio, com quanto Pedro ficou após as \neconomias?",
-            "alternativas": {
-                "A": "R$ 240,00",
-                "B": "R$ 220,00",
-                "C": "R$ 200,00",
-                "D": "R$ 210,00",
-                "E": "R$ 230,00"
             },
             "resposta_correta": "C"
         },
@@ -648,13 +649,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 18: Eduardo está planejando comprar 18 metros de \ntecido para confeccionar camisetas. Cada metro \nde tecido custa R$ 12,50. Além disso, ele precisa \ncomprar 2 rolos de linha, cada um custando R$ \n31,80. Quanto Eduardo gastará no total?",
+            "questão": "Questão 18",
+            "enunciado": "Assinale a alternativa que preenche corretamente a frase: \"Se os supervisores, após todas as deliberações feitas hoje na empresa, ____________ a postura autoritária, falaremos com a direção geral.\" (",
             "alternativas": {
-                "A": "R$ 44,30",
-                "B": "R$ 256,80",
-                "C": "R$ 225,00",
-                "D": "R$ 63,60",
-                "E": "R$ 288,60"
+                "A": "mantiverem (",
+                "B": "manterão (",
+                "C": "manterem (",
+                "D": "mantiverão (",
+                "E": "manter"
             },
             "resposta_correta": "A"
         },
@@ -662,13 +664,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 19: Maria e João estão organizando um evento e \ndecidiram dividir as tarefas. A soma da idade de \nMaria e João é 50 anos. Se a idade de Maria é o \ntriplo da idade de João, quantos anos cada um \ndeles tem?",
+            "questão": "Questão 19",
+            "enunciado": "Assinale a alternativa que preenche corretamente a frase: \"Este é um projeto _____________ todos os trabalhadores acreditam.\" (",
             "alternativas": {
-                "A": "Maria tem 30 anos e João tem 20 anos",
-                "B": "Maria tem 25 anos e João tem 25 anos",
-                "C": "Maria tem 15 anos e João tem 35 anos",
-                "D": "Maria tem 20 anos e João tem 30 anos",
-                "E": "Maria tem 35 anos e João tem 15 anos  QUESTÃO 27  \nUma loja está oferecendo uma promoção: \ncompre 3 produtos e pague apenas 2. Cada \nproduto custa R$ 19,99. Se Maria comprar 6 \nprodutos, qual será o total a pagar?  \n \n(A) R$ 39,98  \n(B) R$ 119,94  \n(C) R$ 79,96  \n(D) R$ 69,96  \n(E) R$ 99,95"
+                "A": "na qual (",
+                "B": "no qual (",
+                "C": "dos quais (",
+                "D": "cujo (",
+                "E": "cujos"
             },
             "resposta_correta": "B"
         },
@@ -676,13 +679,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 20: André está controlando seus gastos mensais. Se \nele gastou 20% do seu salário de R$ 2.500,00 em \nalimentação, quanto ele gastou nessa categoria?",
+            "questão": "Questão 20",
+            "enunciado": "A crase ocorre quando a preposição \"a\" se funde com o artigo definido feminino \"a\" ou \"as\". Indique a alternativa com uso incorreto de crase. (",
             "alternativas": {
-                "A": "R$ 500,00",
-                "B": "R$ 400,00",
-                "C": "R$ 300,00",
-                "D": "R$ 600,00",
-                "E": "R$ 2.000,00"
+                "A": "Ela está à espera do resultado. (",
+                "B": "Eles foram à escola para a reunião. (",
+                "C": "Vou à festa de aniversário da Maria. (",
+                "D": "Sairei de casa às 12h30. (",
+                "E": "Sabrina adquiriu um carro à diesel. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "E"
         },
@@ -690,13 +694,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 21: Uma loja de produtos de higiene está com uma \npromoção: compre 3 itens e pague apenas 2. \nCada item custa R$ 5,99. Se Marcos comprar 9 \nitens, qual será o total a pagar?",
+            "questão": "Questão 21",
+            "enunciado": "Assinale a alternativa que apresenta o Quadragésimo número ímpar antecessor de 327: (",
             "alternativas": {
-                "A": "R$ 17,97",
-                "B": "R$ 23,96",
-                "C": "R$ 35,94",
-                "D": "R$ 53,91",
-                "E": "R$ 11,98"
+                "A": "245 (",
+                "B": "247 (",
+                "C": "249 (",
+                "D": "251 (",
+                "E": "253"
             },
             "resposta_correta": "B"
         },
@@ -704,13 +709,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 22: Assinale a alternativa que apresenta o Vigésimo \nterceiro número par sucessor de 86:",
+            "questão": "Questão 22",
+            "enunciado": "Qual é o resultado da seguinte operação: 73,9 x 13 – 9,2? (",
             "alternativas": {
-                "A": "122",
-                "B": "126",
-                "C": "130",
-                "D": "132",
-                "E": "136  Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 7 de 9 QUESTÃO 31  \nAssinale a alternativa que apresenta o Trigésimo \nnúmero ímpar antecessor de 777:  \n(A) 698  \n(B) 717  \n(C) 710  \n(D) 747  \n(E) 727"
+                "A": "942,3 (",
+                "B": "280,82 (",
+                "C": "965,8 (",
+                "D": "951,5 (",
+                "E": "666,88 Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 6 de 9 QUESTÃO 23 Assinale a alternativa que apresenta o resultado para a seguinte operação de multiplicação: 22 x 7, 2 - 31 (A) 127,4 (B) 523,6 (C) 130,4 (D) 64,8 (E) 125"
             },
             "resposta_correta": "D"
         },
@@ -718,68 +724,178 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 23: Uma loja vendeu 18 camisetas vermelhas, 25 \ncamisetas azuis e 14 camisetas verdes. Se cada \ncamiseta vermelha custa R$ 20,30 cada camiseta \nazul custa R$ 25,77 e cada camiseta verde custa \nR$ 18,57 qual é o valor total arrecadado pela \nloja?",
+            "questão": "Questão 24",
+            "enunciado": "Pedro economizou R$ 60,00 por mês durante 8 meses. Mas teve que gastar metade desse valor em um passeio, com quanto Pedro ficou após as economias? (",
             "alternativas": {
-                "A": "R$ 1270,63",
-                "B": "R$ 1269,63",
-                "C": "R$ 1398,15",
-                "D": "R$ 1262,71",
+                "A": "R$ 240,00 (",
+                "B": "R$ 220,00 (",
+                "C": "R$ 200,00 (",
+                "D": "R$ 210,00 (",
+                "E": "R$ 230,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25",
+            "enunciado": "Eduardo está planejando comprar 18 metros de tecido para confeccionar camisetas. Cada metro de tecido custa R$ 12,50. Além disso, ele precisa comprar 2 rolos de linha, cada um custando R$ 31,80. Quanto Eduardo gastará no total? (",
+            "alternativas": {
+                "A": "R$ 44,30 (",
+                "B": "R$ 256,80 (",
+                "C": "R$ 225,00 (",
+                "D": "R$ 63,60 (",
+                "E": "R$ 288,60"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26",
+            "enunciado": "Maria e João estão organizando um evento e decidiram dividir as tarefas. A soma da idade de Maria e João é 50 anos. Se a idade de Maria é o triplo da idade de João, quantos anos cada um deles tem? (",
+            "alternativas": {
+                "A": "Maria tem 30 anos e João tem 20 anos (",
+                "B": "Maria tem 25 anos e João tem 25 anos (",
+                "C": "Maria tem 15 anos e João tem 35 anos (",
+                "D": "Maria tem 20 anos e João tem 30 anos (",
+                "E": "Maria tem 35 anos e João tem 15 anos QUESTÃO 27 Uma loja está oferecendo uma promoção: compre 3 produtos e pague apenas 2. Cada produto custa R$ 19,99. Se Maria comprar 6 produtos, qual será o total a pagar? (A) R$ 39,98 (B) R$ 119,94 (C) R$ 79,96 (D) R$ 69,96 (E) R$ 99,95"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28",
+            "enunciado": "André está controlando seus gastos mensais. Se ele gastou 20% do seu salário de R$ 2.500,00 em alimentação, quanto ele gastou nessa categoria? (",
+            "alternativas": {
+                "A": "R$ 500,00 (",
+                "B": "R$ 400,00 (",
+                "C": "R$ 300,00 (",
+                "D": "R$ 600,00 (",
+                "E": "R$ 2.000,00"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29",
+            "enunciado": "Uma loja de produtos de higiene está com uma promoção: compre 3 itens e pague apenas 2. Cada item custa R$ 5,99. Se Marcos comprar 9 itens, qual será o total a pagar? (",
+            "alternativas": {
+                "A": "R$ 17,97 (",
+                "B": "R$ 23,96 (",
+                "C": "R$ 35,94 (",
+                "D": "R$ 53,91 (",
+                "E": "R$ 11,98"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30",
+            "enunciado": "Assinale a alternativa que apresenta o Vigésimo terceiro número par sucessor de 86: (",
+            "alternativas": {
+                "A": "122 (",
+                "B": "126 (",
+                "C": "130 (",
+                "D": "132 (",
+                "E": "136 Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 7 de 9 QUESTÃO 31 Assinale a alternativa que apresenta o Trigésimo número ímpar antecessor de 777: (A) 698 (B) 717 (C) 710 (D) 747 (E) 727"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 32",
+            "enunciado": "Uma loja vendeu 18 camisetas vermelhas, 25 camisetas azuis e 14 camisetas verdes. Se cada camiseta vermelha custa R$ 20,30 cada camiseta azul custa R$ 25,77 e cada camiseta verde custa R$ 18,57 qual é o valor total arrecadado pela loja? (",
+            "alternativas": {
+                "A": "R$ 1270,63 (",
+                "B": "R$ 1269,63 (",
+                "C": "R$ 1398,15 (",
+                "D": "R$ 1262,71 (",
                 "E": "R$ 1212,31"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 24: Maria decidiu poupar dinheiro colocando R$ \n0,75 em um cofre todos os dias. Ela guardou esse \nvalor todos os dias durante 77 dias antes de \ndecidir abrir o cofre. Qual é o valor total que \nMaria encontrará dentro do cofre?",
+            "questão": "Questão 33",
+            "enunciado": "Maria decidiu poupar dinheiro colocando R$ 0,75 em um cofre todos os dias. Ela guardou esse valor todos os dias durante 77 dias antes de decidir abrir o cofre. Qual é o valor total que Maria encontrará dentro do cofre? (",
             "alternativas": {
-                "A": "R$ 25,75",
-                "B": "R$ 50,75",
-                "C": "R$ 57,75",
-                "D": "R$ 58,25",
+                "A": "R$ 25,75 (",
+                "B": "R$ 50,75 (",
+                "C": "R$ 57,75 (",
+                "D": "R$ 58,25 (",
                 "E": "R$ 59,25"
             },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 34",
+            "enunciado": "Fernanda adquiriu um pacote contendo 80 canetas por um total de R$ 314,40. Qual é o custo unitário de cada caneta?\" (",
+            "alternativas": {
+                "A": "R$ 3,93 (",
+                "B": "R$ 4,20 (",
+                "C": "R$ 2,50 (",
+                "D": "R$ 3,00 (",
+                "E": "R$ 4,50"
+            },
             "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 25: Fernanda adquiriu um pacote contendo 80 \ncanetas por um total de R$ 314,40. Qual é o custo \nunitário de cada caneta?\"",
+            "questão": "Questão 35",
+            "enunciado": "Um jardim retangular tem 15 metros de comprimento e 12 metros de largura. Qual é a área total do jardim em metros quadrados? (",
             "alternativas": {
-                "A": "R$ 3,93",
-                "B": "R$ 4,20",
-                "C": "R$ 2,50",
-                "D": "R$ 3,00",
-                "E": "R$ 4,50  \n \n \n \n QUESTÃO 35  \nUm jardim retangular tem 15 metros de \ncomprimento e 12 metros de largura. Qual é a \nárea total do jardim em metros quadrados?  \n \n(A) 160 m²  \n(B) 180 m²  \n(C) 200 m²  \n(D) 220 m²  \n(E) 240 m²"
+                "A": "160 m² (",
+                "B": "180 m² (",
+                "C": "200 m² (",
+                "D": "220 m² (",
+                "E": "240 m²"
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 26: Uma empresa aumentou os salários de seus \nfuncionários em 10%. Se um funcionário \nganhava R$ 2.000, qual é o novo salário?",
+            "questão": "Questão 36",
+            "enunciado": "Uma empresa aumentou os salários de seus funcionários em 10%. Se um funcionário ganhava R$ 2.000, qual é o novo salário? (",
             "alternativas": {
-                "A": "R$ 2.100",
-                "B": "R$ 2.200",
-                "C": "R$ 2.100",
-                "D": "R$ 2.150",
+                "A": "R$ 2.100 (",
+                "B": "R$ 2.200 (",
+                "C": "R$ 2.100 (",
+                "D": "R$ 2.150 (",
                 "E": "R$ 2.050"
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 27: Em uma escola com 500 alunos, 20% deles \npraticam esportes regularmente. Quantos alunos \nestão envolvidos em atividades esportivas?",
+            "questão": "Questão 37",
+            "enunciado": "Em uma escola com 500 alunos, 20% deles praticam esportes regularmente. Quantos alunos estão envolvidos em atividades esportivas? (",
             "alternativas": {
-                "A": "30 alunos",
-                "B": "50 alunos",
-                "C": "100 alunos",
-                "D": "150 alunos",
+                "A": "30 alunos (",
+                "B": "50 alunos (",
+                "C": "100 alunos (",
+                "D": "150 alunos (",
                 "E": "250 alunos"
             },
             "resposta_correta": "C"
@@ -788,41 +904,44 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 28: Em uma cidade, 25% da população possui carros. \nSe a população total é de 120.000 habitantes, \nquantas pessoas têm carros?",
+            "questão": "Questão 38",
+            "enunciado": "Em uma cidade, 25% da população possui carros. Se a população total é de 120.000 habitantes, quantas pessoas têm carros? (",
             "alternativas": {
-                "A": "20.000 pessoas",
-                "B": "25.000 pessoas",
-                "C": "30.000 pessoas",
-                "D": "15.000 pessoas",
-                "E": "10.000 pessoas  \n \n \n \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 8 de 9 QUESTÃO 39  \nUm restaurante oferece um desconto de 5% para \npagamentos em dinheiro. Se a conta total foi de \nR$ 150, qual será o valor a ser pago em dinheiro?  \n \n(A) R$ 142,50  \n(B) R$ 148,75  \n(C) R$ 147,50  \n(D) R$ 150,75  \n(E) R$ 142,25"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 29: Um supermercado possui 6 prateleiras, cada uma \ncontendo 25 pacotes de macarrão. Quantos \npacotes de macarrão há no total?",
-            "alternativas": {
-                "A": "100 pacotes",
-                "B": "125 pacotes",
-                "C": "130 pacotes",
-                "D": "1140 pacotes",
-                "E": "150 pacotes  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura M unicipal da Estância Climática de Caconde  – Concurso Público 0 1/2023         INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                           Página 9 de 9"
+                "A": "20.000 pessoas (",
+                "B": "25.000 pessoas (",
+                "C": "30.000 pessoas (",
+                "D": "15.000 pessoas (",
+                "E": "10.000 pessoas Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 8 de 9 QUESTÃO 39 Um restaurante oferece um desconto de 5% para pagamentos em dinheiro. Se a conta total foi de R$ 150, qual será o valor a ser pago em dinheiro? (A) R$ 142,50 (B) R$ 148,75 (C) R$ 147,50 (D) R$ 150,75 (E) R$ 142,25"
             },
             "resposta_correta": "C"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 1: Ao analisar o ciclo de vida de um produto em \nrelação ao reconhecimento da fase em que se \nencontra, é pertinente afirmar:",
+            "id_concurso": "01/2023",
+            "questão": "Questão 40",
+            "enunciado": "Um supermercado possui 6 prateleiras, cada uma contendo 25 pacotes de macarrão. Quantos pacotes de macarrão há no total? (",
             "alternativas": {
-                "A": "Esse reconhecimento é um ato concreto.",
-                "B": "Esse reconhecimento é uma tentativa.",
-                "C": "Esse reconhecimento é muito demorado.",
-                "D": "Esse reconhecimento é deveras complicado.",
-                "E": "Esse reconhecimento é fazível.  \n QUESTÃO 02 \nEm cada estágio, observa -se um ritmo de \ncrescimento. Assim, qual dos estágios apresenta \num crescimento menor e uma preferência maior \npelo consumidor?  \n(A) Maturidade  \n(B) Introdução  \n(C) Declínio  \n(D) Crescimento  \n(E) Ponte"
+                "A": "100 pacotes (",
+                "B": "125 pacotes (",
+                "C": "130 pacotes (",
+                "D": "1140 pacotes (",
+                "E": "150 pacotes Prefeitura M unicipal da Estância Climática de Caconde – Concurso Público 0 1/2023 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 9 de 9"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1",
+            "enunciado": "Ao analisar o ciclo de vida de um produto em relação ao reconhecimento da fase em que se encontra, é pertinente afirmar: (",
+            "alternativas": {
+                "A": "Esse reconhecimento é um ato concreto. (",
+                "B": "Esse reconhecimento é uma tentativa. (",
+                "C": "Esse reconhecimento é muito demorado. (",
+                "D": "Esse reconhecimento é deveras complicado. (",
+                "E": "Esse reconhecimento é fazível."
             },
             "resposta_correta": "B"
         },
@@ -830,26 +949,43 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: Quais são os dois pontos diferenciais descritos de \nforma explícita no texto?",
+            "questão": "Questão 2",
+            "enunciado": "Em cada estágio, observa -se um ritmo de crescimento. Assim, qual dos estágios apresenta um crescimento menor e uma preferência maior pelo consumidor? (",
             "alternativas": {
-                "A": "Lucros e despesas",
-                "B": "Oportunidades e problemas",
-                "C": "Crescimento e declínio",
-                "D": "Aceitação e rejeição",
+                "A": "Maturidade (",
+                "B": "Introdução (",
+                "C": "Declínio (",
+                "D": "Crescimento (",
+                "E": "Ponte"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "Quais são os dois pontos diferenciais descritos de forma explícita no texto? (",
+            "alternativas": {
+                "A": "Lucros e despesas (",
+                "B": "Oportunidades e problemas (",
+                "C": "Crescimento e declínio (",
+                "D": "Aceitação e rejeição (",
                 "E": "Consumidor e concorrência"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: No primeiro estágio, qual dos predicativos \nabaixo conceitua assertivamente os lucros?",
+            "questão": "Questão 4",
+            "enunciado": "No primeiro estágio, qual dos predicativos abaixo conceitua assertivamente os lucros? (",
             "alternativas": {
-                "A": "inexistentes",
-                "B": "inexpressivos",
-                "C": "verídicos",
-                "D": "potenciais",
+                "A": "inexistentes (",
+                "B": "inexpressivos (",
+                "C": "verídicos (",
+                "D": "potenciais (",
                 "E": "embrionários"
             },
             "resposta_correta": "B"
@@ -858,27 +994,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 4: De acordo com a literatura, as figuras de \nlinguagem  são formas de expressão que destoam \nda linguagem comum ou denotativa. Elas dão ao \ntexto um significado que vai além do  sentido \nliteral,  portanto permitem uma plurissignificação \ndo enunciado. Releia a segunda frase do terceiro \nparágrafo e destaque a seguir o tipo de figura de \nlinguagem que aparece no referido trecho do \ntexto.",
+            "questão": "Questão 5",
+            "enunciado": "De acordo com a literatura, as figuras de linguagem são formas de expressão que destoam da linguagem comum ou denotativa. Elas dão ao texto um significado que vai além do sentido literal, portanto permitem uma plurissignificação do enunciado. Releia a segunda frase do terceiro parágrafo e destaque a seguir o tipo de figura de linguagem que aparece no referido trecho do texto. (",
             "alternativas": {
-                "A": "Litotes",
-                "B": "Eufemismo",
-                "C": "Ironia",
-                "D": "Antítese",
-                "E": "Gradação  \n CISBRA – Concurso Público - 01/2024                                                                        INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                     Página 3 de 10 QUESTÃO 06 \nRetome a primeira oração do último período do terceiro parágrafo, nela encontramos uma relação de:  \n(A) concessão  \n(B) causa  \n(C) consequência  \n(D) conformidade  \n(E) comparação"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 5: Fonte: Blog do Xandro: Calvin e Haroldo  \nObserve o terceiro balão, e destaque a única alternativa que condiz corretamente com a mesma \ncolocação pronominal que aparece na tirinha.",
-            "alternativas": {
-                "A": "Vou te dizer tudo que sei.",
-                "B": "Professor, me escute, por favor!",
-                "C": "O namorado fez charminho, se fingindo de magoado.",
-                "D": "Talvez lhe dê o anel sonhado.",
-                "E": "Se sente aqui ao meu lado!  \n \nCISBRA – Concurso Público - 01/2024                                                                        INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                     Página 4 de 10 QUESTÃO 08 \nObserve as alternativas abaixo e assinale a única \nque não traz nenhum erro gramatical.  \n(A) Te amo muito, mas vou terminar nosso \nnamoro.  \n(B) Prefiro ficar em casa do que viajar.  \n(C) Os metalúrgicos entraram de greve, \nreivindicando melhores condições de trabalho.  \n(D) Atualmente, indivíduos com mais de trinta \nanos ainda vivem às custas de seus pais.  \n(E) O enfermeiro precisou o motor do aparelho \nrespiratório."
+                "A": "Litotes (",
+                "B": "Eufemismo (",
+                "C": "Ironia (",
+                "D": "Antítese (",
+                "E": "Gradação CISBRA – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 3 de 10 QUESTÃO 06 Retome a primeira oração do último período do terceiro parágrafo, nela encontramos uma relação de: (A) concessão (B) causa (C) consequência (D) conformidade (E) comparação"
             },
             "resposta_correta": "A"
         },
@@ -886,27 +1009,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Assinale a alternativa na qual a expressão \nsublinhada não condiz com a destacada entre \nparênteses.",
+            "questão": "Questão 7",
+            "enunciado": "Fonte: Blog do Xandro: Calvin e Haroldo Observe o terceiro balão, e destaque a única alternativa que condiz corretamente com a mesma colocação pronominal que aparece na tirinha. (",
             "alternativas": {
-                "A": "Sou insipiente  nessa profissão, faz apenas um \nmês que comecei a trabalhar. (iniciante)",
-                "B": "O asilo sobrevive em função das doações de \num benevolente . (filantropo)",
-                "C": "Terminei com meu namorado, ele era muito \nmendacioso . (mentiroso)",
-                "D": "De maneira oculta , realizava seus sonhos. \n(recôndita)",
-                "E": "As alterações  da vida refletem muitos desejos \nfrustrados. (vicissitudes)"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 7: Leia as palavras subsequentes, destaque a \nalternativa que apresenta mais de uma classe \ngramatical.",
-            "alternativas": {
-                "A": "sobre",
-                "B": "ante",
-                "C": "até",
-                "D": "perante",
-                "E": "sob  \n \n QUESTÃO 11  \nQual das alternativas a seguir contraria uma das \nnormas gramaticais?  \n(A) Tenho uma quantia a haver com meu primo.  \n(B) Seu namorado não tem nada a ver com você.  \n(C) Eu estou a anos de terminar meu curso de \noratória.  \n(D) Faz meses que você não me liga.  \n(E) Paula tem muita dó de seu irmão caçula."
+                "A": "Vou te dizer tudo que sei. (",
+                "B": "Professor, me escute, por favor! (",
+                "C": "O namorado fez charminho, se fingindo de magoado. (",
+                "D": "Talvez lhe dê o anel sonhado. (",
+                "E": "Se sente aqui ao meu lado! CISBRA – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 4 de 10 QUESTÃO 08 Observe as alternativas abaixo e assinale a única que não traz nenhum erro gramatical. (A) Te amo muito, mas vou terminar nosso namoro. (B) Prefiro ficar em casa do que viajar. (C) Os metalúrgicos entraram de greve, reivindicando melhores condições de trabalho. (D) Atualmente, indivíduos com mais de trinta anos ainda vivem às custas de seus pais. (E) O enfermeiro precisou o motor do aparelho respiratório."
             },
             "resposta_correta": "D"
         },
@@ -914,83 +1024,74 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 8: Observe os sinônimos destacados a seguir. \nAssinale a alternativa incorreta.",
+            "questão": "Questão 9",
+            "enunciado": "Assinale a alternativa na qual a expressão sublinhada não condiz com a destacada entre parênteses. (",
             "alternativas": {
-                "A": "vultuoso = expressivo",
-                "B": "fechado = cerrado",
-                "C": "baço = fosco",
-                "D": "abundância = profusão",
+                "A": "Sou insipiente nessa profissão, faz apenas um mês que comecei a trabalhar. (iniciante) (",
+                "B": "O asilo sobrevive em função das doações de um benevolente . (filantropo) (",
+                "C": "Terminei com meu namorado, ele era muito mendacioso . (mentiroso) (",
+                "D": "De maneira oculta , realizava seus sonhos. (recôndita) (",
+                "E": "As alterações da vida refletem muitos desejos frustrados. (vicissitudes)"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10",
+            "enunciado": "Leia as palavras subsequentes, destaque a alternativa que apresenta mais de uma classe gramatical. (",
+            "alternativas": {
+                "A": "sobre (",
+                "B": "ante (",
+                "C": "até (",
+                "D": "perante (",
+                "E": "sob"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11",
+            "enunciado": "Qual das alternativas a seguir contraria uma das normas gramaticais? (",
+            "alternativas": {
+                "A": "Tenho uma quantia a haver com meu primo. (",
+                "B": "Seu namorado não tem nada a ver com você. (",
+                "C": "Eu estou a anos de terminar meu curso de oratória. (",
+                "D": "Faz meses que você não me liga. (",
+                "E": "Paula tem muita dó de seu irmão caçula."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12",
+            "enunciado": "Observe os sinônimos destacados a seguir. Assinale a alternativa incorreta. (",
+            "alternativas": {
+                "A": "vultuoso = expressivo (",
+                "B": "fechado = cerrado (",
+                "C": "baço = fosco (",
+                "D": "abundância = profusão (",
                 "E": "duro = rijo"
             },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 9: Leia: “Fuleco foi o mascote da Copa de Mundo \nde 2014. Em cada campeonato, a simbologia por \ntrás da figura escolhida tem relação com o \ndespertar da imaginação fortuita”.  \nObserve cada um dos elementos formativos do \ntrecho supracitado e destaque a classe gramatical \nque foi construída de forma errônea.",
-            "alternativas": {
-                "A": "substantivo",
-                "B": "preposição",
-                "C": "artigo",
-                "D": "verbo",
-                "E": "adjetivo  \n \n \n \n \n \n CISBRA – Concurso Público - 01/2024                                                                        INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                     Página 5 de 10 QUESTÃO 14  \nObserve cada alternativa abaixo, há erros de \ngrafia, concordância e regência. Assim, apenas \numa alternativa foi construída de forma correta, \ndestaque -a. \n(A) Procure o síndico para maiores informações.  \n(B) Minha sobrinha mora em uma casa \ngerminada, pequena, úmida e sem ventilação.  \n(C) Eu tinha impresso inúmeras cópias, mas \nnenhuma ficou legível.  \n(D) Maria é uma gênia, ela faz todas as \npotencializações mentalmente.  \n(E) No aquário, solitário, grávido e a nadar a \nesmo, encontra -se o pequeno peixe ósseo."
-            },
             "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Qual das alternativas abaixo foi construída de \nforma literal?",
+            "questão": "Questão 13",
+            "enunciado": "Leia: “Fuleco foi o mascote da Copa de Mundo de 2014. Em cada campeonato, a simbologia por trás da figura escolhida tem relação com o despertar da imaginação fortuita”. Observe cada um dos elementos formativos do trecho supracitado e destaque a classe gramatical que foi construída de forma errônea. (",
             "alternativas": {
-                "A": "Preciso de um marceneiro urgente, pois o pé \nda minha cama quebrou.",
-                "B": "Engole o choro, você não é mais um bebê.",
-                "C": "Não sentiu nenhum pingo de remorso, \nmesmo magoando todos os seus amigos.",
-                "D": "Conquistou a promoção merecida, agora é \ncolher os frutos de seu trabalho.",
-                "E": "Apesar de ter apenas um ás de copas, \nconseguiu ganhar o jogo."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 11: Há situações em que o uso da crase é obrigatório. \nOutras situações, ele é inadequado. Assim, \nmarque a alternativa que traz um erro em relação \nao emprego da crase (ou falta dela).",
-            "alternativas": {
-                "A": "Voltarei à casa quando descobrirem a causa \ndo vazamento.",
-                "B": "Estou no escritório desde as 14 horas, mas \nninguém chegou para a reunião.",
-                "C": "Nunca retornei à terra natal de meus pais.",
-                "D": "Ficou cara a cara com seu pior pesadelo.",
-                "E": "Foi preso por desacato a autoridade.  \n QUESTÃO 17  \nSão exemplos corretos do emprego da próclise, \nsalvo:  \n(A) Tinham -me falado que você não estava bem.  \n(B) Eu tinha -lhe contado tudo, mas você não \nacreditou.  \n(C) Eu já tinha -lhe mostrado a foto, mas quis \nmostrar novamente.  \n(D) Quero encontrar -te no próximo mês.  \n(E) Quero -te encontrar o quanto antes."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 12: A concordância verbal não foi respeitada em qual \nalternativa?",
-            "alternativas": {
-                "A": "Vendem -se laranjas estragadas na feira.",
-                "B": "Precisa -se de empregados que saibam falar \nmais de três línguas.",
-                "C": "A maioria das abelhas prefere florada \nvespertina.",
-                "D": "Quem menos ajuda, geralmente, é um dos \nque menos participou das decisões.",
-                "E": "As alunos não conseguiram expressar suas \ndúvidas."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 13: Destaque a alternativa que não respeitou a \nconcordância nominal.",
-            "alternativas": {
-                "A": "Os Estados Unidos são a maior potência das \nAméricas quiçá do mundo.",
-                "B": "Qual de nós somos mais compreensíveis com \no erro humano?",
-                "C": "85% do salário acabou no início do mês.",
-                "D": "Alguns de vós perdoaríeis tantos atrasos \ncometidos?",
-                "E": "És tu que me fazes sorrir todas as manhãs \ncom um maravilhoso café fresquinho.  \n \n \n CISBRA – Concurso Público - 01/2024                                                                        INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                     Página 6 de 10 QUESTÃO 20  \nObserve cada termo destacado e assinale a \nalternativa incorreta.  \n(A) Eu não aguentei nossa separação, tampouco  \nvocê. (advérbio de negação)  \n(B) Tudo ficou aquém  do valor acordado. \n(advérbio de lugar)  \n(C) Aquele bebê não chora nunca . (advérbio de \nnegação)  \n(D) Você porventura  acredita na possibilidade de \numa promoção. (advérbio de dúvida).  \n(E) Aquela escola, outrora  repleta de alunos, está \nvazia. (advérbio de tempo)  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "substantivo (",
+                "B": "preposição (",
+                "C": "artigo (",
+                "D": "verbo (",
+                "E": "adjetivo CISBRA – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 5 de 10 QUESTÃO 14 Observe cada alternativa abaixo, há erros de grafia, concordância e regência. Assim, apenas uma alternativa foi construída de forma correta, destaque -a. (A) Procure o síndico para maiores informações. (B) Minha sobrinha mora em uma casa germinada, pequena, úmida e sem ventilação. (C) Eu tinha impresso inúmeras cópias, mas nenhuma ficou legível. (D) Maria é uma gênia, ela faz todas as potencializações mentalmente. (E) No aquário, solitário, grávido e a nadar a esmo, encontra -se o pequeno peixe ósseo."
             },
             "resposta_correta": "C"
         },
@@ -998,13 +1099,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Considere a sequência: G, 6, H, 12, I, 18, (...). \nQual é o 19º termo dessa sequência?",
+            "questão": "Questão 15",
+            "enunciado": "Qual das alternativas abaixo foi construída de forma literal? (",
             "alternativas": {
-                "A": "60",
-                "B": "P",
-                "C": "Q",
-                "D": "54",
-                "E": "Nenhuma das alternativas"
+                "A": "Preciso de um marceneiro urgente, pois o pé da minha cama quebrou. (",
+                "B": "Engole o choro, você não é mais um bebê. (",
+                "C": "Não sentiu nenhum pingo de remorso, mesmo magoando todos os seus amigos. (",
+                "D": "Conquistou a promoção merecida, agora é colher os frutos de seu trabalho. (",
+                "E": "Apesar de ter apenas um ás de copas, conseguiu ganhar o jogo."
             },
             "resposta_correta": "E"
         },
@@ -1012,27 +1114,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 15: Um arquiteto está projetando um edifício e \ndecide adicionar janelas em um padrão \nespecífico. No primeiro andar, ele adiciona 3 \njanelas e a cada andar seguinte, adiciona o triplo \nda quantidade do andar anterior. Se ele continuar \nesse padrão por 5 andares, quantas janelas ele \nterá adicionado ao final do período?",
+            "questão": "Questão 16",
+            "enunciado": "Há situações em que o uso da crase é obrigatório. Outras situações, ele é inadequado. Assim, marque a alternativa que traz um erro em relação ao emprego da crase (ou falta dela). (",
             "alternativas": {
-                "A": "15 janelas",
-                "B": "366 janelas",
-                "C": "363 janelas",
-                "D": "242 janelas",
-                "E": "Nenhuma das alternativas  \n \n \n QUESTÃO 23  \nAssinale a alternativa que apresenta o \nSeptuagésimo segundo número ímpar antecessor \nde 903:  \n(A) 759 \n(B) 831 \n(C) 833 \n(D) 835 \n(E) Nenhuma das alternativas"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 16: Uma fábrica de brinquedos leva \naproximadamente 25 minutos para montar um \ncarrinho de brinquedo. Ela precisa montar 10 \ncarrinhos idênticos. Supondo que o tempo de \nmontagem de cada carrinho seja de 25 minutos, \nquantas horas a fábrica levará para montar todos \nos 10 carrinhos?",
-            "alternativas": {
-                "A": "3 horas e 50 minutos",
-                "B": "4 horas e 10 minutos",
-                "C": "4 horas e 17 minutos",
-                "D": "4 horas e 27 minutos",
-                "E": "Nenhuma das alternativas"
+                "A": "Voltarei à casa quando descobrirem a causa do vazamento. (",
+                "B": "Estou no escritório desde as 14 horas, mas ninguém chegou para a reunião. (",
+                "C": "Nunca retornei à terra natal de meus pais. (",
+                "D": "Ficou cara a cara com seu pior pesadelo. (",
+                "E": "Foi preso por desacato a autoridade."
             },
             "resposta_correta": "A"
         },
@@ -1040,13 +1129,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: João está comprando material para construir um \ndeck de madeira. Ele precisa de 20 tábuas de \nmadeira, cada uma custando R$ 45,75. Quanto \nJoão gastará na compra das tábuas de madeira?",
+            "questão": "Questão 17",
+            "enunciado": "São exemplos corretos do emprego da próclise, salvo: (",
             "alternativas": {
-                "A": "R$ 915,00",
-                "B": "R$ 925,50",
-                "C": "R$ 935,075",
-                "D": "R$ 945,00",
-                "E": "Nenhuma das alternativas  \n \n \n \n \n \n CISBRA – Concurso Público - 01/2024                                                                        INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                     Página 7 de 10 QUESTÃO 26  \nUm cinema está oferecendo descontos em \ningressos para clientes que possuem um cartão de \nfidelidade. Se 20% dos clientes do cinema \npossuem esse cartão, e o cinema vende em média \n250 ingressos por sessão, quantos clientes por \nsessão não têm o cartão de fidelidade e pagarão o \npreço regular pelos ingressos?  \n \n(A) 160 clientes  \n(B) 170 clientes  \n(C) 180 clientes  \n(D) 200 clientes  \n(E) Nenhuma das alternativas"
+                "A": "Tinham -me falado que você não estava bem. (",
+                "B": "Eu tinha -lhe contado tudo, mas você não acreditou. (",
+                "C": "Eu já tinha -lhe mostrado a foto, mas quis mostrar novamente. (",
+                "D": "Quero encontrar -te no próximo mês. (",
+                "E": "Quero -te encontrar o quanto antes."
             },
             "resposta_correta": "C"
         },
@@ -1054,13 +1144,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: Um parque possui 500 animais, entre macacos, \nleões e girafas. Sabe -se que 35% dos animais são \nmacacos, 25% são leões e os 40% restantes são \ngirafas. Se 20% dos macacos, 20% dos leões e \n15% das girafas são filhotes, quantos animais \nadultos há no parque?",
+            "questão": "Questão 18",
+            "enunciado": "A concordância verbal não foi respeitada em qual alternativa? (",
             "alternativas": {
-                "A": "90",
-                "B": "400",
-                "C": "410",
-                "D": "200",
-                "E": "Nenhuma das alternativas"
+                "A": "Vendem -se laranjas estragadas na feira. (",
+                "B": "Precisa -se de empregados que saibam falar mais de três línguas. (",
+                "C": "A maioria das abelhas prefere florada vespertina. (",
+                "D": "Quem menos ajuda, geralmente, é um dos que menos participou das decisões. (",
+                "E": "As alunos não conseguiram expressar suas dúvidas."
             },
             "resposta_correta": "D"
         },
@@ -1068,13 +1159,14 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Um pacote de biscoitos tem 900 gramas. Quantos \nquilogramas de biscoitos há nesse pacote?",
+            "questão": "Questão 19",
+            "enunciado": "Destaque a alternativa que não respeitou a concordância nominal. (",
             "alternativas": {
-                "A": "900 quilogramas",
-                "B": "0,090 quilogramas",
-                "C": "0,9 quilogramas",
-                "D": "70 quilogramas",
-                "E": "Nenhuma das alternativas  \n \n \n QUESTÃO 29  \nJoaquina tinha um cofre com algumas notas e \nmoedas. Ao abri -lo, ele encontrou 20 notas de R$ \n50,00 e 30 notas de R$ 100,00. Além disso, havia \ntambém 40 moedas de R$ 0,25 e 60 moedas de \nR$ 0,50. Qual é o valor total que Joaquina tinha \nno cofrinho?  \n \n(A) R$ 4.500,00  \n(B) R$ 4.040,00  \n(C) R$ 6.000,00  \n(D) R$ 3.500,00  \n(E) Nenhuma das alternativas"
+                "A": "Os Estados Unidos são a maior potência das Américas quiçá do mundo. (",
+                "B": "Qual de nós somos mais compreensíveis com o erro humano? (",
+                "C": "85% do salário acabou no início do mês. (",
+                "D": "Alguns de vós perdoaríeis tantos atrasos cometidos? (",
+                "E": "És tu que me fazes sorrir todas as manhãs com um maravilhoso café fresquinho. CISBRA – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 6 de 10 QUESTÃO 20 Observe cada termo destacado e assinale a alternativa incorreta. (A) Eu não aguentei nossa separação, tampouco você. (advérbio de negação) (B) Tudo ficou aquém do valor acordado. (advérbio de lugar) (C) Aquele bebê não chora nunca . (advérbio de negação) (D) Você porventura acredita na possibilidade de uma promoção. (advérbio de dúvida). (E) Aquela escola, outrora repleta de alunos, está vazia. (advérbio de tempo) MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "B"
         },
@@ -1082,12 +1174,28 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Uma papelaria possui um total de 700 lápis em \nestoque. Se 14% desses lápis são azuis, quantos \nlápis não são azuis?",
+            "questão": "Questão 21",
+            "enunciado": "Considere a sequência: G, 6, H, 12, I, 18, (...). Qual é o 19º termo dessa sequência? (",
             "alternativas": {
-                "A": "98 lápis",
-                "B": "102 lápis",
-                "C": "604 lápis",
-                "D": "706 lápis",
+                "A": "60 (",
+                "B": "P (",
+                "C": "Q (",
+                "D": "54 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22",
+            "enunciado": "Um arquiteto está projetando um edifício e decide adicionar janelas em um padrão específico. No primeiro andar, ele adiciona 3 janelas e a cada andar seguinte, adiciona o triplo da quantidade do andar anterior. Se ele continuar esse padrão por 5 andares, quantas janelas ele terá adicionado ao final do período? (",
+            "alternativas": {
+                "A": "15 janelas (",
+                "B": "366 janelas (",
+                "C": "363 janelas (",
+                "D": "242 janelas (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "C"
@@ -1096,13 +1204,29 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 21: Em uma sorveteria, uma pessoa compra dois \npicolés e um sundae, gastando no total R$ 30,00. \nSe o preço de um picolé é desconhecido e o preço \nde um sundae é de R$ 10,00, qual é o preço de \num picolé?",
+            "questão": "Questão 23",
+            "enunciado": "Assinale a alternativa que apresenta o Septuagésimo segundo número ímpar antecessor de 903: (",
             "alternativas": {
-                "A": "R$ 20,00",
-                "B": "R$ 7,50",
-                "C": "R$ 10,00",
-                "D": "R$ 12,50",
-                "E": "Nenhuma das alternativas  \n \n \n \n \n CISBRA – Concurso Público - 01/2024                                                                        INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                     Página 8 de 10 QUESTÃO 32  \nUma biblioteca possui 3 estantes, cada uma \ncontendo 50 livros de matemática e 60 livros de \nliteratura. Se cada livro de matemática tem, em \nmédia, 100 páginas, quantas páginas de \nmatemática há no total?  \n(A) 15.000 páginas  \n(B) 150.000 páginas  \n(C) 200.000 páginas  \n(D) 18.000 páginas  \n(E) 33.000 páginas"
+                "A": "759 (",
+                "B": "831 (",
+                "C": "833 (",
+                "D": "835 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24",
+            "enunciado": "Uma fábrica de brinquedos leva aproximadamente 25 minutos para montar um carrinho de brinquedo. Ela precisa montar 10 carrinhos idênticos. Supondo que o tempo de montagem de cada carrinho seja de 25 minutos, quantas horas a fábrica levará para montar todos os 10 carrinhos? (",
+            "alternativas": {
+                "A": "3 horas e 50 minutos (",
+                "B": "4 horas e 10 minutos (",
+                "C": "4 horas e 17 minutos (",
+                "D": "4 horas e 27 minutos (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "B"
         },
@@ -1110,68 +1234,148 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 22: Assinale a alternativa que apresenta o Centésimo \nnúmero ímpar antecessor de 701:",
+            "questão": "Questão 25",
+            "enunciado": "João está comprando material para construir um deck de madeira. Ele precisa de 20 tábuas de madeira, cada uma custando R$ 45,75. Quanto João gastará na compra das tábuas de madeira? (",
             "alternativas": {
-                "A": "601",
-                "B": "501",
-                "C": "401",
-                "D": "559",
+                "A": "R$ 915,00 (",
+                "B": "R$ 925,50 (",
+                "C": "R$ 935,075 (",
+                "D": "R$ 945,00 (",
+                "E": "Nenhuma das alternativas CISBRA – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 7 de 10 QUESTÃO 26 Um cinema está oferecendo descontos em ingressos para clientes que possuem um cartão de fidelidade. Se 20% dos clientes do cinema possuem esse cartão, e o cinema vende em média 250 ingressos por sessão, quantos clientes por sessão não têm o cartão de fidelidade e pagarão o preço regular pelos ingressos? (A) 160 clientes (B) 170 clientes (C) 180 clientes (D) 200 clientes (E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27",
+            "enunciado": "Um parque possui 500 animais, entre macacos, leões e girafas. Sabe -se que 35% dos animais são macacos, 25% são leões e os 40% restantes são girafas. Se 20% dos macacos, 20% dos leões e 15% das girafas são filhotes, quantos animais adultos há no parque? (",
+            "alternativas": {
+                "A": "90 (",
+                "B": "400 (",
+                "C": "410 (",
+                "D": "200 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28",
+            "enunciado": "Um pacote de biscoitos tem 900 gramas. Quantos quilogramas de biscoitos há nesse pacote? (",
+            "alternativas": {
+                "A": "900 quilogramas (",
+                "B": "0,090 quilogramas (",
+                "C": "0,9 quilogramas (",
+                "D": "70 quilogramas (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29",
+            "enunciado": "Joaquina tinha um cofre com algumas notas e moedas. Ao abri -lo, ele encontrou 20 notas de R$ 50,00 e 30 notas de R$ 100,00. Além disso, havia também 40 moedas de R$ 0,25 e 60 moedas de R$ 0,50. Qual é o valor total que Joaquina tinha no cofrinho? (",
+            "alternativas": {
+                "A": "R$ 4.500,00 (",
+                "B": "R$ 4.040,00 (",
+                "C": "R$ 6.000,00 (",
+                "D": "R$ 3.500,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30",
+            "enunciado": "Uma papelaria possui um total de 700 lápis em estoque. Se 14% desses lápis são azuis, quantos lápis não são azuis? (",
+            "alternativas": {
+                "A": "98 lápis (",
+                "B": "102 lápis (",
+                "C": "604 lápis (",
+                "D": "706 lápis (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31",
+            "enunciado": "Em uma sorveteria, uma pessoa compra dois picolés e um sundae, gastando no total R$ 30,00. Se o preço de um picolé é desconhecido e o preço de um sundae é de R$ 10,00, qual é o preço de um picolé? (",
+            "alternativas": {
+                "A": "R$ 20,00 (",
+                "B": "R$ 7,50 (",
+                "C": "R$ 10,00 (",
+                "D": "R$ 12,50 (",
+                "E": "Nenhuma das alternativas CISBRA – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 8 de 10 QUESTÃO 32 Uma biblioteca possui 3 estantes, cada uma contendo 50 livros de matemática e 60 livros de literatura. Se cada livro de matemática tem, em média, 100 páginas, quantas páginas de matemática há no total? (A) 15.000 páginas (B) 150.000 páginas (C) 200.000 páginas (D) 18.000 páginas (E) 33.000 páginas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33",
+            "enunciado": "Assinale a alternativa que apresenta o Centésimo número ímpar antecessor de 701: (",
+            "alternativas": {
+                "A": "601 (",
+                "B": "501 (",
+                "C": "401 (",
+                "D": "559 (",
                 "E": "603"
             },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 23: Um professor recebe um salário de R$ 4.000,00 \npor mês. Se ele obtiver um aumento salarial de \n6% ao ano, qual será o salário aproximado desse \nprofessor após 3 anos?",
-            "alternativas": {
-                "A": "R$ 4.240,00",
-                "B": "R$ 4.720,00",
-                "C": "R$ 4.270,00",
-                "D": "R$ 4.300,00",
-                "E": "R$ 4.764,06.  \n \n \n \n QUESTÃO 35  \nUm pacote de farinha de trigo tem 3,75 \nquilogramas. Quantos gramas de farinha de trigo \nhá nesse pacote?  \n(A) 375 gramas  \n(B) 750 gramas  \n(C) 3.750 gramas  \n(D) 7.500 gramas  \n(E) Nenhuma das alternativas"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 24: Um agricultor está plantando árvores frutíferas \nem seu pomar. No primeiro dia, ele planta 5 \nárvores e a cada dia seguinte, planta o triplo da \nquantidade do dia anterior. Se ele continuar esse \npadrão por 6 dias, quantas árvores frutíferas ele \nterá plantado ao final do período?",
-            "alternativas": {
-                "A": "605 árvores",
-                "B": "1215 árvores",
-                "C": "1075 árvores",
-                "D": "1820 árvores",
-                "E": "Nenhuma das alternativas"
-            },
             "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 25: Em uma fazenda, há 300 animais, divididos entre \nvacas, porcos e galinhas. Sabe -se que 40% dos \nanimais são vacas, 30% são porcos e os 30% \nrestantes são galinhas. Se 20% das vacas, 30% \ndos porcos e 10% das galinhas são filhotes, \nquantos animais filhotes há n a fazenda?",
+            "questão": "Questão 34",
+            "enunciado": "Um professor recebe um salário de R$ 4.000,00 por mês. Se ele obtiver um aumento salarial de 6% ao ano, qual será o salário aproximado desse professor após 3 anos? (",
             "alternativas": {
-                "A": "36",
-                "B": "54",
-                "C": "72",
-                "D": "90",
-                "E": "Nenhuma das alternativas  CISBRA – Concurso Público - 01/2024                                                                        INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                     Página 9 de 10 QUESTÃO 38  \nAna está planejando uma viagem de férias e \nprecisa organizar suas finanças. Ela percebeu que \nseu aluguel de carro, que custa R$ 80,00 por dia, \né a maior despesa da viagem. Se ela alugar o \ncarro por 7 dias, começando na segunda -feira, em \nque dia ela encerra rá o aluguel?  \n(A) Segunda -feira \n(B) Terça -feira \n(C) Quarta -feira \n(D) Quinta -feira \n(E) Domingo"
+                "A": "R$ 4.240,00 (",
+                "B": "R$ 4.720,00 (",
+                "C": "R$ 4.270,00 (",
+                "D": "R$ 4.300,00 (",
+                "E": "R$ 4.764,06."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "E"
         },
         {
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 26: Um atleta está se preparando para uma maratona. \nNo primeiro dia de treinamento, ele corre 5 \nquilômetros. A cada dia seguinte, ele aumenta a \ndistância percorrida em relação ao dia anterior \nem 1 quilômetro. Se ele mantiver esse padrão por \n10 dias consecutivos, quantos quilômetros ele \nterá percorrido ao final desse período de \ntreinamento?",
+            "questão": "Questão 35",
+            "enunciado": "Um pacote de farinha de trigo tem 3,75 quilogramas. Quantos gramas de farinha de trigo há nesse pacote? (",
             "alternativas": {
-                "A": "15 quilômetros",
-                "B": "14 quilômetros",
-                "C": "95 quilômetros",
-                "D": "100 quilômetros",
+                "A": "375 gramas (",
+                "B": "750 gramas (",
+                "C": "3.750 gramas (",
+                "D": "7.500 gramas (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 36",
+            "enunciado": "Um agricultor está plantando árvores frutíferas em seu pomar. No primeiro dia, ele planta 5 árvores e a cada dia seguinte, planta o triplo da quantidade do dia anterior. Se ele continuar esse padrão por 6 dias, quantas árvores frutíferas ele terá plantado ao final do período? (",
+            "alternativas": {
+                "A": "605 árvores (",
+                "B": "1215 árvores (",
+                "C": "1075 árvores (",
+                "D": "1820 árvores (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "D"
@@ -1180,15 +1384,46 @@
             "cargo": "SERVENTE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 27: Assinale a alternativa que apresenta o Trigésimo \nquarto número par sucessor de 24:",
+            "questão": "Questão 37",
+            "enunciado": "Em uma fazenda, há 300 animais, divididos entre vacas, porcos e galinhas. Sabe -se que 40% dos animais são vacas, 30% são porcos e os 30% restantes são galinhas. Se 20% das vacas, 30% dos porcos e 10% das galinhas são filhotes, quantos animais filhotes há n a fazenda? (",
             "alternativas": {
-                "A": "56",
-                "B": "58",
-                "C": "90",
-                "D": "92",
-                "E": "Nenhuma das alternativas  \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n CISBRA – Concurso Público - 01/2024                                                                        INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE                                                                                                                                                     Página 10 de 10"
+                "A": "36 (",
+                "B": "54 (",
+                "C": "72 (",
+                "D": "90 (",
+                "E": "Nenhuma das alternativas CISBRA – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 9 de 10 QUESTÃO 38 Ana está planejando uma viagem de férias e precisa organizar suas finanças. Ela percebeu que seu aluguel de carro, que custa R$ 80,00 por dia, é a maior despesa da viagem. Se ela alugar o carro por 7 dias, começando na segunda -feira, em que dia ela encerra rá o aluguel? (A) Segunda -feira (B) Terça -feira (C) Quarta -feira (D) Quinta -feira (E) Domingo"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 39",
+            "enunciado": "Um atleta está se preparando para uma maratona. No primeiro dia de treinamento, ele corre 5 quilômetros. A cada dia seguinte, ele aumenta a distância percorrida em relação ao dia anterior em 1 quilômetro. Se ele mantiver esse padrão por 10 dias consecutivos, quantos quilômetros ele terá percorrido ao final desse período de treinamento? (",
+            "alternativas": {
+                "A": "15 quilômetros (",
+                "B": "14 quilômetros (",
+                "C": "95 quilômetros (",
+                "D": "100 quilômetros (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "C"
+        },
+        {
+            "cargo": "SERVENTE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 40",
+            "enunciado": "Assinale a alternativa que apresenta o Trigésimo quarto número par sucessor de 24: (",
+            "alternativas": {
+                "A": "56 (",
+                "B": "58 (",
+                "C": "90 (",
+                "D": "92 (",
+                "E": "Nenhuma das alternativas CISBRA – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE Página 10 de 10"
+            },
+            "resposta_correta": "D"
         }
     ]
 }

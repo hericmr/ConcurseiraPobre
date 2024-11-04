@@ -12,18 +12,23 @@ const QuestionCard = ({ question, index }) => {
   };
 
   return (
-    <div className="bg-white p-8 rounded-lg shadow-lg mt-6 border border-gray-200">
-      <div className="flex flex-wrap gap-x-6 text-gray-700 font-medium mb-6">
-        <h5 className="text-lg font-semibold">Cargo: {question.cargo}</h5>
-        <p><strong>Edital:</strong> {question.id_concurso}</p>
-        <p><strong>Ano:</strong> {question.id_concurso.slice(-4)}</p>
-        <p><strong>Banca:</strong> Avança-SP</p>
+    <div className="bg-blue-60 p-8 rounded-lg shadow-lg mt-6 border border-gray-200">
+      {/* Novo container para informações do cargo, edital, ano e banca */}
+      <div className="bg-blue-60 p-4 rounded-md mb-6 border border-gray-400">
+        <div className="flex flex-wrap gap-x-6 text-gray-900 font-medium">
+          <h5 className="text-lg font-semibold">Cargo: {question.cargo}</h5>
+          <p><strong>Edital:</strong> {question.id_concurso}</p>
+          <p><strong>Ano:</strong> {question.id_concurso.slice(-4)}</p>
+          <p><strong>Banca:</strong> Avança-SP</p>
+        </div>
       </div>
 
+      {/* Pergunta */}
       <p className="text-gray-800 font-medium mb-6 text-xl leading-relaxed">
-        {index + 1}. {question.questão}
+        {index + 1}. {question.enunciado}
       </p>
 
+      {/* Alternativas */}
       <div className="space-y-4">
         {Object.entries(question.alternativas).map(([letter, text]) => {
           const isCorrectAnswer = isAnswered && letter === question.resposta_correta;
@@ -52,6 +57,7 @@ const QuestionCard = ({ question, index }) => {
         })}
       </div>
 
+      {/* Botão para verificar resposta */}
       <button
         onClick={checkAnswer}
         className="mt-6 w-full bg-gray-600 text-white font-semibold py-3 rounded-lg hover:bg-gray-700 transition-colors"
@@ -60,6 +66,7 @@ const QuestionCard = ({ question, index }) => {
         Verificar Resposta
       </button>
 
+      {/* Feedback */}
       {feedback && (
         <p className={`mt-4 text-center font-semibold text-lg ${feedback === "Correto!" ? "text-green-500" : "text-red-500"}`}>
           {feedback}

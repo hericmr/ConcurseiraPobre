@@ -4,13 +4,59 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: De acordo com as informações presentes na \nreportagem, assinale a alternativa que apresenta \numa análise INCORRETA .",
+            "questão": "Questão 1",
+            "enunciado": "De acordo com as informações presentes na reportagem, assinale a alternativa que apresenta uma análise INCORRETA . (",
             "alternativas": {
-                "A": "Anti-inflamatórios utilizados no controle de \ninfecções por H. pylori podem ajudar na \nprevenção contra o câncer gástrico.",
-                "B": "Terapias anti-interleucina-1 podem ajudar na \nprevenção do câncer de pulmão pois reduzem a \ninflamação associada ao tumor.",
-                "C": "A obesidade, a má nutrição e a ingestão \nexcessiva de álcool são motivos de cânceres \ngástricos.",
-                "D": "Vacinas e remédios também são alternativas \neficazes para precaver certos tipos de câncer.",
-                "E": "Poluentes do ar e fumaça são os principais \ncausadores de tumores no pulmão, brônquio e \ntraqueia."
+                "A": "Anti-inflamatórios utilizados no controle de infecções por H. pylori podem ajudar na prevenção contra o câncer gástrico. (",
+                "B": "Terapias anti-interleucina-1 podem ajudar na prevenção do câncer de pulmão pois reduzem a inflamação associada ao tumor. (",
+                "C": "A obesidade, a má nutrição e a ingestão excessiva de álcool são motivos de cânceres gástricos. (",
+                "D": "Vacinas e remédios também são alternativas eficazes para precaver certos tipos de câncer. (",
+                "E": "Poluentes do ar e fumaça são os principais causadores de tumores no pulmão, brônquio e traqueia."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2",
+            "enunciado": "De acordo com o texto, assinale a alternativa que explica o sentido correto do termo <carcinogênese =. (",
+            "alternativas": {
+                "A": "<um importante agente do grupo das citocinas que media a resposta imune=. (",
+                "B": "<podem conter o crescimento excessivo das células tumorais=. (",
+                "C": "<um fator que pode aumentar o risco de tumores cervicais e maxilofaciais=. (",
+                "D": "<processo de formação do tumor=. (",
+                "E": "<previnem a evasão imune pelas células tumorais=."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3",
+            "enunciado": "De acordo com o texto, o trecho < promovem uma vigilância imunológica importante contra a eliminação de cé lulas mutantes.=, refere -se: (",
+            "alternativas": {
+                "A": "Aos órgãos governamentais. (",
+                "B": "Aos imunizantes contra HPV e que previnem Hepatite B. (",
+                "C": "Aos pesquisadores da Vigilância Sanitária. (",
+                "D": "As vacinas de mucina-1 e receptor do fator de crescimento epidérmico (EGFR). (",
+                "E": "A formação de melanoma cutâneo. QUESTÃO 04 De acordo com o texto, assinale a alternativa que indica o maior fator de risco para a formação de melanoma cutâneo. (A) HPV. (B) H. pylori. (C) Radiação ultravioleta. (D) Tabagismo (E) Agrotóxicos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5",
+            "enunciado": "De acordo com o texto, algumas infecções virais foram associadas a um maior risco de câncer. Assinale a alternativa que apresenta, corretamente, as infecções virais citadas como agentes de promoção de cânceres. (",
+            "alternativas": {
+                "A": "Hepatite B e C, Epstein-Barr e H. pylori. (",
+                "B": "Hepatite B e C, Epstein-Barr, H. pylori e EGFR. (",
+                "C": "Hepatite B e C, HPV e Epstein-Barr. (",
+                "D": "Hepatite B e C, HPV, Epstein-Barr, H. pylori. (",
+                "E": "Hepatite B e C, Epstein-Barr, DNA e IL-1."
             },
             "resposta_correta": "A"
         },
@@ -18,153 +64,134 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: De acordo com o texto, assinale a alternativa que \nexplica o sentido correto do termo \n<carcinogênese =.",
+            "questão": "Questão 6",
+            "enunciado": "A palavra < intrínseco = pode ser substituída por outra sem perder seu significado em: (",
             "alternativas": {
-                "A": "<um importante agente do grupo das citocinas \nque media a resposta imune=.",
-                "B": "<podem conter o crescimento excessivo das \ncélulas tumorais=.",
-                "C": "<um fator que pode aumentar o risco de \ntumores cervicais e maxilofaciais=.",
-                "D": "<processo de formação do tumor=.",
-                "E": "<previnem a evasão imune pelas células \ntumorais=."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 3: De acordo com o texto, o trecho < promovem uma \nvigilância imunológica importante contra a \neliminação de cé lulas mutantes.=, refere -se:",
-            "alternativas": {
-                "A": "Aos órgãos governamentais.",
-                "B": "Aos imunizantes contra HPV e que previnem \nHepatite B.",
-                "C": "Aos pesquisadores da Vigilância Sanitária.",
-                "D": "As vacinas de mucina-1 e receptor do fator de \ncrescimento epidérmico (EGFR).",
-                "E": "A formação de melanoma cutâneo. QUESTÃO 04 \nDe acordo com o texto, assinale a alternativa que \nindica o maior fator de risco para a formação de \nmelanoma cutâneo. \n(A) HPV. \n(B) H. pylori. \n(C) Radiação ultravioleta. \n(D) Tabagismo \n(E) Agrotóxicos."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 4: De acordo com o texto, algumas infecções virais \nforam associadas a um maior risco de câncer. \nAssinale a alternativa que apresenta, \ncorretamente, as infecções virais citadas como \nagentes de promoção de cânceres.",
-            "alternativas": {
-                "A": "Hepatite B e C, Epstein-Barr e H. pylori.",
-                "B": "Hepatite B e C, Epstein-Barr, H. pylori e \nEGFR.",
-                "C": "Hepatite B e C, HPV e Epstein-Barr.",
-                "D": "Hepatite B e C, HPV, Epstein-Barr, H. pylori.",
-                "E": "Hepatite B e C, Epstein-Barr, DNA e IL-1."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 5: A palavra < intrínseco = pode ser substituída por \noutra sem perder seu significado em:",
-            "alternativas": {
-                "A": "Extrínseco.",
-                "B": "Distinto.",
-                "C": "Desconexo.",
-                "D": "Estranho.",
+                "A": "Extrínseco. (",
+                "B": "Distinto. (",
+                "C": "Desconexo. (",
+                "D": "Estranho. (",
                 "E": "Inerente."
             },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7",
+            "enunciado": "No trecho < permitindo assim a recolonização gradual do tecido por células com baixa carga mutacional=, o termo < mutacional = pertence a qual classe de palavras? (",
+            "alternativas": {
+                "A": "Advérbio (",
+                "B": "Adjetivo (",
+                "C": "Pronome (",
+                "D": "Substantivo (",
+                "E": "Verbo Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 4 de 9 QUESTÃO 08 Assim como no trecho < as vacinas e remédios também são alternativas eficazes=, a concordância verbal está empregada observando a norma-padrão da língua portuguesa em: (A) <Os meninos tem brinquedos novos.= (B) <Os canarinhos dança no ar.= (C) <O lápis aparecem na caixa.= (D) <Os coelhos vem saltando ligeiros no jardim.= (E) <As senhoras doaram muitas joias para o convento.="
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9",
+            "enunciado": "No trecho < pode interromper a assimilação de alterações genômicas=, assinale a alternativa que apresenta o antônimo correto do termo <assimilação=. (",
+            "alternativas": {
+                "A": "Absorção (",
+                "B": "Compreensão (",
+                "C": "Percepção (",
+                "D": "Dissociação (",
+                "E": "Entendimento"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10",
+            "enunciado": "No trecho < fatores de risco na evolução do câncer e seus mecanismos=, verificamos a presença de um pronome. Assinale a alternativa que indica corretamente a classificação desse pronome. (",
+            "alternativas": {
+                "A": "Pronome indefinido. (",
+                "B": "Pronome interrogativo. (",
+                "C": "Pronome oblíquo. (",
+                "D": "Pronome possessivo. (",
+                "E": "Pronome relativo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11",
+            "enunciado": "Assinale a alternativa cujo emprego do pronome destacado observa a norma-padrão da língua portuguesa. (",
+            "alternativas": {
+                "A": "< Te amo.= (",
+                "B": "<Nem ouvi -a falar comigo no meio da multidão.= (",
+                "C": "< Me gritou no meio da audiência.= (",
+                "D": "<Talvez deixamo -na falar na festa.= (",
+                "E": "<Enviei -lhe flores e chocolates.="
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 12",
+            "enunciado": "Assinale a alternativa cujo emprego do numeral não observa a norma-padrão da língua portuguesa. (",
+            "alternativas": {
+                "A": "Ela foi alfabetizada na primeira série. (",
+                "B": "Extraiu o terceiro siso. (",
+                "C": "Ele era um agente duplo no país. (",
+                "D": "Ela acertou o dedo na quina da mesa. (",
+                "E": "Vovó vai casar pela segunda vez esse ano."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13",
+            "enunciado": "De acordo com a norma-padrão da língua portuguesa, assinale a alternativa que apresenta um sinônimo correto para o termo < quizila =. (",
+            "alternativas": {
+                "A": "Esmola (",
+                "B": "Briga (",
+                "C": "Conversa (",
+                "D": "Aldeia (",
+                "E": "Festejar"
+            },
             "resposta_correta": "C"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 6: No trecho < permitindo assim a recolonização \ngradual do tecido por células com baixa carga \nmutacional=, o termo < mutacional = pertence a \nqual classe de palavras?",
+            "questão": "Questão 14",
+            "enunciado": "Assinale a alternativa que apresenta o uso correto da colocação pronominal observando a norma- padrão da língua portuguesa. (",
             "alternativas": {
-                "A": "Advérbio",
-                "B": "Adjetivo",
-                "C": "Pronome",
-                "D": "Substantivo",
-                "E": "Verbo Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                           Página 4 de 9 QUESTÃO 08 \nAssim como no trecho < as vacinas e remédios \ntambém são alternativas eficazes=, a \nconcordância verbal está empregada observando \na norma-padrão da língua portuguesa em: \n(A) <Os meninos tem brinquedos novos.=  \n(B) <Os canarinhos dança no ar.=  \n(C) <O lápis aparecem na caixa.=  \n(D) <Os coelhos vem saltando ligeiros no jardim.=  \n(E) <As senhoras doaram muitas joias para o \nconvento.="
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 7: No trecho < pode interromper a assimilação  de \nalterações genômicas=, assinale a alternativa que \napresenta o antônimo correto do termo \n<assimilação=.",
-            "alternativas": {
-                "A": "Absorção",
-                "B": "Compreensão",
-                "C": "Percepção",
-                "D": "Dissociação",
-                "E": "Entendimento"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 8: No trecho < fatores de risco na evolução do câncer \ne seus mecanismos=, verificamos a presença de \num pronome. Assinale a alternativa que indica \ncorretamente a classificação desse pronome.",
-            "alternativas": {
-                "A": "Pronome indefinido.",
-                "B": "Pronome interrogativo.",
-                "C": "Pronome oblíquo.",
-                "D": "Pronome possessivo.",
-                "E": "Pronome relativo."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 9: Assinale a alternativa cujo emprego do pronome \ndestacado observa a norma-padrão da língua \nportuguesa.",
-            "alternativas": {
-                "A": "< Te amo.=",
-                "B": "<Nem ouvi -a falar comigo no meio da \nmultidão.=",
-                "C": "< Me gritou no meio da audiência.=",
-                "D": "<Talvez deixamo -na falar na festa.=",
-                "E": "<Enviei -lhe flores e chocolates.=  \n QUESTÃO 12 \nAssinale a alternativa cujo emprego do numeral \nnão observa a norma-padrão da língua \nportuguesa. \n(A) Ela foi alfabetizada na primeira série.  \n(B) Extraiu o terceiro siso. \n(C) Ele era um agente duplo no país. \n(D) Ela acertou o dedo na quina da mesa. \n(E) Vovó vai casar pela segunda vez esse ano."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 10: De acordo com a norma-padrão da língua \nportuguesa, assinale a alternativa que apresenta \num sinônimo correto para o termo < quizila =.",
-            "alternativas": {
-                "A": "Esmola",
-                "B": "Briga",
-                "C": "Conversa",
-                "D": "Aldeia",
-                "E": "Festejar"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 11: Assinale a alternativa que apresenta o uso correto \nda colocação pronominal observando a norma-\npadrão da língua portuguesa.",
-            "alternativas": {
-                "A": "\"Vou ajudar-des com a tarefa de casa.\"",
-                "B": "\"Vou te ajudar com a tarefa de casa.\"",
-                "C": "\"Te vou ajudar com a tarefa de casa.\"",
-                "D": "\"Vou ajudar-tes com a tarefa de casa.\"",
+                "A": "\"Vou ajudar-des com a tarefa de casa.\" (",
+                "B": "\"Vou te ajudar com a tarefa de casa.\" (",
+                "C": "\"Te vou ajudar com a tarefa de casa.\" (",
+                "D": "\"Vou ajudar-tes com a tarefa de casa.\" (",
                 "E": "\"Vou-te ajudar com a tarefa de casa.\""
             },
-            "resposta_correta": "E"
+            "resposta_correta": "A"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 12: Assinale a alternativa que apresenta o \ncomplemento correto da frase destacada, \nobservando a norma-padrão da língua portuguesa. \n<A cantora investiu muito dinheiro ____  ativos \nimobiliários.\"",
+            "questão": "Questão 15",
+            "enunciado": "Assinale a alternativa que apresenta o complemento correto da frase destacada, observando a norma-padrão da língua portuguesa. <A cantora investiu muito dinheiro ____ ativos imobiliários.\" (",
             "alternativas": {
-                "A": "Em",
-                "B": "De",
-                "C": "Por",
-                "D": "Da",
-                "E": "Para Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                           Página 5 de 9 MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+                "A": "Em (",
+                "B": "De (",
+                "C": "Por (",
+                "D": "Da (",
+                "E": "Para Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 5 de 9 MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "D"
         },
@@ -172,26 +199,28 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 13: Assinale a alternativa que apresenta o décimo \nquarto número par sucessor de 477:",
+            "questão": "Questão 16",
+            "enunciado": "Assinale a alternativa que apresenta o décimo quarto número par sucessor de 477: (",
             "alternativas": {
-                "A": "504",
-                "B": "506",
-                "C": "502",
-                "D": "488",
+                "A": "504 (",
+                "B": "506 (",
+                "C": "502 (",
+                "D": "488 (",
                 "E": "486"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 14: Uma pessoa benfeitora doa 580 livros por ano \npara alunos de baixa renda de uma determinada \ncidade. No entanto, a partir do próximo ano, essa \nmesma pessoa pretende aumentar sua doação em \n25%. Se isso vier a ocorrer, a quantidade de \nlivros doados será de:",
+            "questão": "Questão 17",
+            "enunciado": "Uma pessoa benfeitora doa 580 livros por ano para alunos de baixa renda de uma determinada cidade. No entanto, a partir do próximo ano, essa mesma pessoa pretende aumentar sua doação em 25%. Se isso vier a ocorrer, a quantidade de livros doados será de: (",
             "alternativas": {
-                "A": "700.",
-                "B": "715.",
-                "C": "720.",
-                "D": "725.",
+                "A": "700. (",
+                "B": "715. (",
+                "C": "720. (",
+                "D": "725. (",
                 "E": "730."
             },
             "resposta_correta": "B"
@@ -200,12 +229,13 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 15: Assinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n31 x 12 x 4",
+            "questão": "Questão 18",
+            "enunciado": "Assinale a alternativa que apresenta o resultado para a seguinte operação de multiplicação: 31 x 12 x 4 (",
             "alternativas": {
-                "A": "1472",
-                "B": "1480",
-                "C": "1488",
-                "D": "1498",
+                "A": "1472 (",
+                "B": "1480 (",
+                "C": "1488 (",
+                "D": "1498 (",
                 "E": "1504"
             },
             "resposta_correta": "A"
@@ -214,55 +244,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 16: Assinale a alternativa que apresenta corretamente \no resultado para a seguinte operação com \nnúmeros decimais:  \n7,5 x 6,9",
+            "questão": "Questão 19",
+            "enunciado": "Assinale a alternativa que apresenta corretamente o resultado para a seguinte operação com números decimais: 7,5 x 6,9 (",
             "alternativas": {
-                "A": "48,50",
-                "B": "51,75",
-                "C": "53,20",
-                "D": "55,58",
-                "E": "56,10 QUESTÃO 20 \nUma empresa coleta 2600 garrafas de plástico \npor ano para fins de reciclagem. Contudo, a partir \ndo próximo ano, pretende aumentar referida \ncoleta em 40%. Se isso vier a ocorrer, o número \nde garrafas coletadas será de: \n(A) 3640 \n(B) 3655  \n(C) 3680.  \n(D) 3692.  \n(E) 3702."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 17: Assinale a alternativa que apresenta o nono \nnúmero par antecessor de 291.",
-            "alternativas": {
-                "A": "281",
-                "B": "279",
-                "C": "273",
-                "D": "283",
-                "E": "285"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 18: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n354 x 11 + 120",
-            "alternativas": {
-                "A": "3872",
-                "B": "3882",
-                "C": "3990",
-                "D": "3998",
-                "E": "4014"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 19: Uma determinada igreja possuía capacidade para \nreceber 740 fiéis, mas, após uma grande reforma, \npassou a receber 60% a mais de pessoas. Assinale \na alternativa que apresenta corretamente o \nnúmero de pessoas que tal igreja pode receber:",
-            "alternativas": {
-                "A": "1170.",
-                "B": "1184.",
-                "C": "1220.",
-                "D": "1228",
-                "E": "1282 Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                           Página 6 de 9 QUESTÃO 24 \nAssinale a alternativa que apresenta o décimo \nsegundo número par sucessor de 499.  \n(A) 512  \n(B) 518.  \n(C) 520  \n(D) 522 \n(E) 524."
+                "A": "48,50 (",
+                "B": "51,75 (",
+                "C": "53,20 (",
+                "D": "55,58 (",
+                "E": "56,10 QUESTÃO 20 Uma empresa coleta 2600 garrafas de plástico por ano para fins de reciclagem. Contudo, a partir do próximo ano, pretende aumentar referida coleta em 40%. Se isso vier a ocorrer, o número de garrafas coletadas será de: (A) 3640 (B) 3655 (C) 3680. (D) 3692. (E) 3702."
             },
             "resposta_correta": "B"
         },
@@ -270,12 +259,58 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 20: Uma fábrica de armários constrói 820 peças por \nano, mas, após contratar novos funcionários, \npretende aumentar esse número em 15%. Se isso \nvier a ocorrer, o número de armários construídos \nserá de:",
+            "questão": "Questão 21",
+            "enunciado": "Assinale a alternativa que apresenta o nono número par antecessor de 291. (",
             "alternativas": {
-                "A": "943.",
-                "B": "950.",
-                "C": "952.",
-                "D": "953.",
+                "A": "281 (",
+                "B": "279 (",
+                "C": "273 (",
+                "D": "283 (",
+                "E": "285"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22",
+            "enunciado": "Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática. 354 x 11 + 120 (",
+            "alternativas": {
+                "A": "3872 (",
+                "B": "3882 (",
+                "C": "3990 (",
+                "D": "3998 (",
+                "E": "4014"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23",
+            "enunciado": "Uma determinada igreja possuía capacidade para receber 740 fiéis, mas, após uma grande reforma, passou a receber 60% a mais de pessoas. Assinale a alternativa que apresenta corretamente o número de pessoas que tal igreja pode receber: (",
+            "alternativas": {
+                "A": "1170. (",
+                "B": "1184. (",
+                "C": "1220. (",
+                "D": "1228 (",
+                "E": "1282 Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 6 de 9 QUESTÃO 24 Assinale a alternativa que apresenta o décimo segundo número par sucessor de 499. (A) 512 (B) 518. (C) 520 (D) 522 (E) 524."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25",
+            "enunciado": "Uma fábrica de armários constrói 820 peças por ano, mas, após contratar novos funcionários, pretende aumentar esse número em 15%. Se isso vier a ocorrer, o número de armários construídos será de: (",
+            "alternativas": {
+                "A": "943. (",
+                "B": "950. (",
+                "C": "952. (",
+                "D": "953. (",
                 "E": "957."
             },
             "resposta_correta": "A"
@@ -284,55 +319,89 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 21: Assinale a alternativa que apresenta corretamente \no resultado para a seguinte operação com \nnúmeros decimais:  \n99,7 – 34,9",
+            "questão": "Questão 26",
+            "enunciado": "Assinale a alternativa que apresenta corretamente o resultado para a seguinte operação com números decimais: 99,7 – 34,9 (",
             "alternativas": {
-                "A": "65,7",
-                "B": "64,8",
-                "C": "64,1",
-                "D": "63,8",
+                "A": "65,7 (",
+                "B": "64,8 (",
+                "C": "64,1 (",
+                "D": "63,8 (",
                 "E": "63,2"
             },
-            "resposta_correta": "Não encontrada"
+            "resposta_correta": "B"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 22: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática \nenvolvendo multiplicação:  \n101 x 3 x 8",
+            "questão": "Questão 27",
+            "enunciado": "Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática envolvendo multiplicação: 101 x 3 x 8 (",
             "alternativas": {
-                "A": "2404",
-                "B": "2410.",
-                "C": "2414",
-                "D": "2420",
-                "E": "2424 \n QUESTÃO 28 \nNo presenta ano, um supermercado \ncomercializou 1.100 (mil e cem) ovos de páscoa, \nmas, para o próximo ano, pretende aumentar suas \nvendas em 20%. Se isso vier a ocorrer, o número \nde ovos de páscoa vendidos será de:  \n(A) 1310 \n (B) 1320.  \n(C) 1350.  \n(D) 1360.  \n(E) 1370."
+                "A": "2404 (",
+                "B": "2410. (",
+                "C": "2414 (",
+                "D": "2420 (",
+                "E": "2424"
             },
-            "resposta_correta": "E"
+            "resposta_correta": "A"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 23: Assinale a alternativa que apresenta corretamente \no oitavo número ímpar sucessor de 417.",
+            "questão": "Questão 28",
+            "enunciado": "No presenta ano, um supermercado comercializou 1.100 (mil e cem) ovos de páscoa, mas, para o próximo ano, pretende aumentar suas vendas em 20%. Se isso vier a ocorrer, o número de ovos de páscoa vendidos será de: (",
             "alternativas": {
-                "A": "415",
-                "B": "427.",
-                "C": "429.",
-                "D": "433",
+                "A": "1310 (",
+                "B": "1320. (",
+                "C": "1350. (",
+                "D": "1360. (",
+                "E": "1370."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29",
+            "enunciado": "Assinale a alternativa que apresenta corretamente o oitavo número ímpar sucessor de 417. (",
+            "alternativas": {
+                "A": "415 (",
+                "B": "427. (",
+                "C": "429. (",
+                "D": "433 (",
                 "E": "435"
             },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30",
+            "enunciado": "Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática: 17 + 34 x 6 (",
+            "alternativas": {
+                "A": "211 (",
+                "B": "221. (",
+                "C": "231. (",
+                "D": "241. (",
+                "E": "251. CONHECIMENTOS ESPECÍFICOS"
+            },
             "resposta_correta": "B"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 24: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática:  \n17 + 34 x 6",
+            "questão": "Questão 31",
+            "enunciado": "Assinale a alternativa que NÃO apresenta um tipo de bomba para máquinas de dragagem: (",
             "alternativas": {
-                "A": "211",
-                "B": "221.",
-                "C": "231.",
-                "D": "241.",
-                "E": "251.  \n \nCONHECIMENTOS ESPECÍFICOS"
+                "A": "bomba autoescorvante. (",
+                "B": "bomba de parafuso. (",
+                "C": "bomba de arrimo. (",
+                "D": "bomba submersível. (",
+                "E": "bomba de diafragma. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 7 de 9 QUESTÃO 32 No que diz respeito ao abastecimento de máquinas, mais precisamente sobre o uso de diesel, analise as afirmativas a seguir e, ao final, assinale a alternativa correta: I – Na fórmula S-10, a quantidade de enxofre é menor em relação à fórmula S-500. II – A redução de enxofre no combustível aumenta a contaminação do sistema de injeção. III – A fórmula S-10 é mais avermelhada do que a fórmula S-500. (A) Apenas o item I é verdadeiro. (B) Apenas o item II é verdadeiro. (C) Apenas o item III é verdadeiro. (D) Apenas os itens I e II são verdadeiros. (E) Todos os itens são verdadeiros."
             },
             "resposta_correta": "D"
         },
@@ -340,13 +409,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 25: Assinale a alternativa que NÃO apresenta um \ntipo de bomba para máquinas de dragagem:",
+            "questão": "Questão 33",
+            "enunciado": "Com relação aos tratores de esteira, analise as afirmativas a seguir e, ao final, assinale a alternativa correta: I – Pode ser utilizado na construção civil e em trabalhos de mineração, mas não na agricultura. II – Seu uso é recomendável apenas em local de fácil acesso. III – As esteiras do trator aumentam a aderência no solo. (",
             "alternativas": {
-                "A": "bomba autoescorvante.",
-                "B": "bomba de parafuso.",
-                "C": "bomba de arrimo.",
-                "D": "bomba submersível.",
-                "E": "bomba de diafragma.  \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                           Página 7 de 9 QUESTÃO 32   \nNo que diz respeito ao abastecimento de \nmáquinas, mais precisamente sobre o uso de \ndiesel, analise as afirmativas a seguir e, ao final, \nassinale a alternativa correta:  \nI – Na fórmula S-10, a quantidade de enxofre é \nmenor em relação à fórmula S-500.  \nII – A redução de enxofre no combustível \naumenta a contaminação do sistema de injeção.  \nIII – A fórmula S-10 é mais avermelhada do que \na fórmula S-500.  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e II são verdadeiros.  \n(E) Todos os itens são verdadeiros."
+                "A": "Apenas o item I é verdadeiro. (",
+                "B": "Apenas o item II é verdadeiro. (",
+                "C": "Apenas o item III é verdadeiro. (",
+                "D": "Apenas os itens I e II são verdadeiros. (",
+                "E": "Todos os itens são verdadeiros."
             },
             "resposta_correta": "A"
         },
@@ -354,13 +424,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 26: Com relação aos tratores de esteira, analise as \nafirmativas a seguir e, ao final, assinale a \nalternativa correta:  \nI – Pode ser utilizado na construção civil e em \ntrabalhos de mineração, mas não na agricultura.  \nII – Seu uso é recomendável apenas em local de \nfácil acesso.  \nIII – As esteiras do trator aumentam a aderência \nno solo.",
+            "questão": "Questão 34",
+            "enunciado": "Como se sabe, os tratores de esteira podem ser utilizados para realizar diversas atividades. Sobre o tema, considere os itens a seguir e, ao final, assinale a alternativa correta: I – construção de rodovias. II – aragem do solo. III – compactação de resíduos sólidos em aterros sanitários. IV – compactação do solo para cultivo agrícola. (",
             "alternativas": {
-                "A": "Apenas o item I é verdadeiro.",
-                "B": "Apenas o item II é verdadeiro.",
-                "C": "Apenas o item III é verdadeiro.",
-                "D": "Apenas os itens I e II são verdadeiros.",
-                "E": "Todos os itens são verdadeiros.  \n \n \n \n \n \n QUESTÃO 34 \nComo se sabe, os tratores de esteira podem ser \nutilizados para realizar diversas atividades. Sobre \no tema, considere os itens a seguir e, ao final, \nassinale a alternativa correta:  \nI – construção de rodovias.  \nII – aragem do solo.  \nIII – compactação de resíduos sólidos em aterros \nsanitários.  \nIV – compactação do solo para cultivo agrícola.  \n(A) Apenas os itens I e II são verdadeiros.  \n(B) Apenas os itens II e IV são verdadeiros.  \n(C) Apenas os itens II, III e IV são verdadeiros.  \n(D) Apenas os itens I, II e IV são verdadeiros.  \n(E) Todos os itens são verdadeiros."
+                "A": "Apenas os itens I e II são verdadeiros. (",
+                "B": "Apenas os itens II e IV são verdadeiros. (",
+                "C": "Apenas os itens II, III e IV são verdadeiros. (",
+                "D": "Apenas os itens I, II e IV são verdadeiros. (",
+                "E": "Todos os itens são verdadeiros."
             },
             "resposta_correta": "B"
         },
@@ -368,139 +439,209 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 27: Com relação às motoniveladoras, assinale a \nalternativa que NÃO apresenta uma de suas \nfunções:",
+            "questão": "Questão 35",
+            "enunciado": "Com relação às motoniveladoras, assinale a alternativa que NÃO apresenta uma de suas funções: (",
             "alternativas": {
-                "A": "ajuste de terrenos irregulares em plantações.",
-                "B": "retirada de minas terrestres em zonas de \nconflito.",
-                "C": "criação e manutenção de curvas de níveis.",
-                "D": "criação e manutenção de taludes.",
+                "A": "ajuste de terrenos irregulares em plantações. (",
+                "B": "retirada de minas terrestres em zonas de conflito. (",
+                "C": "criação e manutenção de curvas de níveis. (",
+                "D": "criação e manutenção de taludes. (",
                 "E": "mistura e colocação de materiais."
             },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 36",
+            "enunciado": "Ainda no que diz respeito às motoniveladoras, analise as afirmativas a seguir e, ao final, assinale a alternativa correta: I – Quatro de suas rodas estão localizadas na parte traseira. II – A cabine oferece visão em 360°. III – Permite aceleração em apenas um sentido (frente). (",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro. (",
+                "B": "Apenas o item II é verdadeiro. (",
+                "C": "Apenas o item III é verdadeiro. (",
+                "D": "Apenas os itens I e II são verdadeiros. (",
+                "E": "Todos os itens são verdadeiros. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 8 de 9 QUESTÃO 37 Com relação às características da pá- carregadeira, julgue as afirmativas a seguir e, ao final, assinale a alternativa correta: I – É uma espécie de trator com três pás na parte dianteira. II – É muito utilizada para fazer movimentação de terra e para retirar raízes de árvores. III – Não é capaz de cavar buracos. (A) Apenas o item I é verdadeiro. (B) Apenas o item II é verdadeiro. (C) Apenas o item III é verdadeiro. (D) Apenas os itens I e II são verdadeiros. (E) Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 38",
+            "enunciado": "No que diz respeito à manutenção das máquinas retroescavadeiras, algumas ações são de extrema importância. Sobre o assunto, analise os itens a seguir e, ao final, assinale a alternativa correta: I – inspeção preliminar, que deve ser realizada mensalmente. II – verificação de todos os fluídos. III – lubrificação dos principais pontos de lubrificação. (",
+            "alternativas": {
+                "A": "Apenas o item I é verdadeiro. (",
+                "B": "Apenas o item II é verdadeiro. (",
+                "C": "Apenas o item III é verdadeiro. (",
+                "D": "Apenas os itens II e III são verdadeiros. (",
+                "E": "Todos os itens são verdadeiros."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 39",
+            "enunciado": "Assinale a alternativa que NÃO apresenta um tipo de óleo utilizado em máquinas pesadas: (",
+            "alternativas": {
+                "A": "óleo exponencial. (",
+                "B": "óleo de transmissão. (",
+                "C": "óleo de diferencial. (",
+                "D": "óleo hidráulico. (",
+                "E": "óleo de motor."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 40",
+            "enunciado": "Como se sabe, a maioria dos acidentes são causados por fatores humanos e ambientais. Nesse sentido, assinale a alternativa que não diz respeito a um desses fatores: (",
+            "alternativas": {
+                "A": "fadiga. (",
+                "B": "baixa intensidade de chuva. (",
+                "C": "preocupação. (",
+                "D": "falta de treinamento. (",
+                "E": "incompatibilidade entre o motorista e a máquina. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 9 de 9"
+            },
             "resposta_correta": "E"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 28: Ainda no que diz respeito às motoniveladoras, \nanalise as afirmativas a seguir e, ao final, assinale \na alternativa correta:  \nI – Quatro de suas rodas estão localizadas na \nparte traseira.  \nII – A cabine oferece visão em 360°.  \nIII – Permite aceleração em apenas um sentido \n(frente).",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1",
+            "enunciado": "Segundo a reportagem, os escritos matemáticos de Muhammad ibn Mūsā al - Khwārizmī: (",
             "alternativas": {
-                "A": "Apenas o item I é verdadeiro.",
-                "B": "Apenas o item II é verdadeiro.",
-                "C": "Apenas o item III é verdadeiro.",
-                "D": "Apenas os itens I e II são verdadeiros.",
-                "E": "Todos os itens são verdadeiros. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                           Página 8 de 9 QUESTÃO 37 \nCom relação às características da pá-\ncarregadeira, julgue as afirmativas a seguir e, ao \nfinal, assinale a alternativa correta:  \nI – É uma espécie de trator com três pás na parte \ndianteira.  \nII – É muito utilizada para fazer movimentação \nde terra e para retirar raízes de árvores.  \nIII – Não é capaz de cavar buracos.  \n(A) Apenas o item I é verdadeiro.  \n(B) Apenas o item II é verdadeiro.  \n(C) Apenas o item III é verdadeiro.  \n(D) Apenas os itens I e II são verdadeiros.  \n(E) Todos os itens são verdadeiros."
+                "A": "Influenciaram indiretamente a conceituação dos algorismos no Ocidente. (",
+                "B": "Motivaram a construção da Casa da Sabedoria, em Bagdá. (",
+                "C": "Apresentaram o conceito subjacente de algoritmo, por meio da resolução de equações matemáticas. (",
+                "D": "Foram a base de livros didáticos de diversas disciplinas nas universidades europeias até o século XVI. (",
+                "E": "Introduziram os algoritmos utilizados atualmente na tecnologia de computação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "Analise os excertos a seguir, retirados do texto: I. Essa se tornou sua obra mais importante. II. Ele era um estudioso da Casa da Sabedoria (Bayt al -Hikmah) em Bagdá. III. Sua obra foi concebida para ser uma ferramenta prática de ensino. Nas sentenças apresentadas ocorrem diferentes tipos de pronomes. Em relação ao texto, a função desempenhada por todos esses pronomes é de: (",
+            "alternativas": {
+                "A": "anáfora, com a retomada de referentes mencionados no texto. (",
+                "B": "anáfora, com a introdução de novos referentes no texto. (",
+                "C": "catáfora, com a retomada de referentes mencionados no texto. (",
+                "D": "catáfora, com a introdução de novos referentes no texto. (",
+                "E": "paráfrase, com a recorrência de conteúdos como forma de sequenciação textual."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "A alternativa que melhor reescreve a definição de algoritmo dada no texto — “um procedimento para resolver um problema matemático em um número finito de etapas; um procedimento passo a passo para resolver um problema” —, de maneira objetiva e clara, é: (",
+            "alternativas": {
+                "A": "Um processo com quantidade ilimitada de etapas voltado à resolução de problemas matemáticos. (",
+                "B": "Um método com quantidade limitada de etapas voltado à resolução de um problema matemático. (",
+                "C": "Um conjunto irrestrito de ações que objetivam a resolução de problemas de diferentes naturezas. (",
+                "D": "O desenvolvimento de problemas matemáticos através de um número limitado de etapas. (",
+                "E": "A ação voltada à resolução de problemas quaisquer, desenvolvida em um número ilimitado de etapas."
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 29: No que diz respeito à manutenção das máquinas \nretroescavadeiras, algumas ações são de extrema \nimportância. Sobre o assunto, analise os itens a \nseguir e, ao final, assinale a alternativa correta:  \nI – inspeção preliminar, que deve ser realizada \nmensalmente.  \nII – verificação de todos os fluídos.  \nIII – lubrificação dos principais pontos de \nlubrificação.",
-            "alternativas": {
-                "A": "Apenas o item I é verdadeiro.",
-                "B": "Apenas o item II é verdadeiro.",
-                "C": "Apenas o item III é verdadeiro.",
-                "D": "Apenas os itens II e III são verdadeiros.",
-                "E": "Todos os itens são verdadeiros. \n \n \n \n \n \n \n \n QUESTÃO 39 \nAssinale a alternativa que NÃO apresenta um \ntipo de óleo utilizado em máquinas pesadas:  \n(A) óleo exponencial. \n(B) óleo de transmissão.  \n(C) óleo de diferencial.  \n(D) óleo hidráulico.  \n(E) óleo de motor."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 30: Como se sabe, a maioria dos acidentes são \ncausados por fatores humanos e ambientais. \nNesse sentido, assinale a alternativa que não diz \nrespeito a um desses fatores:",
-            "alternativas": {
-                "A": "fadiga.",
-                "B": "baixa intensidade de chuva.",
-                "C": "preocupação.",
-                "D": "falta de treinamento.",
-                "E": "incompatibilidade entre o motorista e a \nmáquina.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                           Página 9 de 9"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: Segundo a reportagem, os escritos \nmatemáticos de Muhammad ibn Mūsā al -\nKhwārizmī:",
+            "questão": "Questão 4",
+            "enunciado": "A palavra “polímata”, em seu sentido utilizado para descrever Muhammad ibn Mūsā al - Khwārizmī — “o cientista e polímata persa (...)” — é um sinônimo de: (",
             "alternativas": {
-                "A": "Influenciaram indiretamente a \nconceituação dos algorismos no Ocidente.",
-                "B": "Motivaram a construção da Casa da \nSabedoria, em Bagdá.",
-                "C": "Apresentaram o conceito subjacente de \nalgoritmo, por meio da resolução de equações \nmatemáticas.",
-                "D": "Foram a base de livros didáticos de \ndiversas disciplinas nas universidades \neuropeias até o século XVI.",
-                "E": "Introduziram os algoritmos utilizados \natualmente na tecnologia de computação."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 2: Analise os excertos a seguir, retirados do texto:  \n \nI. Essa se tornou sua obra mais importante.  \nII. Ele era um estudioso da Casa da Sabedoria \n(Bayt al -Hikmah) em Bagdá.  \nIII. Sua obra foi concebida para ser uma \nferramenta prática de ensino.  \n \nNas sentenças apresentadas ocorrem diferentes \ntipos de pronomes. Em relação ao texto, a \nfunção desempenhada por todos esses \npronomes é de:",
-            "alternativas": {
-                "A": "anáfora, com a retomada de referentes \nmencionados no texto.",
-                "B": "anáfora, com a introdução de novos \nreferentes no texto.",
-                "C": "catáfora, com a retomada de referentes \nmencionados no texto.",
-                "D": "catáfora, com a introdução de novos \nreferentes no texto.",
-                "E": "paráfrase, com a recorrência de conteúdos \ncomo forma de sequenciação textual.  \n QUESTÃO 03 \nA alternativa que melhor reescreve a definição \nde algoritmo dada no texto — “um \nprocedimento para resolver um problema \nmatemático em um número finito de etapas; \num procedimento passo a passo para resolver \num problema” —, de maneira objetiva e clara, \né: \n(A) Um processo com quantidade ilimitada de \netapas voltado à resolução de problemas \nmatemáticos.  \n(B) Um método com quantidade limitada de \netapas voltado à resolução de um problema \nmatemático.  \n(C) Um conjunto irrestrito de ações que \nobjetivam a resolução de problemas de \ndiferentes naturezas.   \n(D) O desenvolvimento de problemas \nmatemáticos através de um número limitado de \netapas.   \n(E) A ação voltada à resolução de problemas \nquaisquer, desenvolvida em um número \nilimitado de etapas."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 3: A palavra “polímata”, em seu sentido utilizado \npara descrever Muhammad ibn Mūsā al -\nKhwārizmī — “o cientista e polímata persa  \n(...)” — é um sinônimo de:",
-            "alternativas": {
-                "A": "néscio.",
-                "B": "polígrafo.",
-                "C": "prodígio.",
-                "D": "portento.",
+                "A": "néscio. (",
+                "B": "polígrafo. (",
+                "C": "prodígio. (",
+                "D": "portento. (",
                 "E": "estulto."
             },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 4: O conjunto de palavras a seguir, retiradas do \ntexto, que apresenta somente palavras \nformadas por processos de composição é:",
-            "alternativas": {
-                "A": "procedimento; subjacente; decimal.",
-                "B": "conceito; aritmética; islâmico.",
-                "C": "trigonometria; hindu -arábico; geografia.",
-                "D": "astronomia; subtração; multiplicação.",
-                "E": "universidades; tecnologia; integrantes.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                     Página 4 de 10 QUESTÃO 06 \nAnalise as palavras a seguir, retiradas do texto, \nquanto à flexão de gênero. Assinale a \nalternativa em que a palavra indicada é comum \nde dois gêneros.   \n(A) estudioso.  \n(B) polímata.  \n(C) matemáticos.  \n(D) califa.  \n(E) pioneiro."
-            },
             "resposta_correta": "C"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: A palavra  “durante” , que ocorre em “Al-\nKhwārizmī viveu de 780 a 850 d.C., durante a \nEra de Ouro Islâmica.” , pertence à classe \ngramatical:",
+            "questão": "Questão 5",
+            "enunciado": "O conjunto de palavras a seguir, retiradas do texto, que apresenta somente palavras formadas por processos de composição é: (",
             "alternativas": {
-                "A": "substantivo.",
-                "B": "adjetivo.",
-                "C": "advérbio.",
-                "D": "preposição.",
+                "A": "procedimento; subjacente; decimal. (",
+                "B": "conceito; aritmética; islâmico. (",
+                "C": "trigonometria; hindu -arábico; geografia. (",
+                "D": "astronomia; subtração; multiplicação. (",
+                "E": "universidades; tecnologia; integrantes. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 4 de 10 QUESTÃO 06 Analise as palavras a seguir, retiradas do texto, quanto à flexão de gênero. Assinale a alternativa em que a palavra indicada é comum de dois gêneros. (A) estudioso. (B) polímata. (C) matemáticos. (D) califa. (E) pioneiro."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7",
+            "enunciado": "A palavra “durante” , que ocorre em “Al- Khwārizmī viveu de 780 a 850 d.C., durante a Era de Ouro Islâmica.” , pertence à classe gramatical: (",
+            "alternativas": {
+                "A": "substantivo. (",
+                "B": "adjetivo. (",
+                "C": "advérbio. (",
+                "D": "preposição. (",
                 "E": "conjunção."
             },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8",
+            "enunciado": "A palavra “álgebra” é classificada quanto à tonicidade como proparoxítona, assim como: (",
+            "alternativas": {
+                "A": "conteúdo. (",
+                "B": "notável. (",
+                "C": "arábico. (",
+                "D": "possível. (",
+                "E": "Bagdá."
+            },
             "resposta_correta": "E"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: A palavra “álgebra”  é classificada quanto à \ntonicidade como proparoxítona, assim como:",
+            "questão": "Questão 9",
+            "enunciado": "Analise as sentenças a seguir, retiradas do texto, quanto ao emprego do acento indicador de crase: I. E, como você pode suspeitar, ela também está relacionada à álgebra. II. ‘Algorismo’ [...] refere -se às regras para a execução da aritmética usando o sistema numérico hindu -arábico. III. No início do século XX, a palavra ‘algoritmo’ chegou à sua definição atual e ao seu uso [...]. O emprego do acento indicador de crase é facultativo apenas em: (",
             "alternativas": {
-                "A": "conteúdo.",
-                "B": "notável.",
-                "C": "arábico.",
-                "D": "possível.",
-                "E": "Bagdá."
+                "A": "I. (",
+                "B": "II. (",
+                "C": "III. (",
+                "D": "I e II. (",
+                "E": "I e III. QUESTÃO 10 No excerto “Um dos principais projetos que os matemáticos islâmicos empreenderam na Casa da Sabedoria foi desenvolver a álgebra.” , o verbo “empreender” poderia ser substituído sem prejuízo de sentido e alteração de regência por: (A) apreenderam. (B) depreenderam. (C) desprenderam. (D) realizaram. (E) finalizaram."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11",
+            "enunciado": "Nas sentenças a seguir, ocorre verbo abundante apenas em: (",
+            "alternativas": {
+                "A": "Os materiais escolares foram comprados logo no início do mês. (",
+                "B": "Pensei que tivesse entregado os relatórios de que falei. (",
+                "C": "A Rosa me contou sobre tudo o que aconteceu. (",
+                "D": "Minha mãe foi presenteada com perfumes e flores. (",
+                "E": "Os livros transportam seus leitores para outros tempos."
             },
             "resposta_correta": "C"
         },
@@ -508,13 +649,59 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: Analise as sentenças a seguir, retiradas do \ntexto, quanto ao emprego do acento indicador \nde crase:  \nI. E, como você pode suspeitar, ela também \nestá relacionada à álgebra.  \nII.  ‘Algorismo’ [...] refere -se às regras para a \nexecução da aritmética usando o sistema \nnumérico hindu -arábico.  \nIII. No início do século XX, a palavra \n‘algoritmo’ chegou à sua definição atual e ao \nseu uso [...].  \nO emprego do acento indicador de crase é \nfacultativo apenas em:",
+            "questão": "Questão 12",
+            "enunciado": "A sentença que apresenta um advérbio cuja modificação recai sobre um adjetivo é: (",
             "alternativas": {
-                "A": "I.",
-                "B": "II.",
-                "C": "III.",
-                "D": "I e II.",
-                "E": "I e III.  QUESTÃO 10  \nNo excerto “Um dos principais projetos que os \nmatemáticos islâmicos empreenderam na \nCasa da Sabedoria foi desenvolver a \nálgebra.” , o verbo “empreender” poderia ser \nsubstituído sem prejuízo de sentido e alteração \nde regência por:  \n(A) apreenderam.  \n(B) depreenderam.  \n(C) desprenderam.  \n(D) realizaram.  \n(E) finalizaram."
+                "A": "Sugeriram que acordássemos bem cedo para as atividades de recreação. (",
+                "B": "O aroma da baunilha deixa o bolo de chocolate mais gostoso. (",
+                "C": "Corra depressa para chamar os seus irmãos para o jantar. (",
+                "D": "A nova redatora escreve muito bem certos gêneros textuais. (",
+                "E": "Novamente, a garota faltou à aula de literatura por problemas de saúde. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 5 de 10 QUESTÃO 13 Analise os casos de colocação pronominal a seguir e assinale a alternativa em que as condições da sentença apresentada permitem tanto a próclise quanto a ênclise do pronome oblíquo átono. (A) Nunca se queixe dos seus pais, que sempre fizeram tudo por você. (B) Chamar -me-iam de louco se soubessem o que fiz ontem à noite. (C) Conhece verdadeiramente a pessoa por quem se apaixonou? (D) Fui embora para não o provocar. (E) Depois de algumas semanas, começou a maltratá -la."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14",
+            "enunciado": "A concordância nominal está correta apenas em: (",
+            "alternativas": {
+                "A": "Na esquina, vi parado o homem e sua esposa, enquanto discutiam. (",
+                "B": "Passados duas horas da primeira dose do remédio, deverá tomar a segunda. (",
+                "C": "Os brincos e as pulseiras de ouro foram leiloados ainda ontem. (",
+                "D": "Os lençóis devem ficar o mais impecáveis possíveis. (",
+                "E": "O rapaz e sua mulher ajudavam -se um a outra."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa em que a expressão em destaque atua como elemento de coesão sequencial de oposição. (",
+            "alternativas": {
+                "A": "Mauro e André foram muito ágeis. Se não fossem eles, seríamos assaltados. (",
+                "B": "Ela deu -lhe todas as oportunidades. Ele, entretanto , não soube aproveitá -las. (",
+                "C": "A filha mais nova é muito mimada. A garotinha não sabe ouvir um não. (",
+                "D": "Peço -te apenas isto: que honre a memória da minha família. (",
+                "E": "O carro está estacionado naquela vaga. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16",
+            "enunciado": "Sabe -se que uma cédula de R$ 100,00 tem uma espessura de 0,25 mm. Suponha que queiramos fazer uma pilha num total de um bilhão de reais utilizando cédulas de R$ 100,00 empilhadas uma em cima da outra. Com base nas informações dadas, qual será a altura da p ilha? (",
+            "alternativas": {
+                "A": "250 m. (",
+                "B": "2.500 m. (",
+                "C": "25.000 m. (",
+                "D": "250.000 m. (",
+                "E": "2.500.000 m."
             },
             "resposta_correta": "A"
         },
@@ -522,55 +709,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 8: Nas sentenças a seguir, ocorre verbo abundante \napenas em:",
+            "questão": "Questão 17",
+            "enunciado": "Para fazer uma determinada receita utilizando manga, as frutas precisam ser descascadas, depois o caroço precisa ser retirado, e então a polpa restante precisa ser levada ao forno, transformando -se numa biomassa. Sabe -se que ao descascar, perde -se 5% da massa da fruta original, e ao tirar o caroço perde -se mais 20% da massa que re stou do processo anterior. Ao ser levada ao forno, as polpas perdem 50% da massa que tinham antes do processo. Se realizarmos esse processo numa manga que tem inicialmente o peso de 500 gramas, qual será o peso da biomassa final? (",
             "alternativas": {
-                "A": "Os materiais escolares foram comprados \nlogo no início do mês.",
-                "B": "Pensei que tivesse entregado os relatórios \nde que falei.",
-                "C": "A Rosa me contou sobre tudo o que \naconteceu.",
-                "D": "Minha mãe foi presenteada com perfumes \ne flores.",
-                "E": "Os livros transportam seus leitores para \noutros tempos."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 9: A sentença que apresenta um advérbio cuja \nmodificação recai sobre um adjetivo é:",
-            "alternativas": {
-                "A": "Sugeriram que acordássemos bem cedo \npara as atividades de recreação.",
-                "B": "O aroma da baunilha deixa o bolo de \nchocolate mais gostoso.",
-                "C": "Corra depressa para chamar os seus irmãos \npara o jantar.",
-                "D": "A nova redatora escreve muito bem certos \ngêneros textuais.",
-                "E": "Novamente, a garota faltou à aula de \nliteratura por problemas de saúde.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                     Página 5 de 10 QUESTÃO 13  \nAnalise os casos de colocação pronominal a \nseguir e assinale a alternativa em que as \ncondições da sentença apresentada permitem \ntanto a próclise quanto a ênclise do pronome \noblíquo átono.   \n(A) Nunca se queixe dos seus pais, que sempre \nfizeram tudo por você.  \n(B) Chamar -me-iam de louco se soubessem o \nque fiz ontem à noite.   \n(C) Conhece verdadeiramente a pessoa por \nquem se apaixonou?  \n(D) Fui embora para não o provocar.   \n(E) Depois de algumas semanas, começou a \nmaltratá -la."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 10: A concordância nominal está correta apenas \nem:",
-            "alternativas": {
-                "A": "Na esquina, vi parado o homem e sua \nesposa, enquanto discutiam.",
-                "B": "Passados duas horas da primeira dose do \nremédio, deverá tomar a segunda.",
-                "C": "Os brincos e as pulseiras de ouro foram \nleiloados ainda ontem.",
-                "D": "Os lençóis devem ficar o mais impecáveis \npossíveis.",
-                "E": "O rapaz e sua mulher ajudavam -se um a \noutra."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 11: Analise as sentenças a seguir e assinale a \nalternativa em que a expressão em destaque \natua como elemento de coesão sequencial de \noposição.",
-            "alternativas": {
-                "A": "Mauro e André foram muito ágeis. Se não \nfossem eles, seríamos assaltados.",
-                "B": "Ela deu -lhe todas as oportunidades. Ele, \nentretanto , não soube aproveitá -las.",
-                "C": "A filha mais nova é muito mimada. A \ngarotinha  não sabe ouvir um não.",
-                "D": "Peço -te apenas isto: que honre a memória \nda minha família.",
-                "E": "O carro está estacionado naquela  vaga.  MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+                "A": "125 g. (",
+                "B": "140 g. (",
+                "C": "160 g. (",
+                "D": "190 g. (",
+                "E": "225 g."
             },
             "resposta_correta": "C"
         },
@@ -578,27 +724,29 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: Sabe -se que uma cédula de R$ 100,00 tem uma \nespessura de 0,25 mm. Suponha que queiramos \nfazer uma pilha num total de um bilhão de reais \nutilizando cédulas de R$ 100,00 empilhadas \numa em cima da outra. Com base nas \ninformações dadas, qual será a altura da p ilha?",
+            "questão": "Questão 18",
+            "enunciado": "Um cliente vai comprar peças cerâmicas para a sua casa. Ao todo, ele precisa revestir uma área de 120 m2, e escolheu uma peça que tem formato quadrado de 60cmx60cm e é vendida em caixas onde cada caixa tem 5 peças. Quantas caixas, no mínimo, o cliente precisa comprar para conseguir revestir todo a sua área? (",
             "alternativas": {
-                "A": "250 m.",
-                "B": "2.500 m.",
-                "C": "25.000 m.",
-                "D": "250.000 m.",
-                "E": "2.500.000 m."
+                "A": "65. (",
+                "B": "66. (",
+                "C": "67. (",
+                "D": "68. (",
+                "E": "69. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 6 de 10 QUESTÃO 19 Três máquinas em uma fábrica operam em ciclos diferentes. A Máquina A completa um ciclo a cada 12 minutos, a Máquina B completa um ciclo a cada 15 minutos, e a Máquina C completa um ciclo a cada 20 minutos. Se todas as três máquinas começam um ciclo ao mesmo tempo às 8:00 da manhã, a que horas elas completarão um ciclo simultaneamente pela primeira vez após as 8:00 da manhã? (A) 9:00. (B) 8:50. (C) 8:30. (D) 8:06. (E) 9:10."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: Para fazer uma determinada receita utilizando \nmanga, as frutas precisam ser descascadas, \ndepois o caroço precisa ser retirado, e então a \npolpa restante precisa ser levada ao forno, \ntransformando -se numa biomassa. Sabe -se que \nao descascar, perde -se 5% da massa da fruta \noriginal, e ao tirar o caroço perde -se mais 20% \nda massa que re stou do processo anterior. Ao \nser levada ao forno, as polpas perdem 50% da \nmassa que tinham antes do processo. Se \nrealizarmos esse processo numa manga que \ntem inicialmente o peso de 500 gramas, qual \nserá o peso da biomassa final?",
+            "questão": "Questão 20",
+            "enunciado": "Dois estudantes saem às ruas para vender empadas de frango e de camarão para levantar fundos para as suas formaturas. Por dia, cada estudante sai com 50 empadas de frango e 50 empadas de camarão. Ao final do dia, o estudante Pedro vendeu 40 empadas de fran go 40 empadas de camarão, e arrecadou R$ 480,00. Já o estudante Hugo vendeu 30 empadas de frango e 45 empadas de camarão e arrecadou R$ 465,00. Sabe -se que ambos os estudantes praticam a mesma precificação. Qual a soma do valor de uma empada de frango e um a empada de camarão? (",
             "alternativas": {
-                "A": "125 g.",
-                "B": "140 g.",
-                "C": "160 g.",
-                "D": "190 g.",
-                "E": "225 g."
+                "A": "R$ 15,50. (",
+                "B": "R$ 10,00. (",
+                "C": "R$ 18,50. (",
+                "D": "R$ 12,00. (",
+                "E": "R$ 14,50."
             },
             "resposta_correta": "B"
         },
@@ -606,13 +754,29 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Um cliente vai comprar peças cerâmicas para a \nsua casa. Ao todo, ele precisa revestir uma área \nde 120 m2, e escolheu uma peça que tem \nformato quadrado de 60cmx60cm e é vendida \nem caixas onde cada caixa tem 5 peças. \nQuantas caixas, no mínimo, o cliente precisa \ncomprar para conseguir revestir todo a sua \nárea?",
+            "questão": "Questão 21",
+            "enunciado": "Uma equipe de engenheiros vai executar um projeto num prazo total de 80 dias, divididos em 4 fases de iguais intervalos de dias. A próxima fase só começa quanto a anterior é finalizada. No 16° dia de execução do projeto, quantos porcento da primeira fase foram executados? (",
             "alternativas": {
-                "A": "65.",
-                "B": "66.",
-                "C": "67.",
-                "D": "68.",
-                "E": "69.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                     Página 6 de 10 QUESTÃO 19 \nTrês máquinas em uma fábrica operam em \nciclos diferentes. A Máquina A completa um \nciclo a cada 12 minutos, a Máquina B completa \num ciclo a cada 15 minutos, e a Máquina C \ncompleta um ciclo a cada 20 minutos. Se todas \nas três máquinas começam um ciclo ao mesmo \ntempo às 8:00 da manhã, a que horas elas \ncompletarão um ciclo simultaneamente pela \nprimeira vez  após as 8:00 da manhã?  \n(A) 9:00.  \n(B) 8:50.  \n(C) 8:30.  \n(D) 8:06.  \n(E) 9:10."
+                "A": "20%. (",
+                "B": "40%. (",
+                "C": "60%. (",
+                "D": "80%. (",
+                "E": "96%. QUESTÃO 22 A média aritmética simples das notas dos 20 candidatos de um concurso foi 5,0. Além disso, se tomarmos o candidato que teve a maior nota e o candidato que teve e a menor nota, a média entre eles resulta em 4,0. Excluindo -se essas duas pessoas deste grupo, qual a média aritmética dos candidatos que restaram, aproximadamente? (A) 5,11. (B) 4,95. (C) 5,25. (D) 4,80. (E) 4,66."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23",
+            "enunciado": "Uma escola oferece três disciplinas: Matemática, Ciências e História. A média final de cada aluno é calculada utilizando uma média aritmética ponderada das notas dessas disciplinas, com os seguintes pesos: • Matemática: peso 4 • Ciências: peso 3 • História: peso 2 Um aluno obteve as seguintes notas: • Matemática: 7,0 • Ciências: 8,0 • História: 6,0 O aluno terá uma segunda chance para fazer uma nova prova de história, cuja nota substituirá a anterior, e tentar aumentar sua média. Qual deve ser a nota mínima que ele precisa obter para que fique com nota final 8,0? (",
+            "alternativas": {
+                "A": "8,0. (",
+                "B": "8,5. (",
+                "C": "9,0. (",
+                "D": "9,5. (",
+                "E": "10,0. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 7 de 10 QUESTÃO 24 Um quadrado inicialmente de lado L foi esticado ao longo de sua diagonal, mantendo - se ainda sua forma quadrada. Se o comprimento final da diagonal do quadrado é 20% maior que o comprimento da diagonal do quadrado inicial, então pode -se dizer que a área aum entou em: (A) 40%. (B) 44 %. (C) 20%. (D) 42%. (E) 80%."
             },
             "resposta_correta": "D"
         },
@@ -620,27 +784,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 15: Dois estudantes saem às ruas para vender \nempadas de frango e de camarão para levantar \nfundos para as suas formaturas. Por dia, cada \nestudante sai com 50 empadas de frango e 50 \nempadas de camarão. Ao final do dia, o \nestudante Pedro vendeu 40 empadas de fran go \n40 empadas de camarão, e arrecadou R$ \n480,00. Já o estudante Hugo vendeu 30 \nempadas de frango e 45 empadas de camarão e \narrecadou R$ 465,00. Sabe -se que ambos os \nestudantes praticam a mesma precificação. \nQual a soma do valor de uma empada de frango \ne um a empada de camarão?",
+            "questão": "Questão 25",
+            "enunciado": "Um torneio de xadrez será jogado com 4 participantes. Na primeira rodada há 6 jogos onde cada competidor jogou uma única vez com os outros três competidores. A pontuação inicial de todos é 0,0. Para cada partida ganha, o competidor soma 2,0 pontos e para cada partida perdida, soma -2,0 pontos, e em caso de empate ambos os competidores ganham 1,0 ponto. A tabela abaixo mostra o resultado das partidas entre os quat ro participantes do torneio (A, B, C e D): • A ganhou de B • A perdeu para C • A empatou com D • B perdeu para C • B empatou com D • D ganhou de C Qual a ordem de classificação do torneio, do maior para o menor pontuador? (",
             "alternativas": {
-                "A": "R$ 15,50.",
-                "B": "R$ 10,00.",
-                "C": "R$ 18,50.",
-                "D": "R$ 12,00.",
-                "E": "R$ 14,50."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 16: Uma equipe de engenheiros vai executar um \nprojeto num prazo total de 80 dias, divididos \nem 4 fases de iguais intervalos de dias. A \npróxima fase só começa quanto a anterior é \nfinalizada. No 16° dia de execução do projeto, \nquantos porcento da primeira fase foram \nexecutados?",
-            "alternativas": {
-                "A": "20%.",
-                "B": "40%.",
-                "C": "60%.",
-                "D": "80%.",
-                "E": "96%.  QUESTÃO 22 \nA média aritmética simples das notas dos 20 \ncandidatos de um concurso foi 5,0. Além disso, \nse tomarmos o candidato que teve a maior nota \ne o candidato que teve e a menor nota, a média \nentre eles resulta em 4,0. Excluindo -se essas \nduas pessoas deste grupo, qual a média \naritmética dos candidatos que restaram, \naproximadamente?  \n \n(A) 5,11.  \n(B) 4,95.  \n(C) 5,25.  \n(D) 4,80.  \n(E) 4,66."
+                "A": "A, B, C, D. (",
+                "B": "D, A, C, B. (",
+                "C": "B, A, C, D. (",
+                "D": "D, C, A, B. (",
+                "E": "C, A, B, D. QUESTÃO 26 Se é verdade que alguns professores são cientistas e que nenhum escritor é cientista, então é necessariamente falso que: (A) Todo escritor é também professor. (B) Há escritores que são professores. (C) Todo cientista é professor. (D) Há escritores que não são professores. (E) Não há escritores que são professores."
             },
             "resposta_correta": "A"
         },
@@ -648,40 +799,13 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: Uma escola oferece três disciplinas: \nMatemática, Ciências e História. A média final \nde cada aluno é calculada utilizando uma \nmédia aritmética ponderada das notas dessas \ndisciplinas, com os seguintes pesos:  \n• Matemática: peso 4  \n• Ciências: peso 3  \n• História: peso 2  \nUm aluno obteve as seguintes notas:  \n• Matemática: 7,0  \n• Ciências: 8,0  \n• História: 6,0  \nO aluno terá uma segunda chance para fazer \numa nova prova de história, cuja nota \nsubstituirá a anterior, e tentar aumentar sua \nmédia. Qual deve ser a nota mínima que ele \nprecisa obter para que fique com nota final 8,0?",
+            "questão": "Questão 27",
+            "enunciado": "Os 40 alunos de uma turma fizeram uma prova com 5 questões, todas de múltipla escolha. A média aritmética das notas dos 40 alunos foi 7,0. Após a revisão, o professor percebeu que uma questão estava com o gabarito incorreto. Alguns alunos (que marcaram a a lternativa correta no gabarito corrigido) ganharam 2,0 pontos e os demais perderam 2,0 pontos. Com isso, a nova média passou a ser 8,0. Quantos alunos ganharam 2,0 pontos? (",
             "alternativas": {
-                "A": "8,0.",
-                "B": "8,5.",
-                "C": "9,0.",
-                "D": "9,5.",
-                "E": "10,0.  \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                     Página 7 de 10 QUESTÃO 24 \nUm quadrado inicialmente de lado L foi \nesticado ao longo de sua diagonal, mantendo -\nse ainda sua forma quadrada. Se o \ncomprimento final da diagonal do quadrado é \n20% maior que o comprimento da diagonal do \nquadrado inicial, então pode -se dizer que a \nárea aum entou em:  \n(A) 40%.  \n(B) 44 %.  \n(C) 20%.  \n(D) 42%.  \n(E) 80%."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 18: Um torneio de xadrez será jogado com 4 \nparticipantes. Na primeira rodada há 6 jogos \nonde cada competidor jogou uma única vez \ncom os outros três competidores. A pontuação \ninicial de todos é 0,0. Para cada partida ganha, \no competidor soma 2,0 pontos e para cada \npartida perdida, soma -2,0 pontos, e em caso de \nempate ambos os competidores ganham 1,0 \nponto. A tabela abaixo mostra o resultado das \npartidas entre os quat ro participantes do \ntorneio (A, B, C e D):  \n \n• A ganhou de B  \n• A perdeu para C  \n• A empatou com D  \n• B perdeu para C  \n• B empatou com D  \n• D ganhou de C  \n \nQual a ordem de classificação do torneio, do \nmaior para o menor pontuador?",
-            "alternativas": {
-                "A": "A, B, C, D.",
-                "B": "D, A, C, B.",
-                "C": "B, A, C, D.",
-                "D": "D, C, A, B.",
-                "E": "C, A, B, D.  QUESTÃO 26 \nSe é verdade que alguns professores são \ncientistas e que nenhum escritor é cientista, \nentão é necessariamente falso que:  \n(A) Todo escritor é também professor.  \n(B) Há escritores que são professores.  \n(C) Todo cientista é professor.  \n(D) Há escritores que não são professores.  \n(E) Não há escritores que são professores."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 19: Os 40 alunos de uma turma fizeram uma prova \ncom 5 questões, todas de múltipla escolha. A \nmédia aritmética das notas dos 40 alunos foi \n7,0. Após a revisão, o professor percebeu que \numa questão estava com o gabarito incorreto. \nAlguns alunos (que marcaram a a lternativa \ncorreta no gabarito corrigido) ganharam 2,0 \npontos e os demais perderam 2,0 pontos. Com \nisso, a nova média passou a ser 8,0. Quantos \nalunos ganharam 2,0 pontos?",
-            "alternativas": {
-                "A": "20.",
-                "B": "30.",
-                "C": "10.",
-                "D": "15.",
+                "A": "20. (",
+                "B": "30. (",
+                "C": "10. (",
+                "D": "15. (",
                 "E": "25."
             },
             "resposta_correta": "C"
@@ -690,27 +814,29 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Um hexágono regular de lado L é formado \nutilizando seis triângulos equiláteros de lado L, \nconforme a figura abaixo:  \n \nEm termos de L, qual o comprimento do \nsegmento BD?",
+            "questão": "Questão 28",
+            "enunciado": "Um hexágono regular de lado L é formado utilizando seis triângulos equiláteros de lado L, conforme a figura abaixo: Em termos de L, qual o comprimento do segmento BD? (",
             "alternativas": {
-                "A": "𝐿√3\n4.",
-                "B": "𝐿√3\n3.",
-                "C": "𝐿√3\n2.",
-                "D": "𝐿√3.",
-                "E": "𝐿√2. \nPrefeitura Municipal de Sete Barras – Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                     Página 8 de 10 QUESTÃO 29 \nUm acionista tinha um capital inicial de R$ \n120.000,00 e colocou 80% desse capital numa \naplicação segura a juro simples rendendo 1% \nao mês, e o restante do capital colocou em \noutra aplicação também de juro simples, \nrendendo 5% ao mês. Ao final de um ano, qual \nserá o montante do acionista?  \n(A) R$ 131.520,00.  \n(B) R$ 134.400,00.  \n(C) R$ 122.592,00.  \n(D) R$ 136.550,00.  \n(E) R$ 145.920,00."
+                "A": "𝐿√3 4. (",
+                "B": "𝐿√3 3. (",
+                "C": "𝐿√3 2. (",
+                "D": "𝐿√3. (",
+                "E": "𝐿√2. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 8 de 10 QUESTÃO 29 Um acionista tinha um capital inicial de R$ 120.000,00 e colocou 80% desse capital numa aplicação segura a juro simples rendendo 1% ao mês, e o restante do capital colocou em outra aplicação também de juro simples, rendendo 5% ao mês. Ao final de um ano, qual será o montante do acionista? (A) R$ 131.520,00. (B) R$ 134.400,00. (C) R$ 122.592,00. (D) R$ 136.550,00. (E) R$ 145.920,00."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "E"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 21: Uma equipe de limpeza de fachadas de prédios \nfoi contratada para limpar um conjunto de 28 \nprédios. O gerente da equipe sabe que uma \nequipe com 5 pessoas leva 52 horas úteis de \ntrabalho para terminar um único prédio do \nmesmo tipo. Sabendo -se que um dia de \ntrabalho tem 8 horas úteis , quantos dias de \ntrabalho uma equipe com 26 pessoas levará \npara terminar o serviço do conjunto de \nprédios?",
+            "questão": "Questão 30",
+            "enunciado": "Uma equipe de limpeza de fachadas de prédios foi contratada para limpar um conjunto de 28 prédios. O gerente da equipe sabe que uma equipe com 5 pessoas leva 52 horas úteis de trabalho para terminar um único prédio do mesmo tipo. Sabendo -se que um dia de trabalho tem 8 horas úteis , quantos dias de trabalho uma equipe com 26 pessoas levará para terminar o serviço do conjunto de prédios? (",
             "alternativas": {
-                "A": "35 dias.",
-                "B": "48 dias.",
-                "C": "32 dias.",
-                "D": "31 dias.",
-                "E": "42 dias.  \n \nCONHECIMENTOS ESPECÍFICOS"
+                "A": "35 dias. (",
+                "B": "48 dias. (",
+                "C": "32 dias. (",
+                "D": "31 dias. (",
+                "E": "42 dias. CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "C"
         },
@@ -718,13 +844,29 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 22: A escavadeira ou escavadora é a designação \ngenérica aos vários tipos de máquinas de \nescavar, de revolver ou remover terra ou retirar \naterro.  \nNa composição do motor de giro da \nescavadeira, temos elementos como carcaça \nbloco, cilindro e:",
+            "questão": "Questão 31",
+            "enunciado": "A escavadeira ou escavadora é a designação genérica aos vários tipos de máquinas de escavar, de revolver ou remover terra ou retirar aterro. Na composição do motor de giro da escavadeira, temos elementos como carcaça bloco, cilindro e: (",
             "alternativas": {
-                "A": "Jogo de amortecedores.",
-                "B": "Jogo de pistões.",
-                "C": "Catalisador.",
-                "D": "Voltímetro.",
-                "E": "Bateria.  QUESTÃO 32  \nQuando demasiadamente velhos e em \ncondições precárias de uso, qual dos \ncomponentes listados a seguir podem aumentar \no consumo de combustível e em alguns casos \nimpedir o funcionamento do motor de uma \nmáquina pesada:  \n(A) Velas de ignição.  \n(B) Coxim superior.  \n(C) Bucha inferior.  \n(D) Converso catalítico.  \n(E) Braço de reboque."
+                "A": "Jogo de amortecedores. (",
+                "B": "Jogo de pistões. (",
+                "C": "Catalisador. (",
+                "D": "Voltímetro. (",
+                "E": "Bateria. QUESTÃO 32 Quando demasiadamente velhos e em condições precárias de uso, qual dos componentes listados a seguir podem aumentar o consumo de combustível e em alguns casos impedir o funcionamento do motor de uma máquina pesada: (A) Velas de ignição. (B) Coxim superior. (C) Bucha inferior. (D) Converso catalítico. (E) Braço de reboque."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33",
+            "enunciado": "Referente a correta manutenção da caixa de direção de máquinas pesadas, analisar as afirmações a seguir: I. O operador deve providenciar a troca do fluído hidráulico da caixa de direção de acordo com as orientações do fabricante da máquina. II. A bomba da caixa de direção hidráulica deve ser alvo de revisões periódicas para preservar seu adequado funcionament o. III. As juntas, buchas e terminais de direção não devem ser substituídos, mesmo que apresentem desgastes excessivos nas revisões periódicas. Está(ão) Correto(s) (",
+            "alternativas": {
+                "A": "Somente o item I. (",
+                "B": "Somente o item II. (",
+                "C": "Somente o item III. (",
+                "D": "Somente os itens I e II. (",
+                "E": "Todos os itens."
             },
             "resposta_correta": "A"
         },
@@ -732,40 +874,28 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: Referente a correta manutenção da caixa de \ndireção de máquinas pesadas, analisar as \nafirmações a seguir:  \nI. O operador deve providenciar a troca do \nfluído hidráulico da caixa de direção de acordo \ncom as orientações do fabricante da máquina.  \nII. A bomba da caixa de direção hidráulica \ndeve ser alvo de revisões periódicas para \npreservar seu adequado funcionament o.  \nIII. As juntas, buchas e terminais de direção \nnão devem ser substituídos, mesmo que \napresentem desgastes excessivos nas revisões \nperiódicas.  \nEstá(ão) Correto(s)",
+            "questão": "Questão 34",
+            "enunciado": "Na operação com a motoniveladora, a visibilidade oferecida ao operador é um dos aspectos que contribuem com a produtividade e a segurança no momento da operação. O indicador que registra o tempo em que o motor está ligado, independentemente de o veículo estar em movimento ou parado é o: (",
             "alternativas": {
-                "A": "Somente o item I.",
-                "B": "Somente o item II.",
-                "C": "Somente o item III.",
-                "D": "Somente os itens I e II.",
-                "E": "Todos os itens."
+                "A": "Pluviômetro. (",
+                "B": "Barômetro. (",
+                "C": "Micrômetro. (",
+                "D": "Multímetro. (",
+                "E": "Horímetro. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 9 de 10 QUESTÃO 35 Ao utilizar a motoniveladora para fazer o nivelamento de solos macios ou úmidos, com o objetivo de evitar a patinagem das rodas, é indicado que o operador acione: (A) O freio lateral do equipamento. (B) A trava do diferencial. (C) A bateria auxiliar de alimentação elétrica. (D) A direção secundária. (E) O controle de amortecedor de lâmina."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 24: Na operação com a motoniveladora, a \nvisibilidade oferecida ao operador é um dos \naspectos que contribuem com a produtividade \ne a segurança no momento da operação.  \nO indicador que registra o tempo em que o \nmotor está ligado, independentemente de o \nveículo estar em movimento ou parado é o:",
+            "questão": "Questão 36",
+            "enunciado": "Entre as inspeções diárias na motoniveladora, com o objetivo de evitar uma elevação na temperatura da máquina, o operador deve: (",
             "alternativas": {
-                "A": "Pluviômetro.",
-                "B": "Barômetro.",
-                "C": "Micrômetro.",
-                "D": "Multímetro.",
-                "E": "Horímetro.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                     Página 9 de 10 QUESTÃO 35  \nAo utilizar a motoniveladora para fazer o \nnivelamento de solos macios ou úmidos, com \no objetivo de evitar a patinagem das rodas, é \nindicado que o operador acione:  \n(A) O freio lateral do equipamento.  \n(B) A trava do diferencial.  \n(C) A bateria auxiliar de alimentação elétrica.  \n(D) A direção secundária.  \n(E) O controle de amortecedor de lâmina."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 25: Entre as inspeções diárias na motoniveladora, \ncom o objetivo de evitar uma elevação na \ntemperatura da máquina, o operador deve:",
-            "alternativas": {
-                "A": "Limpar a colmeia do radiador.",
-                "B": "Limpar a lâmina niveladora.",
-                "C": "Retirar o Ríper em operações rápidas.",
-                "D": "Mover o Tandem em orientação lateral nas \nladeiras.",
+                "A": "Limpar a colmeia do radiador. (",
+                "B": "Limpar a lâmina niveladora. (",
+                "C": "Retirar o Ríper em operações rápidas. (",
+                "D": "Mover o Tandem em orientação lateral nas ladeiras. (",
                 "E": "Lubrificar a cela e o círculo da máquina."
             },
             "resposta_correta": "A"
@@ -774,27 +904,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 26: É um componente crucial numa \nmotoniveladora. Ele permite tirar a lâmina fora \nda linha de centro da máquina, o que torna \npossível as operações em valetas e taludes. \nEsse componente permite um melhor \nposicionamento da lâmina para trabalhos em \ntaludes do que a barra de apenas 3 furos.",
+            "questão": "Questão 37",
+            "enunciado": "É um componente crucial numa motoniveladora. Ele permite tirar a lâmina fora da linha de centro da máquina, o que torna possível as operações em valetas e taludes. Esse componente permite um melhor posicionamento da lâmina para trabalhos em taludes do que a barra de apenas 3 furos. (",
             "alternativas": {
-                "A": "Barra de linha.",
-                "B": "Barra de 7 orifícios.",
-                "C": "Barra de rosca sem fim.",
-                "D": "Barra de triangulação.",
+                "A": "Barra de linha. (",
+                "B": "Barra de 7 orifícios. (",
+                "C": "Barra de rosca sem fim. (",
+                "D": "Barra de triangulação. (",
                 "E": "Barra acoplável."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 27: Ao abastecer máquinas pesadas no local de \noperação, o motorista deve ter atenção especial \npara:",
-            "alternativas": {
-                "A": "Manter a máquina sempre ligada.",
-                "B": "Lubrificar o tanque antes inserir o diesel.",
-                "C": "Remover o filtro de combustível antes do \nabastecimento.",
-                "D": "Não gerar nenhum tipo de faísca durante o \nabastecimento.",
-                "E": "Manter os profissionais em local fechado, \nlonge da máquina.  \n QUESTÃO 39  \nAnalise o texto a seguir e assinale a alternativa \nque preenche corretamente a lacuna existente, \nem conformidade com o Código de Trânsito \nBrasileiro:  \nO trânsito de veículos sobre passeios, calçadas \ne nos acostamentos, só poderá ocorrer para que \nse _____________________ ou áreas \nespeciais de estacionamento.  \n(A) ultrapasse veículos imobilizados  \n(B) elimine a obstrução no trânsito  \n(C) carregue ou descarregue veículos de carga  \n(D) receba ou transmita informações de \ntrânsito  \n(E) adentre ou se saia dos imóveis"
             },
             "resposta_correta": "C"
         },
@@ -802,15 +919,46 @@
             "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 28: Em consonância com o Código de Trânsito \nBrasileiro, o motorista que dirigir sem atenção \nou sem os cuidados indispensáveis à \nsegurança, mesmo que não cause acidente, \ncomete:",
+            "questão": "Questão 38",
+            "enunciado": "Ao abastecer máquinas pesadas no local de operação, o motorista deve ter atenção especial para: (",
             "alternativas": {
-                "A": "Infração administrativa de trânsito.",
-                "B": "Infração leve de trânsito.",
-                "C": "Infração média de trânsito.",
-                "D": "Infração grave de trânsito.",
-                "E": "Infração gravíssima de trânsito.  \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                               INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS PESADOS                                                                                                     Página 10 de 10"
+                "A": "Manter a máquina sempre ligada. (",
+                "B": "Lubrificar o tanque antes inserir o diesel. (",
+                "C": "Remover o filtro de combustível antes do abastecimento. (",
+                "D": "Não gerar nenhum tipo de faísca durante o abastecimento. (",
+                "E": "Manter os profissionais em local fechado, longe da máquina."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 39",
+            "enunciado": "Analise o texto a seguir e assinale a alternativa que preenche corretamente a lacuna existente, em conformidade com o Código de Trânsito Brasileiro: O trânsito de veículos sobre passeios, calçadas e nos acostamentos, só poderá ocorrer para que se _____________________ ou áreas especiais de estacionamento. (",
+            "alternativas": {
+                "A": "ultrapasse veículos imobilizados (",
+                "B": "elimine a obstrução no trânsito (",
+                "C": "carregue ou descarregue veículos de carga (",
+                "D": "receba ou transmita informações de trânsito (",
+                "E": "adentre ou se saia dos imóveis"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS PESADOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 40",
+            "enunciado": "Em consonância com o Código de Trânsito Brasileiro, o motorista que dirigir sem atenção ou sem os cuidados indispensáveis à segurança, mesmo que não cause acidente, comete: (",
+            "alternativas": {
+                "A": "Infração administrativa de trânsito. (",
+                "B": "Infração leve de trânsito. (",
+                "C": "Infração média de trânsito. (",
+                "D": "Infração grave de trânsito. (",
+                "E": "Infração gravíssima de trânsito. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS PESADOS Página 10 de 10"
+            },
+            "resposta_correta": "B"
         }
     ]
 }

@@ -4,13 +4,14 @@
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: Segundo a reportagem, os escritos \nmatemáticos de Muhammad ibn Mūsā al -\nKhwārizmī:",
+            "questão": "Questão 1",
+            "enunciado": "Segundo a reportagem, os escritos matemáticos de Muhammad ibn Mūsā al - Khwārizmī: (",
             "alternativas": {
-                "A": "Influenciaram indiretamente a \nconceituação dos algorismos no Ocidente.",
-                "B": "Motivaram a construção da Casa da \nSabedoria, em Bagdá.",
-                "C": "Apresentaram o conceito subjacente de \nalgoritmo, por meio da resolução de equações \nmatemáticas.",
-                "D": "Foram a base de livros didáticos de \ndiversas disciplinas nas universidades \neuropeias até o século XVI.",
-                "E": "Introduziram os algoritmos utilizados \natualmente na tecnologia de computação."
+                "A": "Influenciaram indiretamente a conceituação dos algorismos no Ocidente. (",
+                "B": "Motivaram a construção da Casa da Sabedoria, em Bagdá. (",
+                "C": "Apresentaram o conceito subjacente de algoritmo, por meio da resolução de equações matemáticas. (",
+                "D": "Foram a base de livros didáticos de diversas disciplinas nas universidades europeias até o século XVI. (",
+                "E": "Introduziram os algoritmos utilizados atualmente na tecnologia de computação."
             },
             "resposta_correta": "B"
         },
@@ -18,41 +19,74 @@
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: Analise os excertos a seguir, retirados do texto:  \n \nI. Essa se tornou sua obra mais importante.  \n \nII. Ele era um estudioso da Casa da Sabedoria \n(Bayt al -Hikmah) em Bagdá.  \n \nIII. Sua obra foi concebida para ser uma \nferramenta prática de ensino.  \n \nNas sentenças apresentadas ocorrem diferentes \ntipos de pronomes. Em relação ao texto, a \nfunção desempenhada por todos esses \npronomes é de:",
+            "questão": "Questão 2",
+            "enunciado": "Analise os excertos a seguir, retirados do texto: I. Essa se tornou sua obra mais importante. II. Ele era um estudioso da Casa da Sabedoria (Bayt al -Hikmah) em Bagdá. III. Sua obra foi concebida para ser uma ferramenta prática de ensino. Nas sentenças apresentadas ocorrem diferentes tipos de pronomes. Em relação ao texto, a função desempenhada por todos esses pronomes é de: (",
             "alternativas": {
-                "A": "anáfora, com a retomada de referentes \nmencionados no texto.",
-                "B": "anáfora, com a introdução de novos \nreferentes no texto.",
-                "C": "catáfora, com a retomada de referentes \nmencionados no texto.",
-                "D": "catáfora, com a introdução de novos \nreferentes no texto.",
-                "E": "paráfrase, com a recorrência de conteúdos \ncomo forma de sequenciação textual.  \n \n QUESTÃO 03 \nA alternativa que melhor reescreve a definição \nde algoritmo dada no texto — “um \nprocedimento para resolver um problema \nmatemático em um número finito de etapas; \num procedimento passo a passo para resolver \num problema” —, de maneira objetiva e clara, \né: \n(A) Um processo com quantidade ilimitada de \netapas voltado à resolução de problemas \nmatemáticos.  \n(B) Um método com quantidade limitada de \netapas voltado à resolução de um problema \nmatemático.  \n(C) Um conjunto irrestrito de ações que \nobjetivam a resolução de problemas de \ndiferentes naturezas.   \n(D) O desenvolvimento de problemas \nmatemáticos através de um número limitado de \netapas.   \n(E) A ação voltada à resolução de problemas \nquaisquer, desenvolvida em um número \nilimitado de etapas."
+                "A": "anáfora, com a retomada de referentes mencionados no texto. (",
+                "B": "anáfora, com a introdução de novos referentes no texto. (",
+                "C": "catáfora, com a retomada de referentes mencionados no texto. (",
+                "D": "catáfora, com a introdução de novos referentes no texto. (",
+                "E": "paráfrase, com a recorrência de conteúdos como forma de sequenciação textual."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "B"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: A palavra “polímata”, em seu sentido utilizado \npara descrever Muhammad ibn Mūsā al -\nKhwārizmī — “o cientista e polímata persa  \n(...)” — é um sinônimo de:",
+            "questão": "Questão 3",
+            "enunciado": "A alternativa que melhor reescreve a definição de algoritmo dada no texto — “um procedimento para resolver um problema matemático em um número finito de etapas; um procedimento passo a passo para resolver um problema” —, de maneira objetiva e clara, é: (",
             "alternativas": {
-                "A": "néscio.",
-                "B": "polígrafo.",
-                "C": "prodígio.",
-                "D": "portento.",
+                "A": "Um processo com quantidade ilimitada de etapas voltado à resolução de problemas matemáticos. (",
+                "B": "Um método com quantidade limitada de etapas voltado à resolução de um problema matemático. (",
+                "C": "Um conjunto irrestrito de ações que objetivam a resolução de problemas de diferentes naturezas. (",
+                "D": "O desenvolvimento de problemas matemáticos através de um número limitado de etapas. (",
+                "E": "A ação voltada à resolução de problemas quaisquer, desenvolvida em um número ilimitado de etapas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4",
+            "enunciado": "A palavra “polímata”, em seu sentido utilizado para descrever Muhammad ibn Mūsā al - Khwārizmī — “o cientista e polímata persa (...)” — é um sinônimo de: (",
+            "alternativas": {
+                "A": "néscio. (",
+                "B": "polígrafo. (",
+                "C": "prodígio. (",
+                "D": "portento. (",
                 "E": "estulto."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 4: O conjunto de palavras a seguir, retiradas do \ntexto, que apresenta somente palavras \nformadas por processos de composição é:",
+            "questão": "Questão 5",
+            "enunciado": "O conjunto de palavras a seguir, retiradas do texto, que apresenta somente palavras formadas por processos de composição é: (",
             "alternativas": {
-                "A": "procedimento; subjacente; decimal.",
-                "B": "conceito; aritmética; islâmico.",
-                "C": "trigonometria; hindu -arábico; geografia.",
-                "D": "astronomia; subtração; multiplicação.",
-                "E": "universidades; tecnologia; integrantes.  \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nTÉCNICO EM RAIO X                                                                                                                                 Página 4 de 12 QUESTÃO 06 \nNas sentenças a seguir, ocorre verbo abundante \napenas em:  \n(A) Os materiais escolares foram comprados \nlogo no início do mês.  \n(B) Pensei que tivesse entregado os relatórios \nde que falei.   \n(C) A Rosa me contou sobre tudo o que \naconteceu.   \n(D) Minha mãe foi presenteada com perfumes \ne flores.   \n(E) Os livros transportam seus leitores para \noutros tempos."
+                "A": "procedimento; subjacente; decimal. (",
+                "B": "conceito; aritmética; islâmico. (",
+                "C": "trigonometria; hindu -arábico; geografia. (",
+                "D": "astronomia; subtração; multiplicação. (",
+                "E": "universidades; tecnologia; integrantes. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO EM RAIO X Página 4 de 12 QUESTÃO 06 Nas sentenças a seguir, ocorre verbo abundante apenas em: (A) Os materiais escolares foram comprados logo no início do mês. (B) Pensei que tivesse entregado os relatórios de que falei. (C) A Rosa me contou sobre tudo o que aconteceu. (D) Minha mãe foi presenteada com perfumes e flores. (E) Os livros transportam seus leitores para outros tempos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7",
+            "enunciado": "A sentença que apresenta um advérbio cuja modificação recai sobre um adjetivo é: (",
+            "alternativas": {
+                "A": "Sugeriram que acordássemos bem cedo para as atividades de recreação. (",
+                "B": "O aroma da baunilha deixa o bolo de chocolate mais gostoso. (",
+                "C": "Corra depressa para chamar os seus irmãos para o jantar. (",
+                "D": "A nova redatora escreve muito bem certos gêneros textuais. (",
+                "E": "Novamente, a garota faltou à aula de literatura por problemas de saúde."
             },
             "resposta_correta": "C"
         },
@@ -60,55 +94,29 @@
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: A sentença que apresenta um advérbio cuja \nmodificação recai sobre um adjetivo é:",
+            "questão": "Questão 8",
+            "enunciado": "Analise os casos de colocação pronominal a seguir e assinale a alternativa em que as condições da sentença apresentada permitem tanto a próclise quanto a ênclise do pronome oblíquo átono. (",
             "alternativas": {
-                "A": "Sugeriram que acordássemos bem cedo \npara as atividades de recreação.",
-                "B": "O aroma da baunilha deixa o bolo de \nchocolate mais gostoso.",
-                "C": "Corra depressa para chamar os seus irmãos \npara o jantar.",
-                "D": "A nova redatora escreve muito bem certos \ngêneros textuais.",
-                "E": "Novamente, a garota faltou à aula de \nliteratura por problemas de saúde."
+                "A": "Nunca se queixe dos seus pais, que sempre fizeram tudo por você. (",
+                "B": "Chamar -me-iam de louco se soubessem o que fiz ontem à noite. (",
+                "C": "Conhece verdadeiramente a pessoa por quem se apaixonou? (",
+                "D": "Fui embora para não o provocar. (",
+                "E": "Depois de algumas semanas, começou a maltratá -la. QUESTÃO 09 A concordância nominal está correta apenas em: (A) Na esquina, vi parado o homem e sua esposa, enquanto discutiam. (B) Passados duas horas da primeira dose do remédio, deverá tomar a segunda. (C) Os brincos e as pulseiras de ouro foram leiloados ainda ontem. (D) Os lençóis devem ficar o mais impecáveis possíveis. (E) O rapaz e sua mulher ajudavam -se um a outra."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Analise os casos de colocação pronominal a \nseguir e assinale a alternativa em que as \ncondições da sentença apresentada permitem \ntanto a próclise quanto a ênclise do pronome \noblíquo átono.",
+            "questão": "Questão 1",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa em que a expressão em destaque atua como elemento de coesão sequencial de oposição. (",
             "alternativas": {
-                "A": "Nunca se queixe dos seus pais, que sempre \nfizeram tudo por você.",
-                "B": "Chamar -me-iam de louco se soubessem o \nque fiz ontem à noite.",
-                "C": "Conhece verdadeiramente a pessoa por \nquem se apaixonou?",
-                "D": "Fui embora para não o provocar.",
-                "E": "Depois de algumas semanas, começou a \nmaltratá -la. QUESTÃO 09 \nA concordância nominal está correta apenas \nem:   \n \n(A) Na esquina, vi parado o homem e sua \nesposa, enquanto discutiam.  \n(B) Passados duas horas da primeira dose do \nremédio, deverá tomar a segunda.  \n(C) Os brincos e as pulseiras de ouro foram \nleiloados ainda ontem.   \n(D) Os lençóis devem ficar o mais impecáveis \npossíveis.  \n(E) O rapaz e sua mulher ajudavam -se um a \noutra."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 7: 0 \nAnalise as sentenças a seguir e assinale a \nalternativa em que a expressão em destaque \natua como elemento de coesão sequencial de \noposição.",
-            "alternativas": {
-                "A": "Mauro e André foram muito ágeis. Se não \nfossem eles, seríamos assaltados.",
-                "B": "Ela deu -lhe todas as oportunidades. Ele, \nentretanto , não soube aproveitá -las.",
-                "C": "A filha mais nova é muito mimada. A \ngarotinha  não sabe ouvir um não.",
-                "D": "Peço -te apenas isto: que honre a memória \nda minha família.",
-                "E": "O carro está estacionado naquela  vaga.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 8: Sabe -se que uma cédula de R$ 100,00 tem uma \nespessura de 0,25 mm. Suponha que queiramos \nfazer uma pilha num total de um bilhão de reais \nutilizando cédulas de R$ 100,00 empilhadas \numa em cima da outra. Com base nas \ninformações dadas, qual será a altura da pilha?",
-            "alternativas": {
-                "A": "250 m.",
-                "B": "2.500 m.",
-                "C": "25.000 m.",
-                "D": "250.000 m.",
-                "E": "2.500.000 m.  \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nTÉCNICO EM RAIO X                                                                                                                                 Página 5 de 12 QUESTÃO 12 \nPara fazer uma determinada receita utilizando \nmanga, as frutas precisam ser descascadas, \ndepois o caroço precisa ser retirado, e então a \npolpa restante precisa ser levada ao forno, \ntransformando -se numa biomassa. Sabe -se que \nao descascar, perde -se 5% da ma ssa da fruta \noriginal, e ao tirar o caroço perde -se mais 20% \nda massa que restou do processo anterior. Ao \nser levada ao forno, as polpas perdem 50% da \nmassa que tinham antes do processo. Se \nrealizarmos esse processo numa manga que \ntem inicialmente o peso d e 500 gramas, qual \nserá o peso da biomassa final?  \n(A) 125 g.  \n(B) 140 g.  \n(C) 160 g.  \n(D) 190 g.  \n(E) 225 g."
+                "A": "Mauro e André foram muito ágeis. Se não fossem eles, seríamos assaltados. (",
+                "B": "Ela deu -lhe todas as oportunidades. Ele, entretanto , não soube aproveitá -las. (",
+                "C": "A filha mais nova é muito mimada. A garotinha não sabe ouvir um não. (",
+                "D": "Peço -te apenas isto: que honre a memória da minha família. (",
+                "E": "O carro está estacionado naquela vaga. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "B"
         },
@@ -116,69 +124,119 @@
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: Um cliente vai comprar peças cerâmicas para a \nsua casa. Ao todo, ele precisa revestir uma área \nde 120 m2, e escolheu uma peça que tem \nformato quadrado de 60cmx60cm e é vendida \nem caixas onde cada caixa tem 5 peças. \nQuantas caixas, no mínimo, o cliente precisa \ncomprar para conseguir revestir todo a sua \nárea?",
+            "questão": "Questão 11",
+            "enunciado": "Sabe -se que uma cédula de R$ 100,00 tem uma espessura de 0,25 mm. Suponha que queiramos fazer uma pilha num total de um bilhão de reais utilizando cédulas de R$ 100,00 empilhadas uma em cima da outra. Com base nas informações dadas, qual será a altura da pilha? (",
             "alternativas": {
-                "A": "65.",
-                "B": "66.",
-                "C": "67.",
-                "D": "68.",
+                "A": "250 m. (",
+                "B": "2.500 m. (",
+                "C": "25.000 m. (",
+                "D": "250.000 m. (",
+                "E": "2.500.000 m. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO EM RAIO X Página 5 de 12 QUESTÃO 12 Para fazer uma determinada receita utilizando manga, as frutas precisam ser descascadas, depois o caroço precisa ser retirado, e então a polpa restante precisa ser levada ao forno, transformando -se numa biomassa. Sabe -se que ao descascar, perde -se 5% da ma ssa da fruta original, e ao tirar o caroço perde -se mais 20% da massa que restou do processo anterior. Ao ser levada ao forno, as polpas perdem 50% da massa que tinham antes do processo. Se realizarmos esse processo numa manga que tem inicialmente o peso d e 500 gramas, qual será o peso da biomassa final? (A) 125 g. (B) 140 g. (C) 160 g. (D) 190 g. (E) 225 g."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13",
+            "enunciado": "Um cliente vai comprar peças cerâmicas para a sua casa. Ao todo, ele precisa revestir uma área de 120 m2, e escolheu uma peça que tem formato quadrado de 60cmx60cm e é vendida em caixas onde cada caixa tem 5 peças. Quantas caixas, no mínimo, o cliente precisa comprar para conseguir revestir todo a sua área? (",
+            "alternativas": {
+                "A": "65. (",
+                "B": "66. (",
+                "C": "67. (",
+                "D": "68. (",
                 "E": "69."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "B"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Três máquinas em uma fábrica operam em \nciclos diferentes. A Máquina A completa um \nciclo a cada 12 minutos, a Máquina B completa \num ciclo a cada 15 minutos, e a Máquina C \ncompleta um ciclo a cada 20 minutos. Se todas \nas três máquinas começam um ciclo ao mes mo \ntempo às 8:00 da manhã, a que horas elas \ncompletarão um ciclo simultaneamente pela \nprimeira vez após as 8:00 da manhã?",
+            "questão": "Questão 14",
+            "enunciado": "Três máquinas em uma fábrica operam em ciclos diferentes. A Máquina A completa um ciclo a cada 12 minutos, a Máquina B completa um ciclo a cada 15 minutos, e a Máquina C completa um ciclo a cada 20 minutos. Se todas as três máquinas começam um ciclo ao mes mo tempo às 8:00 da manhã, a que horas elas completarão um ciclo simultaneamente pela primeira vez após as 8:00 da manhã? (",
             "alternativas": {
-                "A": "9:00.",
-                "B": "8:50.",
-                "C": "8:30.",
-                "D": "8:06.",
-                "E": "9:10.  QUESTÃO 15 \nDois estudantes saem às ruas para vender \nempadas de frango e de camarão para levantar \nfundos para as suas formaturas. Por dia, cada \nestudante sai com 50 empadas de frango e 50 \nempadas de camarão. Ao final do dia, o \nestudante Pedro vendeu 40 empadas de fran go \n40 empadas de camarão, e arrecadou R$ \n480,00. Já o estudante Hugo vendeu 30 \nempadas de frango e 45 empadas de camarão e \narrecadou R$ 465,00. Sabe -se que ambos os \nestudantes praticam a mesma precificação. \nQual a soma do valor de uma empada de frango \ne um a empada de camarão?  \n(A) R$ 15,50.  \n(B) R$ 10,00.  \n(C) R$ 18,50.  \n(D) R$ 12,00.  \n(E) R$ 14,50.  \n \nNOÇÕES DE INFORMÁTICA"
+                "A": "9:00. (",
+                "B": "8:50. (",
+                "C": "8:30. (",
+                "D": "8:06. (",
+                "E": "9:10. QUESTÃO 15 Dois estudantes saem às ruas para vender empadas de frango e de camarão para levantar fundos para as suas formaturas. Por dia, cada estudante sai com 50 empadas de frango e 50 empadas de camarão. Ao final do dia, o estudante Pedro vendeu 40 empadas de fran go 40 empadas de camarão, e arrecadou R$ 480,00. Já o estudante Hugo vendeu 30 empadas de frango e 45 empadas de camarão e arrecadou R$ 465,00. Sabe -se que ambos os estudantes praticam a mesma precificação. Qual a soma do valor de uma empada de frango e um a empada de camarão? (A) R$ 15,50. (B) R$ 10,00. (C) R$ 18,50. (D) R$ 12,00. (E) R$ 14,50. NOÇÕES DE INFORMÁTICA"
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Assinale a alternativa que completa \ncorretamente a lacuna do texto a seguir, de \nacordo com as características relacionadas ao \nWindows 7:  \nO Windows 7 é um ____________ \ndesenvolvido pela Microsoft, parte da série de \nsistemas Windows, projetado para \ncomputadores pessoais, abrangendo desde uso \ndoméstico até empresarial.",
+            "questão": "Questão 16",
+            "enunciado": "Assinale a alternativa que completa corretamente a lacuna do texto a seguir, de acordo com as características relacionadas ao Windows 7: O Windows 7 é um ____________ desenvolvido pela Microsoft, parte da série de sistemas Windows, projetado para computadores pessoais, abrangendo desde uso doméstico até empresarial. (",
             "alternativas": {
-                "A": "sistema operacional",
-                "B": "periférico de saída",
-                "C": "periférico de entrada",
-                "D": "protocolo de internet",
+                "A": "sistema operacional (",
+                "B": "periférico de saída (",
+                "C": "periférico de entrada (",
+                "D": "protocolo de internet (",
                 "E": "servidor de e -mails"
             },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 12: Ao clicar com o botão direito sobre uma pasta \ndo Windows 7, uma das opções que será \napresentada para o usuário será a ação de:",
-            "alternativas": {
-                "A": "Indexar.",
-                "B": "Renomear.",
-                "C": "Corromper.",
-                "D": "Fixar em configurações.",
-                "E": "Fixar em reprodução automática.  \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nTÉCNICO EM RAIO X                                                                                                                                 Página 6 de 12 QUESTÃO 18 \nPara recortar uma pasta localizada no \nWindows 7 é possível clicar com o botão \nesquerdo do mouse sobre ela e selecionar o \ncomando:  \n \n(A) Alt + O.  \n(B) Alt + P.  \n(C) Ctrl + T.  \n(D) Ctrl + X.  \n(E) Ctrl + Z."
-            },
             "resposta_correta": "C"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: Para substituir um texto digitado no Microsoft \nWord, o redator deve acessar a guia “Página \nInicial”, clicar sobre “Substituir” e digitar o \ntexto que será substituído no campo:",
+            "questão": "Questão 17",
+            "enunciado": "Ao clicar com o botão direito sobre uma pasta do Windows 7, uma das opções que será apresentada para o usuário será a ação de: (",
             "alternativas": {
-                "A": "Alterar.",
-                "B": "Corrigir.",
-                "C": "Reorganizar.",
-                "D": "Redefinir.",
+                "A": "Indexar. (",
+                "B": "Renomear. (",
+                "C": "Corromper. (",
+                "D": "Fixar em configurações. (",
+                "E": "Fixar em reprodução automática. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO EM RAIO X Página 6 de 12 QUESTÃO 18 Para recortar uma pasta localizada no Windows 7 é possível clicar com o botão esquerdo do mouse sobre ela e selecionar o comando: (A) Alt + O. (B) Alt + P. (C) Ctrl + T. (D) Ctrl + X. (E) Ctrl + Z."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19",
+            "enunciado": "Para substituir um texto digitado no Microsoft Word, o redator deve acessar a guia “Página Inicial”, clicar sobre “Substituir” e digitar o texto que será substituído no campo: (",
+            "alternativas": {
+                "A": "Alterar. (",
+                "B": "Corrigir. (",
+                "C": "Reorganizar. (",
+                "D": "Redefinir. (",
                 "E": "Localizar."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20",
+            "enunciado": "Observe a ilustração a seguir, extraída do Microsoft Word, e assinale a alternativa que melhor descreve o nome e utilidade do botão em destaque sob o cursor na imagem: Fonte: 1 https://support.microsoft.com/ (",
+            "alternativas": {
+                "A": "Tachar. (",
+                "B": "Tipografia. (",
+                "C": "Remover. (",
+                "D": "Classificar. (",
+                "E": "Justificar. CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "A radiossensibilidade celular é um fenômeno complexo que depende de diversos fatores. Sobre a especificidade da radiossensibilidade celular, é correto afirmar: (",
+            "alternativas": {
+                "A": "A radiossensibilidade celular é altamente específica, sendo determinada exclusivamente pelo tipo de célula. (",
+                "B": "A radiossensibilidade celular não é específica, sendo determinada apenas pela dose de radiação ionizante. (",
+                "C": "A radiossensibilidade celular é parcialmente específica, dependendo do tipo de célula, fase do ciclo celular e condições de oxigenação. (",
+                "D": "A radiossensibilidade celular é completamente inespecífica, não havendo diferença entre diferentes tipos de células. (",
+                "E": "A radiossensibilidade celular é determinada unicamente pela energia da radiação ionizante, independentemente do tipo de célula."
             },
             "resposta_correta": "B"
         },
@@ -186,167 +244,194 @@
             "cargo": "TÉCNICO EM RAIO X",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Observe a ilustração a seguir, extraída do \nMicrosoft Word, e assinale a alternativa que \nmelhor descreve o nome e utilidade do botão \nem destaque sob o cursor na imagem:  \n \nFonte: 1 https://support.microsoft.com/",
+            "questão": "Questão 2",
+            "enunciado": "O tempo de latência da radiossensibilidade celular refere -se ao intervalo entre a exposição à radiação ionizante e o aparecimento dos efeitos biológicos. Sobre esse aspecto, pode -se afirmar: (",
             "alternativas": {
-                "A": "Tachar.",
-                "B": "Tipografia.",
-                "C": "Remover.",
-                "D": "Classificar.",
-                "E": "Justificar.  \n \n \n CONHECIMENTOS ESPECÍFICOS"
+                "A": "O tempo de latência é sempre imediato, com os efeitos biológicos aparecendo imediatamente após a exposição à radiação. (",
+                "B": "O tempo de latência é variável e depende de fatores como a dose de radiação, o tipo de célula e a natureza do efeito biológico. (",
+                "C": "O tempo de latência é constante e igual para todas as células, independentemente da dose de radiação ou do tipo de célula. (",
+                "D": "O tempo de latência é determinado exclusivamente pela energia da radiação ionizante, não sendo influenciado por outros fatores. (",
+                "E": "O tempo de latência é sempre superior a um ano, independentemente da dose de radiação ou do tipo de célula. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO EM RAIO X Página 7 de 12 QUESTÃO 2 3 A reversibilidade da radiossensibilidade celular refere -se à capacidade das células de reparar os danos causados pela radiação ionizante. Nesse contexto, é correto afirmar: (A) A radiossensibilidade celular é totalmente irreversível, não havendo possibilidade de reparo dos danos causados pela radiação. (B) A reversibilidade da radiossensibilidade celular é absoluta, com todas as células sendo capazes de reparar completamente os danos causados pela radiação. (C) A reversibilidade da radiossensibilidade celular depende de fatores como a dose de radiação, o tipo de célula e a fase do ciclo celular. (D) A reversibilidade da radiossensibilidade celular é determinada exclusivamente pela energia da radiação ionizante, não sendo influenciada por outros fatores. (E) A reversibilidade da radiossensibilidade celular é um fenômeno binário, sendo as células completamente capazes de reparar os danos ou completamente incapazes, não havendo estado intermediário."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "B"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 15: 1 \nA radiossensibilidade celular é um fenômeno \ncomplexo que depende de diversos fatores. \nSobre a especificidade da radiossensibilidade \ncelular, é correto afirmar:",
+            "questão": "Questão 2",
+            "enunciado": "A transmissibilidade da radiossensibilidade celular refere -se à capacidade de transferir os efeitos da radiação ionizante para células não irradiadas. Sobre esse aspecto, é correto afirmar: (",
             "alternativas": {
-                "A": "A radiossensibilidade celular é altamente \nespecífica, sendo determinada exclusivamente \npelo tipo de célula.",
-                "B": "A radiossensibilidade celular não é \nespecífica, sendo determinada apenas pela \ndose de radiação ionizante.",
-                "C": "A radiossensibilidade celular é \nparcialmente específica, dependendo do tipo \nde célula, fase do ciclo celular e condições de \noxigenação.",
-                "D": "A radiossensibilidade celular é \ncompletamente inespecífica, não havendo \ndiferença entre diferentes tipos de células.",
-                "E": "A radiossensibilidade celular é \ndeterminada unicamente pela energia da \nradiação ionizante, independentemente do tipo \nde célula."
+                "A": "A radiossensibilidade celular é totalmente transmissível, com os efeitos da radiação sendo transferidos para todas as células não irradiadas. (",
+                "B": "A radiossensibilidade celular não é transmissível, com os efeitos da radiação sendo restritos apenas às células diretamente irradiadas. (",
+                "C": "A transmissibilidade da radiossensibilidade celular é determinada exclusivamente pela energia da radiação ionizante, não sendo influenciada por outros fatores. (",
+                "D": "A transmissibilidade da radiossensibilidade celular é parcial, dependendo de fatores como a dose de radiação, o tipo de célula e a presença de sinais intercelulares. (",
+                "E": "A transmissibilidade da radiossensibilidade celular é um fenômeno binário, sendo as células completamente transmissíveis ou completamente não transmissíveis, não havendo estado intermediário."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25",
+            "enunciado": "Para avaliar a articulação atlantoaxial em um paciente com suspeita de instabilidade, a incidência radiológica mais indicada é: (",
+            "alternativas": {
+                "A": "Perfil da coluna cervical. (",
+                "B": "Oblíqua da coluna cervical. (",
+                "C": "Transoral. (",
+                "D": "Anteroposterior da coluna cervical com boca aberta. (",
+                "E": "Lateral da coluna cervical em flexão e extensão. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO EM RAIO X Página 8 de 12 QUESTÃO 26 Em um paciente com suspeita de luxação acromioclavicular, a incidência radiológica que melhor demonstra a relação entre a clavícula e o acrômio é: (A) Anteroposterior do ombro com rotação interna. (B) Anteroposterior do ombro com rotação externa. (C) Perfil axilar do ombro. (D) Anteroposterior do ombro com carga bilateral. (E) West Point."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27",
+            "enunciado": "Para avaliar a articulação metatarsofalangeana do hálux em um paciente com suspeita de gota, a incidência radiológica mais adequada é: (",
+            "alternativas": {
+                "A": "Anteroposterior do pé com carga. (",
+                "B": "Perfil do pé. (",
+                "C": "Oblíqua do pé. (",
+                "D": "Anteroposterior do pé sem carga. (",
+                "E": "Axial sesamoide do pé."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28",
+            "enunciado": "O fígado é um órgão complexo e suas divisões anatômicas são importantes para a compreensão de sua estrutura e funções. Sobre as divisões anatômicas do fígado, é correto afirmar: (",
+            "alternativas": {
+                "A": "O fígado é dividido em dois lobos principais: lobo direito e lobo esquerdo, separados pelo ligamento falciforme. (",
+                "B": "O fígado é dividido em quatro lobos principais: lobo direito, lobo esquerdo, lobo caudado e lobo quadrado. (",
+                "C": "O fígado é dividido em três segmentos principais: segmento lateral esquerdo, segmento anterior direito e segmento posterior direito. (",
+                "D": "O fígado é dividido em seis segmentos principais, baseados na distribuição das veias portais e hepáticas. (",
+                "E": "O fígado é um órgão indiviso, não apresentando divisões anatômicas distintas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29",
+            "enunciado": "O osso capitato é um dos ossos do carpo, localizado na mão. Com relação às divisões anatômicas do osso capitato, é correto afirmar: (",
+            "alternativas": {
+                "A": "O osso capitato não possui divisões anatômicas distintas, sendo um osso único e indiviso. (",
+                "B": "O osso capitato é dividido em uma porção proximal e uma porção distal, separadas por uma linha articular. (",
+                "C": "O osso capitato é dividido em uma cabeça, um colo e uma base. (",
+                "D": "O osso capitato é dividido em três porções: lateral, medial e dorsal. (",
+                "E": "O osso capitato é dividido em duas facetas articulares: uma para articulação com o semilunar e outra para articulação com o hamato."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: 2 \nO tempo de latência da radiossensibilidade \ncelular refere -se ao intervalo entre a exposição \nà radiação ionizante e o aparecimento dos \nefeitos biológicos. Sobre esse aspecto, pode -se \nafirmar:",
+            "questão": "Questão 3",
+            "enunciado": "O osso esfenoide é um osso complexo localizado na base do crânio. Sobre as divisões anatômicas do osso esfenoide, é correto afirmar: (",
             "alternativas": {
-                "A": "O tempo de latência é sempre imediato, \ncom os efeitos biológicos aparecendo \nimediatamente após a exposição à radiação.",
-                "B": "O tempo de latência é variável e depende \nde fatores como a dose de radiação, o tipo de \ncélula e a natureza do efeito biológico.",
-                "C": "O tempo de latência é constante e igual \npara todas as células, independentemente da \ndose de radiação ou do tipo de célula.",
-                "D": "O tempo de latência é determinado \nexclusivamente pela energia da radiação \nionizante, não sendo influenciado por outros \nfatores.",
-                "E": "O tempo de latência é sempre superior a um \nano, independentemente da dose de radiação \nou do tipo de célula.  \n \nPrefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nTÉCNICO EM RAIO X                                                                                                                                 Página 7 de 12 QUESTÃO 2 3 \nA reversibilidade da radiossensibilidade \ncelular refere -se à capacidade das células de \nreparar os danos causados pela radiação \nionizante. Nesse contexto, é correto afirmar:  \n \n(A) A radiossensibilidade celular é totalmente \nirreversível, não havendo possibilidade de \nreparo dos danos causados pela radiação.  \n \n(B) A reversibilidade da radiossensibilidade \ncelular é absoluta, com todas as células sendo \ncapazes de reparar completamente os danos \ncausados pela radiação.  \n \n(C) A reversibilidade da radiossensibilidade \ncelular depende de fatores como a dose de \nradiação, o tipo de célula e a fase do ciclo \ncelular.  \n \n(D) A reversibilidade da radiossensibilidade \ncelular é determinada exclusivamente pela \nenergia da radiação ionizante, não sendo \ninfluenciada por outros fatores.  \n \n(E) A reversibilidade da radiossensibilidade \ncelular é um fenômeno binário, sendo as \ncélulas completamente capazes de reparar os \ndanos ou completamente incapazes, não \nhavendo estado intermediário.  \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 2 4 \nA transmissibilidade da radiossensibilidade \ncelular refere -se à capacidade de transferir os \nefeitos da radiação ionizante para células não \nirradiadas. Sobre esse aspecto, é correto \nafirmar:  \n \n(A) A radiossensibilidade celular é totalmente \ntransmissível, com os efeitos da radiação sendo \ntransferidos para todas as células não \nirradiadas.  \n(B) A radiossensibilidade celular não é \ntransmissível, com os efeitos da radiação sendo \nrestritos apenas às células diretamente \nirradiadas.  \n(C) A transmissibilidade da \nradiossensibilidade celular é determinada \nexclusivamente pela energia da radiação \nionizante, não sendo influenciada por outros \nfatores.  \n(D) A transmissibilidade da \nradiossensibilidade celular é parcial, \ndependendo de fatores como a dose de \nradiação, o tipo de célula e a presença de sinais \nintercelulares.  \n(E) A transmissibilidade da \nradiossensibilidade celular é um fenômeno \nbinário, sendo as células completamente \ntransmissíveis ou completamente não \ntransmissíveis, não havendo estado \nintermediário."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 17: Para avaliar a articulação atlantoaxial em um \npaciente com suspeita de instabilidade, a \nincidência radiológica mais indicada é:",
-            "alternativas": {
-                "A": "Perfil da coluna cervical.",
-                "B": "Oblíqua da coluna cervical.",
-                "C": "Transoral.",
-                "D": "Anteroposterior da coluna cervical com \nboca aberta.",
-                "E": "Lateral da coluna cervical em flexão e \nextensão.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nTÉCNICO EM RAIO X                                                                                                                                 Página 8 de 12 QUESTÃO 26 \nEm um paciente com suspeita de luxação \nacromioclavicular, a incidência radiológica \nque melhor demonstra a relação entre a \nclavícula e o acrômio é:  \n \n(A) Anteroposterior do ombro com rotação \ninterna.  \n(B) Anteroposterior do ombro com rotação \nexterna.  \n(C) Perfil axilar do ombro.  \n(D) Anteroposterior do ombro com carga \nbilateral.  \n(E) West Point."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 18: Para avaliar a articulação metatarsofalangeana  \ndo hálux em um paciente com suspeita de gota, \na incidência radiológica mais adequada é:",
-            "alternativas": {
-                "A": "Anteroposterior do pé com carga.",
-                "B": "Perfil do pé.",
-                "C": "Oblíqua do pé.",
-                "D": "Anteroposterior do pé sem carga.",
-                "E": "Axial sesamoide do pé."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 19: O fígado é um órgão complexo e suas divisões \nanatômicas são importantes para a \ncompreensão de sua estrutura e funções. Sobre \nas divisões anatômicas do fígado, é correto \nafirmar:",
-            "alternativas": {
-                "A": "O fígado é dividido em dois lobos \nprincipais: lobo direito e lobo esquerdo, \nseparados pelo ligamento falciforme.",
-                "B": "O fígado é dividido em quatro lobos \nprincipais: lobo direito, lobo esquerdo, lobo \ncaudado e lobo quadrado.",
-                "C": "O fígado é dividido em três segmentos \nprincipais: segmento lateral esquerdo, \nsegmento anterior direito e segmento posterior \ndireito.",
-                "D": "O fígado é dividido em seis segmentos \nprincipais, baseados na distribuição das veias \nportais e hepáticas.",
-                "E": "O fígado é um órgão indiviso, não \napresentando divisões anatômicas distintas.  \n \n QUESTÃO 29 \nO osso capitato é um dos ossos do carpo, \nlocalizado na mão. Com relação às divisões \nanatômicas do osso capitato, é correto afirmar:  \n \n(A) O osso capitato não possui divisões \nanatômicas distintas, sendo um osso único e \nindiviso.  \n(B) O osso capitato é dividido em uma porção \nproximal e uma porção distal, separadas por \numa linha articular.  \n(C) O osso capitato é dividido em uma cabeça, \num colo e uma base.  \n(D) O osso capitato é dividido em três porções: \nlateral, medial e dorsal.  \n(E) O osso capitato é dividido em duas facetas \narticulares: uma para articulação com o \nsemilunar e outra para articulação com o \nhamato."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 20: 0 \nO osso esfenoide é um osso complexo \nlocalizado na base do crânio. Sobre as divisões \nanatômicas do osso esfenoide, é correto \nafirmar:",
-            "alternativas": {
-                "A": "O osso esfenoide não possui divisões \nanatômicas distintas, sendo um osso único e \nindiviso.",
-                "B": "O osso esfenoide é dividido em duas \nporções principais: corpo e asas menores.",
-                "C": "O osso esfenoide é dividido em três \nporções principais: corpo, asas maiores e asas \nmenores.",
-                "D": "O osso esfenoide é dividido em quatro \nporções: corpo, asas maiores, asas menores e \nprocesso pterigoide.",
-                "E": "O osso esfenoide é dividido em seis \nporções: corpo, asas maiores, asas menores, \nprocesso pterigoide, processo clinoide anterior \ne processo clinoide posterior.  \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nTÉCNICO EM RAIO X                                                                                                                                 Página 9 de 12 QUESTÃO 3 1 \nEm um paciente com suspeita de traumatismo \ncraniano, o protocolo de tomografia \ncomputadorizada (TC) mais indicado para \navaliar lesões ósseas e hemorragias agudas é:  \n \n(A) TC de crânio com contraste iodado.  \n(B) TC de crânio sem contraste.  \n(C) TC de crânio com contraste baritado.  \n(D) TC de crânio com contraste \nparamagnético.  \n(E) TC de crânio com contraste hidrossolúvel."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 21: 2 \nPara a realização de uma angiotomografia de \nvasos intracranianos, o meio de contraste mais \nutilizado é:",
-            "alternativas": {
-                "A": "Gadolínio.",
-                "B": "Bário.",
-                "C": "Iodo não iônico.",
-                "D": "Iodo iônico.",
-                "E": "Gálio."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 22: 3 \nNo protocolo de tomografia renal urodinâmica, \na fase excretora é fundamental para avaliar:",
-            "alternativas": {
-                "A": "A morfologia renal.",
-                "B": "A presença de cálculos renais.",
-                "C": "A função renal e a excreção do contraste.",
-                "D": "A vascularização renal.",
-                "E": "A presença de massas renais.  \n \n \n \n QUESTÃO 3 4 \nNa radiologia, diferentes tipos de radiações são \nutilizados e possuem propriedades distintas. \nAssinale a alternativa que descreve \ncorretamente os tipos de radiações e suas \ncaracterísticas.  \n(A)Radiação alfa consiste em ondas \neletromagnéticas de alta energia e grande \npoder de penetração.  \n(B)Radiação beta é composta por partículas \npesadas que são completamente absorvidas \npelo ar e não possuem poder de penetração.  \n(C)Radiação gama é composta por partículas \nsubatômicas pesadas que têm alta capacidade \nde ionização e baixo poder de penetração.  \n(D)Radiação X é uma forma de radiação \neletromagnética de alta energia, com grande \npoder de penetração e capacidade de ionizar a \nmatéria.  \n(E)Radiação ultravioleta possui maior poder de \npenetração que a radiação X e é \nfrequentemente utilizada em procedimentos de \nimagem médica."
+                "A": "O osso esfenoide não possui divisões anatômicas distintas, sendo um osso único e indiviso. (",
+                "B": "O osso esfenoide é dividido em duas porções principais: corpo e asas menores. (",
+                "C": "O osso esfenoide é dividido em três porções principais: corpo, asas maiores e asas menores. (",
+                "D": "O osso esfenoide é dividido em quatro porções: corpo, asas maiores, asas menores e processo pterigoide. (",
+                "E": "O osso esfenoide é dividido em seis porções: corpo, asas maiores, asas menores, processo pterigoide, processo clinoide anterior e processo clinoide posterior. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO EM RAIO X Página 9 de 12 QUESTÃO 3 1 Em um paciente com suspeita de traumatismo craniano, o protocolo de tomografia computadorizada (TC) mais indicado para avaliar lesões ósseas e hemorragias agudas é: (A) TC de crânio com contraste iodado. (B) TC de crânio sem contraste. (C) TC de crânio com contraste baritado. (D) TC de crânio com contraste paramagnético. (E) TC de crânio com contraste hidrossolúvel."
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: Os raios X são uma forma de radiação \neletromagnética amplamente utilizada em \ndiversas áreas, especialmente na medicina. \nSobre os tipos de radiações e os geradores de \nraios X, é correto afirmar:",
+            "questão": "Questão 3",
+            "enunciado": "Para a realização de uma angiotomografia de vasos intracranianos, o meio de contraste mais utilizado é: (",
             "alternativas": {
-                "A": "Os raios X são produzidos exclusivamente \npor fontes radioativas, não sendo possível sua \ngeração por meios eletrônicos.",
-                "B": "Os raios X são uma forma de radiação \nionizante, sendo capazes de ionizar átomos e \nmoléculas ao interagir com a matéria.",
-                "C": "Os geradores de raios X produzem apenas \nradiação eletromagnética na faixa dos raios X, \nnão sendo possível a emissão de outros tipos \nde radiação.",
-                "D": "Os geradores de raios X são baseados na \naceleração de partículas carregadas, como \nelétrons, através de um campo magnético \nintenso.",
-                "E": "Os raios X são uma forma de radiação não \nionizante, incapaz de ionizar átomos e \nmoléculas ao interagir com a matéria.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nTÉCNICO EM RAIO X                                                                                                                                 Página 10 de 12 QUESTÃO 36 \nOs tubos de raios X são essenciais para a \nprodução de raios X e possuem componentes \nespecíficos que desempenham funções \ncruciais. Assinale a alternativa que descreve \ncorretamente um dos componentes principais \nde um tubo de raios X e sua função.  \n \n(A)O cátodo é o componente responsável pela \nemissão de raios X ao ser aquecido e liberar \nfótons de alta energia.  \n(B)O ânodo é a parte do tubo que gera elétrons \ne os acelera em direção ao cátodo para produzir \nraios X.  \n(C)A janela do tubo de raios X é feita de \nmaterial absorvente, que impede a saída de \nradiação e protege o operador.  \n(D)O filamento do cátodo, ao ser aquecido, \nemite elétrons que são acelerados em direção \nao ânodo, onde a interação gera raios X.  \n(E)O envelope de vidro é utilizado para \nabsorver a radiação X gerada, evitando sua \nemissão para fora do tubo."
+                "A": "Gadolínio. (",
+                "B": "Bário. (",
+                "C": "Iodo não iônico. (",
+                "D": "Iodo iônico. (",
+                "E": "Gálio."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "D"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 24: Os átomos são as unidades fundamentais da \nmatéria e possuem estruturas e propriedades \nfísico -químicas específicas. Assinale a \nalternativa que descreve corretamente a \nestrutura atômica relevante para a geração de \nraios X.  \n(A)O núcleo atômico é composto por elétrons \ne prótons, enquanto os nêutrons orbitam ao \nredor do núcleo.  \n(B)Os prótons são partículas subatômicas com \ncarga negativa que orbitam ao redor do núcleo \natômico.  \n(C)O núcleo atômico é composto por prótons e \nnêutrons, enquanto os elétrons orbitam ao \nredor do núcleo em níveis de energia \nespecíficos.  \n(D)Os nêutrons são responsáveis pela carga \npositiva do átomo e determinam suas \npropriedades químicas.  \n(E)A estrutura atômica não influencia a \nprodução de raios X, que ocorre apenas na \ncamada de valência dos elétrons.  QUESTÃO 38 \nO tubo de raios X é um componente \nfundamental dos sistemas de geração de \nradiação X, sendo responsável pela produção \ndos raios X propriamente ditos. Sobre o tubo \nde raios X e seus principais componentes, é \ncorreto afirmar:",
+            "questão": "Questão 3",
+            "enunciado": "No protocolo de tomografia renal urodinâmica, a fase excretora é fundamental para avaliar: (",
             "alternativas": {
-                "A": "O tubo de raios X é composto por um \ncátodo, que emite elétrons, e um ânodo, onde \nos elétrons são acelerados e colidem, \nproduzindo raios X.",
-                "B": "O tubo de raios X é preenchido com um gás \ninerte, como o argônio, que é ionizado para \nproduzir os raios X.",
-                "C": "O tubo de raios X possui uma janela de \nsaída de raios X feita de um material altamente \nabsorvedor, como o chumbo.",
-                "D": "O tubo de raios X não possui componentes \nmóveis, sendo uma estrutura totalmente selada \ne estática.",
-                "E": "O tubo de raios X é preenchido com um \nvácuo perfeito, não havendo presença de \nqualquer gás ou partícula em seu interior."
+                "A": "A morfologia renal. (",
+                "B": "A presença de cálculos renais. (",
+                "C": "A função renal e a excreção do contraste. (",
+                "D": "A vascularização renal. (",
+                "E": "A presença de massas renais."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "Na radiologia, diferentes tipos de radiações são utilizados e possuem propriedades distintas. Assinale a alternativa que descreve corretamente os tipos de radiações e suas características. (",
+            "alternativas": {
+                "A": "Radiação alfa consiste em ondas eletromagnéticas de alta energia e grande poder de penetração. (",
+                "B": "Radiação beta é composta por partículas pesadas que são completamente absorvidas pelo ar e não possuem poder de penetração. (",
+                "C": "Radiação gama é composta por partículas subatômicas pesadas que têm alta capacidade de ionização e baixo poder de penetração. (",
+                "D": "Radiação X é uma forma de radiação eletromagnética de alta energia, com grande poder de penetração e capacidade de ionizar a matéria. (",
+                "E": "Radiação ultravioleta possui maior poder de penetração que a radiação X e é frequentemente utilizada em procedimentos de imagem médica."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 35",
+            "enunciado": "Os raios X são uma forma de radiação eletromagnética amplamente utilizada em diversas áreas, especialmente na medicina. Sobre os tipos de radiações e os geradores de raios X, é correto afirmar: (",
+            "alternativas": {
+                "A": "Os raios X são produzidos exclusivamente por fontes radioativas, não sendo possível sua geração por meios eletrônicos. (",
+                "B": "Os raios X são uma forma de radiação ionizante, sendo capazes de ionizar átomos e moléculas ao interagir com a matéria. (",
+                "C": "Os geradores de raios X produzem apenas radiação eletromagnética na faixa dos raios X, não sendo possível a emissão de outros tipos de radiação. (",
+                "D": "Os geradores de raios X são baseados na aceleração de partículas carregadas, como elétrons, através de um campo magnético intenso. (",
+                "E": "Os raios X são uma forma de radiação não ionizante, incapaz de ionizar átomos e moléculas ao interagir com a matéria. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO EM RAIO X Página 10 de 12 QUESTÃO 36 Os tubos de raios X são essenciais para a produção de raios X e possuem componentes específicos que desempenham funções cruciais. Assinale a alternativa que descreve corretamente um dos componentes principais de um tubo de raios X e sua função. (A)O cátodo é o componente responsável pela emissão de raios X ao ser aquecido e liberar fótons de alta energia. (B)O ânodo é a parte do tubo que gera elétrons e os acelera em direção ao cátodo para produzir raios X. (C)A janela do tubo de raios X é feita de material absorvente, que impede a saída de radiação e protege o operador. (D)O filamento do cátodo, ao ser aquecido, emite elétrons que são acelerados em direção ao ânodo, onde a interação gera raios X. (E)O envelope de vidro é utilizado para absorver a radiação X gerada, evitando sua emissão para fora do tubo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO EM RAIO X",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 37",
+            "enunciado": "Os átomos são as unidades fundamentais da matéria e possuem estruturas e propriedades físico -químicas específicas. Assinale a alternativa que descreve corretamente a estrutura atômica relevante para a geração de raios X. (",
+            "alternativas": {
+                "A": "O núcleo atômico é composto por elétrons e prótons, enquanto os nêutrons orbitam ao redor do núcleo. (",
+                "B": "Os prótons são partículas subatômicas com carga negativa que orbitam ao redor do núcleo atômico. (",
+                "C": "O núcleo atômico é composto por prótons e nêutrons, enquanto os elétrons orbitam ao redor do núcleo em níveis de energia específicos. (",
+                "D": "Os nêutrons são responsáveis pela carga positiva do átomo e determinam suas propriedades químicas. (",
+                "E": "A estrutura atômica não influencia a produção de raios X, que ocorre apenas na camada de valência dos elétrons. QUESTÃO 38 O tubo de raios X é um componente fundamental dos sistemas de geração de radiação X, sendo responsável pela produção dos raios X propriamente ditos. Sobre o tubo de raios X e seus principais componentes, é correto afirmar: (A) O tubo de raios X é composto por um cátodo, que emite elétrons, e um ânodo, onde os elétrons são acelerados e colidem, produzindo raios X. (B) O tubo de raios X é preenchido com um gás inerte, como o argônio, que é ionizado para produzir os raios X. (C) O tubo de raios X possui uma janela de saída de raios X feita de um material altamente absorvedor, como o chumbo. (D) O tubo de raios X não possui componentes móveis, sendo uma estrutura totalmente selada e estática. (E) O tubo de raios X é preenchido com um vácuo perfeito, não havendo presença de qualquer gás ou partícula em seu interior."
             },
             "resposta_correta": "C"
         },
         {
             "cargo": "TÉCNICO EM RAIO X",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 25: Na radiologia abdominal, a análise anatômica \nenvolve a identificação de diversas estruturas \nimportantes. Sobre a avaliação de algumas \nestruturas abdominais em radiografias, é \ncorreto afirmar:",
+            "questão": "Questão 39",
+            "enunciado": "Na radiologia abdominal, a análise anatômica envolve a identificação de diversas estruturas importantes. Sobre a avaliação de algumas estruturas abdominais em radiografias, é correto afirmar: (",
             "alternativas": {
-                "A": "A bexiga urinária vazia é facilmente \nidentificável nas radiografias abdominais \ndevido à sua radiopacidade.",
-                "B": "O pâncreas é uma estrutura radiopaca, \nfacilmente visualizada nas radiografias \nabdominais.",
-                "C": "O cólon descendente é uma estrutura \nradiolucente, dificilmente identificável nas \nradiografias abdominais.",
-                "D": "O ceco é uma estrutura radiopaca, \nfacilmente identificável na região inferior \ndireita do abdome.",
-                "E": "Os vasos sanguíneos abdominais, como a \naorta e a veia cava inferior, são facilmente \nvisualizados nas radiografias abdominais.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nTÉCNICO EM RAIO X                                                                                                                                 Página 11 de 12 QUESTÃO 4 0 \nNa radiologia de face, existem incidências \nespeciais que permitem a avaliação adequada \nde estruturas específicas. Em relação à \nincidência radiológica para a avaliação do osso \nhioide, é correto afirmar:  \n \n(A) A incidência lateral de face é a mais \nindicada para a visualização adequada do osso \nhioide.  \n(B) A incidência anteroposterior (AP) de face \né a melhor escolha para a avaliação do osso \nhioide.  \n(C) A incidência transoral é necessária para a \nvisualização adequada do osso hioide.  \n(D) A incidência de Waters é a técnica \nrecomendada para a avaliação do osso hioide.  \n(E) Nenhuma incidência radiológica \nconvencional permite a visualização adequada \ndo osso hioide.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nTÉCNICO EM RAIO X                                                                                                                                 Página 12 de 12"
+                "A": "A bexiga urinária vazia é facilmente identificável nas radiografias abdominais devido à sua radiopacidade. (",
+                "B": "O pâncreas é uma estrutura radiopaca, facilmente visualizada nas radiografias abdominais. (",
+                "C": "O cólon descendente é uma estrutura radiolucente, dificilmente identificável nas radiografias abdominais. (",
+                "D": "O ceco é uma estrutura radiopaca, facilmente identificável na região inferior direita do abdome. (",
+                "E": "Os vasos sanguíneos abdominais, como a aorta e a veia cava inferior, são facilmente visualizados nas radiografias abdominais. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO EM RAIO X Página 11 de 12 QUESTÃO 4 0 Na radiologia de face, existem incidências especiais que permitem a avaliação adequada de estruturas específicas. Em relação à incidência radiológica para a avaliação do osso hioide, é correto afirmar: (A) A incidência lateral de face é a mais indicada para a visualização adequada do osso hioide. (B) A incidência anteroposterior (AP) de face é a melhor escolha para a avaliação do osso hioide. (C) A incidência transoral é necessária para a visualização adequada do osso hioide. (D) A incidência de Waters é a técnica recomendada para a avaliação do osso hioide. (E) Nenhuma incidência radiológica convencional permite a visualização adequada do osso hioide. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO EM RAIO X Página 12 de 12"
             },
             "resposta_correta": "D"
         }

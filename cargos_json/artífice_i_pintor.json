@@ -4,13 +4,14 @@
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: Com a leitura da charge, pode-se concluir que:",
+            "questão": "Questão 1",
+            "enunciado": "Com a leitura da charge, pode-se concluir que: (",
             "alternativas": {
-                "A": "Calvin não pode compreender matemática por não ter fé.",
-                "B": "Calvin não compreende a resolução dos cálculos matemáticos.",
-                "C": "Para Calvin, a matemática só funciona para ateus.",
-                "D": "Haroldo não concorda com a opinião de Calvin.",
-                "E": "Calvin e Haroldo têm crenças que não permitem entender a matemática. \n \nPrefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nARTÍFICE I (PINTOR)                                                                                                                               Página 3 de 10 QUESTÃO 02 \nEm “Essas equações todas são como milagres ”, \nno segundo quadrinho da charge, ocorre uma \nfigura de linguagem de: \n(A) metonímia. \n(B) metáfora. \n(C) comparação. \n(D) elipse. \n(E) sinestesia."
+                "A": "Calvin não pode compreender matemática por não ter fé. (",
+                "B": "Calvin não compreende a resolução dos cálculos matemáticos. (",
+                "C": "Para Calvin, a matemática só funciona para ateus. (",
+                "D": "Haroldo não concorda com a opinião de Calvin. (",
+                "E": "Calvin e Haroldo têm crenças que não permitem entender a matemática. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ARTÍFICE I (PINTOR) Página 3 de 10 QUESTÃO 02 Em “Essas equações todas são como milagres ”, no segundo quadrinho da charge, ocorre uma figura de linguagem de: (A) metonímia. (B) metáfora. (C) comparação. (D) elipse. (E) sinestesia."
             },
             "resposta_correta": "B"
         },
@@ -18,111 +19,89 @@
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: No terceiro quadrinho da charge, a palavra \n“portanto”  introduz uma:",
+            "questão": "Questão 3",
+            "enunciado": "No terceiro quadrinho da charge, a palavra “portanto” introduz uma: (",
             "alternativas": {
-                "A": "conclusão.",
-                "B": "adição.",
-                "C": "condição.",
-                "D": "concessão.",
+                "A": "conclusão. (",
+                "B": "adição. (",
+                "C": "condição. (",
+                "D": "concessão. (",
                 "E": "oposição."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: O advérbio “magicamente” , que ocorre no \nsegundo quadrinho da charge, exprime uma \ncircunstância de:",
+            "questão": "Questão 4",
+            "enunciado": "O advérbio “magicamente” , que ocorre no segundo quadrinho da charge, exprime uma circunstância de: (",
             "alternativas": {
-                "A": "lugar.",
-                "B": "tempo.",
-                "C": "possibilidade.",
-                "D": "modo.",
+                "A": "lugar. (",
+                "B": "tempo. (",
+                "C": "possibilidade. (",
+                "D": "modo. (",
                 "E": "restrição."
             },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 4: As palavras “ninguém”  e “isso” , que ocorrem no \ntrecho “Ninguém sabe dizer como isso \nacontece” , no segundo quadrinho, pertencem à \nclasse gramatical:",
-            "alternativas": {
-                "A": "advérbio.",
-                "B": "artigo.",
-                "C": "adjetivo.",
-                "D": "substantivo.",
-                "E": "pronome. QUESTÃO 06 \nEm “Este livro é todo cheio de coisas que têm \nque ser aceitas pela fé!” , no terceiro quadrinho, \no particípio “aceitas” concorda em gênero e \nnúmero com: \n(A) “este”.  \n(B) “livro”.   \n(C) “coisas”.  \n(D) “têm”.   \n(E) “fé”."
-            },
             "resposta_correta": "D"
         },
         {
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: A forma como se apresenta o verbo “ chamar” , \nno último quadrinho – “Chame um advogado.”  \n–, corresponde ao:",
+            "questão": "Questão 5",
+            "enunciado": "As palavras “ninguém” e “isso” , que ocorrem no trecho “Ninguém sabe dizer como isso acontece” , no segundo quadrinho, pertencem à classe gramatical: (",
             "alternativas": {
-                "A": "indicativo.",
-                "B": "subjuntivo.",
-                "C": "infinitivo.",
-                "D": "gerúndio.",
+                "A": "advérbio. (",
+                "B": "artigo. (",
+                "C": "adjetivo. (",
+                "D": "substantivo. (",
+                "E": "pronome. QUESTÃO 06 Em “Este livro é todo cheio de coisas que têm que ser aceitas pela fé!” , no terceiro quadrinho, o particípio “aceitas” concorda em gênero e número com: (A) “este”. (B) “livro”. (C) “coisas”. (D) “têm”. (E) “fé”."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7",
+            "enunciado": "A forma como se apresenta o verbo “ chamar” , no último quadrinho – “Chame um advogado.” –, corresponde ao: (",
+            "alternativas": {
+                "A": "indicativo. (",
+                "B": "subjuntivo. (",
+                "C": "infinitivo. (",
+                "D": "gerúndio. (",
                 "E": "imperativo."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "E"
         },
         {
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Assinale a alternativa em que o verbo está \nconjugado na terceira pessoa do plural.",
+            "questão": "Questão 8",
+            "enunciado": "Assinale a alternativa em que o verbo está conjugado na terceira pessoa do plural. (",
             "alternativas": {
-                "A": "Fez duas tortas e um bolo para o aniversário.",
-                "B": "Fizestes boa viagem?",
-                "C": "Comprei um vaso de flores para a minha mãe.",
-                "D": "Comuniquem a todos sobre a reunião.",
+                "A": "Fez duas tortas e um bolo para o aniversário. (",
+                "B": "Fizestes boa viagem? (",
+                "C": "Comprei um vaso de flores para a minha mãe. (",
+                "D": "Comuniquem a todos sobre a reunião. (",
                 "E": "Não é de seu interesse este tipo de trabalho."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "D"
         },
         {
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: Ocorre linguagem figurada apenas em:",
+            "questão": "Questão 9",
+            "enunciado": "Ocorre linguagem figurada apenas em: (",
             "alternativas": {
-                "A": "Os dias têm sido mais quentes neste verão.",
-                "B": "Estava morrendo de saudade.",
-                "C": "Quebrou o pé ao cair da escada.",
-                "D": "A radiação solar pode ser prejudicial à saúde.",
-                "E": "Vejam quantos animais exóticos há neste \nzoológico. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nARTÍFICE I (PINTOR)                                                                                                                               Página 4 de 10 QUESTÃO 10 \nEm qual das sentenças a seguir o pronome em \ndestaque é do tipo demonstrativo?  \n(A) Não sabe o quanto  fiquei feliz em revê-la. \n(B) Tudo  isso ainda é pouco para mim. \n(C) Somos responsáveis pelas nossas vidas. \n(D) Aqueles  que se mostrarem humildes terão \nboas recompensas da vida. \n(E) Os jovens que precisarem de ajuda devem \nacionar os professores."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 8: Avalie o emprego do acento indicador de crase \nnas sentenças a seguir e assinale a alternativa em \nque se verifica incorreção.",
-            "alternativas": {
-                "A": "Essas propostas estão relacionadas às suas \nexpectativas.",
-                "B": "O inspetor dedicou seu discurso às \nprofessoras do colégio.",
-                "C": "Os alunos fazem suas redações à mão.",
-                "D": "Fomos às pressas para o pronto-socorro.",
-                "E": "Disse à mim que não queria mais saber de \nfestas."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 9: Nas sentenças a seguir, o elemento em destaque \né uma preposição apenas em:",
-            "alternativas": {
-                "A": "Avise-me caso queira ir à festa.",
-                "B": "Embora  soubesse dos riscos, permaneceu no \nmesmo local.",
-                "C": "A pasta foi colocada entre os livros.",
-                "D": "Quase  todos os alunos tiraram nota \nvermelha.",
-                "E": "Ela queria saber  se suas irmãs gostariam de \nacompanhá-la em sua formatura. \n \n \n \n QUESTÃO 13 \nAs concordâncias verbal e nominal estão corretas \napenas em: \n(A) A primeira e a segunda aula não cobra \npresença dos alunos.  \n(B) Parecem sujas as toalhas e os guardanapos.  \n(C) Achei muito legal seu pai e sua mãe.  \n(D) É necessário a sua assinatura neste \ndocumento.  \n(E) Deixaremos o salão e a cozinha o mais limpo \npossíveis."
+                "A": "Os dias têm sido mais quentes neste verão. (",
+                "B": "Estava morrendo de saudade. (",
+                "C": "Quebrou o pé ao cair da escada. (",
+                "D": "A radiação solar pode ser prejudicial à saúde. (",
+                "E": "Vejam quantos animais exóticos há neste zoológico. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ARTÍFICE I (PINTOR) Página 4 de 10 QUESTÃO 10 Em qual das sentenças a seguir o pronome em destaque é do tipo demonstrativo? (A) Não sabe o quanto fiquei feliz em revê-la. (B) Tudo isso ainda é pouco para mim. (C) Somos responsáveis pelas nossas vidas. (D) Aqueles que se mostrarem humildes terão boas recompensas da vida. (E) Os jovens que precisarem de ajuda devem acionar os professores."
             },
             "resposta_correta": "B"
         },
@@ -130,27 +109,74 @@
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Todas as alternativas a seguir apresentam pares \nde palavras sinônimas, exceto :",
+            "questão": "Questão 11",
+            "enunciado": "Avalie o emprego do acento indicador de crase nas sentenças a seguir e assinale a alternativa em que se verifica incorreção. (",
             "alternativas": {
-                "A": "petulância - ousadia .",
-                "B": "tempestivo - oportuno.",
-                "C": "cético - crédulo.",
-                "D": "reverência - mesura.",
+                "A": "Essas propostas estão relacionadas às suas expectativas. (",
+                "B": "O inspetor dedicou seu discurso às professoras do colégio. (",
+                "C": "Os alunos fazem suas redações à mão. (",
+                "D": "Fomos às pressas para o pronto-socorro. (",
+                "E": "Disse à mim que não queria mais saber de festas."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 12",
+            "enunciado": "Nas sentenças a seguir, o elemento em destaque é uma preposição apenas em: (",
+            "alternativas": {
+                "A": "Avise-me caso queira ir à festa. (",
+                "B": "Embora soubesse dos riscos, permaneceu no mesmo local. (",
+                "C": "A pasta foi colocada entre os livros. (",
+                "D": "Quase todos os alunos tiraram nota vermelha. (",
+                "E": "Ela queria saber se suas irmãs gostariam de acompanhá-la em sua formatura."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13",
+            "enunciado": "As concordâncias verbal e nominal estão corretas apenas em: (",
+            "alternativas": {
+                "A": "A primeira e a segunda aula não cobra presença dos alunos. (",
+                "B": "Parecem sujas as toalhas e os guardanapos. (",
+                "C": "Achei muito legal seu pai e sua mãe. (",
+                "D": "É necessário a sua assinatura neste documento. (",
+                "E": "Deixaremos o salão e a cozinha o mais limpo possíveis."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14",
+            "enunciado": "Todas as alternativas a seguir apresentam pares de palavras sinônimas, exceto : (",
+            "alternativas": {
+                "A": "petulância - ousadia . (",
+                "B": "tempestivo - oportuno. (",
+                "C": "cético - crédulo. (",
+                "D": "reverência - mesura. (",
                 "E": "intransigência - austeridade ."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "C"
         },
         {
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Dentre as palavras a seguir, aquela que é formada \npor cinco sílabas é:",
+            "questão": "Questão 15",
+            "enunciado": "Dentre as palavras a seguir, aquela que é formada por cinco sílabas é: (",
             "alternativas": {
-                "A": "catacumba.",
-                "B": "experimental.",
-                "C": "antidepressivo.",
-                "D": "expectorar.",
-                "E": "esfinges. \n \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nARTÍFICE I (PINTOR)                                                                                                                               Página 5 de 10 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "catacumba. (",
+                "B": "experimental. (",
+                "C": "antidepressivo. (",
+                "D": "expectorar. (",
+                "E": "esfinges. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ARTÍFICE I (PINTOR) Página 5 de 10 MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "B"
         },
@@ -158,54 +184,28 @@
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: Assinale a alternativa que apresenta o trigésimo \nprimeiro número ímpar sucessor de 55:",
+            "questão": "Questão 16",
+            "enunciado": "Assinale a alternativa que apresenta o trigésimo primeiro número ímpar sucessor de 55: (",
             "alternativas": {
-                "A": "105",
-                "B": "117",
-                "C": "109",
-                "D": "111",
+                "A": "105 (",
+                "B": "117 (",
+                "C": "109 (",
+                "D": "111 (",
                 "E": "Nenhuma das alternativas"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "B"
         },
         {
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: Uma pessoa está fazendo exercícios físicos e \ndecide contar o número de repetições realizadas \nem três sessões. Na primeira sessão, ela fez 45 \nrepetições. Na segunda sessão, ela fez 32 \nrepetições e na terceira sessão, ela fez 58 \nrepetições. Quantas repetições no total ela fez?",
+            "questão": "Questão 17",
+            "enunciado": "Uma pessoa está fazendo exercícios físicos e decide contar o número de repetições realizadas em três sessões. Na primeira sessão, ela fez 45 repetições. Na segunda sessão, ela fez 32 repetições e na terceira sessão, ela fez 58 repetições. Quantas repetições no total ela fez? (",
             "alternativas": {
-                "A": "125 repetições",
-                "B": "130 repetições",
-                "C": "135 repetições",
-                "D": "140 repetições",
-                "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 14: Uma loja de eletrônicos recebeu novos produtos \ne registrou o seguinte número de itens para três \ncategorias diferentes: televisores (60 unidades), \nsmartphones (150 unidades) e laptops (85 \nunidades). Quantos itens a loja recebeu ao todo?",
-            "alternativas": {
-                "A": "290 itens",
-                "B": "295 itens",
-                "C": "300 itens",
-                "D": "305 itens",
-                "E": "Nenhuma das alternativas \n \n QUESTÃO 19 \nEm um armazém, inicialmente havia 1854 caixas \nde produtos. Se o armazém vendeu 40 caixas em \num dia e 95 caixas no dia seguinte, quantas \ncaixas restaram no armazém? \n \n(A) 1719 caixas \n(B) 1720 caixas \n(C) 1721 caixas \n(D) 1722 caixas \n(E) Nenhuma das alternativas"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 15: Uma caixa d'água tem capacidade para 800 litros. \nSe 30% da capacidade da caixa d'água está \nocupada, quantos litros de água há na caixa \nd'água?",
-            "alternativas": {
-                "A": "240 litros",
-                "B": "260 litros",
-                "C": "280 litros",
-                "D": "300 litros",
+                "A": "125 repetições (",
+                "B": "130 repetições (",
+                "C": "135 repetições (",
+                "D": "140 repetições (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "C"
@@ -214,27 +214,14 @@
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: Assinale a alternativa que apresenta o vigésimo \nterceiro número par sucessor de 80:",
+            "questão": "Questão 18",
+            "enunciado": "Uma loja de eletrônicos recebeu novos produtos e registrou o seguinte número de itens para três categorias diferentes: televisores (60 unidades), smartphones (150 unidades) e laptops (85 unidades). Quantos itens a loja recebeu ao todo? (",
             "alternativas": {
-                "A": "106",
-                "B": "110",
-                "C": "122",
-                "D": "126",
+                "A": "290 itens (",
+                "B": "295 itens (",
+                "C": "300 itens (",
+                "D": "305 itens (",
                 "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 17: Carlos está comprando materiais para pintar a \ncasa. Ele precisa de 10 latas de tinta, cada uma \ncustando R$ 22,75. Quanto Carlos gastará na \ncompra das latas de tinta?",
-            "alternativas": {
-                "A": "R$ 220,00",
-                "B": "R$ 227,50",
-                "C": "R$ 230,00",
-                "D": "R$ 240,00",
-                "E": "Nenhuma das alternativas \n Prefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nARTÍFICE I (PINTOR)                                                                                                                               Página 6 de 10 QUESTÃO 23 \nUma caixa de frutas tem um peso de 2500 \ngramas. Quantos quilogramas há na caixa se ela \npesa 2500 gramas? \n(A) 2,5 quilogramas \n(B) 25 quilogramas \n(C) 0,25 quilogramas \n(D) 0,0250 quilogramas \n(E) Nenhuma das alternativas"
             },
             "resposta_correta": "B"
         },
@@ -242,27 +229,14 @@
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: Ana encontrou um cofre com algumas notas e \nmoedas. Ao abri-lo, ela encontrou 15 notas de R$ \n100,00 e 25 notas de R$ 10,00. Além disso, havia \ntambém 60 moedas de R$ 0,50 e 40 moedas de \nR$ 0,25. Qual é o valor total que Ana encontrou \nno cofre?",
+            "questão": "Questão 19",
+            "enunciado": "Em um armazém, inicialmente havia 1854 caixas de produtos. Se o armazém vendeu 40 caixas em um dia e 95 caixas no dia seguinte, quantas caixas restaram no armazém? (",
             "alternativas": {
-                "A": "R$ 1.900,00",
-                "B": "R$ 2.025,00",
-                "C": "R$ 1.750,00",
-                "D": "R$ 1.790,00",
+                "A": "1719 caixas (",
+                "B": "1720 caixas (",
+                "C": "1721 caixas (",
+                "D": "1722 caixas (",
                 "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 19: Assinale a alternativa que apresenta o décimo \noitavo número par sucessor de 64:",
-            "alternativas": {
-                "A": "100",
-                "B": "96",
-                "C": "90",
-                "D": "92",
-                "E": "Nenhuma das alternativas \n \n \n \n \n \n \n QUESTÃO 26 \nUm ônibus possui 10 fileiras de assentos, e cada \nfileira pode acomodar até 4 passageiros. Quantos \npassageiros o ônibus pode transportar ao todo? \n(A) 36 passageiros \n(B) 40 passageiros \n(C) 44 passageiros \n(D) 48 passageiros \n(E) Nenhuma das alternativas"
             },
             "resposta_correta": "A"
         },
@@ -270,27 +244,29 @@
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Lucas está organizando uma viagem e vai alugar \num barco por 6 dias. Se o aluguem tem início na \nsexta-feira, em que dia da semana ele terminará \no aluguel?",
+            "questão": "Questão 20",
+            "enunciado": "Uma caixa d'água tem capacidade para 800 litros. Se 30% da capacidade da caixa d'água está ocupada, quantos litros de água há na caixa d'água? (",
             "alternativas": {
-                "A": "Segunda-feira",
-                "B": "Terça-feira",
-                "C": "Quarta-feira",
-                "D": "Quinta-feira",
-                "E": "Sexta-feira"
+                "A": "240 litros (",
+                "B": "260 litros (",
+                "C": "280 litros (",
+                "D": "300 litros (",
+                "E": "Nenhuma das alternativas"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 21: Considere a sequência: A, 7, B, 14, C, 21, (...). \nQual é o 10º termo dessa sequência?",
+            "questão": "Questão 21",
+            "enunciado": "Assinale a alternativa que apresenta o vigésimo terceiro número par sucessor de 80: (",
             "alternativas": {
-                "A": "28",
-                "B": "D",
-                "C": "35",
-                "D": "E",
-                "E": "Nenhuma das alternativas \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nARTÍFICE I (PINTOR)                                                                                                                               Página 7 de 10 QUESTÃO 29 \nEm uma padaria, uma pessoa compra quatro \nbrigadeiros e três bolos, gastando no total R$ \n50,00. Se o preço de um brigadeiro é \ndesconhecido e o preço de um bolo é de R$ 6,00, \nqual é o preço de um brigadeiro? \n(A) R$ 5,00 \n(B) R$ 7,00 \n(C) R$ 8,00 \n(D) R$ 10,00 \n(E) Nenhuma das alternativas"
+                "A": "106 (",
+                "B": "110 (",
+                "C": "122 (",
+                "D": "126 (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "D"
         },
@@ -298,83 +274,209 @@
             "cargo": "ARTÍFICE I (PINTOR)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 22: Em uma loja de móveis, uma mesa está com um \ndesconto de 15% sobre o preço original de R$ \n800,00. Qual é o preço da mesa com o desconto \naplicado?",
+            "questão": "Questão 22",
+            "enunciado": "Carlos está comprando materiais para pintar a casa. Ele precisa de 10 latas de tinta, cada uma custando R$ 22,75. Quanto Carlos gastará na compra das latas de tinta? (",
             "alternativas": {
-                "A": "R$ 680,00",
-                "B": "R$ 700,00",
-                "C": "R$ 720,00",
-                "D": "R$ 750,00",
-                "E": "Nenhuma das alternativas \n \nCONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 23: Entre as diversas ferramentas utilizadas em uma \npintura, as imagens abaixo, correspondem \nrespectivamente a:",
-            "alternativas": {
-                "A": "Misturador de Tinta e Rolo de pintura.",
-                "B": "Espátula e Misturador de Tinta.",
-                "C": "Protetor de Piso e Trincha.",
-                "D": "Misturador de Tinta e Garfo para rolo.",
-                "E": "Garfo para rolo e Broxa. QUESTÃO 32 \nLeia o enunciado abaixo, e assinale a alternativa \ncorreta, indicando o termo correspondente a \nlacuna: \nO(A) _____________ serve para corrigir e \nnivelar imperfeições rasas em pintura ou \nrepintura de superfícies, ela consegue nivelar, \nremover trincas e até mesmo reparar paredes \nestufadas, por exemplo em ambientes internos \nnão molháveis. Com secagem rápida e um \nexcelente poder de preenchimento, o produto é \nfácil de aplicar e lixar, sem contar que \nproporciona um acabamento liso surpreendente. \n(A) Massa Corrida. \n(B) Tinta Epóxi. \n(C) Verniz. \n(D) Selador Acrílico. \n(E) Primer."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 24: Observe as afirmativas abaixo e assinale a \nalternativa que apresenta corretamente a \nsequência, apontando como VERDADEIRO (V) \nou FALSO (F) sobre a utilização dos EPI’S –  \nEquipamentos de Proteção Individuais: \n( ) Luvas: protege toda a pele do corpo exposta \ncontra produtos químicos; \n( ) Óculos de Proteção: protegem os olhos do \nmanuseio de tintas ou diluentes. Importante em \ncasos de pintura acima da cabeça, com pistola e \nao lixar; \n( ) Capacete: Em caso de trabalho em altura \nprotege a cabeça em caso de queda. Além disso, \nse estiver trabalhando em um canteiro de obras \nprotegerá a cabeça se um objeto cair sobre você.",
-            "alternativas": {
-                "A": "F, F, V.",
-                "B": "V, F, V.",
-                "C": "F, V, V.",
-                "D": "V, V, F.",
-                "E": "Nenhuma das alternativas. \n \n \n \n \nPrefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nARTÍFICE I (PINTOR)                                                                                                                               Página 8 de 10 QUESTÃO 34 \nAnalise a imagem abaixo e selecione a \nalternativa que identifica corretamente o tipo de \ntextura aplicada na superfície da parede exibida \nna imagem:  \n \n(A) Chapisco. \n(B) Ranhura. \n(C) Riscado.  \n(D) Marmorato. \n(E) Esponjado."
+                "A": "R$ 220,00 (",
+                "B": "R$ 227,50 (",
+                "C": "R$ 230,00 (",
+                "D": "R$ 240,00 (",
+                "E": "Nenhuma das alternativas Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ARTÍFICE I (PINTOR) Página 6 de 10 QUESTÃO 23 Uma caixa de frutas tem um peso de 2500 gramas. Quantos quilogramas há na caixa se ela pesa 2500 gramas? (A) 2,5 quilogramas (B) 25 quilogramas (C) 0,25 quilogramas (D) 0,0250 quilogramas (E) Nenhuma das alternativas"
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 25: Uma película protetora que serve para proteger \nas superfícies de madeira da absorção de água, \ncriando uma camada hidro-repelente e tornando-\na muito mais resistente e durável. É indicada para \nmóveis, janelas, portas, pisos e qualquer \nsuperfície de madeira que esteja em áreas \nexternas ou ambientes úmidos e molhados. Pode \nser à base de solvente ou de água, além de contar \ncom acabamentos incolores ou pigmentados. É \ncomumente conhecida como:",
+            "questão": "Questão 24",
+            "enunciado": "Ana encontrou um cofre com algumas notas e moedas. Ao abri-lo, ela encontrou 15 notas de R$ 100,00 e 25 notas de R$ 10,00. Além disso, havia também 60 moedas de R$ 0,50 e 40 moedas de R$ 0,25. Qual é o valor total que Ana encontrou no cofre? (",
             "alternativas": {
-                "A": "Película protetora de tinta.",
-                "B": "Primer.",
-                "C": "Selador.",
-                "D": "Verniz.",
-                "E": "Esmalte Sintético. \n \n \n \n \n \n \n \n \n QUESTÃO 36 \nOs fatores naturais como a incidência do sol, da \nchuva, a umidade e a maresia desgastam a pintura \nao longo do tempo, resultando em fissuras, mofo \ne desbotamento da cor, o que deixa a parede com \num aspecto descuidado e feio. Para proteger \nfachadas e paredes externas contra essas \ncondições adversas e garantir maior durabilidade \ne rendimento, qual é a tinta específica \nrecomendada?  \n(A) Tinta Emborrachada. \n(B) Tinta Epóxi. \n(C) Tinta Acrílica. \n(D) Tinta Fosca. \n(E) Tinta a Óleo."
+                "A": "R$ 1.900,00 (",
+                "B": "R$ 2.025,00 (",
+                "C": "R$ 1.750,00 (",
+                "D": "R$ 1.790,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25",
+            "enunciado": "Assinale a alternativa que apresenta o décimo oitavo número par sucessor de 64: (",
+            "alternativas": {
+                "A": "100 (",
+                "B": "96 (",
+                "C": "90 (",
+                "D": "92 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26",
+            "enunciado": "Um ônibus possui 10 fileiras de assentos, e cada fileira pode acomodar até 4 passageiros. Quantos passageiros o ônibus pode transportar ao todo? (",
+            "alternativas": {
+                "A": "36 passageiros (",
+                "B": "40 passageiros (",
+                "C": "44 passageiros (",
+                "D": "48 passageiros (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27",
+            "enunciado": "Lucas está organizando uma viagem e vai alugar um barco por 6 dias. Se o aluguem tem início na sexta-feira, em que dia da semana ele terminará o aluguel? (",
+            "alternativas": {
+                "A": "Segunda-feira (",
+                "B": "Terça-feira (",
+                "C": "Quarta-feira (",
+                "D": "Quinta-feira (",
+                "E": "Sexta-feira"
             },
             "resposta_correta": "C"
         },
         {
             "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 26: Em uma tarde de trabalho, Clécio, um pintor \nrenomado, observou que algumas áreas da parede \napresentavam áreas “levantadas” com bolhas de \nar visíveis. Essas bolhas podem resultar em \ndescascamento da pintura e são frequentemente \ncausadas por umidade, poeira na superfície, \nreboco inadequado, excesso de demãos de tinta \nou falta de limpeza adequada após o lixamento \nda superfície. Diante dessa situação, qual medida \ncorretiva deve ser adotada pelo pintor para \nsolucionar o problema?",
+            "questão": "Questão 28",
+            "enunciado": "Considere a sequência: A, 7, B, 14, C, 21, (...). Qual é o 10º termo dessa sequência? (",
             "alternativas": {
-                "A": "Usar um primer para esconder as bolhas e \naplicar a pintura final.",
-                "B": "Remover as partes soltas, lixar e remover o \npó com um pano úmido.",
-                "C": "Aplicar uma nova camada de tinta \nimediatamente em cima da antiga.",
-                "D": "Aplicar um Verniz e repintar a superfície.",
-                "E": "Aplicar apenas um selador sobre as bolhas \npara vedar a superfície antes de repintar \n \n \n \n \n \n \n \n \n \nPrefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nARTÍFICE I (PINTOR)                                                                                                                               Página 9 de 10 QUESTÃO 38 \nDurante a execução de trabalhos de pintura, é \nfundamental que o pintor utilize os \nEquipamentos de Proteção Coletiva (EPC) \napropriados. Nesse contexto, assinale a \nalternativa que apresenta um EPC essencial para \ngarantir a proteção do pintor no ambiente de \ntrabalho:  \n(A) Máscara de proteção respiratória. \n(B) Luvas de borracha. \n(C) Óculos de segurança. \n(D) Capacete de segurança. \n(E) Sinalização em escadas e rampas."
+                "A": "28 (",
+                "B": "D (",
+                "C": "35 (",
+                "D": "E (",
+                "E": "Nenhuma das alternativas Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ARTÍFICE I (PINTOR) Página 7 de 10 QUESTÃO 29 Em uma padaria, uma pessoa compra quatro brigadeiros e três bolos, gastando no total R$ 50,00. Se o preço de um brigadeiro é desconhecido e o preço de um bolo é de R$ 6,00, qual é o preço de um brigadeiro? (A) R$ 5,00 (B) R$ 7,00 (C) R$ 8,00 (D) R$ 10,00 (E) Nenhuma das alternativas"
             },
             "resposta_correta": "C"
         },
         {
             "cargo": "ARTÍFICE I (PINTOR)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 27: Examine a imagem abaixo e identifique o nome \ndo material apresentado, que é comumente \nutilizado no contexto da pintura.",
+            "questão": "Questão 30",
+            "enunciado": "Em uma loja de móveis, uma mesa está com um desconto de 15% sobre o preço original de R$ 800,00. Qual é o preço da mesa com o desconto aplicado? (",
             "alternativas": {
-                "A": "Pistola de Pintura Elétrica.",
-                "B": "Pistola de Pressão.",
-                "C": "Pistola de Pintura de Sucção.",
-                "D": "Aerógrafo.",
-                "E": "Pistola Semielétrica. \n \n \n \n \n \n \n \n QUESTÃO 40 \nObserve a imagem abaixo e associe corretamente \no uso das trinchas às suas respectivas \ndestinações: \n1º Cerdas Pretas; \n2º Cerdas Brancas; \n3º Cerdas Grisalhas. \n( ) Indicada para aplicação de tintas acrílicas \naquosas, óptimas para pintar detalhes e/ou \ncobertura de superfícies; \n( ) Indicadas para aplicação de tintas a base \nsintética como os esmaltes, e vernizes. Podem ser \nutilizadas em alvenaria, madeira e metais, entre \noutros materiais; \n( ) Indicada para aplicação de tintas à base \naquosa, oferecem um bom desempenho em todos \nos tipos de superfícies, também são utilizadas \npara recorte, retoques e cantos. \n(A) 1, 2, 3, \n(B) 3, 1, 2. \n(C) 2, 1, 3 \n(D) 1, 3, 2. \n(E) 2, 3, 1. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPrefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nARTÍFICE I (PINTOR)                                                                                                                               Página 10 de 10"
+                "A": "R$ 680,00 (",
+                "B": "R$ 700,00 (",
+                "C": "R$ 720,00 (",
+                "D": "R$ 750,00 (",
+                "E": "Nenhuma das alternativas CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31",
+            "enunciado": "Entre as diversas ferramentas utilizadas em uma pintura, as imagens abaixo, correspondem respectivamente a: (",
+            "alternativas": {
+                "A": "Misturador de Tinta e Rolo de pintura. (",
+                "B": "Espátula e Misturador de Tinta. (",
+                "C": "Protetor de Piso e Trincha. (",
+                "D": "Misturador de Tinta e Garfo para rolo. (",
+                "E": "Garfo para rolo e Broxa. QUESTÃO 32 Leia o enunciado abaixo, e assinale a alternativa correta, indicando o termo correspondente a lacuna: O(A) _____________ serve para corrigir e nivelar imperfeições rasas em pintura ou repintura de superfícies, ela consegue nivelar, remover trincas e até mesmo reparar paredes estufadas, por exemplo em ambientes internos não molháveis. Com secagem rápida e um excelente poder de preenchimento, o produto é fácil de aplicar e lixar, sem contar que proporciona um acabamento liso surpreendente. (A) Massa Corrida. (B) Tinta Epóxi. (C) Verniz. (D) Selador Acrílico. (E) Primer."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33",
+            "enunciado": "Observe as afirmativas abaixo e assinale a alternativa que apresenta corretamente a sequência, apontando como VERDADEIRO (V) ou FALSO (F) sobre a utilização dos EPI’S – Equipamentos de Proteção Individuais: ( ) Luvas: protege toda a pele do corpo exposta contra produtos químicos; ( ) Óculos de Proteção: protegem os olhos do manuseio de tintas ou diluentes. Importante em casos de pintura acima da cabeça, com pistola e ao lixar; ( ) Capacete: Em caso de trabalho em altura protege a cabeça em caso de queda. Além disso, se estiver trabalhando em um canteiro de obras protegerá a cabeça se um objeto cair sobre você. (",
+            "alternativas": {
+                "A": "F, F, V. (",
+                "B": "V, F, V. (",
+                "C": "F, V, V. (",
+                "D": "V, V, F. (",
+                "E": "Nenhuma das alternativas. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ARTÍFICE I (PINTOR) Página 8 de 10 QUESTÃO 34 Analise a imagem abaixo e selecione a alternativa que identifica corretamente o tipo de textura aplicada na superfície da parede exibida na imagem: (A) Chapisco. (B) Ranhura. (C) Riscado. (D) Marmorato. (E) Esponjado."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 35",
+            "enunciado": "Uma película protetora que serve para proteger as superfícies de madeira da absorção de água, criando uma camada hidro-repelente e tornando- a muito mais resistente e durável. É indicada para móveis, janelas, portas, pisos e qualquer superfície de madeira que esteja em áreas externas ou ambientes úmidos e molhados. Pode ser à base de solvente ou de água, além de contar com acabamentos incolores ou pigmentados. É comumente conhecida como: (",
+            "alternativas": {
+                "A": "Película protetora de tinta. (",
+                "B": "Primer. (",
+                "C": "Selador. (",
+                "D": "Verniz. (",
+                "E": "Esmalte Sintético."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 36",
+            "enunciado": "Os fatores naturais como a incidência do sol, da chuva, a umidade e a maresia desgastam a pintura ao longo do tempo, resultando em fissuras, mofo e desbotamento da cor, o que deixa a parede com um aspecto descuidado e feio. Para proteger fachadas e paredes externas contra essas condições adversas e garantir maior durabilidade e rendimento, qual é a tinta específica recomendada? (",
+            "alternativas": {
+                "A": "Tinta Emborrachada. (",
+                "B": "Tinta Epóxi. (",
+                "C": "Tinta Acrílica. (",
+                "D": "Tinta Fosca. (",
+                "E": "Tinta a Óleo."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 37",
+            "enunciado": "Em uma tarde de trabalho, Clécio, um pintor renomado, observou que algumas áreas da parede apresentavam áreas “levantadas” com bolhas de ar visíveis. Essas bolhas podem resultar em descascamento da pintura e são frequentemente causadas por umidade, poeira na superfície, reboco inadequado, excesso de demãos de tinta ou falta de limpeza adequada após o lixamento da superfície. Diante dessa situação, qual medida corretiva deve ser adotada pelo pintor para solucionar o problema? (",
+            "alternativas": {
+                "A": "Usar um primer para esconder as bolhas e aplicar a pintura final. (",
+                "B": "Remover as partes soltas, lixar e remover o pó com um pano úmido. (",
+                "C": "Aplicar uma nova camada de tinta imediatamente em cima da antiga. (",
+                "D": "Aplicar um Verniz e repintar a superfície. (",
+                "E": "Aplicar apenas um selador sobre as bolhas para vedar a superfície antes de repintar Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ARTÍFICE I (PINTOR) Página 9 de 10 QUESTÃO 38 Durante a execução de trabalhos de pintura, é fundamental que o pintor utilize os Equipamentos de Proteção Coletiva (EPC) apropriados. Nesse contexto, assinale a alternativa que apresenta um EPC essencial para garantir a proteção do pintor no ambiente de trabalho: (A) Máscara de proteção respiratória. (B) Luvas de borracha. (C) Óculos de segurança. (D) Capacete de segurança. (E) Sinalização em escadas e rampas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 39",
+            "enunciado": "Examine a imagem abaixo e identifique o nome do material apresentado, que é comumente utilizado no contexto da pintura. (",
+            "alternativas": {
+                "A": "Pistola de Pintura Elétrica. (",
+                "B": "Pistola de Pressão. (",
+                "C": "Pistola de Pintura de Sucção. (",
+                "D": "Aerógrafo. (",
+                "E": "Pistola Semielétrica."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ARTÍFICE I (PINTOR)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 40",
+            "enunciado": "Observe a imagem abaixo e associe corretamente o uso das trinchas às suas respectivas destinações: 1º Cerdas Pretas; 2º Cerdas Brancas; 3º Cerdas Grisalhas. ( ) Indicada para aplicação de tintas acrílicas aquosas, óptimas para pintar detalhes e/ou cobertura de superfícies; ( ) Indicadas para aplicação de tintas a base sintética como os esmaltes, e vernizes. Podem ser utilizadas em alvenaria, madeira e metais, entre outros materiais; ( ) Indicada para aplicação de tintas à base aquosa, oferecem um bom desempenho em todos os tipos de superfícies, também são utilizadas para recorte, retoques e cantos. (",
+            "alternativas": {
+                "A": "1, 2, 3, (",
+                "B": "3, 1, 2. (",
+                "C": "2, 1, 3 (",
+                "D": "1, 3, 2. (",
+                "E": "2, 3, 1. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ARTÍFICE I (PINTOR) Página 10 de 10"
             },
             "resposta_correta": "B"
         }

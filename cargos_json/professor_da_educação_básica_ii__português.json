@@ -4,13 +4,14 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 1: De acordo com o texto, a prevalência das \nmitocôndrias maternas no DNA ocorre em \nfunção de:",
+            "questão": "Questão 1",
+            "enunciado": "De acordo com o texto, a prevalência das mitocôndrias maternas no DNA ocorre em função de: (",
             "alternativas": {
-                "A": "as mitocôndrias maternas possuírem mais \ngenes do que o genoma.",
-                "B": "o DNA mitocondrial do espermatozoide ser \ndegradado por enzimas do próprio gameta \nmasculino antes da fertilização.",
-                "C": "os espermatozoides não possuírem DNA \nmitocondrial.",
-                "D": "os espermatozoides possuírem uma proteína \nresponsável pela mutação do DNA mitocondrial.",
-                "E": "o DNA mitocondrial paterno ser \nincompatível com o materno."
+                "A": "as mitocôndrias maternas possuírem mais genes do que o genoma. (",
+                "B": "o DNA mitocondrial do espermatozoide ser degradado por enzimas do próprio gameta masculino antes da fertilização. (",
+                "C": "os espermatozoides não possuírem DNA mitocondrial. (",
+                "D": "os espermatozoides possuírem uma proteína responsável pela mutação do DNA mitocondrial. (",
+                "E": "o DNA mitocondrial paterno ser incompatível com o materno."
             },
             "resposta_correta": "C"
         },
@@ -18,13 +19,14 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 2: Considere as sentenças: \nI. “Por que temos somente as mitocôndrias das \nnossas mães?”  \nII. “Um estudo publicado na Nature Genetics \nrecentemente pode explicar o porquê.”  \nIII. “Não só porque elas gestaram seus \nantepassados, é claro”  \nOs diferentes usos de “por que/porquê/porque” \nrepresentados nas sentenças acima ocorrem em \nfunção do significado e da classe gramatical à \nqual pertencem as expressões. Nesse sentido, \natua(m) como substantivo apenas a(s) forma(s) \nde “por que/porquê/porque” empregada(s) em:",
+            "questão": "Questão 2",
+            "enunciado": "Considere as sentenças: I. “Por que temos somente as mitocôndrias das nossas mães?” II. “Um estudo publicado na Nature Genetics recentemente pode explicar o porquê.” III. “Não só porque elas gestaram seus antepassados, é claro” Os diferentes usos de “por que/porquê/porque” representados nas sentenças acima ocorrem em função do significado e da classe gramatical à qual pertencem as expressões. Nesse sentido, atua(m) como substantivo apenas a(s) forma(s) de “por que/porquê/porque” empregada(s) em: (",
             "alternativas": {
-                "A": "I.",
-                "B": "II.",
-                "C": "III.",
-                "D": "I e II.",
-                "E": "II e III. \n \n \n \n QUESTÃO 03 \nConsidere o excerto: “Dentro das células, \nexistem duas organelas que possuem DNA. A \nprincipal delas é o núcleo, onde fica o material \ngenético com basicamente todas as informações \nque formam o indivíduo.” Nesse contexto, o \npronome “elas”, contido na contração “delas”, se \nrefere: \n(A) às células. \n(B) às duas organelas que possuem DNA. \n(C) às informações que formam o indivíduo. \n(D) ao DNA em si. \n(E) às células e às organelas."
+                "A": "I. (",
+                "B": "II. (",
+                "C": "III. (",
+                "D": "I e II. (",
+                "E": "II e III."
             },
             "resposta_correta": "A"
         },
@@ -32,27 +34,44 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 3: Considere o excerto: “As mitocôndrias também \npossuem material genético, ainda que em uma \nproporção bem menor (somente 37 genes, \ncomparado a 20 mil do genoma).” Em relação às \nclasses gramaticais, as palavras “também”, \n“genético”, “em” e “somente” classifica m-se, \nrespectivamente, em:",
+            "questão": "Questão 3",
+            "enunciado": "Considere o excerto: “Dentro das células, existem duas organelas que possuem DNA. A principal delas é o núcleo, onde fica o material genético com basicamente todas as informações que formam o indivíduo.” Nesse contexto, o pronome “elas”, contido na contração “delas”, se refere: (",
             "alternativas": {
-                "A": "advérbio, adjetivo, preposição e advérbio.",
-                "B": "substantivo, adjetivo, preposição e advérbio.",
-                "C": "advérbio, substantivo, preposição e advérbio.",
-                "D": "advérbio, adjetivo, conjunção e advérbio.",
+                "A": "às células. (",
+                "B": "às duas organelas que possuem DNA. (",
+                "C": "às informações que formam o indivíduo. (",
+                "D": "ao DNA em si. (",
+                "E": "às células e às organelas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 4",
+            "enunciado": "Considere o excerto: “As mitocôndrias também possuem material genético, ainda que em uma proporção bem menor (somente 37 genes, comparado a 20 mil do genoma).” Em relação às classes gramaticais, as palavras “também”, “genético”, “em” e “somente” classifica m-se, respectivamente, em: (",
+            "alternativas": {
+                "A": "advérbio, adjetivo, preposição e advérbio. (",
+                "B": "substantivo, adjetivo, preposição e advérbio. (",
+                "C": "advérbio, substantivo, preposição e advérbio. (",
+                "D": "advérbio, adjetivo, conjunção e advérbio. (",
                 "E": "advérbio, adjetivo, preposição e substantivo."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 4: Considere o excerto: “Cientistas podem ter \ndescoberto por que as mitocôndrias de origem \npaterna são degradadas na fertilização.” Nesse \ncontexto, as flexões de número e de gênero da \npalavra “degradadas” são motivadas pela(s) \npalavra(s):",
+            "questão": "Questão 5",
+            "enunciado": "Considere o excerto: “Cientistas podem ter descoberto por que as mitocôndrias de origem paterna são degradadas na fertilização.” Nesse contexto, as flexões de número e de gênero da palavra “degradadas” são motivadas pela(s) palavra(s): (",
             "alternativas": {
-                "A": "cientistas.",
-                "B": "origem paterna.",
-                "C": "as mitocôndrias.",
-                "D": "paterna.",
-                "E": "na fertilização. \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 4 de 16 QUESTÃO 06 \nConsidere as seguintes sentenças, retiradas do \ntexto: \nI. “Os espermatozoides também possuem \nmitocôndrias.”  \nII. “E essa pode ser uma das razões pelas quais \ntemos somente o mtDNA materno.”  \nNessas sentenças, os verbos “possuir” e “ter” \napresentam, respectivamente, as regências: \n \n(A) de ligação e transitiva indireta. \n(B) transitiva direta e transitiva indireta. \n(C) transitiva direta e transitiva direta. \n(D) pronominal e transitiva direta. \n(E) intransitiva e intransitiva."
+                "A": "cientistas. (",
+                "B": "origem paterna. (",
+                "C": "as mitocôndrias. (",
+                "D": "paterna. (",
+                "E": "na fertilização. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 4 de 16 QUESTÃO 06 Considere as seguintes sentenças, retiradas do texto: I. “Os espermatozoides também possuem mitocôndrias.” II. “E essa pode ser uma das razões pelas quais temos somente o mtDNA materno.” Nessas sentenças, os verbos “possuir” e “ter” apresentam, respectivamente, as regências: (A) de ligação e transitiva indireta. (B) transitiva direta e transitiva indireta. (C) transitiva direta e transitiva direta. (D) pronominal e transitiva direta. (E) intransitiva e intransitiva."
             },
             "resposta_correta": "A"
         },
@@ -60,41 +79,14 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 5: Considere o excerto: “Isso significa que toda \nmulher tem o mesmo mtDNA de sua mãe, que \ntem o mesmo de sua avó, e assim por diante. \nDessa forma, é possível voltar na linhagem até \nencontrar uma mulher que foi a ancestral comum \nde todas as pessoas vivas hoje. ” Nesse contexto, \na locução “dessa forma” cumpre um importante \npapel relacionado à coesão textual. Isso porque a \nexpressão atua como um:",
+            "questão": "Questão 7",
+            "enunciado": "Considere o excerto: “Isso significa que toda mulher tem o mesmo mtDNA de sua mãe, que tem o mesmo de sua avó, e assim por diante. Dessa forma, é possível voltar na linhagem até encontrar uma mulher que foi a ancestral comum de todas as pessoas vivas hoje. ” Nesse contexto, a locução “dessa forma” cumpre um importante papel relacionado à coesão textual. Isso porque a expressão atua como um: (",
             "alternativas": {
-                "A": "operador argumentativo de conclusão.",
-                "B": "conector de elementos intra-oracionais.",
-                "C": "mecanismo de referenciação.",
-                "D": "modificador verbal.",
-                "E": "qualificador nominal. \n \n \n \n QUESTÃO 08 \nConsidere as palavras I. mitocôndrias, II. \nrecentemente e III. fecundação, que ocorrem no \ntexto. Essas palavras apresentam elementos que \nindicam seus processos de formação. A(s) \npalavra(s) que apresenta(m) marca indicativa do \nprocesso de composição é (são): \n \n(A) I. mitocôndrias. \n(B) II. recentemente. \n(C) III. fecundação. \n(D) I. mitocôndrias e II. recentemente. \n(E) I. mitocôndrias e III. fecundação."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "05/2023",
-            "questão": "Questão 6: Considere o excerto: “Não só porque elas \ngestaram seus antepassados, é claro; mas também \nporque suas mitocôndrias, as usinas de energia \ndo corpo humano, são exclusivamente de origem \nmaterna.” Nesse contexto, o emprego da \nconjunção “mas” está relacionado à:",
-            "alternativas": {
-                "A": "expressão de uma restrição sobre o conteúdo \nanterior.",
-                "B": "expressão de uma ratificação do conteúdo \nanterior.",
-                "C": "expressão do sentido de adição, por estar \ncombinada às expressões “não só” e “também”.",
-                "D": "expressão do sentido de oposição, em relação \nao conteúdo anterior.",
-                "E": "expressão do sentido de conclusão. \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 5 de 16 QUESTÃO 10 \nConsidere os seguintes pares de sentenças: \nI. “A comida virou uma papa.”  \n   “O Papa está em viagem diplomática.”  \nII.“Você deve cozer as batatas por vinte \nminutos.”  \n    “Não tive tempo para coser nem as minhas \npróprias roupas, quanto mais as suas!”  \nOs fenômenos linguísticos que ocorrem nos \npares de sentenças dados são chamados, \nrespectivamente, de: \n \n(A) homonímia e homografia. \n(B) sinonímia e sinonímia. \n(C) homofonia e homografia. \n(D) sinonímia e homonímia. \n(E) homografia e homofonia."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "05/2023",
-            "questão": "Questão 7: Assinale a alternativa em que a palavra \napresentada está incorreta em relação à \nacentuação gráfica.",
-            "alternativas": {
-                "A": "nematoide.",
-                "B": "nespera.",
-                "C": "bambu.",
-                "D": "cefaleia.",
-                "E": "magoo."
+                "A": "operador argumentativo de conclusão. (",
+                "B": "conector de elementos intra-oracionais. (",
+                "C": "mecanismo de referenciação. (",
+                "D": "modificador verbal. (",
+                "E": "qualificador nominal."
             },
             "resposta_correta": "B"
         },
@@ -102,13 +94,14 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 8: Assinale a alternativa em que todas as palavras \nsão formadas por derivação.",
+            "questão": "Questão 8",
+            "enunciado": "Considere as palavras I. mitocôndrias, II. recentemente e III. fecundação, que ocorrem no texto. Essas palavras apresentam elementos que indicam seus processos de formação. A(s) palavra(s) que apresenta(m) marca indicativa do processo de composição é (são): (",
             "alternativas": {
-                "A": "felicidade, calcinha, aguardente.",
-                "B": "corporal, megafauna, elasticidade.",
-                "C": "molecagem, incompletude, delinquente.",
-                "D": "mal-arrumado, lobisomem, crendice.",
-                "E": "espiritual, geolocalização, ultrapassar. \n QUESTÃO 13 \nConsidere as seguintes sentenças: \nI. As categorias às quais esses lutadores \npertencem são as mais altas. \nII. Quanto poderá oferecer à causa? \nIII. Temos um compromisso em todas às quartas-\nfeiras.  \nNas sentenças dadas, o uso da crase está correto \napenas em: \n(A) I. \n(B) II. \n(C) III. \n(D) I e II. \n(E) II e III."
+                "A": "I. mitocôndrias. (",
+                "B": "II. recentemente. (",
+                "C": "III. fecundação. (",
+                "D": "I. mitocôndrias e II. recentemente. (",
+                "E": "I. mitocôndrias e III. fecundação."
             },
             "resposta_correta": "A"
         },
@@ -116,13 +109,14 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 9: Assinale a alternativa em que todos os verbos \nestão conjugados no futuro do pretérito do modo \nindicativo.",
+            "questão": "Questão 9",
+            "enunciado": "Considere o excerto: “Não só porque elas gestaram seus antepassados, é claro; mas também porque suas mitocôndrias, as usinas de energia do corpo humano, são exclusivamente de origem materna.” Nesse contexto, o emprego da conjunção “mas” está relacionado à: (",
             "alternativas": {
-                "A": "irei, chegarei, farei.",
-                "B": "emprestaram, compraram, disseram.",
-                "C": "casara, buscara, negociara.",
-                "D": "falasse, alimentasse, comesse.",
-                "E": "comeríeis, falarias, olharíamos."
+                "A": "expressão de uma restrição sobre o conteúdo anterior. (",
+                "B": "expressão de uma ratificação do conteúdo anterior. (",
+                "C": "expressão do sentido de adição, por estar combinada às expressões “não só” e “também”. (",
+                "D": "expressão do sentido de oposição, em relação ao conteúdo anterior. (",
+                "E": "expressão do sentido de conclusão. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 5 de 16 QUESTÃO 10 Considere os seguintes pares de sentenças: I. “A comida virou uma papa.” “O Papa está em viagem diplomática.” II.“Você deve cozer as batatas por vinte minutos.” “Não tive tempo para coser nem as minhas próprias roupas, quanto mais as suas!” Os fenômenos linguísticos que ocorrem nos pares de sentenças dados são chamados, respectivamente, de: (A) homonímia e homografia. (B) sinonímia e sinonímia. (C) homofonia e homografia. (D) sinonímia e homonímia. (E) homografia e homofonia."
             },
             "resposta_correta": "C"
         },
@@ -130,13 +124,14 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 10: Assinale a alternativa em que a sentença \napresenta problemas de pontuação.",
+            "questão": "Questão 11",
+            "enunciado": "Assinale a alternativa em que a palavra apresentada está incorreta em relação à acentuação gráfica. (",
             "alternativas": {
-                "A": "Ele é dedicado. Ela, preguiçosa.",
-                "B": "Os meninos do sétimo ano, apresentaram \numa peça de teatro.",
-                "C": "Os ingredientes utilizados nesta receita são: \nchocolate em pó, farinha e dois ovos.",
-                "D": "Os vestidos das madrinhas são lindos, lindos.",
-                "E": "A mãe não tinha tanto dinheiro, mas fez uma \nfesta grandiosa para o filho.  \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 6 de 16 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "nematoide. (",
+                "B": "nespera. (",
+                "C": "bambu. (",
+                "D": "cefaleia. (",
+                "E": "magoo."
             },
             "resposta_correta": "D"
         },
@@ -144,27 +139,14 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 11: Marcelo faz a seguinte afirmação: \n \n“Se eu uso meia branca, então eu uso camisa \npreta e vice-versa. Se eu uso meia branca, então \neu uso sapato azul.”  \n \nDado que Marcelo está usando camisa preta, \npodemos afirmar que:",
+            "questão": "Questão 12",
+            "enunciado": "Assinale a alternativa em que todas as palavras são formadas por derivação. (",
             "alternativas": {
-                "A": "Marcelo está usando sapato azul e não está \nusando meia branca",
-                "B": "Marcelo não está usando sapato azul e está \nusando meia branca.",
-                "C": "Marcelo está usando sapato azul e está \nusando meia branca.",
-                "D": "É possível que Marcelo não esteja usando \nsapato nem esteja usando meia branca.",
-                "E": "Certamente Marcelo não está usando nem \nsapato azul nem meia branca."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "05/2023",
-            "questão": "Questão 12: Para fazer o tampo para uma mesa um \nmarceneiro utilizará fórmica para cobrir uma \nface do tampo. Além disso, é colocado na borda \ndo tampo um adesivo protetor. Sabendo que a \nfórmica custa R$ 12,00 cada metro quadrado e o \nadesivo para a borda custa R$ 6,00 cada metro, \nquanto o marceneiro gastará com a fórmica e o \nadesivo, juntos, para um tampo retangular de 3 \nmetros por 2 metros:",
-            "alternativas": {
-                "A": "R$ 120,00.",
-                "B": "R$ 126,00.",
-                "C": "R$ 130,00.",
-                "D": "R$ 132,00.",
-                "E": "R$ 136,00. \n \n \n \n QUESTÃO 18 \nEm uma certa parada de ônibus, o ônibus A passa \na cada 50 minutos, já o ônibus B passa a cada 30 \nminutos. Se às 11h55, os dois ônibus passaram \npela parada simultaneamente, quando eles dois \nvoltarão a passar simultaneamente na parada? \n(A) 14h25min. \n(B) 14h30min. \n(C) 14h35min.  \n(D) 14h40min. \n(E) 14h45min."
+                "A": "felicidade, calcinha, aguardente. (",
+                "B": "corporal, megafauna, elasticidade. (",
+                "C": "molecagem, incompletude, delinquente. (",
+                "D": "mal-arrumado, lobisomem, crendice. (",
+                "E": "espiritual, geolocalização, ultrapassar."
             },
             "resposta_correta": "B"
         },
@@ -172,12 +154,103 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 13: Considere o triângulo isósceles abaixo: \n \nSabendo que o triângulo acima possui dois lados \nque medem 5 cm e um lado que mede 8 cm, \nconforme a figura, qual é a área desse triângulo \nem cm2?",
+            "questão": "Questão 13",
+            "enunciado": "Considere as seguintes sentenças: I. As categorias às quais esses lutadores pertencem são as mais altas. II. Quanto poderá oferecer à causa? III. Temos um compromisso em todas às quartas- feiras. Nas sentenças dadas, o uso da crase está correto apenas em: (",
             "alternativas": {
-                "A": "10.",
-                "B": "11.",
-                "C": "12.",
-                "D": "13.",
+                "A": "I. (",
+                "B": "II. (",
+                "C": "III. (",
+                "D": "I e II. (",
+                "E": "II e III."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 14",
+            "enunciado": "Assinale a alternativa em que todos os verbos estão conjugados no futuro do pretérito do modo indicativo. (",
+            "alternativas": {
+                "A": "irei, chegarei, farei. (",
+                "B": "emprestaram, compraram, disseram. (",
+                "C": "casara, buscara, negociara. (",
+                "D": "falasse, alimentasse, comesse. (",
+                "E": "comeríeis, falarias, olharíamos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 15",
+            "enunciado": "Assinale a alternativa em que a sentença apresenta problemas de pontuação. (",
+            "alternativas": {
+                "A": "Ele é dedicado. Ela, preguiçosa. (",
+                "B": "Os meninos do sétimo ano, apresentaram uma peça de teatro. (",
+                "C": "Os ingredientes utilizados nesta receita são: chocolate em pó, farinha e dois ovos. (",
+                "D": "Os vestidos das madrinhas são lindos, lindos. (",
+                "E": "A mãe não tinha tanto dinheiro, mas fez uma festa grandiosa para o filho. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 6 de 16 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 16",
+            "enunciado": "Marcelo faz a seguinte afirmação: “Se eu uso meia branca, então eu uso camisa preta e vice-versa. Se eu uso meia branca, então eu uso sapato azul.” Dado que Marcelo está usando camisa preta, podemos afirmar que: (",
+            "alternativas": {
+                "A": "Marcelo está usando sapato azul e não está usando meia branca (",
+                "B": "Marcelo não está usando sapato azul e está usando meia branca. (",
+                "C": "Marcelo está usando sapato azul e está usando meia branca. (",
+                "D": "É possível que Marcelo não esteja usando sapato nem esteja usando meia branca. (",
+                "E": "Certamente Marcelo não está usando nem sapato azul nem meia branca."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 17",
+            "enunciado": "Para fazer o tampo para uma mesa um marceneiro utilizará fórmica para cobrir uma face do tampo. Além disso, é colocado na borda do tampo um adesivo protetor. Sabendo que a fórmica custa R$ 12,00 cada metro quadrado e o adesivo para a borda custa R$ 6,00 cada metro, quanto o marceneiro gastará com a fórmica e o adesivo, juntos, para um tampo retangular de 3 metros por 2 metros: (",
+            "alternativas": {
+                "A": "R$ 120,00. (",
+                "B": "R$ 126,00. (",
+                "C": "R$ 130,00. (",
+                "D": "R$ 132,00. (",
+                "E": "R$ 136,00."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 18",
+            "enunciado": "Em uma certa parada de ônibus, o ônibus A passa a cada 50 minutos, já o ônibus B passa a cada 30 minutos. Se às 11h55, os dois ônibus passaram pela parada simultaneamente, quando eles dois voltarão a passar simultaneamente na parada? (",
+            "alternativas": {
+                "A": "14h25min. (",
+                "B": "14h30min. (",
+                "C": "14h35min. (",
+                "D": "14h40min. (",
+                "E": "14h45min."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 19",
+            "enunciado": "Considere o triângulo isósceles abaixo: Sabendo que o triângulo acima possui dois lados que medem 5 cm e um lado que mede 8 cm, conforme a figura, qual é a área desse triângulo em cm2? (",
+            "alternativas": {
+                "A": "10. (",
+                "B": "11. (",
+                "C": "12. (",
+                "D": "13. (",
                 "E": "14."
             },
             "resposta_correta": "B"
@@ -186,13 +259,119 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 14: Uma gráfica que imprime jornais consegue \nimprimir 800 cópias de jornais utilizando 2 litros \nde uma determinada tinta em 30 minutos. Uma \nmanutenção nas impressoras permitiu imprimir \n900 cópias com 2 litros de tinta em 25 minutos. \nPodemos afirmar que o número de cópias \nimpressas por litro de tinta por minuto teve um \naumento percentual de:",
+            "questão": "Questão 20",
+            "enunciado": "Uma gráfica que imprime jornais consegue imprimir 800 cópias de jornais utilizando 2 litros de uma determinada tinta em 30 minutos. Uma manutenção nas impressoras permitiu imprimir 900 cópias com 2 litros de tinta em 25 minutos. Podemos afirmar que o número de cópias impressas por litro de tinta por minuto teve um aumento percentual de: (",
             "alternativas": {
-                "A": "23%.",
-                "B": "25%.",
-                "C": "30%.",
-                "D": "32%.",
-                "E": "35%. \nPrefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 7 de 16 CONHECIMENTOS PEDAGÓGICOS E \nLEGISLAÇÃO"
+                "A": "23%. (",
+                "B": "25%. (",
+                "C": "30%. (",
+                "D": "32%. (",
+                "E": "35%. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 7 de 16 CONHECIMENTOS PEDAGÓGICOS E LEGISLAÇÃO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 21",
+            "enunciado": "De acordo com Resolução CNE/CEB 07/2010 – Diretrizes Curriculares Nacionais para o Ensino Fundamental de 9 (nove) anos. Brasília: CNE, 2010. Preencha corretamente as lacunas. Os sistemas de ensino e as escolas adotarão, como norteadores das políticas educativas e das ações pedagógicas, os seguintes princípios: _____________ de justiça, solidariedade, liberdade e autonomia; de respeito à dignidade da pessoa humana e de compromisso com a promoção do bem de todos, contribuindo para combater e eliminar quaisquer manifestações de preconceito de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. _____________ de reconhecimento dos direitos e deveres de cidadania, de respeito ao bem comum e à preservação do regime democrático e dos recursos ambientais; da busca da equidade no acesso à educação, à saúde, ao trabalho, aos bens culturais e outros benefícios; da exigência de diversidade de tratamento para assegurar a igualdade de direitos entre os alunos que apresentam diferentes necessidades; da redução da pobreza e das desigualdades sociais e regionais. _______________ do cultivo da sensibilidade juntamente com o da racionalidade; do enriquecimento das formas de expressão e do exercício da criatividade; da valorização das diferentes manifestações culturais, especialmente a da cultura brasileira; da construção de identidades plurais e solidárias. (",
+            "alternativas": {
+                "A": "Éticos, Políticos, Estéticos (",
+                "B": "Políticos, éticos e estéticos. (",
+                "C": "Estéticos, políticos e éticos. (",
+                "D": "Éticos, estéticos e políticos. (",
+                "E": "Estéticos, éticos e políticos. QUESTÃO 22 Assinale a alternativa incorreta de acordo Estatuto da Criança e do Adolescente. (A) O exercício efetivo da função de conselheiro constituirá serviço público relevante e estabelecerá presunção de idoneidade moral. (B) As decisões do Conselho Tutelar somente poderão ser revistas pela autoridade judiciária a pedido de quem tenha legítimo interesse. (C) O Conselho Tutelar é órgão permanente e autônomo, jurisdicional, encarregado pela sociedade de zelar pelo cumprimento dos direitos da criança e do adolescente. (D) São impedidos de servir no mesmo Conselho marido e mulher, ascendentes e descendentes, sogro e genro ou nora, irmãos, cunhados, durante o cunhadio, tio e sobrinho, padrasto ou madrasta e enteado. (E) O processo de escolha dos membros do Conselho Tutelar ocorrerá em data unificada em todo o território nacional a cada 4 (quatro) anos, no primeiro domingo do mês de outubro do ano subsequente ao da eleição presidencial. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 8 de 16 QUESTÃO 23 De acordo com a Resolução CNE/CEB 05/2009 – Diretrizes Curriculares Nacionais para a Educação Infantil. Brasília: CNE, 2009. Analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para Falsa, em seguida assinale a alternativa com a sequência correta. ( ) A proposta pedagógica das instituições de Educação Infantil deve ter como objetivo garantir à criança acesso a processos de apropriação, renovação e articulação de conhecimentos e aprendizagens de diferentes linguagens, assim como o direito à proteção, à saúde, à liberdade, à confiança, ao respeito, à dignidade, à brincadeira, à convivência e à interação com outras crianças. ( ) As práticas pedagógicas que compõem a proposta curricular da Educação Infantil devem ter como eixos norteadores as interações e a brincadeira, garantindo experiências que favoreçam a imersão das crianças nas diferentes linguagens e o progressivo domínio por elas de vários gêneros e formas de expressão: gestual, verbal, plástica, dramática e musical; ( ) Na transição para o Ensino Fundamental a proposta pedagógica deve prever formas para garantir a continuidade no processo de aprendizagem e desenvolvimento das crianças, respeitando as especificidades etárias, sem antecipação de conteúdos que serão trabalhados no Ensino Fundamental. (A) V- F -F (B) F- V- V (C) V- F -V (D) V -V -V (E) F -F -V"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 24",
+            "enunciado": "Analise os itens a seguir de acordo com a Lei Federal nº 13.005/2014 – Plano Nacional de Educação e assinale a alternativa correta. I – A superação das desigualdades educacionais, com ênfase na promoção da cidadania e na erradicação de todas as formas de discriminação é uma das diretrizes do PNE. II - A meta progressiva do investimento público em educação será avaliada no segundo ano de vigência do PNE e poderá ser ampliada por meio de lei para atender às necessidades financeiras do cumprimento das demais metas (",
+            "alternativas": {
+                "A": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. (",
+                "B": "As asserções I e II são proposições verdadeiras, e a II é um complemento da I. (",
+                "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. (",
+                "D": "As asserções I e II são proposições falsas. (",
+                "E": "As asserções I e II são proposições verdadeiras, mas a II não é um complemento da I. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 9 de 16 QUESTÃO 25 De acordo com a Constituição Federal/88, analise os itens a seguir. I – As universidades gozam de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão. II - O dever do Estado com a educação será efetivado mediante a garantia de educação infantil, em creche e pré-escola, às crianças até 6 (seis) anos de idade. III - O ensino religioso, de matrícula obrigatória, constituirá disciplina dos horários normais das escolas públicas de ensino fundamental. Estão corretas as assertivas: (A) I apenas. (B) II apenas. (C) I e II apenas. (D) I e III apenas (E ) I, II e III. CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 26",
+            "enunciado": "Na literatura, há registros de vários autores que analisam a prática pedagógica a partir das variáveis linguísticas. De uma maneira específica, Bagno, Stubbs e Gagné (2002) analisam o posicionamento dos gramáticos dentro desse contexto, sendo pertinente afirmar: (",
+            "alternativas": {
+                "A": "A versão simplista da língua, preconizada pelos gramáticos, é responsável pela associação dos contextos socio-históricos na prática pedagógica. (",
+                "B": "A prática pedagógica centrada na análise sincrônica facilita a aprendizagem. (",
+                "C": "A compreensão da variação linguística é facilitada pela análise diacrônica. (",
+                "D": "A variação linguística acontece em determinados níveis da língua. (",
+                "E": "O estudo normativo corrobora para atenuar o problema da exclusão social."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 27",
+            "enunciado": "Sobre a metalinguagem, são verdadeiras as seguintes asserções, salvo: (",
+            "alternativas": {
+                "A": "Considerada como um uso linguístico, no qual o objeto é também uma linguagem. (",
+                "B": "Não apresenta unidades estruturais. (",
+                "C": "Não pode ser estruturada no nível do saber idiomático. (",
+                "D": "Seu estudo merece o cuidado da ciência. (",
+                "E": "Para entender seu funcionamento, veja o exemplo: em português, na metalinguagem, aparece com artigo “O homem é um dissílabo”. Na linguagem primária, sem artigo “Homem trabalha”. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 10 de 16 QUESTÃO 28 De acordo com Albuquerque (2006), a década de 1980 foi palco de importantes mudanças na perspectiva do ensino-aprendizagem. Nesse sentido, assinale a alternativa que vai de encontro a tais mudanças. (A) Eclosão e disseminação de diversos estudos na área de Língua Portuguesa em consonância com outras áreas de saber. (B) Eclosão de estudos de diversas correntes da Linguística, tais como: Corrente Funcionalista, da Análise do Discurso da Linguística Textual, da Pragmática, da Sociolinguística. (C) Esses estudos modificam a metodologia de ensino de Língua Portuguesa. (D) O objetivo do ensino passa a ser o desenvolvimento da competência linguístico- textual. (E) A produção e interpretação de textos em contextos sócio-históricos assume um papel auxiliar."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 29",
+            "enunciado": "Em relação à análise linguística em sala de aula, qual a perspectiva de Bagno, Stubbs e Gagné (2002) sobre as falas dialetais? (",
+            "alternativas": {
+                "A": "Parte do objetivo educacional mais amplo compreende a eliminação das falas dialetais em sala de aula. (",
+                "B": "Parte do objetivo educacional mais amplo compreende a minimização das falas dialetais em sala de aula. (",
+                "C": "Parte do objetivo educacional mais amplo compreende a aceitação das falas dialetais em sala de aula. (",
+                "D": "Parte do objetivo educacional mais amplo compreende a substituição das falas dialetais em sala de aula. (",
+                "E": "Parte do objetivo educacional mais amplo compreende a ressignificação das falas dialetais em sala de aula."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 30",
+            "enunciado": "Dentro da concepção de Santos (2005) e Albuquerque (2006), é possível compreender a relação entre os avanços dos estudos linguísticos pautados nas Teorias Linguísticas e o processo de ensino-aprendizagem. Dentre as alternativas a seguir, qual apresenta uma das principais alterações proporcionadas pelos estudos linguísticos? (",
+            "alternativas": {
+                "A": "Mudança da postura do professor. (",
+                "B": "Mudança da concepção do discente. (",
+                "C": "Texto como objeto de ensino. (",
+                "D": "Práticas metodológicas mais engessadas. (",
+                "E": "Mudança no processo de avaliação."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 31",
+            "enunciado": "Travaglia (2003) analisa a postura do professor ao decidir trabalhar as teorias linguísticas, elencando alguns elementos principais, que caracterizam cada teoria, a serem observados, destacados a seguir, afora: (",
+            "alternativas": {
+                "A": "Qualidade da teoria. (",
+                "B": "Forma de apresentação dessa teoria para os alunos. (",
+                "C": "Coerência da teoria. (",
+                "D": "Irrefutabilidade da teoria. (",
+                "E": "Adequação da teoria aos fatos sob consideração. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 11 de 16 QUESTÃO 32 Albuquerque (2006) analisa as diversas concepções sobre os Parâmetros Curriculares Nacionais (PCN). Nesse sentido, assinale a alternativa a seguir que vai de encontro ao posicionamento dessa autora. (A) Os Parâmetros Curriculares Nacionais revelam a concepção do conhecimento em constante construção. (B) Trazem o conceito de conhecimento ressignificado. (C) Nesse documento oficial, não há nenhuma menção ao conhecimento acabado. (D) Os conteúdos escolares têm relação com as temáticas recentes e relevantes para a formação do aluno. (E) Preconizam uma abordagem transversal."
             },
             "resposta_correta": "E"
         },
@@ -200,197 +379,196 @@
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 15: De acordo com Resolução CNE/CEB 07/2010 – \nDiretrizes Curriculares Nacionais para o Ensino \nFundamental de 9 (nove) anos. Brasília: CNE, \n2010. Preencha corretamente as lacunas. \nOs sistemas de ensino e as escolas adotarão, \ncomo norteadores das políticas educativas e das \nações pedagógicas, os seguintes princípios: \n \n_____________ de justiça, solidariedade, \nliberdade e autonomia; de respeito à dignidade da \npessoa humana e de compromisso com a \npromoção do bem de todos, contribuindo para \ncombater e eliminar quaisquer manifestações de \npreconceito de origem, raça, sexo, cor, idade e \nquaisquer outras formas de discriminação.  \n \n_____________ de reconhecimento dos direitos \ne deveres de cidadania, de respeito ao bem \ncomum e à preservação do regime democrático e \ndos recursos ambientais; da busca da equidade no \nacesso à educação, à saúde, ao trabalho, aos bens \nculturais e outros benefícios; da exigência de \ndiversidade de tratamento para assegurar a \nigualdade de direitos entre os alunos que \napresentam diferentes necessidades; da redução \nda pobreza e das desigualdades sociais e \nregionais.  \n \n_______________ do cultivo da sensibilidade \njuntamente com o da racionalidade; do \nenriquecimento das formas de expressão e do \nexercício da criatividade; da valorização das \ndiferentes manifestações culturais, \nespecialmente a da cultura brasileira; da \nconstrução de identidades plurais e solidárias.",
+            "questão": "Questão 33",
+            "enunciado": "Travaglia (2003) explana sobre as concepções de língua e suas implicações para o ensino. Leia as assertivas posteriores e assinale a que vai ao encontro com a perspectiva do autor. (",
             "alternativas": {
-                "A": "Éticos, Políticos, Estéticos",
-                "B": "Políticos, éticos e estéticos.",
-                "C": "Estéticos, políticos e éticos.",
-                "D": "Éticos, estéticos e políticos.",
-                "E": "Estéticos, éticos e políticos. QUESTÃO 22 \nAssinale a alternativa incorreta de acordo \nEstatuto da Criança e do Adolescente. \n \n(A) O exercício efetivo da função de conselheiro \nconstituirá serviço público relevante e \nestabelecerá presunção de idoneidade moral. \n \n(B) As decisões do Conselho Tutelar somente \npoderão ser revistas pela autoridade judiciária a \npedido de quem tenha legítimo interesse. \n \n(C) O Conselho Tutelar é órgão permanente e \nautônomo, jurisdicional, encarregado pela \nsociedade de zelar pelo cumprimento dos direitos \nda criança e do adolescente.  \n \n(D) São impedidos de servir no mesmo \nConselho marido e mulher, ascendentes e \ndescendentes, sogro e genro ou nora, irmãos, \ncunhados, durante o cunhadio, tio e sobrinho, \npadrasto ou madrasta e enteado. \n \n(E) O processo de escolha dos membros do \nConselho Tutelar ocorrerá em data unificada em \ntodo o território nacional a cada 4 (quatro) anos, \nno primeiro domingo do mês de outubro do ano \nsubsequente ao da eleição presidencial. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 8 de 16 QUESTÃO 23 \nDe acordo com a Resolução CNE/CEB 05/2009 \n– Diretrizes Curriculares Nacionais para a \nEducação Infantil. Brasília: CNE, 2009. Analise \nas afirmativas abaixo atribuindo (V) para \nVerdadeira e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta. \n  \n( ) A proposta pedagógica das instituições de \nEducação Infantil deve ter como objetivo \ngarantir à criança acesso a processos de \napropriação, renovação e articulação de \nconhecimentos e aprendizagens de diferentes \nlinguagens, assim como o direito à proteção, à \nsaúde, à liberdade, à confiança, ao respeito, à \ndignidade, à brincadeira, à convivência e à \ninteração com outras crianças. \n \n( ) As práticas pedagógicas que compõem a \nproposta curricular da Educação Infantil devem \nter como eixos norteadores as interações e a \nbrincadeira, garantindo experiências que \nfavoreçam a imersão das crianças nas diferentes \nlinguagens e o progressivo domínio por elas de \nvários gêneros e formas de expressão: gestual, \nverbal, plástica, dramática e musical; \n \n( ) Na transição para o Ensino Fundamental a \nproposta pedagógica deve prever formas para \ngarantir a continuidade no processo de \naprendizagem e desenvolvimento das crianças, \nrespeitando as especificidades etárias, sem \nantecipação de conteúdos que serão trabalhados \nno Ensino Fundamental. \n \n \n(A) V- F -F  \n(B) F- V- V \n(C) V- F -V \n(D) V -V -V \n(E) F -F -V \n \n \n \n \n \n QUESTÃO 24 \nAnalise os itens a seguir de acordo com a Lei \nFederal nº 13.005/2014 – Plano Nacional de \nEducação e assinale a alternativa correta. \n \nI – A superação das desigualdades educacionais, \ncom ênfase na promoção da cidadania e na \nerradicação de todas as formas de discriminação \né uma das diretrizes do PNE. \n \nII - A meta progressiva do investimento público \nem educação será avaliada no segundo ano de \nvigência do PNE e poderá ser ampliada por meio \nde lei para atender às necessidades financeiras do \ncumprimento das demais metas \n \n(A) A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira. \n \n(B) As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I. \n \n(C) A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa. \n \n(D) As asserções I e II são proposições falsas. \n \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 9 de 16 QUESTÃO 25 \nDe acordo com a  Constituição Federal/88, \nanalise os itens a seguir. \n \nI – As universidades gozam de autonomia \ndidático-científica, administrativa e de gestão \nfinanceira e patrimonial, e obedecerão ao \nprincípio de indissociabilidade entre ensino, \npesquisa e extensão. \n \nII - O dever do Estado com a educação será \nefetivado mediante a garantia de educação \ninfantil, em creche e pré-escola, às crianças até 6 \n(seis) anos de idade. \n \nIII - O ensino religioso, de matrícula obrigatória, \nconstituirá disciplina dos horários normais das \nescolas públicas de ensino fundamental. \n \nEstão corretas as assertivas: \n(A) I apenas. \n(B) II apenas. \n(C) I e II apenas. \n(D) I e  III   apenas \n(E ) I, II e III. \n \n \n \n \n \n \n \n \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
+                "A": "Na gramática Normativa, o padrão normativo é suplantado pelas falas dialetais. (",
+                "B": "Do ponto de vista estético, algumas formas devem ser evitadas, como por exemplo, cacofonia e colisão. (",
+                "C": "Do ponto de vista elitista, são destacadas as formas e usos das massas. (",
+                "D": "Do ponto de vista comunicacional, o vocabulário deve ser profuso. (",
+                "E": "Na gramática descritiva, são postuladas as regras de bom uso da língua pelos seus falantes."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 34",
+            "enunciado": "As concepções de língua, segundo Bechara (2014), estão associadas ao falar que, por sua vez, revela um saber linguístico. Nesse sentido, há implicações para o ensino no tocante à adequação ao discurso e à constituição de textos. Dentro dessa sistemática, é impertinente afirmar: (",
+            "alternativas": {
+                "A": "O saber linguístico se divide em saber elocutivo, idiomático e expressivo. (",
+                "B": "Ao considerar o objeto representado ou o tema, a adequação ao discurso e à constituição de textos é definida como adequada ou inadequada. (",
+                "C": "Ao considerar o destinatário, a adequação ao discurso e à constituição de textos é definida como apropriada ou inapropriada. (",
+                "D": "Ao considerar a situação ou circunstâncias, a adequação ao discurso e à constituição de textos e definida como oportuna ou inoportuna. (",
+                "E": "Regularidade na manifestação da competência ou saber em todos os planos linguísticos."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 16: Na literatura, há registros de vários autores que \nanalisam a prática pedagógica a partir das \nvariáveis linguísticas. De uma maneira \nespecífica, Bagno, Stubbs e Gagné (2002) \nanalisam o posicionamento dos gramáticos \ndentro desse contexto, sendo pertinente afirmar:",
+            "questão": "Questão 35",
+            "enunciado": "De acordo com Marcuschi (2008), ao ensinar os gêneros textuais em sala de aula, é preciso trabalhar três elementos básicos. Quais são eles? (",
             "alternativas": {
-                "A": "A versão simplista da língua, preconizada \npelos gramáticos, é responsável pela associação \ndos contextos socio-históricos na prática \npedagógica.",
-                "B": "A prática pedagógica centrada na análise \nsincrônica facilita a aprendizagem.",
-                "C": "A compreensão da variação linguística é \nfacilitada pela análise diacrônica.",
-                "D": "A variação linguística acontece em \ndeterminados níveis da língua.",
-                "E": "O estudo normativo corrobora para atenuar o \nproblema da exclusão social."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "05/2023",
-            "questão": "Questão 17: Sobre a metalinguagem, são verdadeiras as \nseguintes asserções, salvo:",
-            "alternativas": {
-                "A": "Considerada como um uso linguístico, no \nqual o objeto é também uma linguagem.",
-                "B": "Não apresenta unidades estruturais.",
-                "C": "Não pode ser estruturada no nível do saber \nidiomático.",
-                "D": "Seu estudo merece o cuidado da ciência.",
-                "E": "Para entender seu funcionamento, veja o \nexemplo: em português, na metalinguagem, \naparece com artigo “O homem é um dissílabo”. \nNa linguagem primária, sem artigo “Homem \ntrabalha”.  \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 10 de 16 QUESTÃO 28 \nDe acordo com Albuquerque (2006), a década de \n1980 foi palco de importantes mudanças na \nperspectiva do ensino-aprendizagem. Nesse \nsentido, assinale a alternativa que vai de encontro \na tais mudanças. \n(A) Eclosão e disseminação de diversos estudos \nna área de Língua Portuguesa em consonância \ncom outras áreas de saber. \n(B) Eclosão de estudos de diversas correntes da \nLinguística, tais como: Corrente Funcionalista, \nda Análise do Discurso da Linguística Textual, \nda Pragmática, da Sociolinguística. \n(C) Esses estudos modificam a metodologia de \nensino de Língua Portuguesa. \n(D) O objetivo do ensino passa a ser o \ndesenvolvimento da competência linguístico-\ntextual. \n(E) A produção e interpretação de textos em \ncontextos sócio-históricos assume um papel \nauxiliar."
+                "A": "Tipo, forma composicional e construção. (",
+                "B": "Formato, modelo literário e estrutura linguística. (",
+                "C": "Desenho textual, retrato e escrita. (",
+                "D": "Forma composicional, estilo e tema. (",
+                "E": "Estrutura linguística, tema e desenho textual. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 12 de 16 QUESTÃO 36 Kleiman (1999) analisa de forma pormenorizada os aspectos cognitivos presentes na leitura. Ao longo do seu estudo, são evidenciadas duas atividades metacognitivas que corroboram para a compreensão textuais. Quais são elas? (A) Formulação de hipóteses e definição de objetivos de uma leitura. (B) Categorização dos temas e pontuação das ideias-chave de uma leitura. (C) Processamento das informações contidas no texto e a ressignificação dessa leitura. (D) Estabelecimento de correlações com outros textos e paráfrases. (E) Troca de ideias e reconstrução textual a partir da leitura realizada."
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 18: Em relação à análise linguística em sala de aula, \nqual a perspectiva de Bagno, Stubbs e Gagné \n(2002) sobre as falas dialetais?",
+            "questão": "Questão 37",
+            "enunciado": "A análise dos problemas concernentes ao ensino- aprendizagem da leitura e produção de textos passa pelo crivo da prática de ensino adotada. A partir do contexto brasileiro, são verdadeiras as seguintes afirmativas, exceto: (",
             "alternativas": {
-                "A": "Parte do objetivo educacional mais amplo \ncompreende a eliminação das falas dialetais em \nsala de aula.",
-                "B": "Parte do objetivo educacional mais amplo \ncompreende a minimização das falas dialetais em \nsala de aula.",
-                "C": "Parte do objetivo educacional mais amplo \ncompreende a aceitação das falas dialetais em \nsala de aula.",
-                "D": "Parte do objetivo educacional mais amplo \ncompreende a substituição das falas dialetais em \nsala de aula.",
-                "E": "Parte do objetivo educacional mais amplo \ncompreende a ressignificação das falas dialetais \nem sala de aula. \n QUESTÃO 30 \nDentro da concepção de Santos (2005) e \nAlbuquerque (2006), é possível compreender a \nrelação entre os avanços dos estudos linguísticos \npautados nas Teorias Linguísticas e o processo de \nensino-aprendizagem. Dentre as alternativas a \nseguir, qual apresenta uma das principais \nalterações proporcionadas pelos estudos \nlinguísticos? \n(A) Mudança da postura do professor. \n(B) Mudança da concepção do discente. \n(C) Texto como objeto de ensino. \n(D) Práticas metodológicas mais engessadas. \n(E) Mudança no processo de avaliação."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "05/2023",
-            "questão": "Questão 19: Travaglia (2003) analisa a postura do professor \nao decidir trabalhar as teorias linguísticas, \nelencando alguns elementos principais, que \ncaracterizam cada teoria, a serem observados, \ndestacados a seguir, afora:",
-            "alternativas": {
-                "A": "Qualidade da teoria.",
-                "B": "Forma de apresentação dessa teoria para os \nalunos.",
-                "C": "Coerência da teoria.",
-                "D": "Irrefutabilidade da teoria.",
-                "E": "Adequação da teoria aos fatos sob \nconsideração. \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 11 de 16 QUESTÃO 32 \nAlbuquerque (2006) analisa as diversas \nconcepções sobre os Parâmetros Curriculares \nNacionais (PCN). Nesse sentido, assinale a \nalternativa a seguir que vai de encontro ao \nposicionamento dessa autora. \n(A) Os Parâmetros Curriculares Nacionais \nrevelam a concepção do conhecimento em \nconstante construção. \n(B) Trazem o conceito de conhecimento \nressignificado. \n(C) Nesse documento oficial, não há nenhuma \nmenção ao conhecimento acabado. \n(D) Os conteúdos escolares têm relação com as \ntemáticas recentes e relevantes para a formação \ndo aluno. \n(E) Preconizam uma abordagem transversal."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "05/2023",
-            "questão": "Questão 20: Travaglia (2003) explana sobre as concepções de \nlíngua e suas implicações para o ensino. Leia as \nassertivas posteriores e assinale a que vai ao \nencontro com a perspectiva do autor.",
-            "alternativas": {
-                "A": "Na gramática Normativa, o padrão normativo \né suplantado pelas falas dialetais.",
-                "B": "Do ponto de vista estético, algumas formas \ndevem ser evitadas, como por exemplo, \ncacofonia e colisão.",
-                "C": "Do ponto de vista elitista, são destacadas as \nformas e usos das massas.",
-                "D": "Do ponto de vista comunicacional, o \nvocabulário deve ser profuso.",
-                "E": "Na gramática descritiva, são postuladas as \nregras de bom uso da língua pelos seus falantes. \n \n \n QUESTÃO 34 \nAs concepções de língua, segundo Bechara \n(2014), estão associadas ao falar que, por sua vez, \nrevela um saber linguístico. Nesse sentido, há \nimplicações para o ensino no tocante à adequação \nao discurso e à constituição de textos. Dentro \ndessa sistemática, é impertinente afirmar: \n(A) O saber linguístico se divide em saber \nelocutivo, idiomático e expressivo. \n(B) Ao considerar o objeto representado ou o \ntema, a adequação ao discurso e à constituição de \ntextos é definida como adequada ou inadequada. \n(C) Ao considerar o destinatário, a adequação ao \ndiscurso e à constituição de textos é definida \ncomo apropriada ou inapropriada. \n(D) Ao considerar a situação ou circunstâncias, a \nadequação ao discurso e à constituição de textos \ne definida como oportuna ou inoportuna. \n(E) Regularidade na manifestação da \ncompetência ou saber em todos os planos \nlinguísticos."
+                "A": "Durante muito tempo, o ensino da língua portuguesa foi pautado pelos parâmetros da Gramática Tradicional. (",
+                "B": "Tais parâmetros são responsáveis pela estruturação de um ensino baseado em aspectos puramente normativos. (",
+                "C": "Dentro dessa perspectiva, observa-se a importância das práticas de leitura e produção textual que corroboram para o aprofundamento do conhecimento centrado na normativa. (",
+                "D": "Nesse cenário, surge o vetusto discurso acerca da dificuldade de interpretação e compreensão de textos. (",
+                "E": "Os parâmetros pertinentes à Gramática Tradicional priorizam as atividades estruturais e instrumentais. QUESTÃO 38 As atividades de retextualização são trabalhadas por Marcuschi (2008) em sua obra: “Da fala para a escrita – atividades de retextualização”. Pautado nessa obra, são verdadeiras as afirmativas a seguir, afora: (A) A retextualização é uma prática assertiva na produção de textos, principalmente, quando há a adaptação do texto escrito para o oral. (B) As atividades de retextualização têm aplicabilidade no ensino da língua materna, produção de textos e oficinas de redação. (C) O letramento e a oralidade são enfatizados ao longo da obra em questão. (D) São inválidas dicotomias que polarizem fala e escrita. (E) A referida obra não se restringe à atuação do professor de Português, mas traz conceitos que podem ser aplicados para as mais variadas profissões que trabalham com revisão e edição de textos."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 21: De acordo com Marcuschi (2008), ao ensinar os \ngêneros textuais em sala de aula, é preciso \ntrabalhar três elementos básicos. Quais são eles?",
+            "questão": "Questão 39",
+            "enunciado": "As propostas didáticas e metodológicas para o ensino de Língua Portuguesa sob à luz dos Parâmetros Curriculares Nacionais têm como foco alguns elementos destacados a seguir, com exceção: (",
             "alternativas": {
-                "A": "Tipo, forma composicional e construção.",
-                "B": "Formato, modelo literário e estrutura \nlinguística.",
-                "C": "Desenho textual, retrato e escrita.",
-                "D": "Forma composicional, estilo e tema.",
-                "E": "Estrutura linguística, tema e desenho textual. \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 12 de 16 QUESTÃO 36 \nKleiman (1999) analisa de forma pormenorizada \nos aspectos cognitivos presentes na leitura. Ao \nlongo do seu estudo, são evidenciadas duas \natividades metacognitivas que corroboram para a \ncompreensão textuais. Quais são elas? \n(A) Formulação de hipóteses e definição de \nobjetivos de uma leitura. \n(B) Categorização dos temas e pontuação das \nideias-chave de uma leitura. \n(C) Processamento das informações contidas no \ntexto e a ressignificação dessa leitura. \n(D) Estabelecimento de correlações com outros \ntextos e paráfrases. \n(E) Troca de ideias e reconstrução textual a partir \nda leitura realizada."
+                "A": "Perspectiva - formar um falante competente que consiga utilizar as mais diversas modalidades da língua. (",
+                "B": "Ensino – pautado na atividade sociointeracionista que ocorre por meio da sobreposição. (",
+                "C": "Língua – trabalhada a diversidade, a multiplicidade e a plasticidade. (",
+                "D": "Aluno – sujeito do processo ensino- aprendizagem. (",
+                "E": "Professor – papel mediador no processo ensino-aprendizagem. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 13 de 16 QUESTÃO 40 O Novo Acordo Ortográfico da Língua Portuguesa objetiva a unificação da grafia de países que têm a língua portuguesa como oficial. Assinale a seguir a única opção que não condiz com as mudanças desencadeadas por esse acordo. (A) Mudanças no alfabeto. (B) Mudanças na acentuação. (C) Mudanças no emprego de consoantes mudas. (D) Mudanças no emprego de letras maiúsculas e minúsculas. (E) Mudanças na semântica."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 41",
+            "enunciado": "Os estudos relacionados com a linguagem podem tanto ser um instrumento de inclusão quanto exclusão. Nesse sentido, assinale a alternativa que corrobora com essa perspectiva. (",
+            "alternativas": {
+                "A": "O estudo normativo facilita a inclusão do discente por ampliar seus conhecimentos. (",
+                "B": "O estudo descritivo intitula uma ação como certa ou errada sendo responsável por reafirmar a exclusão social. (",
+                "C": "A variação linguística é um vetor de exclusão, logo precisa ser evitada em sala de aula. (",
+                "D": "A Linguística abre um novo olhar acerca dos estudos relacionados à linguagem, contribuindo para a inclusão. (",
+                "E": "O estudo descritivo deve estar subordinado ao normativo para evitar a exclusão social."
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 22: A análise dos problemas concernentes ao ensino-\naprendizagem da leitura e produção de textos \npassa pelo crivo da prática de ensino adotada. A \npartir do contexto brasileiro, são verdadeiras as \nseguintes afirmativas, exceto:",
+            "questão": "Questão 42",
+            "enunciado": "O ensino-aprendizagem da língua portuguesa dentro do contexto tecnológico marcado pela informação digital é pautado em algumas ações que visam mapear a produção de sentido em um texto que é hiper por natureza. Dentro dessa sistemática, qual conceito a seguir está diretamente relacionado com a construção do sentido em textos virtuais? (",
             "alternativas": {
-                "A": "Durante muito tempo, o ensino da língua \nportuguesa foi pautado pelos parâmetros da \nGramática Tradicional.",
-                "B": "Tais parâmetros são responsáveis pela \nestruturação de um ensino baseado em aspectos \npuramente normativos.",
-                "C": "Dentro dessa perspectiva, observa-se a \nimportância das práticas de leitura e produção \ntextual que corroboram para o aprofundamento \ndo conhecimento centrado na normativa.",
-                "D": "Nesse cenário, surge o vetusto discurso \nacerca da dificuldade de interpretação e \ncompreensão de textos.",
-                "E": "Os parâmetros pertinentes à Gramática \nTradicional priorizam as atividades estruturais e \ninstrumentais. QUESTÃO 38 \nAs atividades de retextualização são trabalhadas \npor Marcuschi (2008) em sua obra: “Da fala para \na escrita – atividades de retextualização”. \nPautado nessa obra, são verdadeiras as \nafirmativas a seguir, afora: \n(A) A retextualização é uma prática assertiva na \nprodução de textos, principalmente, quando há a \nadaptação do texto escrito para o oral. \n(B) As atividades de retextualização têm \naplicabilidade no ensino da língua materna, \nprodução de textos e oficinas de redação. \n(C) O letramento e a oralidade são enfatizados ao \nlongo da obra em questão. \n(D) São inválidas dicotomias que polarizem fala \ne escrita. \n(E) A referida obra não se restringe à atuação do \nprofessor de Português, mas traz conceitos que \npodem ser aplicados para as mais variadas \nprofissões que trabalham com revisão e edição de \ntextos."
+                "A": "E-mails (",
+                "B": "Chats (",
+                "C": "Web (",
+                "D": "Link (",
+                "E": "Blogs"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 43",
+            "enunciado": "A compreensão acerca das variáveis relacionadas com a literatura é trabalhada na obra de Lajolo: O que é literatura? Dentro das perspectivas apresentadas, ao longo dessa obra, depreende-se, exceto: (",
+            "alternativas": {
+                "A": "Desde os primórdios, o homem utiliza o processo de simbolização para nomear as coisas, marcado por uma relação que tanto aproxima quanto distancia as palavras e as coisas por elas nomeadas. Essa manifestação mais radical da linguagem marca o nascimento da literatura. (",
+                "B": "Assim, é o uso de um determinado tipo de linguagem que vai configurar a literatura. (",
+                "C": "Não é possível separar a linguagem literária da linguagem coloquial. (",
+                "D": "A obra literária é um objeto social. (",
+                "E": "Para que um texto seja considerado literatura é preciso algo mais do que livre trânsito entre seu autor e um eventual leitor. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 14 de 16 QUESTÃO 44 Conhecer as concepções sobre a relação entre as categorias da literatura e a formação docente é importante para que o professor consiga discernir o melhor recurso pedagógico a ser trabalhado. Dentro dessa lógica, Bordini e Aguiar (1988) apresentam uma reflexão que traz à tona algumas constatações, sendo incorreto afirmar: (A) Há diversos métodos de ensino de literatura disponíveis. (B) O esvaziamento do ensino de literatura se acentua, não só pelo pequeno domínio do conhecimento literário do professor, mas também pela falta de uma proposta metodológica que o embase. (C) Dentre as metodologias apontadas para o desenvolvimento de trabalhos significativos em sala de aula, o Método Recepcional é destacado pelas autoras. Esse método é pautado na orientação e delimitação do tipo de leitura do estudante em função do reconhecimento de cada perfil de leitura por parte do professor. (D) O Método Recepcional compreende cinco etapas específicas. (E) Quando uma determinada obra vem ao encontro do sistema de valores e normas do leitor, o horizonte de expectativas desse leitor permanece inalterado e sua posição psicológica é de conforto."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 23: As propostas didáticas e metodológicas para o \nensino de Língua Portuguesa sob à luz dos \nParâmetros Curriculares Nacionais têm como \nfoco alguns elementos destacados a seguir, com \nexceção:",
+            "questão": "Questão 45",
+            "enunciado": "A prática pedagógica construída a partir da concepção de uma língua homogênea é considerada por Bagno nas expressões a seguir, exceto: (",
             "alternativas": {
-                "A": "Perspectiva - formar um falante competente \nque consiga utilizar as mais diversas \nmodalidades da língua.",
-                "B": "Ensino – pautado na atividade \nsociointeracionista que ocorre por meio da \nsobreposição.",
-                "C": "Língua – trabalhada a diversidade, a \nmultiplicidade e a plasticidade.",
-                "D": "Aluno – sujeito do processo ensino-\naprendizagem.",
-                "E": "Professor – papel mediador no processo \nensino-aprendizagem. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 13 de 16 QUESTÃO 40 \nO Novo Acordo Ortográfico da Língua \nPortuguesa objetiva a unificação da grafia de \npaíses que têm a língua portuguesa como oficial. \nAssinale a seguir a única opção que não condiz \ncom as mudanças desencadeadas por esse \nacordo. \n(A) Mudanças no alfabeto. \n(B) Mudanças na acentuação. \n(C) Mudanças no emprego de consoantes mudas. \n(D) Mudanças no emprego de letras maiúsculas \ne minúsculas. \n(E) Mudanças na semântica."
+                "A": "um tipo de aculturação. (",
+                "B": "um tipo de idealismo (",
+                "C": "uma forma de privilegiar a língua estática (",
+                "D": "uma forma de objeção à norma culta (",
+                "E": "uma maneira de subestimar a identidade da comunidade."
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 24: Os estudos relacionados com a linguagem podem \ntanto ser um instrumento de inclusão quanto \nexclusão. Nesse sentido, assinale a alternativa \nque corrobora com essa perspectiva.",
+            "questão": "Questão 46",
+            "enunciado": "Em relação aos Parâmetros Curriculares Nacionais acerca do ensino de Língua Portuguesa, são verdadeiras as seguintes afirmações, exceto: (",
             "alternativas": {
-                "A": "O estudo normativo facilita a inclusão do \ndiscente por ampliar seus conhecimentos.",
-                "B": "O estudo descritivo intitula uma ação como \ncerta ou errada sendo responsável por reafirmar \na exclusão social.",
-                "C": "A variação linguística é um vetor de \nexclusão, logo precisa ser evitada em sala de \naula.",
-                "D": "A Linguística abre um novo olhar acerca dos \nestudos relacionados à linguagem, contribuindo \npara a inclusão.",
-                "E": "O estudo descritivo deve estar subordinado \nao normativo para evitar a exclusão social. \n \n \n \n \n QUESTÃO 42 \nO ensino-aprendizagem da língua portuguesa \ndentro do contexto tecnológico marcado pela \ninformação digital é pautado em algumas ações \nque visam mapear a produção de sentido em um \ntexto que é hiper por natureza. Dentro dessa \nsistemática, qual conceito a seguir está \ndiretamente relacionado com a construção do \nsentido em textos virtuais? \n(A) E-mails \n(B) Chats \n(C) Web \n(D) Link \n(E) Blogs"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "05/2023",
-            "questão": "Questão 25: A compreensão acerca das variáveis relacionadas \ncom a literatura é trabalhada na obra de Lajolo: \nO que é literatura? Dentro das perspectivas \napresentadas, ao longo dessa obra, depreende-se, \nexceto:",
-            "alternativas": {
-                "A": "Desde os primórdios, o homem utiliza o \nprocesso de simbolização para nomear as coisas, \nmarcado por uma relação que tanto aproxima \nquanto distancia as palavras e as coisas por elas \nnomeadas. Essa manifestação mais radical da \nlinguagem marca o nascimento da literatura.",
-                "B": "Assim, é o uso de um determinado tipo de \nlinguagem que vai configurar a literatura.",
-                "C": "Não é possível separar a linguagem literária \nda linguagem coloquial.",
-                "D": "A obra literária é um objeto social.",
-                "E": "Para que um texto seja considerado literatura \né preciso algo mais do que livre trânsito entre seu \nautor e um eventual leitor. \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 14 de 16 QUESTÃO 44 \nConhecer as concepções sobre a relação entre as \ncategorias da literatura e a formação docente é \nimportante para que o professor consiga discernir \no melhor recurso pedagógico a ser trabalhado. \nDentro dessa lógica, Bordini e Aguiar (1988) \napresentam uma reflexão que traz à tona algumas \nconstatações, sendo incorreto afirmar: \n(A) Há diversos métodos de ensino de literatura \ndisponíveis. \n(B) O esvaziamento do ensino de literatura se \nacentua, não só pelo pequeno domínio do \nconhecimento literário do professor, mas \ntambém pela falta de uma proposta metodológica \nque o embase. \n(C) Dentre as metodologias apontadas para o \ndesenvolvimento de trabalhos significativos em \nsala de aula, o Método Recepcional é destacado \npelas autoras. Esse método é pautado na \norientação e delimitação do tipo de leitura do \nestudante em função do reconhecimento de cada \nperfil de leitura por parte do professor. \n(D) O Método Recepcional compreende cinco \netapas específicas. \n(E) Quando uma determinada obra vem ao \nencontro do sistema de valores e normas do \nleitor, o horizonte de expectativas desse leitor \npermanece inalterado e sua posição psicológica é \nde conforto."
+                "A": "Articulação da leitura e da escrita como atividades complementares. (",
+                "B": "Utilização do texto como unidade/objeto de ensino. (",
+                "C": "Contraposição à prática de ensino que prioriza a perspectiva aditiva. (",
+                "D": "A leitura assume o papel de atividade de construção e elaboração de sentido. (",
+                "E": "Concepção de oralidade de cunho construtivista."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 26: A prática pedagógica construída a partir da \nconcepção de uma língua homogênea é \nconsiderada por Bagno nas expressões a seguir, \nexceto:",
+            "questão": "Questão 47",
+            "enunciado": "O ensino da leitura em sala de aula requer a adoção de uma prática metodológica que consiga despertar o interesse do discente, estimulando seu senso crítico e analítico. No caso específico da interação entre o autor do texto e o leitor, Kleiman (1999) tece algumas ponderações, elucidadas a seguir. Assinale a alternativa que contradiz tais ponderações. (",
             "alternativas": {
-                "A": "um tipo de aculturação.",
-                "B": "um tipo de idealismo",
-                "C": "uma forma de privilegiar a língua estática",
-                "D": "uma forma de objeção à norma culta",
-                "E": "uma maneira de subestimar a identidade da \ncomunidade. \n QUESTÃO 46 \nEm relação aos Parâmetros Curriculares \nNacionais acerca do ensino de Língua \nPortuguesa, são verdadeiras as seguintes \nafirmações, exceto: \n(A) Articulação da leitura e da escrita como \natividades complementares. \n(B) Utilização do texto como unidade/objeto de \nensino. \n(C) Contraposição à prática de ensino que \nprioriza a perspectiva aditiva. \n(D) A leitura assume o papel de atividade de \nconstrução e elaboração de sentido. \n(E) Concepção de oralidade de cunho \nconstrutivista."
+                "A": "O autor do texto deverá construir um texto coerente, atraente e prazeroso. (",
+                "B": "O leitor é um sujeito ativo nesse processo. (",
+                "C": "As teorias cognitivas sobre a compreensão textual servem de embasamento para atividades que não trivializem o exercício de leitura. (",
+                "D": "A leitura é considerada como um ato individual. (",
+                "E": "O leitor deve ter uma postura crítica em relação ao texto lido. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 15 de 16 QUESTÃO 48 Leia os enunciados a seguir e assinale a única alternativa que condiz corretamente com as regras definidas pelo Novo Acordo Ortográfico. (A) O uso do trema não é mais empregado em palavras portuguesas, palavras aportuguesadas e nomes próprios estrangeiros. (B) O acento diferencial em palavras homógrafas não é mais empregado. (C) O acento circunflexo não é mais empregado em palavras paroxítonas que terminam em “eem” e palavras com o hiato “oo”. - (D) Não tem mais hífen as palavras que terminam com a mesma letra da segunda palavra, ou quando a segunda palavra começar com a letra h. (E) O acento deve ser mantido em palavra paroxítonas com “i” e “u” depois de ditongo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "05/2023",
+            "questão": "Questão 49",
+            "enunciado": "Antunes em seu livro: “Aula de português: encontro e interação” traz uma reflexão contextualizada de todas as realidades que permeiam as aulas de Português, apresentando os principais problemas e possíveis soluções. De uma maneira geral, é possível inferir a partir dessa obra alguns pontos, exceto: (",
+            "alternativas": {
+                "A": "Mais que a função, é preciso saber a classificação de um termo gramatical (",
+                "B": "A aprendizagem das regularidades concernentes à escrita é alcançada por meio do contato com textos escritos. (",
+                "C": "O professor é corresponsável pelas situações em que o aluno perde o interesse pelo ensino do Português. (",
+                "D": "A leitura é considerada plena quando o leitor conseguir interpretar os aspectos ideológicos do texto. (",
+                "E": "Oportunizar diferentes tipos de materiais escritos auxilia o aluno a melhorar sua capacidade de compreensão e interpretação do texto lido."
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "05/2023",
-            "questão": "Questão 27: O ensino da leitura em sala de aula requer a \nadoção de uma prática metodológica que consiga \ndespertar o interesse do discente, estimulando \nseu senso crítico e analítico. No caso específico \nda interação entre o autor do texto e o leitor, \nKleiman (1999) tece algumas ponderações, \nelucidadas a seguir. Assinale a alternativa que \ncontradiz tais ponderações.",
+            "questão": "Questão 50",
+            "enunciado": "Conforme Marcuschi, o ensino da Língua Portuguesa e Tecnologia em sala de aula demanda a necessidade de se conhecer determinados termos que permeiam o universo digital, destacando-se o hipertexto. Sobre esse conceito, é impertinente afirmar: (",
             "alternativas": {
-                "A": "O autor do texto deverá construir um texto \ncoerente, atraente e prazeroso.",
-                "B": "O leitor é um sujeito ativo nesse processo.",
-                "C": "As teorias cognitivas sobre a compreensão \ntextual servem de embasamento para atividades \nque não trivializem o exercício de leitura.",
-                "D": "A leitura é considerada como um ato \nindividual.",
-                "E": "O leitor deve ter uma postura crítica em \nrelação ao texto lido. \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 15 de 16 QUESTÃO 48 \nLeia os enunciados a seguir e assinale a única \nalternativa que condiz corretamente com as \nregras definidas pelo Novo Acordo Ortográfico. \n(A) O uso do trema não é mais empregado em \npalavras portuguesas, palavras aportuguesadas e \nnomes próprios estrangeiros. \n(B) O acento diferencial em palavras homógrafas \nnão é mais empregado. \n(C) O acento circunflexo não é mais empregado \nem palavras paroxítonas que terminam em “eem” \ne palavras com o hiato “oo”. - \n(D) Não tem mais hífen as palavras que terminam \ncom a mesma letra da segunda palavra, ou \nquando a segunda palavra começar com a letra h. \n(E) O acento deve ser mantido em palavra \nparoxítonas com “i” e “u” depois de ditongo."
+                "A": "O termo hipertexto foi criado pelo americano Theodore Nelson, na década de 1960, motivado pela perspectiva de poder mover parte do texto e editá-lo. (",
+                "B": "Nesse primeiro momento, a escrita eletrônica era sequencial e não linear. (",
+                "C": "O hipertexto pode ser considerado como um gênero textual ou mesmo um suporte de gêneros diversos. (",
+                "D": "Todos os gêneros associados à Internet são considerados como eventos textuais baseados na escrita. (",
+                "E": "Na Internet, a importância da escrita é ratificada, apesar da integração da imagem e do som. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA-SP PROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS Página 16 de 16"
             },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DA EDUCAÇÃO BÁSICA II \n– PORTUGUÊS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "05/2023",
-            "questão": "Questão 28: Antunes em seu livro: “Aula de português: \nencontro e interação” traz uma reflexão \ncontextualizada de todas as realidades que \npermeiam as aulas de Português, apresentando os \nprincipais problemas e possíveis soluções. De \numa maneira geral, é possível inferir a partir \ndessa obra alguns pontos, exceto:",
-            "alternativas": {
-                "A": "Mais que a função, é preciso saber a \nclassificação de um termo gramatical",
-                "B": "A aprendizagem das regularidades \nconcernentes à escrita é alcançada por meio do \ncontato com textos escritos.",
-                "C": "O professor é corresponsável pelas situações \nem que o aluno perde o interesse pelo ensino do \nPortuguês.",
-                "D": "A leitura é considerada plena quando o leitor \nconseguir interpretar os aspectos ideológicos do \ntexto.",
-                "E": "Oportunizar diferentes tipos de materiais \nescritos auxilia o aluno a melhorar sua \ncapacidade de compreensão e interpretação do \ntexto lido. \n QUESTÃO 50 \nConforme Marcuschi, o ensino da Língua \nPortuguesa e Tecnologia em sala de aula \ndemanda a necessidade de se conhecer \ndeterminados termos que permeiam o universo \ndigital, destacando-se o hipertexto. Sobre esse \nconceito, é impertinente afirmar: \n(A) O termo hipertexto foi criado pelo americano \nTheodore Nelson, na década de 1960, motivado \npela perspectiva de poder mover parte do texto e \neditá-lo. \n(B) Nesse primeiro momento, a escrita eletrônica \nera sequencial e não linear. \n(C) O hipertexto pode ser considerado como um \ngênero textual ou mesmo um suporte de gêneros \ndiversos. \n(D) Todos os gêneros associados à Internet são \nconsiderados como eventos textuais baseados na \nescrita. \n(E) Na Internet, a importância da escrita é \nratificada, apesar da integração da imagem e do \nsom. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023    INSTITUTO AVANÇA-SP \n \nPROFESSOR DA EDUCAÇÃO BÁSICA II – PORTUGUÊS                                                                           Página 16 de 16"
-            },
-            "resposta_correta": "C"
+            "resposta_correta": "B"
         }
     ]
 }
