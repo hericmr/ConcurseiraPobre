@@ -25,7 +25,7 @@ const QuestionCard = ({ question, index }) => {
 
       {/* Pergunta */}
       <p className="text-gray-800 font-medium mb-6 text-xl leading-relaxed">
-        {index + 1}. {question.questão}
+        {index + 1}. {question.enunciado}
       </p>
 
       {/* Alternativas */}
