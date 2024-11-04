@@ -13,10 +13,6 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  @apply text-gray-800 font-sans leading-relaxed antialiased text-sm; /* Reduzindo o tamanho da fonte */
-  background: linear-gradient(to right, var(--primary-blue), var(--primary-purple)); /* Gradiente do azul ao roxo */
-}
 
 /* Estilo para os cabeçalhos */
 h1 {

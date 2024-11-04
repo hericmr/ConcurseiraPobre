@@ -7,63 +7,49 @@ const QuestionCard = ({ question, index }) => {
 
   const checkAnswer = () => {
     setIsAnswered(true);
-    if (selectedAnswer === question.resposta_correta) {
-      setFeedback("Correto!");
-    } else {
-      setFeedback(`Incorreto! A resposta correta é: ${question.resposta_correta}`);
-    }
+    const isCorrect = selectedAnswer === question.resposta_correta;
+    setFeedback(isCorrect ? "Correto!" : `Incorreto! A resposta correta é: ${question.resposta_correta}`);
   };
-
-  // Extrai as últimas 4 letras do id_concurso para exibir como ano
-  const extractAno = (id) => id.slice(-4);
 
   return (
     <div className="bg-white p-8 rounded-lg shadow-lg mt-6 border border-gray-200">
       <div className="flex flex-wrap gap-x-6 text-gray-700 font-medium mb-6">
         <h5 className="text-lg font-semibold">Cargo: {question.cargo}</h5>
         <p><strong>Edital:</strong> {question.id_concurso}</p>
-        <p><strong>Ano:</strong> {extractAno(question.id_concurso)}</p>
+        <p><strong>Ano:</strong> {question.id_concurso.slice(-4)}</p>
         <p><strong>Banca:</strong> Avança-SP</p>
       </div>
 
-      <div className="mb-4"></div>
-      
       <p className="text-gray-800 font-medium mb-6 text-xl leading-relaxed">
         {index + 1}. {question.questão}
       </p>
 
       <div className="space-y-4">
-        {Object.entries(question.alternativas).map(([letter, text]) => (
-          <div
-            key={letter}
-            className={`flex items-center cursor-pointer transition-all duration-200 ${
-              isAnswered && letter === question.resposta_correta
-                ? "bg-green-100 border border-green-500"
-                : ""
-            }`}
-            onClick={() => {
-              if (!isAnswered) {
-                setSelectedAnswer(letter);
-              }
-            }}
-          >
+        {Object.entries(question.alternativas).map(([letter, text]) => {
+          const isCorrectAnswer = isAnswered && letter === question.resposta_correta;
+          const isSelectedAnswer = selectedAnswer === letter;
+
+          return (
+            <div
+              key={letter}
+              className={`flex items-center cursor-pointer p-2 rounded-lg transition-all duration-200 
+                ${isCorrectAnswer ? "bg-green-100 border border-green-500" : ""}
+                ${isSelectedAnswer && !isAnswered ? "bg-gray-100" : ""}`}
+              onClick={() => !isAnswered && setSelectedAnswer(letter)}
+            >
               <label
-                className={`flex items-center justify-center w-7 h-7 rounded-full border-2 transition-all duration-200 ${
-                  selectedAnswer === letter ? "border-black text-black" : "border-black text-black"
-                }`}
-                style={{
-                  backgroundColor: selectedAnswer === letter ? "black" : "transparent",
-                  color: selectedAnswer === letter ? "white" : "inherit",
-                }}
+                className={`flex items-center justify-center w-7 h-7 rounded-full border-2 transition-all duration-200 
+                  ${isSelectedAnswer ? "bg-black text-white" : "border-black text-black"}`}
               >
                 {letter}
               </label>
 
-            <span className={`ml-3 text-lg ${selectedAnswer === letter ? "text-black" : "text-gray-700"}`}>
-              {text}
-            </span>
-          </div>
-        ))}
+              <span className={`ml-3 text-lg ${isSelectedAnswer ? "text-black" : "text-gray-700"}`}>
+                {text}
+              </span>
+            </div>
+          );
+        })}
       </div>
 
       <button

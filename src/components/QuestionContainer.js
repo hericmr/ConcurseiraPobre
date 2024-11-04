@@ -1,4 +1,5 @@
 import React from 'react';
+import QuestionCard from './QuestionCard'; // Certifique-se de que está importando o QuestionCard
 
 const QuestionContainer = ({ questions }) => (
   <div>
@@ -9,8 +10,7 @@ const QuestionContainer = ({ questions }) => (
       <ul className="space-y-4">
         {questions.map((question, index) => (
           <li key={index} className="p-4 bg-white rounded shadow">
-            <p className="font-semibold">Pergunta {index + 1}</p>
-            <p>{question.texto}</p>
+            <QuestionCard question={question} index={index} />
           </li>
         ))}
       </ul>
