@@ -4,41 +4,44 @@
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: De acordo com o texto, é correto afirmar que:",
+            "questão": "Questão 1",
+            "enunciado": "De acordo com o texto, é correto afirmar que: (",
             "alternativas": {
-                "A": "A abundância de Hélio -3 na superfície da \nLua é o único motivo de interesse das nações em \ndominar o satélite.",
-                "B": "O hidrogênio e o oxigênio derivados da água \ncongelada nos polos da Lua têm valor econômico \nmais alto do que outros elementos químicos.",
-                "C": "O Hélio -3, assim como o hidrogênio e o \noxigênio encontrados na Lua, são possíveis \nfontes de combustível.",
-                "D": "Empresas privadas e agências espaciais têm \ndesrespeitado o Tratado do Espaço Exterior, com \ntentativas de apropriação do território lunar.",
-                "E": "Atualmente, a mineração lunar é a principal \natividade realizada em missões de exploração da \nLua."
+                "A": "A abundância de Hélio -3 na superfície da Lua é o único motivo de interesse das nações em dominar o satélite. (",
+                "B": "O hidrogênio e o oxigênio derivados da água congelada nos polos da Lua têm valor econômico mais alto do que outros elementos químicos. (",
+                "C": "O Hélio -3, assim como o hidrogênio e o oxigênio encontrados na Lua, são possíveis fontes de combustível. (",
+                "D": "Empresas privadas e agências espaciais têm desrespeitado o Tratado do Espaço Exterior, com tentativas de apropriação do território lunar. (",
+                "E": "Atualmente, a mineração lunar é a principal atividade realizada em missões de exploração da Lua."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "B"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: A expressão “tanto… quanto” , que ocorre no \ntrecho “[...] com implicações tanto científicas \nquanto econômicas de uma importância \nrevolucionária.” , exprime no contexto dado:",
+            "questão": "Questão 2",
+            "enunciado": "A expressão “tanto… quanto” , que ocorre no trecho “[...] com implicações tanto científicas quanto econômicas de uma importância revolucionária.” , exprime no contexto dado: (",
             "alternativas": {
-                "A": "adição.",
-                "B": "comparação.",
-                "C": "condição.",
-                "D": "concessão.",
+                "A": "adição. (",
+                "B": "comparação. (",
+                "C": "condição. (",
+                "D": "concessão. (",
                 "E": "oposição."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "B"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: Analise a voz verbal no excerto dado a seguir e \nassinale a alternativa que o reescreve \ncorretamente na voz passiva analítica, com o \nagente da passiva:  \n“A Lua tem depósitos de Hélio -3, um isótopo \nraro que não é abundante na Terra.”",
+            "questão": "Questão 3",
+            "enunciado": "Analise a voz verbal no excerto dado a seguir e assinale a alternativa que o reescreve corretamente na voz passiva analítica, com o agente da passiva: “A Lua tem depósitos de Hélio -3, um isótopo raro que não é abundante na Terra.” (",
             "alternativas": {
-                "A": "Depósitos de Hélio -3 foram tidos pela Lua, \num isótopo raro que não é abundante na Terra.",
-                "B": "Depósitos de Hélio -3, um isótopo raro que \nnão é abundante na Terra, são tidos.",
-                "C": "Há depósitos de Hélio -3 na Lua, um isótopo \nraro que não é abundante na Terra.",
-                "D": "Tem -se depósitos de Hélio -3, um isótopo \nraro que não é abundante na Terra.",
-                "E": "Depósitos de Hélio -3, um isótopo raro que \nnão é abundante na Terra, são tidos pela Lua.  \n QUESTÃO 04  \nA expressão que melhor substitui a preposição \n“sobre” , que ocorre no excerto “ A crescente \natividade espacial também levanta preocupações \nsobre a governança e a gestão de possíveis \nconflitos no espaço.” , é (considere, quando \nnecessário, que ocorre a contração da preposição \ncom o artigo “a”, que sucede “sobre” no contexto \ndado):  \n(A) mediante.  \n(B) acerca de.  \n(C) em função de.  \n(D) diante de.  \n(E) relativamente a."
+                "A": "Depósitos de Hélio -3 foram tidos pela Lua, um isótopo raro que não é abundante na Terra. (",
+                "B": "Depósitos de Hélio -3, um isótopo raro que não é abundante na Terra, são tidos. (",
+                "C": "Há depósitos de Hélio -3 na Lua, um isótopo raro que não é abundante na Terra. (",
+                "D": "Tem -se depósitos de Hélio -3, um isótopo raro que não é abundante na Terra. (",
+                "E": "Depósitos de Hélio -3, um isótopo raro que não é abundante na Terra, são tidos pela Lua."
             },
             "resposta_correta": "C"
         },
@@ -46,13 +49,14 @@
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 4: As vírgulas empregadas no excerto “[...] os \nArtemis Accords, liderados pelos EUA, \nrepresentam um conjunto de princípios para a \ncooperação internacional na exploração da Lua  \n[...]” ocorrem pelo mesmo motivo que em:",
+            "questão": "Questão 4",
+            "enunciado": "A expressão que melhor substitui a preposição “sobre” , que ocorre no excerto “ A crescente atividade espacial também levanta preocupações sobre a governança e a gestão de possíveis conflitos no espaço.” , é (considere, quando necessário, que ocorre a contração da preposição com o artigo “a”, que sucede “sobre” no contexto dado): (",
             "alternativas": {
-                "A": "Luna, filha mais velha do pecuarista, herdou \ntodas as terras da família.",
-                "B": "O pobre rapaz, embora não visse sentido \nnaquilo, permaneceu ali para agradar sua noiva.",
-                "C": "Desde o último verão, a garota ainda pensa \nnas oportunidades que perdeu.",
-                "D": "Veja bem, mocinho, a forma como responde \na seu pai.",
-                "E": "Antônio, Victor e João não são dançarinos \nprofissionais."
+                "A": "mediante. (",
+                "B": "acerca de. (",
+                "C": "em função de. (",
+                "D": "diante de. (",
+                "E": "relativamente a."
             },
             "resposta_correta": "A"
         },
@@ -60,13 +64,29 @@
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: A palavra “interesse” , que ocorre no texto, \napresenta dois dígrafos, assim como:",
+            "questão": "Questão 5",
+            "enunciado": "As vírgulas empregadas no excerto “[...] os Artemis Accords, liderados pelos EUA, representam um conjunto de princípios para a cooperação internacional na exploração da Lua [...]” ocorrem pelo mesmo motivo que em: (",
             "alternativas": {
-                "A": "“sonda”.",
-                "B": "“pesquisa”.",
-                "C": "“também”.",
-                "D": "“crescente”.",
-                "E": "“governança”.  \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 4 de 16 QUESTÃO 07  \nNas sentenças a seguir, a pontuação está correta \napenas em:  \n(A) Os médicos disseram que, o uso do remédio, \ndeveria ser interrompido.  \n(B) As garotas pareciam inquietas com o \nocorrido. Já o garoto, indiferente.  \n(C) Tenho dúvidas quanto à saúde de meu pai? \nPor favor, explique o que ele tem.  \n(D) Os rapazes, pediram ajuda à professora.  \n(E) A irmã ficou responsável pelos doces, e \nsalgados da festa."
+                "A": "Luna, filha mais velha do pecuarista, herdou todas as terras da família. (",
+                "B": "O pobre rapaz, embora não visse sentido naquilo, permaneceu ali para agradar sua noiva. (",
+                "C": "Desde o último verão, a garota ainda pensa nas oportunidades que perdeu. (",
+                "D": "Veja bem, mocinho, a forma como responde a seu pai. (",
+                "E": "Antônio, Victor e João não são dançarinos profissionais."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6",
+            "enunciado": "A palavra “interesse” , que ocorre no texto, apresenta dois dígrafos, assim como: (",
+            "alternativas": {
+                "A": "“sonda”. (",
+                "B": "“pesquisa”. (",
+                "C": "“também”. (",
+                "D": "“crescente”. (",
+                "E": "“governança”. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 4 de 16 QUESTÃO 07 Nas sentenças a seguir, a pontuação está correta apenas em: (A) Os médicos disseram que, o uso do remédio, deveria ser interrompido. (B) As garotas pareciam inquietas com o ocorrido. Já o garoto, indiferente. (C) Tenho dúvidas quanto à saúde de meu pai? Por favor, explique o que ele tem. (D) Os rapazes, pediram ajuda à professora. (E) A irmã ficou responsável pelos doces, e salgados da festa."
             },
             "resposta_correta": "A"
         },
@@ -74,12 +94,13 @@
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Todas as palavras a seguir apresentam ditongo, \nexceto :",
+            "questão": "Questão 8",
+            "enunciado": "Todas as palavras a seguir apresentam ditongo, exceto : (",
             "alternativas": {
-                "A": "freio.",
-                "B": "cordilheira.",
-                "C": "antiquário.",
-                "D": "faísca.",
+                "A": "freio. (",
+                "B": "cordilheira. (",
+                "C": "antiquário. (",
+                "D": "faísca. (",
                 "E": "museu."
             },
             "resposta_correta": "C"
@@ -88,83 +109,104 @@
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: A sentença em que a colocação pronominal está \nincorreta, de acordo com a norma -padrão da \nlíngua portuguesa, é:",
+            "questão": "Questão 9",
+            "enunciado": "A sentença em que a colocação pronominal está incorreta, de acordo com a norma -padrão da língua portuguesa, é: (",
             "alternativas": {
-                "A": "Em tratando -se da mudança, convém \ncancelar os compromissos de hoje.",
-                "B": "Quem se pronunciou a favor do rapaz sofreu \nrepresálias.",
-                "C": "Parece -me adequado reaplicar todas as \nprovas.",
-                "D": "Não há motivo para tratá -la assim.",
-                "E": "Começou a desobedecê -la na frente de todos \nos convidados.  \n \n \n \n \n \n QUESTÃO 10 \nA única sentença em que não ocorre verbo \nimpessoal é:  \n(A) Trovejou muito ontem à tarde.  \n(B) Há muitas lendas locais na Amazônia.  \n(C) Muitos alunos haviam tirado boas notas \nnaquele semestre.  \n(D) Já amanheceu.  \n(E) Faz tempo desde a última geada.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "Em tratando -se da mudança, convém cancelar os compromissos de hoje. (",
+                "B": "Quem se pronunciou a favor do rapaz sofreu represálias. (",
+                "C": "Parece -me adequado reaplicar todas as provas. (",
+                "D": "Não há motivo para tratá -la assim. (",
+                "E": "Começou a desobedecê -la na frente de todos os convidados."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 8: 1 \nUma empresa organizará um evento e cobrará um \ndeterminado valor de ingresso por pessoa. O \nvalor do ingresso cobre os custos daquela pessoa \nno evento, e sobra um lucro para a empresa de \n30% do valor do ingresso. Entretanto, a partir do \n101° ingresso vendido, o lucro por ingresso passa \na ser de 60% (a porcentagem de lucro dos \nanteriores se mantém). Se a empresa vendeu 150 \ningressos, qual a porcentagem de lucro total da \nempresa, em relação ao total arrecadado, neste \nevento?",
+            "questão": "Questão 10",
+            "enunciado": "A única sentença em que não ocorre verbo impessoal é: (",
             "alternativas": {
-                "A": "36%.",
-                "B": "66%.",
-                "C": "90%.",
-                "D": "35%.",
+                "A": "Trovejou muito ontem à tarde. (",
+                "B": "Há muitas lendas locais na Amazônia. (",
+                "C": "Muitos alunos haviam tirado boas notas naquele semestre. (",
+                "D": "Já amanheceu. (",
+                "E": "Faz tempo desde a última geada. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1",
+            "enunciado": "Uma empresa organizará um evento e cobrará um determinado valor de ingresso por pessoa. O valor do ingresso cobre os custos daquela pessoa no evento, e sobra um lucro para a empresa de 30% do valor do ingresso. Entretanto, a partir do 101° ingresso vendido, o lucro por ingresso passa a ser de 60% (a porcentagem de lucro dos anteriores se mantém). Se a empresa vendeu 150 ingressos, qual a porcentagem de lucro total da empresa, em relação ao total arrecadado, neste evento? (",
+            "alternativas": {
+                "A": "36%. (",
+                "B": "66%. (",
+                "C": "90%. (",
+                "D": "35%. (",
                 "E": "40%."
             },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 9: Num vestibular, sabe -se que há 15 vagas para \nestudantes oriundos de escola pública e 8 vagas \npara estudantes oriundos de escola particular. \nSabe -se que se candidataram 2000 pessoas para \neste vestibular, e que a proporção entre \ncandidatos oriundos de escola  pública e oriundos \nde escola particular é 3:2, então a razão de \ncandidatos oriundos de escola pública para o \nnúmero de vagas especificamente para estes \ncandidatos é:",
-            "alternativas": {
-                "A": "160:1.",
-                "B": "40:1.",
-                "C": "120:1.",
-                "D": "100:1.",
-                "E": "80:1.  Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 5 de 16 QUESTÃO 13 \nA Lei de Moore prevê que o número de \ntransistores num chip eletrônico dobraria a cada \nano. No ano 2000, o número de transistores em \num determinado chip era de 100 milhões. \nSeguindo a Lei de Moore, em que ano o número \nde transistores num chip passou de 1 bilhão?  \n(A) 2003.  \n(B) 2014.  \n(C) 2024.  \n(D) 2004.  \n(E) 2005."
-            },
             "resposta_correta": "B"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Um livro contém 400 folhas e foi impresso com \nfolhas que pesam 1,05 g cada. Além disso, o livro \ntambém tem duas capas, que somam um \ndeterminado peso. O peso total do livro é 475 \ngramas. Se a editora resolver usar folhas mais \ngrossas, que pesam 2,15 gramas, cada, qual será \no peso total do livro, considerando que as capas \nutilizadas serão as mesmas?",
+            "questão": "Questão 12",
+            "enunciado": "Num vestibular, sabe -se que há 15 vagas para estudantes oriundos de escola pública e 8 vagas para estudantes oriundos de escola particular. Sabe -se que se candidataram 2000 pessoas para este vestibular, e que a proporção entre candidatos oriundos de escola pública e oriundos de escola particular é 3:2, então a razão de candidatos oriundos de escola pública para o número de vagas especificamente para estes candidatos é: (",
             "alternativas": {
-                "A": "865 g.",
-                "B": "860 g.",
-                "C": "915 g.",
-                "D": "945 g.",
+                "A": "160:1. (",
+                "B": "40:1. (",
+                "C": "120:1. (",
+                "D": "100:1. (",
+                "E": "80:1. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 5 de 16 QUESTÃO 13 A Lei de Moore prevê que o número de transistores num chip eletrônico dobraria a cada ano. No ano 2000, o número de transistores em um determinado chip era de 100 milhões. Seguindo a Lei de Moore, em que ano o número de transistores num chip passou de 1 bilhão? (A) 2003. (B) 2014. (C) 2024. (D) 2004. (E) 2005."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14",
+            "enunciado": "Um livro contém 400 folhas e foi impresso com folhas que pesam 1,05 g cada. Além disso, o livro também tem duas capas, que somam um determinado peso. O peso total do livro é 475 gramas. Se a editora resolver usar folhas mais grossas, que pesam 2,15 gramas, cada, qual será o peso total do livro, considerando que as capas utilizadas serão as mesmas? (",
+            "alternativas": {
+                "A": "865 g. (",
+                "B": "860 g. (",
+                "C": "915 g. (",
+                "D": "945 g. (",
                 "E": "955 g."
             },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15",
+            "enunciado": "Um engenheiro civil sabe que os materiais cerâmicos absorvem água quando submersos. Ele faz um teste colocando um determinado material cerâmico de 1,5 kg, inicialmente seco, submerso em um recipiente com água. Um dia depois, ele retira o material da água e pesa o material obtendo o valor de 1,75 kg. Qual a porcentagem de água, aproximadamente, que foi absorvida pelo material em relação à massa inicial seca do material? (",
+            "alternativas": {
+                "A": "13,9%. (",
+                "B": "14,3%. (",
+                "C": "15,5%. (",
+                "D": "16,7%. (",
+                "E": "13,3%. QUESTÃO 16 Observe a seguinte sequência lógica numérica: 1, 11, 111, 1111, 11111, ... Se somarmos todos os primeiros 8 elementos dessa sequência, qual será o algarismo das unidades do número resultante? (A) 3. (B) 8. (C) 1. (D) 0. (E) 9."
+            },
             "resposta_correta": "D"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Um engenheiro civil sabe que os materiais \ncerâmicos absorvem água quando submersos. \nEle faz um teste colocando um determinado \nmaterial cerâmico de 1,5 kg, inicialmente seco, \nsubmerso em um recipiente com água. Um dia \ndepois, ele retira o material da água e  pesa o \nmaterial obtendo o valor de 1,75 kg. Qual a \nporcentagem de água, aproximadamente, que foi \nabsorvida pelo material em relação à massa \ninicial seca do material?",
+            "questão": "Questão 17",
+            "enunciado": "Observe as seguintes proposições lógicas abaixo: A: O quarto é rosa ou a sala é vermelha B: A sala é vermelha e a piscina é funda C: A piscina não é funda e o banheiro não é pequeno. D: A sala é vermelha ou a cozinha não é de madeira. Sabendo -se que as proposições A e C são verdadeiras e as proposições B e D são falsas, então, é necessariamente verdade que: (",
             "alternativas": {
-                "A": "13,9%.",
-                "B": "14,3%.",
-                "C": "15,5%.",
-                "D": "16,7%.",
-                "E": "13,3%.  QUESTÃO 16 \nObserve a seguinte sequência lógica numérica:  \n1, 11, 111, 1111, 11111, ...  \nSe somarmos todos os primeiros 8 elementos \ndessa sequência, qual será o algarismo das \nunidades do número resultante?  \n(A) 3.  \n(B) 8.  \n(C) 1.  \n(D) 0.  \n(E) 9."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 12: Observe as seguintes proposições lógicas abaixo:  \nA: O quarto é rosa ou a sala é vermelha  \nB: A sala é vermelha e a piscina é funda  \nC: A piscina não é funda e o banheiro não é \npequeno.  \nD: A sala é vermelha ou a cozinha não é de \nmadeira.  \nSabendo -se que as proposições A e C são \nverdadeiras e as proposições B e D são falsas, \nentão, é necessariamente verdade que:",
-            "alternativas": {
-                "A": "O quarto é rosa.",
-                "B": "A sala é vermelha.",
-                "C": "A cozinha não é de madeira.",
-                "D": "A piscina é funda.",
-                "E": "O banheiro é pequeno.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 6 de 16 QUESTÃO 18 \nUm professor aplicou uma prova para uma turma \ncom 10 alunos. Após a correção das provas, ele \npercebeu que perdeu as provas de dois dos \nalunos. As notas dos 8 alunos restantes foram:  \n5, 8, 9, 7, 6, 10, 2, 7.  \nPorém, ele sabe que a média aritmética das notas \nde todos os alunos foi 7,0. Portanto, a média \naritmética dos dois alunos cujas provas foram \nperdidas foi:  \n(A) 8,0.  \n(B) 7,0.  \n(C) 9,0.  \n(D) 10,0.  \n(E) 8,5."
+                "A": "O quarto é rosa. (",
+                "B": "A sala é vermelha. (",
+                "C": "A cozinha não é de madeira. (",
+                "D": "A piscina é funda. (",
+                "E": "O banheiro é pequeno. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 6 de 16 QUESTÃO 18 Um professor aplicou uma prova para uma turma com 10 alunos. Após a correção das provas, ele percebeu que perdeu as provas de dois dos alunos. As notas dos 8 alunos restantes foram: 5, 8, 9, 7, 6, 10, 2, 7. Porém, ele sabe que a média aritmética das notas de todos os alunos foi 7,0. Portanto, a média aritmética dos dois alunos cujas provas foram perdidas foi: (A) 8,0. (B) 7,0. (C) 9,0. (D) 10,0. (E) 8,5."
             },
             "resposta_correta": "E"
         },
@@ -172,197 +214,316 @@
             "cargo": "ASSISTENTE SOCIAL I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: A figura abaixo mostra um sistema com dois \nblocos A e B. O bloco A inicialmente tem um dos \nvértices em contato com o chão, e o bloco B está \nsuspenso por uma polia a uma altura fixa de 10 \nmetros, conforme a figura.  \n \nO bloco B então é puxado para baixo, ficando a \numa altura fixa de 5 metros. A altura do vértice \ndo bloco A passa a ser 4 metros, conforme \nmostrado na figura. A corda não estica durante o \nprocesso. Quanto será o deslocamento horizontal \ndeste vértice (medida X indicada na figura)?",
+            "questão": "Questão 19",
+            "enunciado": "A figura abaixo mostra um sistema com dois blocos A e B. O bloco A inicialmente tem um dos vértices em contato com o chão, e o bloco B está suspenso por uma polia a uma altura fixa de 10 metros, conforme a figura. O bloco B então é puxado para baixo, ficando a uma altura fixa de 5 metros. A altura do vértice do bloco A passa a ser 4 metros, conforme mostrado na figura. A corda não estica durante o processo. Quanto será o deslocamento horizontal deste vértice (medida X indicada na figura)? (",
             "alternativas": {
-                "A": "4,0 m.",
-                "B": "5,0 m.",
-                "C": "3,0 m.",
-                "D": "3,5 m.",
-                "E": "4,5 m.  \n \n \n QUESTÃO 20 \nSe um pedreiro constrói uma parede de 20 metros \nquadrados em 8 horas, quantos pedreiros serão \nnecessários para construir uma parede de 60 \nmetros quadrados em 4 horas?  \n(A) 9.  \n(B) 1.  \n(C) 2.  \n(D) 3.  \n(E) 6.  \n \nNOÇÕES DE INFORMÁTICA"
+                "A": "4,0 m. (",
+                "B": "5,0 m. (",
+                "C": "3,0 m. (",
+                "D": "3,5 m. (",
+                "E": "4,5 m."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "B"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Ao manipular arquivos no Prompt de Comando \ndo Windows, para exibir o conteúdo de arquivos \nde texto diretamente na tela do Prompt, deve -se \nutilizar o comando:",
+            "questão": "Questão 20",
+            "enunciado": "Se um pedreiro constrói uma parede de 20 metros quadrados em 8 horas, quantos pedreiros serão necessários para construir uma parede de 60 metros quadrados em 4 horas? (",
             "alternativas": {
-                "A": "Open.",
-                "B": "Exit.",
-                "C": "List.",
-                "D": "Format.",
+                "A": "9. (",
+                "B": "1. (",
+                "C": "2. (",
+                "D": "3. (",
+                "E": "6. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21",
+            "enunciado": "Ao manipular arquivos no Prompt de Comando do Windows, para exibir o conteúdo de arquivos de texto diretamente na tela do Prompt, deve -se utilizar o comando: (",
+            "alternativas": {
+                "A": "Open. (",
+                "B": "Exit. (",
+                "C": "List. (",
+                "D": "Format. (",
                 "E": "Type."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "E"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 15: Considerando os programas e aplicativos que \nestão presentes no Sistema Operacional \nWindows, qual dos elementos listados abaixo \nestá associado a segurança de rede, \nproporcionando a proteção do computador contra \nacessos não autorizados:",
+            "questão": "Questão 22",
+            "enunciado": "Considerando os programas e aplicativos que estão presentes no Sistema Operacional Windows, qual dos elementos listados abaixo está associado a segurança de rede, proporcionando a proteção do computador contra acessos não autorizados: (",
             "alternativas": {
-                "A": "Windows Blok.",
-                "B": "Windows Restrit.",
-                "C": "Windows Firewall.",
-                "D": "Windows Linux.",
-                "E": "Windows Online.  \n \n \n \n \nPrefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 7 de 16 QUESTÃO 23  \nCom relação às definições de marcadores no \nMicrosoft Word, pode -se afirmar corretamente \nque: \n(A) Os marcadores apresentam alinhamento \ncentralizado fixo, não permitindo alteração do \nusuário.  \n(B) Os marcadores apresentam alinhamento à \ndireita, não permitindo alteração do usuário.  \n(C) Os marcadores são informações \nexclusivamente numéricas nos textos \ndesenvolvidos no Microsoft Word.  \n(D) Os marcadores devem ficar localizados ao \nlado da paginação do texto.  \n(E) É possível inserir imagens como marcadores \nno texto desenvolvido no Microsoft Word."
+                "A": "Windows Blok. (",
+                "B": "Windows Restrit. (",
+                "C": "Windows Firewall. (",
+                "D": "Windows Linux. (",
+                "E": "Windows Online. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 7 de 16 QUESTÃO 23 Com relação às definições de marcadores no Microsoft Word, pode -se afirmar corretamente que: (A) Os marcadores apresentam alinhamento centralizado fixo, não permitindo alteração do usuário. (B) Os marcadores apresentam alinhamento à direita, não permitindo alteração do usuário. (C) Os marcadores são informações exclusivamente numéricas nos textos desenvolvidos no Microsoft Word. (D) Os marcadores devem ficar localizados ao lado da paginação do texto. (E) É possível inserir imagens como marcadores no texto desenvolvido no Microsoft Word."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: Ao editar e formatar textos no Microsoft Word, \npara dividir a janela do documento possibilitando \na leitura de duas partes diferentes do texto, pode -\nse utilizar o comando:",
+            "questão": "Questão 24",
+            "enunciado": "Ao editar e formatar textos no Microsoft Word, para dividir a janela do documento possibilitando a leitura de duas partes diferentes do texto, pode - se utilizar o comando: (",
             "alternativas": {
-                "A": "Ctrl+Alt+S.",
-                "B": "Ctrl+Alt+C.",
-                "C": "Ctrl+Alt+T.",
-                "D": "Ctrl+O.",
+                "A": "Ctrl+Alt+S. (",
+                "B": "Ctrl+Alt+C. (",
+                "C": "Ctrl+Alt+T. (",
+                "D": "Ctrl+O. (",
                 "E": "Ctrl+U."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "E"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: Um e -mail geralmente consiste em três partes \nprincipais: O cabeçalho, corpo e os anexos.  \nSobre o uso dos correios eletrônicos é incorreto \nafirmar que:",
+            "questão": "Questão 25",
+            "enunciado": "Um e -mail geralmente consiste em três partes principais: O cabeçalho, corpo e os anexos. Sobre o uso dos correios eletrônicos é incorreto afirmar que: (",
             "alternativas": {
-                "A": "Existem vários provedores de e -mails que \npodem ser usados.",
-                "B": "O e -mail funciona através de protocolos \ncomo SMTP.",
-                "C": "Os arquivos com extensão .DOCX não \npodem ser anexados nos e -mails, por serem \nconsiderado de alto risco.",
-                "D": "Ao transformar o conteúdo de um anexo em \narquivo .ZIP, o tamanho desse conteúdo será \nreduzido.",
-                "E": "Recomenda -se que o usuário de e -mail \nmantenha seu software antivírus atualizado.  \n \n CONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 18: De acordo com o Ministério do Desenvolvimento \nSocial e Combate à Fome. O Bolsa Família é o \nprincipal programa de transferência de renda do \nBrasil, amplamente reconhecido em todo o \nmundo por ter ajudado milhões de famílias a \nsaírem da situação de fome.  \nQual é a principal regra para que uma família \ntenha direito ao Bolsa Família?",
-            "alternativas": {
-                "A": "A renda total da família deve ser de, no \nmáximo, R$ 1.200,00 por mês.",
-                "B": "Cada pessoa da família deve ter uma renda \nde, no máximo, R$ 218,00 por mês.",
-                "C": "A renda de cada pessoa da família deve ser \nde, no máximo, R$ 150,00 por mês.",
-                "D": "A renda de cada pessoa da família deve ser \nde, no máximo, R$ 120,00 por mês.",
-                "E": "Cada pessoa da família deve ter uma renda \nde, no máximo, R$ 307,00 por mês."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 19: Qual das alternativas abaixo NÃO é um objetivo \ndo Serviço de Atendimento Especializado a \nFamílias e Indivíduos (PAEFI)?",
-            "alternativas": {
-                "A": "Contribuir para o fortalecimento da família \nno seu papel de proteção.",
-                "B": "Incluir famílias no sistema de proteção social \ne nos serviços públicos.",
-                "C": "Contribuir para acabar com as violações de \ndireitos na família.",
-                "D": "Promover o acesso a benefícios, programas \nde transferência de renda e serviços \nsocioassistenciais.",
-                "E": "Prevenir a reincidência de violações de \ndireitos.  \n \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 8 de 16 QUESTÃO 28  \nA assistência social é estruturada através do \nSistema Único de Assistência Social (Suas), que \nabrange todo o território brasileiro. O propósito é \nassegurar a proteção social aos cidadãos, \noferecendo suporte a pessoas, famílias e \ncomunidades no enfrentament o de suas \nadversidades, por meio de serviços, benefícios, \nprogramas e projetos. Em relação ao \nAcolhimento  Institucional para Crianças e \nAdolescentes, qual das seguintes afirmações está \ncorreta sobre Abrigo.   \n \n(A) Abrigo: Acolhimento permanente com \ncapacidade máxima para 50 crianças e \nadolescentes por unidade, localizado em áreas \ncomerciais, com ambiente formal e padrão \ninstitucional rígido.  \n(B) Abrigo: Acolhimento provisório com \ncapacidade máxima para 30 crianças e \nadolescentes por unidade, localizado em áreas \nindustriais, com ambiente adaptado a \nnecessidades específicas.  \n(C) Abrigo: Acolhimento provisório com \ncapacidade máxima para 20 crianças e \nadolescentes por unidade. O serviço deve ter \naspecto semelhante ao de uma residência e estar \ninserido na comunidade, em áreas residenciais, \noferecendo ambiente acolhedor e condições \ninstitucionais para o atendimento com padrões de \ndignidade.  \n(D) Abrigo: Acolhimento permanente com \ncapacidade máxima para 10 crianças e \nadolescentes por unidade. O serviço deve ter \naspecto semelhante ao de uma casa lar e estar \ninserido na comunidade, em áreas residenciais, \noferecendo ambiente acolhedor e condições \ninstitucionais para o atendimento com padrões de \ndignidade.  \n(E) Abrigo: Acolhimento temporário com \ncapacidade máxima para 10 crianças e \nadolescentes por unidade. O serviço deve ter \naspecto semelhante ao de uma casa lar e estar \ninserido na comunidade, em áreas residenciais, \noferecendo ambiente acolhedor e condições \ninstitucionais para o atendimento com padrões de \ndignidade.  \n \n QUESTÃO 29  \nQual das seguintes afirmações sobre os \nBenefícios Eventuais  está correta?  \n(A) Os Benefícios Eventuais são provisões da \npolítica de Assistência Social destinadas à \nproteção permanente de indivíduos e famílias em \nsituações de emergência.  \n(B) Os Benefícios Eventuais são provisões da \npolítica de Assistência Social destinadas à \nproteção de famílias que visam atender \nvulnerabilidades cotidianas.  \n(C) Os Benefícios Eventuais são provisões da \npolítica de Assistência Social destinadas à \nproteção de indivíduos e famílias para o \nenfrentamento de uma vulnerabilidade social de \ncaráter eventual.  \n(D) Os Benefícios Eventuais são provisões da \npolítica de Assistência Social destinadas à \nproteção de idosos e crianças para o \nenfrentamento de problemas de saúde pública, \nbem como a Saúde, Educação, Habitação, e a \nSegurança.  \n(E) Os Benefícios Eventuais são provisões da \npolítica de Assistência Social destinadas à \nproteção de famílias rurais para o enfrentamento \nde desastres naturais, bem como a Saúde, \nEducação, Habitação, e a Segurança."
+                "A": "Existem vários provedores de e -mails que podem ser usados. (",
+                "B": "O e -mail funciona através de protocolos como SMTP. (",
+                "C": "Os arquivos com extensão .DOCX não podem ser anexados nos e -mails, por serem considerado de alto risco. (",
+                "D": "Ao transformar o conteúdo de um anexo em arquivo .ZIP, o tamanho desse conteúdo será reduzido. (",
+                "E": "Recomenda -se que o usuário de e -mail mantenha seu software antivírus atualizado. CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Complete a lacuna de acordo com a Norma \nOperacional Básica da Assistência Social - \nNOB/SUAS.  \nA União, os Estados, o Distrito Federal e os \nMunicípios deverão elaborar os respectivos \nPlanos de Assistência Social a cada 4 (quatro) \nanos, de acordo com ______________.",
+            "questão": "Questão 26",
+            "enunciado": "De acordo com o Ministério do Desenvolvimento Social e Combate à Fome. O Bolsa Família é o principal programa de transferência de renda do Brasil, amplamente reconhecido em todo o mundo por ter ajudado milhões de famílias a saírem da situação de fome. Qual é a principal regra para que uma família tenha direito ao Bolsa Família? (",
             "alternativas": {
-                "A": "os períodos de elaboração do Plano \nPlurianual - PPA.",
-                "B": "os períodos de revisão dos programas do \nCREAS e CRAS.",
-                "C": "os ciclos de atualização das políticas do PNA \n(Política Nacional de Assistência Social).",
-                "D": "os prazos definidos pelo LOAS (Lei \nOrgânica da Assistência Social).",
-                "E": "as diretrizes do Sistema Nacional de \nAssistência Social (SNAS).  Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 9 de 16 QUESTÃO 3 1 \nQual é o objetivo do Programa BPC na Escola?  \n(A) Garantir o acesso e a permanência na \nescola de todas as crianças e adolescentes até 21 \nanos, com deficiência, independentemente de \nreceberem o Benefício de Prestação Continuada \n(BPC).  \n(B) Oferecer atividades extracurriculares para \ncrianças e adolescentes até 18 anos, com \ndeficiência, que recebem o Benefício de \nPrestação Continuada (BPC).  \n(C) Proporcionar acesso a recursos \neducacionais online para crianças e adolescentes \naté 24 anos, com deficiência, que recebem o \nBenefício de Prestação Continuada (BPC).  \n(D) Garantir o acesso e a permanência na \nescola de crianças e adolescentes até 18 anos, \ncom deficiência, que recebem o Benefício de \nPrestação Continuada (BPC).  \n(E)  Fornecer assistência financeira adicional \npara famílias de crianças e adolescentes até 21 \nanos, com deficiência, que recebem o Benefício \nde Prestação Continuada (BPC)."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 21: 2 \nAssinale a alternativa incorreta de acordo com a \nResolução CFESS n° 273, de 13 de março de \n1993. Em relação aos Direitos e \nResponsabilidades Gerais  do/a Assistente \nSocial. Constituem direitos do/a assistente social:",
-            "alternativas": {
-                "A": "livre exercício das atividades inerentes à \nProfissão;",
-                "B": "participação na elaboração e gerenciamento \ndas políticas sociais, e na formulação e \nimplementação de programas sociais;",
-                "C": "inviolabilidade do local de trabalho e \nrespectivos arquivos e documentação, garantindo \no sigilo profissional;",
-                "D": "desempenhar suas atividades profissionais, \ncom eficiência e responsabilidade, observando a \nlegislação em vigor;",
-                "E": "pronunciamento em matéria de sua \nespecialidade, sobretudo quando se tratar de \nassuntos de interesse da população;  \n \n QUESTÃO 3 3 \nJoão, com 60 anos de idade e renda mensal de um \nsalário -mínimo , deseja viajar de ônibus para \nvisitar sua família em outro estado. Ele ouviu \nfalar sobre a Carteira da Pessoa Idosa, mas não \ntem certeza de como ela pode ajudá -lo a obter \nbenefícios no transporte interestadual.  \nQual das seguintes afirmações está correta sobre \na Carteira da Pessoa Idosa?  \n(A) A Carteira da Pessoa Idosa garante apenas o \ndesconto de 50% no preço da passagem \ninterestadual.  \n(B) A Carteira da Pessoa Idosa é uma das formas \nde comprovação de renda para poder usar o \ntransporte interestadual gratuito (três vagas por \nveículo) ou para ter o desconto de 50% no preço \nda passagem.  \n(C) A Carteira da Pessoa Idosa é uma das formas \nde comprovação de renda para poder usar o \ntransporte interestadual gratuito (duas vagas por \nveículo) ou para ter o desconto de 50% no preço \nda passagem.  \n(D) A Carteira da Pessoa Idosa é uma das formas \nde comprovação de renda para poder usar o \ntransporte interestadual gratuito (três vagas por \nveículo) ou para ter o desconto de 50% no preço \nda passagem.  \n(E) A Carteira da Pessoa Idosa é uma das formas \nde comprovação de renda para poder usar apenas \no transporte estadual gratuito (duas vagas por \nveículo) ou para ter o desconto de 60% no preço \nda passagem.  \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 10 de 16 QUESTÃO 3 4 \nAnalise os itens a seguir e assinale a alternativa \ncorreta sobre os Benefícios  Eventuais.  \nI - São Benefícios Eventuais as provisões que \nvisam atender vulnerabilidades cotidianas, \nprevisíveis,  bem como Saúde e Educação.  \nII - A regulamentação dos Benefícios Eventuais \ne a organização do atendimento aos beneficiários \nsão responsabilidade  da União.  \nIII – O Desemprego é um dos Benefícios  \nEventuais, ele serve para apoiar a família em caso \nde perda de emprego do provedor principal, \nfornecendo auxílio temporário para despesas \nbásicas até a recolocação no mercado de \ntrabalho.  \nIV – É correto afirmar que as cadeiras de rodas, \nmuletas, óculos, medicamentos, pagamento de \nexames médicos, apoio financeiro para \ntratamento de saúde fora do município, \ntransporte de doentes, leites e dietas de \nprescrição especial, fraldas descartáveis, b em \ncomo outros itens, não são Benefícios Eventuais.  \n \n(A) Apenas os itens II, III e IV estão corretos.  \n(B) Apenas o item IV está correto.  \n(C) Apenas os itens I, II e IV estão corretos.  \n(D) Todos os itens estão corretos.  \n(E) Todos os itens estão incorretos."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 22: Conforme a Norma Operacional Básica da \nAssistência Social - NOB/SUAS, o Conselho \nNacional De Assistência Social – CNAS \nrecomenda ao Ministério do Desenvolvimento \nSocial e Combate à Fome as seguintes ações \nreferentes à NOB/SUAS. Exceto:",
-            "alternativas": {
-                "A": "assegurar a oferta dos serviços, programas, \nprojetos e benefícios da assistência social;",
-                "B": "divulgá -la amplamente nos diversos meios \nde comunicação;",
-                "C": "incluí -la como conteúdo do Plano Nacional \nde Capacitação;",
-                "D": "publicá -la em meio impresso e distribuí -la, \ninclusive em braile e em meio digital acessível;",
-                "E": "regulamentar os blocos de financiamento em \ntempo hábil para que os municípios possam \nelaborar os seus Planos Plurianuais – PPA;  QUESTÃO 3 6 \nOs Serviços de Acolhimento para Crianças, \nAdolescentes e Jovens, são serviços que acolhem \nCrianças e Adolescentes em medidas protetivas \npor determinação judicial, em decorrência de \nviolação de direitos (abandono, negligência, \nviolência) ou pela impossibili dade de cuidado e \nproteção por sua família. De acordo com as \ndiretrizes do Ministério do Desenvolvimento \nSocial e Combate à Fome, assinale a alternativa \ncorreta sobre Casa -Lar:  \n \n(A) Acolhimento temporário destinado a \npessoas que tenham condições de desenvolver, \nde forma independente, as atividades da vida \ndiária, mesmo que requeiram o uso de \nequipamentos de autoajuda, destinada a receber \nno máximo de 40 (quarenta) pessoas.  \n(B) Acolhimento provisório oferecido em \nunidades residenciais, destinada a receber no \nmáximo de 50 (cinquenta) pessoas, caracteriza -\nse pela oferta de acolhimento imediato e \nemergencial, distingue -se por ter um fluxo mais \nrápido, uma vez que recebe indivíduos e m \ntrânsito, com uma permanência máxima de 90 \ndias. \n(C) Acolhimento provisório oferecido em \nunidades residenciais, com capacidade máxima \npara 10 crianças e adolescentes por unidade, nas \nquais pelo menos uma pessoa ou casal trabalha \ncomo educador/cuidador residente – em uma \ncasa que não é a sua – prestando cuida dos a um \ngrupo de crianças e adolescentes afastados do \nconvívio familiar.  \n(D) Acolhimento definitivo oferecido em \nunidades residenciais, com capacidade máxima \npara 20 crianças e adolescentes por unidade, nas \nquais pelo menos uma pessoa ou casal seja \nProfessor/Enfermeiro prestando cuidados a um \ngrupo de crianças e adolescentes afasta dos do \nconvívio familiar.  \n(E) Acolhimento definitivo oferecido em \nunidades residenciais, com capacidade máxima \npara 12 crianças e adolescentes por unidade, nas \nquais pelo menos uma pessoa ou casal seja \nProfessor/Enfermeiro prestando cuidados a um \ngrupo de crianças e adolescentes afasta dos do \nconvívio familiar.  \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 11 de 16 QUESTÃO 3 7 \nPara solicitar o Benefício Eventual, o cidadão \ndeve procurar as unidades da Assistência Social \nno município ou no Distrito Federal. A oferta \ndesses benefícios também pode ocorrer por meio \nde identificação de indivíduos  e famílias em \nsituação de vulnerabili dade nos atendimentos \nfeitos pelas equipes da Assistência Social.   \nDe acordo com as alternativas abaixo, em qual \nsituação o Benefício Eventual deve ser ofertado?  \n \n(A) Saúde: Para atender às necessidades médicas \nemergenciais da família, como compra de \nmedicamentos, tratamentos urgentes ou \ninternações não cobertas por outros programas.  \n(B) Educação: Para apoiar a continuidade dos \nestudos em caso de crise financeira familiar, \nincluindo compra de uniforme e transporte \nescolar.  \n(C) Habitação: Para apoiar a reconstrução ou \nreparo da moradia em situações de desastre \nnatural ou outras emergências que comprometam \na habitação segura da família.  \n(D) Calamidade Pública: Para garantir os meios \nnecessários à sobrevivência da família e do \nindivíduo, com o objetivo de assegurar a \ndignidade e a reconstrução da autonomia dos \nindivíduos e famílias afetadas.  \n(E) Desemprego: Para apoiar a família em caso \nde perda de emprego do provedor principal, \nfornecendo auxílio temporário para despesas \nbásicas até a recolocação no mercado de \ntrabalho.  \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 3 8 \nAnalise as afirmativas abaixo atribuindo (V) para \nVerdadeira e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta. \nConstituem diretrizes da política nacional do \nidoso:  \n( ) apoio a estudos e pesquisas sobre as questões \nrelativas ao envelhecimento;  \n( ) implementação de sistema de informações que \npermita a divulgação da política, dos serviços \noferecidos, dos planos, programas e projetos em \ncada nível de governo;  \n( ) descentralização político -administrativa;  \n( ) o processo de envelhecimento diz respeito à \nsociedade em geral, devendo ser objeto de \nconhecimento e informação para todos;  \n(A) F V F F  \n(B) F V F V  \n(C) V F V V  \n(D) V V F V  \n(E) V V V F"
+                "A": "A renda total da família deve ser de, no máximo, R$ 1.200,00 por mês. (",
+                "B": "Cada pessoa da família deve ter uma renda de, no máximo, R$ 218,00 por mês. (",
+                "C": "A renda de cada pessoa da família deve ser de, no máximo, R$ 150,00 por mês. (",
+                "D": "A renda de cada pessoa da família deve ser de, no máximo, R$ 120,00 por mês. (",
+                "E": "Cada pessoa da família deve ter uma renda de, no máximo, R$ 307,00 por mês."
             },
             "resposta_correta": "C"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: 9 \nDurante uma tarde no parque, dois idosos, Maria \ne José, estavam conversando sobre os benefícios \nda Carteira da Pessoa Idosa. Maria disse a José \nque ele não tinha direito à Carteira da Pessoa \nIdosa porque recebia dois salários -mínimos por \nmês. Ela afirmou q ue a carteira só era válida para \nquem recebia um salário -mínimo ou menos. A \nafirmação de Maria está correta?",
+            "questão": "Questão 27",
+            "enunciado": "Qual das alternativas abaixo NÃO é um objetivo do Serviço de Atendimento Especializado a Famílias e Indivíduos (PAEFI)? (",
             "alternativas": {
-                "A": "Sim, Maria está correta, pois a Carteira da \nPessoa Idosa só é válida para quem recebe um \nsalário -mínimo ou menos.",
-                "B": "Não, Maria está incorreta, pois a Carteira da \nPessoa Idosa é válida para quem recebe até três \nsalários -mínimos.",
-                "C": "Não, Maria está incorreta, pois a Carteira da \nPessoa Idosa é válida para todos os idosos, \nindependentemente da renda.",
-                "D": "Sim, Maria está parcialmente correta, pois a \nCarteira da Pessoa Idosa é válida apenas para \nquem não tem renda.",
-                "E": "Não, Maria está incorreta, pois a Carteira da \nPessoa Idosa é válida para quem recebe até dois \nsalários -mínimos.  Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 12 de 16 QUESTÃO 40 \nAnalise os itens a seguir sobre o Serviço de \nAcolhimento para Pessoas com Deficiência.  \n \nI - O serviço voltado para o acolhimento de \npessoas com deficiência em situação de \ndependência é o Serviço de Acolhimento \nInstitucional em Casa de passagem. Essas \nunidades funcionam 24 horas e recebem pessoas \ncom deficiência que não têm condições de se \nsustent ar e estão afastadas de suas famílias.  \nII - Cada Residência tem capacidade para no \nmáximo 20 pessoas com deficiência e recebe \njovens e adultos entre 18 e 59 anos. São casas \nadaptadas às necessidades de seus moradores e \ncontam com uma equipe técnica especializada.   \nIII - o Serviço de Acolhimento para Pessoas com \nDeficiência tem como objetivo integrar essas \npessoas à vida em comunidade, dando à pessoa \ncom deficiência oportunidades para acesso à vida \nindependente, com autonomia e liberdade, e \ngarantindo também àqueles que p ossuem \nlimitações severas o cuidado por uma equipe de \nprofissionais habilitados e capacitados.  \nIV - O acesso ao Acolhimento Institucional para \nPessoas com Deficiência em Residência \nInclusiva pode ser feito por requisição de \nserviços da Assistência Social ou de políticas \npúblicas setoriais, do Centro de Referência \nEspecializado de Assistência Social (CREA S), \ndo Ministério Público ou do Poder Judiciário.   \n \nEstão corretos os itens.  \n(A) I, II e IV apenas.  \n(B) I, II e III apenas.  \n(C) I e IV  apenas.  \n(D) III e IV  apenas.  \n(E) Todos os itens estão corretos.  \n \n \n \n \n \n \n QUESTÃO 41 \nAnalise os itens a seguir e assinale a alternativa \ncorreta de acordo com a Lei Orgânica da \nAssistência Social – LOAS.  \nI – a igualdade de direitos no acesso ao \natendimento, sem discriminação de qualquer \nnatureza, garantindo -se equivalência às \npopulações urbanas e rurais é um dos princípios \nda assistência social;  \nII - universalização dos direitos sociais, a fim de \ntornar o destinatário da ação assistencial \nalcançável pelas demais políticas públicas é uma \ndiretriz da assistência social;  \n(A) A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.  \n(B) As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.  \n(C) A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.  \n(D) As asserções I e II são proposições falsas.  \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI."
+                "A": "Contribuir para o fortalecimento da família no seu papel de proteção. (",
+                "B": "Incluir famílias no sistema de proteção social e nos serviços públicos. (",
+                "C": "Contribuir para acabar com as violações de direitos na família. (",
+                "D": "Promover o acesso a benefícios, programas de transferência de renda e serviços socioassistenciais. (",
+                "E": "Prevenir a reincidência de violações de direitos. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 8 de 16 QUESTÃO 28 A assistência social é estruturada através do Sistema Único de Assistência Social (Suas), que abrange todo o território brasileiro. O propósito é assegurar a proteção social aos cidadãos, oferecendo suporte a pessoas, famílias e comunidades no enfrentament o de suas adversidades, por meio de serviços, benefícios, programas e projetos. Em relação ao Acolhimento Institucional para Crianças e Adolescentes, qual das seguintes afirmações está correta sobre Abrigo. (A) Abrigo: Acolhimento permanente com capacidade máxima para 50 crianças e adolescentes por unidade, localizado em áreas comerciais, com ambiente formal e padrão institucional rígido. (B) Abrigo: Acolhimento provisório com capacidade máxima para 30 crianças e adolescentes por unidade, localizado em áreas industriais, com ambiente adaptado a necessidades específicas. (C) Abrigo: Acolhimento provisório com capacidade máxima para 20 crianças e adolescentes por unidade. O serviço deve ter aspecto semelhante ao de uma residência e estar inserido na comunidade, em áreas residenciais, oferecendo ambiente acolhedor e condições institucionais para o atendimento com padrões de dignidade. (D) Abrigo: Acolhimento permanente com capacidade máxima para 10 crianças e adolescentes por unidade. O serviço deve ter aspecto semelhante ao de uma casa lar e estar inserido na comunidade, em áreas residenciais, oferecendo ambiente acolhedor e condições institucionais para o atendimento com padrões de dignidade. (E) Abrigo: Acolhimento temporário com capacidade máxima para 10 crianças e adolescentes por unidade. O serviço deve ter aspecto semelhante ao de uma casa lar e estar inserido na comunidade, em áreas residenciais, oferecendo ambiente acolhedor e condições institucionais para o atendimento com padrões de dignidade."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29",
+            "enunciado": "Qual das seguintes afirmações sobre os Benefícios Eventuais está correta? (",
+            "alternativas": {
+                "A": "Os Benefícios Eventuais são provisões da política de Assistência Social destinadas à proteção permanente de indivíduos e famílias em situações de emergência. (",
+                "B": "Os Benefícios Eventuais são provisões da política de Assistência Social destinadas à proteção de famílias que visam atender vulnerabilidades cotidianas. (",
+                "C": "Os Benefícios Eventuais são provisões da política de Assistência Social destinadas à proteção de indivíduos e famílias para o enfrentamento de uma vulnerabilidade social de caráter eventual. (",
+                "D": "Os Benefícios Eventuais são provisões da política de Assistência Social destinadas à proteção de idosos e crianças para o enfrentamento de problemas de saúde pública, bem como a Saúde, Educação, Habitação, e a Segurança. (",
+                "E": "Os Benefícios Eventuais são provisões da política de Assistência Social destinadas à proteção de famílias rurais para o enfrentamento de desastres naturais, bem como a Saúde, Educação, Habitação, e a Segurança."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30",
+            "enunciado": "Complete a lacuna de acordo com a Norma Operacional Básica da Assistência Social - NOB/SUAS. A União, os Estados, o Distrito Federal e os Municípios deverão elaborar os respectivos Planos de Assistência Social a cada 4 (quatro) anos, de acordo com ______________. (",
+            "alternativas": {
+                "A": "os períodos de elaboração do Plano Plurianual - PPA. (",
+                "B": "os períodos de revisão dos programas do CREAS e CRAS. (",
+                "C": "os ciclos de atualização das políticas do PNA (Política Nacional de Assistência Social). (",
+                "D": "os prazos definidos pelo LOAS (Lei Orgânica da Assistência Social). (",
+                "E": "as diretrizes do Sistema Nacional de Assistência Social (SNAS). Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 9 de 16 QUESTÃO 3 1 Qual é o objetivo do Programa BPC na Escola? (A) Garantir o acesso e a permanência na escola de todas as crianças e adolescentes até 21 anos, com deficiência, independentemente de receberem o Benefício de Prestação Continuada (BPC). (B) Oferecer atividades extracurriculares para crianças e adolescentes até 18 anos, com deficiência, que recebem o Benefício de Prestação Continuada (BPC). (C) Proporcionar acesso a recursos educacionais online para crianças e adolescentes até 24 anos, com deficiência, que recebem o Benefício de Prestação Continuada (BPC). (D) Garantir o acesso e a permanência na escola de crianças e adolescentes até 18 anos, com deficiência, que recebem o Benefício de Prestação Continuada (BPC). (E) Fornecer assistência financeira adicional para famílias de crianças e adolescentes até 21 anos, com deficiência, que recebem o Benefício de Prestação Continuada (BPC)."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "Assinale a alternativa incorreta de acordo com a Resolução CFESS n° 273, de 13 de março de 1993. Em relação aos Direitos e Responsabilidades Gerais do/a Assistente Social. Constituem direitos do/a assistente social: (",
+            "alternativas": {
+                "A": "livre exercício das atividades inerentes à Profissão; (",
+                "B": "participação na elaboração e gerenciamento das políticas sociais, e na formulação e implementação de programas sociais; (",
+                "C": "inviolabilidade do local de trabalho e respectivos arquivos e documentação, garantindo o sigilo profissional; (",
+                "D": "desempenhar suas atividades profissionais, com eficiência e responsabilidade, observando a legislação em vigor; (",
+                "E": "pronunciamento em matéria de sua especialidade, sobretudo quando se tratar de assuntos de interesse da população;"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "João, com 60 anos de idade e renda mensal de um salário -mínimo , deseja viajar de ônibus para visitar sua família em outro estado. Ele ouviu falar sobre a Carteira da Pessoa Idosa, mas não tem certeza de como ela pode ajudá -lo a obter benefícios no transporte interestadual. Qual das seguintes afirmações está correta sobre a Carteira da Pessoa Idosa? (",
+            "alternativas": {
+                "A": "A Carteira da Pessoa Idosa garante apenas o desconto de 50% no preço da passagem interestadual. (",
+                "B": "A Carteira da Pessoa Idosa é uma das formas de comprovação de renda para poder usar o transporte interestadual gratuito (três vagas por veículo) ou para ter o desconto de 50% no preço da passagem. (",
+                "C": "A Carteira da Pessoa Idosa é uma das formas de comprovação de renda para poder usar o transporte interestadual gratuito (duas vagas por veículo) ou para ter o desconto de 50% no preço da passagem. (",
+                "D": "A Carteira da Pessoa Idosa é uma das formas de comprovação de renda para poder usar o transporte interestadual gratuito (três vagas por veículo) ou para ter o desconto de 50% no preço da passagem. (",
+                "E": "A Carteira da Pessoa Idosa é uma das formas de comprovação de renda para poder usar apenas o transporte estadual gratuito (duas vagas por veículo) ou para ter o desconto de 60% no preço da passagem. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 10 de 16 QUESTÃO 3 4 Analise os itens a seguir e assinale a alternativa correta sobre os Benefícios Eventuais. I - São Benefícios Eventuais as provisões que visam atender vulnerabilidades cotidianas, previsíveis, bem como Saúde e Educação. II - A regulamentação dos Benefícios Eventuais e a organização do atendimento aos beneficiários são responsabilidade da União. III – O Desemprego é um dos Benefícios Eventuais, ele serve para apoiar a família em caso de perda de emprego do provedor principal, fornecendo auxílio temporário para despesas básicas até a recolocação no mercado de trabalho. IV – É correto afirmar que as cadeiras de rodas, muletas, óculos, medicamentos, pagamento de exames médicos, apoio financeiro para tratamento de saúde fora do município, transporte de doentes, leites e dietas de prescrição especial, fraldas descartáveis, b em como outros itens, não são Benefícios Eventuais. (A) Apenas os itens II, III e IV estão corretos. (B) Apenas o item IV está correto. (C) Apenas os itens I, II e IV estão corretos. (D) Todos os itens estão corretos. (E) Todos os itens estão incorretos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 35",
+            "enunciado": "Conforme a Norma Operacional Básica da Assistência Social - NOB/SUAS, o Conselho Nacional De Assistência Social – CNAS recomenda ao Ministério do Desenvolvimento Social e Combate à Fome as seguintes ações referentes à NOB/SUAS. Exceto: (",
+            "alternativas": {
+                "A": "assegurar a oferta dos serviços, programas, projetos e benefícios da assistência social; (",
+                "B": "divulgá -la amplamente nos diversos meios de comunicação; (",
+                "C": "incluí -la como conteúdo do Plano Nacional de Capacitação; (",
+                "D": "publicá -la em meio impresso e distribuí -la, inclusive em braile e em meio digital acessível; (",
+                "E": "regulamentar os blocos de financiamento em tempo hábil para que os municípios possam elaborar os seus Planos Plurianuais – PPA; QUESTÃO 3 6 Os Serviços de Acolhimento para Crianças, Adolescentes e Jovens, são serviços que acolhem Crianças e Adolescentes em medidas protetivas por determinação judicial, em decorrência de violação de direitos (abandono, negligência, violência) ou pela impossibili dade de cuidado e proteção por sua família. De acordo com as diretrizes do Ministério do Desenvolvimento Social e Combate à Fome, assinale a alternativa correta sobre Casa -Lar: (A) Acolhimento temporário destinado a pessoas que tenham condições de desenvolver, de forma independente, as atividades da vida diária, mesmo que requeiram o uso de equipamentos de autoajuda, destinada a receber no máximo de 40 (quarenta) pessoas. (B) Acolhimento provisório oferecido em unidades residenciais, destinada a receber no máximo de 50 (cinquenta) pessoas, caracteriza - se pela oferta de acolhimento imediato e emergencial, distingue -se por ter um fluxo mais rápido, uma vez que recebe indivíduos e m trânsito, com uma permanência máxima de 90 dias. (C) Acolhimento provisório oferecido em unidades residenciais, com capacidade máxima para 10 crianças e adolescentes por unidade, nas quais pelo menos uma pessoa ou casal trabalha como educador/cuidador residente – em uma casa que não é a sua – prestando cuida dos a um grupo de crianças e adolescentes afastados do convívio familiar. (D) Acolhimento definitivo oferecido em unidades residenciais, com capacidade máxima para 20 crianças e adolescentes por unidade, nas quais pelo menos uma pessoa ou casal seja Professor/Enfermeiro prestando cuidados a um grupo de crianças e adolescentes afasta dos do convívio familiar. (E) Acolhimento definitivo oferecido em unidades residenciais, com capacidade máxima para 12 crianças e adolescentes por unidade, nas quais pelo menos uma pessoa ou casal seja Professor/Enfermeiro prestando cuidados a um grupo de crianças e adolescentes afasta dos do convívio familiar. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 11 de 16 QUESTÃO 3 7 Para solicitar o Benefício Eventual, o cidadão deve procurar as unidades da Assistência Social no município ou no Distrito Federal. A oferta desses benefícios também pode ocorrer por meio de identificação de indivíduos e famílias em situação de vulnerabili dade nos atendimentos feitos pelas equipes da Assistência Social. De acordo com as alternativas abaixo, em qual situação o Benefício Eventual deve ser ofertado? (A) Saúde: Para atender às necessidades médicas emergenciais da família, como compra de medicamentos, tratamentos urgentes ou internações não cobertas por outros programas. (B) Educação: Para apoiar a continuidade dos estudos em caso de crise financeira familiar, incluindo compra de uniforme e transporte escolar. (C) Habitação: Para apoiar a reconstrução ou reparo da moradia em situações de desastre natural ou outras emergências que comprometam a habitação segura da família. (D) Calamidade Pública: Para garantir os meios necessários à sobrevivência da família e do indivíduo, com o objetivo de assegurar a dignidade e a reconstrução da autonomia dos indivíduos e famílias afetadas. (E) Desemprego: Para apoiar a família em caso de perda de emprego do provedor principal, fornecendo auxílio temporário para despesas básicas até a recolocação no mercado de trabalho."
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 24: Durante uma reunião, João e Maria discutem os \nBenefícios Eventuais previstos pela Lei Orgânica \nde Assistência Social. João pergunta a Maria em \nquais situações o benefício pode ser oferecido. \nDas alternativas abaixo, qual seria a resposta \ncorreta que Maria deve responder?",
+            "questão": "Questão 3",
+            "enunciado": "Analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para Falsa, em seguida assinale a alternativa com a sequência correta. Constituem diretrizes da política nacional do idoso: ( ) apoio a estudos e pesquisas sobre as questões relativas ao envelhecimento; ( ) implementação de sistema de informações que permita a divulgação da política, dos serviços oferecidos, dos planos, programas e projetos em cada nível de governo; ( ) descentralização político -administrativa; ( ) o processo de envelhecimento diz respeito à sociedade em geral, devendo ser objeto de conhecimento e informação para todos; (",
             "alternativas": {
-                "A": "Maria deve responder que o benefício pode \nser oferecido apenas para despesas com \nsepultamento e situações de vulnerabilidade \ntemporária.",
-                "B": "Maria deve responder que o benefício pode \nser oferecido para situações de nascimento, \nmorte, vulnerabilidade temporária e calamidade \npública.",
-                "C": "Maria deve responder que o benefício é \ndestinado apenas a situações de calamidade \npública e nascimento.",
-                "D": "Maria deve responder que o benefício pode \nser oferecido para situações de desemprego , \nmorte, educação e calamidade pública.",
-                "E": "Maria deve responder que o  benefício pode \nser oferecido para situações de nascimento, \nmorte, saude, educação e desemprego.  Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 13 de 16 QUESTÃO 4 3 \nAnalise as afirmativas abaixo atribuindo (V) para \nVerdadeira e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta.  \nDe acordo com o Art.  5º da Lei federal \n8.662/1993 - Dispõe sobre a profissão de \nAssistente Social e dá outras providências. \nConstituem atribuições privativas  do Assistente \nSocial:  \n( ) encaminhar providências, e prestar orientação \nsocial a indivíduos, grupos e à população;  \n( ) prestar assessoria e apoio aos movimentos \nsociais em matéria relacionada às políticas \nsociais, no exercício e na defesa dos direitos \ncivis, políticos e sociais da coletividade;  \n( ) dirigir serviços técnicos de Serviço Social em \nentidades públicas ou privadas;  \n( ) prestar assessoria técnico -consultiva aos \norganismos públicos ou privados, em matéria de \nServiço Social;  \n( ) realizar vistorias, perícias técnicas, laudos \npericiais, informações e pareceres sobre a \nmatéria de Serviço Social;  \n \n(A) F F V F V  \n(B) V V F V V  \n(C) V V V V V  \n(D) F V F V V  \n(E) V V F V F  \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 4 4 \nDurante uma discussão sobre a Política Nacional  \npara a Integração da Pessoa Portadora de \nDeficiência, um grupo de profissionais de \ndiferentes áreas discutiu sobre o objetivo dessa \npolítica. Qual das seguintes alternativas melhor \ndescreve o objetivo da Política Nacional para a \nIntegração da Pessoa Porta dora de Deficiência?  \n \n(A) A Política Nacional para a Integração da \nPessoa Portadora de Deficiência compreende o \nconjunto de orientações normativas que \nobjetivam garantir que as pessoas portadoras de \ndeficiência recebam assistência financeira para \ncobrir despesas médicas e de re abilitação.  \n(B) A Política Nacional para a Integração da \nPessoa Portadora de Deficiência compreende o \nconjunto de orientações normativas que \nobjetivam assegurar o pleno exercício dos \ndireitos individuais e sociais das pessoas \nportadoras de deficiência.  \n(C) A Política Nacional para a Integração da \nPessoa Portadora de Deficiência compreende o \nconjunto de orientações normativas que \nobjetivam proporcionar benefícios fiscais e \ndescontos em impostos para empresas que \ncontratam pessoas portadoras de deficiência . \n(D) A Política Nacional para a Integração da \nPessoa Portadora de Deficiência compreende o \nconjunto de orientações normativas que \nobjetivam desenvolver programas de \ntreinamento para pessoas portadoras de \ndeficiência, focando exclusivamente em \nhabilidades té cnicas e profissionais.  \n(E) A Política Nacional para a Integração da \nPessoa Portadora de Deficiência compreende o \nconjunto de orientações normativas que \nobjetivam criar centros especializados para \npessoas portadoras de deficiência, com o objetivo \nde promover atividades recreativa s e culturais.  \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 14 de 16 QUESTÃO 4 5 \nDe acordo com o Ministério do Desenvolvimento \nSocial e Combate à Fome. O Serviço de \nAcolhimento para Adultos e Famílias é um tipo \nde acolhimento temporário com uma estrutura \nque proporciona privacidade para indivíduos e \ngrupos familiares. Em relação ao “ Abrigo \ninstitucional ”, assinale a alternativa correta.  \n \n(A) Semelhante a uma Casa de passagem, com \nlimite máximo de 40 (quarenta) pessoas por \nunidade e de 3 (três) pessoas por quarto.  \n(B) Semelhante a uma residência, com limite \nmáximo de 30 (trinta) pessoas por unidade e de 4 \n(quatro) pessoas por quarto.  \n(C) Semelhante a uma Casa de passagem, com \nlimite máximo de 40 (quarenta) pessoas por \nunidade e de 2 (duas) pessoas por quarto.  \n(D) Semelhante a uma residência, com limite \nmáximo de 50 (cinquenta) pessoas por unidade e \nde 4 (quatro) pessoas por quarto.  \n(E) Semelhante a uma república, com limite \nmáximo de 20 (vinte) pessoas por unidade e de 2 \n(duas) pessoas por quarto."
+                "A": "F V F F (",
+                "B": "F V F V (",
+                "C": "V F V V (",
+                "D": "V V F V (",
+                "E": "V V V F"
             },
-            "resposta_correta": "E"
+            "resposta_correta": "C"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 25: 6 \nAnalise os itens a seguir e assinale a alternativa \ncorreta sobre o Serviço de Proteção e \nAtendimento Integral à Família (PAIF).  \n \nI - O Serviço de Proteção e Atendimento Integral \nà Família (PAIF)  é um serviço voltado para \nfamílias e pessoas que estão em situação de risco \nsocial ou tiveram direitos violados.  \nII – O PAIF, deve ser ofertado, obrigatoriamente, \nno Centro de Referência Especializado de \nAssistência Social (CREAS).  \nIII - Podem participar do PAIF famílias em \nsituação de vulnerabilidade social. São \nprioritários no atendimento os beneficiários que \natendem os critérios de participação em \nprogramas de transferência de renda e benefícios \nassistenciais e pessoas com deficiê ncia e/ou \npessoas idosas que vivenciam situações de \nfragilidade.",
+            "questão": "Questão 3",
+            "enunciado": "Durante uma tarde no parque, dois idosos, Maria e José, estavam conversando sobre os benefícios da Carteira da Pessoa Idosa. Maria disse a José que ele não tinha direito à Carteira da Pessoa Idosa porque recebia dois salários -mínimos por mês. Ela afirmou q ue a carteira só era válida para quem recebia um salário -mínimo ou menos. A afirmação de Maria está correta? (",
             "alternativas": {
-                "A": "Apenas os itens I e II estão corretos.",
-                "B": "Apenas os itens III está correto.",
-                "C": "Apenas os itens I e III estão corretos.",
-                "D": "Todos os itens estão corretos.",
-                "E": "Todos os itens estão incorretos.  QUESTÃO 4 7 \nAssinale a alternativa incorreta de acordo com a \nPolítica Nacional para a Integração da Pessoa \nPortadora de Deficiência.  \n(A) A garantia da efetividade dos programas de \nprevenção, de atendimento especializado e de \ninclusão social é uma das diretrizes da Política \nNacional para a Integração da Pessoa Portadora \nde Deficiência.  \n(B) O fomento à formação de recursos \nhumanos para adequado e eficiente atendimento \nda pessoa portadora de deficiência é uns dos \ninstrumentos da Política Nacional para a \nIntegração da Pessoa Portadora de Deficiência.  \n(C) Viabilizar a participação da pessoa \nportadora de deficiência em todas as fases de \nimplementação dessa Política, por intermédio de \nsuas entidades representativas é uma das \ndiretrizes da Política Nacional para a Integração \nda Pessoa Portadora de Deficiência.  \n(D) O acesso, o ingresso e a permanência da \npessoa portadora de deficiência em todos os \nserviços oferecidos à comunidade é um dos \nobjetivos da Política Nacional para a Integração \nda Pessoa Portadora de Deficiência.  \n(E) A fiscalização do cumprimento da \nlegislação pertinente à pessoa portadora de \ndeficiência é uns dos instrumentos da Política \nNacional para a Integração da Pessoa Portadora \nde Deficiência."
+                "A": "Sim, Maria está correta, pois a Carteira da Pessoa Idosa só é válida para quem recebe um salário -mínimo ou menos. (",
+                "B": "Não, Maria está incorreta, pois a Carteira da Pessoa Idosa é válida para quem recebe até três salários -mínimos. (",
+                "C": "Não, Maria está incorreta, pois a Carteira da Pessoa Idosa é válida para todos os idosos, independentemente da renda. (",
+                "D": "Sim, Maria está parcialmente correta, pois a Carteira da Pessoa Idosa é válida apenas para quem não tem renda. (",
+                "E": "Não, Maria está incorreta, pois a Carteira da Pessoa Idosa é válida para quem recebe até dois salários -mínimos. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 12 de 16 QUESTÃO 40 Analise os itens a seguir sobre o Serviço de Acolhimento para Pessoas com Deficiência. I - O serviço voltado para o acolhimento de pessoas com deficiência em situação de dependência é o Serviço de Acolhimento Institucional em Casa de passagem. Essas unidades funcionam 24 horas e recebem pessoas com deficiência que não têm condições de se sustent ar e estão afastadas de suas famílias. II - Cada Residência tem capacidade para no máximo 20 pessoas com deficiência e recebe jovens e adultos entre 18 e 59 anos. São casas adaptadas às necessidades de seus moradores e contam com uma equipe técnica especializada. III - o Serviço de Acolhimento para Pessoas com Deficiência tem como objetivo integrar essas pessoas à vida em comunidade, dando à pessoa com deficiência oportunidades para acesso à vida independente, com autonomia e liberdade, e garantindo também àqueles que p ossuem limitações severas o cuidado por uma equipe de profissionais habilitados e capacitados. IV - O acesso ao Acolhimento Institucional para Pessoas com Deficiência em Residência Inclusiva pode ser feito por requisição de serviços da Assistência Social ou de políticas públicas setoriais, do Centro de Referência Especializado de Assistência Social (CREA S), do Ministério Público ou do Poder Judiciário. Estão corretos os itens. (A) I, II e IV apenas. (B) I, II e III apenas. (C) I e IV apenas. (D) III e IV apenas. (E) Todos os itens estão corretos."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "ASSISTENTE SOCIAL I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 26: Assinale a alternativa incorreta.  \nCompete ao Conselho Federal de Serviço Social \n(CFESS), na qualidade de órgão normativo de \ngrau superior, o exercício das seguintes \natribuições:",
+            "questão": "Questão 41",
+            "enunciado": "Analise os itens a seguir e assinale a alternativa correta de acordo com a Lei Orgânica da Assistência Social – LOAS. I – a igualdade de direitos no acesso ao atendimento, sem discriminação de qualquer natureza, garantindo -se equivalência às populações urbanas e rurais é um dos princípios da assistência social; II - universalização dos direitos sociais, a fim de tornar o destinatário da ação assistencial alcançável pelas demais políticas públicas é uma diretriz da assistência social; (",
             "alternativas": {
-                "A": "funcionar como Tribunal Superior de Ética \nProfissional;",
-                "B": "julgar, em última instância, os recursos \ncontra as sanções impostas pelos CRESS;",
-                "C": "estabelecer os sistemas de registro dos \nprofissionais habilitados;",
-                "D": "prestar assessoria técnico -consultiva aos \norganismos públicos ou privados, em matéria de \nServiço Social;",
-                "E": "fiscalizar o exercício profissional através dos \nConselhos Federal e Regionais;  Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 15 de 16 QUESTÃO 4 9 \nA política de assistência social, que tem por \nfunções a proteção social, a vigilância \nsocioassistencial e a defesa de direitos, organiza -\nse sob a forma de sistema público não \ncontributivo, descentralizado e participativo, \ndenominado Sistema Único de Assist ência \nSocial - SUAS. Conforme a Norma Operacional \nBásica da Assistência Social - NOB/SUAS, \nassinale a alternativa correta.  \n \n(A) A defesa incondicional da liberdade, da \ndignidade da pessoa humana, da privacidade, da \ncidadania, da integridade física, moral e \npsicológica e dos direitos socioassistenciais é um \ndos objetivos do SUAS.  \n(B) Respeitar à pluralidade e diversidade \ncultural, socioeconômica, política e religiosa é \numa diretriz estruturante da gestão do SUAS.  \n(C) A descentralização político -administrativa e \ncomando único das ações em cada esfera de \ngoverno é um dos princípios organizativos do \nSUAS.  \n(D) Estabelecer a gestão integrada de serviços e \nbenefícios é um dos objetivos do SUAS.  \n(E) O desenvolvimento de capacidades e \nhabilidades para o exercício do protagonismo, da \ncidadania é uma diretriz estruturante da gestão do \nSUAS.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 50  \nAnalise as afirmativas abaixo atribuindo (V) para \nVerdadeira  e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta, de acordo \ncom os Fundamentos ético -políticos e rumos \nteóricometodológicos para fortalecer o Trabalho \nSocial com Famílias na Política Nacional de \nAssistência Social.  \nO Trabalho Social com Famílias encontra seus \nfundamentos ético -políticos na:  \n \n( ) Constituição Federal de 1988;  \n( ) Política Nacional de Integração da Pessoa com \nDeficiência;  \n( ) Lei Orgânica da Assistência Social (1993);  \n( ) Norma Operacional Básica (NOB -\nSUAS/2005);  \n( ) Política Nacional de Assistência Social \n(PNAS/2004);  \n \n(A) F V F F V  \n(B) F V F V F  \n(C) V F V V V  \n(D) V V F V F  \n(E) V V V V V  \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nASSISTENTE SOCIAL I                                                                                                                               Página 16 de 16"
+                "A": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. (",
+                "B": "As asserções I e II são proposições verdadeiras, e a II é um complemento da I. (",
+                "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. (",
+                "D": "As asserções I e II são proposições falsas. (",
+                "E": "As asserções I e II são proposições verdadeiras, mas a II não é um complemento da I."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 42",
+            "enunciado": "Durante uma reunião, João e Maria discutem os Benefícios Eventuais previstos pela Lei Orgânica de Assistência Social. João pergunta a Maria em quais situações o benefício pode ser oferecido. Das alternativas abaixo, qual seria a resposta correta que Maria deve responder? (",
+            "alternativas": {
+                "A": "Maria deve responder que o benefício pode ser oferecido apenas para despesas com sepultamento e situações de vulnerabilidade temporária. (",
+                "B": "Maria deve responder que o benefício pode ser oferecido para situações de nascimento, morte, vulnerabilidade temporária e calamidade pública. (",
+                "C": "Maria deve responder que o benefício é destinado apenas a situações de calamidade pública e nascimento. (",
+                "D": "Maria deve responder que o benefício pode ser oferecido para situações de desemprego , morte, educação e calamidade pública. (",
+                "E": "Maria deve responder que o benefício pode ser oferecido para situações de nascimento, morte, saude, educação e desemprego. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 13 de 16 QUESTÃO 4 3 Analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para Falsa, em seguida assinale a alternativa com a sequência correta. De acordo com o Art. 5º da Lei federal 8.662/1993 - Dispõe sobre a profissão de Assistente Social e dá outras providências. Constituem atribuições privativas do Assistente Social: ( ) encaminhar providências, e prestar orientação social a indivíduos, grupos e à população; ( ) prestar assessoria e apoio aos movimentos sociais em matéria relacionada às políticas sociais, no exercício e na defesa dos direitos civis, políticos e sociais da coletividade; ( ) dirigir serviços técnicos de Serviço Social em entidades públicas ou privadas; ( ) prestar assessoria técnico -consultiva aos organismos públicos ou privados, em matéria de Serviço Social; ( ) realizar vistorias, perícias técnicas, laudos periciais, informações e pareceres sobre a matéria de Serviço Social; (A) F F V F V (B) V V F V V (C) V V V V V (D) F V F V V (E) V V F V F"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4",
+            "enunciado": "Durante uma discussão sobre a Política Nacional para a Integração da Pessoa Portadora de Deficiência, um grupo de profissionais de diferentes áreas discutiu sobre o objetivo dessa política. Qual das seguintes alternativas melhor descreve o objetivo da Política Nacional para a Integração da Pessoa Porta dora de Deficiência? (",
+            "alternativas": {
+                "A": "A Política Nacional para a Integração da Pessoa Portadora de Deficiência compreende o conjunto de orientações normativas que objetivam garantir que as pessoas portadoras de deficiência recebam assistência financeira para cobrir despesas médicas e de re abilitação. (",
+                "B": "A Política Nacional para a Integração da Pessoa Portadora de Deficiência compreende o conjunto de orientações normativas que objetivam assegurar o pleno exercício dos direitos individuais e sociais das pessoas portadoras de deficiência. (",
+                "C": "A Política Nacional para a Integração da Pessoa Portadora de Deficiência compreende o conjunto de orientações normativas que objetivam proporcionar benefícios fiscais e descontos em impostos para empresas que contratam pessoas portadoras de deficiência . (",
+                "D": "A Política Nacional para a Integração da Pessoa Portadora de Deficiência compreende o conjunto de orientações normativas que objetivam desenvolver programas de treinamento para pessoas portadoras de deficiência, focando exclusivamente em habilidades té cnicas e profissionais. (",
+                "E": "A Política Nacional para a Integração da Pessoa Portadora de Deficiência compreende o conjunto de orientações normativas que objetivam criar centros especializados para pessoas portadoras de deficiência, com o objetivo de promover atividades recreativa s e culturais. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 14 de 16 QUESTÃO 4 5 De acordo com o Ministério do Desenvolvimento Social e Combate à Fome. O Serviço de Acolhimento para Adultos e Famílias é um tipo de acolhimento temporário com uma estrutura que proporciona privacidade para indivíduos e grupos familiares. Em relação ao “ Abrigo institucional ”, assinale a alternativa correta. (A) Semelhante a uma Casa de passagem, com limite máximo de 40 (quarenta) pessoas por unidade e de 3 (três) pessoas por quarto. (B) Semelhante a uma residência, com limite máximo de 30 (trinta) pessoas por unidade e de 4 (quatro) pessoas por quarto. (C) Semelhante a uma Casa de passagem, com limite máximo de 40 (quarenta) pessoas por unidade e de 2 (duas) pessoas por quarto. (D) Semelhante a uma residência, com limite máximo de 50 (cinquenta) pessoas por unidade e de 4 (quatro) pessoas por quarto. (E) Semelhante a uma república, com limite máximo de 20 (vinte) pessoas por unidade e de 2 (duas) pessoas por quarto."
             },
             "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4",
+            "enunciado": "Analise os itens a seguir e assinale a alternativa correta sobre o Serviço de Proteção e Atendimento Integral à Família (PAIF). I - O Serviço de Proteção e Atendimento Integral à Família (PAIF) é um serviço voltado para famílias e pessoas que estão em situação de risco social ou tiveram direitos violados. II – O PAIF, deve ser ofertado, obrigatoriamente, no Centro de Referência Especializado de Assistência Social (CREAS). III - Podem participar do PAIF famílias em situação de vulnerabilidade social. São prioritários no atendimento os beneficiários que atendem os critérios de participação em programas de transferência de renda e benefícios assistenciais e pessoas com deficiê ncia e/ou pessoas idosas que vivenciam situações de fragilidade. (",
+            "alternativas": {
+                "A": "Apenas os itens I e II estão corretos. (",
+                "B": "Apenas os itens III está correto. (",
+                "C": "Apenas os itens I e III estão corretos. (",
+                "D": "Todos os itens estão corretos. (",
+                "E": "Todos os itens estão incorretos. QUESTÃO 4 7 Assinale a alternativa incorreta de acordo com a Política Nacional para a Integração da Pessoa Portadora de Deficiência. (A) A garantia da efetividade dos programas de prevenção, de atendimento especializado e de inclusão social é uma das diretrizes da Política Nacional para a Integração da Pessoa Portadora de Deficiência. (B) O fomento à formação de recursos humanos para adequado e eficiente atendimento da pessoa portadora de deficiência é uns dos instrumentos da Política Nacional para a Integração da Pessoa Portadora de Deficiência. (C) Viabilizar a participação da pessoa portadora de deficiência em todas as fases de implementação dessa Política, por intermédio de suas entidades representativas é uma das diretrizes da Política Nacional para a Integração da Pessoa Portadora de Deficiência. (D) O acesso, o ingresso e a permanência da pessoa portadora de deficiência em todos os serviços oferecidos à comunidade é um dos objetivos da Política Nacional para a Integração da Pessoa Portadora de Deficiência. (E) A fiscalização do cumprimento da legislação pertinente à pessoa portadora de deficiência é uns dos instrumentos da Política Nacional para a Integração da Pessoa Portadora de Deficiência."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 48",
+            "enunciado": "Assinale a alternativa incorreta. Compete ao Conselho Federal de Serviço Social (CFESS), na qualidade de órgão normativo de grau superior, o exercício das seguintes atribuições: (",
+            "alternativas": {
+                "A": "funcionar como Tribunal Superior de Ética Profissional; (",
+                "B": "julgar, em última instância, os recursos contra as sanções impostas pelos CRESS; (",
+                "C": "estabelecer os sistemas de registro dos profissionais habilitados; (",
+                "D": "prestar assessoria técnico -consultiva aos organismos públicos ou privados, em matéria de Serviço Social; (",
+                "E": "fiscalizar o exercício profissional através dos Conselhos Federal e Regionais; Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 15 de 16 QUESTÃO 4 9 A política de assistência social, que tem por funções a proteção social, a vigilância socioassistencial e a defesa de direitos, organiza - se sob a forma de sistema público não contributivo, descentralizado e participativo, denominado Sistema Único de Assist ência Social - SUAS. Conforme a Norma Operacional Básica da Assistência Social - NOB/SUAS, assinale a alternativa correta. (A) A defesa incondicional da liberdade, da dignidade da pessoa humana, da privacidade, da cidadania, da integridade física, moral e psicológica e dos direitos socioassistenciais é um dos objetivos do SUAS. (B) Respeitar à pluralidade e diversidade cultural, socioeconômica, política e religiosa é uma diretriz estruturante da gestão do SUAS. (C) A descentralização político -administrativa e comando único das ações em cada esfera de governo é um dos princípios organizativos do SUAS. (D) Estabelecer a gestão integrada de serviços e benefícios é um dos objetivos do SUAS. (E) O desenvolvimento de capacidades e habilidades para o exercício do protagonismo, da cidadania é uma diretriz estruturante da gestão do SUAS."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ASSISTENTE SOCIAL I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 50",
+            "enunciado": "Analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para Falsa, em seguida assinale a alternativa com a sequência correta, de acordo com os Fundamentos ético -políticos e rumos teóricometodológicos para fortalecer o Trabalho Social com Famílias na Política Nacional de Assistência Social. O Trabalho Social com Famílias encontra seus fundamentos ético -políticos na: ( ) Constituição Federal de 1988; ( ) Política Nacional de Integração da Pessoa com Deficiência; ( ) Lei Orgânica da Assistência Social (1993); ( ) Norma Operacional Básica (NOB - SUAS/2005); ( ) Política Nacional de Assistência Social (PNAS/2004); (",
+            "alternativas": {
+                "A": "F V F F V (",
+                "B": "F V F V F (",
+                "C": "V F V V V (",
+                "D": "V V F V F (",
+                "E": "V V V V V Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO ASSISTENTE SOCIAL I Página 16 de 16"
+            },
+            "resposta_correta": "C"
         }
     ]
 }

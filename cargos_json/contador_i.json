@@ -4,41 +4,59 @@
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: De acordo com o texto, é correto afirmar que:",
+            "questão": "Questão 1",
+            "enunciado": "De acordo com o texto, é correto afirmar que: (",
             "alternativas": {
-                "A": "A abundância de Hélio -3 na superfície da \nLua é o único motivo de interesse das nações em \ndominar o satélite.",
-                "B": "O hidrogênio e o oxigênio derivados da água \ncongelada nos polos da Lua têm valor econômico \nmais alto do que outros elementos químicos.",
-                "C": "O Hélio -3, assim como o hidrogênio e o \noxigênio encontrados na Lua, são possíveis \nfontes de combustível.",
-                "D": "Empresas privadas e agências espaciais têm \ndesrespeitado o Tratado do Espaço Exterior, com \ntentativas de apropriação do território lunar.",
-                "E": "Atualmente, a mineração lunar é a principal \natividade realizada em missões de exploração da \nLua."
+                "A": "A abundância de Hélio -3 na superfície da Lua é o único motivo de interesse das nações em dominar o satélite. (",
+                "B": "O hidrogênio e o oxigênio derivados da água congelada nos polos da Lua têm valor econômico mais alto do que outros elementos químicos. (",
+                "C": "O Hélio -3, assim como o hidrogênio e o oxigênio encontrados na Lua, são possíveis fontes de combustível. (",
+                "D": "Empresas privadas e agências espaciais têm desrespeitado o Tratado do Espaço Exterior, com tentativas de apropriação do território lunar. (",
+                "E": "Atualmente, a mineração lunar é a principal atividade realizada em missões de exploração da Lua."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "C"
         },
         {
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: A expressão “tanto… quanto” , que ocorre no \ntrecho “[...] com implicações tanto científicas \nquanto econômicas de uma importância \nrevolucionária.” , exprime no contexto dado:",
+            "questão": "Questão 2",
+            "enunciado": "A expressão “tanto… quanto” , que ocorre no trecho “[...] com implicações tanto científicas quanto econômicas de uma importância revolucionária.” , exprime no contexto dado: (",
             "alternativas": {
-                "A": "adição.",
-                "B": "comparação.",
-                "C": "condição.",
-                "D": "concessão.",
+                "A": "adição. (",
+                "B": "comparação. (",
+                "C": "condição. (",
+                "D": "concessão. (",
                 "E": "oposição."
             },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "Analise a voz verbal no excerto dado a seguir e assinale a alternativa que o reescreve corretamente na voz passiva analítica, com o agente da passiva: “A Lua tem depósitos de Hélio -3, um isótopo raro que não é abundante na Terra.” (",
+            "alternativas": {
+                "A": "Depósitos de Hélio -3 foram tidos pela Lua, um isótopo raro que não é abundante na Terra. (",
+                "B": "Depósitos de Hélio -3, um isótopo raro que não é abundante na Terra, são tidos. (",
+                "C": "Há depósitos de Hélio -3 na Lua, um isótopo raro que não é abundante na Terra. (",
+                "D": "Tem -se depósitos de Hélio -3, um isótopo raro que não é abundante na Terra. (",
+                "E": "Depósitos de Hélio -3, um isótopo raro que não é abundante na Terra, são tidos pela Lua."
+            },
             "resposta_correta": "A"
         },
         {
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: Analise a voz verbal no excerto dado a seguir e \nassinale a alternativa que o reescreve \ncorretamente na voz passiva analítica, com o \nagente da passiva:  \n“A Lua tem depósitos de Hélio -3, um isótopo \nraro que não é abundante na Terra.”",
+            "questão": "Questão 4",
+            "enunciado": "A expressão que melhor substitui a preposição “sobre” , que ocorre no excerto “ A crescente atividade espacial também levanta preocupações sobre a governança e a gestão de possíveis conflitos no espaço.” , é (considere, quando necessário, que ocorre a contração da preposição com o artigo “a”, que sucede “sobre” no contexto dado): (",
             "alternativas": {
-                "A": "Depósitos de Hélio -3 foram tidos pela Lua, \num isótopo raro que não é abundante na Terra.",
-                "B": "Depósitos de Hélio -3, um isótopo raro que \nnão é abundante na Terra, são tidos.",
-                "C": "Há depósitos de Hélio -3 na Lua, um isótopo \nraro que não é abundante na Terra.",
-                "D": "Tem -se depósitos de Hélio -3, um isótopo \nraro que não é abundante na Terra.",
-                "E": "Depósitos de Hélio -3, um isótopo raro que \nnão é abundante na Terra, são tidos pela Lua.  \n QUESTÃO 04  \nA expressão que melhor substitui a preposição \n“sobre” , que ocorre no excerto “ A crescente \natividade espacial também levanta preocupações \nsobre a governança e a gestão de possíveis \nconflitos no espaço.” , é (considere, quando \nnecessário, que ocorre a contração da preposição \ncom o artigo “a”, que sucede “sobre” no contexto \ndado):  \n(A) mediante.  \n(B) acerca de.  \n(C) em função de.  \n(D) diante de.  \n(E) relativamente a."
+                "A": "mediante. (",
+                "B": "acerca de. (",
+                "C": "em função de. (",
+                "D": "diante de. (",
+                "E": "relativamente a."
             },
             "resposta_correta": "D"
         },
@@ -46,13 +64,14 @@
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 4: As vírgulas empregadas no excerto “[...] os \nArtemis Accords, liderados pelos EUA, \nrepresentam um conjunto de princípios para a \ncooperação internacional na exploração da Lua  \n[...]” ocorrem pelo mesmo motivo que em:",
+            "questão": "Questão 5",
+            "enunciado": "As vírgulas empregadas no excerto “[...] os Artemis Accords, liderados pelos EUA, representam um conjunto de princípios para a cooperação internacional na exploração da Lua [...]” ocorrem pelo mesmo motivo que em: (",
             "alternativas": {
-                "A": "Luna, filha mais velha do pecuarista, herdou \ntodas as terras da família.",
-                "B": "O pobre rapaz, embora não visse sentido \nnaquilo, permaneceu ali para agradar sua noiva.",
-                "C": "Desde o último verão, a garota ainda pensa \nnas oportunidades que perdeu.",
-                "D": "Veja bem, mocinho, a forma como responde \na seu pai.",
-                "E": "Antônio, Victor e João não são dançarinos \nprofissionais."
+                "A": "Luna, filha mais velha do pecuarista, herdou todas as terras da família. (",
+                "B": "O pobre rapaz, embora não visse sentido naquilo, permaneceu ali para agradar sua noiva. (",
+                "C": "Desde o último verão, a garota ainda pensa nas oportunidades que perdeu. (",
+                "D": "Veja bem, mocinho, a forma como responde a seu pai. (",
+                "E": "Antônio, Victor e João não são dançarinos profissionais."
             },
             "resposta_correta": "C"
         },
@@ -60,41 +79,44 @@
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: A palavra “interesse” , que ocorre no texto, \napresenta dois dígrafos, assim como:",
+            "questão": "Questão 6",
+            "enunciado": "A palavra “interesse” , que ocorre no texto, apresenta dois dígrafos, assim como: (",
             "alternativas": {
-                "A": "“sonda”.",
-                "B": "“pesquisa”.",
-                "C": "“também”.",
-                "D": "“crescente”.",
-                "E": "“governança”.  \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 4 de 15 QUESTÃO 07  \nNas sentenças a seguir, a pontuação está correta \napenas em:  \n(A) Os médicos disseram que, o uso do remédio, \ndeveria ser interrompido.  \n(B) As garotas pareciam inquietas com o \nocorrido. Já o garoto, indiferente.  \n(C) Tenho dúvidas quanto à saúde de meu pai? \nPor favor, explique o que ele tem.  \n(D) Os rapazes, pediram ajuda à professora.  \n(E) A irmã ficou responsável pelos doces, e \nsalgados da festa."
+                "A": "“sonda”. (",
+                "B": "“pesquisa”. (",
+                "C": "“também”. (",
+                "D": "“crescente”. (",
+                "E": "“governança”. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 4 de 15 QUESTÃO 07 Nas sentenças a seguir, a pontuação está correta apenas em: (A) Os médicos disseram que, o uso do remédio, deveria ser interrompido. (B) As garotas pareciam inquietas com o ocorrido. Já o garoto, indiferente. (C) Tenho dúvidas quanto à saúde de meu pai? Por favor, explique o que ele tem. (D) Os rapazes, pediram ajuda à professora. (E) A irmã ficou responsável pelos doces, e salgados da festa."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "A"
         },
         {
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Todas as palavras a seguir apresentam ditongo, \nexceto :",
+            "questão": "Questão 8",
+            "enunciado": "Todas as palavras a seguir apresentam ditongo, exceto : (",
             "alternativas": {
-                "A": "freio.",
-                "B": "cordilheira.",
-                "C": "antiquário.",
-                "D": "faísca.",
+                "A": "freio. (",
+                "B": "cordilheira. (",
+                "C": "antiquário. (",
+                "D": "faísca. (",
                 "E": "museu."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "C"
         },
         {
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: A sentença em que a colocação pronominal está \nincorreta, de acordo com a norma -padrão da \nlíngua portuguesa, é:",
+            "questão": "Questão 9",
+            "enunciado": "A sentença em que a colocação pronominal está incorreta, de acordo com a norma -padrão da língua portuguesa, é: (",
             "alternativas": {
-                "A": "Em tratando -se da mudança, convém \ncancelar os compromissos de hoje.",
-                "B": "Quem se pronunciou a favor do rapaz sofreu \nrepresálias.",
-                "C": "Parece -me adequado reaplicar todas as \nprovas.",
-                "D": "Não há motivo para tratá -la assim.",
-                "E": "Começou a desobedecê -la na frente de todos \nos convidados.  \n \n \n \n \n \n QUESTÃO 10 \nA única sentença em que não ocorre verbo \nimpessoal é:  \n(A) Trovejou muito ontem à tarde.  \n(B) Há muitas lendas locais na Amazônia.  \n(C) Muitos alunos haviam tirado boas notas \nnaquele semestre.  \n(D) Já amanheceu.  \n(E) Faz tempo desde a última geada.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "Em tratando -se da mudança, convém cancelar os compromissos de hoje. (",
+                "B": "Quem se pronunciou a favor do rapaz sofreu represálias. (",
+                "C": "Parece -me adequado reaplicar todas as provas. (",
+                "D": "Não há motivo para tratá -la assim. (",
+                "E": "Começou a desobedecê -la na frente de todos os convidados."
             },
             "resposta_correta": "D"
         },
@@ -102,55 +124,74 @@
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 8: 1 \nUma empresa organizará um evento e cobrará um \ndeterminado valor de ingresso por pessoa. O \nvalor do ingresso cobre os custos daquela pessoa \nno evento, e sobra um lucro para a empresa de \n30% do valor do ingresso. Entretanto, a partir do \n101° ingresso vendido, o lucro por ingresso passa \na ser de 60% (a porcentagem de lucro dos \nanteriores se mantém). Se a empresa vendeu 150 \ningressos, qual a porcentagem de lucro total da \nempresa, em relação ao total arrecadado, neste \nevento?",
+            "questão": "Questão 10",
+            "enunciado": "A única sentença em que não ocorre verbo impessoal é: (",
             "alternativas": {
-                "A": "36%.",
-                "B": "66%.",
-                "C": "90%.",
-                "D": "35%.",
+                "A": "Trovejou muito ontem à tarde. (",
+                "B": "Há muitas lendas locais na Amazônia. (",
+                "C": "Muitos alunos haviam tirado boas notas naquele semestre. (",
+                "D": "Já amanheceu. (",
+                "E": "Faz tempo desde a última geada. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1",
+            "enunciado": "Uma empresa organizará um evento e cobrará um determinado valor de ingresso por pessoa. O valor do ingresso cobre os custos daquela pessoa no evento, e sobra um lucro para a empresa de 30% do valor do ingresso. Entretanto, a partir do 101° ingresso vendido, o lucro por ingresso passa a ser de 60% (a porcentagem de lucro dos anteriores se mantém). Se a empresa vendeu 150 ingressos, qual a porcentagem de lucro total da empresa, em relação ao total arrecadado, neste evento? (",
+            "alternativas": {
+                "A": "36%. (",
+                "B": "66%. (",
+                "C": "90%. (",
+                "D": "35%. (",
                 "E": "40%."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: Num vestibular, sabe -se que há 15 vagas para \nestudantes oriundos de escola pública e 8 vagas \npara estudantes oriundos de escola particular. \nSabe -se que se candidataram 2000 pessoas para \neste vestibular, e que a proporção entre \ncandidatos oriundos de escola  pública e oriundos \nde escola particular é 3:2, então a razão de \ncandidatos oriundos de escola pública para o \nnúmero de vagas especificamente para estes \ncandidatos é:",
+            "questão": "Questão 12",
+            "enunciado": "Num vestibular, sabe -se que há 15 vagas para estudantes oriundos de escola pública e 8 vagas para estudantes oriundos de escola particular. Sabe -se que se candidataram 2000 pessoas para este vestibular, e que a proporção entre candidatos oriundos de escola pública e oriundos de escola particular é 3:2, então a razão de candidatos oriundos de escola pública para o número de vagas especificamente para estes candidatos é: (",
             "alternativas": {
-                "A": "160:1.",
-                "B": "40:1.",
-                "C": "120:1.",
-                "D": "100:1.",
-                "E": "80:1.  Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 5 de 15 QUESTÃO 13 \nA Lei de Moore prevê que o número de \ntransistores num chip eletrônico dobraria a cada \nano. No ano 2000, o número de transistores em \num determinado chip era de 100 milhões. \nSeguindo a Lei de Moore, em que ano o número \nde transistores num chip passou de 1 bilhão?  \n(A) 2003.  \n(B) 2014.  \n(C) 2024.  \n(D) 2004.  \n(E) 2005."
+                "A": "160:1. (",
+                "B": "40:1. (",
+                "C": "120:1. (",
+                "D": "100:1. (",
+                "E": "80:1. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 5 de 15 QUESTÃO 13 A Lei de Moore prevê que o número de transistores num chip eletrônico dobraria a cada ano. No ano 2000, o número de transistores em um determinado chip era de 100 milhões. Seguindo a Lei de Moore, em que ano o número de transistores num chip passou de 1 bilhão? (A) 2003. (B) 2014. (C) 2024. (D) 2004. (E) 2005."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "E"
         },
         {
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Um livro contém 400 folhas e foi impresso com \nfolhas que pesam 1,05 g cada. Além disso, o livro \ntambém tem duas capas, que somam um \ndeterminado peso. O peso total do livro é 475 \ngramas. Se a editora resolver usar folhas mais \ngrossas, que pesam 2,15 gramas, cada, qual será \no peso total do livro, considerando que as capas \nutilizadas serão as mesmas?",
+            "questão": "Questão 14",
+            "enunciado": "Um livro contém 400 folhas e foi impresso com folhas que pesam 1,05 g cada. Além disso, o livro também tem duas capas, que somam um determinado peso. O peso total do livro é 475 gramas. Se a editora resolver usar folhas mais grossas, que pesam 2,15 gramas, cada, qual será o peso total do livro, considerando que as capas utilizadas serão as mesmas? (",
             "alternativas": {
-                "A": "865 g.",
-                "B": "860 g.",
-                "C": "915 g.",
-                "D": "945 g.",
+                "A": "865 g. (",
+                "B": "860 g. (",
+                "C": "915 g. (",
+                "D": "945 g. (",
                 "E": "955 g."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "D"
         },
         {
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Um engenheiro civil sabe que os materiais \ncerâmicos absorvem água quando submersos. \nEle faz um teste colocando um determinado \nmaterial cerâmico de 1,5 kg, inicialmente seco, \nsubmerso em um recipiente com água. Um dia \ndepois, ele retira o material da água e  pesa o \nmaterial obtendo o valor de 1,75 kg. Qual a \nporcentagem de água, aproximadamente, que foi \nabsorvida pelo material em relação à massa \ninicial seca do material?",
+            "questão": "Questão 15",
+            "enunciado": "Um engenheiro civil sabe que os materiais cerâmicos absorvem água quando submersos. Ele faz um teste colocando um determinado material cerâmico de 1,5 kg, inicialmente seco, submerso em um recipiente com água. Um dia depois, ele retira o material da água e pesa o material obtendo o valor de 1,75 kg. Qual a porcentagem de água, aproximadamente, que foi absorvida pelo material em relação à massa inicial seca do material? (",
             "alternativas": {
-                "A": "13,9%.",
-                "B": "14,3%.",
-                "C": "15,5%.",
-                "D": "16,7%.",
-                "E": "13,3%.  QUESTÃO 16 \nObserve a seguinte sequência lógica numérica:  \n1, 11, 111, 1111, 11111, ...  \nSe somarmos todos os primeiros 8 elementos \ndessa sequência, qual será o algarismo das \nunidades do número resultante?  \n(A) 3.  \n(B) 8.  \n(C) 1.  \n(D) 0.  \n(E) 9."
+                "A": "13,9%. (",
+                "B": "14,3%. (",
+                "C": "15,5%. (",
+                "D": "16,7%. (",
+                "E": "13,3%. QUESTÃO 16 Observe a seguinte sequência lógica numérica: 1, 11, 111, 1111, 11111, ... Se somarmos todos os primeiros 8 elementos dessa sequência, qual será o algarismo das unidades do número resultante? (A) 3. (B) 8. (C) 1. (D) 0. (E) 9."
             },
             "resposta_correta": "B"
         },
@@ -158,13 +199,14 @@
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: Observe as seguintes proposições lógicas abaixo:  \nA: O quarto é rosa ou a sala é vermelha  \nB: A sala é vermelha e a piscina é funda  \nC: A piscina não é funda e o banheiro não é \npequeno.  \nD: A sala é vermelha ou a cozinha não é de \nmadeira.  \nSabendo -se que as proposições A e C são \nverdadeiras e as proposições B e D são falsas, \nentão, é necessariamente verdade que:",
+            "questão": "Questão 17",
+            "enunciado": "Observe as seguintes proposições lógicas abaixo: A: O quarto é rosa ou a sala é vermelha B: A sala é vermelha e a piscina é funda C: A piscina não é funda e o banheiro não é pequeno. D: A sala é vermelha ou a cozinha não é de madeira. Sabendo -se que as proposições A e C são verdadeiras e as proposições B e D são falsas, então, é necessariamente verdade que: (",
             "alternativas": {
-                "A": "O quarto é rosa.",
-                "B": "A sala é vermelha.",
-                "C": "A cozinha não é de madeira.",
-                "D": "A piscina é funda.",
-                "E": "O banheiro é pequeno.  \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 6 de 15 QUESTÃO 18 \nUm professor aplicou uma prova para uma turma \ncom 10 alunos. Após a correção das provas, ele \npercebeu que perdeu as provas de dois dos \nalunos. As notas dos 8 alunos restantes foram:  \n5, 8, 9, 7, 6, 10, 2, 7.  \nPorém, ele sabe que a média aritmética das notas \nde todos os alunos foi 7,0. Portanto, a média \naritmética dos dois alunos cujas provas foram \nperdidas foi:  \n(A) 8,0.  \n(B) 7,0.  \n(C) 9,0.  \n(D) 10,0.  \n(E) 8,5."
+                "A": "O quarto é rosa. (",
+                "B": "A sala é vermelha. (",
+                "C": "A cozinha não é de madeira. (",
+                "D": "A piscina é funda. (",
+                "E": "O banheiro é pequeno. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 6 de 15 QUESTÃO 18 Um professor aplicou uma prova para uma turma com 10 alunos. Após a correção das provas, ele percebeu que perdeu as provas de dois dos alunos. As notas dos 8 alunos restantes foram: 5, 8, 9, 7, 6, 10, 2, 7. Porém, ele sabe que a média aritmética das notas de todos os alunos foi 7,0. Portanto, a média aritmética dos dois alunos cujas provas foram perdidas foi: (A) 8,0. (B) 7,0. (C) 9,0. (D) 10,0. (E) 8,5."
             },
             "resposta_correta": "A"
         },
@@ -172,223 +214,359 @@
             "cargo": "CONTADOR I",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: A figura abaixo mostra um sistema com dois \nblocos A e B. O bloco A inicialmente tem um dos \nvértices em contato com o chão, e o bloco B está \nsuspenso por uma polia a uma altura fixa de 10 \nmetros, conforme a figura.  \n \nO bloco B então é puxado para baixo, ficando a \numa altura fixa de 5 metros. A altura do vértice \ndo bloco A passa a ser 4 metros, conforme \nmostrado na figura. A corda não estica durante o \nprocesso. Quanto será o deslocamento horizontal \ndeste vértice (medida X indicada na figura)?",
+            "questão": "Questão 19",
+            "enunciado": "A figura abaixo mostra um sistema com dois blocos A e B. O bloco A inicialmente tem um dos vértices em contato com o chão, e o bloco B está suspenso por uma polia a uma altura fixa de 10 metros, conforme a figura. O bloco B então é puxado para baixo, ficando a uma altura fixa de 5 metros. A altura do vértice do bloco A passa a ser 4 metros, conforme mostrado na figura. A corda não estica durante o processo. Quanto será o deslocamento horizontal deste vértice (medida X indicada na figura)? (",
             "alternativas": {
-                "A": "4,0 m.",
-                "B": "5,0 m.",
-                "C": "3,0 m.",
-                "D": "3,5 m.",
-                "E": "4,5 m.  \n \n \n QUESTÃO 20 \nSe um pedreiro constrói uma parede de 20 metros \nquadrados em 8 horas, quantos pedreiros serão \nnecessários para construir uma parede de 60 \nmetros quadrados em 4 horas?  \n(A) 9.  \n(B) 1.  \n(C) 2.  \n(D) 3.  \n(E) 6.  \n \nNOÇÕES DE INFORMÁTICA"
+                "A": "4,0 m. (",
+                "B": "5,0 m. (",
+                "C": "3,0 m. (",
+                "D": "3,5 m. (",
+                "E": "4,5 m."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "CONTADOR I",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Ao manipular arquivos no Prompt de Comando \ndo Windows, para exibir o conteúdo de arquivos \nde texto diretamente na tela do Prompt, deve -se \nutilizar o comando:",
+            "questão": "Questão 20",
+            "enunciado": "Se um pedreiro constrói uma parede de 20 metros quadrados em 8 horas, quantos pedreiros serão necessários para construir uma parede de 60 metros quadrados em 4 horas? (",
             "alternativas": {
-                "A": "Open.",
-                "B": "Exit.",
-                "C": "List.",
-                "D": "Format.",
+                "A": "9. (",
+                "B": "1. (",
+                "C": "2. (",
+                "D": "3. (",
+                "E": "6. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21",
+            "enunciado": "Ao manipular arquivos no Prompt de Comando do Windows, para exibir o conteúdo de arquivos de texto diretamente na tela do Prompt, deve -se utilizar o comando: (",
+            "alternativas": {
+                "A": "Open. (",
+                "B": "Exit. (",
+                "C": "List. (",
+                "D": "Format. (",
                 "E": "Type."
             },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "CONTADOR I",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 15: Considerando os programas e aplicativos que \nestão presentes no Sistema Operacional \nWindows, qual dos elementos listados abaixo \nestá associado a segurança de rede, \nproporcionando a proteção do computador contra \nacessos não autorizados:",
-            "alternativas": {
-                "A": "Windows Blok.",
-                "B": "Windows Restrit.",
-                "C": "Windows Firewall.",
-                "D": "Windows Linux.",
-                "E": "Windows Online.  \n \n \n \n \nPrefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 7 de 15 QUESTÃO 23  \nCom relação às definições de marcadores no \nMicrosoft Word, pode -se afirmar corretamente \nque: \n(A) Os marcadores apresentam alinhamento \ncentralizado fixo, não permitindo alteração do \nusuário.  \n(B) Os marcadores apresentam alinhamento à \ndireita, não permitindo alteração do usuário.  \n(C) Os marcadores são informações \nexclusivamente numéricas nos textos \ndesenvolvidos no Microsoft Word.  \n(D) Os marcadores devem ficar localizados ao \nlado da paginação do texto.  \n(E) É possível inserir imagens como marcadores \nno texto desenvolvido no Microsoft Word."
-            },
             "resposta_correta": "A"
         },
         {
             "cargo": "CONTADOR I",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: Ao editar e formatar textos no Microsoft Word, \npara dividir a janela do documento possibilitando \na leitura de duas partes diferentes do texto, pode -\nse utilizar o comando:",
+            "questão": "Questão 22",
+            "enunciado": "Considerando os programas e aplicativos que estão presentes no Sistema Operacional Windows, qual dos elementos listados abaixo está associado a segurança de rede, proporcionando a proteção do computador contra acessos não autorizados: (",
             "alternativas": {
-                "A": "Ctrl+Alt+S.",
-                "B": "Ctrl+Alt+C.",
-                "C": "Ctrl+Alt+T.",
-                "D": "Ctrl+O.",
+                "A": "Windows Blok. (",
+                "B": "Windows Restrit. (",
+                "C": "Windows Firewall. (",
+                "D": "Windows Linux. (",
+                "E": "Windows Online. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 7 de 15 QUESTÃO 23 Com relação às definições de marcadores no Microsoft Word, pode -se afirmar corretamente que: (A) Os marcadores apresentam alinhamento centralizado fixo, não permitindo alteração do usuário. (B) Os marcadores apresentam alinhamento à direita, não permitindo alteração do usuário. (C) Os marcadores são informações exclusivamente numéricas nos textos desenvolvidos no Microsoft Word. (D) Os marcadores devem ficar localizados ao lado da paginação do texto. (E) É possível inserir imagens como marcadores no texto desenvolvido no Microsoft Word."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24",
+            "enunciado": "Ao editar e formatar textos no Microsoft Word, para dividir a janela do documento possibilitando a leitura de duas partes diferentes do texto, pode - se utilizar o comando: (",
+            "alternativas": {
+                "A": "Ctrl+Alt+S. (",
+                "B": "Ctrl+Alt+C. (",
+                "C": "Ctrl+Alt+T. (",
+                "D": "Ctrl+O. (",
                 "E": "Ctrl+U."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "E"
         },
         {
             "cargo": "CONTADOR I",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: Um e -mail geralmente consiste em três partes \nprincipais: O cabeçalho, corpo e os anexos.  \nSobre o uso dos correios eletrônicos é incorreto \nafirmar que:",
+            "questão": "Questão 25",
+            "enunciado": "Um e -mail geralmente consiste em três partes principais: O cabeçalho, corpo e os anexos. Sobre o uso dos correios eletrônicos é incorreto afirmar que: (",
             "alternativas": {
-                "A": "Existem vários provedores de e -mails que \npodem ser usados.",
-                "B": "O e -mail funciona através de protocolos \ncomo SMTP.",
-                "C": "Os arquivos com extensão .DOCX não \npodem ser anexados nos e -mails, por serem \nconsiderado de alto risco.",
-                "D": "Ao transformar o conteúdo de um anexo em \narquivo .ZIP, o tamanho desse conteúdo será \nreduzido.",
-                "E": "Recomenda -se que o usuário de e -mail \nmantenha seu software antivírus atualizado.  \n CONHECIMENTOS ESPECÍFICOS"
+                "A": "Existem vários provedores de e -mails que podem ser usados. (",
+                "B": "O e -mail funciona através de protocolos como SMTP. (",
+                "C": "Os arquivos com extensão .DOCX não podem ser anexados nos e -mails, por serem considerado de alto risco. (",
+                "D": "Ao transformar o conteúdo de um anexo em arquivo .ZIP, o tamanho desse conteúdo será reduzido. (",
+                "E": "Recomenda -se que o usuário de e -mail mantenha seu software antivírus atualizado. CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: IMPORTANTE!  Para resolver as próximas \nTRÊS questões, considere as informações a \nseguir.  \nA Cia Alfa ZY apresentou as seguintes \ninformações no balancete de resultados ao \nencerrar o seu primeiro ano de atividade:  \n \nDiante das informações apresentadas, assinale a \nalternativa que indica o total do Ativo e Passivo \nda empresa:",
+            "questão": "Questão 26",
+            "enunciado": "IMPORTANTE! Para resolver as próximas TRÊS questões, considere as informações a seguir. A Cia Alfa ZY apresentou as seguintes informações no balancete de resultados ao encerrar o seu primeiro ano de atividade: Diante das informações apresentadas, assinale a alternativa que indica o total do Ativo e Passivo da empresa: (",
             "alternativas": {
-                "A": "11.216,00",
-                "B": "14.516,00",
-                "C": "15.316,00",
-                "D": "16.716,00",
+                "A": "11.216,00 (",
+                "B": "14.516,00 (",
+                "C": "15.316,00 (",
+                "D": "16.716,00 (",
                 "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 19: Com base nos dados fornecidos, assinale a \nalternativa que indica o valor da liquidez \nimediata:",
-            "alternativas": {
-                "A": "21,12%",
-                "B": "37,48%",
-                "C": "25,36%",
-                "D": "47,31%",
-                "E": "29,38%  \n \n \n \n \n \nPrefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 8 de 15 QUESTÃO 28  \nDetermine o valor estimado da Liquidez Geral e \nassinale a alternativa que o valor indica a \ncapacidade da empresa de pagar suas dívidas em \ncurto prazo:  \n(A) 51,05 %  \n(B) 41,07 %  \n(C) 31,02 %  \n(D) 21,05 %  \n(E) 11,04 %"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 20: Considere que a empresa Alpha X forneceu os \nseguintes dados financeiros ao final do exercício \nsocial de 2023. Com base nessas informações, é \nnecessário determine o valor do patrimônio \nlíquido da empresa.  \nContas a Pagar: R$ 20.000  \nCaixa: R$ 12.000  \nContas a Receber: R$ 18.000  \nDespesa com água: R$ 15.000,00  \nDívida de Longo Prazo: R$ 50.000  \nImobilizado: R$ 150.000  \nDespesa com luz: R$ 20.000  \nEstoque de mercadorias: R$ 30.000  \nCom base nos dados fornecidos, qual é o valor do \npatrimônio líquido da empresa Alpha X?",
-            "alternativas": {
-                "A": "120.000,00",
-                "B": "140.000,00",
-                "C": "160.000,00",
-                "D": "180.000,00",
-                "E": "200.000,00  \n \n \n \n \n QUESTÃO 30  \nA Empresa Solt Ltda é uma Sociedade \nEmpresária Limitada, efetuou uma venda de \nmercadorias à vista, no valor de R$ 400.000,00 \ncom incidência de ICMS à alíquota de 18%.  \nO Custo da Mercadoria Vendida foi de R$ \n195.000,00. O lucro bruto gerado por essa única \ntransação realizada pela sociedade é de:  \n(A) 328.000,00  \n(B) 140.000,00  \n(C) 133.000,00  \n(D) 148.000,00  \n(E)  104.000,00"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 21: Uma empresa adquiriu um equipamento por R$ \n100.000, com uma vida útil estimada de 5 anos e \num valor residual de R$ 10.000. Qual é o valor \nanual da depreciação utilizando o método da \nlinha reta?",
-            "alternativas": {
-                "A": "18.000,00",
-                "B": "20.000,00",
-                "C": "16.000,00",
-                "D": "14.000,00",
-                "E": "12.000,00"
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 22: A contabilidade desempenha um papel essencial \nnas organizações, oferecendo uma base sólida \npara a gestão financeira. Diante disso, assinale a \nalternativa que é objeto da contabilidade:",
+            "questão": "Questão 27",
+            "enunciado": "Com base nos dados fornecidos, assinale a alternativa que indica o valor da liquidez imediata: (",
             "alternativas": {
-                "A": "O Registro de eventos contábeis",
-                "B": "O Patrimônio das entidades",
-                "C": "A Sistematização de contas",
-                "D": "A Divulgação das informações aos usuários",
-                "E": "A demonstração dos Bens Tangíveis e \nIntangíveis da Entidade  \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 9 de 15 QUESTÃO 33  \n O propósito do auditor é elaborar documentação \nque forneça:  \n(A) Aos conselhos financeiros e de gestão para \nmelhorar a rentabilidade da empresa.  \n(B) A segurança razoável de que as \ndemonstrações contábeis estão livres de \ndistorção relevante, seja por fraude ou erro, e \nexpressar uma opinião sobre a conformidade \ncom a estrutura de relatório financeiro aplicável.  \n(C) A garantia que a empresa atenda a todos os \nrequisitos fiscais e tributários, evitando qualquer \ntipo de penalidade.  \n(D) Identificação de todas as fraudes ocorridas na \nempresa e garantir que nenhuma fraude será \ncometida no futuro.  \n(E) Revisão todos os contratos e acordos \nfirmados pela empresa para garantir que estejam \nem conformidade com as normas de \ncontabilidade."
+                "A": "21,12% (",
+                "B": "37,48% (",
+                "C": "25,36% (",
+                "D": "47,31% (",
+                "E": "29,38% Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 8 de 15 QUESTÃO 28 Determine o valor estimado da Liquidez Geral e assinale a alternativa que o valor indica a capacidade da empresa de pagar suas dívidas em curto prazo: (A) 51,05 % (B) 41,07 % (C) 31,02 % (D) 21,05 % (E) 11,04 %"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29",
+            "enunciado": "Considere que a empresa Alpha X forneceu os seguintes dados financeiros ao final do exercício social de 2023. Com base nessas informações, é necessário determine o valor do patrimônio líquido da empresa. Contas a Pagar: R$ 20.000 Caixa: R$ 12.000 Contas a Receber: R$ 18.000 Despesa com água: R$ 15.000,00 Dívida de Longo Prazo: R$ 50.000 Imobilizado: R$ 150.000 Despesa com luz: R$ 20.000 Estoque de mercadorias: R$ 30.000 Com base nos dados fornecidos, qual é o valor do patrimônio líquido da empresa Alpha X? (",
+            "alternativas": {
+                "A": "120.000,00 (",
+                "B": "140.000,00 (",
+                "C": "160.000,00 (",
+                "D": "180.000,00 (",
+                "E": "200.000,00"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30",
+            "enunciado": "A Empresa Solt Ltda é uma Sociedade Empresária Limitada, efetuou uma venda de mercadorias à vista, no valor de R$ 400.000,00 com incidência de ICMS à alíquota de 18%. O Custo da Mercadoria Vendida foi de R$ 195.000,00. O lucro bruto gerado por essa única transação realizada pela sociedade é de: (",
+            "alternativas": {
+                "A": "328.000,00 (",
+                "B": "140.000,00 (",
+                "C": "133.000,00 (",
+                "D": "148.000,00 (",
+                "E": "104.000,00"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31",
+            "enunciado": "Uma empresa adquiriu um equipamento por R$ 100.000, com uma vida útil estimada de 5 anos e um valor residual de R$ 10.000. Qual é o valor anual da depreciação utilizando o método da linha reta? (",
+            "alternativas": {
+                "A": "18.000,00 (",
+                "B": "20.000,00 (",
+                "C": "16.000,00 (",
+                "D": "14.000,00 (",
+                "E": "12.000,00"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32",
+            "enunciado": "A contabilidade desempenha um papel essencial nas organizações, oferecendo uma base sólida para a gestão financeira. Diante disso, assinale a alternativa que é objeto da contabilidade: (",
+            "alternativas": {
+                "A": "O Registro de eventos contábeis (",
+                "B": "O Patrimônio das entidades (",
+                "C": "A Sistematização de contas (",
+                "D": "A Divulgação das informações aos usuários (",
+                "E": "A demonstração dos Bens Tangíveis e Intangíveis da Entidade Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 9 de 15 QUESTÃO 33 O propósito do auditor é elaborar documentação que forneça: (A) Aos conselhos financeiros e de gestão para melhorar a rentabilidade da empresa. (B) A segurança razoável de que as demonstrações contábeis estão livres de distorção relevante, seja por fraude ou erro, e expressar uma opinião sobre a conformidade com a estrutura de relatório financeiro aplicável. (C) A garantia que a empresa atenda a todos os requisitos fiscais e tributários, evitando qualquer tipo de penalidade. (D) Identificação de todas as fraudes ocorridas na empresa e garantir que nenhuma fraude será cometida no futuro. (E) Revisão todos os contratos e acordos firmados pela empresa para garantir que estejam em conformidade com as normas de contabilidade."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 34",
+            "enunciado": "Assinale a alternativa incorreta. Concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, cujo critério de julgamento poderá ser: (",
+            "alternativas": {
+                "A": "menor preço; (",
+                "B": "maior desconto; (",
+                "C": "melhor técnica ou conteúdo artístico; (",
+                "D": "concurso (",
+                "E": "maior retorno econômico"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "De acordo com a Lei de Responsabilidade Fiscal (LRF), é proibido ao titular do Poder assumir compromissos financeiros que não possam ser integralmente quitados dentro do exercício corrente, ou que tenham pagamentos previstos para o exercício seguinte, sem a devida disponibilidad e de caixa. Essa restrição começa a partir de: (",
+            "alternativas": {
+                "A": "no último bimestre do mandato do titular (",
+                "B": "no último bimestre do exercício financeiro anterior ao término do mandato do titular (",
+                "C": "nos dois últimos bimestres do mandato do titular (",
+                "D": "no último quadrimestre do mandato do titular (",
+                "E": "nos últimos dois quadrimestres do mandato do titular"
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: Assinale a alternativa incorreta.  \nConcorrência: modalidade de licitação para \ncontratação de bens e serviços especiais e de \nobras e serviços comuns e especiais de \nengenharia, cujo critério de julgamento poderá \nser:",
+            "questão": "Questão 3",
+            "enunciado": "Sobre as disposições da Lei de Responsabilidade Fiscal, é correto afirmar que: (",
             "alternativas": {
-                "A": "menor preço;",
-                "B": "maior desconto;",
-                "C": "melhor técnica ou conteúdo artístico;",
-                "D": "concurso",
-                "E": "maior retorno econômico  \n \n \n \n \n \n \n \n QUESTÃO 3 5 \nDe acordo com a Lei de Responsabilidade Fiscal \n(LRF), é proibido ao titular do Poder assumir \ncompromissos financeiros que não possam ser \nintegralmente quitados dentro do exercício \ncorrente, ou que tenham pagamentos previstos \npara o exercício seguinte, sem a devida \ndisponibilidad e de caixa. Essa restrição começa a \npartir de:  \n \n(A) no último bimestre do mandato do titular  \n(B) no último bimestre do exercício financeiro \nanterior ao término do mandato do titular  \n(C) nos dois últimos bimestres do mandato do \ntitular  \n(D) no último quadrimestre do mandato do titular  \n(E) nos últimos dois quadrimestres do mandato \ndo titular"
+                "A": "Nos Estados, as contas do Poder Judiciário serão consolidadas pelos Governadores, junto com as contas dos outros tribunais. (",
+                "B": "Os Tribunais de Contas poderão entrar em recesso mesmo que haja contas pendentes de parecer prévio de algum Poder. (",
+                "C": "Os Tribunais de Contas terão um prazo de cento e vinte dias para emitir parecer prévio sobre as contas dos Municípios que não são capitais e têm menos de duzentos mil habitantes. (",
+                "D": "O parecer sobre as contas do Tribunal de Contas da União deve ser dado pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização do Congresso Nacional no prazo de quinze dias após o recebimento. (",
+                "E": "Os Tribunais de Contas devem emitir parecer prévio conclusivo sobre as contas no prazo de sessenta dias do recebimento, salvo disposição diferente nas constituições estaduais ou leis orgânicas municipais. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 10 de 15 QUESTÃO 3 7 Qual dos seguintes documentos é um instrumento de transparência fiscal, conforme estabelecido pela Lei de Responsabilidade Fiscal? (A) Projeto de Direção Fiscal Estratégica (B) Estratégias de Transmissão Financeira (C) Relatório Resumido de Execução Orçamentária (D) Painel de Dispêndios Operacionais (E) Demonstrativo das Despesas Públicas"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "A"
         },
         {
             "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 24: 6 \nSobre as disposições da Lei de Responsabilidade \nFiscal, é correto afirmar que:",
+            "questão": "Questão 38",
+            "enunciado": "O anexo de metas fiscais, que faz parte do projeto da Lei de Diretrizes Orçamentárias (LDO), deve incluir informações sobre: (",
             "alternativas": {
-                "A": "Nos Estados, as contas do Poder Judiciário \nserão consolidadas pelos Governadores, junto \ncom as contas dos outros tribunais.",
-                "B": "Os Tribunais de Contas poderão entrar em \nrecesso mesmo que haja contas pendentes de \nparecer prévio de algum Poder.",
-                "C": "Os Tribunais de Contas terão um prazo de \ncento e vinte dias para emitir parecer prévio \nsobre as contas dos Municípios que não são \ncapitais e têm menos de duzentos mil habitantes.",
-                "D": "O parecer sobre as contas do Tribunal de \nContas da União deve ser dado pela Comissão \nMista de Planos, Orçamentos Públicos e \nFiscalização do Congresso Nacional no prazo de \nquinze dias após o recebimento.",
-                "E": "Os Tribunais de Contas devem emitir parecer \nprévio conclusivo sobre as contas no prazo de \nsessenta dias do recebimento, salvo disposição \ndiferente nas constituições estaduais ou leis \norgânicas municipais.  \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 10 de 15 QUESTÃO 3 7 \nQual dos seguintes documentos é um \ninstrumento de transparência fiscal, conforme \nestabelecido pela Lei de Responsabilidade \nFiscal?  \n(A) Projeto de Direção Fiscal Estratégica  \n(B) Estratégias de Transmissão Financeira  \n(C) Relatório Resumido de Execução \nOrçamentária  \n(D) Painel de Dispêndios Operacionais  \n(E) Demonstrativo das Despesas Públicas"
+                "A": "As regras para o monitoramento de despesas (",
+                "B": "Demonstrativo da estimativa e compensação da renúncia de receita e da margem de expansão das despesas obrigatórias de caráter continuado. (",
+                "C": "As condições para transferências de recursos para organizações privadas (",
+                "D": "A manutenção do equilíbrio entre receitas e despesas (",
+                "E": "Os critérios e procedimentos para a limitação de empenhos"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 25: O anexo de metas fiscais, que faz parte do projeto \nda Lei de Diretrizes Orçamentárias (LDO), deve \nincluir informações sobre:",
+            "questão": "Questão 39",
+            "enunciado": "Os livros contábeis são essenciais para garantir a transparência e a conformidade fiscal das empresas. Entre os diversos livros contábeis obrigatórios e auxiliares, alguns são exigidos por lei enquanto outros são usados para auxiliar na gestão da empresa. Considerando esse assunto, julgue as afirmativas a seguir. I. O Livro Diário registra os fatos contábeis gerados pelo método de partidas dobradas em ordem rigorosamente cronológica. II. A escrituração contábil e a emissão de relatórios, peças, análises, demonstrativos e demonstrações contábeis são atribuições do gestor. III. No Livro Razão são separadas e registradas conta de mesma natureza para que seja possível haver o controle individualizado por cada conta. Está correto o que se afirma em: (",
             "alternativas": {
-                "A": "As regras para o monitoramento de despesas",
-                "B": "Demonstrativo da estimativa e compensação \nda renúncia de receita e da margem de expansão \ndas despesas obrigatórias de caráter continuado.",
-                "C": "As condições para transferências de recursos \npara organizações privadas",
-                "D": "A manutenção do equilíbrio entre receitas e \ndespesas",
-                "E": "Os critérios e procedimentos para a limitação \nde empenhos  \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 39  \nOs livros contábeis são essenciais para garantir a \ntransparência e a conformidade fiscal das \nempresas. Entre os diversos livros contábeis \nobrigatórios e auxiliares, alguns são exigidos por \nlei enquanto outros são usados para auxiliar na \ngestão da empresa.  \nConsiderando esse assunto, julgue as afirmativas \na seguir.  \n \nI. O Livro Diário registra os fatos contábeis \ngerados pelo método de partidas dobradas em \nordem rigorosamente cronológica.  \nII. A escrituração contábil e a emissão de \nrelatórios, peças, análises, demonstrativos e \ndemonstrações contábeis são atribuições do \ngestor.  \nIII. No Livro Razão são separadas e registradas \nconta de mesma natureza para que seja possível \nhaver o controle individualizado por cada conta.  \n \nEstá correto o que se afirma em:  \n \n(A) I e III, apenas.  \n(B) III, apenas.  \n(C) II, apenas.  \n(D) I e II, apenas.  \n(E) II e III, apenas."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 26: A execução orçamentária é essencial para o \ncumprimento das metas fiscais estabelecidas \npelo governo. Durante o processo de execução, é \nfundamental monitorar os gastos e receitas para \nassegurar o equilíbrio fiscal.  \nConsiderando assunto, aponte a alternativa que \nindica o instrumento é utilizado para verificar se \na execução orçamentária está alinhada com as \nmetas fiscais previstas pelo governo.  \n \n(A)Lei de Diretrizes Orçamentárias (LDO).  \n(B)Lei Orçamentária Anual (LOA)   \n(C)Relatório Resumido da Execução \nOrçamentária (RREO).  \n(D)Plano Plurianual (PPA).  \n(E)Lei de Responsabilidade Fiscal (LRF).  Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 11 de 15 QUESTÃO 41 \nOs Demonstrativos Financeiros (DF) são \nessenciais na gestão das empresas pois fornecem \numa visão detalhada e estruturada do \ndesempenho dessa. Os DF permitem que os \ngestores analisem os diferentes gastos, \nfacilitando a tomada de decisões operacionais e \nestratégicas. Contribui para a construção dos DF \na criação e adoção de um bom Plano de Contas.  \nSobre o assunto, avalie a veracidade (V) ou \nfalsidade (F) das afirmações a seguir.  \n \n(   ) O valor de mercado de uma empresa é \ndeterminado por vários fatores, como \ndesempenho financeiro, condições de mercado e \npercepção dos investidores e independe do Plano \nde Contas.  \n(   ) Se bem estruturado, o Plano de Contas \norganiza as transações financeiras de maneira \nsistemática, facilitando a análise contábil, \nelaboração de relatórios financeiros e tomada de \ndecisões gerenciais.  \n(   ) Um Plano de Contas bem estruturado \ncontribui para a precisão dos registros \nfinanceiros, eliminando a necessidade de \nauditorias internas e externas como meio de \ngarantir a confiabilidade dos dados financeiros.",
-            "alternativas": {
-                "A": "F – V – F.",
-                "B": "F – F – V.",
-                "C": "V – V – F.",
-                "D": "V – F – V.",
-                "E": "F – V – V. \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 42 \nOs mecanismos de controle financeiro são \nessenciais para garantir a saúde financeira e \nsustentabilidade das empresas. Esses incluem a \nimplementação de um Plano de Contas \ndetalhado, realização de auditorias regulares, \naplicação de controles internos rigorosos e \nanálise constante das Demonstrações \nFinanceiras.  \nConsiderando as funções dos testes e \nprocedimentos de auditorias, julgue as \nafirmativas a seguir.  \n \nI. Os testes e procedimentos de auditoria visam \nidentificar possíveis erros ou fraudes nas \nDemonstrações Financeiras, assegurando que os \nregistros contábeis sejam precisos e confiáveis, \nassegurando a credibilidade das informações \nfinanceiras da empresa.  \nII. A auditoria inclui a revisão de conformidade \ncom políticas externas, tendo como foco dos \ntestes e procedimentos a precisão e \nconfiabilidade dos registros financeiros e a \navaliação do desempenho individual de cada \nfuncionário que atua na empresa.  \nIII. Embora a avaliação da satisfação dos clientes \nseja função de pesquisas de mercado e gestão de \nrelacionamento com clientes, os testes e \nprocedimentos de auditoria se concentram \ntambém sobre esse tema, visando melhorar a \nconformidade da empresa.  \n \nEstá correto o que se afirma em:  \n \n(A) I e III, apenas.  \n(B) III, apenas.  \n(C) I, apenas.  \n(D) I e II, apenas.  \n(E) II e III, apenas.  \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 12 de 15 QUESTÃO 43 \nA Lei Orçamentária Anual (LOA) e a Lei de \nDiretrizes Orçamentárias (LDO) são \ninstrumentos da gestão fiscal e orçamentária do \nsetor público. Enquanto, a LOA detalha a \n_____________________ para o ano, \nespecificando os valores destinados a cada área \ngovernam ental, a LDO estabelece \n_____________________, garantindo que os \ngastos públicos estejam alinhados com as \npolíticas econômicas e sociais do governo.  \n \nAssinale a alternativa que correta e \nsequencialmente preenche as lacunas presentes \nno texto.  \n \n(A) previsão de investimentos do setor público / \nobjetivos e metas de contratação de servidores \npara exercícios subsequentes.  \n(B) previsão de oferta de serviços públicos / \nmeios de captação de recursos para \nfinanciamento de serviços em exercícios \nsubsequentes.  \n(C) previsão de receitas e autoriza despesas / \nmetas e prioridades para o exercício financeiro \nsubsequente.  \n(D) previsão de pagamento de despesas e juros / \nobjetivos e metas de investimentos em obras \npúblicas subsequentes.  \n(E) previsão de crescimento do emprego e renda \n/ objetivos e metas de políticas econômicas para \nexercício subsequente.  \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 4 4 \nUm pesquisador decidiu se tornar empreendedor \ne abrir sua própria empresa. No processo, esse \ntomou as seguintes decisões a partir de \n05/01/202X:  \nAbriu uma conta Pessoa Jurídica e depositou R$ \n1.000 em um banco digital em 05/01/202X.  \nAdquiriu a vista uma instalação no valor de R$ \n700 em 10/01/202X.  \nEm 15/01/202X, adquiriu Móveis e Utensílios no \nvalor de R$ 150 para pagamento a prazo em seis \nparcelas iguais mediante emissão de Nota \nPromissória.  \nEm 20/01/202X, contratou um empréstimo de R$ \n300, com juros de 10% a. a. sendo os pagamentos \nefetuados apenas no início de cada ano \nsubsequente.  \nConsiderando essas informações e que não houve \nmais movimentações, assinale a alternativa que \naponta, respectivamente, o valor do Caixa da \nempresa e de seu Ativo Total no final de 202X.  \n \n(A) R$ 500 e R$ 1.500.  \n(B) R$ 400 e R$ 1.450.  \n(C) R$ 600 e R$ 1.450.  \n(D) R$ 300 e R$ 1.350.  \n(E) R$ 650 e R$ 1.400."
+                "A": "I e III, apenas. (",
+                "B": "III, apenas. (",
+                "C": "II, apenas. (",
+                "D": "I e II, apenas. (",
+                "E": "II e III, apenas."
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 27: 5 \nAnalise os itens a seguir de acordo com a Lei \nComplementar n.º 101/2000.  \nI – Entende -se como despesas de custeio  – o \nsomatório das receitas tributárias, de \ncontribuições, patrimoniais, industriais, \nagropecuárias, de serviços, transferências \ncorrentes  e outras receitas também correntes.  \nII – Entende -se como empresa controlada: \nsociedade cuja maioria do capital social com \ndireito a voto pertença, direta ou indiretamente, a \nente da Federação;",
+            "questão": "Questão 40",
+            "enunciado": "A execução orçamentária é essencial para o cumprimento das metas fiscais estabelecidas pelo governo. Durante o processo de execução, é fundamental monitorar os gastos e receitas para assegurar o equilíbrio fiscal. Considerando assunto, aponte a alternativa que indica o instrumento é utilizado para verificar se a execução orçamentária está alinhada com as metas fiscais previstas pelo governo. (",
             "alternativas": {
-                "A": "A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.",
-                "B": "As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.",
-                "C": "A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.",
-                "D": "As asserções I e II são proposições falsas.",
-                "E": "As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 13 de 15 QUESTÃO 4 6 \nEm relação aso Atos de Improbidade \nAdministrativa. Indique “V” para verdadeiro e \n“F” para falso.  \n \n( ) Constitui ato de improbidade administrativa \nque atenta contra os princípios da \nadministração pública  - receber vantagem \neconômica de qualquer natureza, direta ou \nindiretamente, para omitir ato de ofício, \nprovidência ou declaração a que esteja obrigado.  \n \n( ) Constitui ato de improbidade administrativa \nimportando em enriquecimento ilícito  -  agir \nilicitamente na arrecadação de tributo ou de \nrenda, bem como no que diz respeito à \nconservação do patrimônio público;  \n \n ( ) Constitui ato de improbidade administrativa \nque causa lesão ao erário   - deixar de prestar \ncontas quando esteja obrigado a fazê -lo, desde \nque disponha das condições para isso, com vistas \na ocultar irregularidades;  \n(A) F, F, F  \n(B) V, V, V  \n(C) V, V, F  \n(D) V, F, V  \n(E) F, V, V"
+                "A": "Lei de Diretrizes Orçamentárias (LDO). (",
+                "B": "Lei Orçamentária Anual (LOA) (",
+                "C": "Relatório Resumido da Execução Orçamentária (RREO). (",
+                "D": "Plano Plurianual (PPA). (",
+                "E": "Lei de Responsabilidade Fiscal (LRF). Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 11 de 15 QUESTÃO 41 Os Demonstrativos Financeiros (DF) são essenciais na gestão das empresas pois fornecem uma visão detalhada e estruturada do desempenho dessa. Os DF permitem que os gestores analisem os diferentes gastos, facilitando a tomada de decisões operacionais e estratégicas. Contribui para a construção dos DF a criação e adoção de um bom Plano de Contas. Sobre o assunto, avalie a veracidade (V) ou falsidade (F) das afirmações a seguir. ( ) O valor de mercado de uma empresa é determinado por vários fatores, como desempenho financeiro, condições de mercado e percepção dos investidores e independe do Plano de Contas. ( ) Se bem estruturado, o Plano de Contas organiza as transações financeiras de maneira sistemática, facilitando a análise contábil, elaboração de relatórios financeiros e tomada de decisões gerenciais. ( ) Um Plano de Contas bem estruturado contribui para a precisão dos registros financeiros, eliminando a necessidade de auditorias internas e externas como meio de garantir a confiabilidade dos dados financeiros. (A) F – V – F. (B) F – F – V. (C) V – V – F. (D) V – F – V. (E) F – V – V."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 42",
+            "enunciado": "Os mecanismos de controle financeiro são essenciais para garantir a saúde financeira e sustentabilidade das empresas. Esses incluem a implementação de um Plano de Contas detalhado, realização de auditorias regulares, aplicação de controles internos rigorosos e análise constante das Demonstrações Financeiras. Considerando as funções dos testes e procedimentos de auditorias, julgue as afirmativas a seguir. I. Os testes e procedimentos de auditoria visam identificar possíveis erros ou fraudes nas Demonstrações Financeiras, assegurando que os registros contábeis sejam precisos e confiáveis, assegurando a credibilidade das informações financeiras da empresa. II. A auditoria inclui a revisão de conformidade com políticas externas, tendo como foco dos testes e procedimentos a precisão e confiabilidade dos registros financeiros e a avaliação do desempenho individual de cada funcionário que atua na empresa. III. Embora a avaliação da satisfação dos clientes seja função de pesquisas de mercado e gestão de relacionamento com clientes, os testes e procedimentos de auditoria se concentram também sobre esse tema, visando melhorar a conformidade da empresa. Está correto o que se afirma em: (",
+            "alternativas": {
+                "A": "I e III, apenas. (",
+                "B": "III, apenas. (",
+                "C": "I, apenas. (",
+                "D": "I e II, apenas. (",
+                "E": "II e III, apenas. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 12 de 15 QUESTÃO 43 A Lei Orçamentária Anual (LOA) e a Lei de Diretrizes Orçamentárias (LDO) são instrumentos da gestão fiscal e orçamentária do setor público. Enquanto, a LOA detalha a _____________________ para o ano, especificando os valores destinados a cada área governam ental, a LDO estabelece _____________________, garantindo que os gastos públicos estejam alinhados com as políticas econômicas e sociais do governo. Assinale a alternativa que correta e sequencialmente preenche as lacunas presentes no texto. (A) previsão de investimentos do setor público / objetivos e metas de contratação de servidores para exercícios subsequentes. (B) previsão de oferta de serviços públicos / meios de captação de recursos para financiamento de serviços em exercícios subsequentes. (C) previsão de receitas e autoriza despesas / metas e prioridades para o exercício financeiro subsequente. (D) previsão de pagamento de despesas e juros / objetivos e metas de investimentos em obras públicas subsequentes. (E) previsão de crescimento do emprego e renda / objetivos e metas de políticas econômicas para exercício subsequente."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4",
+            "enunciado": "Um pesquisador decidiu se tornar empreendedor e abrir sua própria empresa. No processo, esse tomou as seguintes decisões a partir de 05/01/202X: Abriu uma conta Pessoa Jurídica e depositou R$ 1.000 em um banco digital em 05/01/202X. Adquiriu a vista uma instalação no valor de R$ 700 em 10/01/202X. Em 15/01/202X, adquiriu Móveis e Utensílios no valor de R$ 150 para pagamento a prazo em seis parcelas iguais mediante emissão de Nota Promissória. Em 20/01/202X, contratou um empréstimo de R$ 300, com juros de 10% a. a. sendo os pagamentos efetuados apenas no início de cada ano subsequente. Considerando essas informações e que não houve mais movimentações, assinale a alternativa que aponta, respectivamente, o valor do Caixa da empresa e de seu Ativo Total no final de 202X. (",
+            "alternativas": {
+                "A": "R$ 500 e R$ 1.500. (",
+                "B": "R$ 400 e R$ 1.450. (",
+                "C": "R$ 600 e R$ 1.450. (",
+                "D": "R$ 300 e R$ 1.350. (",
+                "E": "R$ 650 e R$ 1.400."
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "CONTADOR I",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 28: 7 \nA Lei do Orçamento conterá a discriminação da \nreceita e despesa de forma a evidenciar a \npolítica econômica financeira e o programa de \ntrabalho do Governo, obedecidos os princípios \nde unidade universalidade e anualidade. \nIntegrarão  a Lei de Orçamento, exceto:",
+            "questão": "Questão 4",
+            "enunciado": "Analise os itens a seguir de acordo com a Lei Complementar n.º 101/2000. I – Entende -se como despesas de custeio – o somatório das receitas tributárias, de contribuições, patrimoniais, industriais, agropecuárias, de serviços, transferências correntes e outras receitas também correntes. II – Entende -se como empresa controlada: sociedade cuja maioria do capital social com direito a voto pertença, direta ou indiretamente, a ente da Federação; (",
             "alternativas": {
-                "A": "Quadro demonstrativo da Receita e \nDespesa segundo as Categorias Econômicas;",
-                "B": "Quadros demonstrativos da receita e planos \nde aplicação dos fundos tributários;",
-                "C": "Quadro das dotações por órgãos do \nGoverno e da Administração;",
-                "D": "Quadro discriminativo da receita por fontes \ne respectiva legislação;",
-                "E": "Sumário geral da receita por fontes e da \ndespesa por funções do Governo;  \n \n QUESTÃO 4 8 \nDe acordo com a Lei Federal n.º 4.320/1964, \nassinale a alternativa incorreta.  \n \n(A) São Receitas Correntes as receitas tributária, \nde contribuições, patrimonial, agropecuária, \nindustrial, de serviços e outras e, ainda, as \nprovenientes de recursos financeiros recebidos de \noutras pessoas de direito público ou privado, \nquando destinadas a at ender despesas \nclassificáveis em Despesas Correntes.  \n \n(B) São Receitas de Capital as provenientes da \nrealização de recursos financeiros oriundos de \nconstituição de dívidas; da conversão, em \nespécie, de bens e direitos; os recursos recebidos \nde outras pessoas de direito público ou privado, \ndestinados a atender despesas classificáveis em \nDespesas de Capital e, ainda, o  superavit  do \nOrçamento Corrente.       \n \n(C) Classificam -se como Despesas de Custeio as \ndotações para manutenção de serviços \nanteriormente criados, inclusive as destinadas a \natender a obras de conservação e adaptação de \nbens imóveis.  \n \n(D) Classificam -se como investimentos as \ndotações para o planejamento e a execução de \nobras, inclusive as destinadas à aquisição de \nimóveis considerados necessários à realização \ndestas últimas, bem como para os programas \nespeciais de trabalho, aquisição de ins talações, \nequipamentos e material permanente e \nconstituição ou aumento do capital de empresas \nque não sejam de caráter comercial ou financeiro.  \n \n(E) Classificam -se como Transferências de \nCapital as  dotações para despesas as quais não \ncorresponda contraprestação direta em bens ou \nserviços, inclusive para contribuições e \nsubvenções destinadas a atender à manutenção de \noutras entidades de direito público ou privado.  \n \n \n \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 14 de 15 QUESTÃO 4 9 \nAs disposições da Lei Federal n.º 8.429/1992, são \naplicáveis, no que couber, àquele que, mesmo \nnão sendo agente público, induza ou concorra \ndolosamente para a prática do ato de \nimprobidade.     \nAssinale a alternativa correta conforme a Lei \nFederal n.º 8.429/1992.  \n(A) Os sócios, cotistas, diretores e colaboradores \nde uma pessoa jurídica de direito privado são \nresponsáveis pelos atos de improbidade da \nempresa independentemente de sua participação \ndireta ou benefícios pessoais.  \n(B) Os sócios e diretores de uma pessoa jurídica \nde direito privado podem ser responsabilizados \npor atos de improbidade da empresa apenas se \nhouver participação direta e benefícios diretos \ncomprovados, caso em que responderão nos \nlimites da sua participaçã o, mas não os \ncolaboradores.  \n(C) Os sócios, cotistas, diretores e colaboradores \nde uma pessoa jurídica de direito privado não são \nresponsáveis pelos atos de improbidade da \nempresa, independentemente da sua participação \nou benefícios recebidos.  \n(D) Apenas os sócios têm responsabilidade pelos \natos de improbidade da pessoa jurídica de direito \nprivado, desde que possam ser comprovados \nbenefícios diretos.  \n(E) Os sócios, os cotistas, os diretores e os \ncolaboradores de pessoa jurídica de direito \nprivado não respondem pelo ato de improbidade \nque venha a ser imputado à pessoa jurídica, salvo \nse, comprovadamente, houver participação e \nbenefícios diretos, caso em  que responderão nos \nlimites da sua participação.  \n \n \n \n \n \n \n QUESTÃO 50 \nAnalise os itens abaixo de acordo com a Lei \n14.133, e em seguida assinale a alternativa \ncorreta.  \nI - Considera -se órgão: unidade de atuação dotada \nde personalidade jurídica;  \nII - Considera -se Administração Pública: órgão \nou entidade por meio do qual a Administração \nPública atua;  \nIII - Considera -se Autoridade: agente público \ndotado de poder de decisão;  \n \n(A) Apenas os itens II e III estão corretos.  \n(B) Apenas o item I está correto.  \n(C) Apenas os itens  I e III estão incorretos.  \n(D) Apenas o item III está correto.  \n(E) Todos os itens estão corretos.  \n \n \n \n Prefeitura Municipal de Pedreira  – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO  \n \nCONTADOR I                                                                                                                                               Página 15 de 15"
+                "A": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. (",
+                "B": "As asserções I e II são proposições verdadeiras, e a II é um complemento da I. (",
+                "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. (",
+                "D": "As asserções I e II são proposições falsas. (",
+                "E": "As asserções I e II são proposições verdadeiras, mas a II não é um complemento da I. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 13 de 15 QUESTÃO 4 6 Em relação aso Atos de Improbidade Administrativa. Indique “V” para verdadeiro e “F” para falso. ( ) Constitui ato de improbidade administrativa que atenta contra os princípios da administração pública - receber vantagem econômica de qualquer natureza, direta ou indiretamente, para omitir ato de ofício, providência ou declaração a que esteja obrigado. ( ) Constitui ato de improbidade administrativa importando em enriquecimento ilícito - agir ilicitamente na arrecadação de tributo ou de renda, bem como no que diz respeito à conservação do patrimônio público; ( ) Constitui ato de improbidade administrativa que causa lesão ao erário - deixar de prestar contas quando esteja obrigado a fazê -lo, desde que disponha das condições para isso, com vistas a ocultar irregularidades; (A) F, F, F (B) V, V, V (C) V, V, F (D) V, F, V (E) F, V, V"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4",
+            "enunciado": "A Lei do Orçamento conterá a discriminação da receita e despesa de forma a evidenciar a política econômica financeira e o programa de trabalho do Governo, obedecidos os princípios de unidade universalidade e anualidade. Integrarão a Lei de Orçamento, exceto: (",
+            "alternativas": {
+                "A": "Quadro demonstrativo da Receita e Despesa segundo as Categorias Econômicas; (",
+                "B": "Quadros demonstrativos da receita e planos de aplicação dos fundos tributários; (",
+                "C": "Quadro das dotações por órgãos do Governo e da Administração; (",
+                "D": "Quadro discriminativo da receita por fontes e respectiva legislação; (",
+                "E": "Sumário geral da receita por fontes e da despesa por funções do Governo;"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4",
+            "enunciado": "De acordo com a Lei Federal n.º 4.320/1964, assinale a alternativa incorreta. (",
+            "alternativas": {
+                "A": "São Receitas Correntes as receitas tributária, de contribuições, patrimonial, agropecuária, industrial, de serviços e outras e, ainda, as provenientes de recursos financeiros recebidos de outras pessoas de direito público ou privado, quando destinadas a at ender despesas classificáveis em Despesas Correntes. (",
+                "B": "São Receitas de Capital as provenientes da realização de recursos financeiros oriundos de constituição de dívidas; da conversão, em espécie, de bens e direitos; os recursos recebidos de outras pessoas de direito público ou privado, destinados a atender despesas classificáveis em Despesas de Capital e, ainda, o superavit do Orçamento Corrente. (",
+                "C": "Classificam -se como Despesas de Custeio as dotações para manutenção de serviços anteriormente criados, inclusive as destinadas a atender a obras de conservação e adaptação de bens imóveis. (",
+                "D": "Classificam -se como investimentos as dotações para o planejamento e a execução de obras, inclusive as destinadas à aquisição de imóveis considerados necessários à realização destas últimas, bem como para os programas especiais de trabalho, aquisição de ins talações, equipamentos e material permanente e constituição ou aumento do capital de empresas que não sejam de caráter comercial ou financeiro. (",
+                "E": "Classificam -se como Transferências de Capital as dotações para despesas as quais não corresponda contraprestação direta em bens ou serviços, inclusive para contribuições e subvenções destinadas a atender à manutenção de outras entidades de direito público ou privado. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 14 de 15 QUESTÃO 4 9 As disposições da Lei Federal n.º 8.429/1992, são aplicáveis, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra dolosamente para a prática do ato de improbidade. Assinale a alternativa correta conforme a Lei Federal n.º 8.429/1992. (A) Os sócios, cotistas, diretores e colaboradores de uma pessoa jurídica de direito privado são responsáveis pelos atos de improbidade da empresa independentemente de sua participação direta ou benefícios pessoais. (B) Os sócios e diretores de uma pessoa jurídica de direito privado podem ser responsabilizados por atos de improbidade da empresa apenas se houver participação direta e benefícios diretos comprovados, caso em que responderão nos limites da sua participaçã o, mas não os colaboradores. (C) Os sócios, cotistas, diretores e colaboradores de uma pessoa jurídica de direito privado não são responsáveis pelos atos de improbidade da empresa, independentemente da sua participação ou benefícios recebidos. (D) Apenas os sócios têm responsabilidade pelos atos de improbidade da pessoa jurídica de direito privado, desde que possam ser comprovados benefícios diretos. (E) Os sócios, os cotistas, os diretores e os colaboradores de pessoa jurídica de direito privado não respondem pelo ato de improbidade que venha a ser imputado à pessoa jurídica, salvo se, comprovadamente, houver participação e benefícios diretos, caso em que responderão nos limites da sua participação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONTADOR I",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 50",
+            "enunciado": "Analise os itens abaixo de acordo com a Lei 14.133, e em seguida assinale a alternativa correta. I - Considera -se órgão: unidade de atuação dotada de personalidade jurídica; II - Considera -se Administração Pública: órgão ou entidade por meio do qual a Administração Pública atua; III - Considera -se Autoridade: agente público dotado de poder de decisão; (",
+            "alternativas": {
+                "A": "Apenas os itens II e III estão corretos. (",
+                "B": "Apenas o item I está correto. (",
+                "C": "Apenas os itens I e III estão incorretos. (",
+                "D": "Apenas o item III está correto. (",
+                "E": "Todos os itens estão corretos. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO CONTADOR I Página 15 de 15"
             },
             "resposta_correta": "C"
         }

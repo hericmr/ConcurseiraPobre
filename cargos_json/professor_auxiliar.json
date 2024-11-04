@@ -4,13 +4,14 @@
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: Segundo a reportagem, os escritos \nmatemáticos de Muhammad ibn Mūsā al -\nKhwārizmī:",
+            "questão": "Questão 1",
+            "enunciado": "Segundo a reportagem, os escritos matemáticos de Muhammad ibn Mūsā al - Khwārizmī: (",
             "alternativas": {
-                "A": "Influenciaram indiretamente a \nconceituação dos algorismos no Ocidente.",
-                "B": "Motivaram a construção da Casa da \nSabedoria, em Bagdá.",
-                "C": "Apresentaram o conceito subjacente de \nalgoritmo, por meio da resolução de equações \nmatemáticas.",
-                "D": "Foram a base de livros didáticos de \ndiversas disciplinas nas universidades \neuropeias até o século XVI.",
-                "E": "Introduziram os algoritmos utilizados \natualmente na tecnologia de computação."
+                "A": "Influenciaram indiretamente a conceituação dos algorismos no Ocidente. (",
+                "B": "Motivaram a construção da Casa da Sabedoria, em Bagdá. (",
+                "C": "Apresentaram o conceito subjacente de algoritmo, por meio da resolução de equações matemáticas. (",
+                "D": "Foram a base de livros didáticos de diversas disciplinas nas universidades europeias até o século XVI. (",
+                "E": "Introduziram os algoritmos utilizados atualmente na tecnologia de computação."
             },
             "resposta_correta": "C"
         },
@@ -18,13 +19,14 @@
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: Analise os excertos a seguir, retirados do texto:  \n \nI. Essa se tornou sua obra mais importante.  \n \nII. Ele era um estudioso da Casa da Sabedoria \n(Bayt al -Hikmah) em Bagdá.  \n \nIII. Sua obra foi concebida para ser uma \nferramenta prática de ensino.  \n \nNas sentenças apresentadas ocorrem diferentes \ntipos de pronomes. Em relação ao texto, a \nfunção desempenhada por todos esses \npronomes é de:",
+            "questão": "Questão 2",
+            "enunciado": "Analise os excertos a seguir, retirados do texto: I. Essa se tornou sua obra mais importante. II. Ele era um estudioso da Casa da Sabedoria (Bayt al -Hikmah) em Bagdá. III. Sua obra foi concebida para ser uma ferramenta prática de ensino. Nas sentenças apresentadas ocorrem diferentes tipos de pronomes. Em relação ao texto, a função desempenhada por todos esses pronomes é de: (",
             "alternativas": {
-                "A": "anáfora, com a retomada de referentes \nmencionados no texto.",
-                "B": "anáfora, com a introdução de novos \nreferentes no texto.",
-                "C": "catáfora, com a retomada de referentes \nmencionados no texto.",
-                "D": "catáfora, com a introdução de novos \nreferentes no texto.",
-                "E": "paráfrase, com a recorrência de conteúdos \ncomo forma de sequenciação textual.  \n \n QUESTÃO 03 \nA alternativa que melhor reescreve a definição \nde algoritmo dada no texto — “um \nprocedimento para resolver um problema \nmatemático em um número finito de etapas; \num procedimento passo a passo para resolver \num problema” —, de maneira objetiva e clara, \né: \n(A) Um processo com quantidade ilimitada de \netapas voltado à resolução de problemas \nmatemáticos.  \n(B) Um método com quantidade limitada de \netapas voltado à resolução de um problema \nmatemático.  \n(C) Um conjunto irrestrito de ações que \nobjetivam a resolução de problemas de \ndiferentes naturezas.   \n(D) O desenvolvimento de problemas \nmatemáticos através de um número limitado de \netapas.   \n(E) A ação voltada à resolução de problemas \nquaisquer, desenvolvida em um número \nilimitado de etapas."
+                "A": "anáfora, com a retomada de referentes mencionados no texto. (",
+                "B": "anáfora, com a introdução de novos referentes no texto. (",
+                "C": "catáfora, com a retomada de referentes mencionados no texto. (",
+                "D": "catáfora, com a introdução de novos referentes no texto. (",
+                "E": "paráfrase, com a recorrência de conteúdos como forma de sequenciação textual."
             },
             "resposta_correta": "A"
         },
@@ -32,12 +34,28 @@
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: A palavra “polímata”, em seu sentido utilizado \npara descrever Muhammad ibn Mūsā al -\nKhwārizmī — “o cientista e polímata persa  \n(...)” — é um sinônimo de:",
+            "questão": "Questão 3",
+            "enunciado": "A alternativa que melhor reescreve a definição de algoritmo dada no texto — “um procedimento para resolver um problema matemático em um número finito de etapas; um procedimento passo a passo para resolver um problema” —, de maneira objetiva e clara, é: (",
             "alternativas": {
-                "A": "néscio.",
-                "B": "polígrafo.",
-                "C": "prodígio.",
-                "D": "portento.",
+                "A": "Um processo com quantidade ilimitada de etapas voltado à resolução de problemas matemáticos. (",
+                "B": "Um método com quantidade limitada de etapas voltado à resolução de um problema matemático. (",
+                "C": "Um conjunto irrestrito de ações que objetivam a resolução de problemas de diferentes naturezas. (",
+                "D": "O desenvolvimento de problemas matemáticos através de um número limitado de etapas. (",
+                "E": "A ação voltada à resolução de problemas quaisquer, desenvolvida em um número ilimitado de etapas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4",
+            "enunciado": "A palavra “polímata”, em seu sentido utilizado para descrever Muhammad ibn Mūsā al - Khwārizmī — “o cientista e polímata persa (...)” — é um sinônimo de: (",
+            "alternativas": {
+                "A": "néscio. (",
+                "B": "polígrafo. (",
+                "C": "prodígio. (",
+                "D": "portento. (",
                 "E": "estulto."
             },
             "resposta_correta": "B"
@@ -46,13 +64,29 @@
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 4: O conjunto de palavras a seguir, retiradas do \ntexto, que apresenta somente palavras \nformadas por processos de composição é:",
+            "questão": "Questão 5",
+            "enunciado": "O conjunto de palavras a seguir, retiradas do texto, que apresenta somente palavras formadas por processos de composição é: (",
             "alternativas": {
-                "A": "procedimento; subjacente; decimal.",
-                "B": "conceito; aritmética; islâmico.",
-                "C": "trigonometria; hindu -arábico; geografia.",
-                "D": "astronomia; subtração; multiplicação.",
-                "E": "universidades; tecnologia; integrantes.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 4 de 15 QUESTÃO 06 \nNas sentenças a seguir, ocorre verbo abundante \napenas em:  \n(A) Os materiais escolares foram comprados \nlogo no início do mês.  \n(B) Pensei que tivesse entregado os relatórios \nde que falei.   \n(C) A Rosa me contou sobre tudo o que \naconteceu.   \n(D) Minha mãe foi presenteada com perfumes \ne flores.   \n(E) Os livros transportam seus leitores para \noutros tempos."
+                "A": "procedimento; subjacente; decimal. (",
+                "B": "conceito; aritmética; islâmico. (",
+                "C": "trigonometria; hindu -arábico; geografia. (",
+                "D": "astronomia; subtração; multiplicação. (",
+                "E": "universidades; tecnologia; integrantes. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 4 de 15 QUESTÃO 06 Nas sentenças a seguir, ocorre verbo abundante apenas em: (A) Os materiais escolares foram comprados logo no início do mês. (B) Pensei que tivesse entregado os relatórios de que falei. (C) A Rosa me contou sobre tudo o que aconteceu. (D) Minha mãe foi presenteada com perfumes e flores. (E) Os livros transportam seus leitores para outros tempos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7",
+            "enunciado": "A sentença que apresenta um advérbio cuja modificação recai sobre um adjetivo é: (",
+            "alternativas": {
+                "A": "Sugeriram que acordássemos bem cedo para as atividades de recreação. (",
+                "B": "O aroma da baunilha deixa o bolo de chocolate mais gostoso. (",
+                "C": "Corra depressa para chamar os seus irmãos para o jantar. (",
+                "D": "A nova redatora escreve muito bem certos gêneros textuais. (",
+                "E": "Novamente, a garota faltou à aula de literatura por problemas de saúde."
             },
             "resposta_correta": "B"
         },
@@ -60,55 +94,14 @@
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: A sentença que apresenta um advérbio cuja \nmodificação recai sobre um adjetivo é:",
+            "questão": "Questão 8",
+            "enunciado": "Analise os casos de colocação pronominal a seguir e assinale a alternativa em que as condições da sentença apresentada permitem tanto a próclise quanto a ênclise do pronome oblíquo átono. (",
             "alternativas": {
-                "A": "Sugeriram que acordássemos bem cedo \npara as atividades de recreação.",
-                "B": "O aroma da baunilha deixa o bolo de \nchocolate mais gostoso.",
-                "C": "Corra depressa para chamar os seus irmãos \npara o jantar.",
-                "D": "A nova redatora escreve muito bem certos \ngêneros textuais.",
-                "E": "Novamente, a garota faltou à aula de \nliteratura por problemas de saúde."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 6: Analise os casos de colocação pronominal a \nseguir e assinale a alternativa em que as \ncondições da sentença apresentada permitem \ntanto a próclise quanto a ênclise do pronome \noblíquo átono.",
-            "alternativas": {
-                "A": "Nunca se queixe dos seus pais, que sempre \nfizeram tudo por você.",
-                "B": "Chamar -me-iam de louco se soubessem o \nque fiz ontem à noite.",
-                "C": "Conhece verdadeiramente a pessoa por \nquem se apaixonou?",
-                "D": "Fui embora para não o provocar.",
-                "E": "Depois de algumas semanas, começou a \nmaltratá -la. QUESTÃO 09 \nA concordância nominal está correta apenas \nem:   \n \n(A) Na esquina, vi parado o homem e sua \nesposa, enquanto discutiam.  \n(B) Passados duas horas da primeira dose do \nremédio, deverá tomar a segunda.  \n(C) Os brincos e as pulseiras de ouro foram \nleiloados ainda ontem.   \n(D) Os lençóis devem ficar o mais impecáveis \npossíveis.  \n(E) O rapaz e sua mulher ajudavam -se um a \noutra."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 7: 0 \nAnalise as sentenças a seguir e assinale a \nalternativa em que a expressão em destaque \natua como elemento de coesão sequencial de \noposição.",
-            "alternativas": {
-                "A": "Mauro e André foram muito ágeis. Se não \nfossem eles, seríamos assaltados.",
-                "B": "Ela deu -lhe todas as oportunidades. Ele, \nentretanto , não soube aproveitá -las.",
-                "C": "A filha mais nova é muito mimada. A \ngarotinha  não sabe ouvir um não.",
-                "D": "Peço -te apenas isto: que honre a memória \nda minha família.",
-                "E": "O carro está estacionado naquela  vaga.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 8: Sabe -se que uma cédula de R$ 100,00 tem uma \nespessura de 0,25 mm. Suponha que queiramos \nfazer uma pilha num total de um bilhão de reais \nutilizando cédulas de R$ 100,00 empilhadas \numa em cima da outra. Com base nas \ninformações dadas, qual será a altura da pilha?",
-            "alternativas": {
-                "A": "250 m.",
-                "B": "2.500 m.",
-                "C": "25.000 m.",
-                "D": "250.000 m.",
-                "E": "2.500.000 m.  \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 5 de 15 QUESTÃO 12 \nPara fazer uma determinada receita utilizando \nmanga, as frutas precisam ser descascadas, \ndepois o caroço precisa ser retirado, e então a \npolpa restante precisa ser levada ao forno, \ntransformando -se numa biomassa. Sabe -se que \nao descascar, perde -se 5% da ma ssa da fruta \noriginal, e ao tirar o caroço perde -se mais 20% \nda massa que restou do processo anterior. Ao \nser levada ao forno, as polpas perdem 50% da \nmassa que tinham antes do processo. Se \nrealizarmos esse processo numa manga que \ntem inicialmente o peso d e 500 gramas, qual \nserá o peso da biomassa final?  \n(A) 125 g.  \n(B) 140 g.  \n(C) 160 g.  \n(D) 190 g.  \n(E) 225 g."
+                "A": "Nunca se queixe dos seus pais, que sempre fizeram tudo por você. (",
+                "B": "Chamar -me-iam de louco se soubessem o que fiz ontem à noite. (",
+                "C": "Conhece verdadeiramente a pessoa por quem se apaixonou? (",
+                "D": "Fui embora para não o provocar. (",
+                "E": "Depois de algumas semanas, começou a maltratá -la. QUESTÃO 09 A concordância nominal está correta apenas em: (A) Na esquina, vi parado o homem e sua esposa, enquanto discutiam. (B) Passados duas horas da primeira dose do remédio, deverá tomar a segunda. (C) Os brincos e as pulseiras de ouro foram leiloados ainda ontem. (D) Os lençóis devem ficar o mais impecáveis possíveis. (E) O rapaz e sua mulher ajudavam -se um a outra."
             },
             "resposta_correta": "D"
         },
@@ -116,69 +109,89 @@
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: Um cliente vai comprar peças cerâmicas para a \nsua casa. Ao todo, ele precisa revestir uma área \nde 120 m2, e escolheu uma peça que tem \nformato quadrado de 60cmx60cm e é vendida \nem caixas onde cada caixa tem 5 peças. \nQuantas caixas, no mínimo, o cliente precisa \ncomprar para conseguir revestir todo a sua \nárea?",
+            "questão": "Questão 1",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa em que a expressão em destaque atua como elemento de coesão sequencial de oposição. (",
             "alternativas": {
-                "A": "65.",
-                "B": "66.",
-                "C": "67.",
-                "D": "68.",
+                "A": "Mauro e André foram muito ágeis. Se não fossem eles, seríamos assaltados. (",
+                "B": "Ela deu -lhe todas as oportunidades. Ele, entretanto , não soube aproveitá -las. (",
+                "C": "A filha mais nova é muito mimada. A garotinha não sabe ouvir um não. (",
+                "D": "Peço -te apenas isto: que honre a memória da minha família. (",
+                "E": "O carro está estacionado naquela vaga. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11",
+            "enunciado": "Sabe -se que uma cédula de R$ 100,00 tem uma espessura de 0,25 mm. Suponha que queiramos fazer uma pilha num total de um bilhão de reais utilizando cédulas de R$ 100,00 empilhadas uma em cima da outra. Com base nas informações dadas, qual será a altura da pilha? (",
+            "alternativas": {
+                "A": "250 m. (",
+                "B": "2.500 m. (",
+                "C": "25.000 m. (",
+                "D": "250.000 m. (",
+                "E": "2.500.000 m. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 5 de 15 QUESTÃO 12 Para fazer uma determinada receita utilizando manga, as frutas precisam ser descascadas, depois o caroço precisa ser retirado, e então a polpa restante precisa ser levada ao forno, transformando -se numa biomassa. Sabe -se que ao descascar, perde -se 5% da ma ssa da fruta original, e ao tirar o caroço perde -se mais 20% da massa que restou do processo anterior. Ao ser levada ao forno, as polpas perdem 50% da massa que tinham antes do processo. Se realizarmos esse processo numa manga que tem inicialmente o peso d e 500 gramas, qual será o peso da biomassa final? (A) 125 g. (B) 140 g. (C) 160 g. (D) 190 g. (E) 225 g."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13",
+            "enunciado": "Um cliente vai comprar peças cerâmicas para a sua casa. Ao todo, ele precisa revestir uma área de 120 m2, e escolheu uma peça que tem formato quadrado de 60cmx60cm e é vendida em caixas onde cada caixa tem 5 peças. Quantas caixas, no mínimo, o cliente precisa comprar para conseguir revestir todo a sua área? (",
+            "alternativas": {
+                "A": "65. (",
+                "B": "66. (",
+                "C": "67. (",
+                "D": "68. (",
                 "E": "69."
             },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 10: Três máquinas em uma fábrica operam em \nciclos diferentes. A Máquina A completa um \nciclo a cada 12 minutos, a Máquina B completa \num ciclo a cada 15 minutos, e a Máquina C \ncompleta um ciclo a cada 20 minutos. Se todas \nas três máquinas começam um ciclo ao mes mo \ntempo às 8:00 da manhã, a que horas elas \ncompletarão um ciclo simultaneamente pela \nprimeira vez após as 8:00 da manhã?",
-            "alternativas": {
-                "A": "9:00.",
-                "B": "8:50.",
-                "C": "8:30.",
-                "D": "8:06.",
-                "E": "9:10.  QUESTÃO 15 \nDois estudantes saem às ruas para vender \nempadas de frango e de camarão para levantar \nfundos para as suas formaturas. Por dia, cada \nestudante sai com 50 empadas de frango e 50 \nempadas de camarão. Ao final do dia, o \nestudante Pedro vendeu 40 empadas de frango \n40 empadas de camarão, e arrecadou R$ \n480,00. Já o estudante Hugo vendeu 3 0 \nempadas de frango e 45 empadas de camarão e \narrecadou R$ 465,00. Sabe -se que ambos os \nestudantes praticam a mesma precificação. \nQual a soma do valor de uma empada de frango \ne uma empada de camarão?  \n(A) R$ 15,50.  \n(B) R$ 10,00.  \n(C) R$ 18,50.  \n(D) R$ 12,00.  \n(E) R$ 14,50."
-            },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Uma equipe de engenheiros vai executar um \nprojeto num prazo total de 80 dias, divididos \nem 4 fases de iguais intervalos de dias. A \npróxima fase só começa quanto a anterior é \nfinalizada. No 16° dia de execução do projeto, \nquantos porcento da primeira fase foram \nexecutados?",
+            "questão": "Questão 14",
+            "enunciado": "Três máquinas em uma fábrica operam em ciclos diferentes. A Máquina A completa um ciclo a cada 12 minutos, a Máquina B completa um ciclo a cada 15 minutos, e a Máquina C completa um ciclo a cada 20 minutos. Se todas as três máquinas começam um ciclo ao mes mo tempo às 8:00 da manhã, a que horas elas completarão um ciclo simultaneamente pela primeira vez após as 8:00 da manhã? (",
             "alternativas": {
-                "A": "20%.",
-                "B": "40%.",
-                "C": "60%.",
-                "D": "80%.",
+                "A": "9:00. (",
+                "B": "8:50. (",
+                "C": "8:30. (",
+                "D": "8:06. (",
+                "E": "9:10. QUESTÃO 15 Dois estudantes saem às ruas para vender empadas de frango e de camarão para levantar fundos para as suas formaturas. Por dia, cada estudante sai com 50 empadas de frango e 50 empadas de camarão. Ao final do dia, o estudante Pedro vendeu 40 empadas de frango 40 empadas de camarão, e arrecadou R$ 480,00. Já o estudante Hugo vendeu 3 0 empadas de frango e 45 empadas de camarão e arrecadou R$ 465,00. Sabe -se que ambos os estudantes praticam a mesma precificação. Qual a soma do valor de uma empada de frango e uma empada de camarão? (A) R$ 15,50. (B) R$ 10,00. (C) R$ 18,50. (D) R$ 12,00. (E) R$ 14,50."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16",
+            "enunciado": "Uma equipe de engenheiros vai executar um projeto num prazo total de 80 dias, divididos em 4 fases de iguais intervalos de dias. A próxima fase só começa quanto a anterior é finalizada. No 16° dia de execução do projeto, quantos porcento da primeira fase foram executados? (",
+            "alternativas": {
+                "A": "20%. (",
+                "B": "40%. (",
+                "C": "60%. (",
+                "D": "80%. (",
                 "E": "96%."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: A média aritmética simples das notas dos 20 \ncandidatos de um concurso foi 5,0. Além disso, \nse tomarmos o candidato que teve a maior nota \ne o candidato que teve e a menor nota, a média \nentre eles resulta em 4,0. Excluindo -se essas \nduas pessoas deste grupo, qual a média \naritmética dos candidatos que restaram, \naproximadamente?",
+            "questão": "Questão 17",
+            "enunciado": "A média aritmética simples das notas dos 20 candidatos de um concurso foi 5,0. Além disso, se tomarmos o candidato que teve a maior nota e o candidato que teve e a menor nota, a média entre eles resulta em 4,0. Excluindo -se essas duas pessoas deste grupo, qual a média aritmética dos candidatos que restaram, aproximadamente? (",
             "alternativas": {
-                "A": "5,11.",
-                "B": "4,95.",
-                "C": "5,25.",
-                "D": "4,80.",
-                "E": "4,66.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 6 de 15 QUESTÃO 18 \nUma escola oferece três disciplinas: \nMatemática, Ciências e História. A média final \nde cada aluno é calculada utilizando uma \nmédia aritmética ponderada das notas dessas \ndisciplinas, com os seguintes pesos:  \n \n• Matemática: peso 4  \n• Ciências: peso 3  \n• História: peso 2  \n \nUm aluno obteve as seguintes notas:  \n• Matemática: 7,0  \n• Ciências: 8,0  \n• História: 6,0  \n \nO aluno terá uma segunda chance para fazer \numa nova prova de história, cuja nota \nsubstituirá a anterior, e tentar aumentar sua \nmédia. Qual deve ser a nota mínima que ele \nprecisa obter para que fique com nota final 8,0?  \n \n(A) 8,0.  \n(B) 8,5.  \n(C) 9,0.  \n(D) 9,5.  \n(E) 10,0."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 13: Um quadrado inicialmente de lado L foi \nesticado ao longo de sua diagonal, mantendo -\nse ainda sua forma quadrada. Se o \ncomprimento final da diagonal do quadrado é \n20% maior que o comprimento da diagonal do \nquadrado inicial, então pode -se dizer que a \nárea aumentou em:",
-            "alternativas": {
-                "A": "40%.",
-                "B": "44 %.",
-                "C": "20%.",
-                "D": "42%.",
-                "E": "80%.  QUESTÃO 20 \nUm torneio de xadrez será jogado com 4 \nparticipantes. Na primeira rodada há 6 jogos \nonde cada competidor jogou uma única vez \ncom os outros três competidores. A pontuação \ninicial de todos é 0,0. Para cada partida ganha, \no competidor soma 2,0 pontos e para c ada \npartida perdida, soma -2,0 pontos, e em caso de \nempate ambos os competidores ganham 1,0 \nponto. A tabela abaixo mostra o resultado das \npartidas entre os quatro participantes do \ntorneio (A, B, C e D):  \n• A ganhou de B  \n• A perdeu para C  \n• A empatou com D  \n• B perdeu para C  \n• B empatou com D  \n• D ganhou de C  \nQual a ordem de classificação do torneio, do \nmaior para o menor pontuador?  \n(A) A, B, C, D.  \n(B) D, A, C, B.  \n(C) B, A, C, D.  \n(D) D, C, A, B.  \n(E) C, A, B, D.  \n \nNOÇÕES DE INFORMÁTICA"
+                "A": "5,11. (",
+                "B": "4,95. (",
+                "C": "5,25. (",
+                "D": "4,80. (",
+                "E": "4,66. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 6 de 15 QUESTÃO 18 Uma escola oferece três disciplinas: Matemática, Ciências e História. A média final de cada aluno é calculada utilizando uma média aritmética ponderada das notas dessas disciplinas, com os seguintes pesos: • Matemática: peso 4 • Ciências: peso 3 • História: peso 2 Um aluno obteve as seguintes notas: • Matemática: 7,0 • Ciências: 8,0 • História: 6,0 O aluno terá uma segunda chance para fazer uma nova prova de história, cuja nota substituirá a anterior, e tentar aumentar sua média. Qual deve ser a nota mínima que ele precisa obter para que fique com nota final 8,0? (A) 8,0. (B) 8,5. (C) 9,0. (D) 9,5. (E) 10,0."
             },
             "resposta_correta": "C"
         },
@@ -186,13 +199,29 @@
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Assinale a alternativa que completa \ncorretamente a lacuna do texto a seguir, de \nacordo com as características relacionadas ao \nWindows 7:  \nO Windows 7 é um ____________ \ndesenvolvido pela Microsoft, parte da série de \nsistemas Windows, projetado para \ncomputadores pessoais, abrangendo desde uso \ndoméstico até empresarial.",
+            "questão": "Questão 19",
+            "enunciado": "Um quadrado inicialmente de lado L foi esticado ao longo de sua diagonal, mantendo - se ainda sua forma quadrada. Se o comprimento final da diagonal do quadrado é 20% maior que o comprimento da diagonal do quadrado inicial, então pode -se dizer que a área aumentou em: (",
             "alternativas": {
-                "A": "sistema operacional",
-                "B": "periférico de saída",
-                "C": "periférico de entrada",
-                "D": "protocolo de internet",
-                "E": "servidor de e -mails  \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 7 de 15 QUESTÃO 22 \nAo clicar com o botão direito sobre uma pasta \ndo Windows 7, uma das opções que será \napresentada para o usuário será a ação de:  \n \n(A) Indexar.  \n(B) Renomear.  \n(C) Corromper.  \n(D) Fixar em configurações.  \n(E) Fixar em reprodução automática."
+                "A": "40%. (",
+                "B": "44 %. (",
+                "C": "20%. (",
+                "D": "42%. (",
+                "E": "80%. QUESTÃO 20 Um torneio de xadrez será jogado com 4 participantes. Na primeira rodada há 6 jogos onde cada competidor jogou uma única vez com os outros três competidores. A pontuação inicial de todos é 0,0. Para cada partida ganha, o competidor soma 2,0 pontos e para c ada partida perdida, soma -2,0 pontos, e em caso de empate ambos os competidores ganham 1,0 ponto. A tabela abaixo mostra o resultado das partidas entre os quatro participantes do torneio (A, B, C e D): • A ganhou de B • A perdeu para C • A empatou com D • B perdeu para C • B empatou com D • D ganhou de C Qual a ordem de classificação do torneio, do maior para o menor pontuador? (A) A, B, C, D. (B) D, A, C, B. (C) B, A, C, D. (D) D, C, A, B. (E) C, A, B, D. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21",
+            "enunciado": "Assinale a alternativa que completa corretamente a lacuna do texto a seguir, de acordo com as características relacionadas ao Windows 7: O Windows 7 é um ____________ desenvolvido pela Microsoft, parte da série de sistemas Windows, projetado para computadores pessoais, abrangendo desde uso doméstico até empresarial. (",
+            "alternativas": {
+                "A": "sistema operacional (",
+                "B": "periférico de saída (",
+                "C": "periférico de entrada (",
+                "D": "protocolo de internet (",
+                "E": "servidor de e -mails Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 7 de 15 QUESTÃO 22 Ao clicar com o botão direito sobre uma pasta do Windows 7, uma das opções que será apresentada para o usuário será a ação de: (A) Indexar. (B) Renomear. (C) Corromper. (D) Fixar em configurações. (E) Fixar em reprodução automática."
             },
             "resposta_correta": "A"
         },
@@ -200,197 +229,271 @@
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 15: Para recortar uma pasta localizada no \nWindows 7 é possível clicar com o botão \nesquerdo do mouse sobre ela e selecionar o \ncomando:",
+            "questão": "Questão 23",
+            "enunciado": "Para recortar uma pasta localizada no Windows 7 é possível clicar com o botão esquerdo do mouse sobre ela e selecionar o comando: (",
             "alternativas": {
-                "A": "Alt + O.",
-                "B": "Alt + P.",
-                "C": "Ctrl + T.",
-                "D": "Ctrl + X.",
+                "A": "Alt + O. (",
+                "B": "Alt + P. (",
+                "C": "Ctrl + T. (",
+                "D": "Ctrl + X. (",
                 "E": "Ctrl + Z."
             },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24",
+            "enunciado": "Para substituir um texto digitado no Microsoft Word, o redator deve acessar a guia “Página Inicial”, clicar sobre “Substituir” e digitar o texto que será substituído no campo: (",
+            "alternativas": {
+                "A": "Alterar. (",
+                "B": "Corrigir. (",
+                "C": "Reorganizar. (",
+                "D": "Redefinir. (",
+                "E": "Localizar."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25",
+            "enunciado": "Observe a ilustração a seguir, extraída do Microsoft Word, e assinale a alternativa que melhor descreve o nome e utilidade do botão em destaque sob o cursor na imagem: Fonte: 1 https://support.microsoft.com/ (",
+            "alternativas": {
+                "A": "Tachar. (",
+                "B": "Tipografia. (",
+                "C": "Remover. (",
+                "D": "Classificar. (",
+                "E": "Justificar. CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26",
+            "enunciado": "Leia os enunciados e destaque a alternativa que traz uma informação incorreta. (",
+            "alternativas": {
+                "A": "A alfabetização pode ser contextualizada como o domínio das competências, bem como o uso da escrita em diferentes situações e contextos. (",
+                "B": "A alfabetização compreende o domínio da escrita pautado por meio do sistema alfabético e ortográfico. (",
+                "C": "Ao analisar as bases históricas que contextualizam a trajetória da alfabetização, percebe -se que, até meados de 1980, o professor pautava sua ação em métodos sintéticos e analíticos. (",
+                "D": "Por meio do método silábico ou no fônico, observa -se que a criança repete informações prontas, por meio da memorização do traçado da letra e dos sons correspondentes. (",
+                "E": "Ao estabelecer um paralelo entre alfabetização e letramento, é pertinente afirmar que o letramento ocorre muito antes do ingresso do aluno na escola. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 8 de 15 QUESTÃO 2 7 Em consonância com a teoria de Piaget sobre a linguagem e o pensamento, leia os enunciados abaixo, marque V (verdadeiro) e F (falso) e posteriormente a resposta correspondente. [...] Jean Piaget foi o primeiro a estudar sistematicamente a percepção e a lógica infantis. [...] Piaget pautou seus estudos em uma abordagem positiva, por meio da qual é possível observar que a diferença existente entre o pensamento das crianças e dos adultos possui uma natureza mais qualitativa que quantitativa. [...] Dentro da visão piagetiana, a criança é vista como um ser em formação, em que o seu cérebro possui uma dimensão reduzida comparada à dimensão do cérebro adulto. [...] Segundo Piaget, o elo que liga todas as características específicas da lógica infantil é o realismo intelectual. [...] Conforme Piaget, o pensamento orientado é consciente, enquanto o pensamento autístico é inconsciente. (A) F, F, F, V, V (B) V, V, V, F, F (C) V, F, V, V, V (D) V, V, F, F, V (E) F, V, F, V, F"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "Em relação a algumas das características dos diferentes gêneros discursivos, destaque a afirmativa que foi mal elaborada. (",
+            "alternativas": {
+                "A": "O gênero ou tipo textual são classificados em textos narrativos, descritivos, expositivos, instrutivos (injuntivos), persuasivos, argumentativos, entre outros. (",
+                "B": "Dentro da leitura e produção textual, o texto, como material concreto para um conjunto de domínios de aprendizagem é considerado uma das principais bases para muitas propostas de trabalho em Língua Portuguesa. (",
+                "C": "A partir dos anos 80, é possível observar a ocorrência de um deslocamento dos eixos de ensino -aprendizagem de língua materna de um ensino normativo para um ensino pautado pelos usos da língua escrita. (",
+                "D": "A partir dos Parâmetros Curriculares Nacionais de Língua Portuguesa, observa -se dois eixos para o ensino da língua: um enfoca o uso da linguagem, por meio de práticas de escuta, leitura e produção de textos orais e escritos; outro, a reflexão sobre a l íngua e a linguagem. (",
+                "E": "As diferentes atividades concernentes à produção da escrita consideram o texto como a unidade de ensino e o gênero como o objeto de ensino. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 9 de 15 QUESTÃO 29 O pensamento e a linguagem são analisados por vertentes teóricas diferentes, em que cada uma das respectivas teorias possui uma dimensão própria. Dentro desse contexto, tomando como parâmetro os ponderamentos de Vygotsky, é incorreta a seguinte afirmativa. (A) No estágio inicial do desenvolvimento humano, o pensamento não é verbal e a linguagem apresenta intelectualidade. (B) As trajetórias de desenvolvimento do pensamento e da linguagem não são paralelas. (C) A história social é a ambiência onde acontecem todas as atividades cognitivas básicas. (D) Os fatores congênitos não são responsáveis por determinar as habilidades cognitivas e as formas de estruturar o pensamento do indivíduo. (E) Dentro do processo de desenvolvimento cognitivo, a linguagem tem papel crucial na determinação de como a criança vai aprender a pensar."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30",
+            "enunciado": "Sobre o processo histórico da escrita, marque V (verdadeiro) e F (falso) e marque a alternativa pertinente. [...] O surgimento da escrita marca o fim da Idade Medieval e início da Idade Moderna. [...] Os sistemas de escrita foram instituídos de forma independente, em períodos distintos, por várias civilizações, como por exemplo, Mesopotâmia. [...] A escrita cuneiforme, começou com os povos sumérios, sendo usada por quinze línguas diferentes. [...] No Egito, a escrita cuneiforme era a técnica mais simples e popular utilizada pelos egípcios. [...] De forma mais complexa, formado por desenhos e símbolos, a escrita hieroglífica era usada pelos egípcios, sendo tal escrita encontrada nos túmulos e templos daquela civilização. (",
+            "alternativas": {
+                "A": "V, V, V, V, F (",
+                "B": "F, F, V, V, V (",
+                "C": "F, V, V, F, V (",
+                "D": "V, V, V, F, F (",
+                "E": "F, V, F, V, V"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31",
+            "enunciado": "Observe os enunciados posteriores e destaque a alternativa que não apresenta nenhum dado incoerente. (",
+            "alternativas": {
+                "A": "A Resolução de Problemas (RP) é pautada unicamente na concepção teórica do fazer matemático. (",
+                "B": "A RP passou a ter importância somente a partir do momento em que foi reconhecida como uma metodologia do ensino de Matemática. (",
+                "C": "A fundamentação teórica que contextualiza o ensino da Matemática representa o principal aspecto a ser observado pela Educação Infantil, pois representa a primeira noção formal dos conteúdos matemáticos. (",
+                "D": "Um aspecto que não pode ser esquecido nem relegado a segundo plano é o fato de que saber Matemática não é o suficiente para se ensinar Matemática. (",
+                "E": "A RP classifica -se como uma metodologia, a qual define a maneira de organização do ensino, incluindo uma postura do ensinar e conceitos de aprender. Assim, a RP busca o enfrentamento da resolução da situação - problema, aproximando -se as características tradicion ais e a questão da grande dificuldade em resolver problemas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32",
+            "enunciado": "Ao analisar o processo histórico do conhecimento matemático, é impertinente afirmar: (",
+            "alternativas": {
+                "A": "Ao analisar os primeiros vestígios de pensamentos matemáticos é possível reportar às culturas primitivas. É possível destacar o papel das civilizações egípcias e mesopotâmicas. (",
+                "B": "Historicamente, há indícios de que o processo de contagem precedeu o desenvolvimento da escrita. (",
+                "C": "Registros encontrados em papiros egípcios ratificam que aquela civilização possuía grande domínio de cálculos geométricos. (",
+                "D": "Dentro do contexto histórico, os romanos foram a única civilização que passou a empregar letras para especificar os números. (",
+                "E": "O sistema de numeração é considerado a primeira transformação matemática que consegue partir do concreto para o abstrato. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 10 de 15 QUESTÃO 33 Os jogos são considerados meios de extrema relevância para o desenvolvimento da criança. A partir de suas características, são trabalhadas algumas situações específicas e cotidianas da vida da criança. Assim, de acordo com a psicanálise qual das caracterís ticas abaixo que caracterizam os jogos corrobora para que a criança consiga representar situações consideradas por ela como extremamente dolorosas? (A) caráter fictício (B) caráter representativo (C) desprazer (D) liberdade (E) limitação no tempo e no espaço"
+            },
             "resposta_correta": "D"
         },
         {
             "cargo": "PROFESSOR AUXILIAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: Para substituir um texto digitado no Microsoft \nWord, o redator deve acessar a guia “Página \nInicial”, clicar sobre “Substituir” e digitar o \ntexto que será substituído no campo:",
+            "questão": "Questão 34",
+            "enunciado": "Leia as alternativas abaixo e marque o enunciado que traz uma informação improcedente. (",
             "alternativas": {
-                "A": "Alterar.",
-                "B": "Corrigir.",
-                "C": "Reorganizar.",
-                "D": "Redefinir.",
-                "E": "Localizar.  \n \n \n \n QUESTÃO 25 \nObserve a ilustração a seguir, extraída do \nMicrosoft Word, e assinale a alternativa que \nmelhor descreve o nome e utilidade do botão \nem destaque sob o cursor na imagem:  \n \nFonte: 1 https://support.microsoft.com/  \n(A) Tachar.  \n(B) Tipografia.  \n(C) Remover.  \n(D) Classificar.  \n(E) Justificar.  \n \nCONHECIMENTOS ESPECÍFICOS"
+                "A": "As brincadeiras infantis são caracterizadas pelo caráter não sério, ou seja, a criança ao brincar revela o lado cômico do trabalho por ela desenvolvido. (",
+                "B": "O jogo só é jogo se for postulado como uma atividade voluntária. (",
+                "C": "Uma das características marcantes dos jogos é a existência de regras. (",
+                "D": "O jogo acontece dentro de uma sequência própria da brincadeira. (",
+                "E": "Na literatura, é revelada a natureza improdutiva do jogo."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: Leia os enunciados e destaque a alternativa que \ntraz uma informação incorreta.",
+            "questão": "Questão 35",
+            "enunciado": "Em conformidade com o primeiro artigo da Lei 9.394/96, a educação escolar deve estar vinculada a dois aspectos, que foram descritos por meio de qual alternativa? (",
             "alternativas": {
-                "A": "A alfabetização pode ser contextualizada \ncomo o domínio das competências, bem como \no uso da escrita em diferentes situações e \ncontextos.",
-                "B": "A alfabetização compreende o domínio da \nescrita pautado por meio do sistema alfabético \ne ortográfico.",
-                "C": "Ao analisar as bases históricas que \ncontextualizam a trajetória da alfabetização, \npercebe -se que, até meados de 1980, o \nprofessor pautava sua ação em métodos \nsintéticos e analíticos.",
-                "D": "Por meio do método silábico ou no fônico, \nobserva -se que a criança repete informações \nprontas, por meio da memorização do traçado \nda letra e dos sons correspondentes.",
-                "E": "Ao estabelecer um paralelo entre \nalfabetização e letramento, é pertinente afirmar \nque o letramento ocorre muito antes do \ningresso do aluno na escola.  \n \nPrefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 8 de 15 QUESTÃO 2 7 \nEm consonância com a teoria de Piaget sobre a \nlinguagem e o pensamento, leia os enunciados \nabaixo, marque V (verdadeiro) e F (falso) e \nposteriormente a resposta correspondente.  \n \n[...] Jean Piaget foi o primeiro a estudar \nsistematicamente a percepção e a lógica \ninfantis.  \n \n[...] Piaget pautou seus estudos em uma \nabordagem positiva, por meio da qual é \npossível observar que a diferença existente \nentre o pensamento das crianças e dos adultos \npossui uma natureza mais qualitativa que \nquantitativa.  \n \n[...] Dentro da visão piagetiana, a criança é \nvista como um ser em formação, em que o seu \ncérebro possui uma dimensão reduzida \ncomparada à dimensão do cérebro adulto.  \n \n[...] Segundo Piaget, o elo que liga todas as \ncaracterísticas específicas da lógica infantil é o \nrealismo intelectual.  \n \n[...] Conforme Piaget, o pensamento orientado \né consciente, enquanto o pensamento autístico \né inconsciente.  \n \n(A) F, F, F, V, V  \n(B) V, V, V, F, F  \n(C) V, F, V, V, V  \n(D) V, V, F, F, V  \n(E) F, V, F, V, F  \n \n \n \n \n \n QUESTÃO 2 8 \nEm relação a algumas das características dos \ndiferentes gêneros discursivos, destaque a \nafirmativa que foi mal elaborada.  \n \n(A) O gênero ou tipo textual são classificados \nem textos narrativos, descritivos, expositivos, \ninstrutivos (injuntivos), persuasivos, \nargumentativos, entre outros.  \n \n(B) Dentro da leitura e produção textual, o \ntexto, como material concreto para um \nconjunto de domínios de aprendizagem é \nconsiderado uma das principais bases para \nmuitas propostas de trabalho em Língua \nPortuguesa.  \n \n(C) A partir dos anos 80, é possível observar a \nocorrência de um deslocamento dos eixos de \nensino -aprendizagem de língua materna de um \nensino normativo para um ensino pautado \npelos usos da língua escrita.  \n \n(D) A partir dos Parâmetros Curriculares \nNacionais de Língua Portuguesa, observa -se \ndois eixos para o ensino da língua: um enfoca \no uso da linguagem, por meio de práticas de \nescuta, leitura e produção de textos orais e \nescritos; outro, a reflexão sobre a l íngua e a \nlinguagem.  \n \n(E) As diferentes atividades concernentes à \nprodução da escrita consideram o texto como a \nunidade de ensino e o gênero como o objeto de \nensino.  \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 9 de 15 QUESTÃO 29  \nO pensamento e a linguagem são analisados \npor vertentes teóricas diferentes, em que cada \numa das respectivas teorias possui uma \ndimensão própria. Dentro desse contexto, \ntomando como parâmetro os ponderamentos \nde Vygotsky, é incorreta a seguinte afirmativa.  \n(A) No estágio inicial do desenvolvimento \nhumano, o pensamento não é verbal e a \nlinguagem apresenta intelectualidade.  \n(B) As trajetórias de desenvolvimento do \npensamento e da linguagem não são paralelas.  \n(C) A história social é a ambiência onde \nacontecem todas as atividades cognitivas \nbásicas.  \n(D) Os fatores congênitos não são responsáveis \npor determinar as habilidades cognitivas e as \nformas de estruturar o pensamento do \nindivíduo.  \n(E) Dentro do processo de desenvolvimento \ncognitivo, a linguagem tem papel crucial na \ndeterminação de como a criança vai aprender a \npensar."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 18: Sobre o processo histórico da escrita, marque \nV (verdadeiro) e F (falso) e marque a \nalternativa pertinente.  \n[...] O surgimento da escrita marca o fim da \nIdade Medieval e início da Idade Moderna.  \n[...] Os sistemas de escrita foram instituídos de \nforma independente, em períodos distintos, por \nvárias civilizações, como por exemplo, \nMesopotâmia.  \n[...] A escrita cuneiforme, começou com os \npovos sumérios, sendo usada por quinze \nlínguas diferentes.  \n[...] No Egito, a escrita cuneiforme era a \ntécnica mais simples e popular utilizada pelos \negípcios.  \n[...] De forma mais complexa, formado por \ndesenhos e símbolos, a escrita hieroglífica era \nusada pelos egípcios, sendo tal escrita \nencontrada nos túmulos e templos daquela \ncivilização.",
-            "alternativas": {
-                "A": "V, V, V, V, F",
-                "B": "F, F, V, V, V",
-                "C": "F, V, V, F, V",
-                "D": "V, V, V, F, F",
-                "E": "F, V, F, V, V  \n QUESTÃO 31  \nObserve os enunciados posteriores e destaque \na alternativa que não apresenta nenhum dado \nincoerente.  \n(A) A Resolução de Problemas (RP) é pautada \nunicamente na concepção teórica do fazer \nmatemático.  \n(B) A RP passou a ter importância somente a \npartir do momento em que foi reconhecida \ncomo uma metodologia do ensino de \nMatemática.  \n(C) A fundamentação teórica que contextualiza \no ensino da Matemática representa o principal \naspecto a ser observado pela Educação Infantil, \npois representa a primeira noção formal dos \nconteúdos matemáticos.  \n(D) Um aspecto que não pode ser esquecido \nnem relegado a segundo plano é o fato de que \nsaber Matemática não é o suficiente para se \nensinar Matemática.  \n(E) A RP classifica -se como uma metodologia, \na qual define a maneira de organização do \nensino, incluindo uma postura do ensinar e \nconceitos de aprender. Assim, a RP busca o \nenfrentamento da resolução da situação -\nproblema, aproximando -se as características \ntradicion ais e a questão da grande dificuldade \nem resolver problemas."
+                "A": "prática pedagógica e raciocínio lógico (",
+                "B": "mundo do trabalho e prática social (",
+                "C": "políticos e sociais (",
+                "D": "alfabetização plena e capacidade crítica (",
+                "E": "éticos e educacionais QUESTÃO 36 Em observância aos parâmetros legais definidos por meio da LDB, leia os enunciados posteriores e marque a alternativa concernente. I – A educação, dever da família e do Estado, inspirada nos princípios de soberania da condição humana, tem por finalidade a formação educacional de cada educando. II – É assegurado atendimento educacional, durante o período de internação, ao aluno da educação básica internado para tratamento de saúde em regime hospitalar ou domiciliar por tempo prolongado, conforme dispuser o Poder Público em regulamento, na esfera de sua competência federativa. III – Comprovada a negligência da autoridade competente para garantir o oferecimento do ensino obrigatório, poderá ela ser imputada por crime de responsabilidade. IV – A União, os Estados, o Distrito Federal e os Municípios organizarão em regime distributivo os respectivos sistemas de ensino. V – O calendário escolar deverá adequar -se às peculiaridades locais, inclusive climáticas e econômicas, a critério do respectivo sistema de ensino, sem com isso reduzir o número de horas letivas previsto nesta Lei. (A) Apenas as alternativas I e IV são falsas. (B) Apenas as alternativas II e V são verdadeiras. (C) Apenas as alternativas III e IV são verdadeiras. (D) Todas as alternativas são verdadeiras. (E) Apenas as alternativas III e V são falsas. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 11 de 15 QUESTÃO 37 De acordo com o Referencial Curricular Nacional para a Educação Infantil a integração entre quatro aspectos , assim como a promoção de interação e comunicação social, conferem caráter significativo à linguagem musical. Assim, a música é uma das formas importantes de expressão humana, o que por si só justifica sua presença no contexto da educação, de um modo gera l, e na educação infantil, particularmente. Nesse sentido, a seguir foram elencados esses quatro aspectos. Destaque a alternativa que não condiz com os aspectos descritos no respectivo referencial. (A) sensíveis (B) afetivos (C) estéticos (D) sonoros (E) cognitivos"
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Ao analisar o processo histórico do \nconhecimento matemático, é impertinente \nafirmar:",
+            "questão": "Questão 38",
+            "enunciado": "Dentre os conteúdos descritos por meio dos Referenciais Curriculares Nacionais para a Educação Infantil acerca dos jogos e brinquedos musicais para a cultura infantil estão incluídos os exemplos descritos a seguir. Uma das alternativas não se refere a essa dimensão musical, destaque -a (",
             "alternativas": {
-                "A": "Ao analisar os primeiros vestígios de \npensamentos matemáticos é possível reportar \nàs culturas primitivas. É possível destacar o \npapel das civilizações egípcias e \nmesopotâmicas.",
-                "B": "Historicamente, há indícios de que o \nprocesso de contagem precedeu o \ndesenvolvimento da escrita.",
-                "C": "Registros encontrados em papiros egípcios \nratificam que aquela civilização possuía \ngrande domínio de cálculos geométricos.",
-                "D": "Dentro do contexto histórico, os romanos \nforam a única civilização que passou a \nempregar letras para especificar os números.",
-                "E": "O sistema de numeração é considerado a \nprimeira transformação matemática que \nconsegue partir do concreto para o abstrato.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 10 de 15 QUESTÃO 33  \nOs jogos são considerados meios de extrema \nrelevância para o desenvolvimento da criança. \nA partir de suas características, são trabalhadas \nalgumas situações específicas e cotidianas da \nvida da criança. Assim, de acordo com a \npsicanálise qual das caracterís ticas abaixo que \ncaracterizam os jogos corrobora para que a \ncriança consiga representar situações \nconsideradas por ela como extremamente \ndolorosas?  \n(A) caráter fictício  \n(B) caráter representativo  \n(C) desprazer  \n(D) liberdade  \n(E) limitação no tempo e no espaço"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 20: Leia as alternativas abaixo e marque o \nenunciado que traz uma informação \nimprocedente.",
-            "alternativas": {
-                "A": "As brincadeiras infantis são caracterizadas \npelo caráter não sério, ou seja, a criança ao \nbrincar revela o lado cômico do trabalho por \nela desenvolvido.",
-                "B": "O jogo só é jogo se for postulado como \numa atividade voluntária.",
-                "C": "Uma das características marcantes dos \njogos é a existência de regras.",
-                "D": "O jogo acontece dentro de uma sequência \nprópria da brincadeira.",
-                "E": "Na literatura, é revelada a natureza \nimprodutiva do jogo."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 21: Em conformidade com o primeiro artigo da Lei \n9.394/96, a educação escolar deve estar \nvinculada a dois aspectos, que foram descritos \npor meio de qual alternativa?",
-            "alternativas": {
-                "A": "prática pedagógica e raciocínio lógico",
-                "B": "mundo do trabalho e prática social",
-                "C": "políticos e sociais",
-                "D": "alfabetização plena e capacidade crítica",
-                "E": "éticos e educacionais  QUESTÃO 36  \nEm observância aos parâmetros legais \ndefinidos por meio da LDB, leia os enunciados \nposteriores e marque a alternativa concernente.  \n \nI – A educação, dever da família e do Estado, \ninspirada nos princípios de soberania da \ncondição humana, tem por finalidade a \nformação educacional de cada educando.  \n \nII – É assegurado atendimento educacional, \ndurante o período de internação, ao aluno da \neducação básica internado para tratamento de \nsaúde em regime hospitalar ou domiciliar por \ntempo prolongado, conforme dispuser o Poder \nPúblico em regulamento, na esfera de sua \ncompetência federativa.  \n \nIII – Comprovada a negligência da autoridade \ncompetente para garantir o oferecimento do \nensino obrigatório, poderá ela ser imputada por \ncrime de responsabilidade.  \n \nIV – A União, os Estados, o Distrito Federal e \nos Municípios organizarão em regime \ndistributivo os respectivos sistemas de ensino.  \n \nV – O calendário escolar deverá adequar -se às \npeculiaridades locais, inclusive climáticas e \neconômicas, a critério do respectivo sistema de \nensino, sem com isso reduzir o número de \nhoras letivas previsto nesta Lei.  \n \n(A) Apenas as alternativas I e IV são falsas.  \n(B) Apenas as alternativas II e V são \nverdadeiras.  \n(C) Apenas as alternativas III e IV são \nverdadeiras.  \n(D) Todas as alternativas são verdadeiras.  \n(E) Apenas as alternativas III e V são falsas.  \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 11 de 15 QUESTÃO 37  \nDe acordo com o Referencial Curricular \nNacional para a Educação Infantil a integração \nentre quatro aspectos , assim como a promoção \nde interação e comunicação social, conferem \ncaráter significativo à linguagem musical. \nAssim, a música é uma das formas importantes \nde expressão humana, o que por si só justifica \nsua presença no contexto da educação, de um \nmodo gera l, e na educação infantil, \nparticularmente. Nesse sentido, a seguir foram \nelencados esses quatro aspectos. Destaque a \nalternativa que não condiz com os aspectos \ndescritos no respectivo referencial.  \n(A) sensíveis  \n(B) afetivos  \n(C) estéticos  \n(D) sonoros  \n(E) cognitivos"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 22: Dentre os conteúdos descritos por meio dos \nReferenciais Curriculares Nacionais para a \nEducação Infantil acerca dos jogos e \nbrinquedos musicais para a cultura infantil \nestão incluídos os exemplos descritos a seguir. \nUma das alternativas não se refere a essa \ndimensão musical, destaque -a",
-            "alternativas": {
-                "A": "Brincos",
-                "B": "Mnemônicas",
-                "C": "Parlendas",
-                "D": "Rondas",
+                "A": "Brincos (",
+                "B": "Mnemônicas (",
+                "C": "Parlendas (",
+                "D": "Rondas (",
                 "E": "Pantomina"
             },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 39",
+            "enunciado": "De acordo com os Parâmetros Curriculares Nacionais para os anos iniciais do Ensino Fundamental é possível observar exemplos de gêneros discursivos que são considerados adequados para o trabalho com a linguagem oral e com a linguagem escrita. Observe os exemplos destacados a seguir e assinale a alternativa que traz um exemplo de gênero discursivo que condiz simultaneamente com o trabalho com as linguagens oral e escrita. (",
+            "alternativas": {
+                "A": "Contos (de fadas, de assombração etc.) (",
+                "B": "Saudações, relatos (",
+                "C": "Textos teatrais (",
+                "D": "Seminários, palestras (",
+                "E": "Receitas, listas QUESTÃO 40 De acordo com o artigo 18 do Estatuto da Criança e do Adolescente, é dever de todos velar pela dignidade da criança e do adolescente, pondo -os a salvo de diferentes formas de tratamento, como as descritas a seguir. Uma das alternativas não condiz com o referido artigo, destaque -a. (A) tratamento desumano (B) tratamento vexatório (C) tratamento aterrorizante (D) tratamento controlador (E) tratamento constrangedor"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 41",
+            "enunciado": "Leia as asserções a seguir, em relação aos paradigmas que caracterizam cada etapa, e destaque a alternativa que traz uma informação improcedente. (",
+            "alternativas": {
+                "A": "O período da exclusão é marcado pela forma como as primeiras civilizações se agrupavam, e como eram divididas as tarefas entre determinados povos. (",
+                "B": "A segregação retrata uma realidade caracterizada pelo forte papel desempenhado pela igreja em prol da normatização da sociedade. (",
+                "C": "A inserção das pessoas com deficiência na sociedade somente começou a partir do paradigma da inclusão. (",
+                "D": "No período da integração, mais especificamente no ano de 1854, foi criado no país do Instituto voltado para as pessoas com deficiência visual, oportunizando a sua alfabetização. (",
+                "E": "As adaptações em todos os âmbitos educacionais não são suficientes para tornar uma escola inclusiva. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 12 de 15 QUESTÃO 42 Em consonância literal com a Lei n. 13.005/2014, em relação ao respectivo sistema de avaliação definido pelo instrumento legal em questão, leia os enunciados, marque V (verdadeiro) e F (falso) e, posteriormente, a alternativa pertinente. [...] O Sistema Nacional de Avaliação da Educação Básica, coordenado pelos Estados, em parceria com os Municípios, constituirá fonte de informação para a avaliação da qualidade da educação básica e para a orientação das políticas públicas desse nível de ensino . [...] A cada dois anos, deverão ser produzidos indicadores de rendimento escolar, referentes ao desempenho dos (as) estudantes apurado em exames nacionais de avaliação, com participação de pelo menos 70% (setenta por cento) dos (as) alunos (as) de cada ano esc olar periodicamente avaliado em cada escola, e aos dados pertinentes apurados pelo censo escolar da educação básica. [...] A cada dois anos, deverão ser produzidos indicadores de avaliação institucional, relativos a características como o perfil do alunado e do corpo dos (as) profissionais da educação, as relações entre dimensão do corpo docente, do corpo técnico e do corpo discente, a infraestrutura das escolas, os recursos pedagógicos disponíveis e os processos da gestão, entre outras relevantes. [...] A elaboração e a divulgação de índices para avaliação da qualidade, como o Índice de Desenvolvimento da Educação Básica - IDEB, que agreguem os indicadores mencionados no inciso I do § 1o da referida Lei elidem a obrigatoriedade de divulgação, em separado, de cada um deles. [...] Cabem ao Inep a elaboração e o cálculo do Ideb e dos indicadores referidos. (A) F, F, V, F, V (B) V, F, V, V, V (C) V, V, V, V, V (D) F, F, F, F, F (E) F, V, F, V, F QUESTÃO 43 Sobre o ciclo de aprendizagem, é impertinente afirmar: (A) O ciclo de aprendizagem constitui um modelo teórico que corrobora para a melhor compreensão acerca dos aspectos envolvidos na aquisição de conhecimento e habilidades pelas pessoas. (B) O ciclo de aprendizagem é constituído por um ciclo de etapas. Cada etapa é marcada pelo seu início, desenvolvimento e fim, momento em que se inicia uma nova etapa. (C) O ciclo de aprendizagem é geralmente dividido em quatro etapas principais: experiência concreta, observação reflexiva, conceituação abstrata e experimentação ativa. (D) O ciclo de aprendizagem oportuniza uma abordagem holística da aprendizagem. (E) O ciclo de aprendizagem permite uma abordagem mais prática do conteúdo a ser trabalhado."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 44",
+            "enunciado": "Observe os predicativos a seguir e destaque o que melhor condiz com a avaliação qualitativa. (",
+            "alternativas": {
+                "A": "Aferição do cumprimento de pré - requisitos. (",
+                "B": "Estimativa de possíveis deficiências dos educandos. (",
+                "C": "Classificação geral da aprendizagem. (",
+                "D": "Dimensão panorâmica do processo educativo. (",
+                "E": "Determinação do rendimento escolar. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 13 de 15 QUESTÃO 45 Sobre os portfólios de aprendizagem, leia as asserções posteriores e marque na sequência a alternativa correspondente. I – A consigna de portfólio representa especificamente a coleção de evidências ou experiências tanto no âmbito acadêmico como profissional. II – O portfólio surgiu no universo das engenharias como um instrumento de controle de gestão. III - No campo educacional, o portfólio tornou - se uma metodologia de ensino e reflexão sobre aquilo que foi aprendido e, consequentemente, uma avaliação contínua e qualitativa da aprendizagem. IV - Os portfólios participam de todas as etapas educacionais e de desenvolvimento profissional. V – O portfólio é considerado uma metodologia de ensino e aprendizagem uma vez que permite avaliar de forma específica o que foi aprendido. (A) Todas as alternativas são verdadeiras. (B) Todas as alternativas são falsas. (C) Apenas as alternativas I e IV são verdadeiras. (D) Apenas as alternativas III e V são verdadeiras. (E) Apenas a alternativa I é falsa."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 46",
+            "enunciado": "Dentro dos documentos legais que contextualizam a política educacional na perspectiva da educação inclusiva, complete o excerto a seguir extraído de Brasil (2010) com os termos correspondentes. A educação inclusiva constitui um paradigma educacional fundamentado na concepção de direitos humanos, que conjuga igualdade e diferença como _______________, e que avança em relação à idéia de equidade formal ao contextualizar as circunstâncias históricas da produção da exclusão dentro e fora da escola. (",
+            "alternativas": {
+                "A": "condições básicas (",
+                "B": "valores indissociáveis (",
+                "C": "características complementares (",
+                "D": "aspectos inatos (",
+                "E": "atributos essenciais"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 47",
+            "enunciado": "Tomando como parâmetro a perspectiva de Brasil (2010), a visão dos direitos humanos e o conceito de cidadania fundamentado no reconhecimento das diferenças e participação dos sujeitos, decorre uma identificação dos mecanismos e processos de hierarquização que operam na regulação e produção de qual dos aspectos descritos a seguir? (",
+            "alternativas": {
+                "A": "inclusão (",
+                "B": "exclusão (",
+                "C": "igualdades (",
+                "D": "desigualdades (",
+                "E": "integração"
+            },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: De acordo com os Parâmetros Curriculares \nNacionais para os anos iniciais do Ensino \nFundamental é possível observar exemplos de \ngêneros discursivos que são considerados \nadequados para o trabalho com a linguagem \noral e com a linguagem escrita. Observe os \nexemplos destacados a seguir e assinale a \nalternativa que traz um exemplo de gênero \ndiscursivo que condiz simultaneamente com o \ntrabalho com as linguagens oral e escrita.",
+            "questão": "Questão 48",
+            "enunciado": "A partir das Diretrizes Curriculares da Educação Básica, é possível compreender melhor o conceito de transversalidade, um assunto importante na sistematização das práticas pedagógicas. Sobre a transversalidade, depreende -se, salvo: (",
             "alternativas": {
-                "A": "Contos (de fadas, de assombração etc.)",
-                "B": "Saudações, relatos",
-                "C": "Textos teatrais",
-                "D": "Seminários, palestras",
-                "E": "Receitas, listas  QUESTÃO 40  \nDe acordo com o artigo 18 do Estatuto da \nCriança e do Adolescente, é dever de todos \nvelar pela dignidade da criança e do \nadolescente, pondo -os a salvo de diferentes \nformas de tratamento, como as descritas a \nseguir. Uma das alternativas não condiz com o \nreferido artigo, destaque -a. \n \n(A) tratamento desumano  \n(B) tratamento vexatório  \n(C) tratamento aterrorizante  \n(D) tratamento controlador  \n(E) tratamento constrangedor"
+                "A": "Refere -se à forma de organizar o trabalho didático -pedagógico em que temas, eixos temáticos são integrados às disciplinas. (",
+                "B": "Rejeita a concepção de conhecimento que toma a realidade como algo estável, pronto e acabado. (",
+                "C": "Refere -se à abordagem epistemológica dos objetos de conhecimento (",
+                "D": "Orienta para a necessidade de se instituir, na prática educativa, uma analogia entre aprender conhecimentos teoricamente sistematizados e as questões da vida real. (",
+                "E": "Dentro de uma compreensão interdisciplinar do conhecimento, a transversalidade tem significado, sendo uma proposta didática que possibilita o tratamento dos conhecimentos escolares de forma integrada. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 14 de 15 QUESTÃO 49 De acordo com as Diretrizes Curriculares Nacionais Gerais da Educação Básica, ao longo da Educação Infantil, “deve -se assumir o cuidado e a educação, valorizando a aprendizagem para a conquista da cultura da vida, por meio de atividades lúdicas em situações de aprendizagem (jogos e brinquedos), formulando proposta pedagógica que considere o currículo como conjunto de experiências em que se articulam saberes da experiência e socialização do conhecimento em seu dinami smo, depositando ênfase [...]”. As alternativas a seguir complementam literalmente o enunciado anterior. Porém, uma delas não foi elaborada corretamente, assinale - a: (A) na gestão das emoções. (B) no desenvolvimento de hábitos higiênicos e alimentares. (C) na vivência de situações destinadas à organização dos objetos pessoais e escolares. (D) na vivência de situações de preservação dos recursos da natureza. (E) no contato com diferentes linguagens representadas, predominantemente, pelo desenvolvimento da prontidão para a leitura e escrita."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR AUXILIAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 50",
+            "enunciado": "De acordo com os Parâmetros Curriculares Nacionais, a educação escolar deve constituir - se em uma ajuda para crianças, adolescentes e jovens durante um período contínuo e extensivo de tempo, diferindo de processos educativos que ocorrem em outras instâncias , como na família, no trabalho, na mídia, no lazer e nos demais espaços de construção de conhecimentos e valores para o convívio social. Ainda conforme os referidos parâmetros, são destacadas quatro dimensões dessa ajuda, que foram elencadas a seguir, exceto: (",
+            "alternativas": {
+                "A": "intencional (",
+                "B": "sistemática (",
+                "C": "planejada (",
+                "D": "continuada (",
+                "E": "sistêmica Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO PROFESSOR AUXILIAR Página 15 de 15"
             },
             "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 24: Leia as asserções a seguir, em relação aos \nparadigmas que caracterizam cada etapa, e \ndestaque a alternativa que traz uma informação \nimprocedente.",
-            "alternativas": {
-                "A": "O período da exclusão é marcado pela \nforma como as primeiras civilizações se \nagrupavam, e como eram divididas as tarefas \nentre determinados povos.",
-                "B": "A segregação retrata uma realidade \ncaracterizada pelo forte papel desempenhado \npela igreja em prol da normatização da \nsociedade.",
-                "C": "A inserção das pessoas com deficiência na \nsociedade somente começou a partir do \nparadigma da inclusão.",
-                "D": "No período da integração, mais \nespecificamente no ano de 1854, foi criado no \npaís do Instituto voltado para as pessoas com \ndeficiência visual, oportunizando a sua \nalfabetização.",
-                "E": "As adaptações em todos os âmbitos \neducacionais não são suficientes para tornar \numa escola inclusiva.  \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 12 de 15 QUESTÃO 42  \nEm consonância literal com a Lei n. \n13.005/2014, em relação ao respectivo sistema \nde avaliação definido pelo instrumento legal \nem questão, leia os enunciados, marque V \n(verdadeiro) e F (falso) e, posteriormente, a \nalternativa pertinente.  \n[...] O Sistema Nacional de Avaliação da \nEducação Básica, coordenado pelos Estados, \nem parceria com os Municípios, constituirá \nfonte de informação para a avaliação da \nqualidade da educação básica e para a \norientação das políticas públicas desse nível de \nensino . \n[...] A cada dois anos, deverão ser produzidos \nindicadores de rendimento escolar, referentes \nao desempenho dos (as) estudantes apurado em \nexames nacionais de avaliação, com \nparticipação de pelo menos 70% (setenta por \ncento) dos (as) alunos (as) de cada ano esc olar \nperiodicamente avaliado em cada escola, e aos \ndados pertinentes apurados pelo censo escolar \nda educação básica.  \n[...] A cada dois anos, deverão ser produzidos \nindicadores de avaliação institucional, \nrelativos a características como o perfil do \nalunado e do corpo dos (as) profissionais da \neducação, as relações entre dimensão do corpo \ndocente, do corpo técnico e do corpo discente, \na infraestrutura das escolas, os recursos \npedagógicos disponíveis e os processos da \ngestão, entre outras relevantes.  \n[...] A elaboração e a divulgação de índices \npara avaliação da qualidade, como o Índice de \nDesenvolvimento da Educação Básica - IDEB, \nque agreguem os indicadores mencionados no \ninciso I do § 1o da referida Lei elidem a \nobrigatoriedade de divulgação, em separado, \nde cada um deles.  \n[...] Cabem ao Inep a elaboração e o cálculo do \nIdeb e dos indicadores referidos.  \n(A) F, F, V, F, V  \n(B) V, F, V, V, V  \n(C) V, V, V, V, V  \n(D) F, F, F, F, F  \n(E) F, V, F, V, F  QUESTÃO 43  \nSobre o ciclo de aprendizagem, é impertinente \nafirmar:  \n \n(A) O ciclo de aprendizagem constitui um \nmodelo teórico que corrobora para a melhor \ncompreensão acerca dos aspectos envolvidos \nna aquisição de conhecimento e habilidades \npelas pessoas.  \n(B) O ciclo de aprendizagem é constituído por \num ciclo de etapas. Cada etapa é marcada pelo \nseu início, desenvolvimento e fim, momento \nem que se inicia uma nova etapa.  \n(C) O ciclo de aprendizagem é geralmente \ndividido em quatro etapas principais: \nexperiência concreta, observação reflexiva, \nconceituação abstrata e experimentação ativa.  \n(D) O ciclo de aprendizagem oportuniza uma \nabordagem holística da aprendizagem.  \n(E) O ciclo de aprendizagem permite uma \nabordagem mais prática do conteúdo a ser \ntrabalhado."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 25: Observe os predicativos a seguir e destaque o \nque melhor condiz com a avaliação qualitativa.",
-            "alternativas": {
-                "A": "Aferição do cumprimento de pré -\nrequisitos.",
-                "B": "Estimativa de possíveis deficiências dos \neducandos.",
-                "C": "Classificação geral da aprendizagem.",
-                "D": "Dimensão panorâmica do processo \neducativo.",
-                "E": "Determinação do rendimento escolar.  \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 13 de 15 QUESTÃO 45  \nSobre os portfólios de aprendizagem, leia as \nasserções posteriores e marque na sequência a \nalternativa correspondente.  \nI – A consigna de portfólio representa \nespecificamente a coleção de evidências ou \nexperiências tanto no âmbito acadêmico como \nprofissional.  \nII – O portfólio surgiu no universo das \nengenharias como um instrumento de controle \nde gestão.  \nIII - No campo educacional, o portfólio tornou -\nse uma metodologia de ensino e reflexão sobre \naquilo que foi aprendido e, consequentemente, \numa avaliação contínua e qualitativa da \naprendizagem.  \nIV - Os portfólios participam de todas as etapas \neducacionais e de desenvolvimento \nprofissional.  \nV – O portfólio é considerado uma \nmetodologia de ensino e aprendizagem uma \nvez que permite avaliar de forma específica o \nque foi aprendido.  \n(A) Todas as alternativas são verdadeiras.  \n(B) Todas as alternativas são falsas.  \n(C) Apenas as alternativas I e IV são \nverdadeiras.  \n(D) Apenas as alternativas III e V são \nverdadeiras.  \n(E) Apenas a alternativa I é falsa."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 26: Dentro dos documentos legais que \ncontextualizam a política educacional na \nperspectiva da educação inclusiva, complete o \nexcerto a seguir extraído de Brasil (2010) com \nos termos correspondentes.  \nA educação inclusiva constitui um paradigma \neducacional fundamentado na concepção de \ndireitos humanos, que conjuga igualdade e \ndiferença como _______________, e que \navança em relação à idéia de equidade formal \nao contextualizar as circunstâncias históricas  \nda produção da exclusão dentro e fora da \nescola.",
-            "alternativas": {
-                "A": "condições básicas",
-                "B": "valores indissociáveis",
-                "C": "características complementares",
-                "D": "aspectos inatos",
-                "E": "atributos essenciais  \n QUESTÃO 47  \nTomando como parâmetro a perspectiva de \nBrasil (2010), a visão dos direitos humanos e o \nconceito de cidadania fundamentado no \nreconhecimento das diferenças e participação \ndos sujeitos, decorre uma identificação dos \nmecanismos e processos de hierarquização que \noperam na  regulação e produção de qual dos \naspectos descritos a seguir?  \n(A) inclusão  \n(B) exclusão  \n(C) igualdades  \n(D) desigualdades  \n(E) integração"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 27: A partir das Diretrizes Curriculares da \nEducação Básica, é possível compreender \nmelhor o conceito de transversalidade, um \nassunto importante na sistematização das \npráticas pedagógicas. Sobre a transversalidade, \ndepreende -se, salvo:",
-            "alternativas": {
-                "A": "Refere -se à forma de organizar o trabalho \ndidático -pedagógico em que temas, eixos \ntemáticos são integrados às disciplinas.",
-                "B": "Rejeita a concepção de conhecimento que \ntoma a realidade como algo estável, pronto e \nacabado.",
-                "C": "Refere -se à abordagem epistemológica dos \nobjetos de conhecimento",
-                "D": "Orienta para a necessidade de se instituir, \nna prática educativa, uma analogia entre \naprender conhecimentos teoricamente \nsistematizados e as questões da vida real.",
-                "E": "Dentro de uma compreensão \ninterdisciplinar do conhecimento, a \ntransversalidade tem significado, sendo uma \nproposta didática que possibilita o tratamento \ndos conhecimentos escolares de forma \nintegrada.  \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 14 de 15 QUESTÃO 49  \nDe acordo com as Diretrizes Curriculares \nNacionais Gerais da Educação Básica, ao \nlongo da Educação Infantil, “deve -se assumir \no cuidado e a educação, valorizando a \naprendizagem para a conquista da cultura da \nvida, por meio de atividades lúdicas em \nsituações de aprendizagem (jogos e \nbrinquedos), formulando proposta pedagógica \nque considere o currículo como conjunto de \nexperiências em que se articulam saberes da \nexperiência e socialização do conhecimento \nem seu dinami smo, depositando ênfase [...]”. \nAs alternativas a seguir complementam \nliteralmente o enunciado anterior. Porém, uma \ndelas não foi elaborada corretamente, assinale -\na: \n \n(A) na gestão das emoções.  \n(B) no desenvolvimento de hábitos higiênicos \ne alimentares.  \n(C) na vivência de situações destinadas à \norganização dos objetos pessoais e escolares.  \n(D) na vivência de situações de preservação \ndos recursos da natureza.  \n(E) no contato com diferentes linguagens \nrepresentadas, predominantemente, pelo \ndesenvolvimento da prontidão para a leitura e \nescrita."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR AUXILIAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 28: De acordo com os Parâmetros Curriculares \nNacionais, a educação escolar deve constituir -\nse em uma ajuda para crianças, adolescentes e \njovens durante um período contínuo e \nextensivo de tempo, diferindo de processos \neducativos que ocorrem em outras instâncias , \ncomo na família, no trabalho, na mídia, no \nlazer e nos demais espaços de construção de \nconhecimentos e valores para o convívio \nsocial. Ainda conforme os referidos \nparâmetros, são destacadas quatro dimensões \ndessa ajuda, que foram elencadas a seguir, \nexceto:",
-            "alternativas": {
-                "A": "intencional",
-                "B": "sistemática",
-                "C": "planejada",
-                "D": "continuada",
-                "E": "sistêmica  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                              INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR AUXILIAR                                                                                                                              Página 15 de 15"
-            },
-            "resposta_correta": "A"
         }
     ]
 }

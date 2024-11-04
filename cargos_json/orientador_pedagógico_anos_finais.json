@@ -4,13 +4,14 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: O texto Versões, de Luís Fernando Verissimo, \nretrata os pensamentos de um personagem acerca \nde cenários possíveis decorrentes de caminhos \nnão tomados em sua vida. As expressões \nlinguísticas que corroboram a construção do \nsentido de hipótese, em relação à imaginação \ndesses cenários, são:",
+            "questão": "Questão 1",
+            "enunciado": "O texto Versões, de Luís Fernando Verissimo, retrata os pensamentos de um personagem acerca de cenários possíveis decorrentes de caminhos não tomados em sua vida. As expressões linguísticas que corroboram a construção do sentido de hipótese, em relação à imaginação desses cenários, são: (",
             "alternativas": {
-                "A": "os verbos conjugados no presente do modo \nindicativo.",
-                "B": "as orações subordinadas condicionais \nreticentes, iniciadas pela conjunção se.",
-                "C": "os pronomes em primeira pessoa.",
-                "D": "os discursos diretos na narrativa.",
-                "E": "as locuções verbais formadas por um verbo \nno pretérito perfeito do indicativo e um verbo no \nparticípio."
+                "A": "os verbos conjugados no presente do modo indicativo. (",
+                "B": "as orações subordinadas condicionais reticentes, iniciadas pela conjunção se. (",
+                "C": "os pronomes em primeira pessoa. (",
+                "D": "os discursos diretos na narrativa. (",
+                "E": "as locuções verbais formadas por um verbo no pretérito perfeito do indicativo e um verbo no particípio."
             },
             "resposta_correta": "B"
         },
@@ -18,13 +19,14 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: A expressão em sentido figurado “por uma \nfábula”, empregada no excerto “Fui vendido para \no futebol europeu, por uma fábula.”, se refere:",
+            "questão": "Questão 2",
+            "enunciado": "A expressão em sentido figurado “por uma fábula”, empregada no excerto “Fui vendido para o futebol europeu, por uma fábula.”, se refere: (",
             "alternativas": {
-                "A": "a uma narrativa imaginária que foi criada em \ntorno do jogador de futebol.",
-                "B": "a uma mentira que lhe foi contada no \npassado.",
-                "C": "à alta quantia de dinheiro envolvida em sua \nvenda para o futebol europeu.",
-                "D": "à baixa quantia de dinheiro envolvida em sua \nvenda para o futebol europeu.",
-                "E": "a um aspecto de sua carreira que foi motivo \nde zombaria por outras pessoas. \n \nConsidere o excerto a seguir para responder \nàs questões 3, 4, 5 e 6: \n \nAgora mesmo neste  bar imaginário em que estou \nbebendo para esquecer o que não fiz — aliás, o \nnome do bar é Imaginário —, sentou um cara do \nmeu lado direito e se apresentou: — Eu sou você, \nse tivesse feito aquele teste no Botafogo. \n \n \n \n \n \n QUESTÃO 03 \nA classe gramatical à qual pertence a palavra \n“aliás”, que ocorre no excerto apresentado, è:  \n(A) substantivo. \n(B) preposição. \n(C) conjunção. \n(D) advérbio. \n(E) adjetivo."
+                "A": "a uma narrativa imaginária que foi criada em torno do jogador de futebol. (",
+                "B": "a uma mentira que lhe foi contada no passado. (",
+                "C": "à alta quantia de dinheiro envolvida em sua venda para o futebol europeu. (",
+                "D": "à baixa quantia de dinheiro envolvida em sua venda para o futebol europeu. (",
+                "E": "a um aspecto de sua carreira que foi motivo de zombaria por outras pessoas. Considere o excerto a seguir para responder às questões 3, 4, 5 e 6: Agora mesmo neste bar imaginário em que estou bebendo para esquecer o que não fiz — aliás, o nome do bar é Imaginário —, sentou um cara do meu lado direito e se apresentou: — Eu sou você, se tivesse feito aquele teste no Botafogo."
             },
             "resposta_correta": "C"
         },
@@ -32,13 +34,14 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 3: As palavras em destaque no excerto apresentado \nsão, respectivamente, pronomes dos tipos:",
+            "questão": "Questão 3",
+            "enunciado": "A classe gramatical à qual pertence a palavra “aliás”, que ocorre no excerto apresentado, è: (",
             "alternativas": {
-                "A": "relativo, demonstrativo, relativo e indefinido.",
-                "B": "demonstrativo, pessoal, interrogativo e \npessoal.",
-                "C": "demonstrativo, demonstrativo, interrogativo \ne pessoal.",
-                "D": "demonstrativo, pessoal, relativo e indefinido.",
-                "E": "demonstrativo, demonstrativo, relativo e \npessoal."
+                "A": "substantivo. (",
+                "B": "preposição. (",
+                "C": "conjunção. (",
+                "D": "advérbio. (",
+                "E": "adjetivo."
             },
             "resposta_correta": "D"
         },
@@ -46,13 +49,14 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 4: Na sentença “—  Eu sou você, se tivesse feito \naquele teste no Botafogo.”, a função gramatical \ndo vocábulo “se” è:",
+            "questão": "Questão 4",
+            "enunciado": "As palavras em destaque no excerto apresentado são, respectivamente, pronomes dos tipos: (",
             "alternativas": {
-                "A": "conectar a oração principal à subordinada.",
-                "B": "modificar o pronome de tratamento “você”.",
-                "C": "modificar o verbo “sou”.",
-                "D": "conectar os constituintes intraoracionais \n“você” e “tivesse”.",
-                "E": "modificar o verbo “tivesse”."
+                "A": "relativo, demonstrativo, relativo e indefinido. (",
+                "B": "demonstrativo, pessoal, interrogativo e pessoal. (",
+                "C": "demonstrativo, demonstrativo, interrogativo e pessoal. (",
+                "D": "demonstrativo, pessoal, relativo e indefinido. (",
+                "E": "demonstrativo, demonstrativo, relativo e pessoal."
             },
             "resposta_correta": "E"
         },
@@ -60,13 +64,14 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 5: No contexto dado, a regência do verbo \n“apresentar” è:",
+            "questão": "Questão 5",
+            "enunciado": "Na sentença “— Eu sou você, se tivesse feito aquele teste no Botafogo.”, a função gramatical do vocábulo “se” è: (",
             "alternativas": {
-                "A": "transitiva direta.",
-                "B": "transitiva indireta.",
-                "C": "transitiva direta e indireta.",
-                "D": "pronominal.",
-                "E": "intransitiva. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 4 de 15 QUESTÃO 07 \nAnalise as sentenças a seguir e assinale aquela \nem que a(s) forma(s) verbal(is) empregada(s) \nestá(ão) correta(s).  \n(A) Quando sobrepor a carta à mesa, lembre-se \nde prendê-la neste caderno. \n(B) Nós repomos todos os itens do estoque ontem \nà tarde. \n(C) Se você ver Maria nos corredores, avise-a de \nque estou procurando por ela. \n(D) Não houveram motivos que o impedissem de \nlutar por sua amada. \n(E) Eles retiveram o garoto na delegacia."
+                "A": "conectar a oração principal à subordinada. (",
+                "B": "modificar o pronome de tratamento “você”. (",
+                "C": "modificar o verbo “sou”. (",
+                "D": "conectar os constituintes intraoracionais “você” e “tivesse”. (",
+                "E": "modificar o verbo “tivesse”."
             },
             "resposta_correta": "A"
         },
@@ -74,12 +79,28 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 6: Analise as sentenças a seguir quanto ao emprego \ndo acento indicativo de crase. Assinale a \nalternativa em que o uso desse acento é \nfacultativo.",
+            "questão": "Questão 6",
+            "enunciado": "No contexto dado, a regência do verbo “apresentar” è: (",
             "alternativas": {
-                "A": "O pagamento desta compra será realizado à \nvista.",
-                "B": "Nada sei quanto à última decisão do colégio.",
-                "C": "A reunião de balanço da empresa será \nrealizada às 10h.",
-                "D": "Durante a apresentação, ele fez duras críticas \nà sua amiga.",
+                "A": "transitiva direta. (",
+                "B": "transitiva indireta. (",
+                "C": "transitiva direta e indireta. (",
+                "D": "pronominal. (",
+                "E": "intransitiva. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 4 de 15 QUESTÃO 07 Analise as sentenças a seguir e assinale aquela em que a(s) forma(s) verbal(is) empregada(s) está(ão) correta(s). (A) Quando sobrepor a carta à mesa, lembre-se de prendê-la neste caderno. (B) Nós repomos todos os itens do estoque ontem à tarde. (C) Se você ver Maria nos corredores, avise-a de que estou procurando por ela. (D) Não houveram motivos que o impedissem de lutar por sua amada. (E) Eles retiveram o garoto na delegacia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8",
+            "enunciado": "Analise as sentenças a seguir quanto ao emprego do acento indicativo de crase. Assinale a alternativa em que o uso desse acento é facultativo. (",
+            "alternativas": {
+                "A": "O pagamento desta compra será realizado à vista. (",
+                "B": "Nada sei quanto à última decisão do colégio. (",
+                "C": "A reunião de balanço da empresa será realizada às 10h. (",
+                "D": "Durante a apresentação, ele fez duras críticas à sua amiga. (",
                 "E": "Não estou à mercê de ninguém."
             },
             "resposta_correta": "D"
@@ -88,41 +109,14 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 7: Assinale a alternativa em que a forma pluralizada \ndos substantivos compostos está correta, \nconsiderando o emprego do hífen.",
+            "questão": "Questão 9",
+            "enunciado": "Assinale a alternativa em que a forma pluralizada dos substantivos compostos está correta, considerando o emprego do hífen. (",
             "alternativas": {
-                "A": "caças-níqueis.",
-                "B": "estados-membro.",
-                "C": "flores-de-abril.",
-                "D": "cavalos-vapores.",
-                "E": "bananas-das-terras. \n \n \n \n QUESTÃO 10 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica a colocação \npronominal correta, segundo a norma-padrão da \nlíngua portuguesa. \n(A) Lhe compraram todos os presentes que \nesperava receber. \n(B) Desconheço alguém que interessa-se por \nliteratura. \n(C) Ainda não entreguei-lhe os livros \nemprestados. \n(D) Os exercícios de matemática vão ajudá-lo no \nvestibular. \n(E) Os pais decidiram a colocar nas aulas de \nnatação ainda bebê. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 8: Em uma academia, três amigos, André, Bianca e \nCarlos, estão competindo para ver quem \nconsegue levantar mais peso. André consegue \nlevantar 80% do peso que Bianca consegue, \nenquanto Carlos consegue levantar 75% do peso \nque André consegue. Sabendo que a soma dos \npesos levantados é 360 kg, qual a soma do peso \nlevantado por André e Bianca?",
-            "alternativas": {
-                "A": "270 kg.",
-                "B": "120 kg.",
-                "C": "150 kg.",
-                "D": "230 kg.",
-                "E": "190 kg. \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 5 de 15 QUESTÃO 12 \nMarcelo estava fazendo uma pesquisa de preço \npara comprar um celular novo em algumas lojas. \nNa primeira loja que entrou o aparelho custava \nR$ 1200,00. Na segunda loja o preço era um \nterço da primeira mais quinhentos reais. Na \nterceira loja o preço era metade da segunda mais \nmil reais. Qual era a loja com o aparelho mais \nbarato e quanto custava o aparelho na terceira \nloja, respectivamente? \n(A) Primeira e R$ 1200,00. \n(B) Segunda e R$ 1250,00. \n(C) Terceira e R$ 1450,00. \n(D) Segunda e R$ 1450,00. \n(E) Primeira e R$ 1250,00."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 9: Em um determinado jogo de turnos, é permitido \nque o personagem avance em passos \nfracionários. Na primeira rodada o jogador dá 4/3 \nde passo, na segunda rodada dá 8/9 de passo, e na \nterceira rodada dá 16/27. Seguindo esta \nsequência lógica, na quarta rodada qual será o \ntamanho do passo do jogador?",
-            "alternativas": {
-                "A": "16/54.",
-                "B": "16/49.",
-                "C": "32/54.",
-                "D": "32/81.",
-                "E": "64/81. \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 14 \nPara serem aprovados em um determinado \nvestibular, os candidatos precisam fazer provas \nde Português, Matemática, Conhecimentos \nEspecíficos e uma Redação. As notas finais dos \nestudantes são calculadas com base na média \naritmética ponderada das provas. Os pesos de \ncada prova são respectivamente 3, 3, 3 e 1. \nPorém, a universidade possui também uma regra \ntal que: se a média aritmética simples das notas \nfor maior que a média ponderada, ela passará a \nser a nota final. Considere as notas dos \nparticipantes listados na tabela abaixo: \n \n Estudantes \n I II III \nPortuguês  8 6 9 \nMatemática  7 8 6 \nConhecimentos \nEspecíficos 9 7 8 \nRedação 6 9 7 \n \nA nota final dos estudantes I, II e III é, \nrespectivamente: \n(A) 7,8; 7,0 e 7,5.  \n(B) 7,2; 7,6 e 7,7.  \n(C) 7,8; 7,5 e 7,6.  \n(D) 7,5; 7,5 e 7,0.  \n(E) 7,8; 7,2 e 7,6.  \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 6 de 15 QUESTÃO 15 \nSabendo que, na figura abaixo, o círculo está \ncentrado em um dos vértices do quadrado, o \ndiâmetro do círculo mede 8 cm e o lado do \nquadrado mede 6 cm. Indique a área sombreada \nna figura: Considere 𝜋 ≈ 3 . \n \n(A) 10 cm2. \n(B) 12 cm2. \n(C) 30 cm2. \n(D) 6 cm2. \n(E) 20 cm2."
+                "A": "caças-níqueis. (",
+                "B": "estados-membro. (",
+                "C": "flores-de-abril. (",
+                "D": "cavalos-vapores. (",
+                "E": "bananas-das-terras."
             },
             "resposta_correta": "C"
         },
@@ -130,13 +124,14 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 10: Em uma casa há três aparelhos de celular. O \nprimeiro aparelho passa por atualizações de \nsistema a cada 15 dias, o segundo a cada 20 dias \ne o terceiro a cada 30 dias. Suponha que os três \naparelhos foram comprados simultaneamente e \nna hora da compra foram todos atualizados. \nQuantos ciclos de atualização terão sido feitos no \nprimeiro celular quando todos os aparelhos \nforem atualizados simultaneamente pela primeira \nvez?",
+            "questão": "Questão 10",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa em que se verifica a colocação pronominal correta, segundo a norma-padrão da língua portuguesa. (",
             "alternativas": {
-                "A": "3.",
-                "B": "4.",
-                "C": "5.",
-                "D": "6.",
-                "E": "10. \n \n \n \n \n \n QUESTÃO 17 \nEm uma rua, foram plantadas árvores numeradas \nde 1 a 90. As árvores foram distribuídas \nuniformemente ao longo da rua. Se um morador \nquer podar todas as árvores cujo número é um \nmúltiplo de 3 ou um múltiplo de 4, quantas \nárvores ficarão sem poda? \n(A) 12. \n(B) 30. \n(C) 45. \n(D) 33. \n(E) 42."
+                "A": "Lhe compraram todos os presentes que esperava receber. (",
+                "B": "Desconheço alguém que interessa-se por literatura. (",
+                "C": "Ainda não entreguei-lhe os livros emprestados. (",
+                "D": "Os exercícios de matemática vão ajudá-lo no vestibular. (",
+                "E": "Os pais decidiram a colocar nas aulas de natação ainda bebê. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "D"
         },
@@ -144,251 +139,134 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 11: Em uma temporada de colheita, um agricultor \nobteve 4 lotes com milhos de comprimentos \ndiferentes. No lote A foram 50 espigas de 27 cm, \nno lote B foram 100 espigas de 31 cm, no lote C \nmais 100 espigas de 29 cm e no lote D mais 50 \nespigas de 33 cm. Qual a média do comprimento \ndas espigas de milho, em cm, obtidas pelo \nagricultor nesta safra?",
+            "questão": "Questão 11",
+            "enunciado": "Em uma academia, três amigos, André, Bianca e Carlos, estão competindo para ver quem consegue levantar mais peso. André consegue levantar 80% do peso que Bianca consegue, enquanto Carlos consegue levantar 75% do peso que André consegue. Sabendo que a soma dos pesos levantados é 360 kg, qual a soma do peso levantado por André e Bianca? (",
             "alternativas": {
-                "A": "27.",
-                "B": "28.",
-                "C": "29.",
-                "D": "30.",
+                "A": "270 kg. (",
+                "B": "120 kg. (",
+                "C": "150 kg. (",
+                "D": "230 kg. (",
+                "E": "190 kg. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 5 de 15 QUESTÃO 12 Marcelo estava fazendo uma pesquisa de preço para comprar um celular novo em algumas lojas. Na primeira loja que entrou o aparelho custava R$ 1200,00. Na segunda loja o preço era um terço da primeira mais quinhentos reais. Na terceira loja o preço era metade da segunda mais mil reais. Qual era a loja com o aparelho mais barato e quanto custava o aparelho na terceira loja, respectivamente? (A) Primeira e R$ 1200,00. (B) Segunda e R$ 1250,00. (C) Terceira e R$ 1450,00. (D) Segunda e R$ 1450,00. (E) Primeira e R$ 1250,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13",
+            "enunciado": "Em um determinado jogo de turnos, é permitido que o personagem avance em passos fracionários. Na primeira rodada o jogador dá 4/3 de passo, na segunda rodada dá 8/9 de passo, e na terceira rodada dá 16/27. Seguindo esta sequência lógica, na quarta rodada qual será o tamanho do passo do jogador? (",
+            "alternativas": {
+                "A": "16/54. (",
+                "B": "16/49. (",
+                "C": "32/54. (",
+                "D": "32/81. (",
+                "E": "64/81."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14",
+            "enunciado": "Para serem aprovados em um determinado vestibular, os candidatos precisam fazer provas de Português, Matemática, Conhecimentos Específicos e uma Redação. As notas finais dos estudantes são calculadas com base na média aritmética ponderada das provas. Os pesos de cada prova são respectivamente 3, 3, 3 e 1. Porém, a universidade possui também uma regra tal que: se a média aritmética simples das notas for maior que a média ponderada, ela passará a ser a nota final. Considere as notas dos participantes listados na tabela abaixo: Estudantes I II III Português 8 6 9 Matemática 7 8 6 Conhecimentos Específicos 9 7 8 Redação 6 9 7 A nota final dos estudantes I, II e III é, respectivamente: (",
+            "alternativas": {
+                "A": "7,8; 7,0 e 7,5. (",
+                "B": "7,2; 7,6 e 7,7. (",
+                "C": "7,8; 7,5 e 7,6. (",
+                "D": "7,5; 7,5 e 7,0. (",
+                "E": "7,8; 7,2 e 7,6. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 6 de 15 QUESTÃO 15 Sabendo que, na figura abaixo, o círculo está centrado em um dos vértices do quadrado, o diâmetro do círculo mede 8 cm e o lado do quadrado mede 6 cm. Indique a área sombreada na figura: Considere 𝜋 ≈ 3 . (A) 10 cm2. (B) 12 cm2. (C) 30 cm2. (D) 6 cm2. (E) 20 cm2."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16",
+            "enunciado": "Em uma casa há três aparelhos de celular. O primeiro aparelho passa por atualizações de sistema a cada 15 dias, o segundo a cada 20 dias e o terceiro a cada 30 dias. Suponha que os três aparelhos foram comprados simultaneamente e na hora da compra foram todos atualizados. Quantos ciclos de atualização terão sido feitos no primeiro celular quando todos os aparelhos forem atualizados simultaneamente pela primeira vez? (",
+            "alternativas": {
+                "A": "3. (",
+                "B": "4. (",
+                "C": "5. (",
+                "D": "6. (",
+                "E": "10."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17",
+            "enunciado": "Em uma rua, foram plantadas árvores numeradas de 1 a 90. As árvores foram distribuídas uniformemente ao longo da rua. Se um morador quer podar todas as árvores cujo número é um múltiplo de 3 ou um múltiplo de 4, quantas árvores ficarão sem poda? (",
+            "alternativas": {
+                "A": "12. (",
+                "B": "30. (",
+                "C": "45. (",
+                "D": "33. (",
+                "E": "42."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18",
+            "enunciado": "Em uma temporada de colheita, um agricultor obteve 4 lotes com milhos de comprimentos diferentes. No lote A foram 50 espigas de 27 cm, no lote B foram 100 espigas de 31 cm, no lote C mais 100 espigas de 29 cm e no lote D mais 50 espigas de 33 cm. Qual a média do comprimento das espigas de milho, em cm, obtidas pelo agricultor nesta safra? (",
+            "alternativas": {
+                "A": "27. (",
+                "B": "28. (",
+                "C": "29. (",
+                "D": "30. (",
                 "E": "31."
             },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19",
+            "enunciado": "Maria havia plantado um pé de café em seu quintal que estava com 25 cm de altura. Sua mãe então lhe disse que se a planta fosse regada a cada 2 dias por um ano, ela deveria chegar até 250% do seu tamanho atual. Maria então seguiu à risca o que sua mãe falou. Após passado um ano, Maria mediu o seu pé de café e este estava com 75 cm de altura. Qual a diferença, em cm, entre o tamanho prometido pela mãe de Maria e o tamanho real do pé de café, no momento da medição? (",
+            "alternativas": {
+                "A": "10. (",
+                "B": "11. (",
+                "C": "12,5. (",
+                "D": "15. (",
+                "E": "16,5. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 7 de 15 QUESTÃO 20 Ao realizar o planejamento de um determinado serviço, uma empresa calcula a sua margem de lucro como sendo 6% do valor total a ser cobrado. O lucro da empresa está dentro das Despesas Indiretas do serviço. Sabe-se que as Despesas Indiretas no geral representam 30% do total a ser cobrado. Nesta situação, quantos por cento o lucro representa das despesas indiretas? (A) 20%. (B) 25%. (C) 30%. (D) 33%. (E) 15%. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21",
+            "enunciado": "Um gerenciador de e-mails, também conhecido como cliente de e-mail, é um software projetado para ajudar os usuários a enviar, receber, organizar e gerenciar suas mensagens de e-mail. Essas ferramentas oferecem uma interface de usuário para interagir com serviços de e-mail, facilitando a comunicação eletrônica. Diante do contexto apresentado, analise as imagens a seguir e assinale a alternativa correta. (",
+            "alternativas": {
+                "A": "As duas primeiras imagens representam gerenciadores de e-mails, sendo a primeira da Google e a segunda parte integrante da suíte do Pacote Office. (",
+                "B": "As duas primeiras imagens representam gerenciadores de e-mails desenvolvidos e mantidos pela Google. (",
+                "C": "As duas últimas imagens representam softwares de desenvolvimento de planilhas eletrônicas. (",
+                "D": "Nenhuma das imagens representam gerenciadores de e-mails. (",
+                "E": "Todas as imagens representam gerenciadores de e-mails."
+            },
             "resposta_correta": "A"
         },
         {
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 12: Maria havia plantado um pé de café em seu \nquintal que estava com 25 cm de altura. Sua mãe \nentão lhe disse que se a planta fosse regada a cada \n2 dias por um ano, ela deveria chegar até 250% \ndo seu tamanho atual. Maria então seguiu à risca \no que sua mãe falou. Após passado um ano, \nMaria mediu o seu pé de café e este estava com \n75 cm de altura. Qual a diferença, em cm, entre o \ntamanho prometido pela mãe de Maria e o \ntamanho real do pé de café, no momento da \nmedição?",
+            "questão": "Questão 22",
+            "enunciado": "Uma URL é um endereço que é usado para identificar recursos na internet e fornecer um meio fácil de acessar esses recursos. Pode-se afirmar que URL significa: (",
             "alternativas": {
-                "A": "10.",
-                "B": "11.",
-                "C": "12,5.",
-                "D": "15.",
-                "E": "16,5. \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 7 de 15 QUESTÃO 20 \nAo realizar o planejamento de um determinado \nserviço, uma empresa calcula a sua margem de \nlucro como sendo 6% do valor total a ser \ncobrado. O lucro da empresa está dentro das \nDespesas Indiretas do serviço. Sabe-se que as \nDespesas Indiretas no geral representam 30% do \ntotal a ser cobrado. Nesta situação, quantos por \ncento o lucro representa das despesas indiretas? \n(A) 20%. \n(B) 25%. \n(C) 30%. \n(D) 33%.  \n(E) 15%. \n \nNOÇÕES DE INFORMÁTICA"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 13: Um gerenciador de e-mails, também conhecido \ncomo cliente de e-mail, é um software projetado \npara ajudar os usuários a enviar, receber, \norganizar e gerenciar suas mensagens de e-mail. \nEssas ferramentas oferecem uma interface de \nusuário para interagir com serviços de e-mail, \nfacilitando a comunicação eletrônica. Diante do \ncontexto apresentado, analise as imagens a seguir \ne assinale a alternativa correta.",
-            "alternativas": {
-                "A": "As duas primeiras imagens representam \ngerenciadores de e-mails, sendo a primeira da \nGoogle e a segunda parte integrante da suíte do \nPacote Office.",
-                "B": "As duas primeiras imagens representam \ngerenciadores de e-mails desenvolvidos e \nmantidos pela Google.",
-                "C": "As duas últimas imagens representam \nsoftwares de desenvolvimento de planilhas \neletrônicas.",
-                "D": "Nenhuma das imagens representam \ngerenciadores de e-mails.",
-                "E": "Todas as imagens representam gerenciadores \nde e-mails. \n QUESTÃO 22 \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Pode-se \nafirmar que URL significa: \n(A) User Resource Locator. \n(B) Uniform Resor Locator. \n(C) Uniform Resource Lover. \n(D) User Resort Locator.  \n(E) Uniform Resource Locator."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 14: A opção \"Quebrar Texto Automaticamente\" no \nExcel permite que você exiba todo o conteúdo de \numa célula em várias linhas, automaticamente \najustando a altura da célula para acomodar o \ntexto. Diante do contexto apresentado, assinale a \nalternativa que representa o botão \"Quebrar \nTexto Automaticamente\" do Excel.",
-            "alternativas": {
-                "A": "(B)  \n \n(C)  \n \n(D)  \n \n(E)  \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 8 de 15 QUESTÃO 24 \nAs fórmulas do Excel são fundamentais para \nrealizar cálculos, análises e manipulações de \ndados de maneira eficiente dentro da planilha, \nassim, pode-se informar que fazem parte de \nfórmulas do Excel: \nI. =SOMA \nII. #SOMA \nIII. =MÉDIA \nIV. #MÉDIA \n(A) I e II, apenas.",
-                "B": "I e III, apenas.",
-                "C": "I, II e IV, apenas.",
-                "D": "I, II e III, apenas.",
-                "E": "Nenhuma das afirmativas estão corretas."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 15: Há muitas opções de formatação de texto \ndisponíveis no Microsoft Word, as quais \naperfeiçoam o texto tornando-o mais dinâmico \nao ledor. Nesse contexto, analise a imagem \nabaixo: \nTEXTO \nAssinale a alternativa que contenha corretamente \na função utilizada para a formatação da palavra \n“texto”.",
-            "alternativas": {
-                "A": "Negrito.",
-                "B": "Subscrito.",
-                "C": "Sublinhado.",
-                "D": "Itálico.",
-                "E": "Tachado. \n \n \n \n \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 16: De acordo com Vasconcellos, “a prática \neducativa escolar dependerá, em grande medida, \nda concepção de currículo que se tem, em função \ndas repercussões bem concretas de tal \nrepresentação na organização do trabalho \npedagógico”. Nesse sentido, assinale a \nalternativa que vai de encontro com a perspectiva \napresentada pelo referido autor em relação ao \ncurrículo.",
-            "alternativas": {
-                "A": "No período compreendido até os anos 60 do \nséculo XX, o conceito de currículo era restrito a \numa lista de conteúdos.",
-                "B": "Contemporaneamente, para acompanhar o \ndesenvolvimento de uma nova proposta \npedagógica, preocupações clássicas na área do \ncurrículo, como por exemplo, distribuição dos \nconteúdos devem ser superadas e relegadas a \nsegundo plano.",
-                "C": "O currículo oculto deve obrigatoriamente \nfazer parte da concepção contemporânea sobre o \ncurrículo.",
-                "D": "O currículo não deve ser entendido como um \npercurso prévio e definitivamente estabelecido, \nmas como um caminho passível de mudanças.",
-                "E": "O currículo, enquanto meio de atribuição de \nsentido às diversas atividades realizadas no \ncontexto escolar, não pode ser analisado de \nforma isolada, mas sim em relação com o todo."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 17: “Na etapa da Educação Infantil, os princípios, \nconceitos e concepções que fundamentam a \nproposta de organização curricular da BNCC \nreferendam o que está proposto nas Diretrizes \nCurriculares Nacionais da EI, homologadas em \n2009” (BRASIL, 2018).  \nNesse sentido, qual a inovação que a BNCC traz \npara a organização curricular da Educação \nInfantil?",
-            "alternativas": {
-                "A": "Organização curricular por campos de \nexperiências.",
-                "B": "Organização curricular por fase de \ndesenvolvimento.",
-                "C": "Organização curricular por método \npedagógico.",
-                "D": "Organização curricular por competências.",
-                "E": "Organização curricular por ciclos. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 9 de 15 QUESTÃO 28 \nO orientador pedagógico possui um papel \nsignificativo do cotidiano escolar, uma vez que \nele corrobora para que a prática pedagógica tenha \nsignificado tanto para o educador quanto para o \neducando. Em consonância com o trabalho de \nVasconcellos, foram destacadas algumas \niniciativas da coordenação pedagógica que \npodem ajudar na elaboração e realização \ninterativa do Projeto de Ensino-Aprendizagem, \ndescritas a seguir. Assinale a alternativa que não \nreproduz fielmente uma dessas iniciativas. \n(A) Superar a polarização entre equipe diretiva e \nprofessores. \n(B) Valorizar a cultura do professor. \n(C) Localizar práticas novas já presentes na \nrealidade dos professores e da escola. \n(D) Garantir que o professor possa conhecer a \nturma antes de concluir a elaboração do plano de \ncurso. \n(E) A equipe de coordenação escolar tem por \nfunção articular todo o trabalho em torno da \nproposta geral da escola, por meio da consecução \nde um controle formal que assegure essa \narticulação."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 18: Os Parâmetros Nacionais de Qualidade da \nEducação Infantil foram lançados em 2018, \nrepresentam um documento que traz inovações \nsignificativas em relação aos princípios e práticas \nde qualidade na Educação Infantil. Leia os \nenunciados a seguir e destaque o que não condiz \ncorretamente com o referido documento.",
-            "alternativas": {
-                "A": "Os parâmetros descritos no documento foram \nsegmentados em oito áreas focais.",
-                "B": "Os aspectos norteadores e legais foram \ndescritos por meio de diretrizes.",
-                "C": "Foram definidos indicadores com o intuito de \naferir o nível de aplicabilidade do parâmetro.",
-                "D": "Para o professor de Educação Infantil, o \ndocumento apresenta as referências voltadas para \norientar o planejamento e a avaliação das práticas \npedagógicas.",
-                "E": "As medidas qualitativas obtidas por meio dos \nindicadores oportunizam a verificação do \nandamento ou a qualidade dos processos de \nimplementação das políticas públicas de \nEducação Infantil. \n \n QUESTÃO 30 \nPara acompanhar as particularidades que \ncaracterizam cada contexto organizacional, é \npreciso compreender as mudanças e os meios de \nadequar a proposta pedagógica. De forma \nespecífica, observa-se a importância de assegurar \nmecanismos que corroborem para a efetividade \nda educação inclusiva. Um documento que se \ndestaca nesse cenário è o “ Subsídio para a gestão \ndos sistemas educacionais inclusivos”. Assim, \nleia o excerto extraído do referido documento e \ncomplete posteriormente com os termos \ncorrespondentes. \n“A educação inclusiva pressupõe novas relações \npedagógicas centradas nos modos de aprender \ndas diferentes crianças e jovens e de relações \nsociais que valorizam a diversidade em todas as \natividades, espaços e formas de convivência e \ntrabalho. Dessa forma, na efetivação do direito de \ntodos à educação, o direito à igualdade e o direito \nà diferença são _____________ e os direitos \n___________ servem para eliminar as \ndiscriminações e garantir a plena inclusão \nsocial”.  \n(A) complementares / humanos \n(B) indissociáveis / específicos \n(C) distintos/ legais \n(D) congruentes / humanos \n(E) antagônicos/ gerais"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 19: A orientação profissional dentro de uma proposta \nrenovada deve trabalhar algumas dimensões \npresentes no contexto educacional. A partir da \nperspectiva apresentada na obra: “O coordenador \npedagógico e o espaço da mudança” de Almeida \ne Placco, observa-se que ao planejar suas ações, \natribuindo um sentido ao seu trabalho, o \ncoordenador pedagógico está trabalhando um \ntipo de dimensão, assinale-a?",
-            "alternativas": {
-                "A": "Dimensão social",
-                "B": "Dimensão política",
-                "C": "Dimensão ética",
-                "D": "Dimensão educacional",
-                "E": "Dimensão econômica Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 10 de 15 QUESTÃO 32 \nA gestão democrática é ratificada por meio de \numa série de ações e relações estabelecidas \ndentro dos contextos escolar e social. Para que as \ndeterminações constitucionais sejam atendidas, é \nnecessária a observância de alguns princípios, \ncomo os destacados a seguir. Assinale a \nalternativa que não constitui um desses \nprincípios constitucionais. \n(A) Igualdade de condições de acesso e \npermanência na escola. \n(B) Garantia do direito à educação e à \naprendizagem restrita às séries que compõem a \nEducação Básica. \n(C) Liberdade de aprender, ensinar, pesquisar e \ndivulgar o pensamento, a arte e o saber. \n(D) Pluralismo de ideias. \n(E) Valorização dos profissionais da educação \nescolar, garantidos, na forma da lei, planos de \ncarreiras, com ingresso exclusivamente por \nconcurso público de provas e títulos, aos das \nredes públicas."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 20: Ao analisar a trajetória da orientação educacional \nno Brasil, é possível destacar que a proposta \npedagógica é influenciada por perspectivas \nhistórico-socioculturais. Tomando por parâmetro \nas reflexões de Gois, é possível afirmar:",
-            "alternativas": {
-                "A": "A trajetória da educação brasileira é marcada \npor uma perspectiva histórica em que as decisões \nsempre visaram sua consolidação, ratificando o \ncompromisso político e social do país em relação \na essa questão.",
-                "B": "O quadro atual do ensino médio continua \nanálogo aos moldes da década de 60.",
-                "C": "As reflexões do autor vão de encontro com a \nperspectiva que acredita que no passado a \neducação pública era de melhor qualidade.",
-                "D": "A aprovação automática é uma situação que \ncontribui ainda mais para o déficit da qualidade \nde ensino.",
-                "E": "Desconsiderando os fatores externos, \natentando apenas para o setor educacional, o \nprimeiro desafio para a melhoria da educação \nbrasileira reside na questão do próprio \ndesinteresse do educando. QUESTÃO 34 \nDentro das reflexões de Almeida e Placco, é \ndemonstrado o papel real do orientador \npedagógico: “mediar o saber, o saber fazer, o \nsaber ser e o saber agir do professor”. Essa \natividade mediadora é alcançada por meio de \nações concernentes à busca pela transformação, \nsendo trabalhados os seguintes aspectos, afora: \n(A) Proposta curricular inovadora. \n(B) Experiências do professor. \n(C) Interesses do professor. \n(D) Adequação do modo de trabalhar do \nprofessor. \n(E) Disponibilização de recursos capazes de \nmodificar a prática pedagógica."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 21: A construção do conhecimento na escola é \nmoldada por meio de ações que corroborem para \no saber e o fazer pedagógico. Nesse ambiente, a \nformação de professores e os campos do \nconhecimento têm muita relevância, sendo tal \nassunto abordado por Alves e Sass. Em \nconsonância com a perspectiva desses autores, é \nincorreta a afirmativa:",
-            "alternativas": {
-                "A": "O reconhecimento do professor como sujeito \nde sua própria prática contribui para que os \nenvolvidos no processo educacional encontrem \nformas mais efetivas de solucionar os problemas \npresentes no cotidiano escolar.",
-                "B": "Um aspecto importante é a compreensão de \nque os aspectos teóricos e práticos constituem \numa mesma unidade.",
-                "C": "Novas relações com os saberes teóricos são \noportunizadas a partir de um ambiente acolhedor, \nno qual o professor tenha liberdade para se \nexpressar.",
-                "D": "É necessário entender a escola como espaço \nde formação, em que os professores \ncoletivamente buscam soluções para os \nproblemas cotidianos.",
-                "E": "Na formação docente, é prioritário que se \nconsidere estritamente a dimensão profissional \nde cada professor. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 11 de 15 QUESTÃO 36 \nDe acordo com Castro (2000), “no campo das \navaliações educacionais, podem ser destacados \ntrês grandes projetos: o Sistema Nacional de \nAvaliação da Educação Básica (Saeb); o Exame \nNacional de Cursos (ENC), mais conhecido \ncomo “Provão”; e o Exame Nacional do  Ensino \nMédio (Enem). Das características destacadas a \nseguir, apenas uma é correta em relação ao \nEnem, assinale-a: \n(A) Dos três projetos nacionais de avaliação, o \nEnem é o mais recente. \n(B) Por meio do Enem, é aferido o \ndesenvolvimento das habilidades conceituais \nadquiridas ao longo da jornada educacional de \ncada aluno. \n(C) O Enem é um instrumento balizador e indutor \ndo padrão de ensino sistematizado em moldes \ninternacionais voltados para a melhoria do \ndesempenho escolar. \n(D) A concepção do Enem é baseada estritamente \nnas orientações para a educação básica \nestabelecidas pela LDB. \n(E) É um exame voluntário destinado aos \nconcluintes do ensino médio."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 22: Tomando como referência o Parecer CNE/CEB \n07/2010, em seu artigo 6º, é afirmado que os \nsistemas de ensino e as escolas adotarão, como \nnorteadores das políticas educativas e das ações \npedagógicas, alguns princípios. Assim, complete \no excerto a seguir, com o princípio que foi \ndescrito no enunciado: \n______________do cultivo da sensibilidade \njuntamente com o da racionalidade; do \nenriquecimento das formas de expressão e do \nexercício da criatividade; da valorização das \ndiferentes manifestações culturais, \nespecialmente a da cultura brasileira; da \nconstrução de identidades plurais e solidárias.",
-            "alternativas": {
-                "A": "Éticos",
-                "B": "Políticos",
-                "C": "Culturais",
-                "D": "Estéticos",
-                "E": "Educacionais QUESTÃO 38 \nOs modelos educacionais são influenciados pelas \nrelações presentes tanto no contexto interno \nquanto no ambiente externo. Nessa sistemática, \nsituações atípicas influenciam as atividades \ndesenvolvidas. Um exemplo desse tipo de \nsituação é analisado por Gatti, em sua obra: \n“Possível reconfiguração dos modelos \neducacionais pós-pandemia. A partir das \nreflexões da autora, é destacado o vetor-chave \nque deverá orientar o planejamento em situações \ncomo as vivenciadas pela pandemia Covid-19. \nQual foi o vetor-chave apontado pela autora.  \n(A) Planejamento flexível e local. \n(B) Planejamento subsidiado pelos órgãos que \nregulam o ensino. \n(C) Planejamento criterioso e condizente com a \nproposta pedagógica da unidade de ensino. \n(D) Planejamento multifocal. \n(E) Planejamento estritamente didático."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 23: O papel do orientador pedagógico é amplo e \npossui diferentes frentes de atuação. Dentre elas, \né possível destacar sua ação mediadora na gestão \nde conflitos. Sobre esse tema, Chrispino faz uma \nsérie de análises e constatações. Um dos temas \nabordados estabelece os tipos de conflitos e suas \ncaracterísticas específicas, como as destacadas \nno enunciado a seguir: \n“Padrões destrutivos de comportamento ou \ninteração; controle, posse ou distribuição \ndesigual de recursos; poder e autoridade \ndesiguais [...]”  \nQual o tipo de conflito explicitado no enunciado \nanterior?",
-            "alternativas": {
-                "A": "De valor",
-                "B": "Quanto aos dados",
-                "C": "De relacionamento",
-                "D": "Estruturais",
-                "E": "De interesse \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 12 de 15 QUESTÃO 40 \nDe acordo com Libâneo , “os mètodos de ensino \ndependem dos objetivos que se formulam tendo \nem vista o conhecimento e a transformação da \nrealidade”. O processo de construção do \nconhecimento na escola depende do tipo de \nmétodo empregado. Para ampliar a compreensão \nsobre os métodos de ensino, Libâneo aborda \nalgumas de suas especificidades, destacadas a \nseguir. Assinale a alternativa que apresenta um \nerro de interpretação em relação aos \nponderamentos do referido autor. \n(A) Os métodos de ensino são ações, passos e \nprocedimentos vinculados ao método de \nreflexão, compreensão e transformação da \nrealidade. \n(B) As condições concretas de cada situação \ndidática corroboram para o encontro formativo \nentre o aluno e as matérias de ensino. \n(C) Método de ensino não pode ser reduzido a um \nconjunto de procedimentos. \n(D) O procedimento é um detalhe do método. \n(E) Dizer que um professor “tem mètodo” è o \nmesmo que afirmar que ele domina \nprocedimentos e técnicas de ensino."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 24: Muitas vezes, é possível implementar uma \nproposta pedagógica renovadora a partir de \nestratégias simples e acessíveis. Dentre as \nestratégias empregadas para a melhoria do \ndesempenho dos alunos, Marzano, Pickering e \nPollock destacam as estratégias de agrupamento \n(cooperativa). Em síntese, destacam-se cinco \nelementos descritos a seguir. Nesse sentido, \nassinale a alternativa no qual o elemento descrito \nfaz referência às seguintes variáveis: \ncomunicação, confiança, liderança, tomada de \ndecisão e resolução de conflitos.",
-            "alternativas": {
-                "A": "Interdependência positiva",
-                "B": "Interação estimuladora face a face",
-                "C": "Responsabilidade individual e de grupo",
-                "D": "Habilidades interpessoais e de pequeno \ngrupo",
-                "E": "Processamento em grupo QUESTÃO 42 \nO relacionamento interpessoal é compreendido \ncomo a relação caracterizada por duas ou mais \npessoas, em que algumas posturas tanto podem \nfacilitar esse relacionamento como dificultá-lo. \nA autonomia muitas vezes é um canal que \noportuniza um relacionamento interpessoal mais \nsadio. Sobre a autonomia dos professores, \nContreras traz todo um aparato teórico sobre o \ntema, a partir de características específicas que \nsão observadas ao longo da prática profissional. \nNesse sentido, são características da autonomia \nplena, exceto: \n(A) Reflexividade crítica sobre as práticas \npedagógicas. \n(B) Produção dos efeitos desejados nos alunos. \n(C) Aprendizagem por ensaio e erro. \n(D) Realização das finalidades profissionais \npessoais. \n(E) Experimentação de alternativas pedagógicas."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 25: A avaliação educacional escolar é descrita por \nLuckesi, por meio da sistematização dos \natributos que caracterizam os diferentes modelos \navaliativos. Sobre a avaliação classificatória, em \nconformidade com o referido autor, é incorreta a \nafirmativa:",
-            "alternativas": {
-                "A": "A avaliação educacional escolar assumida \ncomo classificatória é um instrumento autoritário \ne frenador do desenvolvimento de todos os que \npassarem pelo ritual escolar.",
-                "B": "Por meio da avaliação classificatória, o \nprofessor, representando o sistema, enquadra os \nalunos dentro da normatividade socialmente \nestabelecida.",
-                "C": "Na avaliação classificatória, os dados \nrelevantes são analisados criteriosa e \nobjetivamente.",
-                "D": "O componente “juízo de valor” na avaliação \nclassificatória possui uma dimensão arbitrária.",
-                "E": "A comunicação do que se pede num teste \npode não ser clara, mas o professor, com sua \nautoridade, sempre tenderá a dizer que ele tem \nrazão e o aluno não sabia, por isso, não deu a \nresposta. \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 13 de 15 QUESTÃO 44 \nA Resolução CNE/CEB 01/2000 estabelece as \nDiretrizes Curriculares Nacionais para a \nEducação e Jovens e Adultos. Pela referida \nResolução, são definidos alguns princípios. \nNesse sentido, destaque a seguir o princípio que \ncorresponde â “identificação e o reco nhecimento \nda alteridade própria e inseparável dos jovens e \ndos adultos em seu processo formativo, da \nvalorização do mérito de cada qual e do \ndesenvolvimento de seus conhecimentos e \nvalores”.  \n(A) Equidade \n(B) Diferença \n(C) Proporcionalidade \n(D) Completude \n(E) Autonomia"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 26: Ao analisar o contexto histórico em que a \nconsecução do ensino foi sendo consolidada, é \npossível ratificar a importância das abordagens \nteóricas e da análise crítica de cada realidade, no \nintuito de mensurar seus prós e contras. Por meio \nda obra: “A cabeça bem -feita: repensar a \nreforma, reformar o pensamento” Edgar Morin \nreflete sobre uma questão que beneficiou as \nrelações de trabalho, mas que também se tornou \num desafio, ou seja, configura-se mais como \nproblema que solução. Que questão é essa?",
-            "alternativas": {
-                "A": "Desenvolvimento disciplinar do \nconhecimento científico.",
-                "B": "Desenvolvimento interdisciplinar do \nconhecimento científico.",
-                "C": "Desenvolvimento multidisciplinar do \nconhecimento científico.",
-                "D": "Desenvolvimento teórico do conhecimento \ncientífico.",
-                "E": "Desenvolvimento técnico do conhecimento \ncientífico. \n \n \n QUESTÃO 46 \nDas alternativas a seguir, dentro da perspectiva \nde Luckesi, qual seria o melhor sinônimo para o \nato de avaliar? \n(A) Classificação \n(B) Diagnóstico \n(C) Seletividade \n(D) Categorização \n(E) Hierarquização"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 27: “A Política Nacional de Alfabetização (PNA ), \ninstituída pelo Decreto nº 9.765, de 11 de abril de \n2019, pode ser considerada um marco na \neducação brasileira. O tema da alfabetização, \nfundamental para a vida escolar e para o pleno \nexercício da cidadania, é trazido com todo o \nvigor para o centro da política pública \neducacional do país”. Nesse sentido, compete â \nescola adequar seus processos em atendimento \naos pressupostos estabelecidos por meio da PNA. \nPor meio do texto pertinente à PNA, são \ndestacados os marcos que corroboram para a \nsistematização dessa política. Dentre eles, \ndestaca-se o papel da Base Nacional Comum \nCurricular (BNCC). \nDe acordo com a BNCC, o 1º e 2º anos do ensino \nfundamental são dedicados à alfabetização da \ncriança. O 3º ano é considerado complementar, \nsendo que a sua denominação possibilita ao \norientador pedagógico o reconhecimento de \ncomo deverão ser estruturadas as atividades \ndirecionadas a essa faixa etária. Que \ndenominação é essa?",
-            "alternativas": {
-                "A": "Letramento",
-                "B": "Alfabetização funcional",
-                "C": "Alfabetização plena",
-                "D": "Ortografização",
-                "E": "Interpretação textual \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 14 de 15 QUESTÃO 48 \nAs abordagens teóricas são instrumentos que \nauxiliam a orientação educacional a partir da \nsistematização dos achados teóricos construídos \npelos pensadores. Vygotsky tem uma obra vasta \nque traz importantes contribuições sobre os \nprocessos de desenvolvimento do pensamento e \nda linguagem. Destaque a seguir, a alternativa \nque vai ao encontro das perspectivas \napresentadas pelo autor em questão. \n(A) Quando os processos de desenvolvimento do \npensamento e da linguagem se separam, surge o \npensamento estruturado e a linguagem mental. \n(B) O funcionamento psicológico mais \nsofisticado depende do pensamento verbal e da \nlinguagem racional. \n(C) Não é possível haver pensamento sem \nlinguagem. \n(D) O funcionamento psicológico mais \nsofisticado é mediado pelo sistema objetivo da \nlinguagem. \n(E) Não é possível haver linguagem sem \npensamento."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 28: A Lei n.13.257 dispõe sobre as políticas públicas \npara a primeira infância, dando o suporte legal \npara a orientação educacional dentro da esfera \npor ela prevista. Em conformidade com os \npressupostos legais da referida lei, qual deve ser \na postura pedagógica adotada a fim de assegurar \na participação da criança na formulação das \npolíticas e das ações que lhe dizem respeito, \npromovendo sua inclusão social como cidadã?",
-            "alternativas": {
-                "A": "Por meio de processos de análise sistemática \nadequados às diferentes formas de expressão \ninfantil.",
-                "B": "Por meio de processos de escuta adequados \nàs diferentes formas de expressão infantil.",
-                "C": "Por meio de processos de monitoramento \nadequados às diferentes formas de expressão \ninfantil.",
-                "D": "Por meio de processos de controle adequados \nàs diferentes formas de expressão infantil.",
-                "E": "Por meio de processos de avaliação \nadequados às diferentes formas de expressão \ninfantil. QUESTÃO 50 \nLibâneo afirma que a organização do trabalho na \nescola, a partir das propostas curriculares, leis e \nresoluções concernentes, deve ser estruturada por \nmeio de práticas organizacionais como as \ndescritas nas alternativas a seguir, exceto: \n(A) Heteronomia \n(B) Descentralização \n(C) Projeto Pedagógico-curricular \n(D) Gestão centrada na escola \n(E) Avaliação institucional \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 15 de 15"
+                "A": "User Resource Locator. (",
+                "B": "Uniform Resor Locator. (",
+                "C": "Uniform Resource Lover. (",
+                "D": "User Resort Locator. (",
+                "E": "Uniform Resource Locator."
             },
             "resposta_correta": "E"
         },
@@ -396,13 +274,44 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: O texto Versões, de Luís Fernando Verissimo, \nretrata os pensamentos de um personagem acerca \nde cenários possíveis decorrentes de caminhos \nnão tomados em sua vida. As expressões \nlinguísticas que corroboram a construção do \nsentido de hipótese, em relação à imaginação \ndesses cenários, são:",
+            "questão": "Questão 23",
+            "enunciado": "A opção \"Quebrar Texto Automaticamente\" no Excel permite que você exiba todo o conteúdo de uma célula em várias linhas, automaticamente ajustando a altura da célula para acomodar o texto. Diante do contexto apresentado, assinale a alternativa que representa o botão \"Quebrar Texto Automaticamente\" do Excel. (",
             "alternativas": {
-                "A": "os verbos conjugados no presente do modo \nindicativo.",
-                "B": "as orações subordinadas condicionais \nreticentes, iniciadas pela conjunção se.",
-                "C": "os pronomes em primeira pessoa.",
-                "D": "os discursos diretos na narrativa.",
-                "E": "as locuções verbais formadas por um verbo \nno pretérito perfeito do indicativo e um verbo no \nparticípio."
+                "A": "(",
+                "B": "(",
+                "C": "(",
+                "D": "(",
+                "E": "Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 8 de 15 QUESTÃO 24 As fórmulas do Excel são fundamentais para realizar cálculos, análises e manipulações de dados de maneira eficiente dentro da planilha, assim, pode-se informar que fazem parte de fórmulas do Excel: I. =SOMA II. #SOMA III. =MÉDIA IV. #MÉDIA (A) I e II, apenas. (B) I e III, apenas. (C) I, II e IV, apenas. (D) I, II e III, apenas. (E) Nenhuma das afirmativas estão corretas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25",
+            "enunciado": "Há muitas opções de formatação de texto disponíveis no Microsoft Word, as quais aperfeiçoam o texto tornando-o mais dinâmico ao ledor. Nesse contexto, analise a imagem abaixo: TEXTO Assinale a alternativa que contenha corretamente a função utilizada para a formatação da palavra “texto”. (",
+            "alternativas": {
+                "A": "Negrito. (",
+                "B": "Subscrito. (",
+                "C": "Sublinhado. (",
+                "D": "Itálico. (",
+                "E": "Tachado. CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26",
+            "enunciado": "De acordo com Vasconcellos, “a prática educativa escolar dependerá, em grande medida, da concepção de currículo que se tem, em função das repercussões bem concretas de tal representação na organização do trabalho pedagógico”. Nesse sentido, assinale a alternativa que vai de encontro com a perspectiva apresentada pelo referido autor em relação ao currículo. (",
+            "alternativas": {
+                "A": "No período compreendido até os anos 60 do século XX, o conceito de currículo era restrito a uma lista de conteúdos. (",
+                "B": "Contemporaneamente, para acompanhar o desenvolvimento de uma nova proposta pedagógica, preocupações clássicas na área do currículo, como por exemplo, distribuição dos conteúdos devem ser superadas e relegadas a segundo plano. (",
+                "C": "O currículo oculto deve obrigatoriamente fazer parte da concepção contemporânea sobre o currículo. (",
+                "D": "O currículo não deve ser entendido como um percurso prévio e definitivamente estabelecido, mas como um caminho passível de mudanças. (",
+                "E": "O currículo, enquanto meio de atribuição de sentido às diversas atividades realizadas no contexto escolar, não pode ser analisado de forma isolada, mas sim em relação com o todo."
             },
             "resposta_correta": "B"
         },
@@ -410,13 +319,59 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: A expressão em sentido figurado “por uma \nfábula”, empregada no excerto “Fui vendido para \no futebol europeu, por uma fábula.”, se refere:",
+            "questão": "Questão 27",
+            "enunciado": "“Na etapa da Educação Infantil, os princípios, conceitos e concepções que fundamentam a proposta de organização curricular da BNCC referendam o que está proposto nas Diretrizes Curriculares Nacionais da EI, homologadas em 2009” (BRASIL, 2018). Nesse sentido, qual a inovação que a BNCC traz para a organização curricular da Educação Infantil? (",
             "alternativas": {
-                "A": "a uma narrativa imaginária que foi criada em \ntorno do jogador de futebol.",
-                "B": "a uma mentira que lhe foi contada no \npassado.",
-                "C": "à alta quantia de dinheiro envolvida em sua \nvenda para o futebol europeu.",
-                "D": "à baixa quantia de dinheiro envolvida em sua \nvenda para o futebol europeu.",
-                "E": "a um aspecto de sua carreira que foi motivo \nde zombaria por outras pessoas. \n \nConsidere o excerto a seguir para responder \nàs questões 3, 4, 5 e 6: \n \nAgora mesmo neste  bar imaginário em que estou \nbebendo para esquecer o que não fiz — aliás, o \nnome do bar é Imaginário —, sentou um cara do \nmeu lado direito e se apresentou: — Eu sou você, \nse tivesse feito aquele teste no Botafogo. \n \n \n \n \n \n QUESTÃO 03 \nA classe gramatical à qual pertence a palavra \n“aliás”, que ocorre no excerto apresentado, è:  \n(A) substantivo. \n(B) preposição. \n(C) conjunção. \n(D) advérbio. \n(E) adjetivo."
+                "A": "Organização curricular por campos de experiências. (",
+                "B": "Organização curricular por fase de desenvolvimento. (",
+                "C": "Organização curricular por método pedagógico. (",
+                "D": "Organização curricular por competências. (",
+                "E": "Organização curricular por ciclos. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 9 de 15 QUESTÃO 28 O orientador pedagógico possui um papel significativo do cotidiano escolar, uma vez que ele corrobora para que a prática pedagógica tenha significado tanto para o educador quanto para o educando. Em consonância com o trabalho de Vasconcellos, foram destacadas algumas iniciativas da coordenação pedagógica que podem ajudar na elaboração e realização interativa do Projeto de Ensino-Aprendizagem, descritas a seguir. Assinale a alternativa que não reproduz fielmente uma dessas iniciativas. (A) Superar a polarização entre equipe diretiva e professores. (B) Valorizar a cultura do professor. (C) Localizar práticas novas já presentes na realidade dos professores e da escola. (D) Garantir que o professor possa conhecer a turma antes de concluir a elaboração do plano de curso. (E) A equipe de coordenação escolar tem por função articular todo o trabalho em torno da proposta geral da escola, por meio da consecução de um controle formal que assegure essa articulação."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29",
+            "enunciado": "Os Parâmetros Nacionais de Qualidade da Educação Infantil foram lançados em 2018, representam um documento que traz inovações significativas em relação aos princípios e práticas de qualidade na Educação Infantil. Leia os enunciados a seguir e destaque o que não condiz corretamente com o referido documento. (",
+            "alternativas": {
+                "A": "Os parâmetros descritos no documento foram segmentados em oito áreas focais. (",
+                "B": "Os aspectos norteadores e legais foram descritos por meio de diretrizes. (",
+                "C": "Foram definidos indicadores com o intuito de aferir o nível de aplicabilidade do parâmetro. (",
+                "D": "Para o professor de Educação Infantil, o documento apresenta as referências voltadas para orientar o planejamento e a avaliação das práticas pedagógicas. (",
+                "E": "As medidas qualitativas obtidas por meio dos indicadores oportunizam a verificação do andamento ou a qualidade dos processos de implementação das políticas públicas de Educação Infantil."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30",
+            "enunciado": "Para acompanhar as particularidades que caracterizam cada contexto organizacional, é preciso compreender as mudanças e os meios de adequar a proposta pedagógica. De forma específica, observa-se a importância de assegurar mecanismos que corroborem para a efetividade da educação inclusiva. Um documento que se destaca nesse cenário è o “ Subsídio para a gestão dos sistemas educacionais inclusivos”. Assim, leia o excerto extraído do referido documento e complete posteriormente com os termos correspondentes. “A educação inclusiva pressupõe novas relações pedagógicas centradas nos modos de aprender das diferentes crianças e jovens e de relações sociais que valorizam a diversidade em todas as atividades, espaços e formas de convivência e trabalho. Dessa forma, na efetivação do direito de todos à educação, o direito à igualdade e o direito à diferença são _____________ e os direitos ___________ servem para eliminar as discriminações e garantir a plena inclusão social”. (",
+            "alternativas": {
+                "A": "complementares / humanos (",
+                "B": "indissociáveis / específicos (",
+                "C": "distintos/ legais (",
+                "D": "congruentes / humanos (",
+                "E": "antagônicos/ gerais"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31",
+            "enunciado": "A orientação profissional dentro de uma proposta renovada deve trabalhar algumas dimensões presentes no contexto educacional. A partir da perspectiva apresentada na obra: “O coordenador pedagógico e o espaço da mudança” de Almeida e Placco, observa-se que ao planejar suas ações, atribuindo um sentido ao seu trabalho, o coordenador pedagógico está trabalhando um tipo de dimensão, assinale-a? (",
+            "alternativas": {
+                "A": "Dimensão social (",
+                "B": "Dimensão política (",
+                "C": "Dimensão ética (",
+                "D": "Dimensão educacional (",
+                "E": "Dimensão econômica Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 10 de 15 QUESTÃO 32 A gestão democrática é ratificada por meio de uma série de ações e relações estabelecidas dentro dos contextos escolar e social. Para que as determinações constitucionais sejam atendidas, é necessária a observância de alguns princípios, como os destacados a seguir. Assinale a alternativa que não constitui um desses princípios constitucionais. (A) Igualdade de condições de acesso e permanência na escola. (B) Garantia do direito à educação e à aprendizagem restrita às séries que compõem a Educação Básica. (C) Liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber. (D) Pluralismo de ideias. (E) Valorização dos profissionais da educação escolar, garantidos, na forma da lei, planos de carreiras, com ingresso exclusivamente por concurso público de provas e títulos, aos das redes públicas."
             },
             "resposta_correta": "C"
         },
@@ -424,13 +379,44 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 3: As palavras em destaque no excerto apresentado \nsão, respectivamente, pronomes dos tipos:",
+            "questão": "Questão 33",
+            "enunciado": "Ao analisar a trajetória da orientação educacional no Brasil, é possível destacar que a proposta pedagógica é influenciada por perspectivas histórico-socioculturais. Tomando por parâmetro as reflexões de Gois, é possível afirmar: (",
             "alternativas": {
-                "A": "relativo, demonstrativo, relativo e indefinido.",
-                "B": "demonstrativo, pessoal, interrogativo e \npessoal.",
-                "C": "demonstrativo, demonstrativo, interrogativo \ne pessoal.",
-                "D": "demonstrativo, pessoal, relativo e indefinido.",
-                "E": "demonstrativo, demonstrativo, relativo e \npessoal."
+                "A": "A trajetória da educação brasileira é marcada por uma perspectiva histórica em que as decisões sempre visaram sua consolidação, ratificando o compromisso político e social do país em relação a essa questão. (",
+                "B": "O quadro atual do ensino médio continua análogo aos moldes da década de 60. (",
+                "C": "As reflexões do autor vão de encontro com a perspectiva que acredita que no passado a educação pública era de melhor qualidade. (",
+                "D": "A aprovação automática é uma situação que contribui ainda mais para o déficit da qualidade de ensino. (",
+                "E": "Desconsiderando os fatores externos, atentando apenas para o setor educacional, o primeiro desafio para a melhoria da educação brasileira reside na questão do próprio desinteresse do educando. QUESTÃO 34 Dentro das reflexões de Almeida e Placco, é demonstrado o papel real do orientador pedagógico: “mediar o saber, o saber fazer, o saber ser e o saber agir do professor”. Essa atividade mediadora é alcançada por meio de ações concernentes à busca pela transformação, sendo trabalhados os seguintes aspectos, afora: (A) Proposta curricular inovadora. (B) Experiências do professor. (C) Interesses do professor. (D) Adequação do modo de trabalhar do professor. (E) Disponibilização de recursos capazes de modificar a prática pedagógica."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 35",
+            "enunciado": "A construção do conhecimento na escola é moldada por meio de ações que corroborem para o saber e o fazer pedagógico. Nesse ambiente, a formação de professores e os campos do conhecimento têm muita relevância, sendo tal assunto abordado por Alves e Sass. Em consonância com a perspectiva desses autores, é incorreta a afirmativa: (",
+            "alternativas": {
+                "A": "O reconhecimento do professor como sujeito de sua própria prática contribui para que os envolvidos no processo educacional encontrem formas mais efetivas de solucionar os problemas presentes no cotidiano escolar. (",
+                "B": "Um aspecto importante é a compreensão de que os aspectos teóricos e práticos constituem uma mesma unidade. (",
+                "C": "Novas relações com os saberes teóricos são oportunizadas a partir de um ambiente acolhedor, no qual o professor tenha liberdade para se expressar. (",
+                "D": "É necessário entender a escola como espaço de formação, em que os professores coletivamente buscam soluções para os problemas cotidianos. (",
+                "E": "Na formação docente, é prioritário que se considere estritamente a dimensão profissional de cada professor. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 11 de 15 QUESTÃO 36 De acordo com Castro (2000), “no campo das avaliações educacionais, podem ser destacados três grandes projetos: o Sistema Nacional de Avaliação da Educação Básica (Saeb); o Exame Nacional de Cursos (ENC), mais conhecido como “Provão”; e o Exame Nacional do Ensino Médio (Enem). Das características destacadas a seguir, apenas uma é correta em relação ao Enem, assinale-a: (A) Dos três projetos nacionais de avaliação, o Enem é o mais recente. (B) Por meio do Enem, é aferido o desenvolvimento das habilidades conceituais adquiridas ao longo da jornada educacional de cada aluno. (C) O Enem é um instrumento balizador e indutor do padrão de ensino sistematizado em moldes internacionais voltados para a melhoria do desempenho escolar. (D) A concepção do Enem é baseada estritamente nas orientações para a educação básica estabelecidas pela LDB. (E) É um exame voluntário destinado aos concluintes do ensino médio."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 37",
+            "enunciado": "Tomando como referência o Parecer CNE/CEB 07/2010, em seu artigo 6º, é afirmado que os sistemas de ensino e as escolas adotarão, como norteadores das políticas educativas e das ações pedagógicas, alguns princípios. Assim, complete o excerto a seguir, com o princípio que foi descrito no enunciado: ______________do cultivo da sensibilidade juntamente com o da racionalidade; do enriquecimento das formas de expressão e do exercício da criatividade; da valorização das diferentes manifestações culturais, especialmente a da cultura brasileira; da construção de identidades plurais e solidárias. (",
+            "alternativas": {
+                "A": "Éticos (",
+                "B": "Políticos (",
+                "C": "Culturais (",
+                "D": "Estéticos (",
+                "E": "Educacionais QUESTÃO 38 Os modelos educacionais são influenciados pelas relações presentes tanto no contexto interno quanto no ambiente externo. Nessa sistemática, situações atípicas influenciam as atividades desenvolvidas. Um exemplo desse tipo de situação é analisado por Gatti, em sua obra: “Possível reconfiguração dos modelos educacionais pós-pandemia. A partir das reflexões da autora, é destacado o vetor-chave que deverá orientar o planejamento em situações como as vivenciadas pela pandemia Covid-19. Qual foi o vetor-chave apontado pela autora. (A) Planejamento flexível e local. (B) Planejamento subsidiado pelos órgãos que regulam o ensino. (C) Planejamento criterioso e condizente com a proposta pedagógica da unidade de ensino. (D) Planejamento multifocal. (E) Planejamento estritamente didático."
             },
             "resposta_correta": "D"
         },
@@ -438,40 +424,208 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 4: Na sentença “—  Eu sou você, se tivesse feito \naquele teste no Botafogo.”, a função gramatical \ndo vocábulo “se” è:",
+            "questão": "Questão 39",
+            "enunciado": "O papel do orientador pedagógico é amplo e possui diferentes frentes de atuação. Dentre elas, é possível destacar sua ação mediadora na gestão de conflitos. Sobre esse tema, Chrispino faz uma série de análises e constatações. Um dos temas abordados estabelece os tipos de conflitos e suas características específicas, como as destacadas no enunciado a seguir: “Padrões destrutivos de comportamento ou interação; controle, posse ou distribuição desigual de recursos; poder e autoridade desiguais [...]” Qual o tipo de conflito explicitado no enunciado anterior? (",
             "alternativas": {
-                "A": "conectar a oração principal à subordinada.",
-                "B": "modificar o pronome de tratamento “você”.",
-                "C": "modificar o verbo “sou”.",
-                "D": "conectar os constituintes intraoracionais \n“você” e “tivesse”.",
+                "A": "De valor (",
+                "B": "Quanto aos dados (",
+                "C": "De relacionamento (",
+                "D": "Estruturais (",
+                "E": "De interesse Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 12 de 15 QUESTÃO 40 De acordo com Libâneo , “os mètodos de ensino dependem dos objetivos que se formulam tendo em vista o conhecimento e a transformação da realidade”. O processo de construção do conhecimento na escola depende do tipo de método empregado. Para ampliar a compreensão sobre os métodos de ensino, Libâneo aborda algumas de suas especificidades, destacadas a seguir. Assinale a alternativa que apresenta um erro de interpretação em relação aos ponderamentos do referido autor. (A) Os métodos de ensino são ações, passos e procedimentos vinculados ao método de reflexão, compreensão e transformação da realidade. (B) As condições concretas de cada situação didática corroboram para o encontro formativo entre o aluno e as matérias de ensino. (C) Método de ensino não pode ser reduzido a um conjunto de procedimentos. (D) O procedimento é um detalhe do método. (E) Dizer que um professor “tem mètodo” è o mesmo que afirmar que ele domina procedimentos e técnicas de ensino."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 41",
+            "enunciado": "Muitas vezes, é possível implementar uma proposta pedagógica renovadora a partir de estratégias simples e acessíveis. Dentre as estratégias empregadas para a melhoria do desempenho dos alunos, Marzano, Pickering e Pollock destacam as estratégias de agrupamento (cooperativa). Em síntese, destacam-se cinco elementos descritos a seguir. Nesse sentido, assinale a alternativa no qual o elemento descrito faz referência às seguintes variáveis: comunicação, confiança, liderança, tomada de decisão e resolução de conflitos. (",
+            "alternativas": {
+                "A": "Interdependência positiva (",
+                "B": "Interação estimuladora face a face (",
+                "C": "Responsabilidade individual e de grupo (",
+                "D": "Habilidades interpessoais e de pequeno grupo (",
+                "E": "Processamento em grupo QUESTÃO 42 O relacionamento interpessoal é compreendido como a relação caracterizada por duas ou mais pessoas, em que algumas posturas tanto podem facilitar esse relacionamento como dificultá-lo. A autonomia muitas vezes é um canal que oportuniza um relacionamento interpessoal mais sadio. Sobre a autonomia dos professores, Contreras traz todo um aparato teórico sobre o tema, a partir de características específicas que são observadas ao longo da prática profissional. Nesse sentido, são características da autonomia plena, exceto: (A) Reflexividade crítica sobre as práticas pedagógicas. (B) Produção dos efeitos desejados nos alunos. (C) Aprendizagem por ensaio e erro. (D) Realização das finalidades profissionais pessoais. (E) Experimentação de alternativas pedagógicas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 43",
+            "enunciado": "A avaliação educacional escolar é descrita por Luckesi, por meio da sistematização dos atributos que caracterizam os diferentes modelos avaliativos. Sobre a avaliação classificatória, em conformidade com o referido autor, é incorreta a afirmativa: (",
+            "alternativas": {
+                "A": "A avaliação educacional escolar assumida como classificatória é um instrumento autoritário e frenador do desenvolvimento de todos os que passarem pelo ritual escolar. (",
+                "B": "Por meio da avaliação classificatória, o professor, representando o sistema, enquadra os alunos dentro da normatividade socialmente estabelecida. (",
+                "C": "Na avaliação classificatória, os dados relevantes são analisados criteriosa e objetivamente. (",
+                "D": "O componente “juízo de valor” na avaliação classificatória possui uma dimensão arbitrária. (",
+                "E": "A comunicação do que se pede num teste pode não ser clara, mas o professor, com sua autoridade, sempre tenderá a dizer que ele tem razão e o aluno não sabia, por isso, não deu a resposta. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 13 de 15 QUESTÃO 44 A Resolução CNE/CEB 01/2000 estabelece as Diretrizes Curriculares Nacionais para a Educação e Jovens e Adultos. Pela referida Resolução, são definidos alguns princípios. Nesse sentido, destaque a seguir o princípio que corresponde â “identificação e o reco nhecimento da alteridade própria e inseparável dos jovens e dos adultos em seu processo formativo, da valorização do mérito de cada qual e do desenvolvimento de seus conhecimentos e valores”. (A) Equidade (B) Diferença (C) Proporcionalidade (D) Completude (E) Autonomia"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 45",
+            "enunciado": "Ao analisar o contexto histórico em que a consecução do ensino foi sendo consolidada, é possível ratificar a importância das abordagens teóricas e da análise crítica de cada realidade, no intuito de mensurar seus prós e contras. Por meio da obra: “A cabeça bem -feita: repensar a reforma, reformar o pensamento” Edgar Morin reflete sobre uma questão que beneficiou as relações de trabalho, mas que também se tornou um desafio, ou seja, configura-se mais como problema que solução. Que questão é essa? (",
+            "alternativas": {
+                "A": "Desenvolvimento disciplinar do conhecimento científico. (",
+                "B": "Desenvolvimento interdisciplinar do conhecimento científico. (",
+                "C": "Desenvolvimento multidisciplinar do conhecimento científico. (",
+                "D": "Desenvolvimento teórico do conhecimento científico. (",
+                "E": "Desenvolvimento técnico do conhecimento científico."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 46",
+            "enunciado": "Das alternativas a seguir, dentro da perspectiva de Luckesi, qual seria o melhor sinônimo para o ato de avaliar? (",
+            "alternativas": {
+                "A": "Classificação (",
+                "B": "Diagnóstico (",
+                "C": "Seletividade (",
+                "D": "Categorização (",
+                "E": "Hierarquização"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 47",
+            "enunciado": "“A Política Nacional de Alfabetização (PNA ), instituída pelo Decreto nº 9.765, de 11 de abril de 2019, pode ser considerada um marco na educação brasileira. O tema da alfabetização, fundamental para a vida escolar e para o pleno exercício da cidadania, é trazido com todo o vigor para o centro da política pública educacional do país”. Nesse sentido, compete â escola adequar seus processos em atendimento aos pressupostos estabelecidos por meio da PNA. Por meio do texto pertinente à PNA, são destacados os marcos que corroboram para a sistematização dessa política. Dentre eles, destaca-se o papel da Base Nacional Comum Curricular (BNCC). De acordo com a BNCC, o 1º e 2º anos do ensino fundamental são dedicados à alfabetização da criança. O 3º ano é considerado complementar, sendo que a sua denominação possibilita ao orientador pedagógico o reconhecimento de como deverão ser estruturadas as atividades direcionadas a essa faixa etária. Que denominação é essa? (",
+            "alternativas": {
+                "A": "Letramento (",
+                "B": "Alfabetização funcional (",
+                "C": "Alfabetização plena (",
+                "D": "Ortografização (",
+                "E": "Interpretação textual Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 14 de 15 QUESTÃO 48 As abordagens teóricas são instrumentos que auxiliam a orientação educacional a partir da sistematização dos achados teóricos construídos pelos pensadores. Vygotsky tem uma obra vasta que traz importantes contribuições sobre os processos de desenvolvimento do pensamento e da linguagem. Destaque a seguir, a alternativa que vai ao encontro das perspectivas apresentadas pelo autor em questão. (A) Quando os processos de desenvolvimento do pensamento e da linguagem se separam, surge o pensamento estruturado e a linguagem mental. (B) O funcionamento psicológico mais sofisticado depende do pensamento verbal e da linguagem racional. (C) Não é possível haver pensamento sem linguagem. (D) O funcionamento psicológico mais sofisticado é mediado pelo sistema objetivo da linguagem. (E) Não é possível haver linguagem sem pensamento."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 49",
+            "enunciado": "A Lei n.13.257 dispõe sobre as políticas públicas para a primeira infância, dando o suporte legal para a orientação educacional dentro da esfera por ela prevista. Em conformidade com os pressupostos legais da referida lei, qual deve ser a postura pedagógica adotada a fim de assegurar a participação da criança na formulação das políticas e das ações que lhe dizem respeito, promovendo sua inclusão social como cidadã? (",
+            "alternativas": {
+                "A": "Por meio de processos de análise sistemática adequados às diferentes formas de expressão infantil. (",
+                "B": "Por meio de processos de escuta adequados às diferentes formas de expressão infantil. (",
+                "C": "Por meio de processos de monitoramento adequados às diferentes formas de expressão infantil. (",
+                "D": "Por meio de processos de controle adequados às diferentes formas de expressão infantil. (",
+                "E": "Por meio de processos de avaliação adequados às diferentes formas de expressão infantil. QUESTÃO 50 Libâneo afirma que a organização do trabalho na escola, a partir das propostas curriculares, leis e resoluções concernentes, deve ser estruturada por meio de práticas organizacionais como as descritas nas alternativas a seguir, exceto: (A) Heteronomia (B) Descentralização (C) Projeto Pedagógico-curricular (D) Gestão centrada na escola (E) Avaliação institucional Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 15 de 15"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 1",
+            "enunciado": "O texto Versões, de Luís Fernando Verissimo, retrata os pensamentos de um personagem acerca de cenários possíveis decorrentes de caminhos não tomados em sua vida. As expressões linguísticas que corroboram a construção do sentido de hipótese, em relação à imaginação desses cenários, são: (",
+            "alternativas": {
+                "A": "os verbos conjugados no presente do modo indicativo. (",
+                "B": "as orações subordinadas condicionais reticentes, iniciadas pela conjunção se. (",
+                "C": "os pronomes em primeira pessoa. (",
+                "D": "os discursos diretos na narrativa. (",
+                "E": "as locuções verbais formadas por um verbo no pretérito perfeito do indicativo e um verbo no particípio."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2",
+            "enunciado": "A expressão em sentido figurado “por uma fábula”, empregada no excerto “Fui vendido para o futebol europeu, por uma fábula.”, se refere: (",
+            "alternativas": {
+                "A": "a uma narrativa imaginária que foi criada em torno do jogador de futebol. (",
+                "B": "a uma mentira que lhe foi contada no passado. (",
+                "C": "à alta quantia de dinheiro envolvida em sua venda para o futebol europeu. (",
+                "D": "à baixa quantia de dinheiro envolvida em sua venda para o futebol europeu. (",
+                "E": "a um aspecto de sua carreira que foi motivo de zombaria por outras pessoas. Considere o excerto a seguir para responder às questões 3, 4, 5 e 6: Agora mesmo neste bar imaginário em que estou bebendo para esquecer o que não fiz — aliás, o nome do bar é Imaginário —, sentou um cara do meu lado direito e se apresentou: — Eu sou você, se tivesse feito aquele teste no Botafogo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3",
+            "enunciado": "A classe gramatical à qual pertence a palavra “aliás”, que ocorre no excerto apresentado, è: (",
+            "alternativas": {
+                "A": "substantivo. (",
+                "B": "preposição. (",
+                "C": "conjunção. (",
+                "D": "advérbio. (",
+                "E": "adjetivo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 4",
+            "enunciado": "As palavras em destaque no excerto apresentado são, respectivamente, pronomes dos tipos: (",
+            "alternativas": {
+                "A": "relativo, demonstrativo, relativo e indefinido. (",
+                "B": "demonstrativo, pessoal, interrogativo e pessoal. (",
+                "C": "demonstrativo, demonstrativo, interrogativo e pessoal. (",
+                "D": "demonstrativo, pessoal, relativo e indefinido. (",
+                "E": "demonstrativo, demonstrativo, relativo e pessoal."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5",
+            "enunciado": "Na sentença “— Eu sou você, se tivesse feito aquele teste no Botafogo.”, a função gramatical do vocábulo “se” è: (",
+            "alternativas": {
+                "A": "conectar a oração principal à subordinada. (",
+                "B": "modificar o pronome de tratamento “você”. (",
+                "C": "modificar o verbo “sou”. (",
+                "D": "conectar os constituintes intraoracionais “você” e “tivesse”. (",
                 "E": "modificar o verbo “tivesse”."
             },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 5: No contexto dado, a regência do verbo \n“apresentar” è:",
-            "alternativas": {
-                "A": "transitiva direta.",
-                "B": "transitiva indireta.",
-                "C": "transitiva direta e indireta.",
-                "D": "pronominal.",
-                "E": "intransitiva. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 4 de 15 QUESTÃO 07 \nAnalise as sentenças a seguir e assinale aquela \nem que a(s) forma(s) verbal(is) empregada(s) \nestá(ão) correta(s).  \n(A) Quando sobrepor a carta à mesa, lembre-se \nde prendê-la neste caderno. \n(B) Nós repomos todos os itens do estoque ontem \nà tarde. \n(C) Se você ver Maria nos corredores, avise-a de \nque estou procurando por ela. \n(D) Não houveram motivos que o impedissem de \nlutar por sua amada. \n(E) Eles retiveram o garoto na delegacia."
-            },
             "resposta_correta": "A"
         },
         {
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 6: Analise as sentenças a seguir quanto ao emprego \ndo acento indicativo de crase. Assinale a \nalternativa em que o uso desse acento é \nfacultativo.",
+            "questão": "Questão 6",
+            "enunciado": "No contexto dado, a regência do verbo “apresentar” è: (",
             "alternativas": {
-                "A": "O pagamento desta compra será realizado à \nvista.",
-                "B": "Nada sei quanto à última decisão do colégio.",
-                "C": "A reunião de balanço da empresa será \nrealizada às 10h.",
-                "D": "Durante a apresentação, ele fez duras críticas \nà sua amiga.",
+                "A": "transitiva direta. (",
+                "B": "transitiva indireta. (",
+                "C": "transitiva direta e indireta. (",
+                "D": "pronominal. (",
+                "E": "intransitiva. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 4 de 15 QUESTÃO 07 Analise as sentenças a seguir e assinale aquela em que a(s) forma(s) verbal(is) empregada(s) está(ão) correta(s). (A) Quando sobrepor a carta à mesa, lembre-se de prendê-la neste caderno. (B) Nós repomos todos os itens do estoque ontem à tarde. (C) Se você ver Maria nos corredores, avise-a de que estou procurando por ela. (D) Não houveram motivos que o impedissem de lutar por sua amada. (E) Eles retiveram o garoto na delegacia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8",
+            "enunciado": "Analise as sentenças a seguir quanto ao emprego do acento indicativo de crase. Assinale a alternativa em que o uso desse acento é facultativo. (",
+            "alternativas": {
+                "A": "O pagamento desta compra será realizado à vista. (",
+                "B": "Nada sei quanto à última decisão do colégio. (",
+                "C": "A reunião de balanço da empresa será realizada às 10h. (",
+                "D": "Durante a apresentação, ele fez duras críticas à sua amiga. (",
                 "E": "Não estou à mercê de ninguém."
             },
             "resposta_correta": "D"
@@ -480,41 +634,14 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 7: Assinale a alternativa em que a forma pluralizada \ndos substantivos compostos está correta, \nconsiderando o emprego do hífen.",
+            "questão": "Questão 9",
+            "enunciado": "Assinale a alternativa em que a forma pluralizada dos substantivos compostos está correta, considerando o emprego do hífen. (",
             "alternativas": {
-                "A": "caças-níqueis.",
-                "B": "estados-membro.",
-                "C": "flores-de-abril.",
-                "D": "cavalos-vapores.",
-                "E": "bananas-das-terras. \n \n \n \n QUESTÃO 10 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica a colocação \npronominal correta, segundo a norma-padrão da \nlíngua portuguesa. \n(A) Lhe compraram todos os presentes que \nesperava receber. \n(B) Desconheço alguém que interessa-se por \nliteratura. \n(C) Ainda não entreguei-lhe os livros \nemprestados. \n(D) Os exercícios de matemática vão ajudá-lo no \nvestibular. \n(E) Os pais decidiram a colocar nas aulas de \nnatação ainda bebê. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 8: Em uma academia, três amigos, André, Bianca e \nCarlos, estão competindo para ver quem \nconsegue levantar mais peso. André consegue \nlevantar 80% do peso que Bianca consegue, \nenquanto Carlos consegue levantar 75% do peso \nque André consegue. Sabendo que a soma dos \npesos levantados é 360 kg, qual a soma do peso \nlevantado por André e Bianca?",
-            "alternativas": {
-                "A": "270 kg.",
-                "B": "120 kg.",
-                "C": "150 kg.",
-                "D": "230 kg.",
-                "E": "190 kg. \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 5 de 15 QUESTÃO 12 \nMarcelo estava fazendo uma pesquisa de preço \npara comprar um celular novo em algumas lojas. \nNa primeira loja que entrou o aparelho custava \nR$ 1200,00. Na segunda loja o preço era um \nterço da primeira mais quinhentos reais. Na \nterceira loja o preço era metade da segunda mais \nmil reais. Qual era a loja com o aparelho mais \nbarato e quanto custava o aparelho na terceira \nloja, respectivamente? \n(A) Primeira e R$ 1200,00. \n(B) Segunda e R$ 1250,00. \n(C) Terceira e R$ 1450,00. \n(D) Segunda e R$ 1450,00. \n(E) Primeira e R$ 1250,00."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 9: Em um determinado jogo de turnos, é permitido \nque o personagem avance em passos \nfracionários. Na primeira rodada o jogador dá 4/3 \nde passo, na segunda rodada dá 8/9 de passo, e na \nterceira rodada dá 16/27. Seguindo esta \nsequência lógica, na quarta rodada qual será o \ntamanho do passo do jogador?",
-            "alternativas": {
-                "A": "16/54.",
-                "B": "16/49.",
-                "C": "32/54.",
-                "D": "32/81.",
-                "E": "64/81. \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 14 \nPara serem aprovados em um determinado \nvestibular, os candidatos precisam fazer provas \nde Português, Matemática, Conhecimentos \nEspecíficos e uma Redação. As notas finais dos \nestudantes são calculadas com base na média \naritmética ponderada das provas. Os pesos de \ncada prova são respectivamente 3, 3, 3 e 1. \nPorém, a universidade possui também uma regra \ntal que: se a média aritmética simples das notas \nfor maior que a média ponderada, ela passará a \nser a nota final. Considere as notas dos \nparticipantes listados na tabela abaixo: \n \n Estudantes \n I II III \nPortuguês  8 6 9 \nMatemática  7 8 6 \nConhecimentos \nEspecíficos 9 7 8 \nRedação 6 9 7 \n \nA nota final dos estudantes I, II e III é, \nrespectivamente: \n(A) 7,8; 7,0 e 7,5.  \n(B) 7,2; 7,6 e 7,7.  \n(C) 7,8; 7,5 e 7,6.  \n(D) 7,5; 7,5 e 7,0.  \n(E) 7,8; 7,2 e 7,6.  \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 6 de 15 QUESTÃO 15 \nSabendo que, na figura abaixo, o círculo está \ncentrado em um dos vértices do quadrado, o \ndiâmetro do círculo mede 8 cm e o lado do \nquadrado mede 6 cm. Indique a área sombreada \nna figura: Considere 𝜋 ≈ 3 . \n \n(A) 10 cm2. \n(B) 12 cm2. \n(C) 30 cm2. \n(D) 6 cm2. \n(E) 20 cm2."
+                "A": "caças-níqueis. (",
+                "B": "estados-membro. (",
+                "C": "flores-de-abril. (",
+                "D": "cavalos-vapores. (",
+                "E": "bananas-das-terras."
             },
             "resposta_correta": "C"
         },
@@ -522,13 +649,14 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 10: Em uma casa há três aparelhos de celular. O \nprimeiro aparelho passa por atualizações de \nsistema a cada 15 dias, o segundo a cada 20 dias \ne o terceiro a cada 30 dias. Suponha que os três \naparelhos foram comprados simultaneamente e \nna hora da compra foram todos atualizados. \nQuantos ciclos de atualização terão sido feitos no \nprimeiro celular quando todos os aparelhos \nforem atualizados simultaneamente pela primeira \nvez?",
+            "questão": "Questão 10",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa em que se verifica a colocação pronominal correta, segundo a norma-padrão da língua portuguesa. (",
             "alternativas": {
-                "A": "3.",
-                "B": "4.",
-                "C": "5.",
-                "D": "6.",
-                "E": "10. \n \n \n \n \n \n QUESTÃO 17 \nEm uma rua, foram plantadas árvores numeradas \nde 1 a 90. As árvores foram distribuídas \nuniformemente ao longo da rua. Se um morador \nquer podar todas as árvores cujo número é um \nmúltiplo de 3 ou um múltiplo de 4, quantas \nárvores ficarão sem poda? \n(A) 12. \n(B) 30. \n(C) 45. \n(D) 33. \n(E) 42."
+                "A": "Lhe compraram todos os presentes que esperava receber. (",
+                "B": "Desconheço alguém que interessa-se por literatura. (",
+                "C": "Ainda não entreguei-lhe os livros emprestados. (",
+                "D": "Os exercícios de matemática vão ajudá-lo no vestibular. (",
+                "E": "Os pais decidiram a colocar nas aulas de natação ainda bebê. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "D"
         },
@@ -536,253 +664,391 @@
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 11: Em uma temporada de colheita, um agricultor \nobteve 4 lotes com milhos de comprimentos \ndiferentes. No lote A foram 50 espigas de 27 cm, \nno lote B foram 100 espigas de 31 cm, no lote C \nmais 100 espigas de 29 cm e no lote D mais 50 \nespigas de 33 cm. Qual a média do comprimento \ndas espigas de milho, em cm, obtidas pelo \nagricultor nesta safra?",
+            "questão": "Questão 11",
+            "enunciado": "Em uma academia, três amigos, André, Bianca e Carlos, estão competindo para ver quem consegue levantar mais peso. André consegue levantar 80% do peso que Bianca consegue, enquanto Carlos consegue levantar 75% do peso que André consegue. Sabendo que a soma dos pesos levantados é 360 kg, qual a soma do peso levantado por André e Bianca? (",
             "alternativas": {
-                "A": "27.",
-                "B": "28.",
-                "C": "29.",
-                "D": "30.",
+                "A": "270 kg. (",
+                "B": "120 kg. (",
+                "C": "150 kg. (",
+                "D": "230 kg. (",
+                "E": "190 kg. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 5 de 15 QUESTÃO 12 Marcelo estava fazendo uma pesquisa de preço para comprar um celular novo em algumas lojas. Na primeira loja que entrou o aparelho custava R$ 1200,00. Na segunda loja o preço era um terço da primeira mais quinhentos reais. Na terceira loja o preço era metade da segunda mais mil reais. Qual era a loja com o aparelho mais barato e quanto custava o aparelho na terceira loja, respectivamente? (A) Primeira e R$ 1200,00. (B) Segunda e R$ 1250,00. (C) Terceira e R$ 1450,00. (D) Segunda e R$ 1450,00. (E) Primeira e R$ 1250,00."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13",
+            "enunciado": "Em um determinado jogo de turnos, é permitido que o personagem avance em passos fracionários. Na primeira rodada o jogador dá 4/3 de passo, na segunda rodada dá 8/9 de passo, e na terceira rodada dá 16/27. Seguindo esta sequência lógica, na quarta rodada qual será o tamanho do passo do jogador? (",
+            "alternativas": {
+                "A": "16/54. (",
+                "B": "16/49. (",
+                "C": "32/54. (",
+                "D": "32/81. (",
+                "E": "64/81."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14",
+            "enunciado": "Para serem aprovados em um determinado vestibular, os candidatos precisam fazer provas de Português, Matemática, Conhecimentos Específicos e uma Redação. As notas finais dos estudantes são calculadas com base na média aritmética ponderada das provas. Os pesos de cada prova são respectivamente 3, 3, 3 e 1. Porém, a universidade possui também uma regra tal que: se a média aritmética simples das notas for maior que a média ponderada, ela passará a ser a nota final. Considere as notas dos participantes listados na tabela abaixo: Estudantes I II III Português 8 6 9 Matemática 7 8 6 Conhecimentos Específicos 9 7 8 Redação 6 9 7 A nota final dos estudantes I, II e III é, respectivamente: (",
+            "alternativas": {
+                "A": "7,8; 7,0 e 7,5. (",
+                "B": "7,2; 7,6 e 7,7. (",
+                "C": "7,8; 7,5 e 7,6. (",
+                "D": "7,5; 7,5 e 7,0. (",
+                "E": "7,8; 7,2 e 7,6. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 6 de 15 QUESTÃO 15 Sabendo que, na figura abaixo, o círculo está centrado em um dos vértices do quadrado, o diâmetro do círculo mede 8 cm e o lado do quadrado mede 6 cm. Indique a área sombreada na figura: Considere 𝜋 ≈ 3 . (A) 10 cm2. (B) 12 cm2. (C) 30 cm2. (D) 6 cm2. (E) 20 cm2."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 16",
+            "enunciado": "Em uma casa há três aparelhos de celular. O primeiro aparelho passa por atualizações de sistema a cada 15 dias, o segundo a cada 20 dias e o terceiro a cada 30 dias. Suponha que os três aparelhos foram comprados simultaneamente e na hora da compra foram todos atualizados. Quantos ciclos de atualização terão sido feitos no primeiro celular quando todos os aparelhos forem atualizados simultaneamente pela primeira vez? (",
+            "alternativas": {
+                "A": "3. (",
+                "B": "4. (",
+                "C": "5. (",
+                "D": "6. (",
+                "E": "10."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17",
+            "enunciado": "Em uma rua, foram plantadas árvores numeradas de 1 a 90. As árvores foram distribuídas uniformemente ao longo da rua. Se um morador quer podar todas as árvores cujo número é um múltiplo de 3 ou um múltiplo de 4, quantas árvores ficarão sem poda? (",
+            "alternativas": {
+                "A": "12. (",
+                "B": "30. (",
+                "C": "45. (",
+                "D": "33. (",
+                "E": "42."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18",
+            "enunciado": "Em uma temporada de colheita, um agricultor obteve 4 lotes com milhos de comprimentos diferentes. No lote A foram 50 espigas de 27 cm, no lote B foram 100 espigas de 31 cm, no lote C mais 100 espigas de 29 cm e no lote D mais 50 espigas de 33 cm. Qual a média do comprimento das espigas de milho, em cm, obtidas pelo agricultor nesta safra? (",
+            "alternativas": {
+                "A": "27. (",
+                "B": "28. (",
+                "C": "29. (",
+                "D": "30. (",
                 "E": "31."
             },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19",
+            "enunciado": "Maria havia plantado um pé de café em seu quintal que estava com 25 cm de altura. Sua mãe então lhe disse que se a planta fosse regada a cada 2 dias por um ano, ela deveria chegar até 250% do seu tamanho atual. Maria então seguiu à risca o que sua mãe falou. Após passado um ano, Maria mediu o seu pé de café e este estava com 75 cm de altura. Qual a diferença, em cm, entre o tamanho prometido pela mãe de Maria e o tamanho real do pé de café, no momento da medição? (",
+            "alternativas": {
+                "A": "10. (",
+                "B": "11. (",
+                "C": "12,5. (",
+                "D": "15. (",
+                "E": "16,5. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 7 de 15 QUESTÃO 20 Ao realizar o planejamento de um determinado serviço, uma empresa calcula a sua margem de lucro como sendo 6% do valor total a ser cobrado. O lucro da empresa está dentro das Despesas Indiretas do serviço. Sabe-se que as Despesas Indiretas no geral representam 30% do total a ser cobrado. Nesta situação, quantos por cento o lucro representa das despesas indiretas? (A) 20%. (B) 25%. (C) 30%. (D) 33%. (E) 15%. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21",
+            "enunciado": "Um gerenciador de e-mails, também conhecido como cliente de e-mail, é um software projetado para ajudar os usuários a enviar, receber, organizar e gerenciar suas mensagens de e-mail. Essas ferramentas oferecem uma interface de usuário para interagir com serviços de e-mail, facilitando a comunicação eletrônica. Diante do contexto apresentado, analise as imagens a seguir e assinale a alternativa correta. (",
+            "alternativas": {
+                "A": "As duas primeiras imagens representam gerenciadores de e-mails, sendo a primeira da Google e a segunda parte integrante da suíte do Pacote Office. (",
+                "B": "As duas primeiras imagens representam gerenciadores de e-mails desenvolvidos e mantidos pela Google. (",
+                "C": "As duas últimas imagens representam softwares de desenvolvimento de planilhas eletrônicas. (",
+                "D": "Nenhuma das imagens representam gerenciadores de e-mails. (",
+                "E": "Todas as imagens representam gerenciadores de e-mails."
+            },
             "resposta_correta": "A"
         },
         {
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 12: Maria havia plantado um pé de café em seu \nquintal que estava com 25 cm de altura. Sua mãe \nentão lhe disse que se a planta fosse regada a cada \n2 dias por um ano, ela deveria chegar até 250% \ndo seu tamanho atual. Maria então seguiu à risca \no que sua mãe falou. Após passado um ano, \nMaria mediu o seu pé de café e este estava com \n75 cm de altura. Qual a diferença, em cm, entre o \ntamanho prometido pela mãe de Maria e o \ntamanho real do pé de café, no momento da \nmedição?",
+            "questão": "Questão 22",
+            "enunciado": "Uma URL é um endereço que é usado para identificar recursos na internet e fornecer um meio fácil de acessar esses recursos. Pode-se afirmar que URL significa: (",
             "alternativas": {
-                "A": "10.",
-                "B": "11.",
-                "C": "12,5.",
-                "D": "15.",
-                "E": "16,5. \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 7 de 15 QUESTÃO 20 \nAo realizar o planejamento de um determinado \nserviço, uma empresa calcula a sua margem de \nlucro como sendo 6% do valor total a ser \ncobrado. O lucro da empresa está dentro das \nDespesas Indiretas do serviço. Sabe-se que as \nDespesas Indiretas no geral representam 30% do \ntotal a ser cobrado. Nesta situação, quantos por \ncento o lucro representa das despesas indiretas? \n(A) 20%. \n(B) 25%. \n(C) 30%. \n(D) 33%.  \n(E) 15%. \n \nNOÇÕES DE INFORMÁTICA"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 13: Um gerenciador de e-mails, também conhecido \ncomo cliente de e-mail, é um software projetado \npara ajudar os usuários a enviar, receber, \norganizar e gerenciar suas mensagens de e-mail. \nEssas ferramentas oferecem uma interface de \nusuário para interagir com serviços de e-mail, \nfacilitando a comunicação eletrônica. Diante do \ncontexto apresentado, analise as imagens a seguir \ne assinale a alternativa correta.",
-            "alternativas": {
-                "A": "As duas primeiras imagens representam \ngerenciadores de e-mails, sendo a primeira da \nGoogle e a segunda parte integrante da suíte do \nPacote Office.",
-                "B": "As duas primeiras imagens representam \ngerenciadores de e-mails desenvolvidos e \nmantidos pela Google.",
-                "C": "As duas últimas imagens representam \nsoftwares de desenvolvimento de planilhas \neletrônicas.",
-                "D": "Nenhuma das imagens representam \ngerenciadores de e-mails.",
-                "E": "Todas as imagens representam gerenciadores \nde e-mails. \n QUESTÃO 22 \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Pode-se \nafirmar que URL significa: \n(A) User Resource Locator. \n(B) Uniform Resor Locator. \n(C) Uniform Resource Lover. \n(D) User Resort Locator.  \n(E) Uniform Resource Locator."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 14: A opção \"Quebrar Texto Automaticamente\" no \nExcel permite que você exiba todo o conteúdo de \numa célula em várias linhas, automaticamente \najustando a altura da célula para acomodar o \ntexto. Diante do contexto apresentado, assinale a \nalternativa que representa o botão \"Quebrar \nTexto Automaticamente\" do Excel.",
-            "alternativas": {
-                "A": "(B)  \n \n(C)  \n \n(D)  \n \n(E)  \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 8 de 15 QUESTÃO 24 \nAs fórmulas do Excel são fundamentais para \nrealizar cálculos, análises e manipulações de \ndados de maneira eficiente dentro da planilha, \nassim, pode-se informar que fazem parte de \nfórmulas do Excel: \nI. =SOMA \nII. #SOMA \nIII. =MÉDIA \nIV. #MÉDIA \n(A) I e II, apenas.",
-                "B": "I e III, apenas.",
-                "C": "I, II e IV, apenas.",
-                "D": "I, II e III, apenas.",
-                "E": "Nenhuma das afirmativas estão corretas."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 15: Há muitas opções de formatação de texto \ndisponíveis no Microsoft Word, as quais \naperfeiçoam o texto tornando-o mais dinâmico \nao ledor. Nesse contexto, analise a imagem \nabaixo: \nTEXTO \nAssinale a alternativa que contenha corretamente \na função utilizada para a formatação da palavra \n“texto”.",
-            "alternativas": {
-                "A": "Negrito.",
-                "B": "Subscrito.",
-                "C": "Sublinhado.",
-                "D": "Itálico.",
-                "E": "Tachado. \n \n \n \n \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 16: De acordo com Vasconcellos, “a prática \neducativa escolar dependerá, em grande medida, \nda concepção de currículo que se tem, em função \ndas repercussões bem concretas de tal \nrepresentação na organização do trabalho \npedagógico”. Nesse sentido, assinale a \nalternativa que vai de encontro com a perspectiva \napresentada pelo referido autor em relação ao \ncurrículo.",
-            "alternativas": {
-                "A": "No período compreendido até os anos 60 do \nséculo XX, o conceito de currículo era restrito a \numa lista de conteúdos.",
-                "B": "Contemporaneamente, para acompanhar o \ndesenvolvimento de uma nova proposta \npedagógica, preocupações clássicas na área do \ncurrículo, como por exemplo, distribuição dos \nconteúdos devem ser superadas e relegadas a \nsegundo plano.",
-                "C": "O currículo oculto deve obrigatoriamente \nfazer parte da concepção contemporânea sobre o \ncurrículo.",
-                "D": "O currículo não deve ser entendido como um \npercurso prévio e definitivamente estabelecido, \nmas como um caminho passível de mudanças.",
-                "E": "O currículo, enquanto meio de atribuição de \nsentido às diversas atividades realizadas no \ncontexto escolar, não pode ser analisado de \nforma isolada, mas sim em relação com o todo."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 17: “Na etapa da Educação Infantil, os princípios, \nconceitos e concepções que fundamentam a \nproposta de organização curricular da BNCC \nreferendam o que está proposto nas Diretrizes \nCurriculares Nacionais da EI, homologadas em \n2009” (BRASIL, 2018).  \nNesse sentido, qual a inovação que a BNCC traz \npara a organização curricular da Educação \nInfantil?",
-            "alternativas": {
-                "A": "Organização curricular por campos de \nexperiências.",
-                "B": "Organização curricular por fase de \ndesenvolvimento.",
-                "C": "Organização curricular por método \npedagógico.",
-                "D": "Organização curricular por competências.",
-                "E": "Organização curricular por ciclos. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 9 de 15 QUESTÃO 28 \nO orientador pedagógico possui um papel \nsignificativo do cotidiano escolar, uma vez que \nele corrobora para que a prática pedagógica tenha \nsignificado tanto para o educador quanto para o \neducando. Em consonância com o trabalho de \nVasconcellos, foram destacadas algumas \niniciativas da coordenação pedagógica que \npodem ajudar na elaboração e realização \ninterativa do Projeto de Ensino-Aprendizagem, \ndescritas a seguir. Assinale a alternativa que não \nreproduz fielmente uma dessas iniciativas. \n(A) Superar a polarização entre equipe diretiva e \nprofessores. \n(B) Valorizar a cultura do professor. \n(C) Localizar práticas novas já presentes na \nrealidade dos professores e da escola. \n(D) Garantir que o professor possa conhecer a \nturma antes de concluir a elaboração do plano de \ncurso. \n(E) A equipe de coordenação escolar tem por \nfunção articular todo o trabalho em torno da \nproposta geral da escola, por meio da consecução \nde um controle formal que assegure essa \narticulação."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 18: Os Parâmetros Nacionais de Qualidade da \nEducação Infantil foram lançados em 2018, \nrepresentam um documento que traz inovações \nsignificativas em relação aos princípios e práticas \nde qualidade na Educação Infantil. Leia os \nenunciados a seguir e destaque o que não condiz \ncorretamente com o referido documento.",
-            "alternativas": {
-                "A": "Os parâmetros descritos no documento foram \nsegmentados em oito áreas focais.",
-                "B": "Os aspectos norteadores e legais foram \ndescritos por meio de diretrizes.",
-                "C": "Foram definidos indicadores com o intuito de \naferir o nível de aplicabilidade do parâmetro.",
-                "D": "Para o professor de Educação Infantil, o \ndocumento apresenta as referências voltadas para \norientar o planejamento e a avaliação das práticas \npedagógicas.",
-                "E": "As medidas qualitativas obtidas por meio dos \nindicadores oportunizam a verificação do \nandamento ou a qualidade dos processos de \nimplementação das políticas públicas de \nEducação Infantil. \n \n QUESTÃO 30 \nPara acompanhar as particularidades que \ncaracterizam cada contexto organizacional, é \npreciso compreender as mudanças e os meios de \nadequar a proposta pedagógica. De forma \nespecífica, observa-se a importância de assegurar \nmecanismos que corroborem para a efetividade \nda educação inclusiva. Um documento que se \ndestaca nesse cenário è o “ Subsídio para a gestão \ndos sistemas educacionais inclusivos”. Assim, \nleia o excerto extraído do referido documento e \ncomplete posteriormente com os termos \ncorrespondentes. \n“A educação inclusiva pressupõe novas relações \npedagógicas centradas nos modos de aprender \ndas diferentes crianças e jovens e de relações \nsociais que valorizam a diversidade em todas as \natividades, espaços e formas de convivência e \ntrabalho. Dessa forma, na efetivação do direito de \ntodos à educação, o direito à igualdade e o direito \nà diferença são _____________ e os direitos \n___________ servem para eliminar as \ndiscriminações e garantir a plena inclusão \nsocial”.  \n(A) complementares / humanos \n(B) indissociáveis / específicos \n(C) distintos/ legais \n(D) congruentes / humanos \n(E) antagônicos/ gerais"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 19: A orientação profissional dentro de uma proposta \nrenovada deve trabalhar algumas dimensões \npresentes no contexto educacional. A partir da \nperspectiva apresentada na obra: “O coordenador \npedagógico e o espaço da mudança” de Almeida \ne Placco, observa-se que ao planejar suas ações, \natribuindo um sentido ao seu trabalho, o \ncoordenador pedagógico está trabalhando um \ntipo de dimensão, assinale-a?",
-            "alternativas": {
-                "A": "Dimensão social",
-                "B": "Dimensão política",
-                "C": "Dimensão ética",
-                "D": "Dimensão educacional",
-                "E": "Dimensão econômica Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 10 de 15 QUESTÃO 32 \nA gestão democrática é ratificada por meio de \numa série de ações e relações estabelecidas \ndentro dos contextos escolar e social. Para que as \ndeterminações constitucionais sejam atendidas, é \nnecessária a observância de alguns princípios, \ncomo os destacados a seguir. Assinale a \nalternativa que não constitui um desses \nprincípios constitucionais. \n(A) Igualdade de condições de acesso e \npermanência na escola. \n(B) Garantia do direito à educação e à \naprendizagem restrita às séries que compõem a \nEducação Básica. \n(C) Liberdade de aprender, ensinar, pesquisar e \ndivulgar o pensamento, a arte e o saber. \n(D) Pluralismo de ideias. \n(E) Valorização dos profissionais da educação \nescolar, garantidos, na forma da lei, planos de \ncarreiras, com ingresso exclusivamente por \nconcurso público de provas e títulos, aos das \nredes públicas."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 20: Ao analisar a trajetória da orientação educacional \nno Brasil, é possível destacar que a proposta \npedagógica é influenciada por perspectivas \nhistórico-socioculturais. Tomando por parâmetro \nas reflexões de Gois, é possível afirmar:",
-            "alternativas": {
-                "A": "A trajetória da educação brasileira é marcada \npor uma perspectiva histórica em que as decisões \nsempre visaram sua consolidação, ratificando o \ncompromisso político e social do país em relação \na essa questão.",
-                "B": "O quadro atual do ensino médio continua \nanálogo aos moldes da década de 60.",
-                "C": "As reflexões do autor vão de encontro com a \nperspectiva que acredita que no passado a \neducação pública era de melhor qualidade.",
-                "D": "A aprovação automática é uma situação que \ncontribui ainda mais para o déficit da qualidade \nde ensino.",
-                "E": "Desconsiderando os fatores externos, \natentando apenas para o setor educacional, o \nprimeiro desafio para a melhoria da educação \nbrasileira reside na questão do próprio \ndesinteresse do educando. QUESTÃO 34 \nDentro das reflexões de Almeida e Placco, é \ndemonstrado o papel real do orientador \npedagógico: “mediar o saber, o saber fazer, o \nsaber ser e o saber agir do professor”. Essa \natividade mediadora é alcançada por meio de \nações concernentes à busca pela transformação, \nsendo trabalhados os seguintes aspectos, afora: \n(A) Proposta curricular inovadora. \n(B) Experiências do professor. \n(C) Interesses do professor. \n(D) Adequação do modo de trabalhar do \nprofessor. \n(E) Disponibilização de recursos capazes de \nmodificar a prática pedagógica."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 21: A construção do conhecimento na escola é \nmoldada por meio de ações que corroborem para \no saber e o fazer pedagógico. Nesse ambiente, a \nformação de professores e os campos do \nconhecimento têm muita relevância, sendo tal \nassunto abordado por Alves e Sass. Em \nconsonância com a perspectiva desses autores, é \nincorreta a afirmativa:",
-            "alternativas": {
-                "A": "O reconhecimento do professor como sujeito \nde sua própria prática contribui para que os \nenvolvidos no processo educacional encontrem \nformas mais efetivas de solucionar os problemas \npresentes no cotidiano escolar.",
-                "B": "Um aspecto importante é a compreensão de \nque os aspectos teóricos e práticos constituem \numa mesma unidade.",
-                "C": "Novas relações com os saberes teóricos são \noportunizadas a partir de um ambiente acolhedor, \nno qual o professor tenha liberdade para se \nexpressar.",
-                "D": "É necessário entender a escola como espaço \nde formação, em que os professores \ncoletivamente buscam soluções para os \nproblemas cotidianos.",
-                "E": "Na formação docente, é prioritário que se \nconsidere estritamente a dimensão profissional \nde cada professor. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 11 de 15 QUESTÃO 36 \nDe acordo com Castro (2000), “no campo das \navaliações educacionais, podem ser destacados \ntrês grandes projetos: o Sistema Nacional de \nAvaliação da Educação Básica (Saeb); o Exame \nNacional de Cursos (ENC), mais conhecido \ncomo “Provão”; e o Exame Nacional do  Ensino \nMédio (Enem). Das características destacadas a \nseguir, apenas uma é correta em relação ao \nEnem, assinale-a: \n(A) Dos três projetos nacionais de avaliação, o \nEnem é o mais recente. \n(B) Por meio do Enem, é aferido o \ndesenvolvimento das habilidades conceituais \nadquiridas ao longo da jornada educacional de \ncada aluno. \n(C) O Enem é um instrumento balizador e indutor \ndo padrão de ensino sistematizado em moldes \ninternacionais voltados para a melhoria do \ndesempenho escolar. \n(D) A concepção do Enem é baseada estritamente \nnas orientações para a educação básica \nestabelecidas pela LDB. \n(E) É um exame voluntário destinado aos \nconcluintes do ensino médio."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 22: Tomando como referência o Parecer CNE/CEB \n07/2010, em seu artigo 6º, é afirmado que os \nsistemas de ensino e as escolas adotarão, como \nnorteadores das políticas educativas e das ações \npedagógicas, alguns princípios. Assim, complete \no excerto a seguir, com o princípio que foi \ndescrito no enunciado: \n______________do cultivo da sensibilidade \njuntamente com o da racionalidade; do \nenriquecimento das formas de expressão e do \nexercício da criatividade; da valorização das \ndiferentes manifestações culturais, \nespecialmente a da cultura brasileira; da \nconstrução de identidades plurais e solidárias.",
-            "alternativas": {
-                "A": "Éticos",
-                "B": "Políticos",
-                "C": "Culturais",
-                "D": "Estéticos",
-                "E": "Educacionais QUESTÃO 38 \nOs modelos educacionais são influenciados pelas \nrelações presentes tanto no contexto interno \nquanto no ambiente externo. Nessa sistemática, \nsituações atípicas influenciam as atividades \ndesenvolvidas. Um exemplo desse tipo de \nsituação é analisado por Gatti, em sua obra: \n“Possível reconfiguração dos modelos \neducacionais pós-pandemia. A partir das \nreflexões da autora, é destacado o vetor-chave \nque deverá orientar o planejamento em situações \ncomo as vivenciadas pela pandemia Covid-19. \nQual foi o vetor-chave apontado pela autora.  \n(A) Planejamento flexível e local. \n(B) Planejamento subsidiado pelos órgãos que \nregulam o ensino. \n(C) Planejamento criterioso e condizente com a \nproposta pedagógica da unidade de ensino. \n(D) Planejamento multifocal. \n(E) Planejamento estritamente didático."
+                "A": "User Resource Locator. (",
+                "B": "Uniform Resor Locator. (",
+                "C": "Uniform Resource Lover. (",
+                "D": "User Resort Locator. (",
+                "E": "Uniform Resource Locator."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 23: O papel do orientador pedagógico é amplo e \npossui diferentes frentes de atuação. Dentre elas, \né possível destacar sua ação mediadora na gestão \nde conflitos. Sobre esse tema, Chrispino faz uma \nsérie de análises e constatações. Um dos temas \nabordados estabelece os tipos de conflitos e suas \ncaracterísticas específicas, como as destacadas \nno enunciado a seguir: \n“Padrões destrutivos de comportamento ou \ninteração; controle, posse ou distribuição \ndesigual de recursos; poder e autoridade \ndesiguais [...]”  \nQual o tipo de conflito explicitado no enunciado \nanterior?",
+            "questão": "Questão 23",
+            "enunciado": "A opção \"Quebrar Texto Automaticamente\" no Excel permite que você exiba todo o conteúdo de uma célula em várias linhas, automaticamente ajustando a altura da célula para acomodar o texto. Diante do contexto apresentado, assinale a alternativa que representa o botão \"Quebrar Texto Automaticamente\" do Excel. (",
             "alternativas": {
-                "A": "De valor",
-                "B": "Quanto aos dados",
-                "C": "De relacionamento",
-                "D": "Estruturais",
-                "E": "De interesse \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 12 de 15 QUESTÃO 40 \nDe acordo com Libâneo , “os mètodos de ensino \ndependem dos objetivos que se formulam tendo \nem vista o conhecimento e a transformação da \nrealidade”. O processo de construção do \nconhecimento na escola depende do tipo de \nmétodo empregado. Para ampliar a compreensão \nsobre os métodos de ensino, Libâneo aborda \nalgumas de suas especificidades, destacadas a \nseguir. Assinale a alternativa que apresenta um \nerro de interpretação em relação aos \nponderamentos do referido autor. \n(A) Os métodos de ensino são ações, passos e \nprocedimentos vinculados ao método de \nreflexão, compreensão e transformação da \nrealidade. \n(B) As condições concretas de cada situação \ndidática corroboram para o encontro formativo \nentre o aluno e as matérias de ensino. \n(C) Método de ensino não pode ser reduzido a um \nconjunto de procedimentos. \n(D) O procedimento é um detalhe do método. \n(E) Dizer que um professor “tem mètodo” è o \nmesmo que afirmar que ele domina \nprocedimentos e técnicas de ensino."
+                "A": "(",
+                "B": "(",
+                "C": "(",
+                "D": "(",
+                "E": "Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 8 de 15 QUESTÃO 24 As fórmulas do Excel são fundamentais para realizar cálculos, análises e manipulações de dados de maneira eficiente dentro da planilha, assim, pode-se informar que fazem parte de fórmulas do Excel: I. =SOMA II. #SOMA III. =MÉDIA IV. #MÉDIA (A) I e II, apenas. (B) I e III, apenas. (C) I, II e IV, apenas. (D) I, II e III, apenas. (E) Nenhuma das afirmativas estão corretas."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 24: Muitas vezes, é possível implementar uma \nproposta pedagógica renovadora a partir de \nestratégias simples e acessíveis. Dentre as \nestratégias empregadas para a melhoria do \ndesempenho dos alunos, Marzano, Pickering e \nPollock destacam as estratégias de agrupamento \n(cooperativa). Em síntese, destacam-se cinco \nelementos descritos a seguir. Nesse sentido, \nassinale a alternativa no qual o elemento descrito \nfaz referência às seguintes variáveis: \ncomunicação, confiança, liderança, tomada de \ndecisão e resolução de conflitos.",
+            "questão": "Questão 25",
+            "enunciado": "Há muitas opções de formatação de texto disponíveis no Microsoft Word, as quais aperfeiçoam o texto tornando-o mais dinâmico ao ledor. Nesse contexto, analise a imagem abaixo: TEXTO Assinale a alternativa que contenha corretamente a função utilizada para a formatação da palavra “texto”. (",
             "alternativas": {
-                "A": "Interdependência positiva",
-                "B": "Interação estimuladora face a face",
-                "C": "Responsabilidade individual e de grupo",
-                "D": "Habilidades interpessoais e de pequeno \ngrupo",
-                "E": "Processamento em grupo QUESTÃO 42 \nO relacionamento interpessoal é compreendido \ncomo a relação caracterizada por duas ou mais \npessoas, em que algumas posturas tanto podem \nfacilitar esse relacionamento como dificultá-lo. \nA autonomia muitas vezes é um canal que \noportuniza um relacionamento interpessoal mais \nsadio. Sobre a autonomia dos professores, \nContreras traz todo um aparato teórico sobre o \ntema, a partir de características específicas que \nsão observadas ao longo da prática profissional. \nNesse sentido, são características da autonomia \nplena, exceto: \n(A) Reflexividade crítica sobre as práticas \npedagógicas. \n(B) Produção dos efeitos desejados nos alunos. \n(C) Aprendizagem por ensaio e erro. \n(D) Realização das finalidades profissionais \npessoais. \n(E) Experimentação de alternativas pedagógicas."
+                "A": "Negrito. (",
+                "B": "Subscrito. (",
+                "C": "Sublinhado. (",
+                "D": "Itálico. (",
+                "E": "Tachado. CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26",
+            "enunciado": "De acordo com Vasconcellos, “a prática educativa escolar dependerá, em grande medida, da concepção de currículo que se tem, em função das repercussões bem concretas de tal representação na organização do trabalho pedagógico”. Nesse sentido, assinale a alternativa que vai de encontro com a perspectiva apresentada pelo referido autor em relação ao currículo. (",
+            "alternativas": {
+                "A": "No período compreendido até os anos 60 do século XX, o conceito de currículo era restrito a uma lista de conteúdos. (",
+                "B": "Contemporaneamente, para acompanhar o desenvolvimento de uma nova proposta pedagógica, preocupações clássicas na área do currículo, como por exemplo, distribuição dos conteúdos devem ser superadas e relegadas a segundo plano. (",
+                "C": "O currículo oculto deve obrigatoriamente fazer parte da concepção contemporânea sobre o currículo. (",
+                "D": "O currículo não deve ser entendido como um percurso prévio e definitivamente estabelecido, mas como um caminho passível de mudanças. (",
+                "E": "O currículo, enquanto meio de atribuição de sentido às diversas atividades realizadas no contexto escolar, não pode ser analisado de forma isolada, mas sim em relação com o todo."
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 25: A avaliação educacional escolar é descrita por \nLuckesi, por meio da sistematização dos \natributos que caracterizam os diferentes modelos \navaliativos. Sobre a avaliação classificatória, em \nconformidade com o referido autor, é incorreta a \nafirmativa:",
+            "questão": "Questão 27",
+            "enunciado": "“Na etapa da Educação Infantil, os princípios, conceitos e concepções que fundamentam a proposta de organização curricular da BNCC referendam o que está proposto nas Diretrizes Curriculares Nacionais da EI, homologadas em 2009” (BRASIL, 2018). Nesse sentido, qual a inovação que a BNCC traz para a organização curricular da Educação Infantil? (",
             "alternativas": {
-                "A": "A avaliação educacional escolar assumida \ncomo classificatória é um instrumento autoritário \ne frenador do desenvolvimento de todos os que \npassarem pelo ritual escolar.",
-                "B": "Por meio da avaliação classificatória, o \nprofessor, representando o sistema, enquadra os \nalunos dentro da normatividade socialmente \nestabelecida.",
-                "C": "Na avaliação classificatória, os dados \nrelevantes são analisados criteriosa e \nobjetivamente.",
-                "D": "O componente “juízo de valor” na avaliação \nclassificatória possui uma dimensão arbitrária.",
-                "E": "A comunicação do que se pede num teste \npode não ser clara, mas o professor, com sua \nautoridade, sempre tenderá a dizer que ele tem \nrazão e o aluno não sabia, por isso, não deu a \nresposta. \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 13 de 15 QUESTÃO 44 \nA Resolução CNE/CEB 01/2000 estabelece as \nDiretrizes Curriculares Nacionais para a \nEducação e Jovens e Adultos. Pela referida \nResolução, são definidos alguns princípios. \nNesse sentido, destaque a seguir o princípio que \ncorresponde â “identificação e o reco nhecimento \nda alteridade própria e inseparável dos jovens e \ndos adultos em seu processo formativo, da \nvalorização do mérito de cada qual e do \ndesenvolvimento de seus conhecimentos e \nvalores”.  \n(A) Equidade \n(B) Diferença \n(C) Proporcionalidade \n(D) Completude \n(E) Autonomia"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 26: Ao analisar o contexto histórico em que a \nconsecução do ensino foi sendo consolidada, é \npossível ratificar a importância das abordagens \nteóricas e da análise crítica de cada realidade, no \nintuito de mensurar seus prós e contras. Por meio \nda obra: “A cabeça bem -feita: repensar a \nreforma, reformar o pensamento” Edgar Morin \nreflete sobre uma questão que beneficiou as \nrelações de trabalho, mas que também se tornou \num desafio, ou seja, configura-se mais como \nproblema que solução. Que questão é essa?",
-            "alternativas": {
-                "A": "Desenvolvimento disciplinar do \nconhecimento científico.",
-                "B": "Desenvolvimento interdisciplinar do \nconhecimento científico.",
-                "C": "Desenvolvimento multidisciplinar do \nconhecimento científico.",
-                "D": "Desenvolvimento teórico do conhecimento \ncientífico.",
-                "E": "Desenvolvimento técnico do conhecimento \ncientífico. \n \n \n QUESTÃO 46 \nDas alternativas a seguir, dentro da perspectiva \nde Luckesi, qual seria o melhor sinônimo para o \nato de avaliar? \n(A) Classificação \n(B) Diagnóstico \n(C) Seletividade \n(D) Categorização \n(E) Hierarquização"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 27: “A Política Nacional de Alfabetização (PNA ), \ninstituída pelo Decreto nº 9.765, de 11 de abril de \n2019, pode ser considerada um marco na \neducação brasileira. O tema da alfabetização, \nfundamental para a vida escolar e para o pleno \nexercício da cidadania, é trazido com todo o \nvigor para o centro da política pública \neducacional do país”. Nesse sentido, compete â \nescola adequar seus processos em atendimento \naos pressupostos estabelecidos por meio da PNA. \nPor meio do texto pertinente à PNA, são \ndestacados os marcos que corroboram para a \nsistematização dessa política. Dentre eles, \ndestaca-se o papel da Base Nacional Comum \nCurricular (BNCC). \nDe acordo com a BNCC, o 1º e 2º anos do ensino \nfundamental são dedicados à alfabetização da \ncriança. O 3º ano é considerado complementar, \nsendo que a sua denominação possibilita ao \norientador pedagógico o reconhecimento de \ncomo deverão ser estruturadas as atividades \ndirecionadas a essa faixa etária. Que \ndenominação é essa?",
-            "alternativas": {
-                "A": "Letramento",
-                "B": "Alfabetização funcional",
-                "C": "Alfabetização plena",
-                "D": "Ortografização",
-                "E": "Interpretação textual \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 14 de 15 QUESTÃO 48 \nAs abordagens teóricas são instrumentos que \nauxiliam a orientação educacional a partir da \nsistematização dos achados teóricos construídos \npelos pensadores. Vygotsky tem uma obra vasta \nque traz importantes contribuições sobre os \nprocessos de desenvolvimento do pensamento e \nda linguagem. Destaque a seguir, a alternativa \nque vai ao encontro das perspectivas \napresentadas pelo autor em questão. \n(A) Quando os processos de desenvolvimento do \npensamento e da linguagem se separam, surge o \npensamento estruturado e a linguagem mental. \n(B) O funcionamento psicológico mais \nsofisticado depende do pensamento verbal e da \nlinguagem racional. \n(C) Não é possível haver pensamento sem \nlinguagem. \n(D) O funcionamento psicológico mais \nsofisticado é mediado pelo sistema objetivo da \nlinguagem. \n(E) Não é possível haver linguagem sem \npensamento."
+                "A": "Organização curricular por campos de experiências. (",
+                "B": "Organização curricular por fase de desenvolvimento. (",
+                "C": "Organização curricular por método pedagógico. (",
+                "D": "Organização curricular por competências. (",
+                "E": "Organização curricular por ciclos. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 9 de 15 QUESTÃO 28 O orientador pedagógico possui um papel significativo do cotidiano escolar, uma vez que ele corrobora para que a prática pedagógica tenha significado tanto para o educador quanto para o educando. Em consonância com o trabalho de Vasconcellos, foram destacadas algumas iniciativas da coordenação pedagógica que podem ajudar na elaboração e realização interativa do Projeto de Ensino-Aprendizagem, descritas a seguir. Assinale a alternativa que não reproduz fielmente uma dessas iniciativas. (A) Superar a polarização entre equipe diretiva e professores. (B) Valorizar a cultura do professor. (C) Localizar práticas novas já presentes na realidade dos professores e da escola. (D) Garantir que o professor possa conhecer a turma antes de concluir a elaboração do plano de curso. (E) A equipe de coordenação escolar tem por função articular todo o trabalho em torno da proposta geral da escola, por meio da consecução de um controle formal que assegure essa articulação."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 28: A Lei n.13.257 dispõe sobre as políticas públicas \npara a primeira infância, dando o suporte legal \npara a orientação educacional dentro da esfera \npor ela prevista. Em conformidade com os \npressupostos legais da referida lei, qual deve ser \na postura pedagógica adotada a fim de assegurar \na participação da criança na formulação das \npolíticas e das ações que lhe dizem respeito, \npromovendo sua inclusão social como cidadã?",
+            "questão": "Questão 29",
+            "enunciado": "Os Parâmetros Nacionais de Qualidade da Educação Infantil foram lançados em 2018, representam um documento que traz inovações significativas em relação aos princípios e práticas de qualidade na Educação Infantil. Leia os enunciados a seguir e destaque o que não condiz corretamente com o referido documento. (",
             "alternativas": {
-                "A": "Por meio de processos de análise sistemática \nadequados às diferentes formas de expressão \ninfantil.",
-                "B": "Por meio de processos de escuta adequados \nàs diferentes formas de expressão infantil.",
-                "C": "Por meio de processos de monitoramento \nadequados às diferentes formas de expressão \ninfantil.",
-                "D": "Por meio de processos de controle adequados \nàs diferentes formas de expressão infantil.",
-                "E": "Por meio de processos de avaliação \nadequados às diferentes formas de expressão \ninfantil. QUESTÃO 50 \nLibâneo afirma que a organização do trabalho na \nescola, a partir das propostas curriculares, leis e \nresoluções concernentes, deve ser estruturada por \nmeio de práticas organizacionais como as \ndescritas nas alternativas a seguir, exceto: \n(A) Heteronomia \n(B) Descentralização \n(C) Projeto Pedagógico-curricular \n(D) Gestão centrada na escola \n(E) Avaliação institucional \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nORIENTADOR PEDAGÓGICO (ANOS FINAIS)                                                                                        Página 15 de 15"
+                "A": "Os parâmetros descritos no documento foram segmentados em oito áreas focais. (",
+                "B": "Os aspectos norteadores e legais foram descritos por meio de diretrizes. (",
+                "C": "Foram definidos indicadores com o intuito de aferir o nível de aplicabilidade do parâmetro. (",
+                "D": "Para o professor de Educação Infantil, o documento apresenta as referências voltadas para orientar o planejamento e a avaliação das práticas pedagógicas. (",
+                "E": "As medidas qualitativas obtidas por meio dos indicadores oportunizam a verificação do andamento ou a qualidade dos processos de implementação das políticas públicas de Educação Infantil."
             },
             "resposta_correta": "E"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30",
+            "enunciado": "Para acompanhar as particularidades que caracterizam cada contexto organizacional, é preciso compreender as mudanças e os meios de adequar a proposta pedagógica. De forma específica, observa-se a importância de assegurar mecanismos que corroborem para a efetividade da educação inclusiva. Um documento que se destaca nesse cenário è o “ Subsídio para a gestão dos sistemas educacionais inclusivos”. Assim, leia o excerto extraído do referido documento e complete posteriormente com os termos correspondentes. “A educação inclusiva pressupõe novas relações pedagógicas centradas nos modos de aprender das diferentes crianças e jovens e de relações sociais que valorizam a diversidade em todas as atividades, espaços e formas de convivência e trabalho. Dessa forma, na efetivação do direito de todos à educação, o direito à igualdade e o direito à diferença são _____________ e os direitos ___________ servem para eliminar as discriminações e garantir a plena inclusão social”. (",
+            "alternativas": {
+                "A": "complementares / humanos (",
+                "B": "indissociáveis / específicos (",
+                "C": "distintos/ legais (",
+                "D": "congruentes / humanos (",
+                "E": "antagônicos/ gerais"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31",
+            "enunciado": "A orientação profissional dentro de uma proposta renovada deve trabalhar algumas dimensões presentes no contexto educacional. A partir da perspectiva apresentada na obra: “O coordenador pedagógico e o espaço da mudança” de Almeida e Placco, observa-se que ao planejar suas ações, atribuindo um sentido ao seu trabalho, o coordenador pedagógico está trabalhando um tipo de dimensão, assinale-a? (",
+            "alternativas": {
+                "A": "Dimensão social (",
+                "B": "Dimensão política (",
+                "C": "Dimensão ética (",
+                "D": "Dimensão educacional (",
+                "E": "Dimensão econômica Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 10 de 15 QUESTÃO 32 A gestão democrática é ratificada por meio de uma série de ações e relações estabelecidas dentro dos contextos escolar e social. Para que as determinações constitucionais sejam atendidas, é necessária a observância de alguns princípios, como os destacados a seguir. Assinale a alternativa que não constitui um desses princípios constitucionais. (A) Igualdade de condições de acesso e permanência na escola. (B) Garantia do direito à educação e à aprendizagem restrita às séries que compõem a Educação Básica. (C) Liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber. (D) Pluralismo de ideias. (E) Valorização dos profissionais da educação escolar, garantidos, na forma da lei, planos de carreiras, com ingresso exclusivamente por concurso público de provas e títulos, aos das redes públicas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 33",
+            "enunciado": "Ao analisar a trajetória da orientação educacional no Brasil, é possível destacar que a proposta pedagógica é influenciada por perspectivas histórico-socioculturais. Tomando por parâmetro as reflexões de Gois, é possível afirmar: (",
+            "alternativas": {
+                "A": "A trajetória da educação brasileira é marcada por uma perspectiva histórica em que as decisões sempre visaram sua consolidação, ratificando o compromisso político e social do país em relação a essa questão. (",
+                "B": "O quadro atual do ensino médio continua análogo aos moldes da década de 60. (",
+                "C": "As reflexões do autor vão de encontro com a perspectiva que acredita que no passado a educação pública era de melhor qualidade. (",
+                "D": "A aprovação automática é uma situação que contribui ainda mais para o déficit da qualidade de ensino. (",
+                "E": "Desconsiderando os fatores externos, atentando apenas para o setor educacional, o primeiro desafio para a melhoria da educação brasileira reside na questão do próprio desinteresse do educando. QUESTÃO 34 Dentro das reflexões de Almeida e Placco, é demonstrado o papel real do orientador pedagógico: “mediar o saber, o saber fazer, o saber ser e o saber agir do professor”. Essa atividade mediadora é alcançada por meio de ações concernentes à busca pela transformação, sendo trabalhados os seguintes aspectos, afora: (A) Proposta curricular inovadora. (B) Experiências do professor. (C) Interesses do professor. (D) Adequação do modo de trabalhar do professor. (E) Disponibilização de recursos capazes de modificar a prática pedagógica."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 35",
+            "enunciado": "A construção do conhecimento na escola é moldada por meio de ações que corroborem para o saber e o fazer pedagógico. Nesse ambiente, a formação de professores e os campos do conhecimento têm muita relevância, sendo tal assunto abordado por Alves e Sass. Em consonância com a perspectiva desses autores, é incorreta a afirmativa: (",
+            "alternativas": {
+                "A": "O reconhecimento do professor como sujeito de sua própria prática contribui para que os envolvidos no processo educacional encontrem formas mais efetivas de solucionar os problemas presentes no cotidiano escolar. (",
+                "B": "Um aspecto importante é a compreensão de que os aspectos teóricos e práticos constituem uma mesma unidade. (",
+                "C": "Novas relações com os saberes teóricos são oportunizadas a partir de um ambiente acolhedor, no qual o professor tenha liberdade para se expressar. (",
+                "D": "É necessário entender a escola como espaço de formação, em que os professores coletivamente buscam soluções para os problemas cotidianos. (",
+                "E": "Na formação docente, é prioritário que se considere estritamente a dimensão profissional de cada professor. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 11 de 15 QUESTÃO 36 De acordo com Castro (2000), “no campo das avaliações educacionais, podem ser destacados três grandes projetos: o Sistema Nacional de Avaliação da Educação Básica (Saeb); o Exame Nacional de Cursos (ENC), mais conhecido como “Provão”; e o Exame Nacional do Ensino Médio (Enem). Das características destacadas a seguir, apenas uma é correta em relação ao Enem, assinale-a: (A) Dos três projetos nacionais de avaliação, o Enem é o mais recente. (B) Por meio do Enem, é aferido o desenvolvimento das habilidades conceituais adquiridas ao longo da jornada educacional de cada aluno. (C) O Enem é um instrumento balizador e indutor do padrão de ensino sistematizado em moldes internacionais voltados para a melhoria do desempenho escolar. (D) A concepção do Enem é baseada estritamente nas orientações para a educação básica estabelecidas pela LDB. (E) É um exame voluntário destinado aos concluintes do ensino médio."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 37",
+            "enunciado": "Tomando como referência o Parecer CNE/CEB 07/2010, em seu artigo 6º, é afirmado que os sistemas de ensino e as escolas adotarão, como norteadores das políticas educativas e das ações pedagógicas, alguns princípios. Assim, complete o excerto a seguir, com o princípio que foi descrito no enunciado: ______________do cultivo da sensibilidade juntamente com o da racionalidade; do enriquecimento das formas de expressão e do exercício da criatividade; da valorização das diferentes manifestações culturais, especialmente a da cultura brasileira; da construção de identidades plurais e solidárias. (",
+            "alternativas": {
+                "A": "Éticos (",
+                "B": "Políticos (",
+                "C": "Culturais (",
+                "D": "Estéticos (",
+                "E": "Educacionais QUESTÃO 38 Os modelos educacionais são influenciados pelas relações presentes tanto no contexto interno quanto no ambiente externo. Nessa sistemática, situações atípicas influenciam as atividades desenvolvidas. Um exemplo desse tipo de situação é analisado por Gatti, em sua obra: “Possível reconfiguração dos modelos educacionais pós-pandemia. A partir das reflexões da autora, é destacado o vetor-chave que deverá orientar o planejamento em situações como as vivenciadas pela pandemia Covid-19. Qual foi o vetor-chave apontado pela autora. (A) Planejamento flexível e local. (B) Planejamento subsidiado pelos órgãos que regulam o ensino. (C) Planejamento criterioso e condizente com a proposta pedagógica da unidade de ensino. (D) Planejamento multifocal. (E) Planejamento estritamente didático."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 39",
+            "enunciado": "O papel do orientador pedagógico é amplo e possui diferentes frentes de atuação. Dentre elas, é possível destacar sua ação mediadora na gestão de conflitos. Sobre esse tema, Chrispino faz uma série de análises e constatações. Um dos temas abordados estabelece os tipos de conflitos e suas características específicas, como as destacadas no enunciado a seguir: “Padrões destrutivos de comportamento ou interação; controle, posse ou distribuição desigual de recursos; poder e autoridade desiguais [...]” Qual o tipo de conflito explicitado no enunciado anterior? (",
+            "alternativas": {
+                "A": "De valor (",
+                "B": "Quanto aos dados (",
+                "C": "De relacionamento (",
+                "D": "Estruturais (",
+                "E": "De interesse Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 12 de 15 QUESTÃO 40 De acordo com Libâneo , “os mètodos de ensino dependem dos objetivos que se formulam tendo em vista o conhecimento e a transformação da realidade”. O processo de construção do conhecimento na escola depende do tipo de método empregado. Para ampliar a compreensão sobre os métodos de ensino, Libâneo aborda algumas de suas especificidades, destacadas a seguir. Assinale a alternativa que apresenta um erro de interpretação em relação aos ponderamentos do referido autor. (A) Os métodos de ensino são ações, passos e procedimentos vinculados ao método de reflexão, compreensão e transformação da realidade. (B) As condições concretas de cada situação didática corroboram para o encontro formativo entre o aluno e as matérias de ensino. (C) Método de ensino não pode ser reduzido a um conjunto de procedimentos. (D) O procedimento é um detalhe do método. (E) Dizer que um professor “tem mètodo” è o mesmo que afirmar que ele domina procedimentos e técnicas de ensino."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 41",
+            "enunciado": "Muitas vezes, é possível implementar uma proposta pedagógica renovadora a partir de estratégias simples e acessíveis. Dentre as estratégias empregadas para a melhoria do desempenho dos alunos, Marzano, Pickering e Pollock destacam as estratégias de agrupamento (cooperativa). Em síntese, destacam-se cinco elementos descritos a seguir. Nesse sentido, assinale a alternativa no qual o elemento descrito faz referência às seguintes variáveis: comunicação, confiança, liderança, tomada de decisão e resolução de conflitos. (",
+            "alternativas": {
+                "A": "Interdependência positiva (",
+                "B": "Interação estimuladora face a face (",
+                "C": "Responsabilidade individual e de grupo (",
+                "D": "Habilidades interpessoais e de pequeno grupo (",
+                "E": "Processamento em grupo QUESTÃO 42 O relacionamento interpessoal é compreendido como a relação caracterizada por duas ou mais pessoas, em que algumas posturas tanto podem facilitar esse relacionamento como dificultá-lo. A autonomia muitas vezes é um canal que oportuniza um relacionamento interpessoal mais sadio. Sobre a autonomia dos professores, Contreras traz todo um aparato teórico sobre o tema, a partir de características específicas que são observadas ao longo da prática profissional. Nesse sentido, são características da autonomia plena, exceto: (A) Reflexividade crítica sobre as práticas pedagógicas. (B) Produção dos efeitos desejados nos alunos. (C) Aprendizagem por ensaio e erro. (D) Realização das finalidades profissionais pessoais. (E) Experimentação de alternativas pedagógicas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 43",
+            "enunciado": "A avaliação educacional escolar é descrita por Luckesi, por meio da sistematização dos atributos que caracterizam os diferentes modelos avaliativos. Sobre a avaliação classificatória, em conformidade com o referido autor, é incorreta a afirmativa: (",
+            "alternativas": {
+                "A": "A avaliação educacional escolar assumida como classificatória é um instrumento autoritário e frenador do desenvolvimento de todos os que passarem pelo ritual escolar. (",
+                "B": "Por meio da avaliação classificatória, o professor, representando o sistema, enquadra os alunos dentro da normatividade socialmente estabelecida. (",
+                "C": "Na avaliação classificatória, os dados relevantes são analisados criteriosa e objetivamente. (",
+                "D": "O componente “juízo de valor” na avaliação classificatória possui uma dimensão arbitrária. (",
+                "E": "A comunicação do que se pede num teste pode não ser clara, mas o professor, com sua autoridade, sempre tenderá a dizer que ele tem razão e o aluno não sabia, por isso, não deu a resposta. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 13 de 15 QUESTÃO 44 A Resolução CNE/CEB 01/2000 estabelece as Diretrizes Curriculares Nacionais para a Educação e Jovens e Adultos. Pela referida Resolução, são definidos alguns princípios. Nesse sentido, destaque a seguir o princípio que corresponde â “identificação e o reco nhecimento da alteridade própria e inseparável dos jovens e dos adultos em seu processo formativo, da valorização do mérito de cada qual e do desenvolvimento de seus conhecimentos e valores”. (A) Equidade (B) Diferença (C) Proporcionalidade (D) Completude (E) Autonomia"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 45",
+            "enunciado": "Ao analisar o contexto histórico em que a consecução do ensino foi sendo consolidada, é possível ratificar a importância das abordagens teóricas e da análise crítica de cada realidade, no intuito de mensurar seus prós e contras. Por meio da obra: “A cabeça bem -feita: repensar a reforma, reformar o pensamento” Edgar Morin reflete sobre uma questão que beneficiou as relações de trabalho, mas que também se tornou um desafio, ou seja, configura-se mais como problema que solução. Que questão é essa? (",
+            "alternativas": {
+                "A": "Desenvolvimento disciplinar do conhecimento científico. (",
+                "B": "Desenvolvimento interdisciplinar do conhecimento científico. (",
+                "C": "Desenvolvimento multidisciplinar do conhecimento científico. (",
+                "D": "Desenvolvimento teórico do conhecimento científico. (",
+                "E": "Desenvolvimento técnico do conhecimento científico."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 46",
+            "enunciado": "Das alternativas a seguir, dentro da perspectiva de Luckesi, qual seria o melhor sinônimo para o ato de avaliar? (",
+            "alternativas": {
+                "A": "Classificação (",
+                "B": "Diagnóstico (",
+                "C": "Seletividade (",
+                "D": "Categorização (",
+                "E": "Hierarquização"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 47",
+            "enunciado": "“A Política Nacional de Alfabetização (PNA ), instituída pelo Decreto nº 9.765, de 11 de abril de 2019, pode ser considerada um marco na educação brasileira. O tema da alfabetização, fundamental para a vida escolar e para o pleno exercício da cidadania, é trazido com todo o vigor para o centro da política pública educacional do país”. Nesse sentido, compete â escola adequar seus processos em atendimento aos pressupostos estabelecidos por meio da PNA. Por meio do texto pertinente à PNA, são destacados os marcos que corroboram para a sistematização dessa política. Dentre eles, destaca-se o papel da Base Nacional Comum Curricular (BNCC). De acordo com a BNCC, o 1º e 2º anos do ensino fundamental são dedicados à alfabetização da criança. O 3º ano é considerado complementar, sendo que a sua denominação possibilita ao orientador pedagógico o reconhecimento de como deverão ser estruturadas as atividades direcionadas a essa faixa etária. Que denominação é essa? (",
+            "alternativas": {
+                "A": "Letramento (",
+                "B": "Alfabetização funcional (",
+                "C": "Alfabetização plena (",
+                "D": "Ortografização (",
+                "E": "Interpretação textual Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 14 de 15 QUESTÃO 48 As abordagens teóricas são instrumentos que auxiliam a orientação educacional a partir da sistematização dos achados teóricos construídos pelos pensadores. Vygotsky tem uma obra vasta que traz importantes contribuições sobre os processos de desenvolvimento do pensamento e da linguagem. Destaque a seguir, a alternativa que vai ao encontro das perspectivas apresentadas pelo autor em questão. (A) Quando os processos de desenvolvimento do pensamento e da linguagem se separam, surge o pensamento estruturado e a linguagem mental. (B) O funcionamento psicológico mais sofisticado depende do pensamento verbal e da linguagem racional. (C) Não é possível haver pensamento sem linguagem. (D) O funcionamento psicológico mais sofisticado é mediado pelo sistema objetivo da linguagem. (E) Não é possível haver linguagem sem pensamento."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "ORIENTADOR PEDAGÓGICO (ANOS \nFINAIS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 49",
+            "enunciado": "A Lei n.13.257 dispõe sobre as políticas públicas para a primeira infância, dando o suporte legal para a orientação educacional dentro da esfera por ela prevista. Em conformidade com os pressupostos legais da referida lei, qual deve ser a postura pedagógica adotada a fim de assegurar a participação da criança na formulação das políticas e das ações que lhe dizem respeito, promovendo sua inclusão social como cidadã? (",
+            "alternativas": {
+                "A": "Por meio de processos de análise sistemática adequados às diferentes formas de expressão infantil. (",
+                "B": "Por meio de processos de escuta adequados às diferentes formas de expressão infantil. (",
+                "C": "Por meio de processos de monitoramento adequados às diferentes formas de expressão infantil. (",
+                "D": "Por meio de processos de controle adequados às diferentes formas de expressão infantil. (",
+                "E": "Por meio de processos de avaliação adequados às diferentes formas de expressão infantil. QUESTÃO 50 Libâneo afirma que a organização do trabalho na escola, a partir das propostas curriculares, leis e resoluções concernentes, deve ser estruturada por meio de práticas organizacionais como as descritas nas alternativas a seguir, exceto: (A) Heteronomia (B) Descentralização (C) Projeto Pedagógico-curricular (D) Gestão centrada na escola (E) Avaliação institucional Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP ORIENTADOR PEDAGÓGICO (ANOS FINAIS) Página 15 de 15"
+            },
+            "resposta_correta": "B"
         }
     ]
 }

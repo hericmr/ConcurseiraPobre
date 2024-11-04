@@ -4,13 +4,14 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: Segundo o texto, os amigos do personagem \nprincipal deram -lhe o apelido de “Bacana” \nporque:",
+            "questão": "Questão 1",
+            "enunciado": "Segundo o texto, os amigos do personagem principal deram -lhe o apelido de “Bacana” porque: (",
             "alternativas": {
-                "A": "ele era o garoto mais legal da turma.",
-                "B": "sua casa era a maior da rua, e ele ganhava \nmesada.",
-                "C": "ele era o garoto mais novo da turma.",
-                "D": "a ideia do time de futebol tinha sido dele.",
-                "E": "ele gastava sua mesada com doces para a \nturma.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 3 de 10 QUESTÃO 02 \nPara o personagem principal, ele e os garotos \ndo time eram amigos unidos, já que:  \n \n(A) os garotos permitiam -no jogar como \ncentroavante no time.   \n(B) todos investiam no time tanto quanto ele.   \n(C) ele teve experiências marcantes da \nadolescência ao lado deles.    \n(D) os garotos não falavam sobre ele pelas \ncostas.   \n(E) os garotos não lhe davam apelidos que \npudessem magoá -lo."
+                "A": "ele era o garoto mais legal da turma. (",
+                "B": "sua casa era a maior da rua, e ele ganhava mesada. (",
+                "C": "ele era o garoto mais novo da turma. (",
+                "D": "a ideia do time de futebol tinha sido dele. (",
+                "E": "ele gastava sua mesada com doces para a turma. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 3 de 10 QUESTÃO 02 Para o personagem principal, ele e os garotos do time eram amigos unidos, já que: (A) os garotos permitiam -no jogar como centroavante no time. (B) todos investiam no time tanto quanto ele. (C) ele teve experiências marcantes da adolescência ao lado deles. (D) os garotos não falavam sobre ele pelas costas. (E) os garotos não lhe davam apelidos que pudessem magoá -lo."
             },
             "resposta_correta": "B"
         },
@@ -18,27 +19,14 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: Considere o excerto: “Nunca mais, desde \naquele tempo, tivera tantos amigos.” Nesse \ncontexto, a forma verbal “tivera”  poderia ser \nsubstituída, sem prejuízo de sentido em relação \nao tempo expresso, por:",
+            "questão": "Questão 3",
+            "enunciado": "Considere o excerto: “Nunca mais, desde aquele tempo, tivera tantos amigos.” Nesse contexto, a forma verbal “tivera” poderia ser substituída, sem prejuízo de sentido em relação ao tempo expresso, por: (",
             "alternativas": {
-                "A": "“tem”.",
-                "B": "“tinha”.",
-                "C": "“tinha tido”.",
-                "D": "“teria”.",
-                "E": "“tivesse”.  \n \nConsidere o excerto a seguir para responder \nàs questões 4 e 5:  \nNão sabia que aquele era o seu apelido."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 3: O pronome “seu” , empregado no excerto \napresentado, remete:",
-            "alternativas": {
-                "A": "ao Venâncio.",
-                "B": "à senhora.",
-                "C": "à menina de oito anos.",
-                "D": "ao Bacana.",
-                "E": "ao Chico Babão.  QUESTÃO 05 \nA palavra “aquele” , que ocorre no excerto \napresentado, é classificada gramaticalmente \ncomo:  \n \n(A) pronome relativo.  \n(B) pronome indefinido.  \n(C) pronome demonstrativo.  \n(D) substantivo.  \n(E) adjetivo."
+                "A": "“tem”. (",
+                "B": "“tinha”. (",
+                "C": "“tinha tido”. (",
+                "D": "“teria”. (",
+                "E": "“tivesse”. Considere o excerto a seguir para responder às questões 4 e 5: Não sabia que aquele era o seu apelido."
             },
             "resposta_correta": "C"
         },
@@ -46,125 +34,179 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 4: Analise o excerto a seguir quanto às formas \nverbais empregadas: “Era como o chamavam \npelas costas.” O verbo “chamavam” , que \nocorre no excerto indicado, exprime uma ação:",
+            "questão": "Questão 4",
+            "enunciado": "O pronome “seu” , empregado no excerto apresentado, remete: (",
             "alternativas": {
-                "A": "em curso no presente.",
-                "B": "ocorrida e terminada antes de outra ação no \npassado.",
-                "C": "habitual no passado.",
-                "D": "pontual e terminada no passado.",
+                "A": "ao Venâncio. (",
+                "B": "à senhora. (",
+                "C": "à menina de oito anos. (",
+                "D": "ao Bacana. (",
+                "E": "ao Chico Babão. QUESTÃO 05 A palavra “aquele” , que ocorre no excerto apresentado, é classificada gramaticalmente como: (A) pronome relativo. (B) pronome indefinido. (C) pronome demonstrativo. (D) substantivo. (E) adjetivo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6",
+            "enunciado": "Analise o excerto a seguir quanto às formas verbais empregadas: “Era como o chamavam pelas costas.” O verbo “chamavam” , que ocorre no excerto indicado, exprime uma ação: (",
+            "alternativas": {
+                "A": "em curso no presente. (",
+                "B": "ocorrida e terminada antes de outra ação no passado. (",
+                "C": "habitual no passado. (",
+                "D": "pontual e terminada no passado. (",
                 "E": "hipotética no passado."
             },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 5: Analise os excertos a seguir, retirados do texto, \nquanto à colocação pronominal. Assinale a \nalternativa em que se verifica ênclise.",
-            "alternativas": {
-                "A": "Lembrou -se, então, com uma intensidade \nque quase o sufocou, do time.",
-                "B": "Era como o chamavam pelas costas.",
-                "C": "Tentou se lembrar do sobrenome.",
-                "D": "Lembrava das reuniões no galpão atrás da \ncasa do Chico Babão.",
-                "E": "— Só me deixavam jogar de centroavante \nporque a bola era minha…"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 6: Considere o excerto: “Apareceu uma senhora.” \nNesse contexto, o verbo “aparecer”  ocorre \ncom regência:",
-            "alternativas": {
-                "A": "pronominal.",
-                "B": "bitransitiva.",
-                "C": "transitiva indireta.",
-                "D": "transitiva direta.",
-                "E": "intransitiva.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 4 de 10 QUESTÃO 09 \nConsidere o excerto: “Sentiu um aperto na \ngarganta. Quanta lembrança! O muro com as \nmarcas da bola.” Dentre os substantivos a \nseguir, que ocorrem no excerto indicado, \nclassifica -se como abstrato apenas:  \n(A) aperto.  \n(B) lembrança.  \n(C) muro.   \n(D) garganta.  \n(E) bola."
-            },
             "resposta_correta": "C"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: Analise os excertos a seguir, retirados do texto, \nquanto às categorias gramaticais das palavras \nque os compõem:  \nI. Nunca mais fora tão feliz.  \nII. Atravessou a rua e bateu na porta.  \nIII. — O Venancinho ainda mora aqui?  \nVerifica -se o emprego de palavra(s) da classe \ngramatical advérbio apenas em:",
+            "questão": "Questão 7",
+            "enunciado": "Analise os excertos a seguir, retirados do texto, quanto à colocação pronominal. Assinale a alternativa em que se verifica ênclise. (",
             "alternativas": {
-                "A": "I.",
-                "B": "II.",
-                "C": "III.",
-                "D": "I e II.",
+                "A": "Lembrou -se, então, com uma intensidade que quase o sufocou, do time. (",
+                "B": "Era como o chamavam pelas costas. (",
+                "C": "Tentou se lembrar do sobrenome. (",
+                "D": "Lembrava das reuniões no galpão atrás da casa do Chico Babão. (",
+                "E": "— Só me deixavam jogar de centroavante porque a bola era minha…"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8",
+            "enunciado": "Considere o excerto: “Apareceu uma senhora.” Nesse contexto, o verbo “aparecer” ocorre com regência: (",
+            "alternativas": {
+                "A": "pronominal. (",
+                "B": "bitransitiva. (",
+                "C": "transitiva indireta. (",
+                "D": "transitiva direta. (",
+                "E": "intransitiva. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 4 de 10 QUESTÃO 09 Considere o excerto: “Sentiu um aperto na garganta. Quanta lembrança! O muro com as marcas da bola.” Dentre os substantivos a seguir, que ocorrem no excerto indicado, classifica -se como abstrato apenas: (A) aperto. (B) lembrança. (C) muro. (D) garganta. (E) bola."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10",
+            "enunciado": "Analise os excertos a seguir, retirados do texto, quanto às categorias gramaticais das palavras que os compõem: I. Nunca mais fora tão feliz. II. Atravessou a rua e bateu na porta. III. — O Venancinho ainda mora aqui? Verifica -se o emprego de palavra(s) da classe gramatical advérbio apenas em: (",
+            "alternativas": {
+                "A": "I. (",
+                "B": "II. (",
+                "C": "III. (",
+                "D": "I e II. (",
                 "E": "I e III."
             },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1",
+            "enunciado": "Considere as sentenças a seguir: I. O …. comportamento do rapaz o tornou detestável. II. A festa será …. dez horas da manhã, na próxima terça -feira. III. A garotinha disse que está se sentindo …., por isso quer ir ao hospital. Nas alternativas a seguir, apresentam -se elementos que podem preencher cada uma das lacunas nas sentenças dadas. Assinale a alternativa em que os elementos indicados preenchem -nas corretamente. (",
+            "alternativas": {
+                "A": "mal; às; mal. (",
+                "B": "mau; às; mal. (",
+                "C": "mau; as; mal. (",
+                "D": "mal; às; mau. (",
+                "E": "mau; as; mau. QUESTÃO 1 2 Analise as sentenças a seguir e assinale a alternativa em que se verifica desvio de concordância nominal. (A) As adolescentes foram encontradas no pátio da escola. (B) Os materiais a serem utilizados são cartolina, cola e lápis de cor. (C) A casa, avaliada em cinco milhões, foi vendida nesta semana. (D) Tanto o menino quanto a menina estava intoxicada por alimentação contaminada. (E) Os alunos fizeram para a professora, que estava afastada, uma festa surpresa."
+            },
             "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 8: 1 \nConsidere as sentenças a seguir:  \n \nI. O …. comportamento do rapaz o tornou \ndetestável.   \nII. A festa será …. dez horas da manhã, na \npróxima terça -feira.  \nIII. A garotinha disse que está se sentindo …., \npor isso quer ir ao hospital.  \n \nNas alternativas a seguir, apresentam -se \nelementos que podem preencher cada uma das \nlacunas nas sentenças dadas. Assinale a \nalternativa em que os elementos indicados \npreenchem -nas corretamente.",
+            "questão": "Questão 1",
+            "enunciado": "Em todas as sentenças a seguir, a palavra em destaque exprime sentido similar ao da palavra pífio , exceto em: (",
             "alternativas": {
-                "A": "mal; às; mal.",
-                "B": "mau; às; mal.",
-                "C": "mau; as; mal.",
-                "D": "mal; às; mau.",
-                "E": "mau; as; mau.  QUESTÃO 1 2 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica desvio de \nconcordância nominal.   \n(A) As adolescentes foram encontradas no pátio \nda escola.  \n(B) Os materiais a serem utilizados são \ncartolina, cola e lápis de cor.   \n(C) A casa, avaliada em cinco milhões, foi \nvendida nesta semana.   \n(D) Tanto o menino quanto a menina estava \nintoxicada por alimentação contaminada.  \n(E) Os alunos fizeram para a professora, que \nestava afastada, uma festa surpresa."
+                "A": "Uma atitude ordinária do treinador afetou todo o time. (",
+                "B": "Na escola, observaram -se comportamentos soezes do garoto. (",
+                "C": "As provas apresentadas eram medíocres para o juiz. (",
+                "D": "Todos consideraram a fala da palestrante excepcional. (",
+                "E": "Os tecidos comprados para a confecção do vestido são reles ."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: 3 \nEm todas as sentenças a seguir, a palavra em \ndestaque exprime sentido similar ao da palavra \npífio , exceto em:",
+            "questão": "Questão 1",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa em que ocorre um verbo no modo imperativo. (",
             "alternativas": {
-                "A": "Uma atitude ordinária  do treinador afetou \ntodo o time.",
-                "B": "Na escola, observaram -se comportamentos \nsoezes  do garoto.",
-                "C": "As provas apresentadas eram medíocres  \npara o juiz.",
-                "D": "Todos consideraram a fala da palestrante \nexcepcional.",
-                "E": "Os tecidos comprados para a confecção do \nvestido são reles ."
+                "A": "Joana não foi classificada para o concurso de sua escola. (",
+                "B": "Segundo a polícia, o assalto deixou quatro vítimas. (",
+                "C": "Os quadros da artista estarão disponíveis na exposição até a próxima semana. (",
+                "D": "As fortes chuvas alagavam com frequência a cidade. (",
+                "E": "Voltem para casa antes da meia noite. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 5 de 10 QUESTÃO 15 Considere a sentença a seguir, em que o verbo “infiltrar” ocorre com regência transitiva direta e indireta: Os bandidos infiltraram -se …. o prédio da empresa sem que fossem notados. Considerando o contexto indicado, a preposição requerida pela regência do verbo “infiltrar”, a qual preenche corretamente a lacuna na sentença (considerada a possibilidade de contração com o artigo “o”, se necessário), é: (A) de. (B) para. (C) em. (D) com. (E) sobre. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: 4 \nAnalise as sentenças a seguir e assinale a \nalternativa em que ocorre um verbo no modo \nimperativo.",
+            "questão": "Questão 16",
+            "enunciado": "Uma piscina tem a forma de um cubo com aresta de 5 metros. Qual é o volume total da piscina em metros cúbicos? (",
             "alternativas": {
-                "A": "Joana não foi classificada para o concurso \nde sua escola.",
-                "B": "Segundo a polícia, o assalto deixou quatro \nvítimas.",
-                "C": "Os quadros da artista estarão disponíveis na \nexposição até a próxima semana.",
-                "D": "As fortes chuvas alagavam com frequência \na cidade.",
-                "E": "Voltem para casa antes da meia noite.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 5 de 10 QUESTÃO 15 \nConsidere a sentença a seguir, em que o verbo \n“infiltrar” ocorre com regência transitiva direta \ne indireta:  \n \nOs bandidos infiltraram -se …. o prédio da \nempresa sem que fossem notados.   \n \nConsiderando o contexto indicado, a \npreposição requerida pela regência do verbo \n“infiltrar”, a qual preenche corretamente a \nlacuna na sentença (considerada a possibilidade \nde contração com o artigo “o”, se necessário), \né: \n(A) de.  \n(B) para.  \n(C) em.  \n(D) com.  \n(E) sobre.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 11: Uma piscina tem a forma de um cubo com \naresta de 5 metros. Qual é o volume total da \npiscina em metros cúbicos?",
-            "alternativas": {
-                "A": "5 m³",
-                "B": "25 m³",
-                "C": "125 m³",
-                "D": "625 m³",
+                "A": "5 m³ (",
+                "B": "25 m³ (",
+                "C": "125 m³ (",
+                "D": "625 m³ (",
                 "E": "3125 m³"
             },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17",
+            "enunciado": "Maria está redecorando sua sala e precisa calcular a quantidade de piso necessário para cobrir o chão. A sala tem a forma de um retângulo com 5 metros de comprimento e 4 metros de largura. Para garantir que compra a quantidade certa de material, Maria dese ja saber a área total da sala em metros quadrados. Qual é a área total da sala em metros quadrados? (",
+            "alternativas": {
+                "A": "9 m² (",
+                "B": "20 m² (",
+                "C": "18 m² (",
+                "D": "14 m² (",
+                "E": "10 m² QUESTÃO 18 João possui uma horta retangular com 8,5 metros de comprimento e 6,25 metros de largura. Ele deseja construir uma cerca ao redor da horta, que custa R$ 7,80 por metro. Qual será o custo total da cerca? (A) R$ 245,75 (B) R$ 210,00 (C) R$ 200,30 (D) R$ 235,20 (E) R$ 229,50"
+            },
             "resposta_correta": "C"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: Maria está redecorando sua sala e precisa \ncalcular a quantidade de piso necessário para \ncobrir o chão. A sala tem a forma de um \nretângulo com 5 metros de comprimento e 4 \nmetros de largura. Para garantir que compra a \nquantidade certa de material, Maria dese ja \nsaber a área total da sala em metros quadrados.  \n \nQual é a área total da sala em metros \nquadrados?",
+            "questão": "Questão 19",
+            "enunciado": "Uma empresa decide investir R$ 5.000,00 em cinco projetos sociais. A distribuição do orçamento é a seguinte: 30% para o Projeto A, 20% para o Projeto B, 15% para o Projeto C, 10% para o Projeto D e o restante para o Projeto E. Quanto cada projeto receberá? (",
             "alternativas": {
-                "A": "9 m²",
-                "B": "20 m²",
-                "C": "18 m²",
-                "D": "14 m²",
-                "E": "10 m²  QUESTÃO 18 \nJoão possui uma horta retangular com 8,5 \nmetros de comprimento e 6,25 metros de \nlargura. Ele deseja construir uma cerca ao redor \nda horta, que custa R$ 7,80 por metro. Qual será \no custo total da cerca?  \n \n(A) R$ 245,75  \n(B) R$ 210,00  \n(C) R$ 200,30  \n(D) R$ 235,20  \n(E) R$ 229,50"
+                "A": "R$ 1.500,00, R$ 1.000,00, R$ 750,00, R$ 500,00, R$ 1.250,00 (",
+                "B": "R$ 1.200,00, R$ 1.100,00, R$ 800,00, R$ 700,00, R$ 1.300,00 (",
+                "C": "R$ 1.000,00, R$ 1.500,00, R$ 700,00, R$ 800,00, R$ 1.000,00 (",
+                "D": "R$ 1.300,00, R$ 800,00, R$ 1.000,00, R$ 900,00, R$ 1.000,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "Fernanda comprou um eletrônico no valor de R$ 800,00 em uma loja e optou por pagar em 4 parcelas iguais. Qual é o valor de cada parcela? (",
+            "alternativas": {
+                "A": "R$ 190,00 (",
+                "B": "R$ 200,00 (",
+                "C": "R$ 210,00 (",
+                "D": "R$ 220,00 (",
+                "E": "R$ 230,00 Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 6 de 10 QUESTÃO 2 1 Uma instituição distribuirá R$ 8.000,00 entre cinco projetos sociais. O primeiro projeto receberá 20%, o segundo 15%, o terceiro 25%, o quarto 10% e o restante irá para o quinto projeto. Quanto o quinto projeto receberá? (A) R$ 1.600,00 (B) R$ 2.200,00 (C) R$ 2.000,00 (D) R$ 2.400,00 (E) Nenhuma das alternativas"
             },
             "resposta_correta": "A"
         },
@@ -172,96 +214,88 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: Uma empresa decide investir R$ 5.000,00 em \ncinco projetos sociais. A distribuição do \norçamento é a seguinte: 30% para o Projeto A, \n20% para o Projeto  B, 15% para o Projeto C, \n10% para o Projeto D e o restante para o Projeto \nE. Quanto cada projeto receberá?",
+            "questão": "Questão 2",
+            "enunciado": "Em uma plantação de maçãs, constatou -se que 5% das 25.000 maçãs colhidas estavam impróprias para consumo e seriam descartadas. Quantas maçãs, aproximadamente, serão descartadas por estarem impróprias para consumo? (",
             "alternativas": {
-                "A": "R$ 1.500,00, R$ 1.000,00, R$ 750,00, R$ \n500,00, R$ 1.250,00",
-                "B": "R$ 1.200,00, R$ 1.100,00, R$ 800,00, R$ \n700,00, R$ 1.300,00",
-                "C": "R$ 1.000,00, R$ 1.500,00, R$ 700,00, R$ \n800,00, R$ 1.000,00",
-                "D": "R$ 1.300,00, R$ 800,00, R$ 1.000,00, R$ \n900,00, R$ 1.000,00",
-                "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 14: 0 \nFernanda comprou um eletrônico no valor de \nR$ 800,00 em uma loja e optou por pagar em 4 \nparcelas iguais. Qual é o valor de cada parcela?",
-            "alternativas": {
-                "A": "R$ 190,00",
-                "B": "R$ 200,00",
-                "C": "R$ 210,00",
-                "D": "R$ 220,00",
-                "E": "R$ 230,00  \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 6 de 10 QUESTÃO 2 1 \nUma instituição distribuirá R$ 8.000,00 entre \ncinco projetos sociais. O primeiro projeto \nreceberá 20%, o segundo 15%, o terceiro 25%, \no quarto 10% e o restante irá para o quinto \nprojeto. Quanto o quinto projeto receberá?  \n \n(A) R$ 1.600,00  \n(B) R$ 2.200,00  \n(C) R$ 2.000,00  \n(D) R$ 2.400,00  \n(E) Nenhuma das alternativas"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 15: 2 \nEm uma plantação de maçãs, constatou -se que \n5% das 25.000 maçãs colhidas estavam \nimpróprias para consumo e seriam descartadas. \nQuantas maçãs, aproximadamente, serão \ndescartadas por estarem impróprias para \nconsumo?",
-            "alternativas": {
-                "A": "750 maçãs",
-                "B": "1.000 maçãs",
-                "C": "1.250 maçãs",
-                "D": "1.500 maçãs",
+                "A": "750 maçãs (",
+                "B": "1.000 maçãs (",
+                "C": "1.250 maçãs (",
+                "D": "1.500 maçãs (",
                 "E": "1.800 maçãs"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: 3 \nAssinale a alternativa que apresenta o \nSeptuagésimo Terceiro número par sucessor de \n58.",
+            "questão": "Questão 2",
+            "enunciado": "Assinale a alternativa que apresenta o Septuagésimo Terceiro número par sucessor de 58. (",
             "alternativas": {
-                "A": "131",
-                "B": "133",
-                "C": "204",
-                "D": "206",
-                "E": "Nenhuma das alternativas  \n \n \n \n \n \n \n QUESTÃO 2 4 \nUm grupo de 5 amigos foi a um cinema, e a \nconta total, incluindo ingressos e lanches, foi \nde R$ 200,00. Agora, eles estão discutindo \ncomo dividir a conta. As propostas são as \nseguintes:  \n• Ana sugere que cada um contribua com \nR$ 40,00.  \n• Bruno acredita que R$ 30,00 por \npessoa é suficiente.  \n• Carla propõe R$ 35,00 por pessoa.  \n• Daniel sugere que cada um pague R$ \n25,00.  \n• Elisa pensa que R$ 50,00 seria o valor \njusto.  \nQual amigo está correto sobre o valor justo a \nser contribuído por cada pessoa?  \n(A) Bruno  \n(B) Ana  \n(C) Carla  \n(D) Daniel  \n(E) Elisa"
+                "A": "131 (",
+                "B": "133 (",
+                "C": "204 (",
+                "D": "206 (",
+                "E": "Nenhuma das alternativas"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: 5 \nMaria comprou um bolo retangular para uma \nfesta. O bolo tem 24 fatias iguais. Se ela quiser \ndividir o bolo igualmente entre 4 amigos \nquantas fatias cada amigo receberá?",
+            "questão": "Questão 2",
+            "enunciado": "Um grupo de 5 amigos foi a um cinema, e a conta total, incluindo ingressos e lanches, foi de R$ 200,00. Agora, eles estão discutindo como dividir a conta. As propostas são as seguintes: • Ana sugere que cada um contribua com R$ 40,00. • Bruno acredita que R$ 30,00 por pessoa é suficiente. • Carla propõe R$ 35,00 por pessoa. • Daniel sugere que cada um pague R$ 25,00. • Elisa pensa que R$ 50,00 seria o valor justo. Qual amigo está correto sobre o valor justo a ser contribuído por cada pessoa? (",
             "alternativas": {
-                "A": "4",
-                "B": "5",
-                "C": "6",
-                "D": "7",
+                "A": "Bruno (",
+                "B": "Ana (",
+                "C": "Carla (",
+                "D": "Daniel (",
+                "E": "Elisa"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "Maria comprou um bolo retangular para uma festa. O bolo tem 24 fatias iguais. Se ela quiser dividir o bolo igualmente entre 4 amigos quantas fatias cada amigo receberá? (",
+            "alternativas": {
+                "A": "4 (",
+                "B": "5 (",
+                "C": "6 (",
+                "D": "7 (",
                 "E": "8"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: 6 \nPaula recebeu uma herança e decidiu doar \n10% desse valor para instituições de caridade. \nSe a doação foi de R$ 200,00, qual foi o valor \ntotal da herança que Paula recebeu?",
+            "questão": "Questão 2",
+            "enunciado": "Paula recebeu uma herança e decidiu doar 10% desse valor para instituições de caridade. Se a doação foi de R$ 200,00, qual foi o valor total da herança que Paula recebeu? (",
             "alternativas": {
-                "A": "R$ 1.000,00",
-                "B": "R$ 1.500,00",
-                "C": "R$ 2.000,00",
-                "D": "R$ 2.500,00",
-                "E": "Nenhuma das alternativas  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 7 de 10 QUESTÃO 2 7 \nAssinale a alternativa que apresenta o \nSexagésimo número ímpar sucessor de 27?  \n \n(A) 87 \n(B) 147 \n(C) 149 \n(D) 145 \n(E) Nenhuma das alternativas"
+                "A": "R$ 1.000,00 (",
+                "B": "R$ 1.500,00 (",
+                "C": "R$ 2.000,00 (",
+                "D": "R$ 2.500,00 (",
+                "E": "Nenhuma das alternativas Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 7 de 10 QUESTÃO 2 7 Assinale a alternativa que apresenta o Sexagésimo número ímpar sucessor de 27? (A) 87 (B) 147 (C) 149 (D) 145 (E) Nenhuma das alternativas"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Lucas ganhou um prêmio em dinheiro e decidiu \ninvestir parte desse valor em ações. Ele investiu \n15% do prêmio, que totalizaram R$ 300,00. \nQual foi o valor total do prêmio que Lucas \nrecebeu?",
+            "questão": "Questão 28",
+            "enunciado": "Lucas ganhou um prêmio em dinheiro e decidiu investir parte desse valor em ações. Ele investiu 15% do prêmio, que totalizaram R$ 300,00. Qual foi o valor total do prêmio que Lucas recebeu? (",
             "alternativas": {
-                "A": "R$ 1.500,00",
-                "B": "R$ 1.800,00",
-                "C": "R$ 2.500,00",
-                "D": "R$ 2.000,00",
+                "A": "R$ 1.500,00 (",
+                "B": "R$ 1.800,00 (",
+                "C": "R$ 2.500,00 (",
+                "D": "R$ 2.000,00 (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "D"
@@ -270,83 +304,29 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Angélica encontrou um cofrinho contendo 70 \nmoedas de R$0,25 e 26 moedas de R$0,50. \nQual é o valor total encontrado no cofre?",
+            "questão": "Questão 29",
+            "enunciado": "Angélica encontrou um cofrinho contendo 70 moedas de R$0,25 e 26 moedas de R$0,50. Qual é o valor total encontrado no cofre? (",
             "alternativas": {
-                "A": "R$ 30,00",
-                "B": "R$ 37,50",
-                "C": "R$ 42,50",
-                "D": "R$ 30,50",
+                "A": "R$ 30,00 (",
+                "B": "R$ 37,50 (",
+                "C": "R$ 42,50 (",
+                "D": "R$ 30,50 (",
                 "E": "R$ 56,75"
             },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 21: 0 \nUma pessoa decidiu se exercitar regularmente, \ndedicando 1 hora por dia de segunda a sábado \npara fazer exercícios. Se ela começou a rotina \nna segunda -feira, qual será o total de horas que \nterá se exercitado ao final de 3 semanas?",
-            "alternativas": {
-                "A": "16 horas",
-                "B": "18 horas",
-                "C": "21 horas",
-                "D": "24 horas",
-                "E": "27 horas  \n CONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 22: Sobre o uso diário do capacete de segurança, \nqual dos seguintes riscos é um possível dano \nassociado à não utilização deste equipamento \nde proteção na Construção Civil?",
-            "alternativas": {
-                "A": "Cortes causados por ferramentas manuais.",
-                "B": "Quedas de materiais e ferramentas na área \nda cabeça.",
-                "C": "Deslizamentos de terra em áreas de \nconstrução.",
-                "D": "Intoxicações por vapores químicos \nemitidos.",
-                "E": "Incêndios causados por materiais \ninflamáveis."
-            },
             "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: Durante o procedimento de assentamento de \ngrandes pisos, poderão ser usadas diversas \nferramentas para auxiliar essa aplicação, entre \nelas, análise a imagem abaixo e assinale a \nalternativa que apresenta seu respectivo nome \npopular:",
+            "questão": "Questão 3",
+            "enunciado": "Uma pessoa decidiu se exercitar regularmente, dedicando 1 hora por dia de segunda a sábado para fazer exercícios. Se ela começou a rotina na segunda -feira, qual será o total de horas que terá se exercitado ao final de 3 semanas? (",
             "alternativas": {
-                "A": "Prumo.",
-                "B": "Desempenadeira.",
-                "C": "Espátula.",
-                "D": "Raspadores.",
-                "E": "Ventosa.  \n \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 8 de 10 QUESTÃO 33  \nLeia o enunciado abaixo e assinale a alternativa \nque apresenta corretamente o termo que \ncompleta a lacuna:  \n____________ É  um concreto de resistência \nbaixa com pouco cimento, muito agregado e \npouca água, apresentando -se de forma farofada. \nSua função é regularizar a base da vala \ntornando -a nivelada, ocupando toda a área que \nreceberá a estrutura de uma fundação.  \n(A) Concreto Usinado.  \n(B) Concreto Pesado.  \n(C) Concreto Armado.  \n(D) Concreto Magro.  \n(E) Concreto Projetado."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 24: Leia o enunciado abaixo e assinale a alternativa \nque apresenta corretamente o termo que \ncompleta a lacuna:  \nO ____________ nada mais é do que a união do \nconcreto com a armadura de metal. Unindo os \ndois materiais, pode -se criar estruturas que são \neficientes contra os esforços de compressão e \nflexão, e é responsável pelos arranha -céus \nmodernos das grandes metrópol es globais, além \nde estruturas como pontes e estádios de futebol.",
-            "alternativas": {
-                "A": "Concreto Fino.",
-                "B": "Concreto Magro.",
-                "C": "Concreto Armado.",
-                "D": "Concreto Usinado.",
-                "E": "Concreto Projetado.  \n \n \n \n \n \n \n \n QUESTÃO 35  \nLeia o enunciado abaixo e análise a imagem, e \nassinale a alternativa que apresenta \ncorretamente o termo que completa a lacuna:  \n \n____________ É uma ferramenta utilizada para \nsocar ou compactar terra, concreto e solo -\ncimento. Podendo ser de madeira ou concreto.  \n \n \n \n(A) Soquete.  \n(B) Ponteira.  \n(C) Prumo de Centro.  \n(D) Picareta.  \n(E) Trinchão."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 25: Os EPC - Equipamentos de Proteção Coletiva, \nsão os dispositivos, equipamentos e sistemas \nque protegem a equipe como um todo e \nterceiros que possam estar na obra. Nesse \nsentido, considera um EPC, exceto:",
-            "alternativas": {
-                "A": "Barreiras com cancelas.",
-                "B": "Cercados em abertura no piso.",
-                "C": "Protetor Auricular.",
-                "D": "Sinalização estratégica.",
-                "E": "Escadas e rampas.  \n \n \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 9 de 10 QUESTÃO 37  \nA imagem abaixo apresenta um procedimento \ncomumente utilizado durante a Construção \nCivil, qual nome dessa etapa?  \n \n \n \n(A) Tirar Medida.  \n(B) Tirar esquadro.  \n(C) Medir o tamanho.  \n(D) Tirar Prumo.  \n(E) Alinhamento de tijolos."
+                "A": "16 horas (",
+                "B": "18 horas (",
+                "C": "21 horas (",
+                "D": "24 horas (",
+                "E": "27 horas CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "C"
         },
@@ -354,13 +334,74 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 26: Luciane, pretende iniciar uma obra em sua casa, \ne para isso precisa preparar um concreto. Quais \nsão os materiais básicos necessários para essa \npreparação?",
+            "questão": "Questão 31",
+            "enunciado": "Sobre o uso diário do capacete de segurança, qual dos seguintes riscos é um possível dano associado à não utilização deste equipamento de proteção na Construção Civil? (",
             "alternativas": {
-                "A": "Terra, Cal e Cimento.",
-                "B": "Cal, Brita e Terra.",
-                "C": "Gesso, Areia e Brita.",
-                "D": "Brita, Terra e Cimento.",
-                "E": "Cimento, Areia e Brita."
+                "A": "Cortes causados por ferramentas manuais. (",
+                "B": "Quedas de materiais e ferramentas na área da cabeça. (",
+                "C": "Deslizamentos de terra em áreas de construção. (",
+                "D": "Intoxicações por vapores químicos emitidos. (",
+                "E": "Incêndios causados por materiais inflamáveis."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32",
+            "enunciado": "Durante o procedimento de assentamento de grandes pisos, poderão ser usadas diversas ferramentas para auxiliar essa aplicação, entre elas, análise a imagem abaixo e assinale a alternativa que apresenta seu respectivo nome popular: (",
+            "alternativas": {
+                "A": "Prumo. (",
+                "B": "Desempenadeira. (",
+                "C": "Espátula. (",
+                "D": "Raspadores. (",
+                "E": "Ventosa. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 8 de 10 QUESTÃO 33 Leia o enunciado abaixo e assinale a alternativa que apresenta corretamente o termo que completa a lacuna: ____________ É um concreto de resistência baixa com pouco cimento, muito agregado e pouca água, apresentando -se de forma farofada. Sua função é regularizar a base da vala tornando -a nivelada, ocupando toda a área que receberá a estrutura de uma fundação. (A) Concreto Usinado. (B) Concreto Pesado. (C) Concreto Armado. (D) Concreto Magro. (E) Concreto Projetado."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 34",
+            "enunciado": "Leia o enunciado abaixo e assinale a alternativa que apresenta corretamente o termo que completa a lacuna: O ____________ nada mais é do que a união do concreto com a armadura de metal. Unindo os dois materiais, pode -se criar estruturas que são eficientes contra os esforços de compressão e flexão, e é responsável pelos arranha -céus modernos das grandes metrópol es globais, além de estruturas como pontes e estádios de futebol. (",
+            "alternativas": {
+                "A": "Concreto Fino. (",
+                "B": "Concreto Magro. (",
+                "C": "Concreto Armado. (",
+                "D": "Concreto Usinado. (",
+                "E": "Concreto Projetado."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 35",
+            "enunciado": "Leia o enunciado abaixo e análise a imagem, e assinale a alternativa que apresenta corretamente o termo que completa a lacuna: ____________ É uma ferramenta utilizada para socar ou compactar terra, concreto e solo - cimento. Podendo ser de madeira ou concreto. (",
+            "alternativas": {
+                "A": "Soquete. (",
+                "B": "Ponteira. (",
+                "C": "Prumo de Centro. (",
+                "D": "Picareta. (",
+                "E": "Trinchão."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 36",
+            "enunciado": "Os EPC - Equipamentos de Proteção Coletiva, são os dispositivos, equipamentos e sistemas que protegem a equipe como um todo e terceiros que possam estar na obra. Nesse sentido, considera um EPC, exceto: (",
+            "alternativas": {
+                "A": "Barreiras com cancelas. (",
+                "B": "Cercados em abertura no piso. (",
+                "C": "Protetor Auricular. (",
+                "D": "Sinalização estratégica. (",
+                "E": "Escadas e rampas. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 9 de 10 QUESTÃO 37 A imagem abaixo apresenta um procedimento comumente utilizado durante a Construção Civil, qual nome dessa etapa? (A) Tirar Medida. (B) Tirar esquadro. (C) Medir o tamanho. (D) Tirar Prumo. (E) Alinhamento de tijolos."
             },
             "resposta_correta": "A"
         },
@@ -368,26 +409,58 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 27: Durante o processo de assentamento de \nazulejos, são etapas essenciais para garantir \numa fixação adequada das peças, exceto:",
+            "questão": "Questão 38",
+            "enunciado": "Luciane, pretende iniciar uma obra em sua casa, e para isso precisa preparar um concreto. Quais são os materiais básicos necessários para essa preparação? (",
             "alternativas": {
-                "A": "Utilizar espaçadores entre os azulejos.",
-                "B": "Escolher uma argamassa adequada para o \ntipo de revestimento.",
-                "C": "Aguardar o tempo de secagem antes de \nlimpar o revestimento.",
-                "D": "Certificar -se de que o local não possui \nproblemas de alinhamento.",
-                "E": "Medir o local de forma aproximada apenas, \npois sempre haverá variação de tamanhos.  \n \n \n \n QUESTÃO 40  \nA Alvenaria estrutural é conhecida como um \nsistema:  \n(A) Construtivo.  \n(B) Mecânico.  \n(C) Hidráulico.  \n(D) Reparador.  \n(E) Elétrico.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 10 de 10"
+                "A": "Terra, Cal e Cimento. (",
+                "B": "Cal, Brita e Terra. (",
+                "C": "Gesso, Areia e Brita. (",
+                "D": "Brita, Terra e Cimento. (",
+                "E": "Cimento, Areia e Brita."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 39",
+            "enunciado": "Durante o processo de assentamento de azulejos, são etapas essenciais para garantir uma fixação adequada das peças, exceto: (",
+            "alternativas": {
+                "A": "Utilizar espaçadores entre os azulejos. (",
+                "B": "Escolher uma argamassa adequada para o tipo de revestimento. (",
+                "C": "Aguardar o tempo de secagem antes de limpar o revestimento. (",
+                "D": "Certificar -se de que o local não possui problemas de alinhamento. (",
+                "E": "Medir o local de forma aproximada apenas, pois sempre haverá variação de tamanhos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 40",
+            "enunciado": "A Alvenaria estrutural é conhecida como um sistema: (",
+            "alternativas": {
+                "A": "Construtivo. (",
+                "B": "Mecânico. (",
+                "C": "Hidráulico. (",
+                "D": "Reparador. (",
+                "E": "Elétrico. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 10 de 10"
+            },
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: Observe a colocação pronominal presente na primeira fala de Calvin. A seguir, foram construídas \nalgumas orações, porém apenas uma está correta, condizendo com o referido exemplo, assinale -a:",
+            "questão": "Questão 1",
+            "enunciado": "Observe a colocação pronominal presente na primeira fala de Calvin. A seguir, foram construídas algumas orações, porém apenas uma está correta, condizendo com o referido exemplo, assinale -a: (",
             "alternativas": {
-                "A": "Depois de melhorar, nos avisem.",
-                "B": "Gostaria de te mostrar o meu convite.",
-                "C": "Me surpreendi com seu comportamento.",
-                "D": "Conforme lhe disse, hoje foi um dia especial.",
+                "A": "Depois de melhorar, nos avisem. (",
+                "B": "Gostaria de te mostrar o meu convite. (",
+                "C": "Me surpreendi com seu comportamento. (",
+                "D": "Conforme lhe disse, hoje foi um dia especial. (",
                 "E": "O seu maior sonho é se casar."
             },
             "resposta_correta": "B"
@@ -396,13 +469,14 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: Observe a expressão: “Isso é muito gentil  da sua parte”. Destaque a alternativa que manteve o mesmo \nsentido do termo destacado.",
+            "questão": "Questão 2",
+            "enunciado": "Observe a expressão: “Isso é muito gentil da sua parte”. Destaque a alternativa que manteve o mesmo sentido do termo destacado. (",
             "alternativas": {
-                "A": "Isso é muito nobre da sua parte.",
-                "B": "Isso é muito encantador da sua parte.",
-                "C": "Isso é muito distinto da sua parte.",
-                "D": "Isso é muito atencioso da sua parte.",
-                "E": "Isso é muito amorável da sua parte.  \n \n \n \n \n \n \n \n \nPrefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE DE OBRAS                                                                                                                                  Página 3 de 10 QUESTÃO 03  \nAnalise novamente a charge e destaque a seguir \na figura de linguagem que aparece em uma das \nfalas de Haroldo.  \n(A) Hipérbato  \n(B) Hipérbole  \n(C) Eufemismo  \n(D) Ironia  \n(E) Polissíndeto"
+                "A": "Isso é muito nobre da sua parte. (",
+                "B": "Isso é muito encantador da sua parte. (",
+                "C": "Isso é muito distinto da sua parte. (",
+                "D": "Isso é muito atencioso da sua parte. (",
+                "E": "Isso é muito amorável da sua parte. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 3 de 10 QUESTÃO 03 Analise novamente a charge e destaque a seguir a figura de linguagem que aparece em uma das falas de Haroldo. (A) Hipérbato (B) Hipérbole (C) Eufemismo (D) Ironia (E) Polissíndeto"
             },
             "resposta_correta": "A"
         },
@@ -410,41 +484,29 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: Observe o primeiro balão: “A mamãe não está se \nsentindo bem. Por isso eu estou fazendo um \ncartão pra ela”. Qual das alternativas não \napresenta nenhum erro de classificação \ngramatical?",
+            "questão": "Questão 4",
+            "enunciado": "Observe o primeiro balão: “A mamãe não está se sentindo bem. Por isso eu estou fazendo um cartão pra ela”. Qual das alternativas não apresenta nenhum erro de classificação gramatical? (",
             "alternativas": {
-                "A": "está, estou, fazendo = verbo de ligação",
-                "B": "não, bem, isso = advérbios",
-                "C": "mamãe, cartão, ela = substantivos",
-                "D": "se, por isso, pra = conjunções",
+                "A": "está, estou, fazendo = verbo de ligação (",
+                "B": "não, bem, isso = advérbios (",
+                "C": "mamãe, cartão, ela = substantivos (",
+                "D": "se, por isso, pra = conjunções (",
                 "E": "eu, ela = pronome pessoal"
             },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 4: Em qual tempo verbal está a expressão: “Fique \nboa logo”.",
-            "alternativas": {
-                "A": "Presente do Indicativo",
-                "B": "Futuro do Presente do Indicativo",
-                "C": "Presente do Subjuntivo",
-                "D": "Futuro do Subjuntivo",
-                "E": "Pretérito Mais -que-perfeito do Indicativo  \n \n \n \n \n \n \n \n Leia o texto a seguir e responda \nposteriormente as questões de 6 a 10 . \n \nTeoria é um conjunto de suposições inter-\nrelacionadas para explicar alguma coisa. Sem \nquestionamento as suposições são aceitas pelos \nadeptos da teoria. O valor de qualquer teoria \ndepende da sua capacidade de explicar e resolver \nproblemas concretos e prover uma base para \nplanejar. As teorias  organizacionais podem ser \nentendidas como um conjunto de princípios e \nprescrições que visam a facilitar a realização dos \nobjetivos das organizações e serão mais ou \nmenos válidas na medida em que isso \nefetivamente ocorrer.  \nCada uma das abordagens reflete, em grande \nparte, as preocupações e as relações econômicas \ne sociais da época em que foram formuladas. \nMuitas teorias organizacionais contêm princípios \nque ainda são assaz válidos. Uma nova teoria não \nelimina as que a preced eram, mas as completa, \naborda novos ângulos e amplia a visão dos \nadministradores para a solução de problemas e o \naproveitamento de oportunidades. [...] Como \nalguns administradores não têm ciência dessa \namplitude, acabam perdendo tais oportunidades.  \nFonte: LACOMBE, F. Teoria geral da \nadministração. São Paulo: Saraiva, 2009."
-            },
             "resposta_correta": "E"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: Em relação às ideias apresentadas pelo texto, \ndepreende -se:",
+            "questão": "Questão 5",
+            "enunciado": "Em qual tempo verbal está a expressão: “Fique boa logo”. (",
             "alternativas": {
-                "A": "A teoria representa uma ideia absoluta sobre \nalguma coisa.",
-                "B": "Por meio de inferências é possível explicar o \nque se pretende. No entanto, há a necessidade de \nvalidação dessas inferências pelos adeptos da \nteoria em questão.",
-                "C": "O valor de uma teoria está na capacidade que \nse tem de implementar a ação concreta abstraída \nde suas suposições.",
-                "D": "Cada nova teoria é responsável por dirimir a \nanterior, em função das novas informações e dos \nnovos ângulos que são trazidos pelo novo modelo \nteórico.",
-                "E": "Um dos parâmetros de validação de uma \nteoria é a consecução dos objetivos \norganizacionais.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE DE OBRAS                                                                                                                                  Página 4 de 10 QUESTÃO 07 \nDestaque a alternativa que alterou o sentido \nexpresso na seguinte oração: “Teoria é um \nconjunto de suposições inter -relacionadas para \nexplicar alguma coisa”.  \n(A) Teoria é um conjunto de suposições \ncorrelacionadas para explicar alguma coisa.  \n(B) Teoria é um conjunto de suposições \ninterdependentes para explicar alguma coisa.  \n(C) Teoria é um conjunto de suposições \nrecíprocas para explicar alguma coisa.  \n(D) Teoria é um conjunto de suposições \ncorrespondentes para explicar alguma coisa.  \n(E) Teoria é um conjunto de suposições \nintersubjetivas para explicar alguma coisa."
+                "A": "Presente do Indicativo (",
+                "B": "Futuro do Presente do Indicativo (",
+                "C": "Presente do Subjuntivo (",
+                "D": "Futuro do Subjuntivo (",
+                "E": "Pretérito Mais -que-perfeito do Indicativo Leia o texto a seguir e responda posteriormente as questões de 6 a 10 . Teoria é um conjunto de suposições inter- relacionadas para explicar alguma coisa. Sem questionamento as suposições são aceitas pelos adeptos da teoria. O valor de qualquer teoria depende da sua capacidade de explicar e resolver problemas concretos e prover uma base para planejar. As teorias organizacionais podem ser entendidas como um conjunto de princípios e prescrições que visam a facilitar a realização dos objetivos das organizações e serão mais ou menos válidas na medida em que isso efetivamente ocorrer. Cada uma das abordagens reflete, em grande parte, as preocupações e as relações econômicas e sociais da época em que foram formuladas. Muitas teorias organizacionais contêm princípios que ainda são assaz válidos. Uma nova teoria não elimina as que a preced eram, mas as completa, aborda novos ângulos e amplia a visão dos administradores para a solução de problemas e o aproveitamento de oportunidades. [...] Como alguns administradores não têm ciência dessa amplitude, acabam perdendo tais oportunidades. Fonte: LACOMBE, F. Teoria geral da administração. São Paulo: Saraiva, 2009."
             },
             "resposta_correta": "D"
         },
@@ -452,41 +514,59 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Assim como as expressões possuem um sentido \npróprio e figurado, o texto também pode \napresentar um sentido literal ou possibilitar uma \nplurissignificação do enunciado. Dessa forma, \nretome o primeiro parágrafo e destaque a figura \nde linguagem presente na seg unda oração.",
+            "questão": "Questão 6",
+            "enunciado": "Em relação às ideias apresentadas pelo texto, depreende -se: (",
             "alternativas": {
-                "A": "Metáfora",
-                "B": "Metonímia",
-                "C": "Hipérbato",
-                "D": "Sinestesia",
+                "A": "A teoria representa uma ideia absoluta sobre alguma coisa. (",
+                "B": "Por meio de inferências é possível explicar o que se pretende. No entanto, há a necessidade de validação dessas inferências pelos adeptos da teoria em questão. (",
+                "C": "O valor de uma teoria está na capacidade que se tem de implementar a ação concreta abstraída de suas suposições. (",
+                "D": "Cada nova teoria é responsável por dirimir a anterior, em função das novas informações e dos novos ângulos que são trazidos pelo novo modelo teórico. (",
+                "E": "Um dos parâmetros de validação de uma teoria é a consecução dos objetivos organizacionais. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 4 de 10 QUESTÃO 07 Destaque a alternativa que alterou o sentido expresso na seguinte oração: “Teoria é um conjunto de suposições inter -relacionadas para explicar alguma coisa”. (A) Teoria é um conjunto de suposições correlacionadas para explicar alguma coisa. (B) Teoria é um conjunto de suposições interdependentes para explicar alguma coisa. (C) Teoria é um conjunto de suposições recíprocas para explicar alguma coisa. (D) Teoria é um conjunto de suposições correspondentes para explicar alguma coisa. (E) Teoria é um conjunto de suposições intersubjetivas para explicar alguma coisa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8",
+            "enunciado": "Assim como as expressões possuem um sentido próprio e figurado, o texto também pode apresentar um sentido literal ou possibilitar uma plurissignificação do enunciado. Dessa forma, retome o primeiro parágrafo e destaque a figura de linguagem presente na seg unda oração. (",
+            "alternativas": {
+                "A": "Metáfora (",
+                "B": "Metonímia (",
+                "C": "Hipérbato (",
+                "D": "Sinestesia (",
                 "E": "Hipérbole"
             },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9",
+            "enunciado": "Releia o texto e destaque o sentido que a conjunção imprime às relações estabelecidas pela última oração do texto. (",
+            "alternativas": {
+                "A": "Comparação (",
+                "B": "Concessão (",
+                "C": "Causa (",
+                "D": "Condição (",
+                "E": "Proporção"
+            },
             "resposta_correta": "C"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: Releia o texto e destaque o sentido que a \nconjunção imprime às relações estabelecidas \npela última oração do texto.",
+            "questão": "Questão 10",
+            "enunciado": "Destaque a seguir a alternativa que condiz com o sentido expresso em cada um dos três advérbios que aparecem na oração abaixo: “Muitas teorias organizacionais contêm princípios que ainda são assaz válidos”. (",
             "alternativas": {
-                "A": "Comparação",
-                "B": "Concessão",
-                "C": "Causa",
-                "D": "Condição",
-                "E": "Proporção  \n \n QUESTÃO 10  \nDestaque a seguir a alternativa que condiz com o \nsentido expresso em cada um dos três advérbios \nque aparecem na oração abaixo:  \n“Muitas teorias organizacionais contêm \nprincípios que ainda são assaz válidos”.  \n(A) intensidade / tempo / intensidade  \n(B) modo / intensidade/ tempo  \n(C) intensidade/ tempo/ afirmação  \n(D) tempo/ tempo/ afirmação  \n(E) intensidade/ tempo/ lugar"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 8: Observe as orações a seguir e destaque a \nalternativa que traz um erro de colocação \npronominal.",
-            "alternativas": {
-                "A": "Devo -lhe contar toda a verdade.",
-                "B": "Para redimir, comprei -lhe um lindo anel de \nnoivado.",
-                "C": "Ontem apresentaram -me inúmeras propostas \nde trabalho.",
-                "D": "Nunca o vi tão pensativo como hoje.",
-                "E": "Isso me recorda as viagens que realizei ano \npassado."
+                "A": "intensidade / tempo / intensidade (",
+                "B": "modo / intensidade/ tempo (",
+                "C": "intensidade/ tempo/ afirmação (",
+                "D": "tempo/ tempo/ afirmação (",
+                "E": "intensidade/ tempo/ lugar"
             },
             "resposta_correta": "E"
         },
@@ -494,13 +574,14 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: Qual das alternativas a seguir não foi construída \nde forma adequada em relação à concordância \nnominal?",
+            "questão": "Questão 11",
+            "enunciado": "Observe as orações a seguir e destaque a alternativa que traz um erro de colocação pronominal. (",
             "alternativas": {
-                "A": "Bruno agiu com presteza e sabedoria \nadmirável.",
-                "B": "A professora trajava blazer e blusa amarelos.",
-                "C": "Fomos a uma fazenda antiga e vimos \nartefatos e gravuras antigas.",
-                "D": "Não encontramos nem um nem outro \nprofessor disponíveis.",
-                "E": "A menina tem lindos olhos azuis -claros.  \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE DE OBRAS                                                                                                                                  Página 5 de 10 QUESTÃO 13  \nDestaque a alternativa que não apresenta \ncorretamente a concordância verbal.  \n(A) Dez horas é muito tempo para esperar na \nrodoviária.  \n(B) Há sete dias que não o vejo.  \n(C) Deve existir muitas lembranças nas paredes \nde um asilo.  \n(D) Hajam vista os sonhos que guardei.  \n(E) Existem muitas pessoas que não assumem as \nconsequências de seus atos."
+                "A": "Devo -lhe contar toda a verdade. (",
+                "B": "Para redimir, comprei -lhe um lindo anel de noivado. (",
+                "C": "Ontem apresentaram -me inúmeras propostas de trabalho. (",
+                "D": "Nunca o vi tão pensativo como hoje. (",
+                "E": "Isso me recorda as viagens que realizei ano passado."
             },
             "resposta_correta": "C"
         },
@@ -508,27 +589,44 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Qual das alternativas, o uso da crase e/ou a falta \ndela está incorreto?",
+            "questão": "Questão 12",
+            "enunciado": "Qual das alternativas a seguir não foi construída de forma adequada em relação à concordância nominal? (",
             "alternativas": {
-                "A": "O coordenador esperou até às 10 horas para \ncomeçar a reunião.",
-                "B": "A compra realizada a prazo ficou bem mais \ncara.",
-                "C": "Para não demostrar a tristeza, às vezes é \nmelhor fingir.",
-                "D": "Eu devo obediência a minha mãe.",
+                "A": "Bruno agiu com presteza e sabedoria admirável. (",
+                "B": "A professora trajava blazer e blusa amarelos. (",
+                "C": "Fomos a uma fazenda antiga e vimos artefatos e gravuras antigas. (",
+                "D": "Não encontramos nem um nem outro professor disponíveis. (",
+                "E": "A menina tem lindos olhos azuis -claros. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 5 de 10 QUESTÃO 13 Destaque a alternativa que não apresenta corretamente a concordância verbal. (A) Dez horas é muito tempo para esperar na rodoviária. (B) Há sete dias que não o vejo. (C) Deve existir muitas lembranças nas paredes de um asilo. (D) Hajam vista os sonhos que guardei. (E) Existem muitas pessoas que não assumem as consequências de seus atos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14",
+            "enunciado": "Qual das alternativas, o uso da crase e/ou a falta dela está incorreto? (",
+            "alternativas": {
+                "A": "O coordenador esperou até às 10 horas para começar a reunião. (",
+                "B": "A compra realizada a prazo ficou bem mais cara. (",
+                "C": "Para não demostrar a tristeza, às vezes é melhor fingir. (",
+                "D": "Eu devo obediência a minha mãe. (",
                 "E": "Bruno fez um apelo à Marina."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "C"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Observe os enunciados abaixo e destaque, \nposteriormente, a alternativa correta.  \nI – As férias estão a um piscar de olhos, vou \nmatar as saudades da minha vó.  \nII – Estou morto de cansaço, trabalhei mais de 10 \nhoras consecutivas.  \nIII- O indivíduo que assaltou a escola era um \npeixe ensaboado.  \nIV – Minhas mãos trazem as marcas das minhas \nfrustrações.",
+            "questão": "Questão 15",
+            "enunciado": "Observe os enunciados abaixo e destaque, posteriormente, a alternativa correta. I – As férias estão a um piscar de olhos, vou matar as saudades da minha vó. II – Estou morto de cansaço, trabalhei mais de 10 horas consecutivas. III- O indivíduo que assaltou a escola era um peixe ensaboado. IV – Minhas mãos trazem as marcas das minhas frustrações. (",
             "alternativas": {
-                "A": "Na alternativa I, há uma expressão com \nsentido literal e outra com sentido denotativo.",
-                "B": "A expressão “trabalhei mais de 10 horas \nconsecutivas” tem sentido figurado.",
-                "C": "A expressão “um peixe ensaboado” está em \nsentido literal.",
-                "D": "A expressão “as marcas das minhas \nfrustrações” traduz uma ideia denotativa.",
-                "E": "A alternativa I apresenta duas expressões que \ntêm sentido conotativo.  QUESTÃO 16  \nQual das alternativas a seguir não apresenta \nnenhum erro de regência verbal?  \n(A) Esse barulho dos pássaros não me lembra a \nminha juventude no interior de Pernambuco.  \n(B) A quebra de contrato implicará em multas \nexpressivas.  \n(C) Eu sempre obedeci meus pais, mesmo \nquando eles não estavam totalmente com a razão.  \n(D) A tutora assistiu o aluno com deficiência \nvisual.  \n(E) Ana aspirava o posto de líder de torcida da \nclasse."
+                "A": "Na alternativa I, há uma expressão com sentido literal e outra com sentido denotativo. (",
+                "B": "A expressão “trabalhei mais de 10 horas consecutivas” tem sentido figurado. (",
+                "C": "A expressão “um peixe ensaboado” está em sentido literal. (",
+                "D": "A expressão “as marcas das minhas frustrações” traduz uma ideia denotativa. (",
+                "E": "A alternativa I apresenta duas expressões que têm sentido conotativo. QUESTÃO 16 Qual das alternativas a seguir não apresenta nenhum erro de regência verbal? (A) Esse barulho dos pássaros não me lembra a minha juventude no interior de Pernambuco. (B) A quebra de contrato implicará em multas expressivas. (C) Eu sempre obedeci meus pais, mesmo quando eles não estavam totalmente com a razão. (D) A tutora assistiu o aluno com deficiência visual. (E) Ana aspirava o posto de líder de torcida da classe."
             },
             "resposta_correta": "C"
         },
@@ -536,27 +634,29 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: Leia os enunciados e destaque a alternativa que \npossui um erro de regência nominal.",
+            "questão": "Questão 17",
+            "enunciado": "Leia os enunciados e destaque a alternativa que possui um erro de regência nominal. (",
             "alternativas": {
-                "A": "Exercício e redação complicados foram \naplicados no último teste de aptidão.",
-                "B": "Angústia é maléfico para a alma.",
-                "C": "O show de palhaços agradou a todas as \ncrianças.",
-                "D": "Comentamos sobre o crime ocorrido no \ncentro de São Paulo.",
-                "E": "Custou a André entender o problema \nmatemático."
+                "A": "Exercício e redação complicados foram aplicados no último teste de aptidão. (",
+                "B": "Angústia é maléfico para a alma. (",
+                "C": "O show de palhaços agradou a todas as crianças. (",
+                "D": "Comentamos sobre o crime ocorrido no centro de São Paulo. (",
+                "E": "Custou a André entender o problema matemático."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "C"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: Em qual das orações abaixo, a vírgula foi \nempregada incorretamente?",
+            "questão": "Questão 18",
+            "enunciado": "Em qual das orações abaixo, a vírgula foi empregada incorretamente? (",
             "alternativas": {
-                "A": "Paulo só queria uma coisa, que todos fossem \namigos.",
-                "B": "As meninas, que têm mais de 18 anos, podem \nmorar sozinhas.",
-                "C": "Os livros, que são fontes inesgotáveis de \nconhecimento, devem ser guardados com \ncarinho.",
-                "D": "Quando chegaram ao circo, procuraram o \nmalabarista.",
-                "E": "Olhou a lista dos aprovados, procurou seu \nnome, não encontrou.  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE DE OBRAS                                                                                                                                  Página 6 de 10 QUESTÃO 19  \nEm algumas situações o uso da vírgula é \nconsiderado correto, como nos exemplos a \nseguir, salvo:  \n(A) Objetos pleonásticos  \n(B) Nome e complemento nominal  \n(C) Adjunto adverbial deslocado  \n(D) Vocativo  \n(E) Zeugma verbal"
+                "A": "Paulo só queria uma coisa, que todos fossem amigos. (",
+                "B": "As meninas, que têm mais de 18 anos, podem morar sozinhas. (",
+                "C": "Os livros, que são fontes inesgotáveis de conhecimento, devem ser guardados com carinho. (",
+                "D": "Quando chegaram ao circo, procuraram o malabarista. (",
+                "E": "Olhou a lista dos aprovados, procurou seu nome, não encontrou. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 6 de 10 QUESTÃO 19 Em algumas situações o uso da vírgula é considerado correto, como nos exemplos a seguir, salvo: (A) Objetos pleonásticos (B) Nome e complemento nominal (C) Adjunto adverbial deslocado (D) Vocativo (E) Zeugma verbal"
             },
             "resposta_correta": "B"
         },
@@ -564,83 +664,119 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Dentre as situações descritas a seguir, qual não é \ncorreto o emprego das aspas?",
+            "questão": "Questão 20",
+            "enunciado": "Dentre as situações descritas a seguir, qual não é correto o emprego das aspas? (",
             "alternativas": {
-                "A": "Citação indireta",
-                "B": "Discurso direto",
-                "C": "Neologismos",
-                "D": "Estrangeirismos",
-                "E": "Palavras em sentido conotativo  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "Citação indireta (",
+                "B": "Discurso direto (",
+                "C": "Neologismos (",
+                "D": "Estrangeirismos (",
+                "E": "Palavras em sentido conotativo MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 15: João, o cobrador do ônibus, começou seu turno \ncom R$ 380,00 na caixa registradora. Durante o \ntrajeto, ele arrecadou dinheiro em três paradas \ndistintas: R$ 50,50 na primeira parada, R$ 37,75 \nna segunda e R$ 45,20 na terceira. Ao encerrar o \nturno, ele precisou forne cer R$ 10,00 de troco a \num passageiro. Qual será o valor restante na \ncaixa registradora de João ao final do turno?",
+            "questão": "Questão 21",
+            "enunciado": "João, o cobrador do ônibus, começou seu turno com R$ 380,00 na caixa registradora. Durante o trajeto, ele arrecadou dinheiro em três paradas distintas: R$ 50,50 na primeira parada, R$ 37,75 na segunda e R$ 45,20 na terceira. Ao encerrar o turno, ele precisou forne cer R$ 10,00 de troco a um passageiro. Qual será o valor restante na caixa registradora de João ao final do turno? (",
             "alternativas": {
-                "A": "R$ 133,45",
-                "B": "R$ 502,55",
-                "C": "R$ 503,45",
-                "D": "R$ 123,45",
-                "E": "Nenhuma das alternativas  \n \n \n QUESTÃO 22  \nMaria foi ao supermercado com uma nota de R$ \n200,00. Ela comprou alguns itens que totalizaram \nR$ 33,75. Maria pagou pelos itens com a nota de \nR$ 200,00. Quanto Maria recebeu de troco?  \n \n(A) R$ 166,25  \n(B) R$ 166,50  \n(C) R$ 165,25  \n(D) R$ 165,50  \n(E) Nenhuma das alternativas"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 16: Enquanto estudava matemática, um aluno \ndecidiu fazer três séries de exercícios. Na \nprimeira série, resolveu 47 problemas, na \nsegunda, 63 problemas; e na terceira, 84 \nproblemas. Quantos problemas, ao todo, o aluno \nresolveu?",
-            "alternativas": {
-                "A": "193 problemas",
-                "B": "194 problemas",
-                "C": "195 problemas",
-                "D": "196 problemas",
+                "A": "R$ 133,45 (",
+                "B": "R$ 502,55 (",
+                "C": "R$ 503,45 (",
+                "D": "R$ 123,45 (",
                 "E": "Nenhuma das alternativas"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: Uma biblioteca adquiriu novos livros de três \ngêneros diferentes. Foram recebidas 2 caixas de \nlivros de romance, cada uma contendo 98 livros, \nalém de uma caixa de ficção científica com 125 \nlivros e outra caixa de biografias com 143 livros. \nQuantos livros a biblioteca adquiriu ao todo?",
+            "questão": "Questão 22",
+            "enunciado": "Maria foi ao supermercado com uma nota de R$ 200,00. Ela comprou alguns itens que totalizaram R$ 33,75. Maria pagou pelos itens com a nota de R$ 200,00. Quanto Maria recebeu de troco? (",
             "alternativas": {
-                "A": "366 livros",
-                "B": "313 livros",
-                "C": "364 livros",
-                "D": "464 livros",
-                "E": "406 livros  \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE DE OBRAS                                                                                                                                  Página 7 de 10 QUESTÃO 25  \nMaria comprou um total de 330 bolinhas de gude \npara distribuir igualmente entre ela e seus 5 \namigos. Quantas bolinhas de gude cada amigo \nreceberá?  \n \n(A) 66 bolinhas de gude  \n(B) 55 bolinhas de gude  \n(C) 56 bolinhas de gude  \n(D)  57 bolinhas de gude  \n(E) 58 bolinhas de gude"
+                "A": "R$ 166,25 (",
+                "B": "R$ 166,50 (",
+                "C": "R$ 165,25 (",
+                "D": "R$ 165,50 (",
+                "E": "Nenhuma das alternativas"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: Um reservatório de água tem capacidade para \narmazenar 420 litros. Se for dividido igualmente \nem 7 partes, quantos litros de água caberão em \ncada parte?",
+            "questão": "Questão 23",
+            "enunciado": "Enquanto estudava matemática, um aluno decidiu fazer três séries de exercícios. Na primeira série, resolveu 47 problemas, na segunda, 63 problemas; e na terceira, 84 problemas. Quantos problemas, ao todo, o aluno resolveu? (",
             "alternativas": {
-                "A": "57 litros",
-                "B": "58 litros",
-                "C": "59 litros",
-                "D": "60 litros",
+                "A": "193 problemas (",
+                "B": "194 problemas (",
+                "C": "195 problemas (",
+                "D": "196 problemas (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 24",
+            "enunciado": "Uma biblioteca adquiriu novos livros de três gêneros diferentes. Foram recebidas 2 caixas de livros de romance, cada uma contendo 98 livros, além de uma caixa de ficção científica com 125 livros e outra caixa de biografias com 143 livros. Quantos livros a biblioteca adquiriu ao todo? (",
+            "alternativas": {
+                "A": "366 livros (",
+                "B": "313 livros (",
+                "C": "364 livros (",
+                "D": "464 livros (",
+                "E": "406 livros Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 7 de 10 QUESTÃO 25 Maria comprou um total de 330 bolinhas de gude para distribuir igualmente entre ela e seus 5 amigos. Quantas bolinhas de gude cada amigo receberá? (A) 66 bolinhas de gude (B) 55 bolinhas de gude (C) 56 bolinhas de gude (D) 57 bolinhas de gude (E) 58 bolinhas de gude"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26",
+            "enunciado": "Um reservatório de água tem capacidade para armazenar 420 litros. Se for dividido igualmente em 7 partes, quantos litros de água caberão em cada parte? (",
+            "alternativas": {
+                "A": "57 litros (",
+                "B": "58 litros (",
+                "C": "59 litros (",
+                "D": "60 litros (",
                 "E": "61 litros"
             },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27",
+            "enunciado": "Um chefe de cozinha está preparando sobremesa para um evento e planeja fazer 12 tortas. Cada torta é dividida em 8 fatias. Quantas fatias de torta o chefe preparará ao todo? (",
+            "alternativas": {
+                "A": "72 (",
+                "B": "80 (",
+                "C": "84 (",
+                "D": "88 (",
+                "E": "96"
+            },
             "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Um chefe de cozinha está preparando sobremesa \npara um evento e planeja fazer 12 tortas. Cada \ntorta é dividida em 8 fatias. Quantas fatias de \ntorta o chefe preparará ao todo?",
+            "questão": "Questão 28",
+            "enunciado": "Um depósito de eletrônicos tem 18 prateleiras. Em cada prateleira cabem 45 caixas, e em cada caixa podem ser armazenados 32 dispositivos eletrônicos. Quantos dispositivos eletrônicos o depósito pode armazenar no total? (",
             "alternativas": {
-                "A": "72",
-                "B": "80",
-                "C": "84",
-                "D": "88",
-                "E": "96  \n \n \n \n \n QUESTÃO 28  \nUm depósito de eletrônicos tem 18 prateleiras. \nEm cada prateleira cabem 45 caixas, e em cada \ncaixa podem ser armazenados 32 dispositivos \neletrônicos. Quantos dispositivos eletrônicos o \ndepósito pode armazenar no total?  \n \n(A) 25.920 dispositivos eletrônicos.  \n(B) 810 dispositivos eletrônicos.  \n(C) 576 dispositivos eletrônicos.  \n(D) 32.400 dispositivos eletrônicos.  \n(E) Nenhuma das alternativas"
+                "A": "25.920 dispositivos eletrônicos. (",
+                "B": "810 dispositivos eletrônicos. (",
+                "C": "576 dispositivos eletrônicos. (",
+                "D": "32.400 dispositivos eletrônicos. (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "D"
         },
@@ -648,40 +784,43 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Um fio de cobre, com um comprimento total de \n18 metros, será dividido em pedaços de 1,2 \nmetros cada. Quantos pedaços serão obtidos?",
+            "questão": "Questão 29",
+            "enunciado": "Um fio de cobre, com um comprimento total de 18 metros, será dividido em pedaços de 1,2 metros cada. Quantos pedaços serão obtidos? (",
             "alternativas": {
-                "A": "18 pedaços.",
-                "B": "19 pedaços.",
-                "C": "20 pedaços.",
-                "D": "21 pedaços.",
+                "A": "18 pedaços. (",
+                "B": "19 pedaços. (",
+                "C": "20 pedaços. (",
+                "D": "21 pedaços. (",
                 "E": "15 pedaços."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 21: Em uma corrida de bicicleta, o ciclista Carlos \npercorreu 15 voltas em um circuito. Cada volta \ntem 2 quilômetros de extensão. Quantos \nquilômetros Carlos percorreu no total?",
+            "questão": "Questão 30",
+            "enunciado": "Em uma corrida de bicicleta, o ciclista Carlos percorreu 15 voltas em um circuito. Cada volta tem 2 quilômetros de extensão. Quantos quilômetros Carlos percorreu no total? (",
             "alternativas": {
-                "A": "20 quilômetros",
-                "B": "25 quilômetros",
-                "C": "30 quilômetros",
-                "D": "35 quilômetros",
-                "E": "40 quilômetros  \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE DE OBRAS                                                                                                                                  Página 8 de 10 QUESTÃO 31  \nUm agricultor possui um campo de trigo que \nocupa 8 hectares. Se ele consegue colher 600 kg \nde trigo por hectare, quantos quilogramas de \ntrigo ele poderá colher no total?  \n(A) 4.000 kg  \n(B) 4.200 kg  \n(C) 4.500 kg  \n(D) 4.800 kg  \n(E) Nenhuma das alternativas"
+                "A": "20 quilômetros (",
+                "B": "25 quilômetros (",
+                "C": "30 quilômetros (",
+                "D": "35 quilômetros (",
+                "E": "40 quilômetros Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 8 de 10 QUESTÃO 31 Um agricultor possui um campo de trigo que ocupa 8 hectares. Se ele consegue colher 600 kg de trigo por hectare, quantos quilogramas de trigo ele poderá colher no total? (A) 4.000 kg (B) 4.200 kg (C) 4.500 kg (D) 4.800 kg (E) Nenhuma das alternativas"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "D"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 22: Um grupo de estudantes realizou uma pesquisa \nsobre o uso de smartphones. Eles entrevistaram \n200 pessoas e descobriram que 75% delas \npossuem smartphones. Quantas pessoas \nentrevistadas possuem smartphones?",
+            "questão": "Questão 32",
+            "enunciado": "Um grupo de estudantes realizou uma pesquisa sobre o uso de smartphones. Eles entrevistaram 200 pessoas e descobriram que 75% delas possuem smartphones. Quantas pessoas entrevistadas possuem smartphones? (",
             "alternativas": {
-                "A": "120 pessoas",
-                "B": "140 pessoas",
-                "C": "150 pessoas",
-                "D": "50 pessoas",
+                "A": "120 pessoas (",
+                "B": "140 pessoas (",
+                "C": "150 pessoas (",
+                "D": "50 pessoas (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "B"
@@ -690,27 +829,14 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: Assinale a alternativa que apresenta o \nQuadragésimo segundo número par antecessor \nde 300.",
+            "questão": "Questão 33",
+            "enunciado": "Assinale a alternativa que apresenta o Quadragésimo segundo número par antecessor de 300. (",
             "alternativas": {
-                "A": "342",
-                "B": "258",
-                "C": "216",
-                "D": "218",
+                "A": "342 (",
+                "B": "258 (",
+                "C": "216 (",
+                "D": "218 (",
                 "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 24: Em uma competição de natação, 25% dos \nparticipantes chegaram em primeiro lugar, 15% \nforam desclassificados e o restante chegou em \nsegundo lugar. Se 200 nadadores participaram da \ncompetição, quantos nadadores foram \ndesclassificados?",
-            "alternativas": {
-                "A": "20 nadadores",
-                "B": "25 nadadores",
-                "C": "30 nadadores",
-                "D": "35 nadadores",
-                "E": "40 nadadores  QUESTÃO 35  \nUma cidade tinha uma população de 500.000 \nhabitantes em dezembro de 2024. Se a população \ncresce a uma taxa anual de 3%, qual será a \npopulação estimada para dezembro de 2025?  \n \n(A) 510.000 habitantes  \n(B) 512.500 habitantes  \n(C) 515.000 habitantes  \n(D) 517.500 habitantes  \n(E) Nenhuma das alternativas"
             },
             "resposta_correta": "A"
         },
@@ -718,26 +844,43 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 25: Uma papelaria vendeu 25 kits escolares, e em \ncada kit havia 12 lápis e 13 canetas. Quantos \nlápis a papelaria vendeu no total?",
+            "questão": "Questão 34",
+            "enunciado": "Em uma competição de natação, 25% dos participantes chegaram em primeiro lugar, 15% foram desclassificados e o restante chegou em segundo lugar. Se 200 nadadores participaram da competição, quantos nadadores foram desclassificados? (",
             "alternativas": {
-                "A": "250 lápis",
-                "B": "300 lápis",
-                "C": "325 lápis",
-                "D": "625 lápis",
+                "A": "20 nadadores (",
+                "B": "25 nadadores (",
+                "C": "30 nadadores (",
+                "D": "35 nadadores (",
+                "E": "40 nadadores QUESTÃO 35 Uma cidade tinha uma população de 500.000 habitantes em dezembro de 2024. Se a população cresce a uma taxa anual de 3%, qual será a população estimada para dezembro de 2025? (A) 510.000 habitantes (B) 512.500 habitantes (C) 515.000 habitantes (D) 517.500 habitantes (E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 36",
+            "enunciado": "Uma papelaria vendeu 25 kits escolares, e em cada kit havia 12 lápis e 13 canetas. Quantos lápis a papelaria vendeu no total? (",
+            "alternativas": {
+                "A": "250 lápis (",
+                "B": "300 lápis (",
+                "C": "325 lápis (",
+                "D": "625 lápis (",
                 "E": "375 lápis"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 26: Uma fazenda possui 24 prateleiras. Cada \nprateleira pode conter 36 caixas, e em cada caixa \ncabem 48 frutas. Quantas frutas a fazenda pode \narmazenar no total?",
+            "questão": "Questão 37",
+            "enunciado": "Uma fazenda possui 24 prateleiras. Cada prateleira pode conter 36 caixas, e em cada caixa cabem 48 frutas. Quantas frutas a fazenda pode armazenar no total? (",
             "alternativas": {
-                "A": "864 frutas.",
-                "B": "36.432 frutas.",
-                "C": "41.472 frutas.",
-                "D": "1.728 frutas.",
+                "A": "864 frutas. (",
+                "B": "36.432 frutas. (",
+                "C": "41.472 frutas. (",
+                "D": "1.728 frutas. (",
                 "E": "41.742 frutas."
             },
             "resposta_correta": "A"
@@ -746,55 +889,29 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 27: Um carro tem um tanque de combustível com \ncapacidade para 60 litros. Se, no momento, o \ntanque contém 42 litros de combustível, qual é a \nporcentagem da capacidade total do tanque que \nestá sendo utilizada?",
+            "questão": "Questão 38",
+            "enunciado": "Um carro tem um tanque de combustível com capacidade para 60 litros. Se, no momento, o tanque contém 42 litros de combustível, qual é a porcentagem da capacidade total do tanque que está sendo utilizada? (",
             "alternativas": {
-                "A": "30%",
-                "B": "40%",
-                "C": "50%",
-                "D": "60%",
-                "E": "70%  Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE DE OBRAS                                                                                                                                  Página 9 de 10 QUESTÃO 39  \nMariana possui 5 livros idênticos. Cada livro \npesa 800 gramas. Qual é a massa total dos 5 \nlivros que Mariana possui?  \n \n(A) 40 gramas  \n(B) 420 gramas  \n(C) 4000 gramas  \n(D) 400 gramas  \n(E) Nenhuma das alternativas"
+                "A": "30% (",
+                "B": "40% (",
+                "C": "50% (",
+                "D": "60% (",
+                "E": "70% Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 9 de 10 QUESTÃO 39 Mariana possui 5 livros idênticos. Cada livro pesa 800 gramas. Qual é a massa total dos 5 livros que Mariana possui? (A) 40 gramas (B) 420 gramas (C) 4000 gramas (D) 400 gramas (E) Nenhuma das alternativas"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "D"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 28: Assinale a alternativa que apresenta o trigésimo \nprimeiro número ímpar sucessor de 149.",
+            "questão": "Questão 40",
+            "enunciado": "Assinale a alternativa que apresenta o trigésimo primeiro número ímpar sucessor de 149. (",
             "alternativas": {
-                "A": "181",
-                "B": "211",
-                "C": "119",
-                "D": "87",
-                "E": "Nenhuma das alternativas  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos  – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO  \n \nSERVENTE DE OBRAS                                                                                                                                  Página 10 de 10"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 1: Segundo o texto, os amigos do personagem \nprincipal deram -lhe o apelido de “Bacana” \nporque:",
-            "alternativas": {
-                "A": "ele era o garoto mais legal da turma.",
-                "B": "sua casa era a maior da rua, e ele ganhava \nmesada.",
-                "C": "ele era o garoto mais novo da turma.",
-                "D": "a ideia do time de futebol tinha sido dele.",
-                "E": "ele gastava sua mesada com doces para a \nturma.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 3 de 10 QUESTÃO 02 \nPara o personagem principal, ele e os garotos \ndo time eram amigos unidos, já que:  \n \n(A) os garotos permitiam -no jogar como \ncentroavante no time.   \n(B) todos investiam no time tanto quanto ele.   \n(C) ele teve experiências marcantes da \nadolescência ao lado deles.    \n(D) os garotos não falavam sobre ele pelas \ncostas.   \n(E) os garotos não lhe davam apelidos que \npudessem magoá -lo."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 2: Considere o excerto: “Nunca mais, desde \naquele tempo, tivera tantos amigos.” Nesse \ncontexto, a forma verbal “tivera”  poderia ser \nsubstituída, sem prejuízo de sentido em relação \nao tempo expresso, por:",
-            "alternativas": {
-                "A": "“tem”.",
-                "B": "“tinha”.",
-                "C": "“tinha tido”.",
-                "D": "“teria”.",
-                "E": "“tivesse”.  \n \nConsidere o excerto a seguir para responder \nàs questões 4 e 5:  \nNão sabia que aquele era o seu apelido."
+                "A": "181 (",
+                "B": "211 (",
+                "C": "119 (",
+                "D": "87 (",
+                "E": "Nenhuma das alternativas Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 10 de 10"
             },
             "resposta_correta": "A"
         },
@@ -802,13 +919,29 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: O pronome “seu” , empregado no excerto \napresentado, remete:",
+            "questão": "Questão 1",
+            "enunciado": "Segundo o texto, os amigos do personagem principal deram -lhe o apelido de “Bacana” porque: (",
             "alternativas": {
-                "A": "ao Venâncio.",
-                "B": "à senhora.",
-                "C": "à menina de oito anos.",
-                "D": "ao Bacana.",
-                "E": "ao Chico Babão.  QUESTÃO 05 \nA palavra “aquele” , que ocorre no excerto \napresentado, é classificada gramaticalmente \ncomo:  \n \n(A) pronome relativo.  \n(B) pronome indefinido.  \n(C) pronome demonstrativo.  \n(D) substantivo.  \n(E) adjetivo."
+                "A": "ele era o garoto mais legal da turma. (",
+                "B": "sua casa era a maior da rua, e ele ganhava mesada. (",
+                "C": "ele era o garoto mais novo da turma. (",
+                "D": "a ideia do time de futebol tinha sido dele. (",
+                "E": "ele gastava sua mesada com doces para a turma. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 3 de 10 QUESTÃO 02 Para o personagem principal, ele e os garotos do time eram amigos unidos, já que: (A) os garotos permitiam -no jogar como centroavante no time. (B) todos investiam no time tanto quanto ele. (C) ele teve experiências marcantes da adolescência ao lado deles. (D) os garotos não falavam sobre ele pelas costas. (E) os garotos não lhe davam apelidos que pudessem magoá -lo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "Considere o excerto: “Nunca mais, desde aquele tempo, tivera tantos amigos.” Nesse contexto, a forma verbal “tivera” poderia ser substituída, sem prejuízo de sentido em relação ao tempo expresso, por: (",
+            "alternativas": {
+                "A": "“tem”. (",
+                "B": "“tinha”. (",
+                "C": "“tinha tido”. (",
+                "D": "“teria”. (",
+                "E": "“tivesse”. Considere o excerto a seguir para responder às questões 4 e 5: Não sabia que aquele era o seu apelido."
             },
             "resposta_correta": "C"
         },
@@ -816,125 +949,179 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 4: Analise o excerto a seguir quanto às formas \nverbais empregadas: “Era como o chamavam \npelas costas.” O verbo “chamavam” , que \nocorre no excerto indicado, exprime uma ação:",
+            "questão": "Questão 4",
+            "enunciado": "O pronome “seu” , empregado no excerto apresentado, remete: (",
             "alternativas": {
-                "A": "em curso no presente.",
-                "B": "ocorrida e terminada antes de outra ação no \npassado.",
-                "C": "habitual no passado.",
-                "D": "pontual e terminada no passado.",
+                "A": "ao Venâncio. (",
+                "B": "à senhora. (",
+                "C": "à menina de oito anos. (",
+                "D": "ao Bacana. (",
+                "E": "ao Chico Babão. QUESTÃO 05 A palavra “aquele” , que ocorre no excerto apresentado, é classificada gramaticalmente como: (A) pronome relativo. (B) pronome indefinido. (C) pronome demonstrativo. (D) substantivo. (E) adjetivo."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6",
+            "enunciado": "Analise o excerto a seguir quanto às formas verbais empregadas: “Era como o chamavam pelas costas.” O verbo “chamavam” , que ocorre no excerto indicado, exprime uma ação: (",
+            "alternativas": {
+                "A": "em curso no presente. (",
+                "B": "ocorrida e terminada antes de outra ação no passado. (",
+                "C": "habitual no passado. (",
+                "D": "pontual e terminada no passado. (",
                 "E": "hipotética no passado."
             },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 5: Analise os excertos a seguir, retirados do texto, \nquanto à colocação pronominal. Assinale a \nalternativa em que se verifica ênclise.",
-            "alternativas": {
-                "A": "Lembrou -se, então, com uma intensidade \nque quase o sufocou, do time.",
-                "B": "Era como o chamavam pelas costas.",
-                "C": "Tentou se lembrar do sobrenome.",
-                "D": "Lembrava das reuniões no galpão atrás da \ncasa do Chico Babão.",
-                "E": "— Só me deixavam jogar de centroavante \nporque a bola era minha…"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 6: Considere o excerto: “Apareceu uma senhora.” \nNesse contexto, o verbo “aparecer”  ocorre \ncom regência:",
-            "alternativas": {
-                "A": "pronominal.",
-                "B": "bitransitiva.",
-                "C": "transitiva indireta.",
-                "D": "transitiva direta.",
-                "E": "intransitiva.  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 4 de 10 QUESTÃO 09 \nConsidere o excerto: “Sentiu um aperto na \ngarganta. Quanta lembrança! O muro com as \nmarcas da bola.” Dentre os substantivos a \nseguir, que ocorrem no excerto indicado, \nclassifica -se como abstrato apenas:  \n(A) aperto.  \n(B) lembrança.  \n(C) muro.   \n(D) garganta.  \n(E) bola."
-            },
             "resposta_correta": "C"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: Analise os excertos a seguir, retirados do texto, \nquanto às categorias gramaticais das palavras \nque os compõem:  \nI. Nunca mais fora tão feliz.  \nII. Atravessou a rua e bateu na porta.  \nIII. — O Venancinho ainda mora aqui?  \nVerifica -se o emprego de palavra(s) da classe \ngramatical advérbio apenas em:",
+            "questão": "Questão 7",
+            "enunciado": "Analise os excertos a seguir, retirados do texto, quanto à colocação pronominal. Assinale a alternativa em que se verifica ênclise. (",
             "alternativas": {
-                "A": "I.",
-                "B": "II.",
-                "C": "III.",
-                "D": "I e II.",
+                "A": "Lembrou -se, então, com uma intensidade que quase o sufocou, do time. (",
+                "B": "Era como o chamavam pelas costas. (",
+                "C": "Tentou se lembrar do sobrenome. (",
+                "D": "Lembrava das reuniões no galpão atrás da casa do Chico Babão. (",
+                "E": "— Só me deixavam jogar de centroavante porque a bola era minha…"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 8",
+            "enunciado": "Considere o excerto: “Apareceu uma senhora.” Nesse contexto, o verbo “aparecer” ocorre com regência: (",
+            "alternativas": {
+                "A": "pronominal. (",
+                "B": "bitransitiva. (",
+                "C": "transitiva indireta. (",
+                "D": "transitiva direta. (",
+                "E": "intransitiva. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 4 de 10 QUESTÃO 09 Considere o excerto: “Sentiu um aperto na garganta. Quanta lembrança! O muro com as marcas da bola.” Dentre os substantivos a seguir, que ocorrem no excerto indicado, classifica -se como abstrato apenas: (A) aperto. (B) lembrança. (C) muro. (D) garganta. (E) bola."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 10",
+            "enunciado": "Analise os excertos a seguir, retirados do texto, quanto às categorias gramaticais das palavras que os compõem: I. Nunca mais fora tão feliz. II. Atravessou a rua e bateu na porta. III. — O Venancinho ainda mora aqui? Verifica -se o emprego de palavra(s) da classe gramatical advérbio apenas em: (",
+            "alternativas": {
+                "A": "I. (",
+                "B": "II. (",
+                "C": "III. (",
+                "D": "I e II. (",
                 "E": "I e III."
             },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1",
+            "enunciado": "Considere as sentenças a seguir: I. O …. comportamento do rapaz o tornou detestável. II. A festa será …. dez horas da manhã, na próxima terça -feira. III. A garotinha disse que está se sentindo …., por isso quer ir ao hospital. Nas alternativas a seguir, apresentam -se elementos que podem preencher cada uma das lacunas nas sentenças dadas. Assinale a alternativa em que os elementos indicados preenchem -nas corretamente. (",
+            "alternativas": {
+                "A": "mal; às; mal. (",
+                "B": "mau; às; mal. (",
+                "C": "mau; as; mal. (",
+                "D": "mal; às; mau. (",
+                "E": "mau; as; mau. QUESTÃO 1 2 Analise as sentenças a seguir e assinale a alternativa em que se verifica desvio de concordância nominal. (A) As adolescentes foram encontradas no pátio da escola. (B) Os materiais a serem utilizados são cartolina, cola e lápis de cor. (C) A casa, avaliada em cinco milhões, foi vendida nesta semana. (D) Tanto o menino quanto a menina estava intoxicada por alimentação contaminada. (E) Os alunos fizeram para a professora, que estava afastada, uma festa surpresa."
+            },
             "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 8: 1 \nConsidere as sentenças a seguir:  \n \nI. O …. comportamento do rapaz o tornou \ndetestável.   \nII. A festa será …. dez horas da manhã, na \npróxima terça -feira.  \nIII. A garotinha disse que está se sentindo …., \npor isso quer ir ao hospital.  \n \nNas alternativas a seguir, apresentam -se \nelementos que podem preencher cada uma das \nlacunas nas sentenças dadas. Assinale a \nalternativa em que os elementos indicados \npreenchem -nas corretamente.",
+            "questão": "Questão 1",
+            "enunciado": "Em todas as sentenças a seguir, a palavra em destaque exprime sentido similar ao da palavra pífio , exceto em: (",
             "alternativas": {
-                "A": "mal; às; mal.",
-                "B": "mau; às; mal.",
-                "C": "mau; as; mal.",
-                "D": "mal; às; mau.",
-                "E": "mau; as; mau.  QUESTÃO 1 2 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica desvio de \nconcordância nominal.   \n(A) As adolescentes foram encontradas no pátio \nda escola.  \n(B) Os materiais a serem utilizados são \ncartolina, cola e lápis de cor.   \n(C) A casa, avaliada em cinco milhões, foi \nvendida nesta semana.   \n(D) Tanto o menino quanto a menina estava \nintoxicada por alimentação contaminada.  \n(E) Os alunos fizeram para a professora, que \nestava afastada, uma festa surpresa."
+                "A": "Uma atitude ordinária do treinador afetou todo o time. (",
+                "B": "Na escola, observaram -se comportamentos soezes do garoto. (",
+                "C": "As provas apresentadas eram medíocres para o juiz. (",
+                "D": "Todos consideraram a fala da palestrante excepcional. (",
+                "E": "Os tecidos comprados para a confecção do vestido são reles ."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: 3 \nEm todas as sentenças a seguir, a palavra em \ndestaque exprime sentido similar ao da palavra \npífio , exceto em:",
+            "questão": "Questão 1",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa em que ocorre um verbo no modo imperativo. (",
             "alternativas": {
-                "A": "Uma atitude ordinária  do treinador afetou \ntodo o time.",
-                "B": "Na escola, observaram -se comportamentos \nsoezes  do garoto.",
-                "C": "As provas apresentadas eram medíocres  \npara o juiz.",
-                "D": "Todos consideraram a fala da palestrante \nexcepcional.",
-                "E": "Os tecidos comprados para a confecção do \nvestido são reles ."
+                "A": "Joana não foi classificada para o concurso de sua escola. (",
+                "B": "Segundo a polícia, o assalto deixou quatro vítimas. (",
+                "C": "Os quadros da artista estarão disponíveis na exposição até a próxima semana. (",
+                "D": "As fortes chuvas alagavam com frequência a cidade. (",
+                "E": "Voltem para casa antes da meia noite. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 5 de 10 QUESTÃO 15 Considere a sentença a seguir, em que o verbo “infiltrar” ocorre com regência transitiva direta e indireta: Os bandidos infiltraram -se …. o prédio da empresa sem que fossem notados. Considerando o contexto indicado, a preposição requerida pela regência do verbo “infiltrar”, a qual preenche corretamente a lacuna na sentença (considerada a possibilidade de contração com o artigo “o”, se necessário), é: (A) de. (B) para. (C) em. (D) com. (E) sobre. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: 4 \nAnalise as sentenças a seguir e assinale a \nalternativa em que ocorre um verbo no modo \nimperativo.",
+            "questão": "Questão 16",
+            "enunciado": "Uma piscina tem a forma de um cubo com aresta de 5 metros. Qual é o volume total da piscina em metros cúbicos? (",
             "alternativas": {
-                "A": "Joana não foi classificada para o concurso \nde sua escola.",
-                "B": "Segundo a polícia, o assalto deixou quatro \nvítimas.",
-                "C": "Os quadros da artista estarão disponíveis na \nexposição até a próxima semana.",
-                "D": "As fortes chuvas alagavam com frequência \na cidade.",
-                "E": "Voltem para casa antes da meia noite.  \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 5 de 10 QUESTÃO 15 \nConsidere a sentença a seguir, em que o verbo \n“infiltrar” ocorre com regência transitiva direta \ne indireta:  \n \nOs bandidos infiltraram -se …. o prédio da \nempresa sem que fossem notados.   \n \nConsiderando o contexto indicado, a \npreposição requerida pela regência do verbo \n“infiltrar”, a qual preenche corretamente a \nlacuna na sentença (considerada a possibilidade \nde contração com o artigo “o”, se necessário), \né: \n(A) de.  \n(B) para.  \n(C) em.  \n(D) com.  \n(E) sobre.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 11: Uma piscina tem a forma de um cubo com \naresta de 5 metros. Qual é o volume total da \npiscina em metros cúbicos?",
-            "alternativas": {
-                "A": "5 m³",
-                "B": "25 m³",
-                "C": "125 m³",
-                "D": "625 m³",
+                "A": "5 m³ (",
+                "B": "25 m³ (",
+                "C": "125 m³ (",
+                "D": "625 m³ (",
                 "E": "3125 m³"
             },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17",
+            "enunciado": "Maria está redecorando sua sala e precisa calcular a quantidade de piso necessário para cobrir o chão. A sala tem a forma de um retângulo com 5 metros de comprimento e 4 metros de largura. Para garantir que compra a quantidade certa de material, Maria dese ja saber a área total da sala em metros quadrados. Qual é a área total da sala em metros quadrados? (",
+            "alternativas": {
+                "A": "9 m² (",
+                "B": "20 m² (",
+                "C": "18 m² (",
+                "D": "14 m² (",
+                "E": "10 m² QUESTÃO 18 João possui uma horta retangular com 8,5 metros de comprimento e 6,25 metros de largura. Ele deseja construir uma cerca ao redor da horta, que custa R$ 7,80 por metro. Qual será o custo total da cerca? (A) R$ 245,75 (B) R$ 210,00 (C) R$ 200,30 (D) R$ 235,20 (E) R$ 229,50"
+            },
             "resposta_correta": "C"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: Maria está redecorando sua sala e precisa \ncalcular a quantidade de piso necessário para \ncobrir o chão. A sala tem a forma de um \nretângulo com 5 metros de comprimento e 4 \nmetros de largura. Para garantir que compra a \nquantidade certa de material, Maria dese ja \nsaber a área total da sala em metros quadrados.  \n \nQual é a área total da sala em metros \nquadrados?",
+            "questão": "Questão 19",
+            "enunciado": "Uma empresa decide investir R$ 5.000,00 em cinco projetos sociais. A distribuição do orçamento é a seguinte: 30% para o Projeto A, 20% para o Projeto B, 15% para o Projeto C, 10% para o Projeto D e o restante para o Projeto E. Quanto cada projeto receberá? (",
             "alternativas": {
-                "A": "9 m²",
-                "B": "20 m²",
-                "C": "18 m²",
-                "D": "14 m²",
-                "E": "10 m²  QUESTÃO 18 \nJoão possui uma horta retangular com 8,5 \nmetros de comprimento e 6,25 metros de \nlargura. Ele deseja construir uma cerca ao redor \nda horta, que custa R$ 7,80 por metro. Qual será \no custo total da cerca?  \n \n(A) R$ 245,75  \n(B) R$ 210,00  \n(C) R$ 200,30  \n(D) R$ 235,20  \n(E) R$ 229,50"
+                "A": "R$ 1.500,00, R$ 1.000,00, R$ 750,00, R$ 500,00, R$ 1.250,00 (",
+                "B": "R$ 1.200,00, R$ 1.100,00, R$ 800,00, R$ 700,00, R$ 1.300,00 (",
+                "C": "R$ 1.000,00, R$ 1.500,00, R$ 700,00, R$ 800,00, R$ 1.000,00 (",
+                "D": "R$ 1.300,00, R$ 800,00, R$ 1.000,00, R$ 900,00, R$ 1.000,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "Fernanda comprou um eletrônico no valor de R$ 800,00 em uma loja e optou por pagar em 4 parcelas iguais. Qual é o valor de cada parcela? (",
+            "alternativas": {
+                "A": "R$ 190,00 (",
+                "B": "R$ 200,00 (",
+                "C": "R$ 210,00 (",
+                "D": "R$ 220,00 (",
+                "E": "R$ 230,00 Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 6 de 10 QUESTÃO 2 1 Uma instituição distribuirá R$ 8.000,00 entre cinco projetos sociais. O primeiro projeto receberá 20%, o segundo 15%, o terceiro 25%, o quarto 10% e o restante irá para o quinto projeto. Quanto o quinto projeto receberá? (A) R$ 1.600,00 (B) R$ 2.200,00 (C) R$ 2.000,00 (D) R$ 2.400,00 (E) Nenhuma das alternativas"
             },
             "resposta_correta": "A"
         },
@@ -942,96 +1129,88 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: Uma empresa decide investir R$ 5.000,00 em \ncinco projetos sociais. A distribuição do \norçamento é a seguinte: 30% para o Projeto A, \n20% para o Projeto  B, 15% para o Projeto C, \n10% para o Projeto D e o restante para o Projeto \nE. Quanto cada projeto receberá?",
+            "questão": "Questão 2",
+            "enunciado": "Em uma plantação de maçãs, constatou -se que 5% das 25.000 maçãs colhidas estavam impróprias para consumo e seriam descartadas. Quantas maçãs, aproximadamente, serão descartadas por estarem impróprias para consumo? (",
             "alternativas": {
-                "A": "R$ 1.500,00, R$ 1.000,00, R$ 750,00, R$ \n500,00, R$ 1.250,00",
-                "B": "R$ 1.200,00, R$ 1.100,00, R$ 800,00, R$ \n700,00, R$ 1.300,00",
-                "C": "R$ 1.000,00, R$ 1.500,00, R$ 700,00, R$ \n800,00, R$ 1.000,00",
-                "D": "R$ 1.300,00, R$ 800,00, R$ 1.000,00, R$ \n900,00, R$ 1.000,00",
-                "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 14: 0 \nFernanda comprou um eletrônico no valor de \nR$ 800,00 em uma loja e optou por pagar em 4 \nparcelas iguais. Qual é o valor de cada parcela?",
-            "alternativas": {
-                "A": "R$ 190,00",
-                "B": "R$ 200,00",
-                "C": "R$ 210,00",
-                "D": "R$ 220,00",
-                "E": "R$ 230,00  \n \n \n Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 6 de 10 QUESTÃO 2 1 \nUma instituição distribuirá R$ 8.000,00 entre \ncinco projetos sociais. O primeiro projeto \nreceberá 20%, o segundo 15%, o terceiro 25%, \no quarto 10% e o restante irá para o quinto \nprojeto. Quanto o quinto projeto receberá?  \n \n(A) R$ 1.600,00  \n(B) R$ 2.200,00  \n(C) R$ 2.000,00  \n(D) R$ 2.400,00  \n(E) Nenhuma das alternativas"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 15: 2 \nEm uma plantação de maçãs, constatou -se que \n5% das 25.000 maçãs colhidas estavam \nimpróprias para consumo e seriam descartadas. \nQuantas maçãs, aproximadamente, serão \ndescartadas por estarem impróprias para \nconsumo?",
-            "alternativas": {
-                "A": "750 maçãs",
-                "B": "1.000 maçãs",
-                "C": "1.250 maçãs",
-                "D": "1.500 maçãs",
+                "A": "750 maçãs (",
+                "B": "1.000 maçãs (",
+                "C": "1.250 maçãs (",
+                "D": "1.500 maçãs (",
                 "E": "1.800 maçãs"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: 3 \nAssinale a alternativa que apresenta o \nSeptuagésimo Terceiro número par sucessor de \n58.",
+            "questão": "Questão 2",
+            "enunciado": "Assinale a alternativa que apresenta o Septuagésimo Terceiro número par sucessor de 58. (",
             "alternativas": {
-                "A": "131",
-                "B": "133",
-                "C": "204",
-                "D": "206",
-                "E": "Nenhuma das alternativas  \n \n \n \n \n \n \n QUESTÃO 2 4 \nUm grupo de 5 amigos foi a um cinema, e a \nconta total, incluindo ingressos e lanches, foi \nde R$ 200,00. Agora, eles estão discutindo \ncomo dividir a conta. As propostas são as \nseguintes:  \n• Ana sugere que cada um contribua com \nR$ 40,00.  \n• Bruno acredita que R$ 30,00 por \npessoa é suficiente.  \n• Carla propõe R$ 35,00 por pessoa.  \n• Daniel sugere que cada um pague R$ \n25,00.  \n• Elisa pensa que R$ 50,00 seria o valor \njusto.  \nQual amigo está correto sobre o valor justo a \nser contribuído por cada pessoa?  \n(A) Bruno  \n(B) Ana  \n(C) Carla  \n(D) Daniel  \n(E) Elisa"
+                "A": "131 (",
+                "B": "133 (",
+                "C": "204 (",
+                "D": "206 (",
+                "E": "Nenhuma das alternativas"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: 5 \nMaria comprou um bolo retangular para uma \nfesta. O bolo tem 24 fatias iguais. Se ela quiser \ndividir o bolo igualmente entre 4 amigos \nquantas fatias cada amigo receberá?",
+            "questão": "Questão 2",
+            "enunciado": "Um grupo de 5 amigos foi a um cinema, e a conta total, incluindo ingressos e lanches, foi de R$ 200,00. Agora, eles estão discutindo como dividir a conta. As propostas são as seguintes: • Ana sugere que cada um contribua com R$ 40,00. • Bruno acredita que R$ 30,00 por pessoa é suficiente. • Carla propõe R$ 35,00 por pessoa. • Daniel sugere que cada um pague R$ 25,00. • Elisa pensa que R$ 50,00 seria o valor justo. Qual amigo está correto sobre o valor justo a ser contribuído por cada pessoa? (",
             "alternativas": {
-                "A": "4",
-                "B": "5",
-                "C": "6",
-                "D": "7",
+                "A": "Bruno (",
+                "B": "Ana (",
+                "C": "Carla (",
+                "D": "Daniel (",
+                "E": "Elisa"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "Maria comprou um bolo retangular para uma festa. O bolo tem 24 fatias iguais. Se ela quiser dividir o bolo igualmente entre 4 amigos quantas fatias cada amigo receberá? (",
+            "alternativas": {
+                "A": "4 (",
+                "B": "5 (",
+                "C": "6 (",
+                "D": "7 (",
                 "E": "8"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: 6 \nPaula recebeu uma herança e decidiu doar \n10% desse valor para instituições de caridade. \nSe a doação foi de R$ 200,00, qual foi o valor \ntotal da herança que Paula recebeu?",
+            "questão": "Questão 2",
+            "enunciado": "Paula recebeu uma herança e decidiu doar 10% desse valor para instituições de caridade. Se a doação foi de R$ 200,00, qual foi o valor total da herança que Paula recebeu? (",
             "alternativas": {
-                "A": "R$ 1.000,00",
-                "B": "R$ 1.500,00",
-                "C": "R$ 2.000,00",
-                "D": "R$ 2.500,00",
-                "E": "Nenhuma das alternativas  Prefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 7 de 10 QUESTÃO 2 7 \nAssinale a alternativa que apresenta o \nSexagésimo número ímpar sucessor de 27?  \n \n(A) 87 \n(B) 147 \n(C) 149 \n(D) 145 \n(E) Nenhuma das alternativas"
+                "A": "R$ 1.000,00 (",
+                "B": "R$ 1.500,00 (",
+                "C": "R$ 2.000,00 (",
+                "D": "R$ 2.500,00 (",
+                "E": "Nenhuma das alternativas Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 7 de 10 QUESTÃO 2 7 Assinale a alternativa que apresenta o Sexagésimo número ímpar sucessor de 27? (A) 87 (B) 147 (C) 149 (D) 145 (E) Nenhuma das alternativas"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Lucas ganhou um prêmio em dinheiro e decidiu \ninvestir parte desse valor em ações. Ele investiu \n15% do prêmio, que totalizaram R$ 300,00. \nQual foi o valor total do prêmio que Lucas \nrecebeu?",
+            "questão": "Questão 28",
+            "enunciado": "Lucas ganhou um prêmio em dinheiro e decidiu investir parte desse valor em ações. Ele investiu 15% do prêmio, que totalizaram R$ 300,00. Qual foi o valor total do prêmio que Lucas recebeu? (",
             "alternativas": {
-                "A": "R$ 1.500,00",
-                "B": "R$ 1.800,00",
-                "C": "R$ 2.500,00",
-                "D": "R$ 2.000,00",
+                "A": "R$ 1.500,00 (",
+                "B": "R$ 1.800,00 (",
+                "C": "R$ 2.500,00 (",
+                "D": "R$ 2.000,00 (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "D"
@@ -1040,83 +1219,29 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Angélica encontrou um cofrinho contendo 70 \nmoedas de R$0,25 e 26 moedas de R$0,50. \nQual é o valor total encontrado no cofre?",
+            "questão": "Questão 29",
+            "enunciado": "Angélica encontrou um cofrinho contendo 70 moedas de R$0,25 e 26 moedas de R$0,50. Qual é o valor total encontrado no cofre? (",
             "alternativas": {
-                "A": "R$ 30,00",
-                "B": "R$ 37,50",
-                "C": "R$ 42,50",
-                "D": "R$ 30,50",
+                "A": "R$ 30,00 (",
+                "B": "R$ 37,50 (",
+                "C": "R$ 42,50 (",
+                "D": "R$ 30,50 (",
                 "E": "R$ 56,75"
             },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 21: 0 \nUma pessoa decidiu se exercitar regularmente, \ndedicando 1 hora por dia de segunda a sábado \npara fazer exercícios. Se ela começou a rotina \nna segunda -feira, qual será o total de horas que \nterá se exercitado ao final de 3 semanas?",
-            "alternativas": {
-                "A": "16 horas",
-                "B": "18 horas",
-                "C": "21 horas",
-                "D": "24 horas",
-                "E": "27 horas  \n CONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 22: Sobre o uso diário do capacete de segurança, \nqual dos seguintes riscos é um possível dano \nassociado à não utilização deste equipamento \nde proteção na Construção Civil?",
-            "alternativas": {
-                "A": "Cortes causados por ferramentas manuais.",
-                "B": "Quedas de materiais e ferramentas na área \nda cabeça.",
-                "C": "Deslizamentos de terra em áreas de \nconstrução.",
-                "D": "Intoxicações por vapores químicos \nemitidos.",
-                "E": "Incêndios causados por materiais \ninflamáveis."
-            },
             "resposta_correta": "B"
         },
         {
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: Durante o procedimento de assentamento de \ngrandes pisos, poderão ser usadas diversas \nferramentas para auxiliar essa aplicação, entre \nelas, análise a imagem abaixo e assinale a \nalternativa que apresenta seu respectivo nome \npopular:",
+            "questão": "Questão 3",
+            "enunciado": "Uma pessoa decidiu se exercitar regularmente, dedicando 1 hora por dia de segunda a sábado para fazer exercícios. Se ela começou a rotina na segunda -feira, qual será o total de horas que terá se exercitado ao final de 3 semanas? (",
             "alternativas": {
-                "A": "Prumo.",
-                "B": "Desempenadeira.",
-                "C": "Espátula.",
-                "D": "Raspadores.",
-                "E": "Ventosa.  \n \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 8 de 10 QUESTÃO 33  \nLeia o enunciado abaixo e assinale a alternativa \nque apresenta corretamente o termo que \ncompleta a lacuna:  \n____________ É  um concreto de resistência \nbaixa com pouco cimento, muito agregado e \npouca água, apresentando -se de forma farofada. \nSua função é regularizar a base da vala \ntornando -a nivelada, ocupando toda a área que \nreceberá a estrutura de uma fundação.  \n(A) Concreto Usinado.  \n(B) Concreto Pesado.  \n(C) Concreto Armado.  \n(D) Concreto Magro.  \n(E) Concreto Projetado."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 24: Leia o enunciado abaixo e assinale a alternativa \nque apresenta corretamente o termo que \ncompleta a lacuna:  \nO ____________ nada mais é do que a união do \nconcreto com a armadura de metal. Unindo os \ndois materiais, pode -se criar estruturas que são \neficientes contra os esforços de compressão e \nflexão, e é responsável pelos arranha -céus \nmodernos das grandes metrópol es globais, além \nde estruturas como pontes e estádios de futebol.",
-            "alternativas": {
-                "A": "Concreto Fino.",
-                "B": "Concreto Magro.",
-                "C": "Concreto Armado.",
-                "D": "Concreto Usinado.",
-                "E": "Concreto Projetado.  \n \n \n \n \n \n \n \n QUESTÃO 35  \nLeia o enunciado abaixo e análise a imagem, e \nassinale a alternativa que apresenta \ncorretamente o termo que completa a lacuna:  \n \n____________ É uma ferramenta utilizada para \nsocar ou compactar terra, concreto e solo -\ncimento. Podendo ser de madeira ou concreto.  \n \n \n \n(A) Soquete.  \n(B) Ponteira.  \n(C) Prumo de Centro.  \n(D) Picareta.  \n(E) Trinchão."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "SERVENTE DE OBRAS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 25: Os EPC - Equipamentos de Proteção Coletiva, \nsão os dispositivos, equipamentos e sistemas \nque protegem a equipe como um todo e \nterceiros que possam estar na obra. Nesse \nsentido, considera um EPC, exceto:",
-            "alternativas": {
-                "A": "Barreiras com cancelas.",
-                "B": "Cercados em abertura no piso.",
-                "C": "Protetor Auricular.",
-                "D": "Sinalização estratégica.",
-                "E": "Escadas e rampas.  \n \n \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 9 de 10 QUESTÃO 37  \nA imagem abaixo apresenta um procedimento \ncomumente utilizado durante a Construção \nCivil, qual nome dessa etapa?  \n \n \n \n(A) Tirar Medida.  \n(B) Tirar esquadro.  \n(C) Medir o tamanho.  \n(D) Tirar Prumo.  \n(E) Alinhamento de tijolos."
+                "A": "16 horas (",
+                "B": "18 horas (",
+                "C": "21 horas (",
+                "D": "24 horas (",
+                "E": "27 horas CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "C"
         },
@@ -1124,13 +1249,74 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 26: Luciane, pretende iniciar uma obra em sua casa, \ne para isso precisa preparar um concreto. Quais \nsão os materiais básicos necessários para essa \npreparação?",
+            "questão": "Questão 31",
+            "enunciado": "Sobre o uso diário do capacete de segurança, qual dos seguintes riscos é um possível dano associado à não utilização deste equipamento de proteção na Construção Civil? (",
             "alternativas": {
-                "A": "Terra, Cal e Cimento.",
-                "B": "Cal, Brita e Terra.",
-                "C": "Gesso, Areia e Brita.",
-                "D": "Brita, Terra e Cimento.",
-                "E": "Cimento, Areia e Brita."
+                "A": "Cortes causados por ferramentas manuais. (",
+                "B": "Quedas de materiais e ferramentas na área da cabeça. (",
+                "C": "Deslizamentos de terra em áreas de construção. (",
+                "D": "Intoxicações por vapores químicos emitidos. (",
+                "E": "Incêndios causados por materiais inflamáveis."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32",
+            "enunciado": "Durante o procedimento de assentamento de grandes pisos, poderão ser usadas diversas ferramentas para auxiliar essa aplicação, entre elas, análise a imagem abaixo e assinale a alternativa que apresenta seu respectivo nome popular: (",
+            "alternativas": {
+                "A": "Prumo. (",
+                "B": "Desempenadeira. (",
+                "C": "Espátula. (",
+                "D": "Raspadores. (",
+                "E": "Ventosa. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 8 de 10 QUESTÃO 33 Leia o enunciado abaixo e assinale a alternativa que apresenta corretamente o termo que completa a lacuna: ____________ É um concreto de resistência baixa com pouco cimento, muito agregado e pouca água, apresentando -se de forma farofada. Sua função é regularizar a base da vala tornando -a nivelada, ocupando toda a área que receberá a estrutura de uma fundação. (A) Concreto Usinado. (B) Concreto Pesado. (C) Concreto Armado. (D) Concreto Magro. (E) Concreto Projetado."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 34",
+            "enunciado": "Leia o enunciado abaixo e assinale a alternativa que apresenta corretamente o termo que completa a lacuna: O ____________ nada mais é do que a união do concreto com a armadura de metal. Unindo os dois materiais, pode -se criar estruturas que são eficientes contra os esforços de compressão e flexão, e é responsável pelos arranha -céus modernos das grandes metrópol es globais, além de estruturas como pontes e estádios de futebol. (",
+            "alternativas": {
+                "A": "Concreto Fino. (",
+                "B": "Concreto Magro. (",
+                "C": "Concreto Armado. (",
+                "D": "Concreto Usinado. (",
+                "E": "Concreto Projetado."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 35",
+            "enunciado": "Leia o enunciado abaixo e análise a imagem, e assinale a alternativa que apresenta corretamente o termo que completa a lacuna: ____________ É uma ferramenta utilizada para socar ou compactar terra, concreto e solo - cimento. Podendo ser de madeira ou concreto. (",
+            "alternativas": {
+                "A": "Soquete. (",
+                "B": "Ponteira. (",
+                "C": "Prumo de Centro. (",
+                "D": "Picareta. (",
+                "E": "Trinchão."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 36",
+            "enunciado": "Os EPC - Equipamentos de Proteção Coletiva, são os dispositivos, equipamentos e sistemas que protegem a equipe como um todo e terceiros que possam estar na obra. Nesse sentido, considera um EPC, exceto: (",
+            "alternativas": {
+                "A": "Barreiras com cancelas. (",
+                "B": "Cercados em abertura no piso. (",
+                "C": "Protetor Auricular. (",
+                "D": "Sinalização estratégica. (",
+                "E": "Escadas e rampas. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 9 de 10 QUESTÃO 37 A imagem abaixo apresenta um procedimento comumente utilizado durante a Construção Civil, qual nome dessa etapa? (A) Tirar Medida. (B) Tirar esquadro. (C) Medir o tamanho. (D) Tirar Prumo. (E) Alinhamento de tijolos."
             },
             "resposta_correta": "A"
         },
@@ -1138,15 +1324,46 @@
             "cargo": "SERVENTE DE OBRAS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2024",
-            "questão": "Questão 27: Durante o processo de assentamento de \nazulejos, são etapas essenciais para garantir \numa fixação adequada das peças, exceto:",
+            "questão": "Questão 38",
+            "enunciado": "Luciane, pretende iniciar uma obra em sua casa, e para isso precisa preparar um concreto. Quais são os materiais básicos necessários para essa preparação? (",
             "alternativas": {
-                "A": "Utilizar espaçadores entre os azulejos.",
-                "B": "Escolher uma argamassa adequada para o \ntipo de revestimento.",
-                "C": "Aguardar o tempo de secagem antes de \nlimpar o revestimento.",
-                "D": "Certificar -se de que o local não possui \nproblemas de alinhamento.",
-                "E": "Medir o local de forma aproximada apenas, \npois sempre haverá variação de tamanhos.  \n \n \n \n QUESTÃO 40  \nA Alvenaria estrutural é conhecida como um \nsistema:  \n(A) Construtivo.  \n(B) Mecânico.  \n(C) Hidráulico.  \n(D) Reparador.  \n(E) Elétrico.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPrefeitura Municipal  de Caçapava - SP – Concurso Público  01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \n \nSERVENTE DE OBRAS                                                                                                                                   Página 10 de 10"
+                "A": "Terra, Cal e Cimento. (",
+                "B": "Cal, Brita e Terra. (",
+                "C": "Gesso, Areia e Brita. (",
+                "D": "Brita, Terra e Cimento. (",
+                "E": "Cimento, Areia e Brita."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 39",
+            "enunciado": "Durante o processo de assentamento de azulejos, são etapas essenciais para garantir uma fixação adequada das peças, exceto: (",
+            "alternativas": {
+                "A": "Utilizar espaçadores entre os azulejos. (",
+                "B": "Escolher uma argamassa adequada para o tipo de revestimento. (",
+                "C": "Aguardar o tempo de secagem antes de limpar o revestimento. (",
+                "D": "Certificar -se de que o local não possui problemas de alinhamento. (",
+                "E": "Medir o local de forma aproximada apenas, pois sempre haverá variação de tamanhos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "SERVENTE DE OBRAS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2024",
+            "questão": "Questão 40",
+            "enunciado": "A Alvenaria estrutural é conhecida como um sistema: (",
+            "alternativas": {
+                "A": "Construtivo. (",
+                "B": "Mecânico. (",
+                "C": "Hidráulico. (",
+                "D": "Reparador. (",
+                "E": "Elétrico. Prefeitura Municipal de Caçapava - SP – Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO SERVENTE DE OBRAS Página 10 de 10"
+            },
+            "resposta_correta": "A"
         }
     ]
 }
