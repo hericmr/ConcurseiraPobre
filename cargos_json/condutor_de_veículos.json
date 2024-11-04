@@ -4,13 +4,14 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: De acordo com as informações presentes na \nreportagem, assinale a alternativa que apresenta \numa análise INCORRETA .",
+            "questão": "Questão 1",
+            "enunciado": "De acordo com as informações presentes na reportagem, assinale a alternativa que apresenta uma análise INCORRETA . (",
             "alternativas": {
-                "A": "Em uma década, a maioria da população \nbrasileira estará em idade ativa, mas não será mais \njovem.",
-                "B": "A redução da pobreza estagnou na última \ndécada.",
-                "C": "O novo relatório recomenda reforma para o \nmédio e longo prazos.",
-                "D": "As mudanças climáticas e as novas \ntecnologias e formas de trabalho geram \nnecessidades e riscos para a população.",
-                "E": "O Brasil avançou na redução da pobreza e \ndesigualdade desde o retorno à democracia."
+                "A": "Em uma década, a maioria da população brasileira estará em idade ativa, mas não será mais jovem. (",
+                "B": "A redução da pobreza estagnou na última década. (",
+                "C": "O novo relatório recomenda reforma para o médio e longo prazos. (",
+                "D": "As mudanças climáticas e as novas tecnologias e formas de trabalho geram necessidades e riscos para a população. (",
+                "E": "O Brasil avançou na redução da pobreza e desigualdade desde o retorno à democracia."
             },
             "resposta_correta": "A"
         },
@@ -18,13 +19,14 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: De acordo com o texto, o país avançou na redução \nda pobreza e desigualdade desde a \nredemocratização. Assinale a alternativa que \nindica um dos fatores que contribuíram para a \nredução.",
+            "questão": "Questão 2",
+            "enunciado": "De acordo com o texto, o país avançou na redução da pobreza e desigualdade desde a redemocratização. Assinale a alternativa que indica um dos fatores que contribuíram para a redução. (",
             "alternativas": {
-                "A": "O envelhecimento demográfico.",
-                "B": "A criação de promessas previdenciárias.",
-                "C": "A expansão das políticas de proteção social.",
-                "D": "A atuação do Banco Mundial.",
-                "E": "Os choques climáticos da última década. \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nCONDUTOR DE VEÍCULOS                                                                                                                         Página 3 de 10 QUESTÃO 03 \n De acordo com o texto, medidas deverão ser \nadotadas para minimizar os impactos da \ndesigualdade e seus desdobramentos no futuro. \nAssinale a alternativa que traz uma interpretação \ndo texto CORRETA . \n(A) O Brasil e o Banco Mundial discutiram o \nassunto no novo relatório apresentado. \n(B) O relatório elenca dez reformas de médio e \nlongo prazos. \n(C) Em uma décadas, o número de adultos com \nmais de 65 anos dobrará. \n(D) O relatório Programa das Nações Unidas para \no Desenvolvimento impõe dez reformas. \n(E) O relatório recomenda a redução da eficiência \ndos programas de seguro desemprego."
+                "A": "O envelhecimento demográfico. (",
+                "B": "A criação de promessas previdenciárias. (",
+                "C": "A expansão das políticas de proteção social. (",
+                "D": "A atuação do Banco Mundial. (",
+                "E": "Os choques climáticos da última década. Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO CONDUTOR DE VEÍCULOS Página 3 de 10 QUESTÃO 03 De acordo com o texto, medidas deverão ser adotadas para minimizar os impactos da desigualdade e seus desdobramentos no futuro. Assinale a alternativa que traz uma interpretação do texto CORRETA . (A) O Brasil e o Banco Mundial discutiram o assunto no novo relatório apresentado. (B) O relatório elenca dez reformas de médio e longo prazos. (C) Em uma décadas, o número de adultos com mais de 65 anos dobrará. (D) O relatório Programa das Nações Unidas para o Desenvolvimento impõe dez reformas. (E) O relatório recomenda a redução da eficiência dos programas de seguro desemprego."
             },
             "resposta_correta": "C"
         },
@@ -32,26 +34,43 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 3: No trecho, “(...) a redução da pobreza estagnou na \núltima década”, assinale a alternativa que indica \num termo que possui o mesmo sentido e/ou \nsignificado que o termo “ estagnou ”. \nA) Aumentou \n(B) Neutralizou \n(C) Paralisou \n(D) Acelerou \n(E) Evidenciou \n \nQUESTÃO 05 \nNo trecho, “(...) número de adultos com mais de \n65 anos dobrará, tornando as atuais promessas \nprevidenciárias fiscalmente insustentáveis”, \nassinale a alternativa que indica corretamente a \nclasse de palavras que o termo “ insustentáveis ” \npertence.",
+            "questão": "Questão 4",
+            "enunciado": "No trecho, “(...) a redução da pobreza estagnou na última década”, assinale a alternativa que indica um termo que possui o mesmo sentido e/ou significado que o termo “ estagnou ”.",
             "alternativas": {
-                "A": "Adjetivo",
-                "B": "Advérbio",
-                "C": "Conjunção",
-                "D": "Pronome",
-                "E": "Verbo QUESTÃO 06 \nNo trecho “(...) expandir os instrumentos \nfinanceiros disponíveis às famílias para \nadministrar a volatilidade da renda”, assinale a \nalternativa que apresenta corretamente um \nsinônimo para o termo “ volatidade ”. \n(A) Inalterável \n(B) Estável \n(C)  Imutável \n(D) Volúvel \n(E) Contínuo"
+                "A": "Aumentou (",
+                "B": "Neutralizou (",
+                "C": "Paralisou (",
+                "D": "Acelerou (",
+                "E": "Evidenciou"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "C"
         },
         {
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 4: No trecho, “O número de crianças terá diminuído, \nmas, enquanto isso, quase metade delas cresce em \ncondição de pobreza”, assinale a alternativa que \nindica corretamente o termo que o pronome \n“delas ” retoma no excerto.",
+            "questão": "Questão 5",
+            "enunciado": "No trecho, “(...) número de adultos com mais de 65 anos dobrará, tornando as atuais promessas previdenciárias fiscalmente insustentáveis”, assinale a alternativa que indica corretamente a classe de palavras que o termo “ insustentáveis ” pertence. (",
             "alternativas": {
-                "A": "Condição de pobreza",
-                "B": "Número",
-                "C": "Crianças",
-                "D": "Condição",
+                "A": "Adjetivo (",
+                "B": "Advérbio (",
+                "C": "Conjunção (",
+                "D": "Pronome (",
+                "E": "Verbo QUESTÃO 06 No trecho “(...) expandir os instrumentos financeiros disponíveis às famílias para administrar a volatilidade da renda”, assinale a alternativa que apresenta corretamente um sinônimo para o termo “ volatidade ”. (A) Inalterável (B) Estável (C) Imutável (D) Volúvel (E) Contínuo"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7",
+            "enunciado": "No trecho, “O número de crianças terá diminuído, mas, enquanto isso, quase metade delas cresce em condição de pobreza”, assinale a alternativa que indica corretamente o termo que o pronome “delas ” retoma no excerto. (",
+            "alternativas": {
+                "A": "Condição de pobreza (",
+                "B": "Número (",
+                "C": "Crianças (",
+                "D": "Condição (",
                 "E": "Metade"
             },
             "resposta_correta": "C"
@@ -60,13 +79,29 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 5: No trecho, “ (...) a maioria da população brasileira \nestará em idade ativa, mas não será mais jovem”, \nassinale a alternativa que indica corretamente um \nantônimo para o termo “ ativa ”.",
+            "questão": "Questão 8",
+            "enunciado": "No trecho, “ (...) a maioria da população brasileira estará em idade ativa, mas não será mais jovem”, assinale a alternativa que indica corretamente um antônimo para o termo “ ativa ”. (",
             "alternativas": {
-                "A": "Atuante",
-                "B": "Vigorosa",
-                "C": "Vivaz",
-                "D": "Enérgica",
-                "E": "Inoperante \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nCONDUTOR DE VEÍCULOS                                                                                                                         Página 4 de 10 QUESTÃO 09 \nDe acordo com a norma culta da língua \nportuguesa, assinale a alternativa que indica \ncorretamente um substantivo composto. \n(A) Arquipélago \n(B) Porta-malas \n(C) Montanha \n(D) Bahia \n(E) Sol"
+                "A": "Atuante (",
+                "B": "Vigorosa (",
+                "C": "Vivaz (",
+                "D": "Enérgica (",
+                "E": "Inoperante Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO CONDUTOR DE VEÍCULOS Página 4 de 10 QUESTÃO 09 De acordo com a norma culta da língua portuguesa, assinale a alternativa que indica corretamente um substantivo composto. (A) Arquipélago (B) Porta-malas (C) Montanha (D) Bahia (E) Sol"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10",
+            "enunciado": "De acordo com a norma culta da língua portuguesa, assinale a alternativa que indica corretamente um substantivo coletivo. (",
+            "alternativas": {
+                "A": "Arquipélago (",
+                "B": "Porta-malas (",
+                "C": "Montanha (",
+                "D": "Bahia (",
+                "E": "Sol MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "A"
         },
@@ -74,26 +109,13 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 6: De acordo com a norma culta da língua \nportuguesa, assinale a alternativa que indica \ncorretamente um substantivo coletivo.",
+            "questão": "Questão 11",
+            "enunciado": "Um comerciante comprou um lote de roupas com um desconto de 40% sobre o preço original. Se o preço original do lote era R$ 5.000,00, quanto ele pagou pelas roupas? (",
             "alternativas": {
-                "A": "Arquipélago",
-                "B": "Porta-malas",
-                "C": "Montanha",
-                "D": "Bahia",
-                "E": "Sol \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "CONDUTOR DE VEÍCULOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 7: Um comerciante comprou um lote de roupas com \num desconto de 40% sobre o preço original. Se o \npreço original do lote era R$ 5.000,00, quanto ele \npagou pelas roupas?",
-            "alternativas": {
-                "A": "R$ 2.000,00",
-                "B": "R$ 2.500,00",
-                "C": "R$ 3.000,00",
-                "D": "R$ 3.500,00",
+                "A": "R$ 2.000,00 (",
+                "B": "R$ 2.500,00 (",
+                "C": "R$ 3.000,00 (",
+                "D": "R$ 3.500,00 (",
                 "E": "R$ 4.000,00"
             },
             "resposta_correta": "C"
@@ -102,26 +124,28 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 8: Assinale a alternativa que apresenta o sexto \nnúmero ímpar sucessor de 90:",
+            "questão": "Questão 12",
+            "enunciado": "Assinale a alternativa que apresenta o sexto número ímpar sucessor de 90: (",
             "alternativas": {
-                "A": "97",
-                "B": "99",
-                "C": "101",
-                "D": "103",
-                "E": "105 QUESTÃO 13 \nAssinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n43 + 51 x 33 \n \n(A) 1612 \n(B) 1654 \n(C) 1683 \n(D) 1726 \n(E) 1771"
+                "A": "97 (",
+                "B": "99 (",
+                "C": "101 (",
+                "D": "103 (",
+                "E": "105 QUESTÃO 13 Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática. 43 + 51 x 33 (A) 1612 (B) 1654 (C) 1683 (D) 1726 (E) 1771"
             },
-            "resposta_correta": "E"
+            "resposta_correta": "C"
         },
         {
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 9: Mariana foi ao supermercado com R$ 50,00 para \ncomprar alguns itens. Ela comprou um pacote de \narroz por R$ 12,00, um litro de leite por R$ 4,50 \ne um saco de batatas por R$ 8,00. Quanto \nMariana gastou no total?",
+            "questão": "Questão 14",
+            "enunciado": "Mariana foi ao supermercado com R$ 50,00 para comprar alguns itens. Ela comprou um pacote de arroz por R$ 12,00, um litro de leite por R$ 4,50 e um saco de batatas por R$ 8,00. Quanto Mariana gastou no total? (",
             "alternativas": {
-                "A": "R$ 20,00",
-                "B": "R$ 24,50",
-                "C": "R$ 26,00",
-                "D": "R$ 28,50",
+                "A": "R$ 20,00 (",
+                "B": "R$ 24,50 (",
+                "C": "R$ 26,00 (",
+                "D": "R$ 28,50 (",
                 "E": "R$ 32,00"
             },
             "resposta_correta": "B"
@@ -130,13 +154,14 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 10: Uma papelaria vende, em média, 20 cadernos e \n15 lápis por dia. Se a papelaria funcionar durante \n4 dias em uma semana, quantos itens (cadernos + \nlápis) serão vendidos nesse período?",
+            "questão": "Questão 15",
+            "enunciado": "Uma papelaria vende, em média, 20 cadernos e 15 lápis por dia. Se a papelaria funcionar durante 4 dias em uma semana, quantos itens (cadernos + lápis) serão vendidos nesse período? (",
             "alternativas": {
-                "A": "140",
-                "B": "110",
-                "C": "120",
-                "D": "120",
-                "E": "175 \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nCONDUTOR DE VEÍCULOS                                                                                                                         Página 5 de 10 QUESTÃO 16 \nMaria encontrou um cofrinho onde havia apenas \nmoedas de R$ 0,50. Se ela possui 100 moedas no \ntotal, qual o valor total que Maria encontrou no \ncofrinho? \n \n(A) R$ 25,00 \n(B) R$ 50,00 \n(C) R$ 75,00 \n(D) R$ 100,00 \n(E) R$ 125,00"
+                "A": "140 (",
+                "B": "110 (",
+                "C": "120 (",
+                "D": "120 (",
+                "E": "175 Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO CONDUTOR DE VEÍCULOS Página 5 de 10 QUESTÃO 16 Maria encontrou um cofrinho onde havia apenas moedas de R$ 0,50. Se ela possui 100 moedas no total, qual o valor total que Maria encontrou no cofrinho? (A) R$ 25,00 (B) R$ 50,00 (C) R$ 75,00 (D) R$ 100,00 (E) R$ 125,00"
             },
             "resposta_correta": "A"
         },
@@ -144,97 +169,14 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 11: Em uma feira de artesanato, uma artesã vendeu \n15 colares, 20 pulseiras e 10 brincos. Se cada \nitem custa R$ 5,00, qual o valor total arrecadado \npela artesã?",
+            "questão": "Questão 17",
+            "enunciado": "Em uma feira de artesanato, uma artesã vendeu 15 colares, 20 pulseiras e 10 brincos. Se cada item custa R$ 5,00, qual o valor total arrecadado pela artesã? (",
             "alternativas": {
-                "A": "R$ 125,00",
-                "B": "R$ 150,00",
-                "C": "R$ 175,00",
-                "D": "R$ 200,00",
+                "A": "R$ 125,00 (",
+                "B": "R$ 150,00 (",
+                "C": "R$ 175,00 (",
+                "D": "R$ 200,00 (",
                 "E": "R$ 225,00"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "CONDUTOR DE VEÍCULOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 12: Um funcionário recebeu um aumento de salário \nde 8% em relação ao seu salário anterior. Se seu \nsalário anterior era de R$ 2.500,00, qual é o novo \nsalário do funcionário?",
-            "alternativas": {
-                "A": "R$ 2.580,00",
-                "B": "R$ 2.600,00",
-                "C": "R$ 2.650,00",
-                "D": "R$ 2.700,00",
-                "E": "R$ 2.720,00 \n \n \n QUESTÃO 19 \nAssinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n18 +7 x 15 \n(A) 96 \n(B) 105 \n(C) 123 \n(D) 138 \n(E) 375"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "CONDUTOR DE VEÍCULOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 13: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n96 ÷ 8 - 4.",
-            "alternativas": {
-                "A": "8",
-                "B": "10",
-                "C": "12",
-                "D": "16",
-                "E": "24 \n \nCONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "CONDUTOR DE VEÍCULOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 14: O Sistema Nacional de Trânsito é o conjunto de \nórgãos e entidades da União, dos Estados, do \nDistrito Federal e dos Municípios. De acordo \ncom o Art. 5º do Código de Trânsito Brasileiro \nqual é a finalidade do Sistema Nacional de \nTrânsito?",
-            "alternativas": {
-                "A": "Apenas a fiscalização de infrações de \ntrânsito.",
-                "B": "Apenas a formação de condutores e o \nlicenciamento de veículos.",
-                "C": "O exercício de atividades de policiamento e \nengenharia viária apenas.",
-                "D": "O exercício das atividades de planejamento, \nadministração, normatização, pesquisa, registro e \nlicenciamento de veículos, formação, habilitação \ne reciclagem de condutores, educação, \nengenharia, operação do sistema viário, \npoliciamento, fiscalização, julgamento de \ninfrações e de recursos e aplicação de \npenalidades.",
-                "E": "Apenas a pesquisa e registro de veículos. \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nCONDUTOR DE VEÍCULOS                                                                                                                         Página 6 de 10"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "CONDUTOR DE VEÍCULOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 15: De acordo com o    Art. 7º do Código de Trânsito \nBrasileiro. O Sistema Nacional de Trânsito é \ncomposto por alguns órgãos e entidades, entre \nesses, qual é o órgão máximo normativo e \nconsultivo do Sistema Nacional de Trânsito?",
-            "alternativas": {
-                "A": "Polícia Rodoviária Federal",
-                "B": "Juntas Administrativas de Recursos de \nInfrações - JARI",
-                "C": "Conselho Nacional de Trânsito - \nCONTRAN",
-                "D": "Polícias Militares dos Estados",
-                "E": "Conselhos Estaduais de Trânsito - CETRAN"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "CONDUTOR DE VEÍCULOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 16: Qual é a importância da ética no trânsito?",
-            "alternativas": {
-                "A": "Não tem impacto no comportamento dos \ncondutores.",
-                "B": "Garante que as regras de trânsito sejam \nignoradas.",
-                "C": "Contribui para a segurança, respeito e \nharmonia entre os condutores e pedestres.",
-                "D": "Aumenta a pressa e a agressividade no \ntrânsito.",
-                "E": "Torna desnecessária a sinalização de \ntrânsito."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "CONDUTOR DE VEÍCULOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 17: Como a manutenção regular do veículo contribui \npara a direção defensiva?",
-            "alternativas": {
-                "A": "A manutenção só é necessária em condições \nclimáticas extremas.",
-                "B": "A manutenção só é importante para veículos \nde luxo.",
-                "C": "Ela ajuda a garantir que o veículo esteja em \nboas condições de funcionamento, reduzindo o \nrisco de acidentes.",
-                "D": "A manutenção não tem impacto na \nsegurança do veículo.",
-                "E": "A manutenção é apenas uma forma de gastar \ndinheiro desnecessariamente. \n QUESTÃO 25 \n \n \n \n \n \n \n \n \n \n \n \nA sinalização R- 34 acima refere-se à: \n \n(A) Circulação exclusiva de bicicletas. \n(B) Sentido Único. \n(C) Curva à Direita. \n(D) Proibido Retornar. \n(E) Travessia de Pedestres."
             },
             "resposta_correta": "E"
         },
@@ -242,13 +184,14 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 18: De acordo com o Código de Trânsito Brasileiro, \nArt. 10. O Contran, com sede no Distrito Federal, \né composto por:",
+            "questão": "Questão 18",
+            "enunciado": "Um funcionário recebeu um aumento de salário de 8% em relação ao seu salário anterior. Se seu salário anterior era de R$ 2.500,00, qual é o novo salário do funcionário? (",
             "alternativas": {
-                "A": "Deputados estaduais",
-                "B": "Secretários municipais de trânsito",
-                "C": "Ministros de Estado",
-                "D": "Professores universitários",
-                "E": "Diretores de escolas de condução \n \n \n \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nCONDUTOR DE VEÍCULOS                                                                                                                         Página 7 de 10 QUESTÃO 27 \nDe acordo com o Código de Trânsito Brasileiro.   \nArt. 41.  Em qual situação o condutor de um \nveículo pode fazer uso da buzina? \n \n(A) Para cumprimentar outros condutores na \nestrada. \n(B) Para sinalizar aprovação ou desaprovação de \nações de outros condutores. \n(C) Para tocar uma melodia ao passar por uma \nárea residencial. \n(D) Para fazer advertências necessárias a fim de \nevitar sinistros. \n(E) Para acompanhar uma conversa com \npassageiros do veículo."
+                "A": "R$ 2.580,00 (",
+                "B": "R$ 2.600,00 (",
+                "C": "R$ 2.650,00 (",
+                "D": "R$ 2.700,00 (",
+                "E": "R$ 2.720,00"
             },
             "resposta_correta": "D"
         },
@@ -256,13 +199,14 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 19: Assinale a alternativa que completa corretamente \num dos objetivos básicos do Sistema Nacional de \nTrânsito.  \nO Código de Trânsito Brasileiro em seu  Art. 6º, \ntraz alguns objetivos básicos do Sistema \nNacional de Trânsito, entre esses objetivos, o de \nestabelecer diretrizes da Política Nacional de \nTrânsito com:",
+            "questão": "Questão 19",
+            "enunciado": "Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática. 18 +7 x 15 (",
             "alternativas": {
-                "A": "foco na maximização da arrecadação por \nmeio de multas e penalidades.",
-                "B": "ênfase na priorização do tráfego de veículos \nde transporte privado.",
-                "C": "ênfase na segurança viária, fluidez, conforto \ne educação para o trânsito.",
-                "D": "apenas consideração pela otimização de vias \nurbanas.",
-                "E": "vistas à segurança, à fluidez, ao conforto, à \ndefesa ambiental e à educação para o trânsito, e \nfiscalizar seu cumprimento."
+                "A": "96 (",
+                "B": "105 (",
+                "C": "123 (",
+                "D": "138 (",
+                "E": "375"
             },
             "resposta_correta": "C"
         },
@@ -270,13 +214,14 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 20: De acordo com o Código de Trânsito Brasileiro. \nArt. 148. parágrafo § 2º. Ao candidato aprovado \nserá conferida Permissão para Dirigir. Qual é a \nvalidade da Permissão para Dirigir?",
+            "questão": "Questão 20",
+            "enunciado": "Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática. 96 ÷ 8 - 4. (",
             "alternativas": {
-                "A": "Seis meses.",
-                "B": "Três anos.",
-                "C": "Dois anos.",
-                "D": "Um ano.",
-                "E": "Cinco anos. \n \n QUESTÃO 30 \nDe acordo com as normas gerais de circulação e \nconduta, Art. 27. Os usuários das vias terrestres \ndevem, antes de colocar o veículo em circulação \nnas vias públicas, o condutor deverá verificar a \nexistência e as boas condições de funcionamento \ndos equipamentos de uso obrigatório, bem como \nassegurar-se da existência de: \n \n(A) Água para lavagem do veículo. \n(B) Uma playlist de músicas para \nentretenimento. \n(C) Um guarda-chuva em caso de chuva \nintensa. \n(D) Um mapa rodoviário atualizado. \n(E) Combustível suficiente para chegar ao local \nde destino."
+                "A": "8 (",
+                "B": "10 (",
+                "C": "12 (",
+                "D": "16 (",
+                "E": "24 CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "A"
         },
@@ -284,27 +229,224 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 21: De acordo com o Código de Trânsito Brasileiro, \ntodo condutor deverá, antes  de efetuar uma \nultrapassagem:",
+            "questão": "Questão 21",
+            "enunciado": "O Sistema Nacional de Trânsito é o conjunto de órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios. De acordo com o Art. 5º do Código de Trânsito Brasileiro qual é a finalidade do Sistema Nacional de Trânsito? (",
             "alternativas": {
-                "A": "Verificar a pressão dos pneus do veículo.",
-                "B": "Verificar a disponibilidade de postos de \ngasolina ao longo da rota.",
-                "C": "Certificar-se de que nenhum condutor que \nvenha atrás tenha começado uma manobra para \nultrapassá-lo.",
-                "D": "Verificar o nível do óleo do motor.",
+                "A": "Apenas a fiscalização de infrações de trânsito. (",
+                "B": "Apenas a formação de condutores e o licenciamento de veículos. (",
+                "C": "O exercício de atividades de policiamento e engenharia viária apenas. (",
+                "D": "O exercício das atividades de planejamento, administração, normatização, pesquisa, registro e licenciamento de veículos, formação, habilitação e reciclagem de condutores, educação, engenharia, operação do sistema viário, policiamento, fiscalização, julgamento de infrações e de recursos e aplicação de penalidades. (",
+                "E": "Apenas a pesquisa e registro de veículos. Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO CONDUTOR DE VEÍCULOS Página 6 de 10"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22",
+            "enunciado": "De acordo com o Art. 7º do Código de Trânsito Brasileiro. O Sistema Nacional de Trânsito é composto por alguns órgãos e entidades, entre esses, qual é o órgão máximo normativo e consultivo do Sistema Nacional de Trânsito? (",
+            "alternativas": {
+                "A": "Polícia Rodoviária Federal (",
+                "B": "Juntas Administrativas de Recursos de Infrações - JARI (",
+                "C": "Conselho Nacional de Trânsito - CONTRAN (",
+                "D": "Polícias Militares dos Estados (",
+                "E": "Conselhos Estaduais de Trânsito - CETRAN"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23",
+            "enunciado": "Qual é a importância da ética no trânsito? (",
+            "alternativas": {
+                "A": "Não tem impacto no comportamento dos condutores. (",
+                "B": "Garante que as regras de trânsito sejam ignoradas. (",
+                "C": "Contribui para a segurança, respeito e harmonia entre os condutores e pedestres. (",
+                "D": "Aumenta a pressa e a agressividade no trânsito. (",
+                "E": "Torna desnecessária a sinalização de trânsito."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24",
+            "enunciado": "Como a manutenção regular do veículo contribui para a direção defensiva? (",
+            "alternativas": {
+                "A": "A manutenção só é necessária em condições climáticas extremas. (",
+                "B": "A manutenção só é importante para veículos de luxo. (",
+                "C": "Ela ajuda a garantir que o veículo esteja em boas condições de funcionamento, reduzindo o risco de acidentes. (",
+                "D": "A manutenção não tem impacto na segurança do veículo. (",
+                "E": "A manutenção é apenas uma forma de gastar dinheiro desnecessariamente."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25",
+            "enunciado": "A sinalização R- 34 acima refere-se à: (",
+            "alternativas": {
+                "A": "Circulação exclusiva de bicicletas. (",
+                "B": "Sentido Único. (",
+                "C": "Curva à Direita. (",
+                "D": "Proibido Retornar. (",
+                "E": "Travessia de Pedestres."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro, Art. 10. O Contran, com sede no Distrito Federal, é composto por: (",
+            "alternativas": {
+                "A": "Deputados estaduais (",
+                "B": "Secretários municipais de trânsito (",
+                "C": "Ministros de Estado (",
+                "D": "Professores universitários (",
+                "E": "Diretores de escolas de condução Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO CONDUTOR DE VEÍCULOS Página 7 de 10 QUESTÃO 27 De acordo com o Código de Trânsito Brasileiro. Art. 41. Em qual situação o condutor de um veículo pode fazer uso da buzina? (A) Para cumprimentar outros condutores na estrada. (B) Para sinalizar aprovação ou desaprovação de ações de outros condutores. (C) Para tocar uma melodia ao passar por uma área residencial. (D) Para fazer advertências necessárias a fim de evitar sinistros. (E) Para acompanhar uma conversa com passageiros do veículo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28",
+            "enunciado": "Assinale a alternativa que completa corretamente um dos objetivos básicos do Sistema Nacional de Trânsito. O Código de Trânsito Brasileiro em seu Art. 6º, traz alguns objetivos básicos do Sistema Nacional de Trânsito, entre esses objetivos, o de estabelecer diretrizes da Política Nacional de Trânsito com: (",
+            "alternativas": {
+                "A": "foco na maximização da arrecadação por meio de multas e penalidades. (",
+                "B": "ênfase na priorização do tráfego de veículos de transporte privado. (",
+                "C": "ênfase na segurança viária, fluidez, conforto e educação para o trânsito. (",
+                "D": "apenas consideração pela otimização de vias urbanas. (",
+                "E": "vistas à segurança, à fluidez, ao conforto, à defesa ambiental e à educação para o trânsito, e fiscalizar seu cumprimento."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 29",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro. Art. 148. parágrafo § 2º. Ao candidato aprovado será conferida Permissão para Dirigir. Qual é a validade da Permissão para Dirigir? (",
+            "alternativas": {
+                "A": "Seis meses. (",
+                "B": "Três anos. (",
+                "C": "Dois anos. (",
+                "D": "Um ano. (",
+                "E": "Cinco anos."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30",
+            "enunciado": "De acordo com as normas gerais de circulação e conduta, Art. 27. Os usuários das vias terrestres devem, antes de colocar o veículo em circulação nas vias públicas, o condutor deverá verificar a existência e as boas condições de funcionamento dos equipamentos de uso obrigatório, bem como assegurar-se da existência de: (",
+            "alternativas": {
+                "A": "Água para lavagem do veículo. (",
+                "B": "Uma playlist de músicas para entretenimento. (",
+                "C": "Um guarda-chuva em caso de chuva intensa. (",
+                "D": "Um mapa rodoviário atualizado. (",
+                "E": "Combustível suficiente para chegar ao local de destino."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro, todo condutor deverá, antes de efetuar uma ultrapassagem: (",
+            "alternativas": {
+                "A": "Verificar a pressão dos pneus do veículo. (",
+                "B": "Verificar a disponibilidade de postos de gasolina ao longo da rota. (",
+                "C": "Certificar-se de que nenhum condutor que venha atrás tenha começado uma manobra para ultrapassá-lo. (",
+                "D": "Verificar o nível do óleo do motor. (",
                 "E": "Avaliar a temperatura ambiente."
             },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 32",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro. Art. 60. As vias abertas à circulação, de acordo com sua utilização, classificam-se em: I - vias urbanas, II - vias rurais. As vias rurais são: (",
+            "alternativas": {
+                "A": "Vias expressas e vias arteriais. (",
+                "B": "Rodovias e estradas. (",
+                "C": "Vias coletoras e vias de trânsito rápido. (",
+                "D": "Vias locais e rodovias. (",
+                "E": "Vias urbanas e vias arteriais. Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO CONDUTOR DE VEÍCULOS Página 8 de 10 QUESTÃO 33 De acordo com o Código de Trânsito Brasileiro. Analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para Falsa, em seguida assinale a alternativa com a sequência correta. ( ) O condutor e os passageiros não deverão abrir a porta do veículo, deixá-la aberta ou descer do veículo sem antes se certificarem de que isso não constitui perigo para eles e para outros usuários da via. ( ) Nenhum condutor deverá frear bruscamente seu veículo, salvo por razões de segurança. ( ) O embarque e o desembarque devem ocorrer sempre do lado da calçada, exceto para os idosos. (A) F - F - F (B) V – V - F (C) V - F -V (D) F - V - F (E) F - F - V"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 34",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro. Art. 132. Os veículos novos não estão sujeitos ao licenciamento. Qual é o órgão responsável por regular a circulação dos veículos novos durante o trajeto entre a fábrica e o Município de destino? (",
+            "alternativas": {
+                "A": "A Polícia Rodoviária Federal. (",
+                "B": "O DETRAN local. (",
+                "C": "O CONTRAN. (",
+                "D": "A Prefeitura do Município de destino. (",
+                "E": "O fabricante do veículo."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 35",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro, Art.10. § 3º-A. Quem é responsável por presidir o Contran? (",
+            "alternativas": {
+                "A": "O prefeito do município onde o Contran está sediado. (",
+                "B": "O presidente do Brasil. (",
+                "C": "O Ministro de Estado ao qual estiver subordinado o órgão máximo executivo de trânsito da União. (",
+                "D": "O Secretário de Escola. (",
+                "E": "O Presidente do CONTRANDIFE."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "CONDUTOR DE VEÍCULOS",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 36",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro, O que um condutor deve fazer ao efetuar uma ultrapassagem. (",
+            "alternativas": {
+                "A": "Reduzir a velocidade bruscamente. (",
+                "B": "Diminuir a velocidade para sair rapidamente do ponto cego. (",
+                "C": "Mudar de faixa sem acionar as luzes de direção. (",
+                "D": "Indicar com antecedência a manobra pretendida, acionando a luz indicadora de direção do veículo ou por meio de gesto convencional de braço. (",
+                "E": "Ignorar a distância lateral entre os veículos."
+            },
             "resposta_correta": "D"
         },
         {
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 22: De acordo com o Código de Trânsito Brasileiro. \nArt. 60. As vias abertas à circulação, de acordo \ncom sua utilização, classificam-se em:     I - vias \nurbanas, II - vias rurais. As vias rurais são:",
+            "questão": "Questão 37",
+            "enunciado": "O que significa ser um condutor ético no trânsito? (",
             "alternativas": {
-                "A": "Vias expressas e vias arteriais.",
-                "B": "Rodovias e estradas.",
-                "C": "Vias coletoras e vias de trânsito rápido.",
-                "D": "Vias locais e rodovias.",
-                "E": "Vias urbanas e vias arteriais. Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nCONDUTOR DE VEÍCULOS                                                                                                                         Página 8 de 10 QUESTÃO 33 \nDe acordo com o Código de Trânsito Brasileiro. \nAnalise as afirmativas abaixo atribuindo (V) para \nVerdadeira e (F) para Falsa, em seguida assinale \na alternativa com a sequência correta.  \n \n(  )  O condutor e os passageiros não deverão \nabrir a porta do veículo, deixá-la aberta ou descer \ndo veículo sem antes se certificarem de que isso \nnão constitui perigo para eles e para outros \nusuários da via. \n \n( ) Nenhum condutor deverá frear bruscamente \nseu veículo, salvo por razões de segurança. \n \n(  ) O embarque e o desembarque devem ocorrer \nsempre do lado da calçada, exceto para os idosos. \n \n(A) F - F - F  \n(B) V – V - F \n(C) V - F -V \n(D) F - V - F \n(E) F - F - V"
+                "A": "Ignorar as regras de trânsito quando necessário. (",
+                "B": "Colocar sempre a pressa em primeiro lugar. (",
+                "C": "Respeitar as leis de trânsito e considerar o bem-estar dos outros usuários das vias. (",
+                "D": "Usar a buzina excessivamente para chamar a atenção. (",
+                "E": "Dirigir agressivamente para garantir que os outros motoristas saibam que você está no controle. Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO CONDUTOR DE VEÍCULOS Página 9 de 10 QUESTÃO 38 Analise as afirmativas abaixo, em seguida assinale a alternativa com a sequência correta. Em relação aos primeiros socorros em acidentes de trânsito, são ações corretas: I - Ignorar o acidente e continuar dirigindo. II - Sinalizar o local. III - ligar para serviços de emergência. Estão corretas as afirmativas: (A) I, II e III. (B) II apenas (C) I e II, apenas (D) I apenas (E) III apenas"
             },
             "resposta_correta": "C"
         },
@@ -312,57 +454,31 @@
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 23: De acordo com o Código de Trânsito Brasileiro. \nArt. 132.  Os veículos novos não estão sujeitos \nao licenciamento. Qual é o órgão responsável por \nregular a circulação dos veículos novos durante o \ntrajeto entre a fábrica e o Município de destino?",
+            "questão": "Questão 39",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro. Todo condutor, ao perceber que outro que o segue tem o propósito de ultrapassá-lo, deverá: (",
             "alternativas": {
-                "A": "A Polícia Rodoviária Federal.",
-                "B": "O DETRAN local.",
-                "C": "O CONTRAN.",
-                "D": "A Prefeitura do Município de destino.",
-                "E": "O fabricante do veículo. \n \n \n \n \n \n QUESTÃO 35 \nDe acordo com o Código de Trânsito Brasileiro,   \nArt.10. § 3º-A. Quem é responsável por presidir \no Contran? \n(A) O prefeito do município onde o Contran está \nsediado. \n(B) O presidente do Brasil. \n(C) O Ministro de Estado ao qual estiver \nsubordinado o órgão máximo executivo de \ntrânsito da União. \n(D) O Secretário de Escola. \n(E) O Presidente do CONTRANDIFE."
+                "A": "Se estiver circulando pela faixa da direita, deslocar-se para a faixa da esquerda, sem acelerar a marcha. (",
+                "B": "Acelerar para impedir a ultrapassagem. (",
+                "C": "Mudar de faixa bruscamente para bloquear o outro veículo. (",
+                "D": "Se estiver circulando pela faixa da esquerda, deslocar-se para a faixa da direita, sem acelerar a marcha. (",
+                "E": "Parar o veículo no meio da pista para impedir a ultrapassagem."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "D"
         },
         {
             "cargo": "CONDUTOR DE VEÍCULOS",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 24: De acordo com o Código de Trânsito Brasileiro, \nO que um condutor deve fazer ao efetuar  uma \nultrapassagem.",
+            "questão": "Questão 40",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro. Art. 88. Nenhuma via pavimentada poderá ser entregue após sua construção, ou reaberta ao trânsito após a realização de obras ou de manutenção, enquanto não estiver: (",
             "alternativas": {
-                "A": "Reduzir a velocidade bruscamente.",
-                "B": "Diminuir a velocidade para sair rapidamente \ndo ponto cego.",
-                "C": "Mudar de faixa sem acionar as luzes de \ndireção.",
-                "D": "Indicar com antecedência a manobra \npretendida, acionando a luz indicadora de direção \ndo veículo ou por meio de gesto convencional de \nbraço.",
-                "E": "Ignorar a distância lateral entre os veículos."
+                "A": "decorada com elementos artísticos. (",
+                "B": "inspecionada por uma equipe médica. (",
+                "C": "faixas de pedestres coloridas. (",
+                "D": "devidamente sinalizada, vertical e horizontalmente, de forma a garantir as condições adequadas de segurança na circulação. (",
+                "E": "ter parquinhos infantis nas proximidades. Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO CONDUTOR DE VEÍCULOS Página 10 de 10"
             },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "CONDUTOR DE VEÍCULOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 25: O que significa ser um condutor ético no \ntrânsito?",
-            "alternativas": {
-                "A": "Ignorar as regras de trânsito quando \nnecessário.",
-                "B": "Colocar sempre a pressa em primeiro lugar.",
-                "C": "Respeitar as leis de trânsito e considerar o \nbem-estar dos outros usuários das vias.",
-                "D": "Usar a buzina excessivamente para chamar \na atenção.",
-                "E": "Dirigir agressivamente para garantir que os \noutros motoristas saibam que você está no \ncontrole. \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nCONDUTOR DE VEÍCULOS                                                                                                                         Página 9 de 10 QUESTÃO 38 \nAnalise as afirmativas abaixo, em seguida \nassinale a alternativa com a sequência correta. \nEm relação aos primeiros socorros em acidentes \nde trânsito, são ações corretas: \nI - Ignorar o acidente e continuar dirigindo. \nII - Sinalizar o local. \nIII - ligar para serviços de emergência. \n \nEstão corretas as afirmativas: \n \n(A) I, II e III. \n(B) II apenas \n(C) I e II, apenas \n(D) I apenas \n(E) III apenas"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "CONDUTOR DE VEÍCULOS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 26: De acordo com o Código de Trânsito \nBrasileiro.  Todo condutor, ao perceber que outro \nque o segue tem o propósito de ultrapassá-lo, \ndeverá:",
-            "alternativas": {
-                "A": "Se estiver circulando pela faixa da direita, \ndeslocar-se para a faixa da esquerda, sem \nacelerar a marcha.",
-                "B": "Acelerar para impedir a ultrapassagem.",
-                "C": "Mudar de faixa bruscamente para bloquear o \noutro veículo.",
-                "D": "Se estiver circulando pela faixa da esquerda, \ndeslocar-se para a faixa da direita, sem acelerar a \nmarcha.",
-                "E": "Parar o veículo no meio da pista para \nimpedir a ultrapassagem. \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 40 \nDe acordo com o Código de Trânsito Brasileiro.   \nArt. 88. Nenhuma via pavimentada poderá ser \nentregue após sua construção, ou reaberta ao \ntrânsito após a realização de obras ou de \nmanutenção, enquanto não estiver: \n \n(A) decorada com elementos artísticos. \n(B) inspecionada por uma equipe médica. \n(C) faixas de pedestres coloridas. \n(D) devidamente sinalizada, vertical e \nhorizontalmente, de forma a garantir as \ncondições adequadas de segurança na circulação. \n(E) ter parquinhos infantis nas proximidades. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nCONDUTOR DE VEÍCULOS                                                                                                                         Página 10 de 10"
-            },
-            "resposta_correta": "C"
+            "resposta_correta": "D"
         }
     ]
 }

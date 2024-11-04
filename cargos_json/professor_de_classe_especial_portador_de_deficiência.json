@@ -4,13 +4,14 @@
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: Todas as afirmações a seguir podem ser \ndepreendidas da reportagem apresentada, \nexceto :",
+            "questão": "Questão 1",
+            "enunciado": "Todas as afirmações a seguir podem ser depreendidas da reportagem apresentada, exceto : (",
             "alternativas": {
-                "A": "Os cientistas têm dificuldade de avaliar o real \nimpacto das minerações aos primatas e seu \nhabitat em função da falta de compartilhamento \nde dados pelos projetos de mineração.",
-                "B": "A exploração de minerais como cobre, lítio, \nníquel e cobalto causa desmatamento de florestas \ntropicais.",
-                "C": "Na Guiné, a ameaça da mineração, de forma \ndireta ou indireta, atinge até 83% da população \nde macacos do país.",
-                "D": "As empresas que operam projetos de \nmineração devem dispor de dados robustos sobre \nas espécies que residem na região explorada, para \nelaborar ações de mitigação e compensação.",
-                "E": "Ações de mitigação e compensação de curto \nprazo são suficientes para resolver o impacto \ncausado pela mineração."
+                "A": "Os cientistas têm dificuldade de avaliar o real impacto das minerações aos primatas e seu habitat em função da falta de compartilhamento de dados pelos projetos de mineração. (",
+                "B": "A exploração de minerais como cobre, lítio, níquel e cobalto causa desmatamento de florestas tropicais. (",
+                "C": "Na Guiné, a ameaça da mineração, de forma direta ou indireta, atinge até 83% da população de macacos do país. (",
+                "D": "As empresas que operam projetos de mineração devem dispor de dados robustos sobre as espécies que residem na região explorada, para elaborar ações de mitigação e compensação. (",
+                "E": "Ações de mitigação e compensação de curto prazo são suficientes para resolver o impacto causado pela mineração."
             },
             "resposta_correta": "B"
         },
@@ -18,41 +19,14 @@
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: Considere o seguinte excerto: “(...) as áreas de \nmineração se intersectam com o que é \nconsiderado “habitat crítico”, isto é, regiões \ncruciais para a biodiversidade (...)” . A locução \n“isto é” , que ocorre no contexto dado, introduz \numa paráfrase e poderia ser substituída pela \nexpressão de mesma função textual e significado:",
+            "questão": "Questão 2",
+            "enunciado": "Considere o seguinte excerto: “(...) as áreas de mineração se intersectam com o que é considerado “habitat crítico”, isto é, regiões cruciais para a biodiversidade (...)” . A locução “isto é” , que ocorre no contexto dado, introduz uma paráfrase e poderia ser substituída pela expressão de mesma função textual e significado: (",
             "alternativas": {
-                "A": "de modo que.",
-                "B": "de fato.",
-                "C": "ou seja.",
-                "D": "com efeito.",
-                "E": "grosso modo.  \n \n \n \n \n QUESTÃO 03  \nConsidere as sentenças a seguir, que ocorrem no \ntexto:  \nI. “É o que sugere um estudo publicado no \nperiódico Science Advances”.  \nII. “Os pesquisadores, no entanto, ressaltam que \no número de primatas em risco pode ser maior.”  \nIII. “As empresas que operam nessas áreas \ndevem ter esquemas adequados de mitigação”.  \nNas sentenças dadas, verifica -se o emprego da \npalavra “que”  como pronome relativo apenas \nem:  \n(A) I.  \n(B) II.  \n(C) III.  \n(D) I e II.  \n(E) I e III."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 3: Analise o seguinte excerto quanto à pontuação: \n“Necessários para uma transição em larga \nescala para uma energia mais limpa, minerais \ncomo cobre, lítio, níquel e cobalto têm sido \nexplorados na África [...]”  A primeira vírgula \nempregada no excerto ocorre em função do papel \nsintático desempenhado pela construção que o \ninicia, que corresponde a:",
-            "alternativas": {
-                "A": "aposto do sujeito.",
-                "B": "sujeito da oração.",
-                "C": "objeto da locução verbal “têm sido”.",
-                "D": "vocativo.",
-                "E": "adjunto adnominal."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 4: A palavra “amortecimento” , que ocorre no texto, \né derivada de “amortecer” . A palavra \n“amortecer”, por sua vez, é formada por:",
-            "alternativas": {
-                "A": "derivação prefixal.",
-                "B": "derivação sufixal.",
-                "C": "derivação parassintética.",
-                "D": "derivação regressiva.",
-                "E": "derivação imprópria.  \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 4 de 14 QUESTÃO 06  \nO tipo de encontro vocálico que ocorre em \n“antologia” é o mesmo que em:  \n(A) esquentar.  \n(B) amêndoa.  \n(C) coração.  \n(D) roseira.  \n(E) coisa."
+                "A": "de modo que. (",
+                "B": "de fato. (",
+                "C": "ou seja. (",
+                "D": "com efeito. (",
+                "E": "grosso modo."
             },
             "resposta_correta": "E"
         },
@@ -60,13 +34,14 @@
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 5: Assinale a alternativa em que o elemento em \ndestaque é um advérbio de modo.",
+            "questão": "Questão 3",
+            "enunciado": "Considere as sentenças a seguir, que ocorrem no texto: I. “É o que sugere um estudo publicado no periódico Science Advances”. II. “Os pesquisadores, no entanto, ressaltam que o número de primatas em risco pode ser maior.” III. “As empresas que operam nessas áreas devem ter esquemas adequados de mitigação”. Nas sentenças dadas, verifica -se o emprego da palavra “que” como pronome relativo apenas em: (",
             "alternativas": {
-                "A": "A paciência é a mais  bela das virtudes.",
-                "B": "Atualmente , há uma gama de alimentos \nprocessados nos mercados.",
-                "C": "Precisamos somente  de alimentos não \nperecíveis.",
-                "D": "Agrada -me o silêncio depois  da meia -noite.",
-                "E": "Temos de resolver esta situação depressa."
+                "A": "I. (",
+                "B": "II. (",
+                "C": "III. (",
+                "D": "I e II. (",
+                "E": "I e III."
             },
             "resposta_correta": "A"
         },
@@ -74,12 +49,58 @@
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 6: Considere a sentença: “ Fez questão de expressar  \nseu inexorável desprezo pelo rapaz.”  O \nsignificado da palavra “inexorável” é o mesmo \nde:",
+            "questão": "Questão 4",
+            "enunciado": "Analise o seguinte excerto quanto à pontuação: “Necessários para uma transição em larga escala para uma energia mais limpa, minerais como cobre, lítio, níquel e cobalto têm sido explorados na África [...]” A primeira vírgula empregada no excerto ocorre em função do papel sintático desempenhado pela construção que o inicia, que corresponde a: (",
             "alternativas": {
-                "A": "infundado.",
-                "B": "implacável.",
-                "C": "pequeno.",
-                "D": "irreparável.",
+                "A": "aposto do sujeito. (",
+                "B": "sujeito da oração. (",
+                "C": "objeto da locução verbal “têm sido”. (",
+                "D": "vocativo. (",
+                "E": "adjunto adnominal."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5",
+            "enunciado": "A palavra “amortecimento” , que ocorre no texto, é derivada de “amortecer” . A palavra “amortecer”, por sua vez, é formada por: (",
+            "alternativas": {
+                "A": "derivação prefixal. (",
+                "B": "derivação sufixal. (",
+                "C": "derivação parassintética. (",
+                "D": "derivação regressiva. (",
+                "E": "derivação imprópria. Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 4 de 14 QUESTÃO 06 O tipo de encontro vocálico que ocorre em “antologia” é o mesmo que em: (A) esquentar. (B) amêndoa. (C) coração. (D) roseira. (E) coisa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7",
+            "enunciado": "Assinale a alternativa em que o elemento em destaque é um advérbio de modo. (",
+            "alternativas": {
+                "A": "A paciência é a mais bela das virtudes. (",
+                "B": "Atualmente , há uma gama de alimentos processados nos mercados. (",
+                "C": "Precisamos somente de alimentos não perecíveis. (",
+                "D": "Agrada -me o silêncio depois da meia -noite. (",
+                "E": "Temos de resolver esta situação depressa."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8",
+            "enunciado": "Considere a sentença: “ Fez questão de expressar seu inexorável desprezo pelo rapaz.” O significado da palavra “inexorável” é o mesmo de: (",
+            "alternativas": {
+                "A": "infundado. (",
+                "B": "implacável. (",
+                "C": "pequeno. (",
+                "D": "irreparável. (",
                 "E": "remediável."
             },
             "resposta_correta": "D"
@@ -88,13 +109,29 @@
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 7: Analise as sentenças a seguir quanto à relação \nentre o verbo e o(s) seu(s) complemento(s). \nAssinale a alternativa em que a regência verbal \nestá correta.",
+            "questão": "Questão 9",
+            "enunciado": "Analise as sentenças a seguir quanto à relação entre o verbo e o(s) seu(s) complemento(s). Assinale a alternativa em que a regência verbal está correta. (",
             "alternativas": {
-                "A": "Revigorou -se apenas com alimentação \nsaudável.",
-                "B": "O governo destinou recursos sobre a \neducação infantil.",
-                "C": "A família precaveu perante o pior.",
-                "D": "Eles requereram da prefeitura uma licença \nespecial.",
-                "E": "O grupo contribuiu do cadastro de dados dos \nassistidos pelo projeto.  QUESTÃO 10  \nHá incorreção de concordância nominal em:  \n(A) A casa recém -reformada cheirava a madeira \ne tinta fresca.  \n(B) Tudo isso aconteceu em má hora e dia.  \n(C) O vale e suas casas pareciam assombradas.  \n(D) Passadas duas semanas, ela voltou ao \ntrabalho.  \n(E) Foram rasgados os álbuns de fotos e as cartas \ndo casal.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "Revigorou -se apenas com alimentação saudável. (",
+                "B": "O governo destinou recursos sobre a educação infantil. (",
+                "C": "A família precaveu perante o pior. (",
+                "D": "Eles requereram da prefeitura uma licença especial. (",
+                "E": "O grupo contribuiu do cadastro de dados dos assistidos pelo projeto. QUESTÃO 10 Há incorreção de concordância nominal em: (A) A casa recém -reformada cheirava a madeira e tinta fresca. (B) Tudo isso aconteceu em má hora e dia. (C) O vale e suas casas pareciam assombradas. (D) Passadas duas semanas, ela voltou ao trabalho. (E) Foram rasgados os álbuns de fotos e as cartas do casal. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11",
+            "enunciado": "A comissão organizadora de um evento vai separar quatro áreas diferentes para os espectadores. Cada área terá um determinado valor de ingresso, e comportará um número máximo de pessoas. A tabela abaixo mostra a as áreas disponíveis, o número máximo de pess oas que pode comportar, e o valor do ingresso individual de cada área. Área Número máximo de pessoas Valor do ingresso Pista 1000 R$ 125 Lateral 1 500 R$ 150 Lateral 2 500 R$ 200 Camarote 200 R$ 400 Se todas as áreas venderem todos os ingressos disponíveis, qual será a arrecadação total do evento dividido pelo número total de pessoas? Indique o valor mais próximo: (",
+            "alternativas": {
+                "A": "R$ 154. (",
+                "B": "R$ 161. (",
+                "C": "R$ 173. (",
+                "D": "R$ 183. (",
+                "E": "R$ 125. Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 5 de 14 QUESTÃO 12 Um retângulo com uma determinada largura e altura inicial sofre um aumento de altura de 20% e uma diminuição de largura de 20%. Com essas informações, é correto afirmar que: (A) A área do novo retângulo será igual à área do retângulo anterior. (B) A área do novo retângulo sofrerá uma diminuição de 4% independentemente da sua altura e largura original. (C) A redução ou incremento na área do novo retângulo depende da altura e largura do retângulo original. (D) A área do novo retângulo sofrerá um aumento de 4% independentemente da sua altura e largura original. (E) O perímetro do novo retângulo continuará igual ao perímetro do retângulo original, independentemente da altura e largura original."
             },
             "resposta_correta": "E"
         },
@@ -102,41 +139,29 @@
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 8: A comissão organizadora de um evento vai \nseparar quatro áreas diferentes para os \nespectadores. Cada área terá um determinado \nvalor de ingresso, e comportará um número \nmáximo de pessoas. A tabela abaixo mostra a as \náreas disponíveis, o número máximo de pess oas \nque pode comportar, e o valor do ingresso \nindividual de cada área.  \nÁrea  Número máximo \nde pessoas  Valor do \ningresso  \nPista  1000  R$ 125  \nLateral 1  500 R$ 150  \nLateral 2  500 R$ 200  \nCamarote  200 R$ 400  \n \nSe todas as áreas venderem todos os ingressos \ndisponíveis, qual será a arrecadação total do \nevento dividido pelo número total de pessoas? \nIndique o valor mais próximo:",
+            "questão": "Questão 13",
+            "enunciado": "Uma garrafa de refrigerante tem 2 litros de líquido que serão distribuídos em copos de 180 ml. Alguns copos serão cheios e o último copo ficará parcialmente cheio. Qual a porcentagem de líquido nesse último copo, em relação ao seu volume máximo comportado, aproximadamente? (",
             "alternativas": {
-                "A": "R$ 154.",
-                "B": "R$ 161.",
-                "C": "R$ 173.",
-                "D": "R$ 183.",
-                "E": "R$ 125.  \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 5 de 14 QUESTÃO 12  \nUm retângulo com uma determinada largura e \naltura inicial sofre um aumento de altura de 20% \ne uma diminuição de largura de 20%. Com essas \ninformações, é correto afirmar que:  \n(A) A área do novo retângulo será igual à área do \nretângulo anterior.  \n(B) A área do novo retângulo sofrerá uma \ndiminuição de 4% independentemente da sua \naltura e largura original.  \n(C) A redução ou incremento na área do novo \nretângulo depende da altura e largura do \nretângulo original.  \n(D) A área do novo retângulo sofrerá um \naumento de 4% independentemente da sua altura \ne largura original.  \n(E) O perímetro do novo retângulo continuará \nigual ao perímetro do retângulo original, \nindependentemente da altura e largura original."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 9: Uma garrafa de refrigerante tem 2 litros de \nlíquido que serão distribuídos em copos de 180 \nml. Alguns copos serão cheios e o último copo \nficará parcialmente cheio. Qual a porcentagem de \nlíquido nesse último copo, em relação ao seu \nvolume máximo comportado,  aproximadamente?",
-            "alternativas": {
-                "A": "11,1%.",
-                "B": "22,2%.",
-                "C": "15,5%.",
-                "D": "2,22%.",
+                "A": "11,1%. (",
+                "B": "22,2%. (",
+                "C": "15,5%. (",
+                "D": "2,22%. (",
                 "E": "1,11%."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 10: Em uma escola, o intervalo do lanche ocorre em \nhorários diferentes para cada turma. A turma A \ninicia seu intervalo às 9:00 e tem duração de 45 \nminutos, já a turma B inicia seu intervalo num \ndeterminado horário após a turma A, e as duas \nturmas permanecem ju ntas em intervalo por 25 \nminutos. Após esse tempo, a turma A volta para \na sala e a turma B continua sozinha no intervalo \naté às 10:00. Quanto tempo a turma B passou o \nintervalo sozinha?",
+            "questão": "Questão 14",
+            "enunciado": "Em uma escola, o intervalo do lanche ocorre em horários diferentes para cada turma. A turma A inicia seu intervalo às 9:00 e tem duração de 45 minutos, já a turma B inicia seu intervalo num determinado horário após a turma A, e as duas turmas permanecem ju ntas em intervalo por 25 minutos. Após esse tempo, a turma A volta para a sala e a turma B continua sozinha no intervalo até às 10:00. Quanto tempo a turma B passou o intervalo sozinha? (",
             "alternativas": {
-                "A": "20 minutos.",
-                "B": "25 minutos.",
-                "C": "45 minutos.",
-                "D": "15 minutos.",
-                "E": "30 minutos.  QUESTÃO 15  \nUm estudante fez cinco provas durante um \nsemestre e obteve as seguintes notas: 70, 75, 80, \n85 e 𝑥. Se a média aritmética das cinco notas foi \n80, qual é o valor de 𝑥? \n(A) 80.  \n(B) 82.  \n(C) 84.  \n(D) 86.  \n(E) 90.  \n \nATUALIDADES"
+                "A": "20 minutos. (",
+                "B": "25 minutos. (",
+                "C": "45 minutos. (",
+                "D": "15 minutos. (",
+                "E": "30 minutos. QUESTÃO 15 Um estudante fez cinco provas durante um semestre e obteve as seguintes notas: 70, 75, 80, 85 e 𝑥. Se a média aritmética das cinco notas foi 80, qual é o valor de 𝑥? (A) 80. (B) 82. (C) 84. (D) 86. (E) 90. ATUALIDADES"
             },
             "resposta_correta": "D"
         },
@@ -144,55 +169,44 @@
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 11: Qual o nome do apresentador de TV que no ano \nde 2023 passou por um transplante de coração e \nem fevereiro de 2024, por um transplante de rim?",
+            "questão": "Questão 16",
+            "enunciado": "Qual o nome do apresentador de TV que no ano de 2023 passou por um transplante de coração e em fevereiro de 2024, por um transplante de rim? (",
             "alternativas": {
-                "A": "Antônio Augusto Moraes Liberato (Gugu \nLiberato).",
-                "B": "Fausto Corrêa da Silva (Faustão).",
-                "C": "Celso Yunes Portiolli  (Celso Portiolli).",
-                "D": "Raul Gil.",
+                "A": "Antônio Augusto Moraes Liberato (Gugu Liberato). (",
+                "B": "Fausto Corrêa da Silva (Faustão). (",
+                "C": "Celso Yunes Portiolli (Celso Portiolli). (",
+                "D": "Raul Gil. (",
                 "E": "Senor Abravanel (Silvio Santos)."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "D"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 12: Qual é a doença que se alastrou no Brasil, desde \no início de 2024?",
+            "questão": "Questão 17",
+            "enunciado": "Qual é a doença que se alastrou no Brasil, desde o início de 2024? (",
             "alternativas": {
-                "A": "Caxumba.",
-                "B": "Gripe.",
-                "C": "H1N1.",
-                "D": "Dengue.",
+                "A": "Caxumba. (",
+                "B": "Gripe. (",
+                "C": "H1N1. (",
+                "D": "Dengue. (",
                 "E": "Catapora."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 13: Quem é o tetracampeão do mundo, consagrado \ncomo jogador e técnico de futebol, que faleceu \nno início de 2024, aos 92 anos?",
+            "questão": "Questão 18",
+            "enunciado": "Quem é o tetracampeão do mundo, consagrado como jogador e técnico de futebol, que faleceu no início de 2024, aos 92 anos? (",
             "alternativas": {
-                "A": "Zagallo.",
-                "B": "Maradona.",
-                "C": "Taffarel.",
-                "D": "Pelé.",
-                "E": "Palhinha.  \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 6 de 14 QUESTÃO 19  \nO estado do Rio Grande do Sul, desde abril do \nano em curso, vem sofrendo com fortes chuvas e \nenchentes. O contato da população com a água \ncontaminada da enchente pode causar qual tipo \nde doença?  \n(A) Meningite.  \n(B) Covid.  \n(C) Leptospirose.  \n(D) Gastrite.  \n(E) Parkinson ."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 14: Em maio de 2024, o presidente Ebrahim Raisi, \nmorreu na queda de um helicóptero, aos 63 anos. \nQual o país do oriente médio Ebrahim presidia?",
-            "alternativas": {
-                "A": "Alemanha.",
-                "B": "França.",
-                "C": "Canadá.",
-                "D": "Rússia.",
-                "E": "Irã.  \n \nNOÇÕES  DE INFORMÁTICA"
+                "A": "Zagallo. (",
+                "B": "Maradona. (",
+                "C": "Taffarel. (",
+                "D": "Pelé. (",
+                "E": "Palhinha. Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 6 de 14 QUESTÃO 19 O estado do Rio Grande do Sul, desde abril do ano em curso, vem sofrendo com fortes chuvas e enchentes. O contato da população com a água contaminada da enchente pode causar qual tipo de doença? (A) Meningite. (B) Covid. (C) Leptospirose. (D) Gastrite. (E) Parkinson ."
             },
             "resposta_correta": "C"
         },
@@ -200,13 +214,14 @@
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 15: Com base nos conhecimentos relacionados ao \nsistema operacional Windows 7, assinale a \nalternativa que completa corretamente a lacuna \ndo texto a seguir:  \n \nO Windows 7, desenvolvido pela ___________, \né uma versão do sistema operacional Windows, \ndestinado a computadores pessoais, tanto para \nuso doméstico quanto empresarial.",
+            "questão": "Questão 20",
+            "enunciado": "Em maio de 2024, o presidente Ebrahim Raisi, morreu na queda de um helicóptero, aos 63 anos. Qual o país do oriente médio Ebrahim presidia? (",
             "alternativas": {
-                "A": "Intel",
-                "B": "Oracle",
-                "C": "Microsoft",
-                "D": "Sansung",
-                "E": "Apple  \n \n \n \n \n \n QUESTÃO 22  \nNa barra de tarefas do Windows 7 é possível \nvisualizar facilmente informações importantes \npara usuário, como:  \n \n(A) A data atual.  \n(B) A velocidade de processamento do \ncomputador.  \n(C) A capacidade de processamento do \ncomputador.  \n(D) A configuração do servidor de e -mail do \nusuário.  \n(E) A versão do Microsoft Office instalado na \nmáquina."
+                "A": "Alemanha. (",
+                "B": "França. (",
+                "C": "Canadá. (",
+                "D": "Rússia. (",
+                "E": "Irã. NOÇÕES DE INFORMÁTICA"
             },
             "resposta_correta": "D"
         },
@@ -214,211 +229,331 @@
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 16: Analise a lista de aplicativos descritos nas \nalternativas a seguir e assinale a opção que \ndescreve o único programa nativo do Windows \n7:",
+            "questão": "Questão 21",
+            "enunciado": "Com base nos conhecimentos relacionados ao sistema operacional Windows 7, assinale a alternativa que completa corretamente a lacuna do texto a seguir: O Windows 7, desenvolvido pela ___________, é uma versão do sistema operacional Windows, destinado a computadores pessoais, tanto para uso doméstico quanto empresarial. (",
             "alternativas": {
-                "A": "iMovie.",
-                "B": "GarageBand.",
-                "C": "Bloco de Notas.",
-                "D": "AutoCade 2024.",
+                "A": "Intel (",
+                "B": "Oracle (",
+                "C": "Microsoft (",
+                "D": "Sansung (",
+                "E": "Apple"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22",
+            "enunciado": "Na barra de tarefas do Windows 7 é possível visualizar facilmente informações importantes para usuário, como: (",
+            "alternativas": {
+                "A": "A data atual. (",
+                "B": "A velocidade de processamento do computador. (",
+                "C": "A capacidade de processamento do computador. (",
+                "D": "A configuração do servidor de e -mail do usuário. (",
+                "E": "A versão do Microsoft Office instalado na máquina."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23",
+            "enunciado": "Analise a lista de aplicativos descritos nas alternativas a seguir e assinale a opção que descreve o único programa nativo do Windows 7: (",
+            "alternativas": {
+                "A": "iMovie. (",
+                "B": "GarageBand. (",
+                "C": "Bloco de Notas. (",
+                "D": "AutoCade 2024. (",
                 "E": "Keynote."
             },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24",
+            "enunciado": "Entre as alternativas abaixo, qual delas descreve uma das funções do Microsoft Word: (",
+            "alternativas": {
+                "A": "Criar imagens vetoriais. (",
+                "B": "Editar filmes em alta resolução. (",
+                "C": "Gerenciamento de banco de dados. (",
+                "D": "Criar e editar documentos de texto. (",
+                "E": "Calcular Equação Diferencial. Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 7 de 14 QUESTÃO 25 O atalho do Microsoft Word intitulado de “Orientação” ilustrado a seguir, tem a função de: Fonte: 1 https://support.microsoft.com/ (A) Alterar as bordas da página para impressão em papel A5. (B) Alterar o espaçamento entre parágrafos de cada página. (C) Alterar a orientação da página para paralelo ou vertical. (D) Alterar a orientação da página para posto ou sobreposto. (E) Alterar a orientação da página para paisagem ou retrato. CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2",
+            "enunciado": "Sobre a Educação Inclusiva, leia os enunciados, marque V (verdadeiro) e F (falso) e, posteriormente, destaque a alternativa correspondente. [...] A Educação Inclusiva é um modelo de ensino que visa especificamente o atendimento ao indivíduo com deficiência. [...] A Educação Inclusiva tem como um de seus fundamentos o contexto da diversidade. [...] O modelo atual de Educação Inclusiva vai de encontro aos movimentos pautados pela consciência de uma sociedade igualitária. [...] A consciência de uma sociedade para todos sempre existiu, sendo que, em 1948, a Declaração Universal dos Direitos Humanos apenas ratificou um posicionamento já presente no contexto social. [...] A concepção de Educação Inclusiva é mais ampla do que a pertinente à Educação Especial. (",
+            "alternativas": {
+                "A": "F, V, F, F, V (",
+                "B": "F, F, V, F, F (",
+                "C": "V, V, F, V, V (",
+                "D": "V, V, V, F, F (",
+                "E": "F, F, F, V, V QUESTÃO 27 Para compreender os princípios e os fundamentos da Educação Especial, é necessário retomar o contexto histórico que traz as bases de todo o processo embrionário responsável pelo modelo que se tem atualmente. Assim, o final da década de 1950 e início da déc ada de 1960 representam as primeiras ações do Ministério da Educação abrangendo a educação direcionada para as pessoas com deficiência. Nesse cenário, surgem movimentos de crítica à educação que segregava e excluía as pessoas com deficiência em que se prop õe um tipo de modelo que ficou reconhecido como? (A) Modelo de normalização (B) Modelo de inclusão (C) Modelo compensatório (D) Modelo integrador (E) Modelo amplo de educação"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 2",
+            "enunciado": "Pensar na consecução de um Programa de Educação Inclusiva depende da sistematização de uma série de ações, no intuito de quebrar tanto as barreiras atitudinais quanto físicas. Essa postura vai ao encontro de qual modelo da deficiência? (",
+            "alternativas": {
+                "A": "Modelo democrático (",
+                "B": "Modelo global (",
+                "C": "Modelo social (",
+                "D": "Modelo político (",
+                "E": "Modelo intervencionista Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 8 de 14 QUESTÃO 2 9 Alguns fundamentos da Educação Especial foram explicitados a seguir. Destaque a alternativa que possui um erro conceitual. (A) A promulgação da Constituição Federal e a universalização da educação passaram a balizar as políticas produzidas e, a partir daí, observa -se a mudança da forma como estudante público - alvo da Educação Especial passou a ser visto na escola. (B) A adequação do estudante ao meio decorre da publicação da Lei de Diretrizes e Bases da Educação Nacional de 1996 influenciada pela Declaração de Salamanca, publicada em 1994. (C) A Declaração de Salamanca preconizava que era necessário incluir todos os estudantes público -alvo da Educação Especial no ensino regular. (D) A partir da Lei de Diretrizes e Bases da Educação Nacional de 1996, observa -se a mudança do paradigma da integração para o da inclusão. (E) Depois da Lei de Diretrizes e Bases da Educação Nacional de 1996, outros documentos norteadores e oficiais foram publicados a fim de orientar o trabalho com os alunos com deficiência e balizar a Educação Inclusiva no Brasil, como as Diretrizes Nacionai s para a Educação Especial na Educação Básica, em 2001 e a Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva, em 2008."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30",
+            "enunciado": "Dentro da concepção da Educação Inclusiva, como é conhecido o processo de transferência gradual das pessoas com deficiência das instituições especializadas para as escolas regulares? (",
+            "alternativas": {
+                "A": "Institucionalização (",
+                "B": "Desinstitucionalização (",
+                "C": "Promoção (",
+                "D": "Regulação (",
+                "E": "Correção"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31",
+            "enunciado": "A prática docente pautada em princípios e fundamentos da Educação Especial possui alguns aspectos que corroboram para a obtenção de resultados mais satisfatórios. Dessa forma, leia os enunciados a seguir e marque, posteriormente, a alternativa concernente. I – Pedagogia centrada na criança que seja capaz de educar toda criança, com ou sem deficiência. II – Escolas especiais, classes especiais e sessões especiais devem ser priorizadas no intuito de assegurar condições ideais de desenvolvimento do educando com deficiência. III – Adaptação cabal do currículo em relação às limitações do educando com deficiência, objetivando garantir sua plena inserção no ambiente educacional. IV - Conteúdo da educação voltado a padrões superiores e às necessidades dos indivíduos, com o objetivo de torná -los aptos a participar totalmente do seu desenvolvimento. (",
+            "alternativas": {
+                "A": "Todas as alternativas são verdadeiras. (",
+                "B": "Todas as alternativas são falsas. (",
+                "C": "Apenas as alternativas I e IV são verdadeiras. (",
+                "D": "Apenas as alternativas II e III são verdadeiras. (",
+                "E": "Apenas a alternativa II é falsa. Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 9 de 14 QUESTÃO 32 Pensar na relação educação e diversidade remete a várias concepções legais presentes nos instrumentos normativos que sistematizam a educação no país. Nesse sentido, leia as asserções posteriores e marque a alternativa que apresenta um aspecto que a torna incorreta. (A) O direito à diversidade tem como base a diretriz da LDB que estabelece a educação como direito de todos. (B) A escola regular é o meio considerado prioritário pelos instrumentos legais voltados para a educação de pessoas com deficiência. (C) O foco da ação deverá ser preparar cada aluno para o exercício da cidadania e formá -los para o trabalho. (D) As tecnologias assistivas são consideradas como meios de suporte que vão de encontro às necessidades dos educandos com deficiência. (E) A diversidade deve ser aceita, compreendida e reconhecida, uma vez que não se tem o objetivo de disfarçar as limitações, porque elas são reais."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 33",
+            "enunciado": "Em conformidade com a Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva, complete o excerto a seguir: “Ao reafirmar os pressupostos construídos a partir de padrões _______________ de participação e aprendizagem, a Política não provoca uma reformulação das práticas educacionais de maneira que sejam valorizados os diferentes potenciais de aprendizagem no ensino comum, mantendo a responsabilidade da educação desses alunos exclusivamente no âmbito da educação especial”. (",
+            "alternativas": {
+                "A": "heterogêneos (",
+                "B": "homogêneos (",
+                "C": "regulares (",
+                "D": "normativos (",
+                "E": "excludentes"
+            },
             "resposta_correta": "C"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 17: Entre as alternativas abaixo, qual delas descreve \numa das funções do Microsoft Word:",
+            "questão": "Questão 34",
+            "enunciado": "Por meio da Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva, é possível compreender alguns aspectos da Lei 10.436/02, descritos a seguir, afora: (",
             "alternativas": {
-                "A": "Criar imagens vetoriais.",
-                "B": "Editar filmes em alta resolução.",
-                "C": "Gerenciamento de banco de dados.",
-                "D": "Criar e editar documentos de texto.",
-                "E": "Calcular Equação Diferencial.  \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 7 de 14 QUESTÃO 25  \nO atalho do Microsoft Word intitulado de \n“Orientação” ilustrado a seguir, tem a função de:  \n \nFonte: 1 https://support.microsoft.com/  \n \n(A) Alterar as bordas da página para impressão \nem papel A5.  \n(B) Alterar o espaçamento entre parágrafos de \ncada página.  \n(C) Alterar a orientação da página para paralelo \nou vertical.  \n(D) Alterar a orientação da página para posto ou \nsobreposto.  \n(E) Alterar a orientação da página para paisagem \nou retrato.  \n \nCONHECIMENTOS ESPECÍFICOS"
+                "A": "Reconhecimento da Língua Brasileira de Sinais como meio legal de comunicação e expressão. (",
+                "B": "Determinação de formas que institucionalizem o apoio do uso de Língua de Sinais e sua difusão. (",
+                "C": "Inclusão da disciplina de Libras como parte integrante do currículo nos cursos de formação de professores e fonoaudiologia. (",
+                "D": "A Língua Brasileira de Sinais é reconhecida como o sistema linguístico de natureza visual - motora com estrutura gramatical compartilhada com a língua oral portuguesa. (",
+                "E": "Reconhecimento que a Língua Brasileira de Sinais constitui um sistema linguístico de transmissão de ideias e fatos, oriundos de comunidades de pessoas surdas do Brasil."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 18: 6 \nSobre a Educação Inclusiva, leia os enunciados, \nmarque V (verdadeiro) e F (falso) e, \nposteriormente, destaque a alternativa \ncorrespondente.  \n[...] A Educação Inclusiva é um modelo de ensino \nque visa especificamente o atendimento ao \nindivíduo com deficiência.  \n[...] A Educação Inclusiva tem como um de seus \nfundamentos o contexto da diversidade.  \n[...] O modelo atual de Educação Inclusiva vai de \nencontro aos movimentos pautados pela \nconsciência de uma sociedade igualitária.  \n[...] A consciência de uma sociedade para todos \nsempre existiu, sendo que, em 1948, a \nDeclaração Universal dos Direitos Humanos \napenas ratificou um posicionamento já presente \nno contexto social.  \n[...] A concepção de Educação Inclusiva é mais \nampla do que a pertinente à Educação Especial.",
+            "questão": "Questão 35",
+            "enunciado": "Qual é a modalidade de Educação Especial descrita por meio da Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva em relação ao ensino compreendido da Educação Infantil até a Educação Superior. (",
             "alternativas": {
-                "A": "F, V, F, F, V",
-                "B": "F, F, V, F, F",
-                "C": "V, V, F, V, V",
-                "D": "V, V, V, F, F",
-                "E": "F, F, F, V, V  QUESTÃO 27  \nPara compreender os princípios e os \nfundamentos da Educação Especial, é necessário \nretomar o contexto histórico que traz as bases de \ntodo o processo embrionário responsável pelo \nmodelo que se tem atualmente. Assim, o final da \ndécada de 1950 e início da déc ada de 1960 \nrepresentam as primeiras ações do Ministério da \nEducação abrangendo a educação direcionada \npara as pessoas com deficiência. Nesse cenário, \nsurgem movimentos de crítica à educação que \nsegregava e excluía as pessoas com deficiência \nem que se prop õe um tipo de modelo que ficou \nreconhecido como?  \n(A) Modelo de normalização  \n(B) Modelo de inclusão  \n(C) Modelo compensatório  \n(D) Modelo integrador  \n(E) Modelo amplo de educação"
+                "A": "Universalidade (",
+                "B": "Obrigatoriedade (",
+                "C": "Transversalidade (",
+                "D": "Equanimidade (",
+                "E": "Heterogeneidade"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 36",
+            "enunciado": "Leia os enunciados a seguir e destaque a alternativa em que o tipo de deficiência foi descrito corretamente. (",
+            "alternativas": {
+                "A": "Hemiplegia: um dimídio corporal afetado. (",
+                "B": "Monoplegia: perda de um membro. (",
+                "C": "Tetraplegia: ausência de movimentos dos membros inferiores. (",
+                "D": "Triplegia: perda de três membros do corpo. (",
+                "E": "Paraplegia: ausência de movimentos dos membros de um hemisfério do corpo (direito ou esquerdo). Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 10 de 14 QUESTÃO 37 Leia os enunciados abaixo e assinale V (verdadeiro) e F (falso) e marque, posteriormente, a alternativa correta. [...] Apenas uma alteração ou distúrbio no processamento normal da audição de grau elevado é considerada como alteração auditiva, determinando, para o indivíduo, sua incapacidade de ouvir e perceber sons. [...] A perda auditiva está relacionada à dificuldade na percepção dos sons da fala, comprometendo a sua inteligibilidade e o processo de comunicação do surdo. [...] É considerado surdo o indivíduo cuja audição não é funcional na vida comum. [...] É considerado parcialmente surdo, aquele cuja audição depende especificamente da utilização do recurso de prótese auditiva com objetivo de amplificação sonora. (A) V, V, V, V (B) F, F, F, F (C) F, V, F, V (D) F, F, V, F (E) F, V, V, F"
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 19: 8 \nPensar na consecução de um Programa de \nEducação Inclusiva depende da sistematização \nde uma série de ações, no intuito de quebrar tanto \nas barreiras atitudinais quanto físicas. Essa \npostura vai ao encontro de qual modelo da \ndeficiência?",
+            "questão": "Questão 38",
+            "enunciado": "Um aluno que apresenta perda auditiva superior a 90 dB, se enquadra em qual tipo de classificação de deficiência auditiva? (",
             "alternativas": {
-                "A": "Modelo democrático",
-                "B": "Modelo global",
-                "C": "Modelo social",
-                "D": "Modelo político",
-                "E": "Modelo intervencionista  \n \n \n \n \n \n \n \n \n \n \nPrefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 8 de 14 QUESTÃO 2 9 \nAlguns fundamentos da Educação Especial \nforam explicitados a seguir. Destaque a \nalternativa que possui um erro conceitual.  \n(A) A promulgação da Constituição Federal e a \nuniversalização da educação passaram a balizar \nas políticas produzidas e, a partir daí, observa -se \na mudança da forma como estudante público -\nalvo da Educação Especial passou a ser visto na \nescola.  \n(B) A adequação do estudante ao meio decorre \nda publicação da Lei de Diretrizes e Bases da \nEducação Nacional de 1996 influenciada pela \nDeclaração de Salamanca, publicada em 1994.  \n(C) A Declaração de Salamanca preconizava que \nera necessário incluir todos os estudantes \npúblico -alvo da Educação Especial no ensino \nregular.  \n(D) A partir da Lei de Diretrizes e Bases da \nEducação Nacional de 1996, observa -se a \nmudança do paradigma da integração para o da \ninclusão.  \n(E) Depois da Lei de Diretrizes e Bases da \nEducação Nacional de 1996, outros documentos \nnorteadores e oficiais foram publicados a fim de \norientar o trabalho com os alunos com \ndeficiência e balizar a Educação Inclusiva no \nBrasil, como as Diretrizes Nacionai s para a \nEducação Especial na Educação Básica, em 2001 \ne a Política Nacional de Educação Especial na \nPerspectiva da Educação Inclusiva, em 2008."
+                "A": "Aluno com surdez leve. (",
+                "B": "Aluno com surdez moderada. (",
+                "C": "Aluno com surdez severa. (",
+                "D": "Aluno com surdez profunda. (",
+                "E": "Aluno com anacusia."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 39",
+            "enunciado": "Qual dos conceitos a seguir corresponde ao seguinte enunciado: a partir dessa filosofia, observa -se que o surdo deve adquirir a língua de sinais, que é natural deles, como língua materna e a língua oficial do seu país como a segunda língua. Os defensores d essa filosofia acreditam que os surdos não precisam se assemelhar aos ouvintes e devem assumir sua surdez, pois formam uma comunidade com cultura e língua próprias. (",
+            "alternativas": {
+                "A": "Oralismo (",
+                "B": "Comunicação Total (",
+                "C": "Bilinguismo (",
+                "D": "Pluralismo linguístico (",
+                "E": "Bimodal"
             },
             "resposta_correta": "C"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 20: Dentro da concepção da Educação Inclusiva, \ncomo é conhecido o processo de transferência \ngradual das pessoas com deficiência das \ninstituições especializadas para as escolas \nregulares?",
+            "questão": "Questão 40",
+            "enunciado": "A avaliação do campo visual, também chamada campimetria, observa a capacidade de resposta do paciente a um estímulo visual nos diversos pontos do campo de visão de cada olho. Considerando a amplitude do campo visual, classifica -se o nível de deficiência vi sual. Nesse sentido, como é classificada uma pessoa que tem o campo visual 20/200 a 20/400? (",
             "alternativas": {
-                "A": "Institucionalização",
-                "B": "Desinstitucionalização",
-                "C": "Promoção",
-                "D": "Regulação",
-                "E": "Correção  \n QUESTÃO 31  \nA prática docente pautada em princípios e \nfundamentos da Educação Especial possui \nalguns aspectos que corroboram para a obtenção \nde resultados mais satisfatórios. Dessa forma, \nleia os enunciados a seguir e marque, \nposteriormente, a alternativa concernente.  \nI – Pedagogia centrada na criança que seja capaz \nde educar toda criança, com ou sem deficiência.  \nII – Escolas especiais, classes especiais e sessões \nespeciais devem ser priorizadas no intuito de \nassegurar condições ideais de desenvolvimento \ndo educando com deficiência.  \nIII – Adaptação cabal do currículo em relação às \nlimitações do educando com deficiência, \nobjetivando garantir sua plena inserção no \nambiente educacional.  \nIV - Conteúdo da educação voltado a padrões \nsuperiores e às necessidades dos indivíduos, com \no objetivo de torná -los aptos a participar \ntotalmente do seu desenvolvimento.  \n(A) Todas as alternativas são verdadeiras.  \n(B) Todas as alternativas são falsas.  \n(C) Apenas as alternativas I e IV são verdadeiras.  \n(D) Apenas as alternativas II e III são \nverdadeiras.  \n(E) Apenas a alternativa II é falsa.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 9 de 14 QUESTÃO 32  \nPensar na relação educação e diversidade remete \na várias concepções legais presentes nos \ninstrumentos normativos que sistematizam a \neducação no país. Nesse sentido, leia as asserções \nposteriores e marque a alternativa que apresenta \num aspecto que a torna incorreta.  \n(A) O direito à diversidade tem como base a \ndiretriz da LDB que estabelece a educação como \ndireito de todos.  \n(B) A escola regular é o meio considerado \nprioritário pelos instrumentos legais voltados \npara a educação de pessoas com deficiência.  \n(C) O foco da ação deverá ser preparar cada \naluno para o exercício da cidadania e formá -los \npara o trabalho.  \n(D) As tecnologias assistivas são consideradas \ncomo meios de suporte que vão de encontro às \nnecessidades dos educandos com deficiência.  \n(E) A diversidade deve ser aceita, compreendida \ne reconhecida, uma vez que não se tem o objetivo \nde disfarçar as limitações, porque elas são reais."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 21: Em conformidade com a Política Nacional de \nEducação Especial na Perspectiva da Educação \nInclusiva, complete o excerto a seguir:  \n“Ao reafirmar os pressupostos construídos a \npartir de padrões _______________ de \nparticipação e aprendizagem, a Política não \nprovoca uma reformulação das práticas \neducacionais de maneira que sejam valorizados \nos diferentes potenciais de aprendizagem no \nensino comum, mantendo a responsabilidade da \neducação desses alunos exclusivamente no \nâmbito da educação especial”.",
-            "alternativas": {
-                "A": "heterogêneos",
-                "B": "homogêneos",
-                "C": "regulares",
-                "D": "normativos",
-                "E": "excludentes  \n \n QUESTÃO 34  \nPor meio da Política Nacional de Educação \nEspecial na Perspectiva da Educação Inclusiva, é \npossível compreender alguns aspectos da Lei \n10.436/02, descritos a seguir, afora:  \n(A) Reconhecimento da Língua Brasileira de \nSinais como meio legal de comunicação e \nexpressão.  \n(B) Determinação de formas que \ninstitucionalizem o apoio do uso de Língua de \nSinais e sua difusão.  \n(C) Inclusão da disciplina de Libras como parte \nintegrante do currículo nos cursos de formação \nde professores e fonoaudiologia.  \n(D) A Língua Brasileira de Sinais é reconhecida \ncomo o sistema linguístico de natureza visual -\nmotora com estrutura gramatical compartilhada \ncom a língua oral portuguesa.  \n(E) Reconhecimento que a Língua Brasileira de \nSinais constitui um sistema linguístico de \ntransmissão de ideias e fatos, oriundos de \ncomunidades de pessoas surdas do Brasil."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 22: Qual é a modalidade de Educação Especial \ndescrita por meio da Política Nacional de \nEducação Especial na Perspectiva da Educação \nInclusiva em relação ao ensino compreendido da \nEducação Infantil até a Educação Superior.",
-            "alternativas": {
-                "A": "Universalidade",
-                "B": "Obrigatoriedade",
-                "C": "Transversalidade",
-                "D": "Equanimidade",
-                "E": "Heterogeneidade"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 23: Leia os enunciados a seguir e destaque a \nalternativa em que o tipo de deficiência foi \ndescrito corretamente.",
-            "alternativas": {
-                "A": "Hemiplegia: um dimídio corporal afetado.",
-                "B": "Monoplegia: perda de um membro.",
-                "C": "Tetraplegia: ausência de movimentos dos \nmembros inferiores.",
-                "D": "Triplegia: perda de três membros do corpo.",
-                "E": "Paraplegia: ausência de movimentos dos \nmembros de um hemisfério do corpo (direito ou \nesquerdo).  Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 10 de 14 QUESTÃO 37  \nLeia os enunciados abaixo e assinale V \n(verdadeiro) e F (falso) e marque, \nposteriormente, a alternativa correta.  \n[...] Apenas uma alteração ou distúrbio no \nprocessamento normal da audição de grau \nelevado é considerada como alteração auditiva, \ndeterminando, para o indivíduo, sua \nincapacidade de ouvir e perceber sons.  \n[...] A perda auditiva está relacionada à \ndificuldade na percepção dos sons da fala, \ncomprometendo a sua inteligibilidade e o \nprocesso de comunicação do surdo.  \n[...] É considerado surdo o indivíduo cuja \naudição não é funcional na vida comum.  \n[...] É considerado parcialmente surdo, aquele \ncuja audição depende especificamente da \nutilização do recurso de prótese auditiva com \nobjetivo de amplificação sonora.  \n(A) V, V, V, V  \n(B) F, F, F, F  \n(C) F, V, F, V  \n(D) F, F, V, F  \n(E) F, V, V, F"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 24: Um aluno que apresenta perda auditiva superior \na 90 dB, se enquadra em qual tipo de \nclassificação de deficiência auditiva?",
-            "alternativas": {
-                "A": "Aluno com surdez leve.",
-                "B": "Aluno com surdez moderada.",
-                "C": "Aluno com surdez severa.",
-                "D": "Aluno com surdez profunda.",
-                "E": "Aluno com anacusia.  \n \n \n \n \n \n QUESTÃO 39  \nQual dos conceitos a seguir corresponde ao \nseguinte enunciado: a partir dessa filosofia, \nobserva -se que o surdo deve adquirir a língua de \nsinais, que é natural deles, como língua materna \ne a língua oficial do seu país como a segunda \nlíngua. Os defensores d essa filosofia acreditam \nque os surdos não precisam se assemelhar aos \nouvintes e devem assumir sua surdez, pois \nformam uma comunidade com cultura e língua \npróprias.  \n(A) Oralismo  \n(B) Comunicação Total  \n(C) Bilinguismo  \n(D) Pluralismo linguístico  \n(E) Bimodal"
+                "A": "Leve perda de visão ou próximo da visão normal. (",
+                "B": "Baixa visão moderada. (",
+                "C": "Cegueira total ou amaurose. (",
+                "D": "Grave deficiência visual, baixa visão severa. (",
+                "E": "Baixa visão profunda. Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 11 de 14 QUESTÃO 41 O ensino na Educação Especial compreende diversas especificidades e áreas de atuação como os alunos com Transtornos Globais do Desenvolvimento (TGD). Esses transtornos abrangem os alunos com as condições descritas a seguir, afora: (A) Autismo. (B) Síndrome de Asperger. (C) Síndrome de Rett. (D) Transtorno integrativo da infância. (E) Transtornos globais sem outras especificações (TID -SOE)"
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 25: A avaliação do campo visual, também chamada \ncampimetria, observa a capacidade de resposta \ndo paciente a um estímulo visual nos diversos \npontos do campo de visão de cada olho. \nConsiderando a amplitude do campo visual, \nclassifica -se o nível de deficiência vi sual. Nesse \nsentido, como é classificada uma pessoa que tem \no campo visual 20/200 a 20/400?",
+            "questão": "Questão 42",
+            "enunciado": "Algumas ações corroboram para a consecução de um modelo metodológico inclusivo. Vale ratificar que o papel do professor nesse processo é de grande importância, pois a partir de um olhar atento e reflexivo ele consegue dimensionar as necessidades peculiares de cada aluno. Nessa sistemática, leia as alternativas a seguir e destaque a que traz um erro conceitual. (",
             "alternativas": {
-                "A": "Leve perda de visão ou próximo da visão \nnormal.",
-                "B": "Baixa visão moderada.",
-                "C": "Cegueira total ou amaurose.",
-                "D": "Grave deficiência visual, baixa visão severa.",
-                "E": "Baixa visão profunda.  \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 11 de 14 QUESTÃO 41  \nO ensino na Educação Especial compreende \ndiversas especificidades e áreas de atuação como \nos alunos com Transtornos Globais do \nDesenvolvimento (TGD). Esses transtornos \nabrangem os alunos com as condições descritas a \nseguir, afora:  \n(A) Autismo.  \n(B) Síndrome de Asperger.  \n(C) Síndrome de Rett.  \n(D) Transtorno integrativo da infância.  \n(E) Transtornos globais sem outras \nespecificações (TID -SOE)"
+                "A": "Crianças com lesões cerebrais demandam a adoção de conteúdos de estimulação psicomotora. (",
+                "B": "Crianças que apresentem dificuldades de apreensão de conceitos podem ser beneficiadas com a adoção de uma proposta metodológica pautada em experiências concretas antes de proceder ao estágio abstrato de um determinado conteúdo. (",
+                "C": "Auxílios cinestésicos corroboram para a apreensão de conceitos relativos à percepção dos objetos e textos. (",
+                "D": "No que se refere às atividades de leitura, a leitura silenciosa, por exemplo, deve ser evitada para a criança com grandes dificuldades motoras e de comunicação oral. (",
+                "E": "O uso de quadros de conversação pode ser empregado para a criança que tem grandes dificuldades de desenvolver uma comunicação oral funcional."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 43",
+            "enunciado": "Em relação à orientação metodológica concernente à Educação Especial, observa -se que a Tecnologia Assistiva contribui significativamente para a construção de um ambiente educacional inclusivo. Assim, o Atendimento Educacional Especializado pode fazer uso d as modalidades da Tecnologia Assistiva, visando a realização de tarefas acadêmicas e a adequação do espaço escolar descritas a seguir. No entanto, uma alternativa foi elaborada incorretamente, assinale -a: (",
+            "alternativas": {
+                "A": "Uso de comunicação informal, para atender às necessidades dos educandos com dificuldades de fala e de escrita. (",
+                "B": "Adequação dos materiais didático - pedagógicos às necessidades dos educandos. (",
+                "C": "Desenvolvimento de projetos em parceria com profissionais da arquitetura, técnicos em edificações para promover a acessibilidade arquitetônica. (",
+                "D": "Adequação de recursos de informática. (",
+                "E": "Uso de mobiliário adequado: os professores especializados devem solicitar à Secretaria de Educação, adequações de mobiliário escolar, conforme especificações de especialistas na área: cadeiras de rodas, andadores, outros."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 26: Algumas ações corroboram para a consecução de \num modelo metodológico inclusivo. Vale \nratificar que o papel do professor nesse processo \né de grande importância, pois a partir de um olhar \natento e reflexivo ele consegue dimensionar as \nnecessidades peculiares  de cada aluno. Nessa \nsistemática, leia as alternativas a seguir e \ndestaque a que traz um erro conceitual.",
+            "questão": "Questão 44",
+            "enunciado": "Algumas estratégias pedagógicas voltadas para a condução das atividades direcionadas ao aluno com alterações retinianas (na retina ocular) foram descritas abaixo. Marque a alternativa que foi elaborada de forma equivocada. (",
             "alternativas": {
-                "A": "Crianças com lesões cerebrais demandam a \nadoção de conteúdos de estimulação \npsicomotora.",
-                "B": "Crianças que apresentem dificuldades de \napreensão de conceitos podem ser beneficiadas \ncom a adoção de uma proposta metodológica \npautada em experiências concretas antes de \nproceder ao estágio abstrato de um determinado \nconteúdo.",
-                "C": "Auxílios cinestésicos corroboram para a \napreensão de conceitos relativos à percepção dos \nobjetos e textos.",
-                "D": "No que se refere às atividades de leitura, a \nleitura silenciosa, por exemplo, deve ser evitada \npara a criança com grandes dificuldades motoras \ne de comunicação oral.",
-                "E": "O uso de quadros de conversação pode ser \nempregado para a criança que tem grandes \ndificuldades de desenvolver uma comunicação \noral funcional.  \n QUESTÃO 43  \nEm relação à orientação metodológica \nconcernente à Educação Especial, observa -se que \na Tecnologia Assistiva contribui \nsignificativamente para a construção de um \nambiente educacional inclusivo. Assim, o \nAtendimento Educacional Especializado pode \nfazer uso d as modalidades da Tecnologia \nAssistiva, visando a realização de tarefas \nacadêmicas e a adequação do espaço escolar \ndescritas a seguir. No entanto, uma alternativa foi \nelaborada incorretamente, assinale -a: \n (A) Uso de comunicação informal, para atender \nàs necessidades dos educandos com dificuldades \nde fala e de escrita.  \n(B) Adequação dos materiais didático -\npedagógicos às necessidades dos educandos.  \n(C) Desenvolvimento de projetos em parceria \ncom profissionais da arquitetura, técnicos em \nedificações para promover a acessibilidade \narquitetônica.  \n(D) Adequação de recursos de informática.  \n(E) Uso de mobiliário adequado: os professores \nespecializados devem solicitar à Secretaria de \nEducação, adequações de mobiliário escolar, \nconforme especificações de especialistas na área: \ncadeiras de rodas, andadores, outros."
+                "A": "Motivar o aluno a utilizar de forma comedida o potencial visual decorrente de descolamentos de retina ou em degenerações progressivas. (",
+                "B": "Emprego de recursos de alta iluminação e controle de luz por dimmer. (",
+                "C": "Potencialização de contrastes. (",
+                "D": "Uso de lápis ou canetas fluorescentes. (",
+                "E": "Lentes escurecidas melhoram o funcionamento visual e ajudam nas atividades recreativas. Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 12 de 14 QUESTÃO 45 O desenvolvimento da criança é analisado por meio de diferentes bases teóricas que oportunizam uma visão ampla sobre os aspectos que de alguma forma incidem ao longo desse desenvolvimento. Ao analisar esse desenvolvimento, de acordo com a teoria piagetiana , é falsa a seguinte afirmativa. (A) O conhecimento é considerado com algo inacabado e mutável. (B) Desde o nascimento, o ser humano é marcado em seu desenvolvimento pela ação ativa que possui. Assim, o desenvolvimento é considerado o verdadeiro responsável pela aquisição de conhecimento. (C) O desenvolvimento, enquanto processo, é constituído por estágios, fases ou etapas. (D) Ao longo do desenvolvimento infantil, em face às singularidades de cada indivíduo, os diversos níveis de mudanças ocorrem de forma desordenada e imprevisível. (E) A maneira de pensar da criança é diferente não somente em grau, mas também em classe."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 46",
+            "enunciado": "Leia os enunciados e marque, posteriormente, a resposta concernente. I – Dentro da concepção médica, a língua de sinais é considerada como um verdadeiro sistema linguístico. II – Dentro da concepção socioantropológica da surdez, o indivíduo é considerado 100% capaz de realizar qualquer atividade. III – A concepção médica da surdez preconiza que a pessoa surda não precisa ser avaliada e observada de tempos em tempos para que a sua condição seja tratada, melhorada ou curada. IV – Opções oferecidas pela ciência, como o implante coclear, por exemplo, são bem aceitas pela comunidade surda, por permitir uma maior interação entre os indivíduos. (",
+            "alternativas": {
+                "A": "Todas as asserções são corretas. (",
+                "B": "Todas as asserções são incorretas. (",
+                "C": "Apenas as alternativas I e II são corretas. (",
+                "D": "Apenas as alternativas I, III, IV são incorretas. (",
+                "E": "Apenas as alternativas I e III são incorretas."
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 27: Algumas estratégias pedagógicas voltadas para a \ncondução das atividades direcionadas ao aluno \ncom alterações retinianas (na retina ocular) \nforam descritas abaixo. Marque a alternativa que \nfoi elaborada de forma equivocada.",
+            "questão": "Questão 47",
+            "enunciado": "Em conformidade com a Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva, é possível compreender a natureza dos aspectos que definem a deficiência a partir de impedimentos de longo prazo que são decorrentes das variáveis descritas a seguir. Destaque a alternativa que não é mencionada pelo texto que aborda a questão explicitada. (",
             "alternativas": {
-                "A": "Motivar o aluno a utilizar de forma comedida \no potencial visual decorrente de descolamentos \nde retina ou em degenerações progressivas.",
-                "B": "Emprego de recursos de alta iluminação e \ncontrole de luz por dimmer.",
-                "C": "Potencialização de contrastes.",
-                "D": "Uso de lápis ou canetas fluorescentes.",
-                "E": "Lentes escurecidas melhoram o \nfuncionamento visual e ajudam nas atividades \nrecreativas.  Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 12 de 14 QUESTÃO 45  \nO desenvolvimento da criança é analisado por \nmeio de diferentes bases teóricas que \noportunizam uma visão ampla sobre os aspectos \nque de alguma forma incidem ao longo desse \ndesenvolvimento. Ao analisar esse \ndesenvolvimento, de acordo com a teoria \npiagetiana , é falsa a seguinte afirmativa.  \n(A) O conhecimento é considerado com algo \ninacabado e mutável.  \n(B) Desde o nascimento, o ser humano é marcado \nem seu desenvolvimento pela ação ativa que \npossui. Assim, o desenvolvimento é considerado \no verdadeiro responsável pela aquisição de \nconhecimento.  \n(C) O desenvolvimento, enquanto processo, é \nconstituído por estágios, fases ou etapas.  \n(D) Ao longo do desenvolvimento infantil, em \nface às singularidades de cada indivíduo, os \ndiversos níveis de mudanças ocorrem de forma \ndesordenada e imprevisível.  \n(E) A maneira de pensar da criança é diferente \nnão somente em grau, mas também em classe."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 28: Leia os enunciados e marque, posteriormente, a \nresposta concernente.  \nI – Dentro da concepção médica, a língua de \nsinais é considerada como um verdadeiro sistema \nlinguístico.  \nII – Dentro da concepção socioantropológica da \nsurdez, o indivíduo é considerado 100% capaz de \nrealizar qualquer atividade.  \nIII – A concepção médica da surdez preconiza \nque a pessoa surda não precisa ser avaliada e \nobservada de tempos em tempos para que a sua \ncondição seja tratada, melhorada ou curada.  \nIV – Opções oferecidas pela ciência, como o \nimplante coclear, por exemplo, são bem aceitas \npela comunidade surda, por permitir uma maior \ninteração entre os indivíduos.",
-            "alternativas": {
-                "A": "Todas as asserções são corretas.",
-                "B": "Todas as asserções são incorretas.",
-                "C": "Apenas as alternativas I e II são corretas.",
-                "D": "Apenas as alternativas I, III, IV são \nincorretas.",
-                "E": "Apenas as alternativas I e III são incorretas.  \n QUESTÃO 47  \nEm conformidade com a Política Nacional de \nEducação Especial na Perspectiva da Educação \nInclusiva, é possível compreender a natureza dos \naspectos que definem a deficiência a partir de \nimpedimentos de longo prazo que são \ndecorrentes das variáveis descritas a seguir. \nDestaque a alternativa que não é mencionada \npelo texto que aborda a questão explicitada.  \n(A) física  \n(B) mental  \n(C) intelectual  \n(D) comunicacional  \n(E) sensorial"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 29: Ao analisar o desenvolvimento da criança \ntomando por parâmetro os planos genéticos de \ndesenvolvimento, destaque a alternativa que \ncondiz com as seguintes especificidades: “trata -\nse da história evolutiva da espécie humana, em \nque uma das características retratada é a \nplasticidade do cérebro que pode ser \ncompreendida como a capacidade que o homem \npossui de superar as circunstâncias presentes no \nmeio em que se encontra inserido, adaptando -se \na elas”.",
-            "alternativas": {
-                "A": "Sociogênese",
-                "B": "Microgênese",
-                "C": "Filogênese",
-                "D": "Ontogênese",
-                "E": "Psicogênese  \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 13 de 14 QUESTÃO 49  \nComplete o excerto a seguir, extraído das \nDiretrizes Nacionais para a Educação Especial na \nEducação Básica:  \n“Tanto o currículo como a avaliação devem ser \n_____________, buscando meios úteis e práticos \npara favorecer: o desenvolvimento das \ncompetências sociais; o acesso ao conhecimento, \nà cultura e às formas de trabalho valorizadas pela \ncomunidade; e a inclusão d o aluno na \nsociedade”.  \n(A) funcionais  \n(B) diversificados  \n(C) adaptados  \n(D) integradores  \n(E) individualizados"
+                "A": "física (",
+                "B": "mental (",
+                "C": "intelectual (",
+                "D": "comunicacional (",
+                "E": "sensorial"
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 30: Dentro da Educação Especial, o que significa \nterminalidade específica?",
+            "questão": "Questão 48",
+            "enunciado": "Ao analisar o desenvolvimento da criança tomando por parâmetro os planos genéticos de desenvolvimento, destaque a alternativa que condiz com as seguintes especificidades: “trata - se da história evolutiva da espécie humana, em que uma das características retratada é a plasticidade do cérebro que pode ser compreendida como a capacidade que o homem possui de superar as circunstâncias presentes no meio em que se encontra inserido, adaptando -se a elas”. (",
             "alternativas": {
-                "A": "Nomenclatura atribuída aos educandos com \nnecessidades especiais.",
-                "B": "Certificação de conclusão de escolaridade.",
-                "C": "Controle de frequência.",
-                "D": "Proposta curricular da Educação Especial.",
-                "E": "Portfólio do aluno com necessidades \nespeciais.  \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura  Municipal de São Miguel Arcanjo  – SP – Concurso Público  01/2023                 INSTITUTO AVANÇA SÃO PAULO  \n \nPROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA                                                        Página 14 de 14"
+                "A": "Sociogênese (",
+                "B": "Microgênese (",
+                "C": "Filogênese (",
+                "D": "Ontogênese (",
+                "E": "Psicogênese Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 13 de 14 QUESTÃO 49 Complete o excerto a seguir, extraído das Diretrizes Nacionais para a Educação Especial na Educação Básica: “Tanto o currículo como a avaliação devem ser _____________, buscando meios úteis e práticos para favorecer: o desenvolvimento das competências sociais; o acesso ao conhecimento, à cultura e às formas de trabalho valorizadas pela comunidade; e a inclusão d o aluno na sociedade”. (A) funcionais (B) diversificados (C) adaptados (D) integradores (E) individualizados"
             },
             "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE CLASSE ESPECIAL \nPORTADOR DE DEFICIÊNCIA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 50",
+            "enunciado": "Dentro da Educação Especial, o que significa terminalidade específica? (",
+            "alternativas": {
+                "A": "Nomenclatura atribuída aos educandos com necessidades especiais. (",
+                "B": "Certificação de conclusão de escolaridade. (",
+                "C": "Controle de frequência. (",
+                "D": "Proposta curricular da Educação Especial. (",
+                "E": "Portfólio do aluno com necessidades especiais. Prefeitura Municipal de São Miguel Arcanjo – SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO PROFESSOR DE CLASSE ESPECIAL PORTADOR DE DEFICIÊNCIA Página 14 de 14"
+            },
+            "resposta_correta": "B"
         }
     ]
 }

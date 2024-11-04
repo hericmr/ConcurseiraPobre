@@ -4,13 +4,14 @@
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: De acordo com as informações presentes na \nreportagem, assinale a alternativa que apresenta \numa análise INCORRETA .",
+            "questão": "Questão 1",
+            "enunciado": "De acordo com as informações presentes na reportagem, assinale a alternativa que apresenta uma análise INCORRETA . (",
             "alternativas": {
-                "A": "As penas podem explicar o porquê os \nancestrais dos pássaros modernos sobreviveram a \nextinção.",
-                "B": "Não há uma razão específica para as aves da \ncoroa terem sobrevivido.",
-                "C": "Pássaros com mudas simultâneas passam \nmenos tempo no processo de muda e têm menos \nchances de morrer durante esse período.",
-                "D": "A muda consome pouca energia e pode \nfacilitar para o pássaro se manter aquecido.",
-                "E": "Mudas simultâneas são aquelas em que todas \nas penas de voo caem ao mesmo tempo."
+                "A": "As penas podem explicar o porquê os ancestrais dos pássaros modernos sobreviveram a extinção. (",
+                "B": "Não há uma razão específica para as aves da coroa terem sobrevivido. (",
+                "C": "Pássaros com mudas simultâneas passam menos tempo no processo de muda e têm menos chances de morrer durante esse período. (",
+                "D": "A muda consome pouca energia e pode facilitar para o pássaro se manter aquecido. (",
+                "E": "Mudas simultâneas são aquelas em que todas as penas de voo caem ao mesmo tempo."
             },
             "resposta_correta": "D"
         },
@@ -18,13 +19,14 @@
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: De acordo com o texto, assinale a alternativa que \nexplica o sentido correto do termo “ altriciais ”.",
+            "questão": "Questão 2",
+            "enunciado": "De acordo com o texto, assinale a alternativa que explica o sentido correto do termo “ altriciais ”. (",
             "alternativas": {
-                "A": "“(...) estruturas complexas que não podem ser \nreparadas”.",
-                "B": "“(...) pássaros pré -históricos e dinossauros \nemplumados”.",
-                "C": "“(.. .) que nascem com penas e são bastante \nautossuficientes”.",
-                "D": "“(...) peles de aves modernas armazenadas na \ncoleção de ornitologia do Museu Field”.",
-                "E": "“(...) que nascem nuas e indefesas incapazes \nde se movimentar, alimentar e termorregular”.  \n \n \n \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE FUNERÁRIO                                                                                                                                  Página 4 de 11 QUESTÃO 03 \nDe acordo com o texto, no trecho “(...) estruturas \ncomplexas, que não podem ser reparadas”, refere -\nse: \n(A) As aves precociais. \n(B) As mudas simultâneas. \n(C) As penas dos pássaros. \n(D) Ao grupo de dinossauros. \n(E) As aves pré-históricas."
+                "A": "“(...) estruturas complexas que não podem ser reparadas”. (",
+                "B": "“(...) pássaros pré -históricos e dinossauros emplumados”. (",
+                "C": "“(.. .) que nascem com penas e são bastante autossuficientes”. (",
+                "D": "“(...) peles de aves modernas armazenadas na coleção de ornitologia do Museu Field”. (",
+                "E": "“(...) que nascem nuas e indefesas incapazes de se movimentar, alimentar e termorregular”. Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO AGENTE FUNERÁRIO Página 4 de 11 QUESTÃO 03 De acordo com o texto, no trecho “(...) estruturas complexas, que não podem ser reparadas”, refere - se: (A) As aves precociais. (B) As mudas simultâneas. (C) As penas dos pássaros. (D) Ao grupo de dinossauros. (E) As aves pré-históricas."
             },
             "resposta_correta": "E"
         },
@@ -32,27 +34,29 @@
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 3: De acordo com o texto, assinale a alternativa que \nindica corretamente o fator que permite as aves \nmodernas continuarem voando durante o \nprocesso de muda.",
+            "questão": "Questão 4",
+            "enunciado": "De acordo com o texto, assinale a alternativa que indica corretamente o fator que permite as aves modernas continuarem voando durante o processo de muda. (",
             "alternativas": {
-                "A": "A substituição de apenas algumas penas por \nvez.",
-                "B": "O fato de todas as penas caírem ao mesmo \ntempo.",
-                "C": "O fato das aves não terem demandas de \nenergia suficientes para se manterem aquecidas.",
-                "D": "O fato de terem sobrevivido à extinção em \nmassa.",
-                "E": "As temperaturas globais terem despencados e \nos recursos terem se tornado escassos."
+                "A": "A substituição de apenas algumas penas por vez. (",
+                "B": "O fato de todas as penas caírem ao mesmo tempo. (",
+                "C": "O fato das aves não terem demandas de energia suficientes para se manterem aquecidas. (",
+                "D": "O fato de terem sobrevivido à extinção em massa. (",
+                "E": "As temperaturas globais terem despencados e os recursos terem se tornado escassos."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 4: De acordo com a informação presente no texto, a \nevidência fossilizada de uma espécie de pássaro \nrevela:",
+            "questão": "Questão 5",
+            "enunciado": "De acordo com a informação presente no texto, a evidência fossilizada de uma espécie de pássaro revela: (",
             "alternativas": {
-                "A": "Que é inverídica a informação de que os \ndinossauros existiram.",
-                "B": "Que a muda simultânea foi um fator \ndeterminante em sua extinção.",
-                "C": "Características distintas das encontradas nas \naves modernas.",
-                "D": "A existência de 600 peles de aves modernas.",
-                "E": "Dinossauros que morreram a 66 milhões de \nanos. \n QUESTÃO 06 \nNo trecho, “(...) o espécime do âmbar quanto o \nestudo da muda em pássaros modernos apontam \npara um tema comum”, assinale a alternativa que \nindica corretamente a classe de palavras que o \ntermo “ espécime ” pertence.  \n(A) Advérbio \n(B) Adjetivo \n(C) Conjunção \n(D) Substantivo \n(E) Verbo"
+                "A": "Que é inverídica a informação de que os dinossauros existiram. (",
+                "B": "Que a muda simultânea foi um fator determinante em sua extinção. (",
+                "C": "Características distintas das encontradas nas aves modernas. (",
+                "D": "A existência de 600 peles de aves modernas. (",
+                "E": "Dinossauros que morreram a 66 milhões de anos."
             },
             "resposta_correta": "C"
         },
@@ -60,41 +64,134 @@
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 5: No trecho, “(...) pássaros pré -históricos e \ndinossauros emplumados, especialmente aqueles \nde grupos que não sobreviveram à extinção em \nmassa”, assinale a alternativa que apresenta \ncorretamente um sinônimo para o termo “ pré-\nhistóricos ”.",
+            "questão": "Questão 6",
+            "enunciado": "No trecho, “(...) o espécime do âmbar quanto o estudo da muda em pássaros modernos apontam para um tema comum”, assinale a alternativa que indica corretamente a classe de palavras que o termo “ espécime ” pertence. (",
             "alternativas": {
-                "A": "Arcaicos",
-                "B": "Contemporâneos",
-                "C": "Atuais",
-                "D": "Hodiernos",
+                "A": "Advérbio (",
+                "B": "Adjetivo (",
+                "C": "Conjunção (",
+                "D": "Substantivo (",
+                "E": "Verbo"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 7",
+            "enunciado": "No trecho, “(...) pássaros pré -históricos e dinossauros emplumados, especialmente aqueles de grupos que não sobreviveram à extinção em massa”, assinale a alternativa que apresenta corretamente um sinônimo para o termo “ pré- históricos ”. (",
+            "alternativas": {
+                "A": "Arcaicos (",
+                "B": "Contemporâneos (",
+                "C": "Atuais (",
+                "D": "Hodiernos (",
                 "E": "Nupérrimos"
             },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8",
+            "enunciado": "No trecho, “Desse modo, essas aves não apenas teriam demandas de energia ainda maiores para se manterem aquecidas, mas também não teriam os recursos para atendê- las”, o pronome que acompanha o verbo “ atender ” se refere a: (",
+            "alternativas": {
+                "A": "Aquecidas (",
+                "B": "Demandas (",
+                "C": "Aves (",
+                "D": "Recursos (",
+                "E": "Maiores Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO AGENTE FUNERÁRIO Página 5 de 11 QUESTÃO 09 No trecho, “Dois estudos recentes, liderados pela paleontóloga Jingmai O'Connor, do Museum Field de Chicago, nos Estados Unidos, trazem novas perspectivas sobre esse processo e suas implicações na evolução das aves”, assinale a alternativa que indica corretamente um antônimo para o termo “ evolução ”. (A) Implicação (B) Retrocesso (C) Possessão (D) Progressão (E) Ascensão"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 10",
+            "enunciado": "No trecho, “Os filhotes perdem suas penas e as trocam por versões de adultos; já os mais velhos renovam sua cobertura corporal uma vez ao ano”, verificamos o emprego de ‘ponto -e-vírgula’ (;). Assinale a alternativa que indica corretamente a função da pontuação no excerto acima. (",
+            "alternativas": {
+                "A": "A pontuação foi utilizada para introduzir uma indagação ao leitor. (",
+                "B": "A pontuação foi utilizada para finalizar orações completas e que não se relacionam. (",
+                "C": "A pontuação foi utilizada para separar sujeito e predicado. (",
+                "D": "A pontuação foi utilizada para sinalizar uma pausa menor entre orações que não se relacionam. (",
+                "E": "A pontuação foi utilizada para sinalizar pausa longa e dividir ideias que se relacionam."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 11",
+            "enunciado": "Leia a tirinha a seguir. WATTERSON, Bill. “Calvin e Haroldo”. Acervo Estadão. Disponível em:<https://www.estadao.com.br/acervo>. De acordo com as imagens e as falas dos personagens apresentados na tirinha “Calvin e Haroldo”, podemos inferir corretamente que: (",
+            "alternativas": {
+                "A": "Calvin (personagem garoto) acredita em astrologia, enquanto Haroldo é cético em relação a isso. (",
+                "B": "Calvin (personagem garoto) correlaciona a resposta de Haroldo (personagem tigre) e a ideia de paraíso. (",
+                "C": "Haroldo (personagem tigre) está preocupado com a vida pós-morte, e responde de forma profunda. (",
+                "D": "O diálogo entre os personagens deixa claro a posição ateísta deles. (",
+                "E": "Haroldo (personagem tigre) está preocupado com os rótulos e definições dados a vida pós- morte. Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO AGENTE FUNERÁRIO Página 6 de 11 QUESTÃO 12 No segundo quadro da tirinha não há balões de diáogo entre os personagens, de maneira que a comunicação se dá por outros elementos visuais e contextuais presentes na cena. Assinale a alternativa que indica corretamente o motivo do emprego desse recurso no quadrinho. (A) Para comunicar ao leitor que os personagens estão refletindo, já que na sequência dos quadros com a progressão do diálogo fica explícita. (B) Para comunicar ao leitor que o personagem não quis responder a indagação feita no quadro anterior. (C) Para não poluir visualmente o quadro com diálogos entre os personagens da tirinha. (D) Para comunicar o leitor que houve um erro na confecção da tirinha. (E) Para representar sons e ruídos, acrescentando dinamismo à cena com o uso de onomatopéias."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13",
+            "enunciado": "No trecho “Haroldo, o que você acha que acontece quando a gente morre?”, assinale a alternativa que justifica corretamente o emprego da vírgula. (",
+            "alternativas": {
+                "A": "A vírgula foi utilizada para deixar o texto visualmente objetivo. (",
+                "B": "A vírgula foi utilizada para separar o vocativo do restante da oração. (",
+                "C": "A vírgula foi utilizada para destacar com quem o personagem está conversando. (",
+                "D": "A vírgula foi utilizada para dar ênfase a afirmação feita pelo personagem. (",
+                "E": "A vírgula foi utilizada para marcar a fala do personagem."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14",
+            "enunciado": "No trecho “Haroldo, o que você acha que acontece quando a gente morre?”, assinale a alternativa que indica corretamente o a flexão verbal do verbo “ morrer ” presente no diálogo. (",
+            "alternativas": {
+                "A": "Futuro do pretérito do indicativo (",
+                "B": "Presente do subjuntivo (",
+                "C": "Presente do indicativo (",
+                "D": "Futuro do subjuntivo (",
+                "E": "Futuro do presente do indicativo"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15",
+            "enunciado": "De acordo com a norma culta da língua portuguesa, assinale a alternativa que apresenta corretamente um substantivo coletivo. (",
+            "alternativas": {
+                "A": "Quebra-cabeça (",
+                "B": "Planalto (",
+                "C": "Girassóis (",
+                "D": "Panapaná (",
+                "E": "Netuno"
+            },
             "resposta_correta": "D"
         },
         {
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 6: No trecho, “Desse modo, essas aves não apenas \nteriam demandas de energia ainda maiores para se \nmanterem aquecidas, mas também não teriam os \nrecursos para atendê- las”, o pronome que \nacompanha o verbo “ atender ” se refere a:",
+            "questão": "Questão 16",
+            "enunciado": "De acordo com a norma culta da língua portuguesa, assinale a alternativa que apresenta corretamente um advérbio de modo. (",
             "alternativas": {
-                "A": "Aquecidas",
-                "B": "Demandas",
-                "C": "Aves",
-                "D": "Recursos",
-                "E": "Maiores \n \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE FUNERÁRIO                                                                                                                                  Página 5 de 11 QUESTÃO 09 \nNo trecho, “Dois estudos recentes, liderados pela \npaleontóloga Jingmai O'Connor, do Museum \nField  de Chicago, nos Estados Unidos, trazem \nnovas perspectivas sobre esse processo e suas \nimplicações na evolução das aves”, assinale a \nalternativa que indica corretamente um antônimo \npara o termo “ evolução ”. \n(A) Implicação \n(B) Retrocesso \n(C) Possessão \n(D) Progressão \n(E) Ascensão"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 7: No trecho, “Os filhotes perdem suas penas e as \ntrocam por versões de adultos; já os mais velhos \nrenovam sua cobertura corporal uma vez ao ano”, \nverificamos o emprego de ‘ponto -e-vírgula’ (;). \nAssinale a alternativa que indica corretamente a \nfunção da pontuação no excerto acima.",
-            "alternativas": {
-                "A": "A pontuação foi utilizada para introduzir uma \nindagação ao leitor.",
-                "B": "A pontuação foi utilizada para finalizar \norações completas e que não se relacionam.",
-                "C": "A pontuação foi utilizada para separar sujeito \ne predicado.",
-                "D": "A pontuação foi utilizada para sinalizar uma \npausa menor entre orações que não se relacionam.",
-                "E": "A pontuação foi utilizada para sinalizar pausa \nlonga e dividir ideias que se relacionam. \n \n \n \n \n \n QUESTÃO 11 \nLeia a tirinha a seguir. \n \n \nWATTERSON, Bill. “Calvin e Haroldo”. Acervo Estadão. \nDisponível em:<https://www.estadao.com.br/acervo>.  \n \nDe acordo com as imagens e as falas dos \npersonagens apresentados na tirinha “Calvin e \nHaroldo”, podemos inferir corretamente que:  \n(A) Calvin (personagem garoto) acredita em \nastrologia, enquanto Haroldo é cético em relação \na isso. \n(B) Calvin (personagem garoto) correlaciona a \nresposta de Haroldo (personagem tigre) e a ideia \nde paraíso. \n(C) Haroldo (personagem tigre) está preocupado \ncom a vida pós-morte, e responde de forma \nprofunda. \n(D) O diálogo entre os personagens deixa claro a \nposição ateísta deles. \n(E) Haroldo (personagem tigre) está preocupado \ncom os rótulos e definições dados a vida pós-\nmorte. \n \n \nPrefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE FUNERÁRIO                                                                                                                                  Página 6 de 11 QUESTÃO 12 \nNo segundo quadro da tirinha não há balões de \ndiáogo entre os personagens, de maneira que a \ncomunicação se dá por outros elementos visuais e \ncontextuais presentes na cena. Assinale a \nalternativa que indica corretamente o motivo do \nemprego desse recurso no quadrinho.  \n(A)  Para comunicar ao leitor que os personagens \nestão refletindo, já que na sequência dos quadros \ncom a progressão do diálogo fica explícita. \n(B) Para comunicar ao leitor que o personagem \nnão quis responder a indagação feita no quadro \nanterior. \n(C) Para não poluir visualmente o quadro com \ndiálogos entre os personagens da tirinha. \n(D) Para comunicar o leitor que houve um erro na \nconfecção da tirinha. \n(E) Para representar sons e ruídos, acrescentando \ndinamismo à cena com o uso de onomatopéias."
+                "A": "Porventura (",
+                "B": "Fielmente (",
+                "C": "Bastante (",
+                "D": "Nunca (",
+                "E": "Cedo Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO AGENTE FUNERÁRIO Página 7 de 11 QUESTÃO 17 De acordo com a norma culta da língua portuguesa, assinale a alternativa que apresenta corretamente uma frase que apresenta um adjetivo. (A) Eles nunca brigaram. (B) Suspirando pela chegada das parcas gotas. (C) Zeca, quem escreveu isso? (D) Qual será o nosso destino? (E) Esbravejando seu nome pela cidade."
             },
             "resposta_correta": "B"
         },
@@ -102,223 +199,104 @@
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 8: No trecho “Haroldo, o que você  acha que \nacontece quando a gente morre?”, assinale a \nalternativa que justifica corretamente o emprego \nda vírgula.",
+            "questão": "Questão 18",
+            "enunciado": "De acordo com a norma da língua portuguesa, assinale a alternativa que apresenta corretamente uma frase que apresenta uma conjunção adversativa. (",
             "alternativas": {
-                "A": "A vírgula foi utilizada para deixar o texto \nvisualmente objetivo.",
-                "B": "A vírgula foi utilizada para separar o vocativo \ndo restante da oração.",
-                "C": "A vírgula foi utilizada para destacar com \nquem o personagem está conversando.",
-                "D": "A vírgula foi utilizada para dar ênfase a \nafirmação feita pelo personagem.",
-                "E": "A vírgula foi utilizada para marcar a fala do \npersonagem. \n \n \n \n \n QUESTÃO 14 \nNo trecho “Haroldo, o que você  acha que \nacontece quando a gente morre?”, assinale a \nalternativa que indica corretamente o a flexão \nverbal do verbo “ morrer ” presente  no diálogo. \n(A) Futuro do pretérito do indicativo \n(B) Presente do subjuntivo \n(C) Presente do indicativo \n(D) Futuro do subjuntivo \n(E) Futuro do presente do indicativo"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 9: De acordo com a norma culta da língua \nportuguesa, assinale a alternativa que apresenta \ncorretamente um substantivo coletivo.",
-            "alternativas": {
-                "A": "Quebra-cabeça",
-                "B": "Planalto",
-                "C": "Girassóis",
-                "D": "Panapaná",
-                "E": "Netuno"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 10: De acordo com a norma culta da língua \nportuguesa, assinale a alternativa que apresenta \ncorretamente um advérbio de modo.",
-            "alternativas": {
-                "A": "Porventura",
-                "B": "Fielmente",
-                "C": "Bastante",
-                "D": "Nunca",
-                "E": "Cedo \n \n \n \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE FUNERÁRIO                                                                                                                                  Página 7 de 11 QUESTÃO 17 \nDe acordo com a norma culta da língua \nportuguesa, assinale a alternativa que apresenta \ncorretamente uma frase que apresenta um \nadjetivo. \n(A) Eles nunca brigaram. \n(B) Suspirando pela chegada das parcas gotas. \n(C) Zeca, quem escreveu isso? \n(D) Qual será o nosso destino? \n(E) Esbravejando seu nome pela cidade."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 11: De acordo com a norma da língua portuguesa, \nassinale a alternativa que apresenta corretamente \numa frase que apresenta uma conjunção \nadversativa.",
-            "alternativas": {
-                "A": "Não ligou, nem mandou mensagem.",
-                "B": "Ou quer lasanha, ou quer brigadeiros.",
-                "C": "Não vou comprar os ingressos porque ganhei \nde titia.",
-                "D": "Gosto de filmes, mas prefiro as séries.",
+                "A": "Não ligou, nem mandou mensagem. (",
+                "B": "Ou quer lasanha, ou quer brigadeiros. (",
+                "C": "Não vou comprar os ingressos porque ganhei de titia. (",
+                "D": "Gosto de filmes, mas prefiro as séries. (",
                 "E": "Chorei, contudo, tive êxito no final."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "E"
         },
         {
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 12: De acordo com a norma culta da língua \nportuguesa, assinale a alternativa que apresenta \ncorretamente um substantivo composto.",
+            "questão": "Questão 19",
+            "enunciado": "De acordo com a norma culta da língua portuguesa, assinale a alternativa que apresenta corretamente um substantivo composto. (",
             "alternativas": {
-                "A": "Estepes",
-                "B": "Alcateia",
-                "C": "Manada",
-                "D": "Pipa",
-                "E": "Passatempo \n \n \n \n \n QUESTÃO 20 \nDe acordo com a norma culta da língua \nportuguesa, assinale a alternativa que apresenta \ncorretamente o uso da crase. \n(A) Refiro-me à ele. \n(B) Rindo com às pessoas da plateia.  \n(C) Fui à Paris na França. \n(D) Vou à escola no próximo mês. \n(E) Jogou bola para à sua vovó. \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+                "A": "Estepes (",
+                "B": "Alcateia (",
+                "C": "Manada (",
+                "D": "Pipa (",
+                "E": "Passatempo"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "E"
         },
         {
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 13: Assinale a alternativa que apresenta o sétimo \nnúmero ímpar antecessor de 313:",
+            "questão": "Questão 20",
+            "enunciado": "De acordo com a norma culta da língua portuguesa, assinale a alternativa que apresenta corretamente o uso da crase. (",
             "alternativas": {
-                "A": "311",
-                "B": "309",
-                "C": "299",
-                "D": "297",
+                "A": "Refiro-me à ele. (",
+                "B": "Rindo com às pessoas da plateia. (",
+                "C": "Fui à Paris na França. (",
+                "D": "Vou à escola no próximo mês. (",
+                "E": "Jogou bola para à sua vovó. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21",
+            "enunciado": "Assinale a alternativa que apresenta o sétimo número ímpar antecessor de 313: (",
+            "alternativas": {
+                "A": "311 (",
+                "B": "309 (",
+                "C": "299 (",
+                "D": "297 (",
                 "E": "301"
             },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 14: Qual é o resultado da seguinte operação: 27,3 x 9 \n- 16?",
-            "alternativas": {
-                "A": "229,7",
-                "B": "230",
-                "C": "231,7",
-                "D": "228,3",
-                "E": "218,3 \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE FUNERÁRIO                                                                                                                                  Página 8 de 11 QUESTÃO 23 \nAssinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n17 x 3 x 14,3 \n(A) 729,3 \n(B) 730,6 \n(C) 731,2 \n(D) 814 \n(E) 726,3"
-            },
             "resposta_correta": "C"
         },
         {
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 15: Assinale a alternativa que apresenta corretamente \no resultado para a seguinte operação com \nnúmeros decimais:  \n47,2 x 6,7",
+            "questão": "Questão 22",
+            "enunciado": "Qual é o resultado da seguinte operação: 27,3 x 9 - 16? (",
             "alternativas": {
-                "A": "314,24",
-                "B": "312,14",
-                "C": "316,24",
-                "D": "284,56",
+                "A": "229,7 (",
+                "B": "230 (",
+                "C": "231,7 (",
+                "D": "228,3 (",
+                "E": "218,3 Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO AGENTE FUNERÁRIO Página 8 de 11 QUESTÃO 23 Assinale a alternativa que apresenta o resultado para a seguinte operação de multiplicação: 17 x 3 x 14,3 (A) 729,3 (B) 730,6 (C) 731,2 (D) 814 (E) 726,3"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 24",
+            "enunciado": "Assinale a alternativa que apresenta corretamente o resultado para a seguinte operação com números decimais: 47,2 x 6,7 (",
+            "alternativas": {
+                "A": "314,24 (",
+                "B": "312,14 (",
+                "C": "316,24 (",
+                "D": "284,56 (",
                 "E": "465,84"
             },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 16: Uma loja de eletrônicos vende, em média, 25 \nsmartphones por dia e, também, 15 tablets por \ndia. Se a loja funcionar durante 6 dias em uma \nsemana, quantos dispositivos (smartphones e \ntablets) serão vendidos nesse período?",
-            "alternativas": {
-                "A": "210",
-                "B": "240",
-                "C": "330",
-                "D": "360",
-                "E": "450 \n \n \n QUESTÃO 26 \nUma loja de carros oferece uma promoção de \n20% de desconto em todas as peças. Se um carro \ncusta R$30.000,00 sem o desconto, qual será o \npreço do carro com o desconto aplicado? \n \n(A) R$ 25.000,00 \n(B) R$ 26.000,00 \n(C) R$ 28.000,00 \n(D) R$ 29.000,00 \n(E) R$ 24.000,00"
-            },
             "resposta_correta": "C"
         },
         {
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 17: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n37 + 74 x 63",
+            "questão": "Questão 25",
+            "enunciado": "Uma loja de eletrônicos vende, em média, 25 smartphones por dia e, também, 15 tablets por dia. Se a loja funcionar durante 6 dias em uma semana, quantos dispositivos (smartphones e tablets) serão vendidos nesse período? (",
             "alternativas": {
-                "A": "4705",
-                "B": "4335",
-                "C": "4663",
-                "D": "4633",
-                "E": "4699"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 18: Um cinema tem uma capacidade de 400 lugares. \nSe eles venderam ingressos para 80% dessa \ncapacidade em um dia, quantos ingressos foram \nvendidos?",
-            "alternativas": {
-                "A": "240 ingressos",
-                "B": "280 ingressos",
-                "C": "320 ingressos",
-                "D": "360 ingressos",
-                "E": "400 ingressos \n \n \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE FUNERÁRIO                                                                                                                                  Página 9 de 11 QUESTÃO 29 \nUma empresa fabrica, em média, 60 peças de \nroupa por semana. Para a fabricação de cada \npeça, são utilizados 4 metros de tecido. Se a \nfábrica funcionar durante 4 semanas em um mês, \nquantos metros de tecido serão usados nesse \nperíodo? \n(A) 800 \n(B) 960 \n(C) 1200 \n(D) 1440 \n(E) 1800"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 19: Assinale a alternativa que apresenta o oitavo \nnúmero par antecessor de 582:",
-            "alternativas": {
-                "A": "568",
-                "B": "570",
-                "C": "572",
-                "D": "574",
-                "E": "566"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 20: Uma loja vende três tipos de bolos: chocolate, \nbaunilha e morango. No último mês, vendeu 20 \nbolos de chocolate, 15 bolos de baunilha e 25 \nbolos de morango. Se o preço de cada bolo de \nchocolate é R$ 4,50, cada bolo de baunilha é R$ \n3,80 e cada bolo de morango é R$ 5,20, quanto a \nloja arrecadou no total?",
-            "alternativas": {
-                "A": "R$ 118,50",
-                "B": "R$ 277,00",
-                "C": "R$ 158,50",
-                "D": "R$ 265,50",
-                "E": "R$ 289,50 \n \n \n \n \n QUESTÃO 32 \nUm time de futebol venceu 12 partidas e empatou \n5 partidas em um campeonato. Quantos pontos \nesse time conquistou no total, considerando que \ncada vitória vale 3 pontos e cada empate vale 1 \nponto? \n(A) 27 pontos \n(B) 34 pontos \n(C) 39 pontos \n(D) 41 pontos \n(E) 45 pontos"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 21: João encontrou um cofrinho contendo somente \nmoedas de R$ 0,25. Se ele possui 80 moedas no \ntotal, qual o valor total que João encontrou no \ncofrinho?",
-            "alternativas": {
-                "A": "R$ 15,00",
-                "B": "R$ 20,00",
-                "C": "R$ 25,00",
-                "D": "R$ 30,00",
-                "E": "R$ 35,00"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 22: Um agricultor plantou 3 fileiras de alfaces em seu \ncanteiro, cada fileira com 5 mudas. Se cada muda \nde alface pode produzir 8 folhas, quantas folhas \nde alface o agricultor terá no total?",
-            "alternativas": {
-                "A": "112 folhas",
-                "B": "115 folhas",
-                "C": "118 folhas",
-                "D": "120 folhas",
-                "E": "124 folhas \n \n \n \n \n \n \n \n Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE FUNERÁRIO                                                                                                                                  Página 10 de 11 QUESTÃO 35 \nUma fazenda tem 60 vacas e 45 ovelhas. Se cada \nvaca produz 8 litros de leite por dia e cada ovelha \nproduz 2 litros de leite por dia, quantos litros de \nleite a fazenda produzirá em um dia? \n \n(A) 480 litros \n(B) 720 litros \n(C) 570 litros \n(D) 90 litros \n(E) 4100 litros"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "AGENTE FUNERÁRIO",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2023",
-            "questão": "Questão 23: Em uma cidade, o preço da gasolina subiu 15%. \nSe o preço anterior era R$ 4,00 por litro, qual é o \nnovo preço da gasolina?",
-            "alternativas": {
-                "A": "R$ 4,15 por litro",
-                "B": "R$ 4,30 por litro",
-                "C": "R$ 4,50 por litro",
-                "D": "R$ 4,60 por litro",
-                "E": "R$ 4,75 por litro"
+                "A": "210 (",
+                "B": "240 (",
+                "C": "330 (",
+                "D": "360 (",
+                "E": "450"
             },
             "resposta_correta": "B"
         },
@@ -326,12 +304,148 @@
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 24: Em um concurso público, 30% dos candidatos \nforam aprovados. Se 600 candidatos fizeram a \nprova, quantos foram aprovados?",
+            "questão": "Questão 26",
+            "enunciado": "Uma loja de carros oferece uma promoção de 20% de desconto em todas as peças. Se um carro custa R$30.000,00 sem o desconto, qual será o preço do carro com o desconto aplicado? (",
             "alternativas": {
-                "A": "120 candidatos",
-                "B": "180 candidatos",
-                "C": "200 candidatos",
-                "D": "220 candidatos",
+                "A": "R$ 25.000,00 (",
+                "B": "R$ 26.000,00 (",
+                "C": "R$ 28.000,00 (",
+                "D": "R$ 29.000,00 (",
+                "E": "R$ 24.000,00"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27",
+            "enunciado": "Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática. 37 + 74 x 63 (",
+            "alternativas": {
+                "A": "4705 (",
+                "B": "4335 (",
+                "C": "4663 (",
+                "D": "4633 (",
+                "E": "4699"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28",
+            "enunciado": "Um cinema tem uma capacidade de 400 lugares. Se eles venderam ingressos para 80% dessa capacidade em um dia, quantos ingressos foram vendidos? (",
+            "alternativas": {
+                "A": "240 ingressos (",
+                "B": "280 ingressos (",
+                "C": "320 ingressos (",
+                "D": "360 ingressos (",
+                "E": "400 ingressos Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO AGENTE FUNERÁRIO Página 9 de 11 QUESTÃO 29 Uma empresa fabrica, em média, 60 peças de roupa por semana. Para a fabricação de cada peça, são utilizados 4 metros de tecido. Se a fábrica funcionar durante 4 semanas em um mês, quantos metros de tecido serão usados nesse período? (A) 800 (B) 960 (C) 1200 (D) 1440 (E) 1800"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 30",
+            "enunciado": "Assinale a alternativa que apresenta o oitavo número par antecessor de 582: (",
+            "alternativas": {
+                "A": "568 (",
+                "B": "570 (",
+                "C": "572 (",
+                "D": "574 (",
+                "E": "566"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31",
+            "enunciado": "Uma loja vende três tipos de bolos: chocolate, baunilha e morango. No último mês, vendeu 20 bolos de chocolate, 15 bolos de baunilha e 25 bolos de morango. Se o preço de cada bolo de chocolate é R$ 4,50, cada bolo de baunilha é R$ 3,80 e cada bolo de morango é R$ 5,20, quanto a loja arrecadou no total? (",
+            "alternativas": {
+                "A": "R$ 118,50 (",
+                "B": "R$ 277,00 (",
+                "C": "R$ 158,50 (",
+                "D": "R$ 265,50 (",
+                "E": "R$ 289,50"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 32",
+            "enunciado": "Um time de futebol venceu 12 partidas e empatou 5 partidas em um campeonato. Quantos pontos esse time conquistou no total, considerando que cada vitória vale 3 pontos e cada empate vale 1 ponto? (",
+            "alternativas": {
+                "A": "27 pontos (",
+                "B": "34 pontos (",
+                "C": "39 pontos (",
+                "D": "41 pontos (",
+                "E": "45 pontos"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 33",
+            "enunciado": "João encontrou um cofrinho contendo somente moedas de R$ 0,25. Se ele possui 80 moedas no total, qual o valor total que João encontrou no cofrinho? (",
+            "alternativas": {
+                "A": "R$ 15,00 (",
+                "B": "R$ 20,00 (",
+                "C": "R$ 25,00 (",
+                "D": "R$ 30,00 (",
+                "E": "R$ 35,00"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 34",
+            "enunciado": "Um agricultor plantou 3 fileiras de alfaces em seu canteiro, cada fileira com 5 mudas. Se cada muda de alface pode produzir 8 folhas, quantas folhas de alface o agricultor terá no total? (",
+            "alternativas": {
+                "A": "112 folhas (",
+                "B": "115 folhas (",
+                "C": "118 folhas (",
+                "D": "120 folhas (",
+                "E": "124 folhas Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO AGENTE FUNERÁRIO Página 10 de 11 QUESTÃO 35 Uma fazenda tem 60 vacas e 45 ovelhas. Se cada vaca produz 8 litros de leite por dia e cada ovelha produz 2 litros de leite por dia, quantos litros de leite a fazenda produzirá em um dia? (A) 480 litros (B) 720 litros (C) 570 litros (D) 90 litros (E) 4100 litros"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 36",
+            "enunciado": "Em uma cidade, o preço da gasolina subiu 15%. Se o preço anterior era R$ 4,00 por litro, qual é o novo preço da gasolina? (",
+            "alternativas": {
+                "A": "R$ 4,15 por litro (",
+                "B": "R$ 4,30 por litro (",
+                "C": "R$ 4,50 por litro (",
+                "D": "R$ 4,60 por litro (",
+                "E": "R$ 4,75 por litro"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 37",
+            "enunciado": "Em um concurso público, 30% dos candidatos foram aprovados. Se 600 candidatos fizeram a prova, quantos foram aprovados? (",
+            "alternativas": {
+                "A": "120 candidatos (",
+                "B": "180 candidatos (",
+                "C": "200 candidatos (",
+                "D": "220 candidatos (",
                 "E": "240 candidatos"
             },
             "resposta_correta": "B"
@@ -340,29 +454,46 @@
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 25: Um vendedor de carros vende, em média, 10 \ncarros novos e 5 carros usados por mês. Se ele \ntrabalhar durante 3 meses, quantos carros novos \nele venderá nesse período?",
+            "questão": "Questão 38",
+            "enunciado": "Um vendedor de carros vende, em média, 10 carros novos e 5 carros usados por mês. Se ele trabalhar durante 3 meses, quantos carros novos ele venderá nesse período? (",
             "alternativas": {
-                "A": "30",
-                "B": "45",
-                "C": "55",
-                "D": "65",
-                "E": "75 \n QUESTÃO 39 \nEm uma sala de aula, 60% dos alunos gostam de \nmatemática, 30% gostam de história e o restante \nprefere ciências. Se há 40 alunos na sala, quantos \nalunos preferem ciências? \n(A) 4 alunos \n(B) 10 alunos \n(C) 12 alunos \n(D) 24 alunos \n(E) 18 alunos"
+                "A": "30 (",
+                "B": "45 (",
+                "C": "55 (",
+                "D": "65 (",
+                "E": "75"
             },
-            "resposta_correta": "E"
+            "resposta_correta": "A"
         },
         {
             "cargo": "AGENTE FUNERÁRIO",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2023",
-            "questão": "Questão 26: Uma pilha de caixas está organizada em 8 \ncamadas, sendo que em cada camada há 17 \ncaixas. Quantas caixas há no total?",
+            "questão": "Questão 39",
+            "enunciado": "Em uma sala de aula, 60% dos alunos gostam de matemática, 30% gostam de história e o restante prefere ciências. Se há 40 alunos na sala, quantos alunos preferem ciências? (",
             "alternativas": {
-                "A": "17 caixas",
-                "B": "34 caixas",
-                "C": "68 caixas",
-                "D": "102 caixas",
-                "E": "136 caixas \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023                                  INSTITUTO AVANÇA SÃO PAULO \n \nAGENTE FUNERÁRIO                                                                                                                                  Página 11 de 11"
+                "A": "4 alunos (",
+                "B": "10 alunos (",
+                "C": "12 alunos (",
+                "D": "24 alunos (",
+                "E": "18 alunos"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE FUNERÁRIO",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2023",
+            "questão": "Questão 40",
+            "enunciado": "Uma pilha de caixas está organizada em 8 camadas, sendo que em cada camada há 17 caixas. Quantas caixas há no total? (",
+            "alternativas": {
+                "A": "17 caixas (",
+                "B": "34 caixas (",
+                "C": "68 caixas (",
+                "D": "102 caixas (",
+                "E": "136 caixas Prefeitura Municipal de Rio Claro/SP – Concurso Público 01/2023 INSTITUTO AVANÇA SÃO PAULO AGENTE FUNERÁRIO Página 11 de 11"
+            },
+            "resposta_correta": "E"
         }
     ]
 }

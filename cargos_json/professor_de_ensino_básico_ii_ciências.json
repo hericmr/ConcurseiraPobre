@@ -4,13 +4,14 @@
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: O texto Versões, de Luís Fernando Verissimo, \nretrata os pensamentos de um personagem acerca \nde cenários possíveis decorrentes de caminhos \nnão tomados em sua vida. As expressões \nlinguísticas que corroboram a construção do \nsentido de hipótese, em relação à imaginação \ndesses cenários, são:",
+            "questão": "Questão 1",
+            "enunciado": "O texto Versões, de Luís Fernando Verissimo, retrata os pensamentos de um personagem acerca de cenários possíveis decorrentes de caminhos não tomados em sua vida. As expressões linguísticas que corroboram a construção do sentido de hipótese, em relação à imaginação desses cenários, são: (",
             "alternativas": {
-                "A": "os verbos conjugados no presente do modo \nindicativo.",
-                "B": "as orações subordinadas condicionais \nreticentes, iniciadas pela conjunção se.",
-                "C": "os pronomes em primeira pessoa.",
-                "D": "os discursos diretos na narrativa.",
-                "E": "as locuções verbais formadas por um verbo \nno pretérito perfeito do indicativo e um verbo no \nparticípio."
+                "A": "os verbos conjugados no presente do modo indicativo. (",
+                "B": "as orações subordinadas condicionais reticentes, iniciadas pela conjunção se. (",
+                "C": "os pronomes em primeira pessoa. (",
+                "D": "os discursos diretos na narrativa. (",
+                "E": "as locuções verbais formadas por um verbo no pretérito perfeito do indicativo e um verbo no particípio."
             },
             "resposta_correta": "B"
         },
@@ -18,13 +19,14 @@
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: A expressão em sentido figurado “por uma \nfábula”, empregada no excerto “Fui vendido para \no futebol europeu, por uma fábula.”, se refere:",
+            "questão": "Questão 2",
+            "enunciado": "A expressão em sentido figurado “por uma fábula”, empregada no excerto “Fui vendido para o futebol europeu, por uma fábula.”, se refere: (",
             "alternativas": {
-                "A": "a uma narrativa imaginária que foi criada em \ntorno do jogador de futebol.",
-                "B": "a uma mentira que lhe foi contada no \npassado.",
-                "C": "à alta quantia de dinheiro envolvida em sua \nvenda para o futebol europeu.",
-                "D": "à baixa quantia de dinheiro envolvida em sua \nvenda para o futebol europeu.",
-                "E": "a um aspecto de sua carreira que foi motivo \nde zombaria por outras pessoas. \n \nConsidere o excerto a seguir para responder \nàs questões 3, 4, 5 e 6: \n \nAgora mesmo neste  bar imaginário em que estou \nbebendo para esquecer o que não fiz — aliás, o \nnome do bar é Imaginário —, sentou um cara do \nmeu lado direito e se apresentou: — Eu sou você, \nse tivesse feito aquele teste no Botafogo. \n \n \n \n \n \n QUESTÃO 03 \nA classe gramatical à qual pertence a palavra \n“aliás”, que ocorre no excerto apresentado, è:  \n(A) substantivo. \n(B) preposição. \n(C) conjunção. \n(D) advérbio. \n(E) adjetivo."
+                "A": "a uma narrativa imaginária que foi criada em torno do jogador de futebol. (",
+                "B": "a uma mentira que lhe foi contada no passado. (",
+                "C": "à alta quantia de dinheiro envolvida em sua venda para o futebol europeu. (",
+                "D": "à baixa quantia de dinheiro envolvida em sua venda para o futebol europeu. (",
+                "E": "a um aspecto de sua carreira que foi motivo de zombaria por outras pessoas. Considere o excerto a seguir para responder às questões 3, 4, 5 e 6: Agora mesmo neste bar imaginário em que estou bebendo para esquecer o que não fiz — aliás, o nome do bar é Imaginário —, sentou um cara do meu lado direito e se apresentou: — Eu sou você, se tivesse feito aquele teste no Botafogo."
             },
             "resposta_correta": "E"
         },
@@ -32,13 +34,14 @@
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 3: As palavras em destaque no excerto apresentado \nsão, respectivamente, pronomes dos tipos:",
+            "questão": "Questão 3",
+            "enunciado": "A classe gramatical à qual pertence a palavra “aliás”, que ocorre no excerto apresentado, è: (",
             "alternativas": {
-                "A": "relativo, demonstrativo, relativo e indefinido.",
-                "B": "demonstrativo, pessoal, interrogativo e \npessoal.",
-                "C": "demonstrativo, demonstrativo, interrogativo \ne pessoal.",
-                "D": "demonstrativo, pessoal, relativo e indefinido.",
-                "E": "demonstrativo, demonstrativo, relativo e \npessoal."
+                "A": "substantivo. (",
+                "B": "preposição. (",
+                "C": "conjunção. (",
+                "D": "advérbio. (",
+                "E": "adjetivo."
             },
             "resposta_correta": "A"
         },
@@ -46,55 +49,89 @@
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 4: Na sentença “—  Eu sou você, se tivesse feito \naquele teste no Botafogo.”, a função gramatical \ndo vocábulo “se” è:",
+            "questão": "Questão 4",
+            "enunciado": "As palavras em destaque no excerto apresentado são, respectivamente, pronomes dos tipos: (",
             "alternativas": {
-                "A": "conectar a oração principal à subordinada.",
-                "B": "modificar o pronome de tratamento “você”.",
-                "C": "modificar o verbo “sou”.",
-                "D": "conectar os constituintes intraoracionais \n“você” e “tivesse”.",
+                "A": "relativo, demonstrativo, relativo e indefinido. (",
+                "B": "demonstrativo, pessoal, interrogativo e pessoal. (",
+                "C": "demonstrativo, demonstrativo, interrogativo e pessoal. (",
+                "D": "demonstrativo, pessoal, relativo e indefinido. (",
+                "E": "demonstrativo, demonstrativo, relativo e pessoal."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 5",
+            "enunciado": "Na sentença “— Eu sou você, se tivesse feito aquele teste no Botafogo.”, a função gramatical do vocábulo “se” è: (",
+            "alternativas": {
+                "A": "conectar a oração principal à subordinada. (",
+                "B": "modificar o pronome de tratamento “você”. (",
+                "C": "modificar o verbo “sou”. (",
+                "D": "conectar os constituintes intraoracionais “você” e “tivesse”. (",
                 "E": "modificar o verbo “tivesse”."
             },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2023",
-            "questão": "Questão 5: No contexto dado, a regência do verbo \n“apresentar” è:",
-            "alternativas": {
-                "A": "transitiva direta.",
-                "B": "transitiva indireta.",
-                "C": "transitiva direta e indireta.",
-                "D": "pronominal.",
-                "E": "intransitiva. Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nPROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS)                                                                                      Página 4 de 13 QUESTÃO 07 \nAnalise as sentenças a seguir e assinale aquela \nem que a(s) forma(s) verbal(is) empregada(s) \nestá(ão) correta(s).  \n(A) Quando sobrepor a carta à mesa, lembre-se \nde prendê-la neste caderno. \n(B) Nós repomos todos os itens do estoque ontem \nà tarde. \n(C) Se você ver Maria nos corredores, avise-a de \nque estou procurando por ela. \n(D) Não houveram motivos que o impedissem de \nlutar por sua amada. \n(E) Eles retiveram o garoto na delegacia."
-            },
             "resposta_correta": "C"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 6: Analise as sentenças a seguir quanto ao emprego \ndo acento indicativo de crase. Assinale a \nalternativa em que o uso desse acento é \nfacultativo.",
+            "questão": "Questão 6",
+            "enunciado": "No contexto dado, a regência do verbo “apresentar” è: (",
             "alternativas": {
-                "A": "O pagamento desta compra será realizado à \nvista.",
-                "B": "Nada sei quanto à última decisão do colégio.",
-                "C": "A reunião de balanço da empresa será \nrealizada às 10h.",
-                "D": "Durante a apresentação, ele fez duras críticas \nà sua amiga.",
+                "A": "transitiva direta. (",
+                "B": "transitiva indireta. (",
+                "C": "transitiva direta e indireta. (",
+                "D": "pronominal. (",
+                "E": "intransitiva. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP PROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS) Página 4 de 13 QUESTÃO 07 Analise as sentenças a seguir e assinale aquela em que a(s) forma(s) verbal(is) empregada(s) está(ão) correta(s). (A) Quando sobrepor a carta à mesa, lembre-se de prendê-la neste caderno. (B) Nós repomos todos os itens do estoque ontem à tarde. (C) Se você ver Maria nos corredores, avise-a de que estou procurando por ela. (D) Não houveram motivos que o impedissem de lutar por sua amada. (E) Eles retiveram o garoto na delegacia."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 8",
+            "enunciado": "Analise as sentenças a seguir quanto ao emprego do acento indicativo de crase. Assinale a alternativa em que o uso desse acento é facultativo. (",
+            "alternativas": {
+                "A": "O pagamento desta compra será realizado à vista. (",
+                "B": "Nada sei quanto à última decisão do colégio. (",
+                "C": "A reunião de balanço da empresa será realizada às 10h. (",
+                "D": "Durante a apresentação, ele fez duras críticas à sua amiga. (",
                 "E": "Não estou à mercê de ninguém."
             },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9",
+            "enunciado": "Assinale a alternativa em que a forma pluralizada dos substantivos compostos está correta, considerando o emprego do hífen. (",
+            "alternativas": {
+                "A": "caças-níqueis. (",
+                "B": "estados-membro. (",
+                "C": "flores-de-abril. (",
+                "D": "cavalos-vapores. (",
+                "E": "bananas-das-terras."
+            },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 7: Assinale a alternativa em que a forma pluralizada \ndos substantivos compostos está correta, \nconsiderando o emprego do hífen.",
+            "questão": "Questão 10",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa em que se verifica a colocação pronominal correta, segundo a norma-padrão da língua portuguesa. (",
             "alternativas": {
-                "A": "caças-níqueis.",
-                "B": "estados-membro.",
-                "C": "flores-de-abril.",
-                "D": "cavalos-vapores.",
-                "E": "bananas-das-terras. \n \n \n \n QUESTÃO 10 \nAnalise as sentenças a seguir e assinale a \nalternativa em que se verifica a colocação \npronominal correta, segundo a norma-padrão da \nlíngua portuguesa. \n(A) Lhe compraram todos os presentes que \nesperava receber. \n(B) Desconheço alguém que interessa-se por \nliteratura. \n(C) Ainda não entreguei-lhe os livros \nemprestados. \n(D) Os exercícios de matemática vão ajudá-lo no \nvestibular. \n(E) Os pais decidiram a colocar nas aulas de \nnatação ainda bebê. \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "Lhe compraram todos os presentes que esperava receber. (",
+                "B": "Desconheço alguém que interessa-se por literatura. (",
+                "C": "Ainda não entreguei-lhe os livros emprestados. (",
+                "D": "Os exercícios de matemática vão ajudá-lo no vestibular. (",
+                "E": "Os pais decidiram a colocar nas aulas de natação ainda bebê. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "C"
         },
@@ -102,13 +139,44 @@
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 8: Em uma academia, três amigos, André, Bianca e \nCarlos, estão competindo para ver quem \nconsegue levantar mais peso. André consegue \nlevantar 80% do peso que Bianca consegue, \nenquanto Carlos consegue levantar 75% do peso \nque André consegue. Sabendo que a soma dos \npesos levantados é 360 kg, qual a soma do peso \nlevantado por André e Bianca?",
+            "questão": "Questão 11",
+            "enunciado": "Em uma academia, três amigos, André, Bianca e Carlos, estão competindo para ver quem consegue levantar mais peso. André consegue levantar 80% do peso que Bianca consegue, enquanto Carlos consegue levantar 75% do peso que André consegue. Sabendo que a soma dos pesos levantados é 360 kg, qual a soma do peso levantado por André e Bianca? (",
             "alternativas": {
-                "A": "270 kg.",
-                "B": "120 kg.",
-                "C": "150 kg.",
-                "D": "230 kg.",
-                "E": "190 kg. \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nPROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS)                                                                                      Página 5 de 13 QUESTÃO 12 \nMarcelo estava fazendo uma pesquisa de preço \npara comprar um celular novo em algumas lojas. \nNa primeira loja que entrou o aparelho custava \nR$ 1200,00. Na segunda loja o preço era um \nterço da primeira mais quinhentos reais. Na \nterceira loja o preço era metade da segunda mais \nmil reais. Qual era a loja com o aparelho mais \nbarato e quanto custava o aparelho na terceira \nloja, respectivamente? \n(A) Primeira e R$ 1200,00. \n(B) Segunda e R$ 1250,00. \n(C) Terceira e R$ 1450,00. \n(D) Segunda e R$ 1450,00. \n(E) Primeira e R$ 1250,00."
+                "A": "270 kg. (",
+                "B": "120 kg. (",
+                "C": "150 kg. (",
+                "D": "230 kg. (",
+                "E": "190 kg. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP PROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS) Página 5 de 13 QUESTÃO 12 Marcelo estava fazendo uma pesquisa de preço para comprar um celular novo em algumas lojas. Na primeira loja que entrou o aparelho custava R$ 1200,00. Na segunda loja o preço era um terço da primeira mais quinhentos reais. Na terceira loja o preço era metade da segunda mais mil reais. Qual era a loja com o aparelho mais barato e quanto custava o aparelho na terceira loja, respectivamente? (A) Primeira e R$ 1200,00. (B) Segunda e R$ 1250,00. (C) Terceira e R$ 1450,00. (D) Segunda e R$ 1450,00. (E) Primeira e R$ 1250,00."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13",
+            "enunciado": "Em um determinado jogo de turnos, é permitido que o personagem avance em passos fracionários. Na primeira rodada o jogador dá 4/3 de passo, na segunda rodada dá 8/9 de passo, e na terceira rodada dá 16/27. Seguindo esta sequência lógica, na quarta rodada qual será o tamanho do passo do jogador? (",
+            "alternativas": {
+                "A": "16/54. (",
+                "B": "16/49. (",
+                "C": "32/54. (",
+                "D": "32/81. (",
+                "E": "64/81."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 14",
+            "enunciado": "Para serem aprovados em um determinado vestibular, os candidatos precisam fazer provas de Português, Matemática, Conhecimentos Específicos e uma Redação. As notas finais dos estudantes são calculadas com base na média aritmética ponderada das provas. Os pesos de cada prova são respectivamente 3, 3, 3 e 1. Porém, a universidade possui também uma regra tal que: se a média aritmética simples das notas for maior que a média ponderada, ela passará a ser a nota final. Considere as notas dos participantes listados na tabela abaixo: Estudantes I II III Português 8 6 9 Matemática 7 8 6 Conhecimentos Específicos 9 7 8 Redação 6 9 7 A nota final dos estudantes I, II e III é, respectivamente: (",
+            "alternativas": {
+                "A": "7,8; 7,0 e 7,5. (",
+                "B": "7,2; 7,6 e 7,7. (",
+                "C": "7,8; 7,5 e 7,6. (",
+                "D": "7,5; 7,5 e 7,0. (",
+                "E": "7,8; 7,2 e 7,6. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP PROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS) Página 6 de 13 QUESTÃO 15 Sabendo que, na figura abaixo, o círculo está centrado em um dos vértices do quadrado, o diâmetro do círculo mede 8 cm e o lado do quadrado mede 6 cm. Indique a área sombreada na figura: Considere 𝜋 ≈ 3 . (A) 10 cm2. (B) 12 cm2. (C) 30 cm2. (D) 6 cm2. (E) 20 cm2."
             },
             "resposta_correta": "D"
         },
@@ -116,337 +184,436 @@
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 9: Em um determinado jogo de turnos, é permitido \nque o personagem avance em passos \nfracionários. Na primeira rodada o jogador dá 4/3 \nde passo, na segunda rodada dá 8/9 de passo, e na \nterceira rodada dá 16/27. Seguindo esta \nsequência lógica, na quarta rodada qual será o \ntamanho do passo do jogador?",
+            "questão": "Questão 16",
+            "enunciado": "Em uma casa há três aparelhos de celular. O primeiro aparelho passa por atualizações de sistema a cada 15 dias, o segundo a cada 20 dias e o terceiro a cada 30 dias. Suponha que os três aparelhos foram comprados simultaneamente e na hora da compra foram todos atualizados. Quantos ciclos de atualização terão sido feitos no primeiro celular quando todos os aparelhos forem atualizados simultaneamente pela primeira vez? (",
             "alternativas": {
-                "A": "16/54.",
-                "B": "16/49.",
-                "C": "32/54.",
-                "D": "32/81.",
-                "E": "64/81. \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 14 \nPara serem aprovados em um determinado \nvestibular, os candidatos precisam fazer provas \nde Português, Matemática, Conhecimentos \nEspecíficos e uma Redação. As notas finais dos \nestudantes são calculadas com base na média \naritmética ponderada das provas. Os pesos de \ncada prova são respectivamente 3, 3, 3 e 1. \nPorém, a universidade possui também uma regra \ntal que: se a média aritmética simples das notas \nfor maior que a média ponderada, ela passará a \nser a nota final. Considere as notas dos \nparticipantes listados na tabela abaixo: \n \n Estudantes \n I II III \nPortuguês  8 6 9 \nMatemática  7 8 6 \nConhecimentos \nEspecíficos 9 7 8 \nRedação 6 9 7 \n \nA nota final dos estudantes I, II e III é, \nrespectivamente: \n(A) 7,8; 7,0 e 7,5.  \n(B) 7,2; 7,6 e 7,7.  \n(C) 7,8; 7,5 e 7,6.  \n(D) 7,5; 7,5 e 7,0.  \n(E) 7,8; 7,2 e 7,6.  \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nPROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS)                                                                                      Página 6 de 13 QUESTÃO 15 \nSabendo que, na figura abaixo, o círculo está \ncentrado em um dos vértices do quadrado, o \ndiâmetro do círculo mede 8 cm e o lado do \nquadrado mede 6 cm. Indique a área sombreada \nna figura: Considere 𝜋 ≈ 3 . \n \n(A) 10 cm2. \n(B) 12 cm2. \n(C) 30 cm2. \n(D) 6 cm2. \n(E) 20 cm2."
+                "A": "3. (",
+                "B": "4. (",
+                "C": "5. (",
+                "D": "6. (",
+                "E": "10."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "D"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 10: Em uma casa há três aparelhos de celular. O \nprimeiro aparelho passa por atualizações de \nsistema a cada 15 dias, o segundo a cada 20 dias \ne o terceiro a cada 30 dias. Suponha que os três \naparelhos foram comprados simultaneamente e \nna hora da compra foram todos atualizados. \nQuantos ciclos de atualização terão sido feitos no \nprimeiro celular quando todos os aparelhos \nforem atualizados simultaneamente pela primeira \nvez?",
+            "questão": "Questão 17",
+            "enunciado": "Em uma rua, foram plantadas árvores numeradas de 1 a 90. As árvores foram distribuídas uniformemente ao longo da rua. Se um morador quer podar todas as árvores cujo número é um múltiplo de 3 ou um múltiplo de 4, quantas árvores ficarão sem poda? (",
             "alternativas": {
-                "A": "3.",
-                "B": "4.",
-                "C": "5.",
-                "D": "6.",
-                "E": "10. \n \n \n \n \n \n QUESTÃO 17 \nEm uma rua, foram plantadas árvores numeradas \nde 1 a 90. As árvores foram distribuídas \nuniformemente ao longo da rua. Se um morador \nquer podar todas as árvores cujo número é um \nmúltiplo de 3 ou um múltiplo de 4, quantas \nárvores ficarão sem poda? \n(A) 12. \n(B) 30. \n(C) 45. \n(D) 33. \n(E) 42."
+                "A": "12. (",
+                "B": "30. (",
+                "C": "45. (",
+                "D": "33. (",
+                "E": "42."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 11: Em uma temporada de colheita, um agricultor \nobteve 4 lotes com milhos de comprimentos \ndiferentes. No lote A foram 50 espigas de 27 cm, \nno lote B foram 100 espigas de 31 cm, no lote C \nmais 100 espigas de 29 cm e no lote D mais 50 \nespigas de 33 cm. Qual a média do comprimento \ndas espigas de milho, em cm, obtidas pelo \nagricultor nesta safra?",
+            "questão": "Questão 18",
+            "enunciado": "Em uma temporada de colheita, um agricultor obteve 4 lotes com milhos de comprimentos diferentes. No lote A foram 50 espigas de 27 cm, no lote B foram 100 espigas de 31 cm, no lote C mais 100 espigas de 29 cm e no lote D mais 50 espigas de 33 cm. Qual a média do comprimento das espigas de milho, em cm, obtidas pelo agricultor nesta safra? (",
             "alternativas": {
-                "A": "27.",
-                "B": "28.",
-                "C": "29.",
-                "D": "30.",
+                "A": "27. (",
+                "B": "28. (",
+                "C": "29. (",
+                "D": "30. (",
                 "E": "31."
             },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19",
+            "enunciado": "Maria havia plantado um pé de café em seu quintal que estava com 25 cm de altura. Sua mãe então lhe disse que se a planta fosse regada a cada 2 dias por um ano, ela deveria chegar até 250% do seu tamanho atual. Maria então seguiu à risca o que sua mãe falou. Após passado um ano, Maria mediu o seu pé de café e este estava com 75 cm de altura. Qual a diferença, em cm, entre o tamanho prometido pela mãe de Maria e o tamanho real do pé de café, no momento da medição? (",
+            "alternativas": {
+                "A": "10. (",
+                "B": "11. (",
+                "C": "12,5. (",
+                "D": "15. (",
+                "E": "16,5. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP PROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS) Página 7 de 13 QUESTÃO 20 Ao realizar o planejamento de um determinado serviço, uma empresa calcula a sua margem de lucro como sendo 6% do valor total a ser cobrado. O lucro da empresa está dentro das Despesas Indiretas do serviço. Sabe-se que as Despesas Indiretas no geral representam 30% do total a ser cobrado. Nesta situação, quantos por cento o lucro representa das despesas indiretas? (A) 20%. (B) 25%. (C) 30%. (D) 33%. (E) 15%. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21",
+            "enunciado": "Um gerenciador de e-mails, também conhecido como cliente de e-mail, é um software projetado para ajudar os usuários a enviar, receber, organizar e gerenciar suas mensagens de e-mail. Essas ferramentas oferecem uma interface de usuário para interagir com serviços de e-mail, facilitando a comunicação eletrônica. Diante do contexto apresentado, analise as imagens a seguir e assinale a alternativa correta. (",
+            "alternativas": {
+                "A": "As duas primeiras imagens representam gerenciadores de e-mails, sendo a primeira da Google e a segunda parte integrante da suíte do Pacote Office. (",
+                "B": "As duas primeiras imagens representam gerenciadores de e-mails desenvolvidos e mantidos pela Google. (",
+                "C": "As duas últimas imagens representam softwares de desenvolvimento de planilhas eletrônicas. (",
+                "D": "Nenhuma das imagens representam gerenciadores de e-mails. (",
+                "E": "Todas as imagens representam gerenciadores de e-mails."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 22",
+            "enunciado": "Uma URL é um endereço que é usado para identificar recursos na internet e fornecer um meio fácil de acessar esses recursos. Pode-se afirmar que URL significa: (",
+            "alternativas": {
+                "A": "User Resource Locator. (",
+                "B": "Uniform Resor Locator. (",
+                "C": "Uniform Resource Lover. (",
+                "D": "User Resort Locator. (",
+                "E": "Uniform Resource Locator."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 23",
+            "enunciado": "A opção \"Quebrar Texto Automaticamente\" no Excel permite que você exiba todo o conteúdo de uma célula em várias linhas, automaticamente ajustando a altura da célula para acomodar o texto. Diante do contexto apresentado, assinale a alternativa que representa o botão \"Quebrar Texto Automaticamente\" do Excel. (",
+            "alternativas": {
+                "A": "(",
+                "B": "(",
+                "C": "(",
+                "D": "(",
+                "E": "Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP PROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS) Página 8 de 13 QUESTÃO 24 As fórmulas do Excel são fundamentais para realizar cálculos, análises e manipulações de dados de maneira eficiente dentro da planilha, assim, pode-se informar que fazem parte de fórmulas do Excel: I. =SOMA II. #SOMA III. =MÉDIA IV. #MÉDIA (A) I e II, apenas. (B) I e III, apenas. (C) I, II e IV, apenas. (D) I, II e III, apenas. (E) Nenhuma das afirmativas estão corretas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 25",
+            "enunciado": "Há muitas opções de formatação de texto disponíveis no Microsoft Word, as quais aperfeiçoam o texto tornando-o mais dinâmico ao ledor. Nesse contexto, analise a imagem abaixo: TEXTO Assinale a alternativa que contenha corretamente a função utilizada para a formatação da palavra “texto”. (",
+            "alternativas": {
+                "A": "Negrito. (",
+                "B": "Subscrito. (",
+                "C": "Sublinhado. (",
+                "D": "Itálico. (",
+                "E": "Tachado. CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26",
+            "enunciado": "Assinale a alternativa que apresenta o planeta mais próximo do sol. (",
+            "alternativas": {
+                "A": "Terra. (",
+                "B": "Saturno. (",
+                "C": "Mercúrio. (",
+                "D": "Vênus. (",
+                "E": "Júpiter."
+            },
             "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 12: Maria havia plantado um pé de café em seu \nquintal que estava com 25 cm de altura. Sua mãe \nentão lhe disse que se a planta fosse regada a cada \n2 dias por um ano, ela deveria chegar até 250% \ndo seu tamanho atual. Maria então seguiu à risca \no que sua mãe falou. Após passado um ano, \nMaria mediu o seu pé de café e este estava com \n75 cm de altura. Qual a diferença, em cm, entre o \ntamanho prometido pela mãe de Maria e o \ntamanho real do pé de café, no momento da \nmedição?",
+            "questão": "Questão 27",
+            "enunciado": "Segundo Rocha, J. C. (2009) em \"Introdução à Química Ambiental\", há situações em que se realiza uma perfuração em um aterro sanitário para a coleta de água subterrânea a fim de se verificar os índices de contaminação (entre outros parâmetros). Essa perfuração é denominada: (",
             "alternativas": {
-                "A": "10.",
-                "B": "11.",
-                "C": "12,5.",
-                "D": "15.",
-                "E": "16,5. \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nPROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS)                                                                                      Página 7 de 13 QUESTÃO 20 \nAo realizar o planejamento de um determinado \nserviço, uma empresa calcula a sua margem de \nlucro como sendo 6% do valor total a ser \ncobrado. O lucro da empresa está dentro das \nDespesas Indiretas do serviço. Sabe-se que as \nDespesas Indiretas no geral representam 30% do \ntotal a ser cobrado. Nesta situação, quantos por \ncento o lucro representa das despesas indiretas? \n(A) 20%. \n(B) 25%. \n(C) 30%. \n(D) 33%.  \n(E) 15%. \n \nNOÇÕES DE INFORMÁTICA"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 13: Um gerenciador de e-mails, também conhecido \ncomo cliente de e-mail, é um software projetado \npara ajudar os usuários a enviar, receber, \norganizar e gerenciar suas mensagens de e-mail. \nEssas ferramentas oferecem uma interface de \nusuário para interagir com serviços de e-mail, \nfacilitando a comunicação eletrônica. Diante do \ncontexto apresentado, analise as imagens a seguir \ne assinale a alternativa correta.",
-            "alternativas": {
-                "A": "As duas primeiras imagens representam \ngerenciadores de e-mails, sendo a primeira da \nGoogle e a segunda parte integrante da suíte do \nPacote Office.",
-                "B": "As duas primeiras imagens representam \ngerenciadores de e-mails desenvolvidos e \nmantidos pela Google.",
-                "C": "As duas últimas imagens representam \nsoftwares de desenvolvimento de planilhas \neletrônicas.",
-                "D": "Nenhuma das imagens representam \ngerenciadores de e-mails.",
-                "E": "Todas as imagens representam gerenciadores \nde e-mails. \n QUESTÃO 22 \nUma URL é um endereço que é usado para \nidentificar recursos na internet e fornecer um \nmeio fácil de acessar esses recursos. Pode-se \nafirmar que URL significa: \n(A) User Resource Locator. \n(B) Uniform Resor Locator. \n(C) Uniform Resource Lover. \n(D) User Resort Locator.  \n(E) Uniform Resource Locator."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 14: A opção \"Quebrar Texto Automaticamente\" no \nExcel permite que você exiba todo o conteúdo de \numa célula em várias linhas, automaticamente \najustando a altura da célula para acomodar o \ntexto. Diante do contexto apresentado, assinale a \nalternativa que representa o botão \"Quebrar \nTexto Automaticamente\" do Excel.",
-            "alternativas": {
-                "A": "(B)  \n \n(C)  \n \n(D)  \n \n(E)  \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nPROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS)                                                                                      Página 8 de 13 QUESTÃO 24 \nAs fórmulas do Excel são fundamentais para \nrealizar cálculos, análises e manipulações de \ndados de maneira eficiente dentro da planilha, \nassim, pode-se informar que fazem parte de \nfórmulas do Excel: \nI. =SOMA \nII. #SOMA \nIII. =MÉDIA \nIV. #MÉDIA \n(A) I e II, apenas.",
-                "B": "I e III, apenas.",
-                "C": "I, II e IV, apenas.",
-                "D": "I, II e III, apenas.",
-                "E": "Nenhuma das afirmativas estão corretas."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 15: Há muitas opções de formatação de texto \ndisponíveis no Microsoft Word, as quais \naperfeiçoam o texto tornando-o mais dinâmico \nao ledor. Nesse contexto, analise a imagem \nabaixo: \nTEXTO \nAssinale a alternativa que contenha corretamente \na função utilizada para a formatação da palavra \n“texto”.",
-            "alternativas": {
-                "A": "Negrito.",
-                "B": "Subscrito.",
-                "C": "Sublinhado.",
-                "D": "Itálico.",
-                "E": "Tachado. \n \n \n \n \n \n \n \n \n \n CONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 16: Assinale a alternativa que apresenta o planeta \nmais próximo do sol.",
-            "alternativas": {
-                "A": "Terra.",
-                "B": "Saturno.",
-                "C": "Mercúrio.",
-                "D": "Vênus.",
-                "E": "Júpiter."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 17: Segundo Rocha, J. C. (2009) em \"Introdução à \nQuímica Ambiental\", há situações em que se \nrealiza uma perfuração em um aterro sanitário \npara a coleta de água subterrânea a fim de se \nverificar os índices de contaminação (entre \noutros parâmetros). Essa perfuração é \ndenominada:",
-            "alternativas": {
-                "A": "Poço de monitoramento.",
-                "B": "Poço residual.",
-                "C": "Lagoa de acesso.",
-                "D": "Hidrante.",
+                "A": "Poço de monitoramento. (",
+                "B": "Poço residual. (",
+                "C": "Lagoa de acesso. (",
+                "D": "Hidrante. (",
                 "E": "Lagoa físico-química."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 18: Devido à escassez de água, existem inúmeras \nsituações de ecossistemas em estresse no planeta. \nSobre as importantes propriedades da água, \nassinale a alternativa INCORRETA.",
+            "questão": "Questão 28",
+            "enunciado": "Devido à escassez de água, existem inúmeras situações de ecossistemas em estresse no planeta. Sobre as importantes propriedades da água, assinale a alternativa INCORRETA. (",
             "alternativas": {
-                "A": "É um ótimo solvente para compostos \napolares.",
-                "B": "Possui alto calor de evaporação.",
-                "C": "Possui alta tensão superficial.",
-                "D": "Possui constante dielétrica maior que muitos \nlíquidos.",
-                "E": "Possui alta capacidade calorífica.  \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nPROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS)                                                                                      Página 9 de 13 QUESTÃO 29 \nAssinale a alternativa que apresenta o planeta é \nconhecido como o “Planeta Vermelho”.  \n(A) Marte. \n(B) Saturno. \n(C) Júpiter. \n(D) Mercúrio. \n(E) Urano."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 19: Conforme Rocha, J. C. (2009) em \"Introdução à \nQuímica Ambiental\", o despejo líquido que \nprovém principalmente de residências, \nestabelecimentos comerciais ou instituições que \ncontenham banheiros, lavanderias e cozinhas é \ndenominado:",
-            "alternativas": {
-                "A": "lama doméstica.",
-                "B": "poço de despejo.",
-                "C": "lama biológica.",
-                "D": "efluente.",
-                "E": "afluente."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 20: Assinale a alternativa que apresenta o maior \nplaneta do nosso sistema solar.",
-            "alternativas": {
-                "A": "Júpiter.",
-                "B": "Saturno.",
-                "C": "Vênus.",
-                "D": "Netuno.",
-                "E": "Terra."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 21: Assinale a alternativa que apresenta uma planta \navascular.",
-            "alternativas": {
-                "A": "Pinheiro.",
-                "B": "Samambaia.",
-                "C": "Capim.",
-                "D": "Musgo.",
-                "E": "Jiboia. \n QUESTÃO 33 \nNa planta, o conjunto de carpelos é denominado: \n(A) gineceu. \n(B) estigma. \n(C) estilete. \n(D) sépala. \n(E) androceu."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 22: Considere a imagem a seguir: \n \nNa imagem, a região assinalada corresponde:",
-            "alternativas": {
-                "A": "ao carpelo.",
-                "B": "ao estigma.",
-                "C": "ao estilete.",
-                "D": "ao ovário.",
-                "E": "à antera."
+                "A": "É um ótimo solvente para compostos apolares. (",
+                "B": "Possui alto calor de evaporação. (",
+                "C": "Possui alta tensão superficial. (",
+                "D": "Possui constante dielétrica maior que muitos líquidos. (",
+                "E": "Possui alta capacidade calorífica. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP PROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS) Página 9 de 13 QUESTÃO 29 Assinale a alternativa que apresenta o planeta é conhecido como o “Planeta Vermelho”. (A) Marte. (B) Saturno. (C) Júpiter. (D) Mercúrio. (E) Urano."
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 23: Os planetas gasosos, também conhecidos como \ngigantes gasosos, são aqueles formados \nprincipalmente por gases, como hélio e \nhidrogênio. No nosso Sistema Solar, existem \nquatro planetas gasosos. Assinale a alternativa \nque NÃO apresenta um deles.",
+            "questão": "Questão 30",
+            "enunciado": "Conforme Rocha, J. C. (2009) em \"Introdução à Química Ambiental\", o despejo líquido que provém principalmente de residências, estabelecimentos comerciais ou instituições que contenham banheiros, lavanderias e cozinhas é denominado: (",
             "alternativas": {
-                "A": "Júpiter.",
-                "B": "Saturno.",
-                "C": "Marte.",
-                "D": "Urano.",
-                "E": "Netuno. \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nPROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS)                                                                                      Página 10 de 13 QUESTÃO 36 \nAssinale a alternativa que apresenta o planeta \nmais quente do sistema solar. \n(A) Mercúrio.  \n(B) Vênus.  \n(C) Júpiter.  \n(D) Saturno.  \n(E) Marte."
+                "A": "lama doméstica. (",
+                "B": "poço de despejo. (",
+                "C": "lama biológica. (",
+                "D": "efluente. (",
+                "E": "afluente."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31",
+            "enunciado": "Assinale a alternativa que apresenta o maior planeta do nosso sistema solar. (",
+            "alternativas": {
+                "A": "Júpiter. (",
+                "B": "Saturno. (",
+                "C": "Vênus. (",
+                "D": "Netuno. (",
+                "E": "Terra."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 24: Na planta, o conjunto de estames é denominado:",
+            "questão": "Questão 32",
+            "enunciado": "Assinale a alternativa que apresenta uma planta avascular. (",
             "alternativas": {
-                "A": "gineceu.",
-                "B": "estigma.",
-                "C": "estilete.",
-                "D": "sépala.",
+                "A": "Pinheiro. (",
+                "B": "Samambaia. (",
+                "C": "Capim. (",
+                "D": "Musgo. (",
+                "E": "Jiboia."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 33",
+            "enunciado": "Na planta, o conjunto de carpelos é denominado: (",
+            "alternativas": {
+                "A": "gineceu. (",
+                "B": "estigma. (",
+                "C": "estilete. (",
+                "D": "sépala. (",
+                "E": "androceu."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 34",
+            "enunciado": "Considere a imagem a seguir: Na imagem, a região assinalada corresponde: (",
+            "alternativas": {
+                "A": "ao carpelo. (",
+                "B": "ao estigma. (",
+                "C": "ao estilete. (",
+                "D": "ao ovário. (",
+                "E": "à antera."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 35",
+            "enunciado": "Os planetas gasosos, também conhecidos como gigantes gasosos, são aqueles formados principalmente por gases, como hélio e hidrogênio. No nosso Sistema Solar, existem quatro planetas gasosos. Assinale a alternativa que NÃO apresenta um deles. (",
+            "alternativas": {
+                "A": "Júpiter. (",
+                "B": "Saturno. (",
+                "C": "Marte. (",
+                "D": "Urano. (",
+                "E": "Netuno. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP PROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS) Página 10 de 13 QUESTÃO 36 Assinale a alternativa que apresenta o planeta mais quente do sistema solar. (A) Mercúrio. (B) Vênus. (C) Júpiter. (D) Saturno. (E) Marte."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 37",
+            "enunciado": "Na planta, o conjunto de estames é denominado: (",
+            "alternativas": {
+                "A": "gineceu. (",
+                "B": "estigma. (",
+                "C": "estilete. (",
+                "D": "sépala. (",
                 "E": "androceu."
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 25: A maior ou menor incidência solar em um dos \nhemisférios permite a ocorrência de verão ou \ninverno. Esse comportamento ocorre duas vezes \nao ano, em junho e dezembro, e marca o que \nchamamos de:",
+            "questão": "Questão 38",
+            "enunciado": "A maior ou menor incidência solar em um dos hemisférios permite a ocorrência de verão ou inverno. Esse comportamento ocorre duas vezes ao ano, em junho e dezembro, e marca o que chamamos de: (",
             "alternativas": {
-                "A": "equinócio.",
-                "B": "precessão",
-                "C": "solstício.",
-                "D": "nutação.",
+                "A": "equinócio. (",
+                "B": "precessão (",
+                "C": "solstício. (",
+                "D": "nutação. (",
                 "E": "periélio."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 26: Imagine que exista um observador no espaço que \nrevele observar o movimento de rotação da terra \nem torno de seu próprio eixo. Esse movimento \ndura:",
+            "questão": "Questão 39",
+            "enunciado": "Imagine que exista um observador no espaço que revele observar o movimento de rotação da terra em torno de seu próprio eixo. Esse movimento dura: (",
             "alternativas": {
-                "A": "seis meses.",
-                "B": "23 horas, 56 minutos e 4 segundos.",
-                "C": "365 dias.",
-                "D": "três meses (1 estação).",
-                "E": "de 28 a 31 dias. \n QUESTÃO 40 \nO planeta que era considerado o nono planeta do \nsistema solar, mas que foi reclassificado como \n“Planeta anão” em 2006, è:  \n(A) Mercúrio. \n(B) Plutão. \n(C) Júpiter. \n(D) Netuno. \n(E) Urano."
+                "A": "seis meses. (",
+                "B": "23 horas, 56 minutos e 4 segundos. (",
+                "C": "365 dias. (",
+                "D": "três meses (1 estação). (",
+                "E": "de 28 a 31 dias."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "C"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 27: Assinale a alternativa que apresenta o planeta \nmais conhecido por seus anéis proeminentes.",
+            "questão": "Questão 40",
+            "enunciado": "O planeta que era considerado o nono planeta do sistema solar, mas que foi reclassificado como “Planeta anão” em 2006, è: (",
             "alternativas": {
-                "A": "Terra.",
-                "B": "Marte.",
-                "C": "Júpiter.",
-                "D": "Saturno.",
+                "A": "Mercúrio. (",
+                "B": "Plutão. (",
+                "C": "Júpiter. (",
+                "D": "Netuno. (",
+                "E": "Urano."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 41",
+            "enunciado": "Assinale a alternativa que apresenta o planeta mais conhecido por seus anéis proeminentes. (",
+            "alternativas": {
+                "A": "Terra. (",
+                "B": "Marte. (",
+                "C": "Júpiter. (",
+                "D": "Saturno. (",
                 "E": "Mercúrio."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 28: As drogas podem ter efeitos variados no corpo \nhumano, dependendo de suas características e do \nmodo de uso. Em relação aos efeitos das drogas \nno corpo, avalie as afirmativas a seguir e marque \nV para verdadeira e F para falsa. \n ( ) O álcool é uma droga estimulante que \naumenta a atividade do sistema nervoso central. \n( ) As drogas estimulantes causam um estado de \ndesânimo, sono e fraqueza. \n ( ) As drogas depressoras diminuem a atividade \ndo sistema nervoso central.  \nA sequência está correta em:",
+            "questão": "Questão 42",
+            "enunciado": "As drogas podem ter efeitos variados no corpo humano, dependendo de suas características e do modo de uso. Em relação aos efeitos das drogas no corpo, avalie as afirmativas a seguir e marque V para verdadeira e F para falsa. ( ) O álcool é uma droga estimulante que aumenta a atividade do sistema nervoso central. ( ) As drogas estimulantes causam um estado de desânimo, sono e fraqueza. ( ) As drogas depressoras diminuem a atividade do sistema nervoso central. A sequência está correta em: (",
             "alternativas": {
-                "A": "F-F-V.",
-                "B": "V-V-V.",
-                "C": "F-V-V.",
-                "D": "V-V-F.",
-                "E": "F-F-F. \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nPROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS)                                                                                      Página 11 de 13 QUESTÃO 43 \nAssinale a alternativa correta em relação à \ncaracterização dos grandes grupos animais e \nvegetais. \n(A) Todos os animais são vertebrados. \n(B) As plantas não possuem tecidos \ndiferenciados. \n(C) Os invertebrados representam a maior parte \nda diversidade animal. \n(D) As plantas são incapazes de se reproduzir \nsexualmente. \n(E) Os fungos são classificados como animais."
+                "A": "F-F-V. (",
+                "B": "V-V-V. (",
+                "C": "F-V-V. (",
+                "D": "V-V-F. (",
+                "E": "F-F-F. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP PROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS) Página 11 de 13 QUESTÃO 43 Assinale a alternativa correta em relação à caracterização dos grandes grupos animais e vegetais. (A) Todos os animais são vertebrados. (B) As plantas não possuem tecidos diferenciados. (C) Os invertebrados representam a maior parte da diversidade animal. (D) As plantas são incapazes de se reproduzir sexualmente. (E) Os fungos são classificados como animais."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "D"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 29: As baratas são insetos predominantemente \nterrestres, encontrados em diversos habitats, \ncomo matas, desertos e cavernas. Assinale a \nalternativa que apresenta o filo ao qual as baratas \npertencem.",
+            "questão": "Questão 44",
+            "enunciado": "As baratas são insetos predominantemente terrestres, encontrados em diversos habitats, como matas, desertos e cavernas. Assinale a alternativa que apresenta o filo ao qual as baratas pertencem. (",
             "alternativas": {
-                "A": "Arthropoda.",
-                "B": "Annelida.",
-                "C": "Mollusca.",
-                "D": "Echinodermata.",
-                "E": "Chordata. \n \n \n \n \n \n \n \n \n \n \n \n \n \n QUESTÃO 45 \nAs estruturas microscópicas a seguir são \nencontradas nas superfícies das folhas, caules e \noutras partes de plantas. Cada uma consiste em \nduas células-guarda circundadas por células \nepidérmicas. Essas células-guarda controlam a \nabertura e o fechamento da estrutura, regulando \na troca de gases e a transpiração nas plantas. \n \nAs estruturas ampliadas são denominadas: \n(A) sépalas. \n(B) androceus. \n(C) estômatos.  \n(D) gineceus.  \n(E) pistilos."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 30: Doenças virais, como a COVID-19, são causadas \npor agentes infecciosos, podendo se espalhar \nrapidamente. A respeito dos vírus, assinale a \nalternativa correta.",
-            "alternativas": {
-                "A": "Pertencem ao reino protista.",
-                "B": "São echinodermatas.",
-                "C": "Pertencem ao reino Animalia.",
-                "D": "São artrópodos.",
-                "E": "Os vírus não se enquadram em nenhum dos \ncinco reinos. \n \n \n \n \n \nPrefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nPROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS)                                                                                      Página 12 de 13 QUESTÃO 47 \nEm ecologia, o fenômeno \"mutualismo\" se \nrefere: \n(A) à competição entre organismos por recursos \nlimitados. \n(B) ao relacionamento simbiótico onde ambos os \norganismos envolvidos se beneficiam. \n(C) à relação parasitária, em que um organismo \nse alimenta de outro causando-lhe dano. \n(D) à migração sazonal de animais em busca de \ncondições climáticas favoráveis. \n(E) à distribuição geográfica de uma espécie ao \nlongo de diferentes habitats."
+                "A": "Arthropoda. (",
+                "B": "Annelida. (",
+                "C": "Mollusca. (",
+                "D": "Echinodermata. (",
+                "E": "Chordata."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 31: Nutação é uma oscilação leve e periódica no eixo \nde rotação da Terra, devido à influência \ngravitacional da Lua. Essa oscilação ocorre a \ncada:",
+            "questão": "Questão 45",
+            "enunciado": "As estruturas microscópicas a seguir são encontradas nas superfícies das folhas, caules e outras partes de plantas. Cada uma consiste em duas células-guarda circundadas por células epidérmicas. Essas células-guarda controlam a abertura e o fechamento da estrutura, regulando a troca de gases e a transpiração nas plantas. As estruturas ampliadas são denominadas: (",
             "alternativas": {
-                "A": "18,6 anos.",
-                "B": "6 meses.",
-                "C": "5,5 anos.",
-                "D": "1 ano.",
+                "A": "sépalas. (",
+                "B": "androceus. (",
+                "C": "estômatos. (",
+                "D": "gineceus. (",
+                "E": "pistilos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 46",
+            "enunciado": "Doenças virais, como a COVID-19, são causadas por agentes infecciosos, podendo se espalhar rapidamente. A respeito dos vírus, assinale a alternativa correta. (",
+            "alternativas": {
+                "A": "Pertencem ao reino protista. (",
+                "B": "São echinodermatas. (",
+                "C": "Pertencem ao reino Animalia. (",
+                "D": "São artrópodos. (",
+                "E": "Os vírus não se enquadram em nenhum dos cinco reinos. Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP PROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS) Página 12 de 13 QUESTÃO 47 Em ecologia, o fenômeno \"mutualismo\" se refere: (A) à competição entre organismos por recursos limitados. (B) ao relacionamento simbiótico onde ambos os organismos envolvidos se beneficiam. (C) à relação parasitária, em que um organismo se alimenta de outro causando-lhe dano. (D) à migração sazonal de animais em busca de condições climáticas favoráveis. (E) à distribuição geográfica de uma espécie ao longo de diferentes habitats."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 48",
+            "enunciado": "Nutação é uma oscilação leve e periódica no eixo de rotação da Terra, devido à influência gravitacional da Lua. Essa oscilação ocorre a cada: (",
+            "alternativas": {
+                "A": "18,6 anos. (",
+                "B": "6 meses. (",
+                "C": "5,5 anos. (",
+                "D": "1 ano. (",
                 "E": "3 meses."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2023",
+            "questão": "Questão 49",
+            "enunciado": "Assinale a alternativa que apresenta os principais produtos da fotossíntese. (",
+            "alternativas": {
+                "A": "Oxigênio e glicose. (",
+                "B": "Dióxido de carbono e água. (",
+                "C": "Nitrogênio e oxigênio. (",
+                "D": "Glicose e dióxido de carbono. (",
+                "E": "Monóxido de carbono e água."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "PROFESSOR DE ENSINO BÁSICO II \n(CIÊNCIAS)",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2023",
-            "questão": "Questão 32: Assinale a alternativa que apresenta os principais \nprodutos da fotossíntese.",
+            "questão": "Questão 50",
+            "enunciado": "Assinale a alternativa que apresenta o principal gás responsável pelo efeito estufa. (",
             "alternativas": {
-                "A": "Oxigênio e glicose.",
-                "B": "Dióxido de carbono e água.",
-                "C": "Nitrogênio e oxigênio.",
-                "D": "Glicose e dióxido de carbono.",
-                "E": "Monóxido de carbono e água. \n \n \n \n \n QUESTÃO 50 \nAssinale a alternativa que apresenta o principal \ngás responsável pelo efeito estufa.  \n(A) CH 4(g) \n(B) CO 2(g) \n(C) H 2(g) \n(D) N 2(g) \n(E) CO (g) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Lorena - Concurso Público 01/2023                                                 INSTITUTO AVANÇA-SP \n \nPROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS)                                                                                      Página 13 de 13"
+                "A": "CH 4(g) (",
+                "B": "CO 2(g) (",
+                "C": "H 2(g) (",
+                "D": "N 2(g) (",
+                "E": "CO (g) Prefeitura Municipal de Lorena - Concurso Público 01/2023 INSTITUTO AVANÇA-SP PROFESSOR DE ENSINO BÁSICO II (CIÊNCIAS) Página 13 de 13"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "C"
         }
     ]
 }
