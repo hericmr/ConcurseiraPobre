@@ -4,27 +4,29 @@
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: Segundo a reportagem, os escritos \nmatemáticos de Muhammad ibn Mūsā al -\nKhwārizmī:",
+            "questão": "Questão 1",
+            "enunciado": "Segundo a reportagem, os escritos matemáticos de Muhammad ibn Mūsā al - Khwārizmī: (",
             "alternativas": {
-                "A": "Influenciaram indiretamente a \nconceituação dos algorismos no Ocidente.",
-                "B": "Motivaram a construção da Casa da \nSabedoria, em Bagdá.",
-                "C": "Apresentaram o conceito subjacente de \nalgoritmo, por meio da resolução de equações \nmatemáticas.",
-                "D": "Foram a base de livros didáticos de \ndiversas disciplinas nas universidades \neuropeias até o século XVI.",
-                "E": "Introduziram os algoritmos utilizados \natualmente na tecnologia de computação."
+                "A": "Influenciaram indiretamente a conceituação dos algorismos no Ocidente. (",
+                "B": "Motivaram a construção da Casa da Sabedoria, em Bagdá. (",
+                "C": "Apresentaram o conceito subjacente de algoritmo, por meio da resolução de equações matemáticas. (",
+                "D": "Foram a base de livros didáticos de diversas disciplinas nas universidades europeias até o século XVI. (",
+                "E": "Introduziram os algoritmos utilizados atualmente na tecnologia de computação."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: Analise os excertos a seguir, retirados do texto:  \n \nI. Essa se tornou sua obra mais importante.  \n \nII. Ele era um estudioso da Casa da Sabedoria \n(Bayt al -Hikmah) em Bagdá.  \n \nIII. Sua obra foi concebida para ser uma \nferramenta prática de ensino.  \n \nNas sentenças apresentadas ocorrem diferentes \ntipos de pronomes. Em relação ao texto, a \nfunção desempenhada por todos esses \npronomes é de:",
+            "questão": "Questão 2",
+            "enunciado": "Analise os excertos a seguir, retirados do texto: I. Essa se tornou sua obra mais importante. II. Ele era um estudioso da Casa da Sabedoria (Bayt al -Hikmah) em Bagdá. III. Sua obra foi concebida para ser uma ferramenta prática de ensino. Nas sentenças apresentadas ocorrem diferentes tipos de pronomes. Em relação ao texto, a função desempenhada por todos esses pronomes é de: (",
             "alternativas": {
-                "A": "anáfora, com a retomada de referentes \nmencionados no texto.",
-                "B": "anáfora, com a introdução de novos \nreferentes no texto.",
-                "C": "catáfora, com a retomada de referentes \nmencionados no texto.",
-                "D": "catáfora, com a introdução de novos \nreferentes no texto.",
-                "E": "paráfrase, com a recorrência de conteúdos \ncomo forma de sequenciação textual.  \n \n QUESTÃO 03 \nA alternativa que melhor reescreve a definição \nde algoritmo dada no texto — “um \nprocedimento para resolver um problema \nmatemático em um número finito de etapas; \num procedimento passo a passo para resolver \num problema” —, de maneira objetiva e clara, \né: \n(A) Um processo com quantidade ilimitada de \netapas voltado à resolução de problemas \nmatemáticos.  \n(B) Um método com quantidade limitada de \netapas voltado à resolução de um problema \nmatemático.  \n(C) Um conjunto irrestrito de ações que \nobjetivam a resolução de problemas de \ndiferentes naturezas.   \n(D) O desenvolvimento de problemas \nmatemáticos através de um número limitado de \netapas.   \n(E) A ação voltada à resolução de problemas \nquaisquer, desenvolvida em um número \nilimitado de etapas."
+                "A": "anáfora, com a retomada de referentes mencionados no texto. (",
+                "B": "anáfora, com a introdução de novos referentes no texto. (",
+                "C": "catáfora, com a retomada de referentes mencionados no texto. (",
+                "D": "catáfora, com a introdução de novos referentes no texto. (",
+                "E": "paráfrase, com a recorrência de conteúdos como forma de sequenciação textual."
             },
             "resposta_correta": "B"
         },
@@ -32,12 +34,28 @@
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: A palavra “polímata”, em seu sentido utilizado \npara descrever Muhammad ibn Mūsā al -\nKhwārizmī — “o cientista e polímata persa  \n(...)” — é um sinônimo de:",
+            "questão": "Questão 3",
+            "enunciado": "A alternativa que melhor reescreve a definição de algoritmo dada no texto — “um procedimento para resolver um problema matemático em um número finito de etapas; um procedimento passo a passo para resolver um problema” —, de maneira objetiva e clara, é: (",
             "alternativas": {
-                "A": "néscio.",
-                "B": "polígrafo.",
-                "C": "prodígio.",
-                "D": "portento.",
+                "A": "Um processo com quantidade ilimitada de etapas voltado à resolução de problemas matemáticos. (",
+                "B": "Um método com quantidade limitada de etapas voltado à resolução de um problema matemático. (",
+                "C": "Um conjunto irrestrito de ações que objetivam a resolução de problemas de diferentes naturezas. (",
+                "D": "O desenvolvimento de problemas matemáticos através de um número limitado de etapas. (",
+                "E": "A ação voltada à resolução de problemas quaisquer, desenvolvida em um número ilimitado de etapas."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4",
+            "enunciado": "A palavra “polímata”, em seu sentido utilizado para descrever Muhammad ibn Mūsā al - Khwārizmī — “o cientista e polímata persa (...)” — é um sinônimo de: (",
+            "alternativas": {
+                "A": "néscio. (",
+                "B": "polígrafo. (",
+                "C": "prodígio. (",
+                "D": "portento. (",
                 "E": "estulto."
             },
             "resposta_correta": "D"
@@ -46,13 +64,14 @@
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 4: O conjunto de palavras a seguir, retiradas do \ntexto, que apresenta somente palavras \nformadas por processos de composição é:",
+            "questão": "Questão 5",
+            "enunciado": "O conjunto de palavras a seguir, retiradas do texto, que apresenta somente palavras formadas por processos de composição é: (",
             "alternativas": {
-                "A": "procedimento; subjacente; decimal.",
-                "B": "conceito; aritmética; islâmico.",
-                "C": "trigonometria; hindu -arábico; geografia.",
-                "D": "astronomia; subtração; multiplicação.",
-                "E": "universidades; tecnologia; integrantes.  \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE APOIO ESCOLAR                                                                                                                Página 4 de 12 QUESTÃO 06 \nNas sentenças a seguir, ocorre verbo abundante \napenas em:  \n(A) Os materiais escolares foram comprados \nlogo no início do mês.  \n(B) Pensei que tivesse entregado os relatórios \nde que falei.   \n(C) A Rosa me contou sobre tudo o que \naconteceu.   \n(D) Minha mãe foi presenteada com perfumes \ne flores.   \n(E) Os livros transportam seus leitores para \noutros tempos."
+                "A": "procedimento; subjacente; decimal. (",
+                "B": "conceito; aritmética; islâmico. (",
+                "C": "trigonometria; hindu -arábico; geografia. (",
+                "D": "astronomia; subtração; multiplicação. (",
+                "E": "universidades; tecnologia; integrantes. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE APOIO ESCOLAR Página 4 de 12 QUESTÃO 06 Nas sentenças a seguir, ocorre verbo abundante apenas em: (A) Os materiais escolares foram comprados logo no início do mês. (B) Pensei que tivesse entregado os relatórios de que falei. (C) A Rosa me contou sobre tudo o que aconteceu. (D) Minha mãe foi presenteada com perfumes e flores. (E) Os livros transportam seus leitores para outros tempos."
             },
             "resposta_correta": "B"
         },
@@ -60,69 +79,14 @@
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: A sentença que apresenta um advérbio cuja \nmodificação recai sobre um adjetivo é:",
+            "questão": "Questão 7",
+            "enunciado": "A sentença que apresenta um advérbio cuja modificação recai sobre um adjetivo é: (",
             "alternativas": {
-                "A": "Sugeriram que acordássemos bem cedo \npara as atividades de recreação.",
-                "B": "O aroma da baunilha deixa o bolo de \nchocolate mais gostoso.",
-                "C": "Corra depressa para chamar os seus irmãos \npara o jantar.",
-                "D": "A nova redatora escreve muito bem certos \ngêneros textuais.",
-                "E": "Novamente, a garota faltou à aula de \nliteratura por problemas de saúde."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 6: Analise os casos de colocação pronominal a \nseguir e assinale a alternativa em que as \ncondições da sentença apresentada permitem \ntanto a próclise quanto a ênclise do pronome \noblíquo átono.",
-            "alternativas": {
-                "A": "Nunca se queixe dos seus pais, que sempre \nfizeram tudo por você.",
-                "B": "Chamar -me-iam de louco se soubessem o \nque fiz ontem à noite.",
-                "C": "Conhece verdadeiramente a pessoa por \nquem se apaixonou?",
-                "D": "Fui embora para não o provocar.",
-                "E": "Depois de algumas semanas, começou a \nmaltratá -la. QUESTÃO 09 \nA concordância nominal está correta apenas \nem:   \n \n(A) Na esquina, vi parado o homem e sua \nesposa, enquanto discutiam.  \n(B) Passados duas horas da primeira dose do \nremédio, deverá tomar a segunda.  \n(C) Os brincos e as pulseiras de ouro foram \nleiloados ainda ontem.   \n(D) Os lençóis devem ficar o mais impecáveis \npossíveis.  \n(E) O rapaz e sua mulher ajudavam -se um a \noutra."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 7: 0 \nAnalise as sentenças a seguir e assinale a \nalternativa em que a expressão em destaque \natua como elemento de coesão sequencial de \noposição.",
-            "alternativas": {
-                "A": "Mauro e André foram muito ágeis. Se não \nfossem eles, seríamos assaltados.",
-                "B": "Ela deu -lhe todas as oportunidades. Ele, \nentretanto , não soube aproveitá -las.",
-                "C": "A filha mais nova é muito mimada. A \ngarotinha  não sabe ouvir um não.",
-                "D": "Peço -te apenas isto: que honre a memória \nda minha família.",
-                "E": "O carro está estacionado naquela  vaga.  \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 8: Sabe -se que uma cédula de R$ 100,00 tem uma \nespessura de 0,25 mm. Suponha que queiramos \nfazer uma pilha num total de um bilhão de reais \nutilizando cédulas de R$ 100,00 empilhadas \numa em cima da outra. Com base nas \ninformações dadas, qual será a altura da p ilha?",
-            "alternativas": {
-                "A": "250 m.",
-                "B": "2.500 m.",
-                "C": "25.000 m.",
-                "D": "250.000 m.",
-                "E": "2.500.000 m.  \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE APOIO ESCOLAR                                                                                                                Página 5 de 12 QUESTÃO 12 \nPara fazer uma determinada receita utilizando \nmanga, as frutas precisam ser descascadas, \ndepois o caroço precisa ser retirado, e então a \npolpa restante precisa ser levada ao forno, \ntransformando -se numa biomassa. Sabe -se que \nao descascar, perde -se 5% da massa da fruta \noriginal, e ao tirar o caroço perde -se mais 20% \nda massa que re stou do processo anterior. Ao \nser levada ao forno, as polpas perdem 50% da \nmassa que tinham antes do processo. Se \nrealizarmos esse processo numa manga que \ntem inicialmente o peso de 500 gramas, qual \nserá o peso da biomassa final?  \n(A) 125 g.  \n(B) 140 g.  \n(C) 160 g.  \n(D) 190 g.  \n(E) 225 g."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 9: Um cliente vai comprar peças cerâmicas para a \nsua casa. Ao todo, ele precisa revestir uma área \nde 120 m2, e escolheu uma peça que tem \nformato quadrado de 60cmx60cm e é vendida \nem caixas onde cada caixa tem 5 peças. \nQuantas caixas, no mínimo, o cliente precisa \ncomprar para conseguir revestir todo a sua \nárea?",
-            "alternativas": {
-                "A": "65.",
-                "B": "66.",
-                "C": "67.",
-                "D": "68.",
-                "E": "69."
+                "A": "Sugeriram que acordássemos bem cedo para as atividades de recreação. (",
+                "B": "O aroma da baunilha deixa o bolo de chocolate mais gostoso. (",
+                "C": "Corra depressa para chamar os seus irmãos para o jantar. (",
+                "D": "A nova redatora escreve muito bem certos gêneros textuais. (",
+                "E": "Novamente, a garota faltou à aula de literatura por problemas de saúde."
             },
             "resposta_correta": "A"
         },
@@ -130,26 +94,88 @@
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Três máquinas em uma fábrica operam em \nciclos diferentes. A Máquina A completa um \nciclo a cada 12 minutos, a Máquina B completa \num ciclo a cada 15 minutos, e a Máquina C \ncompleta um ciclo a cada 20 minutos. Se todas \nas três máquinas começam um ciclo ao mes mo \ntempo às 8:00 da manhã, a que horas elas \ncompletarão um ciclo simultaneamente pela \nprimeira vez após as 8:00 da manhã?",
+            "questão": "Questão 8",
+            "enunciado": "Analise os casos de colocação pronominal a seguir e assinale a alternativa em que as condições da sentença apresentada permitem tanto a próclise quanto a ênclise do pronome oblíquo átono. (",
             "alternativas": {
-                "A": "9:00.",
-                "B": "8:50.",
-                "C": "8:30.",
-                "D": "8:06.",
-                "E": "9:10.  QUESTÃO 15 \nDois estudantes saem às ruas para vender \nempadas de frango e de camarão para levantar \nfundos para as suas formaturas. Por dia, cada \nestudante sai com 50 empadas de frango e 50 \nempadas de camarão. Ao final do dia, o \nestudante Pedro vendeu 40 empadas de fran go \n40 empadas de camarão, e arrecadou R$ \n480,00. Já o estudante Hugo vendeu 30 \nempadas de frango e 45 empadas de camarão e \narrecadou R$ 465,00. Sabe -se que ambos os \nestudantes praticam a mesma precificação. \nQual a soma do valor de uma empada de frango \ne um a empada de camarão?  \n(A) R$ 15,50.  \n(B) R$ 10,00.  \n(C) R$ 18,50.  \n(D) R$ 12,00.  \n(E) R$ 14,50.  \n \nNOÇÕES DE INFORMÁTICA"
+                "A": "Nunca se queixe dos seus pais, que sempre fizeram tudo por você. (",
+                "B": "Chamar -me-iam de louco se soubessem o que fiz ontem à noite. (",
+                "C": "Conhece verdadeiramente a pessoa por quem se apaixonou? (",
+                "D": "Fui embora para não o provocar. (",
+                "E": "Depois de algumas semanas, começou a maltratá -la. QUESTÃO 09 A concordância nominal está correta apenas em: (A) Na esquina, vi parado o homem e sua esposa, enquanto discutiam. (B) Passados duas horas da primeira dose do remédio, deverá tomar a segunda. (C) Os brincos e as pulseiras de ouro foram leiloados ainda ontem. (D) Os lençóis devem ficar o mais impecáveis possíveis. (E) O rapaz e sua mulher ajudavam -se um a outra."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         },
         {
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Assinale a alternativa que completa \ncorretamente a lacuna do texto a seguir, de \nacordo com as características relacionadas ao \nWindows 7:  \nO Windows 7 é um ____________ \ndesenvolvido pela Microsoft, parte da série de \nsistemas Windows, projetado para \ncomputadores pessoais, abrangendo desde uso \ndoméstico até empresarial.",
+            "questão": "Questão 1",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa em que a expressão em destaque atua como elemento de coesão sequencial de oposição. (",
             "alternativas": {
-                "A": "sistema operacional",
-                "B": "periférico de saída",
-                "C": "periférico de entrada",
-                "D": "protocolo de internet",
+                "A": "Mauro e André foram muito ágeis. Se não fossem eles, seríamos assaltados. (",
+                "B": "Ela deu -lhe todas as oportunidades. Ele, entretanto , não soube aproveitá -las. (",
+                "C": "A filha mais nova é muito mimada. A garotinha não sabe ouvir um não. (",
+                "D": "Peço -te apenas isto: que honre a memória da minha família. (",
+                "E": "O carro está estacionado naquela vaga. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 11",
+            "enunciado": "Sabe -se que uma cédula de R$ 100,00 tem uma espessura de 0,25 mm. Suponha que queiramos fazer uma pilha num total de um bilhão de reais utilizando cédulas de R$ 100,00 empilhadas uma em cima da outra. Com base nas informações dadas, qual será a altura da p ilha? (",
+            "alternativas": {
+                "A": "250 m. (",
+                "B": "2.500 m. (",
+                "C": "25.000 m. (",
+                "D": "250.000 m. (",
+                "E": "2.500.000 m. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE APOIO ESCOLAR Página 5 de 12 QUESTÃO 12 Para fazer uma determinada receita utilizando manga, as frutas precisam ser descascadas, depois o caroço precisa ser retirado, e então a polpa restante precisa ser levada ao forno, transformando -se numa biomassa. Sabe -se que ao descascar, perde -se 5% da massa da fruta original, e ao tirar o caroço perde -se mais 20% da massa que re stou do processo anterior. Ao ser levada ao forno, as polpas perdem 50% da massa que tinham antes do processo. Se realizarmos esse processo numa manga que tem inicialmente o peso de 500 gramas, qual será o peso da biomassa final? (A) 125 g. (B) 140 g. (C) 160 g. (D) 190 g. (E) 225 g."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 13",
+            "enunciado": "Um cliente vai comprar peças cerâmicas para a sua casa. Ao todo, ele precisa revestir uma área de 120 m2, e escolheu uma peça que tem formato quadrado de 60cmx60cm e é vendida em caixas onde cada caixa tem 5 peças. Quantas caixas, no mínimo, o cliente precisa comprar para conseguir revestir todo a sua área? (",
+            "alternativas": {
+                "A": "65. (",
+                "B": "66. (",
+                "C": "67. (",
+                "D": "68. (",
+                "E": "69."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14",
+            "enunciado": "Três máquinas em uma fábrica operam em ciclos diferentes. A Máquina A completa um ciclo a cada 12 minutos, a Máquina B completa um ciclo a cada 15 minutos, e a Máquina C completa um ciclo a cada 20 minutos. Se todas as três máquinas começam um ciclo ao mes mo tempo às 8:00 da manhã, a que horas elas completarão um ciclo simultaneamente pela primeira vez após as 8:00 da manhã? (",
+            "alternativas": {
+                "A": "9:00. (",
+                "B": "8:50. (",
+                "C": "8:30. (",
+                "D": "8:06. (",
+                "E": "9:10. QUESTÃO 15 Dois estudantes saem às ruas para vender empadas de frango e de camarão para levantar fundos para as suas formaturas. Por dia, cada estudante sai com 50 empadas de frango e 50 empadas de camarão. Ao final do dia, o estudante Pedro vendeu 40 empadas de fran go 40 empadas de camarão, e arrecadou R$ 480,00. Já o estudante Hugo vendeu 30 empadas de frango e 45 empadas de camarão e arrecadou R$ 465,00. Sabe -se que ambos os estudantes praticam a mesma precificação. Qual a soma do valor de uma empada de frango e um a empada de camarão? (A) R$ 15,50. (B) R$ 10,00. (C) R$ 18,50. (D) R$ 12,00. (E) R$ 14,50. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16",
+            "enunciado": "Assinale a alternativa que completa corretamente a lacuna do texto a seguir, de acordo com as características relacionadas ao Windows 7: O Windows 7 é um ____________ desenvolvido pela Microsoft, parte da série de sistemas Windows, projetado para computadores pessoais, abrangendo desde uso doméstico até empresarial. (",
+            "alternativas": {
+                "A": "sistema operacional (",
+                "B": "periférico de saída (",
+                "C": "periférico de entrada (",
+                "D": "protocolo de internet (",
                 "E": "servidor de e -mails"
             },
             "resposta_correta": "D"
@@ -158,26 +184,28 @@
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: Ao clicar com o botão direito sobre uma pasta \ndo Windows 7, uma das opções que será \napresentada para o usuário será a ação de:",
+            "questão": "Questão 17",
+            "enunciado": "Ao clicar com o botão direito sobre uma pasta do Windows 7, uma das opções que será apresentada para o usuário será a ação de: (",
             "alternativas": {
-                "A": "Indexar.",
-                "B": "Renomear.",
-                "C": "Corromper.",
-                "D": "Fixar em configurações.",
-                "E": "Fixar em reprodução automática.  \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE APOIO ESCOLAR                                                                                                                Página 6 de 12 QUESTÃO 18 \nPara recortar uma pasta localizada no \nWindows 7 é possível clicar com o botão \nesquerdo do mouse sobre ela e selecionar o \ncomando:  \n \n(A) Alt + O.  \n(B) Alt + P.  \n(C) Ctrl + T.  \n(D) Ctrl + X.  \n(E) Ctrl + Z."
+                "A": "Indexar. (",
+                "B": "Renomear. (",
+                "C": "Corromper. (",
+                "D": "Fixar em configurações. (",
+                "E": "Fixar em reprodução automática. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE APOIO ESCOLAR Página 6 de 12 QUESTÃO 18 Para recortar uma pasta localizada no Windows 7 é possível clicar com o botão esquerdo do mouse sobre ela e selecionar o comando: (A) Alt + O. (B) Alt + P. (C) Ctrl + T. (D) Ctrl + X. (E) Ctrl + Z."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "D"
         },
         {
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: Para substituir um texto digitado no Microsoft \nWord, o redator deve acessar a guia “Página \nInicial”, clicar sobre “Substituir” e digitar o \ntexto que será substituído no campo:",
+            "questão": "Questão 19",
+            "enunciado": "Para substituir um texto digitado no Microsoft Word, o redator deve acessar a guia “Página Inicial”, clicar sobre “Substituir” e digitar o texto que será substituído no campo: (",
             "alternativas": {
-                "A": "Alterar.",
-                "B": "Corrigir.",
-                "C": "Reorganizar.",
-                "D": "Redefinir.",
+                "A": "Alterar. (",
+                "B": "Corrigir. (",
+                "C": "Reorganizar. (",
+                "D": "Redefinir. (",
                 "E": "Localizar."
             },
             "resposta_correta": "C"
@@ -186,155 +214,196 @@
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Observe a ilustração a seguir, extraída do \nMicrosoft Word, e assinale a alternativa que \nmelhor descreve o nome e utilidade do botão \nem destaque sob o cursor na imagem:  \n \nFonte: 1 https://support.microsoft.com/",
+            "questão": "Questão 20",
+            "enunciado": "Observe a ilustração a seguir, extraída do Microsoft Word, e assinale a alternativa que melhor descreve o nome e utilidade do botão em destaque sob o cursor na imagem: Fonte: 1 https://support.microsoft.com/ (",
             "alternativas": {
-                "A": "Tachar.",
-                "B": "Tipografia.",
-                "C": "Remover.",
-                "D": "Classificar.",
-                "E": "Justificar.  \n \n \n CONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 15: A movimentação dos alunos, aparentemente \numa atividade simples e cotidiana, requer a \nadoção de uma série de cuidados que visam \ndesde a segurança até o bem -estar dos alunos, \nfuncionários e comunidade.  \nAssim, coloque V (verdadeiro) e F (falso) e \nassinale a alternativa correspondente.  \n \n[...] O controle de entrada e saída de alunos \ncompreende todas as ações que são tomadas no \nâmbito interno do ambiente educacional.  \n \n[...] O uso de sinalização diferenciada \ncorrobora para despertar a atenção tanto dos \nmotoristas quanto dos pedestres, facilitando o \nandamento do fluxo dessas duas variáveis.  \n \n[...] Rodízio de horários pode ser uma via \nconsiderada oportuna para desobstruir o acesso \na escolas localizadas em área de grande \nrotatividade urbana.  \n \n[...] O atendimento a pais e responsáveis deve \nser previamente agendado, sendo considerada \numa alternativa eficaz o esclarecimento de \ndúvidas ao término das atividades escolares.  \n \n[...] Ao final do ano letivo, deve -se checar a \nlista dos responsáveis de cada aluno, no intuito \nde garantir a segurança de cada um deles.",
-            "alternativas": {
-                "A": "V, V, F, F, V",
-                "B": "F, V, V, F, F",
-                "C": "F, V, V, V, F",
-                "D": "V, V, V, F, F",
-                "E": "F, V, F, V, F  \n \n \n \nPrefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE APOIO ESCOLAR                                                                                                                Página 7 de 12 QUESTÃO 22  \nAo analisar a conduta adotada dentro do \nâmbito escolar, é pertinente afirmar:  \n(A) A organização das atividades de apoio \ntécnico -administrativo são específicas ao \ncorpo docente, logo não há a necessidade do \nconhecimento desses aspectos pelos demais \nfuncionários.  \n(B) O Regimento Interno contém o conjunto de \nregras que disciplinam especificamente a ação \npedagógica, logo deve ser compreendido pelo \ncorpo docente e profissionais que atuam na \ngestão escolar.  \n(C) A manutenção da ordem e da observância \ndas normas da escola vai de encontro aos \npreceitos éticos que fundamentam as relações \nlaborais.  \n(D) A conduta profissional adotada deve ser \nproporcional ao salário e às gratificações \nconcedidas.  \n(E) Um comportamento em prol da consecução \ndos objetivos estabelecidos pela unidade \nescolar traz benefícios amplos que \ncompreendem todos os envolvidos no processo \nde ensino -aprendizagem."
+                "A": "Tachar. (",
+                "B": "Tipografia. (",
+                "C": "Remover. (",
+                "D": "Classificar. (",
+                "E": "Justificar. CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: O Brasil, ao assinar as Declarações de Jomtien \nem 1990 e de Salamanca em 1994, reconhece \nque mudança no campo da educação?",
+            "questão": "Questão 21",
+            "enunciado": "A movimentação dos alunos, aparentemente uma atividade simples e cotidiana, requer a adoção de uma série de cuidados que visam desde a segurança até o bem -estar dos alunos, funcionários e comunidade. Assim, coloque V (verdadeiro) e F (falso) e assinale a alternativa correspondente. [...] O controle de entrada e saída de alunos compreende todas as ações que são tomadas no âmbito interno do ambiente educacional. [...] O uso de sinalização diferenciada corrobora para despertar a atenção tanto dos motoristas quanto dos pedestres, facilitando o andamento do fluxo dessas duas variáveis. [...] Rodízio de horários pode ser uma via considerada oportuna para desobstruir o acesso a escolas localizadas em área de grande rotatividade urbana. [...] O atendimento a pais e responsáveis deve ser previamente agendado, sendo considerada uma alternativa eficaz o esclarecimento de dúvidas ao término das atividades escolares. [...] Ao final do ano letivo, deve -se checar a lista dos responsáveis de cada aluno, no intuito de garantir a segurança de cada um deles. (",
             "alternativas": {
-                "A": "A necessidade de desenvolver \ninstrumentos que assegurem a integração dos \nalunos com deficiência.",
-                "B": "A relevância da Educação Especial como \ninstrumento que permite a educação dos alunos \ncom deficiência.",
-                "C": "O reconhecimento do direito de todos \nparticiparem do ensino de forma regular.",
-                "D": "A necessidade de prover as adaptações \nnecessárias para que todos os alunos se sintam \nintegrados no ambiente educacional.",
-                "E": "A importância de se ter um modelo de \neducação flexível e adaptável a todas as \nrealidades.  QUESTÃO 24  \nDentre os diversos instrumentos, que vem \nsendo implementados ao longo do tempo, \nvisando orientar as ações em prol da \nconstrução de um ambiente educacional \ninclusivo, é possível destacar, por exemplo, o \nIndex para a inclusão. Em relação ao referido \ninstrume nto, é possível observar que ele é \ndividido em três dimensões. Uma delas foi \ndestacada em qual alternativa?  \n(A) formativas  \n(B) pedagógicas  \n(C) sociais  \n(D) políticas  \n(E) éticas"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 17: Tomando por base o Estatuto da Criança e do \nAdolescente (ECA), a partir dos artigos 1º ao \n6º, destaque a alternativa que condiz de forma \nplena com o instrumento legal em questão.",
-            "alternativas": {
-                "A": "O ECA aplica -se estritamente à criança \n(até doze anos incompletos) e ao adolescente \n(entre doze e dezoito anos de idade).",
-                "B": "A efetivação dos direitos definidos por \nmeio do ECA é de responsabilidade estrita do \nPoder Público que deverá estabelecer \nestratégias que viabilizem os direitos a serem \nassegurados para a criança e o adolescente.",
-                "C": "Por meio do ECA, é estabelecida a \nprimazia da criança e do adolescente receber \nproteção e socorro em caso de violação de seus \ndireitos.",
-                "D": "Observa -se que deverá ter uma destinação \nprivilegiada de recursos nas áreas relacionadas \ncom a educação da criança e do adolescente.",
-                "E": "Por meio do ECA, é ratificada a preferência \nna formulação e na execução das políticas \nsociais públicas."
+                "A": "V, V, F, F, V (",
+                "B": "F, V, V, F, F (",
+                "C": "F, V, V, V, F (",
+                "D": "V, V, V, F, F (",
+                "E": "F, V, F, V, F Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE APOIO ESCOLAR Página 7 de 12 QUESTÃO 22 Ao analisar a conduta adotada dentro do âmbito escolar, é pertinente afirmar: (A) A organização das atividades de apoio técnico -administrativo são específicas ao corpo docente, logo não há a necessidade do conhecimento desses aspectos pelos demais funcionários. (B) O Regimento Interno contém o conjunto de regras que disciplinam especificamente a ação pedagógica, logo deve ser compreendido pelo corpo docente e profissionais que atuam na gestão escolar. (C) A manutenção da ordem e da observância das normas da escola vai de encontro aos preceitos éticos que fundamentam as relações laborais. (D) A conduta profissional adotada deve ser proporcional ao salário e às gratificações concedidas. (E) Um comportamento em prol da consecução dos objetivos estabelecidos pela unidade escolar traz benefícios amplos que compreendem todos os envolvidos no processo de ensino -aprendizagem."
             },
             "resposta_correta": "C"
         },
         {
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: De acordo com o artigo 13 do ECA, qual órgão \ndeve ser acionado em caso de suspeita ou \nconfirmação de castigo físico, tratamento cruel \nou degradante e de maus tratos contra criança \nou adolescente?",
+            "questão": "Questão 23",
+            "enunciado": "O Brasil, ao assinar as Declarações de Jomtien em 1990 e de Salamanca em 1994, reconhece que mudança no campo da educação? (",
             "alternativas": {
-                "A": "Polícia Militar",
-                "B": "Delegacia da Mulher",
-                "C": "Conselho Regional de Direitos Humanos",
-                "D": "Conselho Tutelar",
-                "E": "Defensoria Pública  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE APOIO ESCOLAR                                                                                                                Página 8 de 12 QUESTÃO 27  \nEm observância literal ao artigo 16 do ECA, \ndestaque a alternativa a seguir que ratifica um \ndos aspectos compreendidos no âmbito do \ndireito à liberdade.  \n \n(A) Ir, vir e estar em todos os logradouros \npúblicos e espaços comunitários, sem nenhum \ntipo de restrição.  \n(B) Estudar e participar de competições \nesportivas.  \n(C) Participar da vida política, na forma da lei.  \n(D) Expressar sua opinião, desde que não seja \ncontrária aos princípios éticos.  \n(E) Participar da vida familiar e comunitária, \ndentro dos parâmetros de conduta \npredefinidos."
+                "A": "A necessidade de desenvolver instrumentos que assegurem a integração dos alunos com deficiência. (",
+                "B": "A relevância da Educação Especial como instrumento que permite a educação dos alunos com deficiência. (",
+                "C": "O reconhecimento do direito de todos participarem do ensino de forma regular. (",
+                "D": "A necessidade de prover as adaptações necessárias para que todos os alunos se sintam integrados no ambiente educacional. (",
+                "E": "A importância de se ter um modelo de educação flexível e adaptável a todas as realidades. QUESTÃO 24 Dentre os diversos instrumentos, que vem sendo implementados ao longo do tempo, visando orientar as ações em prol da construção de um ambiente educacional inclusivo, é possível destacar, por exemplo, o Index para a inclusão. Em relação ao referido instrume nto, é possível observar que ele é dividido em três dimensões. Uma delas foi destacada em qual alternativa? (A) formativas (B) pedagógicas (C) sociais (D) políticas (E) éticas"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "B"
         },
         {
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Em relação a questões de saúde no espaço \nescolar, é possível destacar a relevância do \nPrograma Saúde na Escola (PSE) que visa a \nintegração e articulação permanente da \neducação e da saúde, proporcionando melhoria \nda qualidade de vida da população brasileira. \nNesse sentido, é possível destacar a relevância \nde um dos instrumentos presentes no contexto \neducacional que possibilit a a melhor \ncompreensão das estratégias firmadas entre a \nescola e a unidade básica de saúde. Que \ninstrumento é esse?",
+            "questão": "Questão 25",
+            "enunciado": "Tomando por base o Estatuto da Criança e do Adolescente (EC",
             "alternativas": {
-                "A": "Regimento Interno",
-                "B": "Plano anual de atividades educacionais",
-                "C": "Plano de saúde no espaço escolar",
-                "D": "Projeto Político -Pedagógico",
-                "E": "Diretriz curricular  \n \n \n \n \n QUESTÃO 29 \nLeia os enunciados a seguir e marque \nposteriormente a alternativa correspondente.  \n \nI – As emergências neurológicas que causam \ndistúrbios na atividade química ou elétrica do \ncérebro, tais como desmaios e/ou convulsões, \nem todas as situações são consideradas \nameaças à vida.  \n \nII – Os dois pontos principais a serem \nobservados são o rápido reconhecimento da \ncondição e o manejo vigoroso das vias áreas, a \nfim de evitar a falta de oxigênio.  \n \nIII – Há pessoas que sofrem convulsões \nregularmente e, em função disso, requerem um \ncuidado contínuo e sistemático.  \n \nIV- A situação convulsiva é considerada \nemergência médica, se a vítima passar de uma \ncrise convulsiva para a outra sem primeiro \nrecobrar a consciência.  \n \nV – Em crianças abaixo de 5 anos, a febre é a \ncausa mais comum de convulsões, geralmente, \na elevação rápida da temperatura e não o grau \nda febre é que causa a convulsão.  \n \n(A) Todas as alternativas são corretas.  \n(B) Todas as alternativas são incorretas.  \n(C) Apenas a alternativa V é incorreta.  \n(D) Apenas as alternativas I e III estão \nincorretas.  \n(E) Apenas as alternativas IV e V são \nincorretas.  \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE APOIO ESCOLAR                                                                                                                Página 9 de 12 QUESTÃO 30  \nLeia os enunciados e marque a alternativa que \ntraz um dado incorreto.  \n \n(A) A qualidade dos serviços prestados possui \nínfima relação com a forma como os clientes \ninternos são tratados.  \n(B) O profissional deve ter ciência acerca das \npolíticas e regras internas, no intuito de \nadequar seu comportamento em conformidade \ncom as diretrizes predefinidas.  \n(C) Ao adotar uma postura pautada na \nmediação do conflito, o profissional torna -se \nmenos propenso a tratar o público interno e \nexterno de forma mais equilibrada e \ncondizente com as regras do bom \ncomportamento.  \n(D) O clima organizacional exerce influência \nsobre o comportamento adotado pelo \nprofissional.  \n(E) O comportamento adotado pelo \nprofissional não deve privilegiar um colega de \ntrabalho em detrimento dos demais clientes \ninternos e/ou externos."
+                "A": ", a partir dos artigos 1º ao 6º, destaque a alternativa que condiz de forma plena com o instrumento legal em questão. (A) O ECA aplica -se estritamente à criança (até doze anos incompletos) e ao adolescente (entre doze e dezoito anos de idade). (",
+                "B": "A efetivação dos direitos definidos por meio do ECA é de responsabilidade estrita do Poder Público que deverá estabelecer estratégias que viabilizem os direitos a serem assegurados para a criança e o adolescente. (",
+                "C": "Por meio do ECA, é estabelecida a primazia da criança e do adolescente receber proteção e socorro em caso de violação de seus direitos. (",
+                "D": "Observa -se que deverá ter uma destinação privilegiada de recursos nas áreas relacionadas com a educação da criança e do adolescente. (",
+                "E": "Por meio do ECA, é ratificada a preferência na formulação e na execução das políticas sociais públicas."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26",
+            "enunciado": "De acordo com o artigo 13 do ECA, qual órgão deve ser acionado em caso de suspeita ou confirmação de castigo físico, tratamento cruel ou degradante e de maus tratos contra criança ou adolescente? (",
+            "alternativas": {
+                "A": "Polícia Militar (",
+                "B": "Delegacia da Mulher (",
+                "C": "Conselho Regional de Direitos Humanos (",
+                "D": "Conselho Tutelar (",
+                "E": "Defensoria Pública Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE APOIO ESCOLAR Página 8 de 12 QUESTÃO 27 Em observância literal ao artigo 16 do ECA, destaque a alternativa a seguir que ratifica um dos aspectos compreendidos no âmbito do direito à liberdade. (A) Ir, vir e estar em todos os logradouros públicos e espaços comunitários, sem nenhum tipo de restrição. (B) Estudar e participar de competições esportivas. (C) Participar da vida política, na forma da lei. (D) Expressar sua opinião, desde que não seja contrária aos princípios éticos. (E) Participar da vida familiar e comunitária, dentro dos parâmetros de conduta predefinidos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28",
+            "enunciado": "Em relação a questões de saúde no espaço escolar, é possível destacar a relevância do Programa Saúde na Escola (PSE) que visa a integração e articulação permanente da educação e da saúde, proporcionando melhoria da qualidade de vida da população brasileira. Nesse sentido, é possível destacar a relevância de um dos instrumentos presentes no contexto educacional que possibilit a a melhor compreensão das estratégias firmadas entre a escola e a unidade básica de saúde. Que instrumento é esse? (",
+            "alternativas": {
+                "A": "Regimento Interno (",
+                "B": "Plano anual de atividades educacionais (",
+                "C": "Plano de saúde no espaço escolar (",
+                "D": "Projeto Político -Pedagógico (",
+                "E": "Diretriz curricular"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29",
+            "enunciado": "Leia os enunciados a seguir e marque posteriormente a alternativa correspondente. I – As emergências neurológicas que causam distúrbios na atividade química ou elétrica do cérebro, tais como desmaios e/ou convulsões, em todas as situações são consideradas ameaças à vida. II – Os dois pontos principais a serem observados são o rápido reconhecimento da condição e o manejo vigoroso das vias áreas, a fim de evitar a falta de oxigênio. III – Há pessoas que sofrem convulsões regularmente e, em função disso, requerem um cuidado contínuo e sistemático. IV- A situação convulsiva é considerada emergência médica, se a vítima passar de uma crise convulsiva para a outra sem primeiro recobrar a consciência. V – Em crianças abaixo de 5 anos, a febre é a causa mais comum de convulsões, geralmente, a elevação rápida da temperatura e não o grau da febre é que causa a convulsão. (",
+            "alternativas": {
+                "A": "Todas as alternativas são corretas. (",
+                "B": "Todas as alternativas são incorretas. (",
+                "C": "Apenas a alternativa V é incorreta. (",
+                "D": "Apenas as alternativas I e III estão incorretas. (",
+                "E": "Apenas as alternativas IV e V são incorretas. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE APOIO ESCOLAR Página 9 de 12 QUESTÃO 30 Leia os enunciados e marque a alternativa que traz um dado incorreto. (A) A qualidade dos serviços prestados possui ínfima relação com a forma como os clientes internos são tratados. (B) O profissional deve ter ciência acerca das políticas e regras internas, no intuito de adequar seu comportamento em conformidade com as diretrizes predefinidas. (C) Ao adotar uma postura pautada na mediação do conflito, o profissional torna -se menos propenso a tratar o público interno e externo de forma mais equilibrada e condizente com as regras do bom comportamento. (D) O clima organizacional exerce influência sobre o comportamento adotado pelo profissional. (E) O comportamento adotado pelo profissional não deve privilegiar um colega de trabalho em detrimento dos demais clientes internos e/ou externos."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Qual das condições abaixo não requer \nassistência médica em caso de convulsões?",
+            "questão": "Questão 31",
+            "enunciado": "Qual das condições abaixo não requer assistência médica em caso de convulsões? (",
             "alternativas": {
-                "A": "Vítima apresenta histórico de crises \nconvulsivas.",
-                "B": "Vítima for diabética.",
-                "C": "Vítima for lactente, gestante ou criança.",
-                "D": "Causa incerta.",
-                "E": "Crise convulsiva durar mais de 5 minutos.  \n \n \n \n \n \n QUESTÃO 3 2 \nAo analisar algumas estratégias que \ncorroboram para estreitar a relação entre escola \ne comunidade, coloque V (verdadeiro) e F \n(falso)  \n \n[...] Estabelecer um canal de comunicação \npróximo e efetivo com as famílias, \ncomunidade e demais responsáveis, a partir de \num cronograma de reuniões que sistematize \ntemas variados e de interesse específico para o \nnúcleo escolar.  \n \n[...] Acolha pais, responsáveis e outros atores \nque buscam diálogo com a escola, para isso é \npreciso unicamente abrir um espaço na agenda \nda direção da escola.  \n \n[...] Projetos são considerados um meio efetivo \nde estreitar o relacionamento comunidade e \nescola, desde que não sejam algo muito \ndemorado.  \n \n[...] Criar projetos que vão de encontro às \ncausas da comunidade.  \n \n[...] Ações que resultam impactos para a \ncomunidade têm um significado maior para os \nestudantes, corroborando para um \nengajamento maior por parte deles.  \n \n(A) V, V, V, V, V  \n(B) F, V, F, V, F  \n(C) F, F, F, F, F  \n(D) F, F, F, F, V  \n(E) V, V, F, F, V  \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE APOIO ESCOLAR                                                                                                                Página 10 de 12 QUESTÃO 33  \nPara prestar o tipo de socorro correto, em caso \nde queimaduras, é necessário saber discernir o \ntipo de queimadura, uma vez que há três tipos. \nAssim, leia as alternativas a seguir e destaque \na que foi elaborada de forma incorreta.  \n(A) As queimaduras são classificadas de \nacordo com o grau de lesão causado à pele e \ntecidos subjacentes.  \n(B) Nas queimaduras de 1º grau, a lesão \nenvolve apenas a epiderme, a área queimada \nfica avermelhada e úmida. Deve -se aplicar \nágua bem fria para interromper o processo de \nqueimadura.  \n(C) As queimaduras de 2º grau afetam a \nepiderme e a derme. Costuma ter aparência \nmuito avermelhada ou branca, muito dolorosa \ne úmida.  \n(D) A coloração escura é um indicativo de \nqueimadura de 3º grau. Nesse tipo de \nqueimadura, o paciente não sente dor.  \n(E) Se menos de 10% do corpo estiver \nqueimado, podem ser utilizados curativos \nestéreis úmidos."
+                "A": "Vítima apresenta histórico de crises convulsivas. (",
+                "B": "Vítima for diabética. (",
+                "C": "Vítima for lactente, gestante ou criança. (",
+                "D": "Causa incerta. (",
+                "E": "Crise convulsiva durar mais de 5 minutos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "Ao analisar algumas estratégias que corroboram para estreitar a relação entre escola e comunidade, coloque V (verdadeiro) e F (falso) [...] Estabelecer um canal de comunicação próximo e efetivo com as famílias, comunidade e demais responsáveis, a partir de um cronograma de reuniões que sistematize temas variados e de interesse específico para o núcleo escolar. [...] Acolha pais, responsáveis e outros atores que buscam diálogo com a escola, para isso é preciso unicamente abrir um espaço na agenda da direção da escola. [...] Projetos são considerados um meio efetivo de estreitar o relacionamento comunidade e escola, desde que não sejam algo muito demorado. [...] Criar projetos que vão de encontro às causas da comunidade. [...] Ações que resultam impactos para a comunidade têm um significado maior para os estudantes, corroborando para um engajamento maior por parte deles. (",
+            "alternativas": {
+                "A": "V, V, V, V, V (",
+                "B": "F, V, F, V, F (",
+                "C": "F, F, F, F, F (",
+                "D": "F, F, F, F, V (",
+                "E": "V, V, F, F, V Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE APOIO ESCOLAR Página 10 de 12 QUESTÃO 33 Para prestar o tipo de socorro correto, em caso de queimaduras, é necessário saber discernir o tipo de queimadura, uma vez que há três tipos. Assim, leia as alternativas a seguir e destaque a que foi elaborada de forma incorreta. (A) As queimaduras são classificadas de acordo com o grau de lesão causado à pele e tecidos subjacentes. (B) Nas queimaduras de 1º grau, a lesão envolve apenas a epiderme, a área queimada fica avermelhada e úmida. Deve -se aplicar água bem fria para interromper o processo de queimadura. (C) As queimaduras de 2º grau afetam a epiderme e a derme. Costuma ter aparência muito avermelhada ou branca, muito dolorosa e úmida. (D) A coloração escura é um indicativo de queimadura de 3º grau. Nesse tipo de queimadura, o paciente não sente dor. (E) Se menos de 10% do corpo estiver queimado, podem ser utilizados curativos estéreis úmidos."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE APOIO ESCOLAR",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 34",
+            "enunciado": "Sobre a ética nas relações interpessoais, é pertinente a seguinte asserção: (",
+            "alternativas": {
+                "A": "A ética nas relações interpessoais é considerada essencial para o serviço público, dentro do ponto de vista estritamente organizacional, ao permitir a observância de regras e condutas que contribuam para que os objetivos organizacionais sejam alcançados. (",
+                "B": "A ética compreende o limiar entre a conduta e a convivência humana. (",
+                "C": "A partir dos aspectos legais definidos, é possível descrever todas as situações que são consideradas não éticas. (",
+                "D": "Para cada situação concreta, existe uma norma ética a ser seguida criteriosamente pelo servidor público. (",
+                "E": "A ética deve ser vista como teoria, mas nunca como ciência. QUESTÃO 35 Em caso de epistaxe (hemorragias nasais), qual das medidas a seguir foi elaborada corretamente? (A) Sentar o acidentado em lugar arejado e fresco, cuidando para que seu tórax esteja recostado e a cabeça abaixada. (B) Verifique o pulso, se estiver forte, cheio e apresentar sinais de hipertensão, adote medidas a fim de evitar que haja extravasamento de mais sangue. (C) Fazer ligeira pressão com os dedos sobre a asa do orifício nasal de onde flui o sangue, para que as paredes se toquem e, por compressão direta o sangramento seja contido. (D) Inclinar a cabeça do acidentado para trás e manter a boca fechada, para evitar entrada de ar. (E) Em caso de contenção do sangramento, pedir para o acidentado assoar o nariz, a fim de desobstrui -lo."
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 21: Sobre a ética nas relações interpessoais, é \npertinente a seguinte asserção:",
+            "questão": "Questão 36",
+            "enunciado": "Ao analisar o atendimento de alunos em caso de necessidade, é possível deparar com diversas situações que vão desde um acidente até o atendimento efetivo em caso de um aluno com necessidades especiais. Assim, tomando como parâmetro a Educação Especial paut ada nas perspectivas da LDB, é verdadeira a seguinte afirmativa. (",
             "alternativas": {
-                "A": "A ética nas relações interpessoais é \nconsiderada essencial para o serviço público, \ndentro do ponto de vista estritamente \norganizacional, ao permitir a observância de \nregras e condutas que contribuam para que os \nobjetivos organizacionais sejam alcançados.",
-                "B": "A ética compreende o limiar entre a \nconduta e a convivência humana.",
-                "C": "A partir dos aspectos legais definidos, é \npossível descrever todas as situações que são \nconsideradas não éticas.",
-                "D": "Para cada situação concreta, existe uma \nnorma ética a ser seguida criteriosamente pelo \nservidor público.",
-                "E": "A ética deve ser vista como teoria, mas \nnunca como ciência.  QUESTÃO 35  \nEm caso de epistaxe (hemorragias nasais), qual \ndas medidas a seguir foi elaborada \ncorretamente?  \n(A) Sentar o acidentado em lugar arejado e \nfresco, cuidando para que seu tórax esteja \nrecostado e a cabeça abaixada.  \n(B) Verifique o pulso, se estiver forte, cheio e \napresentar sinais de hipertensão, adote \nmedidas a fim de evitar que haja \nextravasamento de mais sangue.  \n(C) Fazer ligeira pressão com os dedos sobre a \nasa do orifício nasal de onde flui o sangue, para \nque as paredes se toquem e, por compressão \ndireta o sangramento seja contido.  \n(D) Inclinar a cabeça do acidentado para trás e \nmanter a boca fechada, para evitar entrada de \nar. \n(E) Em caso de contenção do sangramento, \npedir para o acidentado assoar o nariz, a fim de \ndesobstrui -lo."
+                "A": "A Educação Especial é uma modalidade de educação escolar oferecida preferencialmente na rede especial de ensino. (",
+                "B": "Os serviços de apoio especializado serão oferecidos na escola regular, quando houver o fornecimento de documentação comprobatória. (",
+                "C": "A oferta de Educação Especial tem início na 1ª etapa do Ensino Fundamental. (",
+                "D": "Currículos, métodos, técnicas, recursos educativos e organização devem ser pensados e adaptados para atender às necessidades específicas dos educandos com deficiência. (",
+                "E": "O atendimento educacional será feito em classes, escolas ou serviços especializados, sempre que, em função das condições específicas dos alunos, não for possível a sua integração nas classes comuns de ensino regular. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE APOIO ESCOLAR Página 11 de 12 QUESTÃO 37 Dentro dos pressupostos legais estabelecidos por meio dos artigos 133 a 135 do ECA, é verdadeira a seguinte afirmativa: (A) Para a candidatura a membro do Conselho Tutelar, é exigida idade superior a dezoito anos e residir no município. (B) Lei Estadual disporá sobre a remuneração dos respectivos membros. (C) O exercício efetivo da função de conselheiro constituirá serviço público relevante e estabelecerá presunção de idoneidade civil -criminal. (D) A previsão dos recursos necessários ao funcionamento do Conselho Tutelar deverá constar na Lei Orçamentária Municipal e do Distrito Federal. (E) Um dos benefícios concedidos aos conselheiros tutelares é a gratificação que recai no dia do seu aniversário."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 22: Ao analisar o atendimento de alunos em caso \nde necessidade, é possível deparar com \ndiversas situações que vão desde um acidente \naté o atendimento efetivo em caso de um aluno \ncom necessidades especiais. Assim, tomando \ncomo parâmetro a Educação Especial paut ada \nnas perspectivas da LDB, é verdadeira a \nseguinte afirmativa.",
+            "questão": "Questão 38",
+            "enunciado": "O compromisso ético de um profissional que ocupa um cargo público é ratificado por meio de uma série de atitudes profissionais. Nesse sentido, qual das qualidades a seguir representa uma postura que alia a retidão de uma ação do servidor público com a visã o de quem está vendo de fora? (",
             "alternativas": {
-                "A": "A Educação Especial é uma modalidade de \neducação escolar oferecida preferencialmente \nna rede especial de ensino.",
-                "B": "Os serviços de apoio especializado serão \noferecidos na escola regular, quando houver o \nfornecimento de documentação \ncomprobatória.",
-                "C": "A oferta de Educação Especial tem início \nna 1ª etapa do Ensino Fundamental.",
-                "D": "Currículos, métodos, técnicas, recursos \neducativos e organização devem ser pensados \ne adaptados para atender às necessidades \nespecíficas dos educandos com deficiência.",
-                "E": "O atendimento educacional será feito em \nclasses, escolas ou serviços especializados, \nsempre que, em função das condições \nespecíficas dos alunos, não for possível a sua \nintegração nas classes comuns de ensino \nregular.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE APOIO ESCOLAR                                                                                                                Página 11 de 12 QUESTÃO 37  \nDentro dos pressupostos legais estabelecidos \npor meio dos artigos 133 a 135 do ECA, é \nverdadeira a seguinte afirmativa:  \n(A) Para a candidatura a membro do Conselho \nTutelar, é exigida idade superior a dezoito anos \ne residir no município.  \n(B) Lei Estadual disporá sobre a remuneração \ndos respectivos membros.  \n(C) O exercício efetivo da função de \nconselheiro constituirá serviço público \nrelevante e estabelecerá presunção de \nidoneidade civil -criminal.  \n(D) A previsão dos recursos necessários ao \nfuncionamento do Conselho Tutelar deverá \nconstar na Lei Orçamentária Municipal e do \nDistrito Federal.  \n(E) Um dos benefícios concedidos aos \nconselheiros tutelares é a gratificação que recai \nno dia do seu aniversário."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 23: O compromisso ético de um profissional que \nocupa um cargo público é ratificado por meio \nde uma série de atitudes profissionais. Nesse \nsentido, qual das qualidades a seguir representa \numa postura que alia a retidão de uma ação do \nservidor público com a visã o de quem está \nvendo de fora?",
-            "alternativas": {
-                "A": "Decoro",
-                "B": "Civilidade",
-                "C": "Imparcialidade",
-                "D": "Prestação de contas",
+                "A": "Decoro (",
+                "B": "Civilidade (",
+                "C": "Imparcialidade (",
+                "D": "Prestação de contas (",
                 "E": "Excelência"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "C"
         },
         {
             "cargo": "AUXILIAR DE APOIO ESCOLAR",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2024",
-            "questão": "Questão 24: De acordo com a Lei Brasileira de Inclusão da \nPessoa com Deficiência, nenhum \nestabelecimento de ensino, seja ele público ou \nprivado, tem o direito de negar a vaga ou a \nmatrícula ao aluno com necessidade \neducacional especial. Nesse sentido, a recusa \nde matr icular um aluno com necessidade \neducacional especial pode gerar quais tipos de \npunições?",
+            "questão": "Questão 39",
+            "enunciado": "De acordo com a Lei Brasileira de Inclusão da Pessoa com Deficiência, nenhum estabelecimento de ensino, seja ele público ou privado, tem o direito de negar a vaga ou a matrícula ao aluno com necessidade educacional especial. Nesse sentido, a recusa de matr icular um aluno com necessidade educacional especial pode gerar quais tipos de punições? (",
             "alternativas": {
-                "A": "Advertência oral e advertência escrita",
-                "B": "Suspensão de um mês e perda de \nbenefícios",
-                "C": "Multa e reclusão",
-                "D": "Demissão por justa causa e multa",
-                "E": "Advertência escrita e multa  QUESTÃO 40  \nDe acordo com o Eca, a criança e o adolescente \ntêm direito à educação, visando, além do \npreparo para o exercício da cidadania, quais \noutros dois critérios?  \n(A) Desenvolvimento cognitivo e raciocínio \nlógico.  \n(B) Desenvolvimento pleno e qualificação para \no trabalho.  \n(C) Alfabetização plena e capacitação para o \nmercado de trabalho.  \n(D) Formação continuada e desenvolvimento \nbásico.  \n(E) Base para o desenvolvimento e aptidão \npara o trabalho.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                INSTITUTO AVANÇA SÃO PAULO  \n \nAUXILIAR DE APOIO ESCOLAR                                                                                                                Página 12 de 12"
+                "A": "Advertência oral e advertência escrita (",
+                "B": "Suspensão de um mês e perda de benefícios (",
+                "C": "Multa e reclusão (",
+                "D": "Demissão por justa causa e multa (",
+                "E": "Advertência escrita e multa QUESTÃO 40 De acordo com o Eca, a criança e o adolescente têm direito à educação, visando, além do preparo para o exercício da cidadania, quais outros dois critérios? (A) Desenvolvimento cognitivo e raciocínio lógico. (B) Desenvolvimento pleno e qualificação para o trabalho. (C) Alfabetização plena e capacitação para o mercado de trabalho. (D) Formação continuada e desenvolvimento básico. (E) Base para o desenvolvimento e aptidão para o trabalho. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE APOIO ESCOLAR Página 12 de 12"
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         }
     ]
 }

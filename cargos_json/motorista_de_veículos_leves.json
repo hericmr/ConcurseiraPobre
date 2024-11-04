@@ -4,40 +4,58 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: De acordo com as informações presentes no texto, \no trecho <ela pode atuar não apenas no \nmetabolismo de neurônios e astrócitos, mas \ntambém é um componente importante na \nmodulação da neuroinflamação da glia=, o \npronome <ela= se refere a:",
+            "questão": "Questão 1",
+            "enunciado": "De acordo com as informações presentes no texto, o trecho <ela pode atuar não apenas no metabolismo de neurônios e astrócitos, mas também é um componente importante na modulação da neuroinflamação da glia=, o pronome <ela= se refere a: (",
             "alternativas": {
-                "A": "Inflamação",
-                "B": "Glia",
-                "C": "Proteína klotho",
-                "D": "Bactéria",
-                "E": "LPS \n \n \n \n QUESTÃO 02 \nDe acordo com o texto, assinale a alternativa que \nexplica o sentido correto do termo \n<lipopolissacarídeo =. \n(A) <secreção de citocinas pró -inflamatórias=.  \n(B) <células nervosas que têm entre suas funções \nfornecer nutrientes para a sustentação de \nneurônios=.  \n(C) <uma molécula da membrana de algumas \nbactérias=.  \n(D) <u ma característica intrínseca ao processo de \nenvelhecimento=.  \n(E) <uma proteína antienvelhecimento cuja \nconcentração aumenta significativamente após o \nnascimento e na idade adulta=."
+                "A": "Inflamação (",
+                "B": "Glia (",
+                "C": "Proteína klotho (",
+                "D": "Bactéria (",
+                "E": "LPS"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "C"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: De acordo com o texto, assinale a alternativa que \nindica corretamente os efeitos da proteína klotho .",
+            "questão": "Questão 2",
+            "enunciado": "De acordo com o texto, assinale a alternativa que explica o sentido correto do termo <lipopolissacarídeo =. (",
             "alternativas": {
-                "A": "Neuroprotetor e inflamatório.",
-                "B": "Neurodegenerativo e anti-inflamatório.",
-                "C": "Patológico e multifatorial.",
-                "D": "Inflamatório e neurodegenerativo.",
+                "A": "<secreção de citocinas pró -inflamatórias=. (",
+                "B": "<células nervosas que têm entre suas funções fornecer nutrientes para a sustentação de neurônios=. (",
+                "C": "<uma molécula da membrana de algumas bactérias=. (",
+                "D": "<u ma característica intrínseca ao processo de envelhecimento=. (",
+                "E": "<uma proteína antienvelhecimento cuja concentração aumenta significativamente após o nascimento e na idade adulta=."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 3",
+            "enunciado": "De acordo com o texto, assinale a alternativa que indica corretamente os efeitos da proteína klotho . (",
+            "alternativas": {
+                "A": "Neuroprotetor e inflamatório. (",
+                "B": "Neurodegenerativo e anti-inflamatório. (",
+                "C": "Patológico e multifatorial. (",
+                "D": "Inflamatório e neurodegenerativo. (",
                 "E": "Neuroprotetor e anti-inflamatório."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "E"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 3: De acordo com o texto, assinale a alternativa que \nindica corretamente o nome da inflamação \ncrônica, desregulada, sistêmica e de baixo grau \nno cérebro.",
+            "questão": "Questão 4",
+            "enunciado": "De acordo com o texto, assinale a alternativa que indica corretamente o nome da inflamação crônica, desregulada, sistêmica e de baixo grau no cérebro. (",
             "alternativas": {
-                "A": "Glia",
-                "B": "Inflammaging",
-                "C": "Klotho",
-                "D": "LPS",
+                "A": "Glia (",
+                "B": "Inflammaging (",
+                "C": "Klotho (",
+                "D": "LPS (",
                 "E": "Astrócito"
             },
             "resposta_correta": "B"
@@ -46,41 +64,59 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 4: De acordo com o texto, o processo de \nenvelhecimento celular é:",
+            "questão": "Questão 5",
+            "enunciado": "De acordo com o texto, o processo de envelhecimento celular é: (",
             "alternativas": {
-                "A": "Multifatorial",
-                "B": "Terapêutico",
-                "C": "Patológico",
-                "D": "Causado por um único fator",
-                "E": "Causado pelo déficit cognitivo \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 4 de 10 QUESTÃO 06 \nNo trecho <A neuroinflamação  é uma \ncaracterística intrínseca ao processo de \nenvelhecimento.=, assinale a alternativa que \napresenta corretamente a classe de palavras cujo \ntermo < envelhecimento = pertence.  \n(A) Advérbio \n(B) Adjetivo \n(C) Pronome \n(D) Substantivo \n(E) Verbo"
+                "A": "Multifatorial (",
+                "B": "Terapêutico (",
+                "C": "Patológico (",
+                "D": "Causado por um único fator (",
+                "E": "Causado pelo déficit cognitivo Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 4 de 10 QUESTÃO 06 No trecho <A neuroinflamação é uma característica intrínseca ao processo de envelhecimento.=, assinale a alternativa que apresenta corretamente a classe de palavras cujo termo < envelhecimento = pertence. (A) Advérbio (B) Adjetivo (C) Pronome (D) Substantivo (E) Verbo"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 5: No t recho <Dependendo da natureza de sua \nativação, podem levar à produção de mediadores \npró ou anti-inflamatórios e ter efeitos benéficos \nou prejudiciais sobre os neurônios.=, os termos \n<benéficos = e < prejudiciais = pertencem a qual \nclasse de palavras?",
+            "questão": "Questão 7",
+            "enunciado": "No t recho <Dependendo da natureza de sua ativação, podem levar à produção de mediadores pró ou anti-inflamatórios e ter efeitos benéficos ou prejudiciais sobre os neurônios.=, os termos <benéficos = e < prejudiciais = pertencem a qual classe de palavras? (",
             "alternativas": {
-                "A": "Advérbio",
-                "B": "Adjetivo",
-                "C": "Pronome",
-                "D": "Substantivo",
+                "A": "Advérbio (",
+                "B": "Adjetivo (",
+                "C": "Pronome (",
+                "D": "Substantivo (",
                 "E": "Verbo"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "B"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 6: No texto, observamos o emprego do hífen nas \npalavras <anti -inflamatória =, <pré -tratamento=, \n<pró-inflamatória=. Assinale a alternativa que \napresenta o uso correto do hífen de acordo com a \nnorma-padrão da língua portuguesa.",
+            "questão": "Questão 8",
+            "enunciado": "No texto, observamos o emprego do hífen nas palavras <anti -inflamatória =, <pré -tratamento=, <pró-inflamatória=. Assinale a alternativa que apresenta o uso correto do hífen de acordo com a norma-padrão da língua portuguesa. (",
             "alternativas": {
-                "A": "Co-autor",
-                "B": "Micro-ônibus",
-                "C": "Neuro-transmissores",
-                "D": "Pára-quedas",
-                "E": "auto-escola. \n \n QUESTÃO 09 \nAssim como no trecho <estudos que mapeiam \nesses mecanismos são importantes para traçar \npossibilidades terapêuticas.=, a concordância \nverbal está empregada observando a norma-\npadrão da língua portuguesa em: \n(A) <Os sachês contém 20 gramas.=  \n(B) <Elas tem bom gosto.=  \n(C) <Os políticos detém o poder.=  \n(D) <Meus pais intervém na economia.=  \n(E) <Eles vêm de trem.="
+                "A": "Co-autor (",
+                "B": "Micro-ônibus (",
+                "C": "Neuro-transmissores (",
+                "D": "Pára-quedas (",
+                "E": "auto-escola."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9",
+            "enunciado": "Assim como no trecho <estudos que mapeiam esses mecanismos são importantes para traçar possibilidades terapêuticas.=, a concordância verbal está empregada observando a norma- padrão da língua portuguesa em: (",
+            "alternativas": {
+                "A": "<Os sachês contém 20 gramas.= (",
+                "B": "<Elas tem bom gosto.= (",
+                "C": "<Os políticos detém o poder.= (",
+                "D": "<Meus pais intervém na economia.= (",
+                "E": "<Eles vêm de trem.="
             },
             "resposta_correta": "E"
         },
@@ -88,12 +124,13 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 7: No trecho <Os achados complementam \nevidências prévias encontradas pelo grupo=, \nassinale a alternativa que apresenta um antônimo \ncorreto para a palavra < evidência =.",
+            "questão": "Questão 10",
+            "enunciado": "No trecho <Os achados complementam evidências prévias encontradas pelo grupo=, assinale a alternativa que apresenta um antônimo correto para a palavra < evidência =. (",
             "alternativas": {
-                "A": "Indício",
-                "B": "Dúvida",
-                "C": "Constatação",
-                "D": "Prova",
+                "A": "Indício (",
+                "B": "Dúvida (",
+                "C": "Constatação (",
+                "D": "Prova (",
                 "E": "Certeza"
             },
             "resposta_correta": "B"
@@ -102,55 +139,134 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 8: De acordo com a norma-padrão da língua \nportuguesa, assinale a alternativa que apresenta \ncorretamente um substantivo composto .",
+            "questão": "Questão 11",
+            "enunciado": "De acordo com a norma-padrão da língua portuguesa, assinale a alternativa que apresenta corretamente um substantivo composto . (",
             "alternativas": {
-                "A": "Matilha",
-                "B": "Alcateia",
-                "C": "Manada",
-                "D": "Guarda-chuva",
-                "E": "Enxame \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 5 de 10 QUESTÃO 12 \n Leia a tirinha a seguir. \n \nGOMES, S. Bichinhos de jardim . Disponível em: <https://bichinhosdejardim.com/mais-tirinhas/>. \nNa tirinha observamos a presença do pronome <ninguém=. Assinale a alternativa que indica \ncorretamente a classificação desse pronome. \n(A) Pronome indefinido. \n(B) Pronome interrogativo. \n(C) Pronome oblíquo. \n(D) Pronome possessivo. \n(E) Pronome reflexivo."
+                "A": "Matilha (",
+                "B": "Alcateia (",
+                "C": "Manada (",
+                "D": "Guarda-chuva (",
+                "E": "Enxame Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 5 de 10 QUESTÃO 12 Leia a tirinha a seguir. GOMES, S. Bichinhos de jardim . Disponível em: <https://bichinhosdejardim.com/mais-tirinhas/>. Na tirinha observamos a presença do pronome <ninguém=. Assinale a alternativa que indica corretamente a classificação desse pronome. (A) Pronome indefinido. (B) Pronome interrogativo. (C) Pronome oblíquo. (D) Pronome possessivo. (E) Pronome reflexivo."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "D"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 9: Assinale a alternativa que apresenta o uso correto do acento grave indicativo de crase, c onforme a \nnorma-padrão da língua portuguesa.",
+            "questão": "Questão 13",
+            "enunciado": "Assinale a alternativa que apresenta o uso correto do acento grave indicativo de crase, c onforme a norma-padrão da língua portuguesa. (",
             "alternativas": {
-                "A": "<Fui à cavalo na cidade.=",
-                "B": "<Deixei às malas no carro.=",
-                "C": "<Ela saiu à francesa da festa.=",
-                "D": "<Marcou à viagem para abril.=",
+                "A": "<Fui à cavalo na cidade.= (",
+                "B": "<Deixei às malas no carro.= (",
+                "C": "<Ela saiu à francesa da festa.= (",
+                "D": "<Marcou à viagem para abril.= (",
                 "E": "<Somou todas às contas.="
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 10: De acordo com a norma-padrão da língua portuguesa, assinale a alternativa que apresenta um sinônimo \ncorreto para a palavra \" Risonho \".",
+            "questão": "Questão 14",
+            "enunciado": "De acordo com a norma-padrão da língua portuguesa, assinale a alternativa que apresenta um sinônimo correto para a palavra \" Risonho \". (",
             "alternativas": {
-                "A": "Sorridente",
-                "B": "Triste",
-                "C": "Raivoso",
-                "D": "Desanimado",
-                "E": "Entediado  \n \n \n \nPrefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 6 de 10 QUESTÃO 15 \nDe acordo com a norma-padrão da língua \nportuguesa, assinale a alternativa que apresenta \numa conjunção coordenativa aditiva. \n(A) Porquanto \n(B) Embora \n(C) Todavia \n(D) E \n(E) Quando \n \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+                "A": "Sorridente (",
+                "B": "Triste (",
+                "C": "Raivoso (",
+                "D": "Desanimado (",
+                "E": "Entediado Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 6 de 10 QUESTÃO 15 De acordo com a norma-padrão da língua portuguesa, assinale a alternativa que apresenta uma conjunção coordenativa aditiva. (A) Porquanto (B) Embora (C) Todavia (D) E (E) Quando MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "A"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 11: Assinale a alternativa que apresenta o décimo \nquinto número ímpar antecessor de 385:",
+            "questão": "Questão 16",
+            "enunciado": "Assinale a alternativa que apresenta o décimo quinto número ímpar antecessor de 385: (",
             "alternativas": {
-                "A": "355",
-                "B": "357",
-                "C": "359",
-                "D": "365",
+                "A": "355 (",
+                "B": "357 (",
+                "C": "359 (",
+                "D": "365 (",
                 "E": "669"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 17",
+            "enunciado": "No ano de 2021, uma adega comercializou 1420 garrafas de vinho, mas, em 2022, esse número subiu 30%, o que configurou o seguinte número de garrafas comercializadas: (",
+            "alternativas": {
+                "A": "1800. (",
+                "B": "1846. (",
+                "C": "1850. (",
+                "D": "1856. (",
+                "E": "1866."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 18",
+            "enunciado": "Assinale a alternativa que apresenta o resultado para a seguinte operação de multiplicação: 28 x 11 x 9 (",
+            "alternativas": {
+                "A": "2772 (",
+                "B": "2788 (",
+                "C": "2794 (",
+                "D": "2800 (",
+                "E": "2802"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19",
+            "enunciado": "Assinale a alternativa que apresenta corretamente o resultado para a seguinte operação com números decimais: 16,9 x 12,1 (",
+            "alternativas": {
+                "A": "202,10 (",
+                "B": "204,49 (",
+                "C": "205,20 (",
+                "D": "206,45 (",
+                "E": "207,56"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20",
+            "enunciado": "Uma loja de materiais esportivos comercializou 890 bolas de futebol em um mês, mas aumentou esse número em 10% no mês seguinte, o que configurou o seguinte número de bolas comercializadas: (",
+            "alternativas": {
+                "A": "965. (",
+                "B": "975. (",
+                "C": "979. (",
+                "D": "982. (",
+                "E": "985."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21",
+            "enunciado": "Assinale a alternativa que apresenta o nono número par sucessor de 297. (",
+            "alternativas": {
+                "A": "306 (",
+                "B": "308 (",
+                "C": "310 (",
+                "D": "312 (",
+                "E": "314"
             },
             "resposta_correta": "E"
         },
@@ -158,82 +274,28 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 12: No ano de 2021, uma adega comercializou 1420 \ngarrafas de vinho, mas, em 2022, esse número \nsubiu 30%, o que configurou o seguinte número \nde garrafas comercializadas:",
+            "questão": "Questão 22",
+            "enunciado": "Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática. 14 + 12 x 9 (",
             "alternativas": {
-                "A": "1800.",
-                "B": "1846.",
-                "C": "1850.",
-                "D": "1856.",
-                "E": "1866."
+                "A": "117 (",
+                "B": "118 (",
+                "C": "119 (",
+                "D": "120 (",
+                "E": "122 Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 7 de 10 QUESTÃO 23 Um grande aquário possui atualmente 2200 peixes ornamentais, mas pretende aumentar esse número em 35%. Se isso vier a ocorrer, referido aquário passará a ter a seguinte quantidade de peixes: (A) 2960. (B) 2970 (C) 2980 (D) 2985 (E) 2988"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "E"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 13: Assinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n28 x 11 x 9",
+            "questão": "Questão 24",
+            "enunciado": "Assinale a alternativa que apresenta o décimo primeiro número ímpar antecessor de 113. (",
             "alternativas": {
-                "A": "2772",
-                "B": "2788",
-                "C": "2794",
-                "D": "2800",
-                "E": "2802  \n QUESTÃO 19 \nAssinale a alternativa que apresenta corretamente \no resultado para a seguinte operação com \nnúmeros decimais:  \n16,9 x 12,1 \n(A) 202,10 \n(B) 204,49 \n(C) 205,20 \n(D) 206,45 \n(E) 207,56"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 14: Uma loja de materiais esportivos comercializou \n890 bolas de futebol em um mês, mas aumentou \nesse número em 10% no mês seguinte, o que \nconfigurou o seguinte número de bolas \ncomercializadas:",
-            "alternativas": {
-                "A": "965.",
-                "B": "975.",
-                "C": "979.",
-                "D": "982.",
-                "E": "985."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 15: Assinale a alternativa que apresenta o nono \nnúmero par sucessor de 297.",
-            "alternativas": {
-                "A": "306",
-                "B": "308",
-                "C": "310",
-                "D": "312",
-                "E": "314"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 16: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática.  \n14 + 12 x 9",
-            "alternativas": {
-                "A": "117",
-                "B": "118",
-                "C": "119",
-                "D": "120",
-                "E": "122 \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 7 de 10 QUESTÃO 23 \nUm grande aquário possui atualmente 2200 \npeixes ornamentais, mas pretende aumentar esse \nnúmero em 35%. Se isso vier a ocorrer, referido \naquário passará a ter a seguinte quantidade de \npeixes:  \n(A) 2960.  \n(B) 2970  \n(C) 2980 \n(D) 2985  \n(E) 2988"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 17: Assinale a alternativa que apresenta o décimo \nprimeiro número ímpar antecessor de 113.",
-            "alternativas": {
-                "A": "99",
-                "B": "97.",
-                "C": "93",
-                "D": "91",
+                "A": "99 (",
+                "B": "97. (",
+                "C": "93 (",
+                "D": "91 (",
                 "E": "89"
             },
             "resposta_correta": "D"
@@ -242,13 +304,44 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 18: Uma determinada empresa do ramo alimentício \nconta atualmente com 560 colaboradores. No \nentanto, com um aporte financeiro que recebeu, \npretende aumentar esse número em 40%. Se isso \nvier a ocorrer, o número de colaboradores será \nde:",
+            "questão": "Questão 25",
+            "enunciado": "Uma determinada empresa do ramo alimentício conta atualmente com 560 colaboradores. No entanto, com um aporte financeiro que recebeu, pretende aumentar esse número em 40%. Se isso vier a ocorrer, o número de colaboradores será de: (",
             "alternativas": {
-                "A": "784.",
-                "B": "790.",
-                "C": "792.",
-                "D": "794.",
+                "A": "784. (",
+                "B": "790. (",
+                "C": "792. (",
+                "D": "794. (",
                 "E": "796."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 26",
+            "enunciado": "Assinale a alternativa que apresenta corretamente o resultado para a seguinte operação com números decimais: 98,9 – 33,9 (",
+            "alternativas": {
+                "A": "66 (",
+                "B": "65 (",
+                "C": "64 (",
+                "D": "63 (",
+                "E": "62 QUESTÃO 27 Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática envolvendo multiplicação: 52 x 4 x 11 (A) 2288 (B) 2300. (C) 2320 (D) 2340 (E) 2342"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28",
+            "enunciado": "A pinacoteca de uma determinada cidade recebe 4.200 visitantes por ano, mas pretende aumentar o número de visitas em 25%. Se isso ocorrer, o número de visitantes será de: (",
+            "alternativas": {
+                "A": "5220 (",
+                "B": "5230 (",
+                "C": "5250 (",
+                "D": "5260 (",
+                "E": "5270"
             },
             "resposta_correta": "C"
         },
@@ -256,83 +349,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 19: Assinale a alternativa que apresenta corretamente \no resultado para a seguinte operação com \nnúmeros decimais:  \n98,9 – 33,9",
+            "questão": "Questão 29",
+            "enunciado": "Assinale a alternativa que apresenta corretamente o oitavo número par sucessor de 878. (",
             "alternativas": {
-                "A": "66",
-                "B": "65",
-                "C": "64",
-                "D": "63",
-                "E": "62 QUESTÃO 27 \nAssinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática \nenvolvendo multiplicação:  \n52 x 4 x 11 \n(A) 2288 \n(B) 2300.  \n(C) 2320 \n(D) 2340 \n(E) 2342"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 20: A pinacoteca de uma determinada cidade recebe \n4.200 visitantes por ano, mas pretende aumentar \no número de visitas em 25%. Se isso ocorrer, o \nnúmero de visitantes será de:",
-            "alternativas": {
-                "A": "5220",
-                "B": "5230",
-                "C": "5250",
-                "D": "5260",
-                "E": "5270"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 21: Assinale a alternativa que apresenta corretamente \no oitavo número par sucessor de 878.",
-            "alternativas": {
-                "A": "888",
-                "B": "890",
-                "C": "892",
-                "D": "894",
+                "A": "888 (",
+                "B": "890 (",
+                "C": "892 (",
+                "D": "894 (",
                 "E": "896."
-            },
-            "resposta_correta": "Não encontrada"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 22: Assinale a alternativa que apresenta o resultado \ncorreto para a seguinte operação matemática:  \n9 + 17 x 14",
-            "alternativas": {
-                "A": "237",
-                "B": "247",
-                "C": "251.",
-                "D": "253.",
-                "E": "257.  Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 8 de 10 CONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 23: De acordo com o Art. 130 do Código de Trânsito \nBrasileiro, todo veículo automotor, elétrico, \narticulado, reboque ou semi-reboque, para \ntransitar na via, deverá ser licenciado anualmente \npelo órgão executivo de trânsito do Estado, ou do \nDistrito Federal, onde estiver registrado o \nveículo. Qual é a exceção prevista para o \nlicenciamento de veículos de acordo com § 1º.",
-            "alternativas": {
-                "A": "Veículos elétricos",
-                "B": "Veículos articulado",
-                "C": "Veículos de transporte de carga",
-                "D": "Veículos de uso bélico",
-                "E": "Veículos de passeio com até 2 anos de \nfabricação estão isentos de licenciamento."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 24: De acordo com o Art. 144 do CTB, Parágrafo \núnico . O trator de roda e os equipamentos \nautomotores destinados a executar trabalhos \nagrícolas poderão ser conduzidos em via pública \ntambém por condutor habilitado na categoria___.",
-            "alternativas": {
-                "A": "D",
-                "B": "C",
-                "C": "A",
-                "D": "E",
-                "E": "B"
             },
             "resposta_correta": "D"
         },
@@ -340,27 +364,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 25: Constitui infração de trânsito:  \n \nI - Confiar ou entregar a direção de veículo a \npessoa que, mesmo habilitada, por seu estado \nfísico ou psíquico, não estiver em condições de \ndirigi-lo com segurança: Infração - gravíssima; \nII - Dirigir sem atenção ou sem os cuidados \nindispensáveis à segurança:    Infração - leve; \nIII -  Dirigir ameaçando os pedestres que estejam \natravessando a via pública, ou os demais veículos: \nInfração - gravíssima; \n \nEstão corretas as afirmativas:",
+            "questão": "Questão 30",
+            "enunciado": "Assinale a alternativa que apresenta o resultado correto para a seguinte operação matemática: 9 + 17 x 14 (",
             "alternativas": {
-                "A": "I, II e III.",
-                "B": "II apenas",
-                "C": "II e III, apenas",
-                "D": "I apenas",
-                "E": "III apenas QUESTÃO 34 \nQual é a ação adequada para controlar uma \nhemorragia externa? \n(A) Aplicar manteiga ou óleo vegetal na ferida \npara reduzir o sangramento. \n(B) Pressionar firmemente a ferida com um \ncurativo/pano limpo. \n(C) Limpar a ferida com álcool ou qualquer \noutra substância antisséptica. \n(D) Remover qualquer objeto alojado na ferida. \n(E) Aplicar calor na região afetada."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 26: De acordo com as normas gerais de circulação e \nconduta. Analise as afirmativas abaixo atribuindo \n(V) para Verdadeira e (F) para Falsa, em seguida \nassinale a alternativa com a sequência correta.  \n(  ) Antes de colocar o veículo em circulação nas \nvias públicas, o condutor deverá verificar a \nexistência e as boas condições de funcionamento \ndos equipamentos de uso obrigatório, bem como \nassegurar-se da existência de combustível \nsuficiente para chegar ao local de destino. \n(  ) O condutor deverá, a todo momento, ter \ndomínio de seu veículo, dirigindo-o com atenção \ne cuidados indispensáveis à segurança do trânsito. \n(  ) O condutor poderá ultrapassar veículos em \nvias com duplo sentido de direção e pista única, \nnos trechos em curvas e em aclives sem \nvisibilidade suficiente, nas passagens de nível, \nnas pontes e viadutos e nas travessias de \npedestres.",
-            "alternativas": {
-                "A": "F- F -F",
-                "B": "V- V- V",
-                "C": "V- F -V",
-                "D": "V-V -F",
-                "E": "F -F -V \n \n \n \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 9 de 10 QUESTÃO 36 \nQual é o papel dos cidadãos na proteção do meio \nambiente relacionado ao trânsito? \n \n(A) Os cidadãos não têm responsabilidade na \nproteção do meio ambiente relacionado ao \ntrânsito. \n(B) Os cidadãos devem apenas reclamar das \nautoridades sobre os problemas ambientais no \ntrânsito. \n(C) Os cidadãos devem utilizar meios de \ntransporte poluentes para contribuir com a \neconomia. \n(D) Os cidadãos podem adotar práticas \nsustentáveis no seu deslocamento, como o uso de \nbicicletas ou transporte público. \n(E) A proteção do meio ambiente relacionado \nao trânsito é exclusivamente responsabilidade das \nautoridades."
+                "A": "237 (",
+                "B": "247 (",
+                "C": "251. (",
+                "D": "253. (",
+                "E": "257. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 8 de 10 CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "B"
         },
@@ -368,13 +379,29 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 27: Qual é a ordem em que os exames devem ser \nrealizados para obtenção da habilitação, segundo \no Art. 147 do CTB?",
+            "questão": "Questão 31",
+            "enunciado": "De acordo com o Art. 130 do Código de Trânsito Brasileiro, todo veículo automotor, elétrico, articulado, reboque ou semi-reboque, para transitar na via, deverá ser licenciado anualmente pelo órgão executivo de trânsito do Estado, ou do Distrito Federal, onde estiver registrado o veículo. Qual é a exceção prevista para o licenciamento de veículos de acordo com § 1º. (",
             "alternativas": {
-                "A": "Exame médico, exame de aptidão física, \nexame prático, avaliação psicológica e exame \nteórico.",
-                "B": "Exames de aptidão física e mental e a \navaliação psicológica deverão ser realizados por \nmédicos e psicólogos peritos examinadores.",
-                "C": "Avaliação psicológica, exame teórico, exame \nprático, exame médico e exame de aptidão \nmental.",
-                "D": "Exame de aptidão física e mental, exame \nprático, avaliação psicológica, exame teórico e \nexame médico.",
-                "E": "Exame médico, exame de aptidão física e \nmental, exame prático e exame teórico. \n \n \n \n \n \n \n \n \n QUESTÃO 38 \nDe acordo com o Código de Trânsito Brasileiro, \nO veículo somente será considerado licenciado \nestando quitados: \n(A) Apenas estar registrado no órgão executivo \nde trânsito. \n(B) Estar registrado e ter passado na vistoria \nanual obrigatória. \n(C) Estar registrado e ter pago todos os tributos e \nencargos ambientais. \n(D) Os débitos relativos a tributos, encargos e \nmultas de trânsito e ambientais, vinculados ao \nveículo, independentemente da responsabilidade \npelas infrações cometidas. \n(E) Estar registrado e ter seguro obrigatório \nvigente."
+                "A": "Veículos elétricos (",
+                "B": "Veículos articulado (",
+                "C": "Veículos de transporte de carga (",
+                "D": "Veículos de uso bélico (",
+                "E": "Veículos de passeio com até 2 anos de fabricação estão isentos de licenciamento."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 32",
+            "enunciado": "De acordo com o Art. 144 do CTB, Parágrafo único . O trator de roda e os equipamentos automotores destinados a executar trabalhos agrícolas poderão ser conduzidos em via pública também por condutor habilitado na categoria___. (",
+            "alternativas": {
+                "A": "D (",
+                "B": "C (",
+                "C": "A (",
+                "D": "E (",
+                "E": "B"
             },
             "resposta_correta": "E"
         },
@@ -382,12 +409,73 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 28: Qual é a penalidade para o condutor que deixar \nde prestar socorro à vítima de acidente de trânsito \nquando solicitado pela autoridade e seus agentes?",
+            "questão": "Questão 33",
+            "enunciado": "Constitui infração de trânsito: I - Confiar ou entregar a direção de veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigi-lo com segurança: Infração - gravíssima; II - Dirigir sem atenção ou sem os cuidados indispensáveis à segurança: Infração - leve; III - Dirigir ameaçando os pedestres que estejam atravessando a via pública, ou os demais veículos: Infração - gravíssima; Estão corretas as afirmativas: (",
             "alternativas": {
-                "A": "Advertência por escrito",
-                "B": "Multa",
-                "C": "Suspensão da CNH",
-                "D": "Apreensão do veículo",
+                "A": "I, II e III. (",
+                "B": "II apenas (",
+                "C": "II e III, apenas (",
+                "D": "I apenas (",
+                "E": "III apenas QUESTÃO 34 Qual é a ação adequada para controlar uma hemorragia externa? (A) Aplicar manteiga ou óleo vegetal na ferida para reduzir o sangramento. (B) Pressionar firmemente a ferida com um curativo/pano limpo. (C) Limpar a ferida com álcool ou qualquer outra substância antisséptica. (D) Remover qualquer objeto alojado na ferida. (E) Aplicar calor na região afetada."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 35",
+            "enunciado": "De acordo com as normas gerais de circulação e conduta. Analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para Falsa, em seguida assinale a alternativa com a sequência correta. ( ) Antes de colocar o veículo em circulação nas vias públicas, o condutor deverá verificar a existência e as boas condições de funcionamento dos equipamentos de uso obrigatório, bem como assegurar-se da existência de combustível suficiente para chegar ao local de destino. ( ) O condutor deverá, a todo momento, ter domínio de seu veículo, dirigindo-o com atenção e cuidados indispensáveis à segurança do trânsito. ( ) O condutor poderá ultrapassar veículos em vias com duplo sentido de direção e pista única, nos trechos em curvas e em aclives sem visibilidade suficiente, nas passagens de nível, nas pontes e viadutos e nas travessias de pedestres. (",
+            "alternativas": {
+                "A": "F- F -F (",
+                "B": "V- V- V (",
+                "C": "V- F -V (",
+                "D": "V-V -F (",
+                "E": "F -F -V Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 9 de 10 QUESTÃO 36 Qual é o papel dos cidadãos na proteção do meio ambiente relacionado ao trânsito? (A) Os cidadãos não têm responsabilidade na proteção do meio ambiente relacionado ao trânsito. (B) Os cidadãos devem apenas reclamar das autoridades sobre os problemas ambientais no trânsito. (C) Os cidadãos devem utilizar meios de transporte poluentes para contribuir com a economia. (D) Os cidadãos podem adotar práticas sustentáveis no seu deslocamento, como o uso de bicicletas ou transporte público. (E) A proteção do meio ambiente relacionado ao trânsito é exclusivamente responsabilidade das autoridades."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 37",
+            "enunciado": "Qual é a ordem em que os exames devem ser realizados para obtenção da habilitação, segundo o Art. 147 do CTB? (",
+            "alternativas": {
+                "A": "Exame médico, exame de aptidão física, exame prático, avaliação psicológica e exame teórico. (",
+                "B": "Exames de aptidão física e mental e a avaliação psicológica deverão ser realizados por médicos e psicólogos peritos examinadores. (",
+                "C": "Avaliação psicológica, exame teórico, exame prático, exame médico e exame de aptidão mental. (",
+                "D": "Exame de aptidão física e mental, exame prático, avaliação psicológica, exame teórico e exame médico. (",
+                "E": "Exame médico, exame de aptidão física e mental, exame prático e exame teórico."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 38",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro, O veículo somente será considerado licenciado estando quitados: (",
+            "alternativas": {
+                "A": "Apenas estar registrado no órgão executivo de trânsito. (",
+                "B": "Estar registrado e ter passado na vistoria anual obrigatória. (",
+                "C": "Estar registrado e ter pago todos os tributos e encargos ambientais. (",
+                "D": "Os débitos relativos a tributos, encargos e multas de trânsito e ambientais, vinculados ao veículo, independentemente da responsabilidade pelas infrações cometidas. (",
+                "E": "Estar registrado e ter seguro obrigatório vigente."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "id_concurso": "01/2023",
+            "questão": "Questão 39",
+            "enunciado": "Qual é a penalidade para o condutor que deixar de prestar socorro à vítima de acidente de trânsito quando solicitado pela autoridade e seus agentes? (",
+            "alternativas": {
+                "A": "Advertência por escrito (",
+                "B": "Multa (",
+                "C": "Suspensão da CNH (",
+                "D": "Apreensão do veículo (",
                 "E": "Prestação de serviços à comunidade"
             },
             "resposta_correta": "B"
@@ -396,83 +484,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2023",
-            "questão": "Questão 29: O que é o sistema de direção de um veículo \nautomotivo?",
+            "questão": "Questão 40",
+            "enunciado": "O que é o sistema de direção de um veículo automotivo? (",
             "alternativas": {
-                "A": "É responsável pela limpeza dos vidros e \npara-brisas.",
-                "B": "É responsável pela transmissão de potência \npara as rodas.",
-                "C": "É responsável pela estabilidade e conforto \ndo veículo.",
-                "D": "É responsável por controlar a temperatura \ndo motor.",
-                "E": "É responsável pelo controle e orientação do \nmovimento das rodas. \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 10 de 10"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 1: Todas as afirmações a seguir podem ser \ndepreendidas da reportagem apresentada, \nexceto :",
-            "alternativas": {
-                "A": "Os cientistas têm dificuldade de avaliar o real \nimpacto das minerações aos primatas e seu \nhabitat em função da falta de compartilhamento \nde dados pelos projetos de mineração.",
-                "B": "A exploração de minerais como cobre, lítio, \nníquel e cobalto causa desmatamento de florestas \ntropicais.",
-                "C": "Na Guiné, a ameaça da mineração, de forma \ndireta ou indireta, atinge até 83% da população \nde macacos do país.",
-                "D": "As empresas que operam projetos de \nmineração devem dispor de dados robustos sobre \nas espécies que residem na região explorada, para \nelaborar ações de mitigação e compensação.",
-                "E": "Ações de mitigação e compensação de curto \nprazo são suficientes para resolver o impacto \ncausado pela mineração."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 2: Considere o seguinte excerto: “(...) as áreas de \nmineração se intersectam com o que é \nconsiderado “habitat crítico”, isto é, regiões \ncruciais para a biodiversidade (...)” . A locução \n“isto é” , que ocorre no contexto dado, introduz \numa paráfrase e poderia ser substituída pela \nexpressão de mesma função textual e significado:",
-            "alternativas": {
-                "A": "de modo que.",
-                "B": "de fato.",
-                "C": "ou seja.",
-                "D": "com efeito.",
-                "E": "grosso modo.  \n \n \n \n \n QUESTÃO 03 \nConsidere as sentenças a seguir, que ocorrem no \ntexto:  \nI. “É o que sugere um estudo publicado no \nperiódico Science Advances”.  \nII. “Os pesquisadores, no entanto, ressaltam que \no número de primatas em risco pode ser maior.”  \nIII. “As empresas que operam nessas áreas \ndevem ter esquemas adequados de mitigação”.  \nNas sentenças dadas, verifica -se o emprego da \npalavra “que”  como pronome relativo apenas \nem:  \n(A) I.  \n(B) II.  \n(C) III.  \n(D) I e II.  \n(E) I e III."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 3: Analise o seguinte excerto quanto à pontuação: \n“Necessários para uma transição em larga \nescala para uma energia mais limpa, minerais \ncomo cobre, lítio, níquel e cobalto têm sido \nexplorados na África [...]”  A primeira vírgula \nempregada no excerto ocorre em função do papel \nsintático desempenhado pela construção que o \ninicia, que corresponde a:",
-            "alternativas": {
-                "A": "aposto do sujeito.",
-                "B": "sujeito da oração.",
-                "C": "objeto da locução verbal “têm sido”.",
-                "D": "vocativo.",
-                "E": "adjunto adnominal."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 4: A palavra “amortecimento” , que ocorre no texto, \né derivada de “amortecer” . A palavra \n“amortecer”, por sua vez, é formada por:",
-            "alternativas": {
-                "A": "derivação prefixal.",
-                "B": "derivação sufixal.",
-                "C": "derivação parassintética.",
-                "D": "derivação regressiva.",
-                "E": "derivação imprópria.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 4 de 12 QUESTÃO 06 \nDentre as sentenças a seguir, retiradas do texto, \naquela que apresenta um verbo em forma \nnominal é:   \n(A) “A equipe de pesquisadores usou dados sobre \nlocais de mineração operacionais e pré -\noperacionais”.   \n(B) “os pesquisadores observaram uma maior \nsobreposição entre a quantidade de macacos e \náreas de mineração”.  \n(C) “a maioria dos efeitos da mineração sobre os \ngrandes símios são permanentes.”  \n(D) “Os riscos da mineração para os grandes \nsímios no continente africano têm sido \nsubestimados.”  \n(E) “A falta de compartilhamento de dados pelos \nprojetos de mineração dificulta nossa \ncompreensão científica”."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 5: A palavra “sob”,  que ocorre em “ mais de 23 mil \nchimpanzés [...] estavam sob ameaça direta ou \nindireta ”, é classificada gramaticalmente como:",
-            "alternativas": {
-                "A": "preposição acidental.",
-                "B": "preposição essencial.",
-                "C": "conjunção correlativa.",
-                "D": "conjunção aditiva.",
-                "E": "advérbio."
+                "A": "É responsável pela limpeza dos vidros e para-brisas. (",
+                "B": "É responsável pela transmissão de potência para as rodas. (",
+                "C": "É responsável pela estabilidade e conforto do veículo. (",
+                "D": "É responsável por controlar a temperatura do motor. (",
+                "E": "É responsável pelo controle e orientação do movimento das rodas. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 10 de 10"
             },
             "resposta_correta": "E"
         },
@@ -480,13 +499,59 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Considerando -se a formação da locução “cerca \nde”, que ocorre no excerto “ (...) cerca de 180 mil \ngorilas, bonobos e chimpanzés ”, sua \nclassificação gramatical é a de:",
+            "questão": "Questão 1",
+            "enunciado": "Todas as afirmações a seguir podem ser depreendidas da reportagem apresentada, exceto : (",
             "alternativas": {
-                "A": "locução adverbial.",
-                "B": "locução adjetiva.",
-                "C": "locução substantiva.",
-                "D": "locução conjuntiva.",
-                "E": "locução prepositiva.  \n QUESTÃO 09 \nO tipo de encontro vocálico que ocorre em \n“antologia” é o mesmo que em:  \n \n(A) esquentar.  \n(B) amêndoa.  \n(C) coração.  \n(D) roseira.  \n(E) coisa."
+                "A": "Os cientistas têm dificuldade de avaliar o real impacto das minerações aos primatas e seu habitat em função da falta de compartilhamento de dados pelos projetos de mineração. (",
+                "B": "A exploração de minerais como cobre, lítio, níquel e cobalto causa desmatamento de florestas tropicais. (",
+                "C": "Na Guiné, a ameaça da mineração, de forma direta ou indireta, atinge até 83% da população de macacos do país. (",
+                "D": "As empresas que operam projetos de mineração devem dispor de dados robustos sobre as espécies que residem na região explorada, para elaborar ações de mitigação e compensação. (",
+                "E": "Ações de mitigação e compensação de curto prazo são suficientes para resolver o impacto causado pela mineração."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "Considere o seguinte excerto: “(...) as áreas de mineração se intersectam com o que é considerado “habitat crítico”, isto é, regiões cruciais para a biodiversidade (...)” . A locução “isto é” , que ocorre no contexto dado, introduz uma paráfrase e poderia ser substituída pela expressão de mesma função textual e significado: (",
+            "alternativas": {
+                "A": "de modo que. (",
+                "B": "de fato. (",
+                "C": "ou seja. (",
+                "D": "com efeito. (",
+                "E": "grosso modo."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "Considere as sentenças a seguir, que ocorrem no texto: I. “É o que sugere um estudo publicado no periódico Science Advances”. II. “Os pesquisadores, no entanto, ressaltam que o número de primatas em risco pode ser maior.” III. “As empresas que operam nessas áreas devem ter esquemas adequados de mitigação”. Nas sentenças dadas, verifica -se o emprego da palavra “que” como pronome relativo apenas em: (",
+            "alternativas": {
+                "A": "I. (",
+                "B": "II. (",
+                "C": "III. (",
+                "D": "I e II. (",
+                "E": "I e III."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 4",
+            "enunciado": "Analise o seguinte excerto quanto à pontuação: “Necessários para uma transição em larga escala para uma energia mais limpa, minerais como cobre, lítio, níquel e cobalto têm sido explorados na África [...]” A primeira vírgula empregada no excerto ocorre em função do papel sintático desempenhado pela construção que o inicia, que corresponde a: (",
+            "alternativas": {
+                "A": "aposto do sujeito. (",
+                "B": "sujeito da oração. (",
+                "C": "objeto da locução verbal “têm sido”. (",
+                "D": "vocativo. (",
+                "E": "adjunto adnominal."
             },
             "resposta_correta": "C"
         },
@@ -494,13 +559,29 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: Assinale a alternativa em que o elemento em \ndestaque é um advérbio de modo.",
+            "questão": "Questão 5",
+            "enunciado": "A palavra “amortecimento” , que ocorre no texto, é derivada de “amortecer” . A palavra “amortecer”, por sua vez, é formada por: (",
             "alternativas": {
-                "A": "A paciência é a mais  bela das virtudes.",
-                "B": "Atualmente , há uma gama de alimentos \nprocessados nos mercados.",
-                "C": "Precisamos somente  de alimentos não \nperecíveis.",
-                "D": "Agrada -me o silêncio depois  da meia -noite.",
-                "E": "Temos de resolver esta situação depressa."
+                "A": "derivação prefixal. (",
+                "B": "derivação sufixal. (",
+                "C": "derivação parassintética. (",
+                "D": "derivação regressiva. (",
+                "E": "derivação imprópria. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 4 de 12 QUESTÃO 06 Dentre as sentenças a seguir, retiradas do texto, aquela que apresenta um verbo em forma nominal é: (A) “A equipe de pesquisadores usou dados sobre locais de mineração operacionais e pré - operacionais”. (B) “os pesquisadores observaram uma maior sobreposição entre a quantidade de macacos e áreas de mineração”. (C) “a maioria dos efeitos da mineração sobre os grandes símios são permanentes.” (D) “Os riscos da mineração para os grandes símios no continente africano têm sido subestimados.” (E) “A falta de compartilhamento de dados pelos projetos de mineração dificulta nossa compreensão científica”."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7",
+            "enunciado": "A palavra “sob”, que ocorre em “ mais de 23 mil chimpanzés [...] estavam sob ameaça direta ou indireta ”, é classificada gramaticalmente como: (",
+            "alternativas": {
+                "A": "preposição acidental. (",
+                "B": "preposição essencial. (",
+                "C": "conjunção correlativa. (",
+                "D": "conjunção aditiva. (",
+                "E": "advérbio."
             },
             "resposta_correta": "A"
         },
@@ -508,13 +589,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 8: Considere a sentença: “ Fez questão de expressar  \nseu inexorável desprezo pelo rapaz.”  O \nsignificado da palavra “inexorável” é o mesmo \nde:",
+            "questão": "Questão 8",
+            "enunciado": "Considerando -se a formação da locução “cerca de”, que ocorre no excerto “ (...) cerca de 180 mil gorilas, bonobos e chimpanzés ”, sua classificação gramatical é a de: (",
             "alternativas": {
-                "A": "infundado.",
-                "B": "implacável.",
-                "C": "pequeno.",
-                "D": "irreparável.",
-                "E": "remediável."
+                "A": "locução adverbial. (",
+                "B": "locução adjetiva. (",
+                "C": "locução substantiva. (",
+                "D": "locução conjuntiva. (",
+                "E": "locução prepositiva."
             },
             "resposta_correta": "E"
         },
@@ -522,13 +604,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: Analise as sentenças a seguir quanto à relação \nentre o verbo e o(s) seu(s) complemento(s). \nAssinale a alternativa em que a regência verbal \nestá correta.",
+            "questão": "Questão 9",
+            "enunciado": "O tipo de encontro vocálico que ocorre em “antologia” é o mesmo que em: (",
             "alternativas": {
-                "A": "Revigorou -se apenas com alimentação \nsaudável.",
-                "B": "O governo destinou recursos sobre a \neducação infantil.",
-                "C": "A família precaveu perante o pior.",
-                "D": "Eles requereram da prefeitura uma licença \nespecial.",
-                "E": "O grupo contribuiu do cadastro de dados dos \nassistidos pelo projeto.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 5 de 12 QUESTÃO 13  \nHá incorreção de concordância nominal em:  \n(A) A casa recém -reformada cheirava a madeira \ne tinta fresca.  \n(B) Tudo isso aconteceu em má hora e dia.  \n(C) O vale e suas casas pareciam assombradas.  \n(D) Passadas duas semanas, ela voltou ao \ntrabalho.  \n(E) Foram rasgados os álbuns de fotos e as cartas \ndo casal."
+                "A": "esquentar. (",
+                "B": "amêndoa. (",
+                "C": "coração. (",
+                "D": "roseira. (",
+                "E": "coisa."
             },
             "resposta_correta": "D"
         },
@@ -536,13 +619,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Analise as sentenças a seguir e assinale a \nalternativa em que há incorreção na forma verbal \nem destaque.",
+            "questão": "Questão 10",
+            "enunciado": "Assinale a alternativa em que o elemento em destaque é um advérbio de modo. (",
             "alternativas": {
-                "A": "Ele creu  em todas as promessas da \nnamorada.",
-                "B": "Eles gostariam que propuséssemos  novas \ndiscussões.",
-                "C": "O tratamento é recíproco: agrido  a quem me \nagride.",
-                "D": "Espero que lhe caibam  os apontamentos \ndessa reunião.",
-                "E": "Mesmo que patentie  o projeto, podem \nplagiar sua ideia."
+                "A": "A paciência é a mais bela das virtudes. (",
+                "B": "Atualmente , há uma gama de alimentos processados nos mercados. (",
+                "C": "Precisamos somente de alimentos não perecíveis. (",
+                "D": "Agrada -me o silêncio depois da meia -noite. (",
+                "E": "Temos de resolver esta situação depressa."
             },
             "resposta_correta": "D"
         },
@@ -550,13 +634,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Considere as palavras “ rescindência ”, “fictício ” \ne “pseudociência ”. A separação silábica dessas \npalavras está correta em:",
+            "questão": "Questão 11",
+            "enunciado": "Considere a sentença: “ Fez questão de expressar seu inexorável desprezo pelo rapaz.” O significado da palavra “inexorável” é o mesmo de: (",
             "alternativas": {
-                "A": "re -scin-dên-ci-a/ fic -tí-cio/ p-seu-do-ci-ên-\nci-a.",
-                "B": "res -cin-dên-ci-a/ fic -tí-ci-o/ pseu -do-ci-ên-\nci-a.",
-                "C": "res -cin-dên-cia/ fic -tí-cio/ p -seu-do-ci-ên-\ncia.",
-                "D": "re -scin-dên-ci-a/ fi-c-tí-ci-o/ ps -eu-do-ci-ên-\ncia.",
-                "E": "res -cin-dên-cia/ fi -ctí-ci-o/ pseu -do-ci-ên-ci-\na. \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "infundado. (",
+                "B": "implacável. (",
+                "C": "pequeno. (",
+                "D": "irreparável. (",
+                "E": "remediável."
             },
             "resposta_correta": "C"
         },
@@ -564,13 +649,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: A comissão organizadora de um evento vai \nseparar quatro áreas diferentes para os \nespectadores. Cada área terá um determinado \nvalor de ingresso, e comportará um número \nmáximo de pessoas. A tabela abaixo mostra a as \náreas disponíveis, o número máximo de pess oas \nque pode comportar, e o valor do ingresso \nindividual de cada área.  \n \nÁrea  Número máximo \nde pessoas  Valor do \ningresso  \nPista  1000  R$ 125  \nLateral 1  500 R$ 150  \nLateral 2  500 R$ 200  \nCamarote  200 R$ 400  \n \nSe todas as áreas venderem todos os ingressos \ndisponíveis, qual será a arrecadação total do \nevento dividido pelo número total de pessoas? \nIndique o valor mais próximo:",
+            "questão": "Questão 12",
+            "enunciado": "Analise as sentenças a seguir quanto à relação entre o verbo e o(s) seu(s) complemento(s). Assinale a alternativa em que a regência verbal está correta. (",
             "alternativas": {
-                "A": "R$ 154.",
-                "B": "R$ 161.",
-                "C": "R$ 173.",
-                "D": "R$ 183.",
-                "E": "R$ 125.  \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 6 de 12 QUESTÃO 17 \nUm retângulo com uma determinada largura e \naltura inicial sofre um aumento de altura de 20% \ne uma diminuição de largura de 20%. Com essas \ninformações, é correto afirmar que:  \n(A) A área do novo retângulo será igual à área do \nretângulo anterior.  \n(B) A área do novo retângulo sofrerá uma \ndiminuição de 4% independentemente da sua \naltura e largura original.  \n(C) A redução ou incremento na área do novo \nretângulo depende da altura e largura do \nretângulo original.  \n(D) A área do novo retângulo sofrerá um \naumento de 4% independentemente da sua altura \ne largura original.  \n(E) O perímetro do novo retângulo continuará \nigual ao perímetro do retângulo original, \nindependentemente da altura e largura original."
+                "A": "Revigorou -se apenas com alimentação saudável. (",
+                "B": "O governo destinou recursos sobre a educação infantil. (",
+                "C": "A família precaveu perante o pior. (",
+                "D": "Eles requereram da prefeitura uma licença especial. (",
+                "E": "O grupo contribuiu do cadastro de dados dos assistidos pelo projeto. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 5 de 12 QUESTÃO 13 Há incorreção de concordância nominal em: (A) A casa recém -reformada cheirava a madeira e tinta fresca. (B) Tudo isso aconteceu em má hora e dia. (C) O vale e suas casas pareciam assombradas. (D) Passadas duas semanas, ela voltou ao trabalho. (E) Foram rasgados os álbuns de fotos e as cartas do casal."
             },
             "resposta_correta": "D"
         },
@@ -578,13 +664,89 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: Uma garrafa de refrigerante tem 2 litros de \nlíquido que serão distribuídos em copos de 180 \nml. Alguns copos serão cheios e o último copo \nficará parcialmente cheio. Qual a porcentagem de \nlíquido nesse último copo, em relação ao seu \nvolume máximo comportado,  aproximadamente?",
+            "questão": "Questão 14",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa em que há incorreção na forma verbal em destaque. (",
             "alternativas": {
-                "A": "11,1%.",
-                "B": "22,2%.",
-                "C": "15,5%.",
-                "D": "2,22%.",
+                "A": "Ele creu em todas as promessas da namorada. (",
+                "B": "Eles gostariam que propuséssemos novas discussões. (",
+                "C": "O tratamento é recíproco: agrido a quem me agride. (",
+                "D": "Espero que lhe caibam os apontamentos dessa reunião. (",
+                "E": "Mesmo que patentie o projeto, podem plagiar sua ideia."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15",
+            "enunciado": "Considere as palavras “ rescindência ”, “fictício ” e “pseudociência ”. A separação silábica dessas palavras está correta em: (",
+            "alternativas": {
+                "A": "re -scin-dên-ci-a/ fic -tí-cio/ p-seu-do-ci-ên- ci-a. (",
+                "B": "res -cin-dên-ci-a/ fic -tí-ci-o/ pseu -do-ci-ên- ci-a. (",
+                "C": "res -cin-dên-cia/ fic -tí-cio/ p -seu-do-ci-ên- cia. (",
+                "D": "re -scin-dên-ci-a/ fi-c-tí-ci-o/ ps -eu-do-ci-ên- cia. (",
+                "E": "res -cin-dên-cia/ fi -ctí-ci-o/ pseu -do-ci-ên-ci- a. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16",
+            "enunciado": "A comissão organizadora de um evento vai separar quatro áreas diferentes para os espectadores. Cada área terá um determinado valor de ingresso, e comportará um número máximo de pessoas. A tabela abaixo mostra a as áreas disponíveis, o número máximo de pess oas que pode comportar, e o valor do ingresso individual de cada área. Área Número máximo de pessoas Valor do ingresso Pista 1000 R$ 125 Lateral 1 500 R$ 150 Lateral 2 500 R$ 200 Camarote 200 R$ 400 Se todas as áreas venderem todos os ingressos disponíveis, qual será a arrecadação total do evento dividido pelo número total de pessoas? Indique o valor mais próximo: (",
+            "alternativas": {
+                "A": "R$ 154. (",
+                "B": "R$ 161. (",
+                "C": "R$ 173. (",
+                "D": "R$ 183. (",
+                "E": "R$ 125. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 6 de 12 QUESTÃO 17 Um retângulo com uma determinada largura e altura inicial sofre um aumento de altura de 20% e uma diminuição de largura de 20%. Com essas informações, é correto afirmar que: (A) A área do novo retângulo será igual à área do retângulo anterior. (B) A área do novo retângulo sofrerá uma diminuição de 4% independentemente da sua altura e largura original. (C) A redução ou incremento na área do novo retângulo depende da altura e largura do retângulo original. (D) A área do novo retângulo sofrerá um aumento de 4% independentemente da sua altura e largura original. (E) O perímetro do novo retângulo continuará igual ao perímetro do retângulo original, independentemente da altura e largura original."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18",
+            "enunciado": "Uma garrafa de refrigerante tem 2 litros de líquido que serão distribuídos em copos de 180 ml. Alguns copos serão cheios e o último copo ficará parcialmente cheio. Qual a porcentagem de líquido nesse último copo, em relação ao seu volume máximo comportado, aproximadamente? (",
+            "alternativas": {
+                "A": "11,1%. (",
+                "B": "22,2%. (",
+                "C": "15,5%. (",
+                "D": "2,22%. (",
                 "E": "1,11%."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19",
+            "enunciado": "Em uma escola, o intervalo do lanche ocorre em horários diferentes para cada turma. A turma A inicia seu intervalo às 9:00 e tem duração de 45 minutos, já a turma B inicia seu intervalo num determinado horário após a turma A, e as duas turmas permanecem ju ntas em intervalo por 25 minutos. Após esse tempo, a turma A volta para a sala e a turma B continua sozinha no intervalo até às 10:00. Quanto tempo a turma B passou o intervalo sozinha? (",
+            "alternativas": {
+                "A": "20 minutos. (",
+                "B": "25 minutos. (",
+                "C": "45 minutos. (",
+                "D": "15 minutos. (",
+                "E": "30 minutos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20",
+            "enunciado": "Um estudante fez cinco provas durante um semestre e obteve as seguintes notas: 70, 75, 80, 85 e 𝑥. Se a média aritmética das cinco notas foi 80, qual é o valor de 𝑥? (",
+            "alternativas": {
+                "A": "80. (",
+                "B": "82. (",
+                "C": "84. (",
+                "D": "86. (",
+                "E": "90."
             },
             "resposta_correta": "B"
         },
@@ -592,26 +754,13 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Em uma escola, o intervalo do lanche ocorre em \nhorários diferentes para cada turma. A turma A \ninicia seu intervalo às 9:00 e tem duração de 45 \nminutos, já a turma B inicia seu intervalo num \ndeterminado horário após a turma A, e as duas \nturmas permanecem ju ntas em intervalo por 25 \nminutos. Após esse tempo, a turma A volta para \na sala e a turma B continua sozinha no intervalo \naté às 10:00. Quanto tempo a turma B passou o \nintervalo sozinha?",
+            "questão": "Questão 21",
+            "enunciado": "Estima -se que a floresta Amazônica contenha 400.000.000.000 árvores, e sabe -se que ela tem uma área total de 6,7 milhões de km2, sendo que 60% desta área está em território brasileiro. Considerando que esta quantidade de árvores está igualmente distribuída em toda a área da floresta, quantas árvores da floresta Amazônica pertencem ao território brasileiro? (",
             "alternativas": {
-                "A": "20 minutos.",
-                "B": "25 minutos.",
-                "C": "45 minutos.",
-                "D": "15 minutos.",
-                "E": "30 minutos.  \n QUESTÃO 20 \nUm estudante fez cinco provas durante um \nsemestre e obteve as seguintes notas: 70, 75, 80, \n85 e 𝑥. Se a média aritmética das cinco notas foi \n80, qual é o valor de 𝑥? \n(A) 80.  \n(B) 82.  \n(C) 84.  \n(D) 86.  \n(E) 90."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 15: Estima -se que a floresta Amazônica contenha \n400.000.000.000 árvores, e sabe -se que ela tem \numa área total de 6,7 milhões de km2, sendo que \n60% desta área está em território brasileiro. \nConsiderando que esta quantidade de árvores \nestá igualmente distribuída em toda a área da \nfloresta, quantas árvores da floresta Amazônica \npertencem ao território brasileiro?",
-            "alternativas": {
-                "A": "240 milhões.",
-                "B": "240 bilhões.",
-                "C": "24 bilhões.",
-                "D": "240 trilhões.",
+                "A": "240 milhões. (",
+                "B": "240 bilhões. (",
+                "C": "24 bilhões. (",
+                "D": "240 trilhões. (",
                 "E": "2,4 bilhões."
             },
             "resposta_correta": "E"
@@ -620,13 +769,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: Numa competição de xadrez há 40 pessoas. Em \ncada jogo, o vencedor ganha 3 pontos e o \nperdedor perde 3 pontos, podendo resultar em \npontuações negativas. Se o jogo resultar em \nempate, ambos os jogadores ganham 1 ponto. \nSuponha que todos os competidores começam \ncom pontuação zero. Após a pr imeira rodada da \ncompetição, onde todos os jogadores jogaram \numa única vez, qual a maior soma possível para \na pontuação de todos os jogadores?",
+            "questão": "Questão 22",
+            "enunciado": "Numa competição de xadrez há 40 pessoas. Em cada jogo, o vencedor ganha 3 pontos e o perdedor perde 3 pontos, podendo resultar em pontuações negativas. Se o jogo resultar em empate, ambos os jogadores ganham 1 ponto. Suponha que todos os competidores começam com pontuação zero. Após a pr imeira rodada da competição, onde todos os jogadores jogaram uma única vez, qual a maior soma possível para a pontuação de todos os jogadores? (",
             "alternativas": {
-                "A": "40.",
-                "B": "120.",
-                "C": "60.",
-                "D": "0.",
-                "E": "20.  Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 7 de 12 QUESTÃO 23 \nUma empresa que fabrica telas de computador \ncontrola o número de defeitos para cada tipo de \ntela. A tabela abaixo mostra quatro tipos de telas, \no número telas fabricadas por mês e o número de \ntelas defeituosas:  \nTipo da tela  Telas \nfabricadas  Telas \ndefeituosas  \nLCD  2450  5 \nOLED  1500  3 \nAMOLED  960 2 \n \nA empresa define uma quantidade chamada de \ntaxa de defeito, que é a razão entre o número de \ntelas defeituosas e o número de telas fabricadas. \nOs tipos de telas em ordem crescente de taxa de \ndefeito são:  \n(A) OLED, LCD, AMOLED.  \n(B) OLED, AMOLED, LCD.  \n(C) AMOLED, OLED, LCD.  \n(D) LCD, OLED e AMOLED.  \n(E) AMOLED, LCD, OLED."
+                "A": "40. (",
+                "B": "120. (",
+                "C": "60. (",
+                "D": "0. (",
+                "E": "20. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 7 de 12 QUESTÃO 23 Uma empresa que fabrica telas de computador controla o número de defeitos para cada tipo de tela. A tabela abaixo mostra quatro tipos de telas, o número telas fabricadas por mês e o número de telas defeituosas: Tipo da tela Telas fabricadas Telas defeituosas LCD 2450 5 OLED 1500 3 AMOLED 960 2 A empresa define uma quantidade chamada de taxa de defeito, que é a razão entre o número de telas defeituosas e o número de telas fabricadas. Os tipos de telas em ordem crescente de taxa de defeito são: (A) OLED, LCD, AMOLED. (B) OLED, AMOLED, LCD. (C) AMOLED, OLED, LCD. (D) LCD, OLED e AMOLED. (E) AMOLED, LCD, OLED."
             },
             "resposta_correta": "A"
         },
@@ -634,13 +784,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: O dono de uma pizzaria calcula que em uma \npizza são utilizados 200 g de calabresa, e a pizza \né vendida por R$ 44,00 ao consumidor final. Ele \ncalcula também que o custo da calabresa \nrepresenta 30% do valor da pizza. Em um dado \ninstante o preço do kg da calabresa aumentou em \n25%. O dono da pizzaria não aumentará o valor \nda pizza para o consumidor final, porém ele \ndiminuirá a quantidade de calabresa por pizza \npara que seu custo não mude . Quantos gramas de \ncalabresa serão utilizados em cada pizza após o \naumento?",
+            "questão": "Questão 24",
+            "enunciado": "O dono de uma pizzaria calcula que em uma pizza são utilizados 200 g de calabresa, e a pizza é vendida por R$ 44,00 ao consumidor final. Ele calcula também que o custo da calabresa representa 30% do valor da pizza. Em um dado instante o preço do kg da calabresa aumentou em 25%. O dono da pizzaria não aumentará o valor da pizza para o consumidor final, porém ele diminuirá a quantidade de calabresa por pizza para que seu custo não mude . Quantos gramas de calabresa serão utilizados em cada pizza após o aumento? (",
             "alternativas": {
-                "A": "190.",
-                "B": "180.",
-                "C": "160.",
-                "D": "150.",
-                "E": "140.  QUESTÃO 25 \nEm um clube de xadrez há dois tipos de \nfrequentadores: iniciantes e mestres. O clube \nnotou que este ano há o dobro de frequentadores \nem relação ao ano passado, e que a razão entre \nmestres e iniciantes no ano passado era de 1/10 e \npassou a ser de 1/5 este a no. Sabendo -se que \nnesse ano há 22 mestres, pode -se afirmar que o \nnúmero de mestres no ano passado foi de:  \n(A) 9.  \n(B) 7.  \n(C) 3.  \n(D) 11.  \n(E) 6."
+                "A": "190. (",
+                "B": "180. (",
+                "C": "160. (",
+                "D": "150. (",
+                "E": "140. QUESTÃO 25 Em um clube de xadrez há dois tipos de frequentadores: iniciantes e mestres. O clube notou que este ano há o dobro de frequentadores em relação ao ano passado, e que a razão entre mestres e iniciantes no ano passado era de 1/10 e passou a ser de 1/5 este a no. Sabendo -se que nesse ano há 22 mestres, pode -se afirmar que o número de mestres no ano passado foi de: (A) 9. (B) 7. (C) 3. (D) 11. (E) 6."
             },
             "resposta_correta": "C"
         },
@@ -648,13 +799,29 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: A figura abaixo mostra quatro triângulos \nformados nas arestas de um quadrado:  \n \nOs pontos E e  F, quando presentes, são os pontos \nmédios das arestas nas quais eles estão inseridos. \nOs triângulos das figuras I), II), III) e IV) podem \nser classificados respectivamente por:",
+            "questão": "Questão 26",
+            "enunciado": "A figura abaixo mostra quatro triângulos formados nas arestas de um quadrado: Os pontos E e F, quando presentes, são os pontos médios das arestas nas quais eles estão inseridos. Os triângulos das figuras I), II), III) e IV) podem ser classificados respectivamente por: (",
             "alternativas": {
-                "A": "Equilátero, equilátero, isóscele, escaleno.",
-                "B": "Isóscele, escaleno, escaleno, equilátero.",
-                "C": "Isóscele, escaleno, escaleno, isóscele.",
-                "D": "Equilátero, equilátero, escaleno, equilátero.",
-                "E": "Isóscele, isóscele, escaleno, equilátero.  \nPrefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 8 de 12 QUESTÃO 27 \nObserve a seguinte sequência lógica figural:  \n \n \n \n \nA figura mostra os 4 primeiros elementos da \nsequência. O primeiro elemento é construído \ncom 4 palitos. Com quantos palitos será \nconstruído o 27° elemento?  \n \n(A) 120.  \n(B) 134.  \n(C) 130.  \n(D) 124.  \n(E) 144."
+                "A": "Equilátero, equilátero, isóscele, escaleno. (",
+                "B": "Isóscele, escaleno, escaleno, equilátero. (",
+                "C": "Isóscele, escaleno, escaleno, isóscele. (",
+                "D": "Equilátero, equilátero, escaleno, equilátero. (",
+                "E": "Isóscele, isóscele, escaleno, equilátero. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 8 de 12 QUESTÃO 27 Observe a seguinte sequência lógica figural: A figura mostra os 4 primeiros elementos da sequência. O primeiro elemento é construído com 4 palitos. Com quantos palitos será construído o 27° elemento? (A) 120. (B) 134. (C) 130. (D) 124. (E) 144."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28",
+            "enunciado": "Observe a seguinte sequência lógica numérica: 2, 4, 8, 10, 14, 16, 20, ... Indique o próximo elemento da sequência: (",
+            "alternativas": {
+                "A": "22. (",
+                "B": "32. (",
+                "C": "28. (",
+                "D": "26. (",
+                "E": "24. QUESTÃO 29 Em uma ilha, há três tipos de habitantes: os Cavaleiros, que sempre dizem a verdade; os Escudeiros, que sempre mentem; e os Espiões, que podem tanto mentir quanto dizer a verdade. Você encontra três habitantes da ilha, chamados A, B e C e você sabe que um deles é um Cavaleiro, o outro Escudeiro e o outro Espião, não necessariamente nesta ordem. Ao serem perguntados, eles dizem que: • A diz que B é um Escudeiro. • B diz que C é um Espião. • C diz que A é um Cavaleiro. Determine quais são as verdadeiras identidades de A, B e C, respectivamente: (A) Cavaleiro, Escudeiro, Espião. (B) Escudeiro, Espião, Cavaleiro. (C) Cavaleiro, Espião, Escudeiro. (D) Escudeiro, Cavaleiro, Espião. (E) Espião, Escudeiro, Cavaleiro."
             },
             "resposta_correta": "C"
         },
@@ -662,13 +829,14 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Observe a seguinte sequência lógica numérica:  \n \n2, 4, 8, 10, 14, 16, 20, ...  \n \nIndique o próximo elemento da sequência:",
+            "questão": "Questão 30",
+            "enunciado": "Três amigos decidem se encontrar regularmente em uma cafeteria para estudar juntos. O primeiro amigo pode ir à cafeteria a cada 6 dias, o segundo a cada 8 dias, e o terceiro a cada 12 dias. Se todos eles se encontraram hoje, depois de quantos dias eles se encontrarão novamente todos juntos na cafeteria? (",
             "alternativas": {
-                "A": "22.",
-                "B": "32.",
-                "C": "28.",
-                "D": "26.",
-                "E": "24.  QUESTÃO 29 \nEm uma ilha, há três tipos de habitantes: os \nCavaleiros, que sempre dizem a verdade; os \nEscudeiros, que sempre mentem; e os Espiões, \nque podem tanto mentir quanto dizer a verdade. \nVocê encontra três habitantes da ilha, chamados \nA, B e C e você sabe que um deles é um \nCavaleiro, o outro Escudeiro e o outro Espião, \nnão necessariamente nesta ordem. Ao serem \nperguntados, eles dizem que:  \n \n• A diz que B é um Escudeiro.  \n• B diz que C é um Espião.  \n• C diz que A é um Cavaleiro.  \n \nDetermine quais são as verdadeiras identidades \nde A, B e C, respectivamente:  \n \n(A) Cavaleiro, Escudeiro, Espião.  \n(B) Escudeiro, Espião, Cavaleiro.  \n(C) Cavaleiro, Espião, Escudeiro.  \n(D) Escudeiro, Cavaleiro, Espião.  \n(E) Espião, Escudeiro, Cavaleiro."
+                "A": "18. (",
+                "B": "16. (",
+                "C": "36. (",
+                "D": "32. (",
+                "E": "24. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 9 de 12 CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "C"
         },
@@ -676,85 +844,106 @@
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Três amigos decidem se encontrar regularmente \nem uma cafeteria para estudar juntos. O primeiro \namigo pode ir à cafeteria a cada 6 dias, o segundo \na cada 8 dias, e o terceiro a cada 12 dias. Se todos \neles se encontraram hoje, depois de quantos dias \neles se encontrarão novamente todos juntos na \ncafeteria?",
+            "questão": "Questão 31",
+            "enunciado": "Durante uma paralisação na via, enquanto aguardam a liberação, cinco motoristas discutem sobre as campanhas educativas de trânsito para o ano de 2024. Cada um deles expressa sua opinião sobre a mensagem central das campanhas de 2024, conforme estabelecido pela Resolução CONTRAN nº 1.000/2023. Rafael afirmou que a mensagem para 2024 é: \"Mantenha distância segura e evite acidentes\". Carolina argumentou que a mensagem é: \" untos Salvamos Vidas\". Pedro destacou: \" No trânsito, escolha a vida\". Mariana discorda e diz que a mensagem é: \"Evite o uso do celular ao volante\". Gabriel opinou que a mensagem é: \"Paz no trânsito começa por você\". Qual dos motoristas está correto? (",
             "alternativas": {
-                "A": "18.",
-                "B": "16.",
-                "C": "36.",
-                "D": "32.",
-                "E": "24.  \n \n \n \nPrefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 9 de 12 CONHECIMENTOS ESPECÍFICOS"
+                "A": "Rafael (",
+                "B": "Carolina (",
+                "C": "Pedro (",
+                "D": "Mariana (",
+                "E": "Gabriel"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32",
+            "enunciado": "Assinale a alternativa que corresponde com a imagem abaixo. R - 7 (",
+            "alternativas": {
+                "A": "Proibido ultrapassar (",
+                "B": "Roibido Trânsito De Veículos Automotores (",
+                "C": "Proibido Estacionar (",
+                "D": "Probido trânsito de caminhões (",
+                "E": "Parada obrigatória"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33",
+            "enunciado": "Ao renovar sua licença para conduzir, foi imposto a Fernando o uso do aparelho auxiliar de audição. Durante uma blitz de trânsito, Fernando foi parado pelos agentes. Ao ser questionado sobre o uso do aparelho auxiliar de audição , ele percebeu que havia esquecido de colocá -lo antes de iniciar a viagem. Nesse contexto, Fernando cometeu alguma infração? (",
+            "alternativas": {
+                "A": "Sim, Fernando cometeu infração gravíssima, por dirigir sem o aparelho auxiliar de audição. (",
+                "B": "Não, Fernando não cometeu nenhuma infração, pois o aparelho auxiliar de audição não interfere na capacidade de direção. (",
+                "C": "Sim, Fernando cometeu infração média, uma vez que o aparelho auxiliar de audição é obrigatório. (",
+                "D": "Sim, Fernando cometeu infração grave, por dirigir sem o aparelho auxiliar de audição. (",
+                "E": "Sim, Fernando cometeu infração leve, pois a falta do aparelho auxiliar de audição pode comprometer a sua segurança e a dos demais usuários da via. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 10 de 12 QUESTÃO 34 A Resolução CONTRAN nº 1.000/2023. Estabelece a mensagem, os temas e o cronograma das campanhas educativas de trânsito a serem realizadas de janeiro a dezembro de 2024. De acordo com o cronograma, em qual mês está previsto o tema: Celular e Direção? (A) outubro (B) junho (C) março (D) maio (E) fevereiro"
             },
             "resposta_correta": "B"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 21: Durante uma paralisação na via, enquanto \naguardam a liberação, cinco motoristas discutem \nsobre as campanhas educativas de trânsito para o \nano de 2024. Cada um deles expressa sua opinião \nsobre a mensagem central das campanhas de \n2024, conforme estabelecido pela Resolução \nCONTRAN nº 1.000/2023.  \n \nRafael afirmou que a mensagem para 2024 é: \n\"Mantenha distância segura e evite acidentes\".  \n \nCarolina argumentou que a mensagem é: \" untos \nSalvamos Vidas\".  \n \nPedro destacou: \" No trânsito, escolha a vida\".  \n \nMariana discorda e diz que a mensagem é: \"Evite \no uso do celular ao volante\".  \n \nGabriel opinou que a mensagem é: \"Paz no \ntrânsito começa por você\".  \n \nQual dos motoristas está correto?",
+            "questão": "Questão 35",
+            "enunciado": "Analise os itens abaixo em relação aos freios. I – Freios a disco – n normalmente são utilizados nas rodas dianteiras (oferecem menor potencial de frenagem); II – Freio de estacionamento – conhecido como “freio de mão” ou freio mecânico (atua somente nas rodas dianteiras); (",
             "alternativas": {
-                "A": "Rafael",
-                "B": "Carolina",
-                "C": "Pedro",
-                "D": "Mariana",
-                "E": "Gabriel  \n \n \n \n \n \n \n \n QUESTÃO 32  \nAssinale a alternativa que corresponde com a \nimagem abaixo.  \n \n \n \n \n \n \n     R - 7 \n \n \n \n \n(A) Proibido ultrapassar  \n(B) Roibido Trânsito De Veículos Automotores  \n(C) Proibido Estacionar  \n(D) Probido trânsito de caminhões  \n(E) Parada obrigatória"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 22: Ao renovar sua licença para conduzir, foi imposto \na Fernando o uso do aparelho auxiliar de audição. \nDurante uma blitz de trânsito, Fernando foi \nparado pelos agentes. Ao ser questionado sobre o \nuso do aparelho auxiliar de audição , ele \npercebeu que havia esquecido de colocá -lo antes \nde iniciar a viagem. Nesse contexto, Fernando \ncometeu alguma infração?",
-            "alternativas": {
-                "A": "Sim, Fernando cometeu infração \ngravíssima, por dirigir sem o aparelho auxiliar de \naudição.",
-                "B": "Não, Fernando não cometeu nenhuma \ninfração, pois o aparelho auxiliar de audição não \ninterfere na capacidade de direção.",
-                "C": "Sim, Fernando cometeu infração média, \numa vez que o aparelho auxiliar de audição é \nobrigatório.",
-                "D": "Sim, Fernando cometeu infração grave, por \ndirigir sem o aparelho auxiliar de audição.",
-                "E": "Sim, Fernando cometeu infração leve, pois \na falta do aparelho auxiliar de audição pode \ncomprometer a sua segurança e a dos demais \nusuários da via.  \n \n \nPrefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 10 de 12 QUESTÃO 34  \nA Resolução CONTRAN nº 1.000/2023. \nEstabelece a mensagem, os temas e o \ncronograma das campanhas educativas de \ntrânsito a serem realizadas de janeiro a dezembro \nde 2024.  \nDe acordo com o cronograma, em qual mês está \nprevisto o tema: Celular e Direção?  \n \n(A) outubro  \n(B) junho  \n(C) março  \n(D) maio  \n(E) fevereiro"
+                "A": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. (",
+                "B": "As asserções I e II são proposições verdadeiras, e a II é um complemento da I. (",
+                "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. (",
+                "D": "As asserções I e II são proposições falsas. (",
+                "E": "As asserções I e II são proposições verdadeiras, mas a II não é um complemento da I."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: Analise os itens abaixo em relação aos freios.  \n \nI – Freios a disco – n normalmente são utilizados \nnas rodas dianteiras (oferecem menor potencial \nde frenagem);  \n \nII – Freio de estacionamento – conhecido como \n“freio de mão” ou freio mecânico (atua somente \nnas rodas dianteiras);",
+            "questão": "Questão 36",
+            "enunciado": "Em relação aos sinais de trânsito verticais e horizontais. Analise os itens a seguir I - A sinalização vertical consiste em marcas e sinais pintados diretamente na superfície da estrada, como faixas de pedestres, linhas de divisão de pistas, setas, símbolos e letras. II - A sinalização horizontal refere -se a placas, postes e sinais fixados verticalmente ao lado da estrada ou suspensos sobre ela. (",
             "alternativas": {
-                "A": "A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.",
-                "B": "As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.",
-                "C": "A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.",
-                "D": "As asserções I e II são proposições falsas.",
-                "E": "As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI. \n \n \n \n \n QUESTÃO 36  \nEm relação aos sinais de trânsito verticais e \nhorizontais. Analise os itens a seguir  \n \nI -  A sinalização vertical consiste em marcas e \nsinais pintados diretamente na superfície da \nestrada, como faixas de pedestres, linhas de \ndivisão de pistas, setas, símbolos e letras.  \n \nII -  A sinalização horizontal refere -se a placas, \npostes e sinais fixados verticalmente ao lado da \nestrada ou suspensos sobre ela.  \n \n(A) A asserção I é uma proposição falsa, e a II é \numa proposição verdadeira.  \n(B) As asserções I e II são proposições \nverdadeiras, e a II é um complemento da I.  \n(C) A asserção I é uma proposição verdadeira, e \na II é uma proposição falsa.  \n(D) As asserções I e II são proposições falsas.  \n(E) As asserções I e II são proposições \nverdadeiras, mas a II não é um complemento da \nI."
+                "A": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. (",
+                "B": "As asserções I e II são proposições verdadeiras, e a II é um complemento da I. (",
+                "C": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. (",
+                "D": "As asserções I e II são proposições falsas. (",
+                "E": "As asserções I e II são proposições verdadeiras, mas a II não é um complemento da I."
             },
-            "resposta_correta": "D"
+            "resposta_correta": "E"
         },
         {
             "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 24: Complete corretamente a lacuna conforme o \nCódigo de Trânsito Brasileiro. A penalidade de \nsuspensão ou de proibição de se obter a permissão \nou a habilitação, para dirigir veículo automotor, \ntem a duração de? ____________________.",
+            "questão": "Questão 37",
+            "enunciado": "Complete corretamente a lacuna conforme o Código de Trânsito Brasileiro. A penalidade de suspensão ou de proibição de se obter a permissão ou a habilitação, para dirigir veículo automotor, tem a duração de? ____________________. (",
             "alternativas": {
-                "A": "um mês a três anos.",
-                "B": "seis meses a dois anos.",
-                "C": "três meses a quatro anos.",
-                "D": "dois meses a cinco anos.",
-                "E": "seis meses a quatro anos.  \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 11 de 12 QUESTÃO 38  \nUm grupo de cinco amigos está estudando sobre \nas penalidades do Código de Trânsito Brasileiro. \nEles criaram uma caixinha de perguntas para \ntestar seus conhecimentos. Uma das perguntas \nfoi: \"Quantos pontos são computados para uma \ninfração média ?\" \n \nPaula respondeu: \"3 pontos\".  \nMaria disse: \"5 pontos\".  \nLucas opinou: \"4 pontos\".  \nPedro arriscou: \"2 pontos\".  \nJoana afirmou: \"6 pontos\"  \n \nQual dos amigos está correto?  \n(A) Paula  \n(B) Maria  \n(C) Lucas  \n(D) Pedro  \n(E) Joana"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 25: Em relação aos Crimes de Trânsito. Analise as \nafirmativas abaixo.  \nNo homicídio culposo cometido na direção de \nveículo automotor, a pena é aumentada de 1/3 \n(um terço) à metade, se o agente:   \n \nI - não possuir Permissão para Dirigir ou Carteira \nde Habilitação;  \nII - praticá -lo em faixa de pedestres ou na calçada;     \nIII - deixar de prestar socorro, quando possível \nfazê-lo sem risco pessoal, à vítima do sinistro;  \nIV - no exercício de sua profissão ou atividade, \nestiver conduzindo veículo de transporte de \npassageiros;  \n \nEstá(ão) correta(s) a(s) afirmativa(s):",
-            "alternativas": {
-                "A": "I, III e IV apenas",
-                "B": "II, III e IV apenas",
-                "C": "I e II apenas",
-                "D": "IV apenas",
-                "E": "Todas as alternativas estão corretas  QUESTÃO 40  \nQual das seguintes afirmações está de acordo \ncom o estabelecido pela legislação de trânsito \nem relação à sinalização das vias pavimentadas?  \n \n(A) As vias pavimentadas podem ser entregues \nao trânsito sem sinalização adequada, desde que \nos condutores estejam cientes das condições.  \n(B) As vias pavimentadas podem ser reabertas \nao trânsito mesmo que a sinalização vertical não \nesteja presente, desde que a sinalização \nhorizontal esteja completa.  \n(C) As vias pavimentadas podem ser entregues \nao trânsito sem sinalização horizontal, desde que \nhaja sinalização vertical indicando as normas de \ntrânsito.  \n(D) As vias pavimentadas podem ser reabertas \nao trânsito após obras ou manutenção, mesmo \nque a sinalização esteja incompleta, desde que \nhaja autorização do responsável pela via.  \n(E) Nenhuma via pavimentada poderá ser \nentregue após sua construção, ou reaberta ao \ntrânsito após a realização de obras ou de \nmanutenção, enquanto não estiver devidamente \nsinalizada, vertical e horizontalmente, de forma \na garantir as condições adequadas de seg urança \nna circulação.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE VEÍCULOS LEVES                                                                                                            Página 12 de 12"
+                "A": "um mês a três anos. (",
+                "B": "seis meses a dois anos. (",
+                "C": "três meses a quatro anos. (",
+                "D": "dois meses a cinco anos. (",
+                "E": "seis meses a quatro anos. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 11 de 12 QUESTÃO 38 Um grupo de cinco amigos está estudando sobre as penalidades do Código de Trânsito Brasileiro. Eles criaram uma caixinha de perguntas para testar seus conhecimentos. Uma das perguntas foi: \"Quantos pontos são computados para uma infração média ?\" Paula respondeu: \"3 pontos\". Maria disse: \"5 pontos\". Lucas opinou: \"4 pontos\". Pedro arriscou: \"2 pontos\". Joana afirmou: \"6 pontos\" Qual dos amigos está correto? (A) Paula (B) Maria (C) Lucas (D) Pedro (E) Joana"
             },
             "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE VEÍCULOS LEVES",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 39",
+            "enunciado": "Em relação aos Crimes de Trânsito. Analise as afirmativas abaixo. No homicídio culposo cometido na direção de veículo automotor, a pena é aumentada de 1/3 (um terço) à metade, se o agente: I - não possuir Permissão para Dirigir ou Carteira de Habilitação; II - praticá -lo em faixa de pedestres ou na calçada; III - deixar de prestar socorro, quando possível fazê-lo sem risco pessoal, à vítima do sinistro; IV - no exercício de sua profissão ou atividade, estiver conduzindo veículo de transporte de passageiros; Está(ão) correta(s) a(s) afirmativa(s): (",
+            "alternativas": {
+                "A": "I, III e IV apenas (",
+                "B": "II, III e IV apenas (",
+                "C": "I e II apenas (",
+                "D": "IV apenas (",
+                "E": "Todas as alternativas estão corretas QUESTÃO 40 Qual das seguintes afirmações está de acordo com o estabelecido pela legislação de trânsito em relação à sinalização das vias pavimentadas? (A) As vias pavimentadas podem ser entregues ao trânsito sem sinalização adequada, desde que os condutores estejam cientes das condições. (B) As vias pavimentadas podem ser reabertas ao trânsito mesmo que a sinalização vertical não esteja presente, desde que a sinalização horizontal esteja completa. (C) As vias pavimentadas podem ser entregues ao trânsito sem sinalização horizontal, desde que haja sinalização vertical indicando as normas de trânsito. (D) As vias pavimentadas podem ser reabertas ao trânsito após obras ou manutenção, mesmo que a sinalização esteja incompleta, desde que haja autorização do responsável pela via. (E) Nenhuma via pavimentada poderá ser entregue após sua construção, ou reaberta ao trânsito após a realização de obras ou de manutenção, enquanto não estiver devidamente sinalizada, vertical e horizontalmente, de forma a garantir as condições adequadas de seg urança na circulação. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE VEÍCULOS LEVES Página 12 de 12"
+            },
+            "resposta_correta": "B"
         }
     ]
 }

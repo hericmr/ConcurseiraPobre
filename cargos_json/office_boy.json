@@ -4,13 +4,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: Considerando o trecho \"Que a saudade não \ncompensa\" do poema, qual das alternativas \napresenta um sinônimo adequado para a \npalavra \"compensa\"?",
+            "questão": "Questão 1",
+            "enunciado": "Considerando o trecho \"Que a saudade não compensa\" do poema, qual das alternativas apresenta um sinônimo adequado para a palavra \"compensa\"? (",
             "alternativas": {
-                "A": "Justifica",
-                "B": "Equilibra",
-                "C": "Tem razão",
-                "D": "Reembolsa",
-                "E": "Vale a pena  \n \n \n \n \n \n QUESTÃO 02 \nNo que diz respeito ao uso da palavra \n\"Tomara\" no início do poema de Vinicius de \nMoraes, qual das alternativas melhor descreve \no sentido em que esta é empregada? \n \n(A) No sentido próprio, referindo-se a uma \nação de pegar ou segurar algo. \n(B) No sentido figurado, indicando uma ação \nde conquista ou vitória. \n(C) No sentido próprio, indicando a parte do \nvestuário que cobre o torso. \n(D) No sentido figurado, como uma forma \nverbal do verbo tomarear, significando \nvaguear. \n(E) No sentido próprio, expressando o desejo \nde que algo aconteça."
+                "A": "Justifica (",
+                "B": "Equilibra (",
+                "C": "Tem razão (",
+                "D": "Reembolsa (",
+                "E": "Vale a pena"
             },
             "resposta_correta": "E"
         },
@@ -18,13 +19,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: Com base no verso \"E o verdadeiro amor de \nquem se ama\", a qual classe de palavras \npertence a palavra \"verdadeiro\", e qual sentido \nela imprime ao substantivo que modifica?",
+            "questão": "Questão 2",
+            "enunciado": "No que diz respeito ao uso da palavra \"Tomara\" no início do poema de Vinicius de Moraes, qual das alternativas melhor descreve o sentido em que esta é empregada? (",
             "alternativas": {
-                "A": "Substantivo - Estabelece uma \ncaracterística ou qualidade de verídico.",
-                "B": "Adjetivo - Atribui uma qualidade de \nautenticidade e sinceridade ao amor \nmencionado.",
-                "C": "Verbo - Descreve a ação de ser íntegro e \nreal no contexto do amor.",
-                "D": "Advérbio - Modifica o sentido do verbo \namar, enfatizando a maneira como o amor é \npraticado.",
-                "E": "Preposição - Estabelece uma relação de \nposse entre o amor e quem o pratica. \n \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 3 de 12 QUESTÃO 04 \nNo verso \"Que você volte depressa\", a palavra \"depressa \" pode ser substituída, sem prejuízo para o \nsentido original do poema, por: \n \n(A) devagar \n(B) calmamente \n(C) rapidamente \n(D) vagarosamente \n(E) pacientemente"
+                "A": "No sentido próprio, referindo-se a uma ação de pegar ou segurar algo. (",
+                "B": "No sentido figurado, indicando uma ação de conquista ou vitória. (",
+                "C": "No sentido próprio, indicando a parte do vestuário que cobre o torso. (",
+                "D": "No sentido figurado, como uma forma verbal do verbo tomarear, significando vaguear. (",
+                "E": "No sentido próprio, expressando o desejo de que algo aconteça."
             },
             "resposta_correta": "E"
         },
@@ -32,55 +34,44 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: Leia o trecho a seguir: \n \n\"O governo ____ a necessidade de investimentos em in fraestrutura, mas ainda não ____ medidas \nconcretas para resolver o problema.\" \n \nAssinale a alternativa que preenche corretamente as lac unas do trecho.",
+            "questão": "Questão 3",
+            "enunciado": "Com base no verso \"E o verdadeiro amor de quem se ama\", a qual classe de palavras pertence a palavra \"verdadeiro\", e qual sentido ela imprime ao substantivo que modifica? (",
             "alternativas": {
-                "A": "reconhece - adotou",
-                "B": "reconhece - adotara",
-                "C": "reconhece - adotarão",
-                "D": "reconhece - adotar",
+                "A": "Substantivo - Estabelece uma característica ou qualidade de verídico. (",
+                "B": "Adjetivo - Atribui uma qualidade de autenticidade e sinceridade ao amor mencionado. (",
+                "C": "Verbo - Descreve a ação de ser íntegro e real no contexto do amor. (",
+                "D": "Advérbio - Modifica o sentido do verbo amar, enfatizando a maneira como o amor é praticado. (",
+                "E": "Preposição - Estabelece uma relação de posse entre o amor e quem o pratica. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 3 de 12 QUESTÃO 04 No verso \"Que você volte depressa\", a palavra \"depressa \" pode ser substituída, sem prejuízo para o sentido original do poema, por: (A) devagar (B) calmamente (C) rapidamente (D) vagarosamente (E) pacientemente"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5",
+            "enunciado": "Leia o trecho a seguir: \"O governo ____ a necessidade de investimentos em in fraestrutura, mas ainda não ____ medidas concretas para resolver o problema.\" Assinale a alternativa que preenche corretamente as lac unas do trecho. (",
+            "alternativas": {
+                "A": "reconhece - adotou (",
+                "B": "reconhece - adotara (",
+                "C": "reconhece - adotarão (",
+                "D": "reconhece - adotar (",
                 "E": "reconhecem – adotaram"
             },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 4: Disponível em: https://tirasarmandinho.tumblr.com  \n \nO quadrinho apresenta um jogo de palavras entre os con ceitos de pressão física e temporal em um \nsentido figurado. Ao considerar o contexto do segundo quadrinho, identifique a alternativa que \nexpressa corretamente o sentido da palavra \"pressão\" emp regada pelo garoto.",
-            "alternativas": {
-                "A": "A força exercida por unidade de área.",
-                "B": "A necessidade de cumprir uma tarefa em um período de te mpo reduzido.",
-                "C": "A medida da quantidade de moléculas em um determina do volume.",
-                "D": "A intensidade do som causada pela vibração das part ículas no ar.",
-                "E": "A resistência oferecida por um fluido ao ser comprimido.  \n \n \nFundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 4 de 12 QUESTÃO 07 \nEnquanto a filosofia que declara uma raça \nsuperior e outra inferior não for finalmente e \npermanentemente desacreditada e \nabandonada; enquanto não deixarem de existir \ncidadãos de primeira e segunda categoria de \nqualquer nação; enquanto a cor da pele de uma \npessoa for mais importante que a cor dos seus \nolhos; enquanto não forem garantidos a todos \npor igual os direitos humanos básicos, sem \nolhar a raças, até esse dia, os sonhos de paz \nduradoura, cidadania mundial e governo de \numa moral internacional irão continuar a ser \numa ilusão fugaz, a ser perseguida, mas nunca \nalcançada. \nHaile Selassie \nCom base no discurso de Haile Selassie, \nidentifique a alternativa que melhor expressa a \ntese central e os argumentos que a sustentam. \n \n(A) A paz duradoura depende da erradicação \nda discriminação racial em todas as suas \nformas. \n(B) A paz duradoura só será possível quando \ntodas as nações se unirem em um único \ngoverno global. \n(C) A paz duradoura só será possível com a \nimplementação de filosofias de superioridade \nracial. \n(D) A chave para a paz mundial reside na \nsuperação das igualdades socioeconômicas \nentre as nações. \n(E) O avanço científico e tecnológico é a \nprincipal ferramenta para combater a \ndiscriminação racial e construir um mundo \nmais justo."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 5: Assinale a alternativa que emprega a crase \nincorretamente.",
-            "alternativas": {
-                "A": "Eu estudo das 6h às 11h.",
-                "B": "O encontro foi marcado para às 14h.",
-                "C": "Faço referência àquilo que foi discutido.",
-                "D": "Esta é a chave que dá acesso à sala dos \nprofessores.",
-                "E": "Precisamos chegar à reunião antes das 9h. \n QUESTÃO 09 \nAnalise as sentenças abaixo e indique a \nalternativa em que a regência do verbo \n\"esquecer-se\" está aplicada corretamente. \n \n(A) Esqueci os teus conselhos quando mais \nprecisei deles. \n(B) Esqueci os teus conselhos, não me lembro \nmais deles. \n(C) Esqueci de teus conselhos quando mais \nprecisei deles. \n(D) Esqueci-me de teus conselhos, mas agora \nlembro-me deles. \n(E) Esqueci-me teus conselhos, não mais os \nrecordo."
-            },
             "resposta_correta": "A"
         },
         {
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Na América Latina, a miséria não é natural. É \num projeto. Os pobres não são pobres porque \nnasceram pobres. São pobres porque foram \nempobrecidos. Empobrecidos por um sistema \nque os exclui, que os margina, que os condena \nà fome, à doença, à ignorância e à morte. Um \nsistema que concentra a riqueza nas mãos de \nuns poucos e a miséria nas mãos de muitos. \nUm sistema que é a negação da vida. \nEduardo Galeano \nAcerca das causas da miséria na América \nLatina, segundo Galeano, é incorreto afirmar \nque:",
+            "questão": "Questão 6",
+            "enunciado": "Disponível em: https://tirasarmandinho.tumblr.com O quadrinho apresenta um jogo de palavras entre os con ceitos de pressão física e temporal em um sentido figurado. Ao considerar o contexto do segundo quadrinho, identifique a alternativa que expressa corretamente o sentido da palavra \"pressão\" emp regada pelo garoto. (",
             "alternativas": {
-                "A": "A miséria é consequência de estruturas \nsociais e econômicas excludentes.",
-                "B": "A exclusão social é um fator determinante \nno processo de marginalização dos pobres.",
-                "C": "A concentração de riqueza em poucas \nmãos contribui para a perpetuação da pobreza.",
-                "D": "As políticas e sistemas vigentes têm papel \nativo no empobrecimento da população.",
-                "E": "Os indivíduos nascem pobres devido a \ncondições hereditárias e biológicas imutáveis. \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 5 de 12 QUESTÃO 11 \n\"Fronteira entre o eu e o outro, tela em que se \nprojetam os desejos e os medos, palco de \nencenações sociais e de dramas existenciais. \nMais do que um invólucro, a pele é um \nterritório simbólico, um mapa da alma. Nela se \ninscrevem as marcas do tempo e da vida, as \ncicatrizes de batalhas vencidas e perdidas, os \nsinais de alegria e de dor. Cada poro, cada \nlinha, cada mancha conta uma história, revela \num segredo, traduz um sentimento. A pele é o \nespelho da nossa interioridade. Em sua \nsuperfície, se refletem as angústias e as \nesperanças, as paixões e as frustrações, as \ndúvidas e as certezas. Ela é o registro vivo de \nquem somos, do que vivemos, do que \nsentimos. A pele também é um instrumento de \ncomunicação. Através dela, expressamos afeto \ne repulsa, desejo e medo, amor e ódio. Com um \ntoque, um sorriso, um olhar, podemos \ntransmitir mensagens complexas e sutis. A pele \né, enfim, um universo a ser explorado, um \nenigma a ser decifrado. Mais do que um órgão, \nela é um símbolo da nossa humanidade, da \nnossa fragilidade e da nossa força.\" \n \nConsiderando as múltiplas funções da pele \ndescritas no texto \"A flor da pele\", qual das \nalternativas não corresponde à descrição feita \npelo autor? \n \n(A) A pele como um mero órgão sensorial. \n(B) A pele como um registro vivo de quem \nsomos. \n(C) A pele como uma forma de expressão de \nemoções. \n(D) A pele refletindo as experiências de vida. \n(E) A pele servindo como meio de \ncomunicação entre pessoas. \n \n \n \n \n QUESTÃO 12 \n\"Ao descer a ladeira da Misericórdia, defronte \nda igreja, o que mais chama a atenção é um \ngrande cortiço. É um prédio de três andares, \ncom um só telhado, dividido em vários \ncompartimentos. As paredes externas são \ncaiadas de branco; as internas, de tijolos. No \ntérreo, há lojas e botequins; nos andares \nsuperiores, moram os inquilinos. Os \ncompartimentos são pequenos e escuros. A \nmobília é simples e rudimentar. Nas paredes, \nhá pregos e ganchos para pendurar roupas e \nutensílios. O chão é de terra batida. Os \nmoradores do cortiço são pessoas pobres e \nhumildes. Trabalham como operários, \ncozinheiras, lavadeiras, etc. A vida no cortiço \né difícil e precária. As pessoas vivem em \ncondições de higiene precárias. Há muita \npromiscuidade e violência.\" \n \nO texto apresenta uma descrição detalhada do \ncortiço e de seus moradores. A partir da leitura, \né possível identificar as seguintes \ncaracterísticas, exceto: \n \n(A) Precariedade das moradias: os \ncompartimentos são pequenos, escuros e com \nmobília simples e rudimentar. \n(B) Promiscuidade: os moradores vivem em \ncondições precárias de higiene e há muita \npromiscuidade. \n(C) Violência: a vida no cortiço é difícil e \nprecária, com altos índices de violência. \n(D) Heterogeneidade social: os moradores do \ncortiço são pessoas de diferentes capacidades \neconômicas. \n(E) Classe Social: os moradores do cortiço são \noperários.  \n \n \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 6 de 12 QUESTÃO 13 \nLeia o fragmento do poema \"Canção do \nExílio\", de Gonçalves Dias, e responda à \nquestão que se segue. \n \nMinha terra tem palmeiras, \nOnde canta o Sabiá; \nAs aves, que aqui gorjeiam, \nNão gorjeiam como lá. \n \nA terra natal é sempre \nLembrada com saudade; \nA saudade da terra \nMata a felicidade. \n \nNo poema, o autor expressa a saudade que \nsente de sua terra natal. Assinale a alternativa \nque melhor explicita o sentimento presente nos \nversos. \n \n(A) A descrição da beleza da terra natal, com \nsuas palmeiras e o canto do Sabiá, desperta no \npoeta a lembrança de um passado feliz. \n(B) A comparação entre o canto das aves da \nterra natal e as que gorjeiam no local onde o \npoeta se encontra diminui a sensação de \nsaudade. \n(C) O desdém da terra natal é constante e é a \nrazão pela qual o poeta sente uma profunda \ntristeza que o impede de ser feliz. \n(D) O poeta reconhece que a saudade da terra \nnatal é um sentimento universal que todos \nexperimentam em algum momento da vida. \n(E) A nostalgia do poeta é tamanha que o leva \na idealizar uma terra imaginária, tornando-a \num lugar perfeito e livre de problemas. \n \n \n \n \n QUESTÃO 14 \nEm um mundo cada vez mais conectado e \nveloz, a leitura se depara com o desafio de se \nmanter relevante em meio à avalanche de \ninformações e estímulos instantâneos. A \nproliferação de telas e a cultura do multitasking \ncolocam à prova a capacidade de concentração \ne a imersão profunda que a leitura exige. Ao \nmesmo tempo, surgem novas oportunidades \npara o desenvolvimento do hábito leitor. A \ninternet democratiza o acesso a livros e textos, \nplataformas digitais oferecem experiências \ninterativas e inovadoras, e redes sociais \nconectam leitores de todo o mundo. Diante \ndesse cenário, torna-se crucial repensar o papel \nda leitura na sociedade contemporânea. É \npreciso encontrar formas de conciliar as \ntecnologias digitais com o desenvolvimento de \numa leitura crítica, reflexiva e prazerosa. \n \nCom base no texto, analise as alternativas a \nseguir e indique qual delas melhor exemplifica \num desafio imposto pela era digital à prática da \nleitura. \n \n(A) A dificuldade de encontrar materiais de \nleitura em formatos digitais. \n(B) A redução do número de bibliotecas físicas \ndisponíveis ao público. \n(C) O aumento da dispersão da atenção e da \ndificuldade de concentração. \n(D) A diminuição da quantidade de obras \nliterárias publicadas anualmente. \n(E) O encarecimento dos livros e materiais de \nleitura devido à tecnologia. \n \n \n \n \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 7 de 12 QUESTÃO 15 \nEm relação aos adjetivos, analise as sentenças \na seguir e marque a alternativa correta. \n \n\"O antigo relógio da praça ainda marcava as \nhoras precisamente.\" \n \nNeste caso, o termo \"antigo\" classifica-se \ncomo: \n \n(A) Adjetivo pátrio, indicando origem. \n(B) Adjetivo demonstrativo, apontando \nlocalização. \n(C) Adjetivo possessivo, mostrando posse. \n(D) Adjetivo qualificativo, caracterizando o \nsubstantivo. \n(E) Adjetivo ordinal, indicando posição."
+                "A": "A força exercida por unidade de área. (",
+                "B": "A necessidade de cumprir uma tarefa em um período de te mpo reduzido. (",
+                "C": "A medida da quantidade de moléculas em um determina do volume. (",
+                "D": "A intensidade do som causada pela vibração das part ículas no ar. (",
+                "E": "A resistência oferecida por um fluido ao ser comprimido. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 4 de 12 QUESTÃO 07 Enquanto a filosofia que declara uma raça superior e outra inferior não for finalmente e permanentemente desacreditada e abandonada; enquanto não deixarem de existir cidadãos de primeira e segunda categoria de qualquer nação; enquanto a cor da pele de uma pessoa for mais importante que a cor dos seus olhos; enquanto não forem garantidos a todos por igual os direitos humanos básicos, sem olhar a raças, até esse dia, os sonhos de paz duradoura, cidadania mundial e governo de uma moral internacional irão continuar a ser uma ilusão fugaz, a ser perseguida, mas nunca alcançada. Haile Selassie Com base no discurso de Haile Selassie, identifique a alternativa que melhor expressa a tese central e os argumentos que a sustentam. (A) A paz duradoura depende da erradicação da discriminação racial em todas as suas formas. (B) A paz duradoura só será possível quando todas as nações se unirem em um único governo global. (C) A paz duradoura só será possível com a implementação de filosofias de superioridade racial. (D) A chave para a paz mundial reside na superação das igualdades socioeconômicas entre as nações. (E) O avanço científico e tecnológico é a principal ferramenta para combater a discriminação racial e construir um mundo mais justo."
             },
             "resposta_correta": "B"
         },
@@ -88,27 +79,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: Considere as sentenças a seguir e identifique a \nque está incorreta quanto à regência verbal.",
+            "questão": "Questão 8",
+            "enunciado": "Assinale a alternativa que emprega a crase incorretamente. (",
             "alternativas": {
-                "A": "Ele conferiu os documentos antes de enviá-\nlos.",
-                "B": "O aluno obedeceu ao professor sem \nquestionar.",
-                "C": "Eles pagaram ao cliente.",
-                "D": "A professora aspira o cargo de diretora há \nanos.",
-                "E": "Estou grato por sua ajuda durante o projeto. \n \n \n \n \n \n \n \n QUESTÃO 17 \nAnalise as sentenças a seguir e identifique \naquela em que o verbo \"trazer\" está \ncorretamente conjugado. \n \n(A) Eu trousse os documentos necessários para \na reunião. \n(B) Tu troussestes o livro que te pedi? \n(C) Ele trouxe a chave que estava perdida. \n(D) Nós troussemos as novidades para o \nevento. \n(E) Eles troxeram as soluções para os \nproblemas apresentados."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 8: Assinale a alternativa que apresenta o uso \ncorreto da crase:",
-            "alternativas": {
-                "A": "Voltarei daqui à duas horas.",
-                "B": "Sairei de casa à meia-noite.",
-                "C": "Prefiro viajar à pé do bicicleta.",
-                "D": "Refiro-me à aquele autor que mencionaste.",
-                "E": "Assistirei à o jogo amanhã. \n \n \n \n \n \n \n \n \n \n \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 8 de 12 QUESTÃO 19 \n \nDisponível em: https://tirasarmandinho.tumblr.com/ \nNa tirinha, o personagem menciona que seu pai está \"l esionado no bolso\". O que essa expressão \nsugere sobre a situação financeira do pai do personagem?  \n \n(A) Ele está economicamente próspero. \n(B) Ele tem uma grande quantidade de dinheiro guardado. \n(C) Ele está enfrentando dificuldades financeiras. \n(D) Ele perdeu seu dinheiro em um investimento. \n(E) Ele está com o bolso rasgado."
+                "A": "Eu estudo das 6h às 11h. (",
+                "B": "O encontro foi marcado para às 14h. (",
+                "C": "Faço referência àquilo que foi discutido. (",
+                "D": "Esta é a chave que dá acesso à sala dos professores. (",
+                "E": "Precisamos chegar à reunião antes das 9h."
             },
             "resposta_correta": "B"
         },
@@ -116,13 +94,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: Disponível em: https://tirasarmandinho.tumblr.com/  \n \nConsiderando os vocábulos utilizados no contexto da t irinha, qual alternativa apresenta corretamente \num sinônimo para \"legal\" e um antônimo para \"acabou\"?",
+            "questão": "Questão 9",
+            "enunciado": "Analise as sentenças abaixo e indique a alternativa em que a regência do verbo \"esquecer-se\" está aplicada corretamente. (",
             "alternativas": {
-                "A": "Agradável - Voltou",
-                "B": "Justo - Continuou",
-                "C": "Correto - Parou",
-                "D": "Interessante - Terminou",
-                "E": "Conforme - Permaneceu \n \n \nFundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 9 de 12 MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+                "A": "Esqueci os teus conselhos quando mais precisei deles. (",
+                "B": "Esqueci os teus conselhos, não me lembro mais deles. (",
+                "C": "Esqueci de teus conselhos quando mais precisei deles. (",
+                "D": "Esqueci-me de teus conselhos, mas agora lembro-me deles. (",
+                "E": "Esqueci-me teus conselhos, não mais os recordo."
             },
             "resposta_correta": "D"
         },
@@ -130,13 +109,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Assinale a alternativa que apresenta o  \nseptuagésimo quinto número ímpar sucessor \nde 77?",
+            "questão": "Questão 10",
+            "enunciado": "Na América Latina, a miséria não é natural. É um projeto. Os pobres não são pobres porque nasceram pobres. São pobres porque foram empobrecidos. Empobrecidos por um sistema que os exclui, que os margina, que os condena à fome, à doença, à ignorância e à morte. Um sistema que concentra a riqueza nas mãos de uns poucos e a miséria nas mãos de muitos. Um sistema que é a negação da vida. Eduardo Galeano Acerca das causas da miséria na América Latina, segundo Galeano, é incorreto afirmar que: (",
             "alternativas": {
-                "A": "153",
-                "B": "155",
-                "C": "227",
-                "D": "225",
-                "E": "Nenhuma das alternativas"
+                "A": "A miséria é consequência de estruturas sociais e econômicas excludentes. (",
+                "B": "A exclusão social é um fator determinante no processo de marginalização dos pobres. (",
+                "C": "A concentração de riqueza em poucas mãos contribui para a perpetuação da pobreza. (",
+                "D": "As políticas e sistemas vigentes têm papel ativo no empobrecimento da população. (",
+                "E": "Os indivíduos nascem pobres devido a condições hereditárias e biológicas imutáveis. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 5 de 12 QUESTÃO 11 \"Fronteira entre o eu e o outro, tela em que se projetam os desejos e os medos, palco de encenações sociais e de dramas existenciais. Mais do que um invólucro, a pele é um território simbólico, um mapa da alma. Nela se inscrevem as marcas do tempo e da vida, as cicatrizes de batalhas vencidas e perdidas, os sinais de alegria e de dor. Cada poro, cada linha, cada mancha conta uma história, revela um segredo, traduz um sentimento. A pele é o espelho da nossa interioridade. Em sua superfície, se refletem as angústias e as esperanças, as paixões e as frustrações, as dúvidas e as certezas. Ela é o registro vivo de quem somos, do que vivemos, do que sentimos. A pele também é um instrumento de comunicação. Através dela, expressamos afeto e repulsa, desejo e medo, amor e ódio. Com um toque, um sorriso, um olhar, podemos transmitir mensagens complexas e sutis. A pele é, enfim, um universo a ser explorado, um enigma a ser decifrado. Mais do que um órgão, ela é um símbolo da nossa humanidade, da nossa fragilidade e da nossa força.\" Considerando as múltiplas funções da pele descritas no texto \"A flor da pele\", qual das alternativas não corresponde à descrição feita pelo autor? (A) A pele como um mero órgão sensorial. (B) A pele como um registro vivo de quem somos. (C) A pele como uma forma de expressão de emoções. (D) A pele refletindo as experiências de vida. (E) A pele servindo como meio de comunicação entre pessoas."
             },
             "resposta_correta": "E"
         },
@@ -144,40 +124,133 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Em uma loja de eletrônicos, três amigos \ncompraram produtos. André comprou um \ncelular por R$ 1.150,00 Maria adquiriu um \ntablet por R$ 800,00 e João comprou um fone \nde ouvido por R$ 150.00 Se cada um pagar a \nmesma quantia, qual é o valor que cada amigo \ndeve pagar para dividir igualmente o custo \ntotal dos produtos?",
+            "questão": "Questão 12",
+            "enunciado": "\"Ao descer a ladeira da Misericórdia, defronte da igreja, o que mais chama a atenção é um grande cortiço. É um prédio de três andares, com um só telhado, dividido em vários compartimentos. As paredes externas são caiadas de branco; as internas, de tijolos. No térreo, há lojas e botequins; nos andares superiores, moram os inquilinos. Os compartimentos são pequenos e escuros. A mobília é simples e rudimentar. Nas paredes, há pregos e ganchos para pendurar roupas e utensílios. O chão é de terra batida. Os moradores do cortiço são pessoas pobres e humildes. Trabalham como operários, cozinheiras, lavadeiras, etc. A vida no cortiço é difícil e precária. As pessoas vivem em condições de higiene precárias. Há muita promiscuidade e violência.\" O texto apresenta uma descrição detalhada do cortiço e de seus moradores. A partir da leitura, é possível identificar as seguintes características, exceto: (",
             "alternativas": {
-                "A": "R$ 400",
-                "B": "R$ 600",
-                "C": "R$ 700",
-                "D": "R$ 750",
+                "A": "Precariedade das moradias: os compartimentos são pequenos, escuros e com mobília simples e rudimentar. (",
+                "B": "Promiscuidade: os moradores vivem em condições precárias de higiene e há muita promiscuidade. (",
+                "C": "Violência: a vida no cortiço é difícil e precária, com altos índices de violência. (",
+                "D": "Heterogeneidade social: os moradores do cortiço são pessoas de diferentes capacidades econômicas. (",
+                "E": "Classe Social: os moradores do cortiço são operários. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 6 de 12 QUESTÃO 13 Leia o fragmento do poema \"Canção do Exílio\", de Gonçalves Dias, e responda à questão que se segue. Minha terra tem palmeiras, Onde canta o Sabiá; As aves, que aqui gorjeiam, Não gorjeiam como lá. A terra natal é sempre Lembrada com saudade; A saudade da terra Mata a felicidade. No poema, o autor expressa a saudade que sente de sua terra natal. Assinale a alternativa que melhor explicita o sentimento presente nos versos. (A) A descrição da beleza da terra natal, com suas palmeiras e o canto do Sabiá, desperta no poeta a lembrança de um passado feliz. (B) A comparação entre o canto das aves da terra natal e as que gorjeiam no local onde o poeta se encontra diminui a sensação de saudade. (C) O desdém da terra natal é constante e é a razão pela qual o poeta sente uma profunda tristeza que o impede de ser feliz. (D) O poeta reconhece que a saudade da terra natal é um sentimento universal que todos experimentam em algum momento da vida. (E) A nostalgia do poeta é tamanha que o leva a idealizar uma terra imaginária, tornando-a um lugar perfeito e livre de problemas."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 14",
+            "enunciado": "Em um mundo cada vez mais conectado e veloz, a leitura se depara com o desafio de se manter relevante em meio à avalanche de informações e estímulos instantâneos. A proliferação de telas e a cultura do multitasking colocam à prova a capacidade de concentração e a imersão profunda que a leitura exige. Ao mesmo tempo, surgem novas oportunidades para o desenvolvimento do hábito leitor. A internet democratiza o acesso a livros e textos, plataformas digitais oferecem experiências interativas e inovadoras, e redes sociais conectam leitores de todo o mundo. Diante desse cenário, torna-se crucial repensar o papel da leitura na sociedade contemporânea. É preciso encontrar formas de conciliar as tecnologias digitais com o desenvolvimento de uma leitura crítica, reflexiva e prazerosa. Com base no texto, analise as alternativas a seguir e indique qual delas melhor exemplifica um desafio imposto pela era digital à prática da leitura. (",
+            "alternativas": {
+                "A": "A dificuldade de encontrar materiais de leitura em formatos digitais. (",
+                "B": "A redução do número de bibliotecas físicas disponíveis ao público. (",
+                "C": "O aumento da dispersão da atenção e da dificuldade de concentração. (",
+                "D": "A diminuição da quantidade de obras literárias publicadas anualmente. (",
+                "E": "O encarecimento dos livros e materiais de leitura devido à tecnologia. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 7 de 12 QUESTÃO 15 Em relação aos adjetivos, analise as sentenças a seguir e marque a alternativa correta. \"O antigo relógio da praça ainda marcava as horas precisamente.\" Neste caso, o termo \"antigo\" classifica-se como: (A) Adjetivo pátrio, indicando origem. (B) Adjetivo demonstrativo, apontando localização. (C) Adjetivo possessivo, mostrando posse. (D) Adjetivo qualificativo, caracterizando o substantivo. (E) Adjetivo ordinal, indicando posição."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16",
+            "enunciado": "Considere as sentenças a seguir e identifique a que está incorreta quanto à regência verbal. (",
+            "alternativas": {
+                "A": "Ele conferiu os documentos antes de enviá- los. (",
+                "B": "O aluno obedeceu ao professor sem questionar. (",
+                "C": "Eles pagaram ao cliente. (",
+                "D": "A professora aspira o cargo de diretora há anos. (",
+                "E": "Estou grato por sua ajuda durante o projeto."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17",
+            "enunciado": "Analise as sentenças a seguir e identifique aquela em que o verbo \"trazer\" está corretamente conjugado. (",
+            "alternativas": {
+                "A": "Eu trousse os documentos necessários para a reunião. (",
+                "B": "Tu troussestes o livro que te pedi? (",
+                "C": "Ele trouxe a chave que estava perdida. (",
+                "D": "Nós troussemos as novidades para o evento. (",
+                "E": "Eles troxeram as soluções para os problemas apresentados."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18",
+            "enunciado": "Assinale a alternativa que apresenta o uso correto da crase: (",
+            "alternativas": {
+                "A": "Voltarei daqui à duas horas. (",
+                "B": "Sairei de casa à meia-noite. (",
+                "C": "Prefiro viajar à pé do bicicleta. (",
+                "D": "Refiro-me à aquele autor que mencionaste. (",
+                "E": "Assistirei à o jogo amanhã. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 8 de 12 QUESTÃO 19 Disponível em: https://tirasarmandinho.tumblr.com/ Na tirinha, o personagem menciona que seu pai está \"l esionado no bolso\". O que essa expressão sugere sobre a situação financeira do pai do personagem? (A) Ele está economicamente próspero. (B) Ele tem uma grande quantidade de dinheiro guardado. (C) Ele está enfrentando dificuldades financeiras. (D) Ele perdeu seu dinheiro em um investimento. (E) Ele está com o bolso rasgado."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20",
+            "enunciado": "Disponível em: https://tirasarmandinho.tumblr.com/ Considerando os vocábulos utilizados no contexto da t irinha, qual alternativa apresenta corretamente um sinônimo para \"legal\" e um antônimo para \"acabou\"? (",
+            "alternativas": {
+                "A": "Agradável - Voltou (",
+                "B": "Justo - Continuou (",
+                "C": "Correto - Parou (",
+                "D": "Interessante - Terminou (",
+                "E": "Conforme - Permaneceu Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 9 de 12 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21",
+            "enunciado": "Assinale a alternativa que apresenta o septuagésimo quinto número ímpar sucessor de 77? (",
+            "alternativas": {
+                "A": "153 (",
+                "B": "155 (",
+                "C": "227 (",
+                "D": "225 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 22",
+            "enunciado": "Em uma loja de eletrônicos, três amigos compraram produtos. André comprou um celular por R$ 1.150,00 Maria adquiriu um tablet por R$ 800,00 e João comprou um fone de ouvido por R$ 150.00 Se cada um pagar a mesma quantia, qual é o valor que cada amigo deve pagar para dividir igualmente o custo total dos produtos? (",
+            "alternativas": {
+                "A": "R$ 400 (",
+                "B": "R$ 600 (",
+                "C": "R$ 700 (",
+                "D": "R$ 750 (",
                 "E": "R$ 730"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "C"
         },
         {
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: Carlos comprou um rolo de fio elétrico para \nsua casa, sendo que cada rolo possui 10 metros \nde comprimento. Para adequar o comprimento \ndo fio à unidade utilizada pelos profissionais \nresponsáveis pela instalação elétrica, Carlos \nprecisa expressar essa medida em \ncentímetros . Qual das opções a seguir \nrepresenta corretamente essa conversão?",
+            "questão": "Questão 23",
+            "enunciado": "Carlos comprou um rolo de fio elétrico para sua casa, sendo que cada rolo possui 10 metros de comprimento. Para adequar o comprimento do fio à unidade utilizada pelos profissionais responsáveis pela instalação elétrica, Carlos precisa expressar essa medida em centímetros . Qual das opções a seguir representa corretamente essa conversão? (",
             "alternativas": {
-                "A": "1.000 centímetros",
-                "B": "1.050 centímetros",
-                "C": "100 centímetros",
-                "D": "1.100 centímetros",
-                "E": "Nenhuma das alternativas \n QUESTÃO 24 \nUma empresa decide investir R$ 2.000,00 em \ntrês projetos sociais. A distribuição do \norçamento é a seguinte: 35% para o Projeto A, \n20% para o Projeto B, e o restante para o \nProjeto C. Quanto cada projeto receberá? \n \n(A) R$ 700,00, R$ 400,00, R$ 900,00 \n(B) R$ 800,00, R$ 350,00, R$ 850,00 \n(C) R$ 750,00, R$ 400,00, R$ 850,00 \n(D) R$ 600,00, R$ 450,00, R$ 950,00 \n(E) Nenhuma das alternativas"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 13: Assinale a alternativa que apresenta o \nSexagésimo sexto número par sucessor de 94?",
-            "alternativas": {
-                "A": "160",
-                "B": "162",
-                "C": "226",
-                "D": "224",
+                "A": "1.000 centímetros (",
+                "B": "1.050 centímetros (",
+                "C": "100 centímetros (",
+                "D": "1.100 centímetros (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "A"
@@ -186,12 +259,28 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Mariana encontrou um cofrinho contendo 60 \nmoedas de R$ 0,50 e 40 moedas de R$ 0,25. \nQual é o valor total encontrado no cofre?",
+            "questão": "Questão 24",
+            "enunciado": "Uma empresa decide investir R$ 2.000,00 em três projetos sociais. A distribuição do orçamento é a seguinte: 35% para o Projeto A, 20% para o Projeto B, e o restante para o Projeto C. Quanto cada projeto receberá? (",
             "alternativas": {
-                "A": "R$ 37,50",
-                "B": "R$ 30,00",
-                "C": "R$ 42,50",
-                "D": "R$ 40,00",
+                "A": "R$ 700,00, R$ 400,00, R$ 900,00 (",
+                "B": "R$ 800,00, R$ 350,00, R$ 850,00 (",
+                "C": "R$ 750,00, R$ 400,00, R$ 850,00 (",
+                "D": "R$ 600,00, R$ 450,00, R$ 950,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25",
+            "enunciado": "Assinale a alternativa que apresenta o Sexagésimo sexto número par sucessor de 94? (",
+            "alternativas": {
+                "A": "160 (",
+                "B": "162 (",
+                "C": "226 (",
+                "D": "224 (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "C"
@@ -200,13 +289,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 15: Um músico decidiu praticar seu instrumento, \nreservando 45 minutos por dia de segunda a \nsexta-feira. Se ele iniciou sua prática na \nsegunda-feira, qual será o total de horas que \nterá praticado ao final de 10 dias?",
+            "questão": "Questão 26",
+            "enunciado": "Mariana encontrou um cofrinho contendo 60 moedas de R$ 0,50 e 40 moedas de R$ 0,25. Qual é o valor total encontrado no cofre? (",
             "alternativas": {
-                "A": "8 horas e 30 minutos",
-                "B": "7 horas e 45 minutos",
-                "C": "7 horas e 30 minutos",
-                "D": "7 horas e 50 minutos",
-                "E": "Nenhuma das alternativas \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 10 de 12 QUESTÃO 28 \nAssinale a alternativa que apresenta o \nNonagésimo Primeiro número par antecessor \nde 874. \n(A) 782 \n(B) 780 \n(C) 692 \n(D) 690 \n(E) Nenhuma das alternativas"
+                "A": "R$ 37,50 (",
+                "B": "R$ 30,00 (",
+                "C": "R$ 42,50 (",
+                "D": "R$ 40,00 (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "D"
         },
@@ -214,27 +304,44 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: Uma loja online decide oferecer um desconto \nde R$ 5,00 em um produto a cada semana. Se \no preço inicial do produto era R$ 80,00, \nquantas semanas levará para que o produto \nalcance o preço de R$ 60,00?",
+            "questão": "Questão 27",
+            "enunciado": "Um músico decidiu praticar seu instrumento, reservando 45 minutos por dia de segunda a sexta-feira. Se ele iniciou sua prática na segunda-feira, qual será o total de horas que terá praticado ao final de 10 dias? (",
             "alternativas": {
-                "A": "4 semanas",
-                "B": "5 semanas",
-                "C": "6 semanas",
-                "D": "7 semanas",
+                "A": "8 horas e 30 minutos (",
+                "B": "7 horas e 45 minutos (",
+                "C": "7 horas e 30 minutos (",
+                "D": "7 horas e 50 minutos (",
+                "E": "Nenhuma das alternativas Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 10 de 12 QUESTÃO 28 Assinale a alternativa que apresenta o Nonagésimo Primeiro número par antecessor de 874. (A) 782 (B) 780 (C) 692 (D) 690 (E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29",
+            "enunciado": "Uma loja online decide oferecer um desconto de R$ 5,00 em um produto a cada semana. Se o preço inicial do produto era R$ 80,00, quantas semanas levará para que o produto alcance o preço de R$ 60,00? (",
+            "alternativas": {
+                "A": "4 semanas (",
+                "B": "5 semanas (",
+                "C": "6 semanas (",
+                "D": "7 semanas (",
                 "E": "8 semanas"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "A"
         },
         {
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: Roberto está economizando para comprar um \ncarro. Ele conseguiu economizar 20% do valor \ndo carro, que totalizou R$ 4.000,00. Qual é o \nvalor total do carro que Roberto deseja \ncomprar?",
+            "questão": "Questão 30",
+            "enunciado": "Roberto está economizando para comprar um carro. Ele conseguiu economizar 20% do valor do carro, que totalizou R$ 4.000,00. Qual é o valor total do carro que Roberto deseja comprar? (",
             "alternativas": {
-                "A": "R$ 15.000,00",
-                "B": "R$ 18.000,00",
-                "C": "R$ 20.000,00",
-                "D": "R$ 22.000,00",
-                "E": "Nenhuma das alternativas \n \n \n \n \n \n \n QUESTÃO 31 \nCamila começou a trabalhar em um projeto que \nela estima concluir em 10 dias. Se ela começou \no projeto em uma terça-feira, em que dia da \nsemana ela o finalizará? \n \n(A) Quinta-feira \n(B) Sexta-feira \n(C) Sábado \n(D) Domingo \n(E) Nenhuma das alternativas"
+                "A": "R$ 15.000,00 (",
+                "B": "R$ 18.000,00 (",
+                "C": "R$ 20.000,00 (",
+                "D": "R$ 22.000,00 (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "C"
         },
@@ -242,13 +349,179 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: Assinale a alternativa que apresenta o  \nseptuagésimo número par sucessor de 30?",
+            "questão": "Questão 31",
+            "enunciado": "Camila começou a trabalhar em um projeto que ela estima concluir em 10 dias. Se ela começou o projeto em uma terça-feira, em que dia da semana ela o finalizará? (",
             "alternativas": {
-                "A": "100",
-                "B": "102",
-                "C": "170",
-                "D": "172",
+                "A": "Quinta-feira (",
+                "B": "Sexta-feira (",
+                "C": "Sábado (",
+                "D": "Domingo (",
                 "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32",
+            "enunciado": "Assinale a alternativa que apresenta o septuagésimo número par sucessor de 30? (",
+            "alternativas": {
+                "A": "100 (",
+                "B": "102 (",
+                "C": "170 (",
+                "D": "172 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33",
+            "enunciado": "Qual é o resultado para a seguinte operação: 12 x 124 – 17: (",
+            "alternativas": {
+                "A": "1.488,00 (",
+                "B": "1.280,00 (",
+                "C": "1.284,00 (",
+                "D": "1.471,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 34",
+            "enunciado": "Um ônibus consome 8 litros de diesel por quilômetro. Se o ônibus vai percorrer 320 quilômetros, quantos litros de diesel ele precisará? (",
+            "alternativas": {
+                "A": "2650 litros (",
+                "B": "256 litros (",
+                "C": "2560 litros (",
+                "D": "2600 litros (",
+                "E": "Nenhuma das alternativas Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 11 de 12 QUESTÃO 35 Juliana destinou parte de seu salário em duas categorias diferentes: • 40% em moradia • 30% em alimentação Se a despesa total foi de R$ 1.600,00, qual é o salário mensal de Juliana aproximadamente? (A) R$ 2.500,00 (B) R$ 2.285,71 (C) R$ 3.500,00 (D) R$ 2.100,76 (E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 36",
+            "enunciado": "Em uma biblioteca, há 6 estantes, cada uma com 25 livros de matemática. Cada livro possui 300 páginas. Qual é o número total de páginas dos livros de matemática na biblioteca? (",
+            "alternativas": {
+                "A": "45.000 páginas (",
+                "B": "22.500 páginas (",
+                "C": "3.000 páginas (",
+                "D": "10.000 páginas (",
+                "E": "7.500 páginas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 37",
+            "enunciado": "Uma empresa vende um produto por R$ 120,00 com uma margem de lucro de 50%. Qual é o custo desse produto para a empresa? (",
+            "alternativas": {
+                "A": "R$ 60,00 (",
+                "B": "R$ 70,00 (",
+                "C": "R$ 75,00 (",
+                "D": "R$ 80,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 38",
+            "enunciado": "Uma lata de refrigerante tem 350 ml. Se uma festa tem 28 pessoas e cada pessoa consome 2 latas de refrigerante, quantas latas de refrigerante são necessárias para atender a demanda da festa? (",
+            "alternativas": {
+                "A": "28 latas (",
+                "B": "32 latas (",
+                "C": "46 latas (",
+                "D": "48 latas (",
+                "E": "56 latas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 39",
+            "enunciado": "Um profissional ganha R$ 3.500,00 por mês e recebe um aumento de 8% anualmente. Qual será o salário aproximado desse profissional após 2 anos? (",
+            "alternativas": {
+                "A": "R$ 4.060,00 (",
+                "B": "R$ 3.508,00 (",
+                "C": "R$ 3.680,00 (",
+                "D": "R$ 3.200,80 (",
+                "E": "R$ 4.082,40"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 40",
+            "enunciado": "Em uma colheita de peras, constatou-se que 6% das 15.000 peras colhidas estavam impróprias para consumo e seriam descartadas. Quantas peras, aproximadamente, serão descartadas por estarem impróprias para consumo? (",
+            "alternativas": {
+                "A": "600 peras (",
+                "B": "800 peras (",
+                "C": "900 peras (",
+                "D": "1.000 peras (",
+                "E": "1.200 peras Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 12 de 12"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 1",
+            "enunciado": "Considerando o trecho \"Que a saudade não compensa\" do poema, qual das alternativas apresenta um sinônimo adequado para a palavra \"compensa\"? (",
+            "alternativas": {
+                "A": "Justifica (",
+                "B": "Equilibra (",
+                "C": "Tem razão (",
+                "D": "Reembolsa (",
+                "E": "Vale a pena"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "No que diz respeito ao uso da palavra \"Tomara\" no início do poema de Vinicius de Moraes, qual das alternativas melhor descreve o sentido em que esta é empregada? (",
+            "alternativas": {
+                "A": "No sentido próprio, referindo-se a uma ação de pegar ou segurar algo. (",
+                "B": "No sentido figurado, indicando uma ação de conquista ou vitória. (",
+                "C": "No sentido próprio, indicando a parte do vestuário que cobre o torso. (",
+                "D": "No sentido figurado, como uma forma verbal do verbo tomarear, significando vaguear. (",
+                "E": "No sentido próprio, expressando o desejo de que algo aconteça."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 3",
+            "enunciado": "Com base no verso \"E o verdadeiro amor de quem se ama\", a qual classe de palavras pertence a palavra \"verdadeiro\", e qual sentido ela imprime ao substantivo que modifica? (",
+            "alternativas": {
+                "A": "Substantivo - Estabelece uma característica ou qualidade de verídico. (",
+                "B": "Adjetivo - Atribui uma qualidade de autenticidade e sinceridade ao amor mencionado. (",
+                "C": "Verbo - Descreve a ação de ser íntegro e real no contexto do amor. (",
+                "D": "Advérbio - Modifica o sentido do verbo amar, enfatizando a maneira como o amor é praticado. (",
+                "E": "Preposição - Estabelece uma relação de posse entre o amor e quem o pratica. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 3 de 12 QUESTÃO 04 No verso \"Que você volte depressa\", a palavra \"depressa \" pode ser substituída, sem prejuízo para o sentido original do poema, por: (A) devagar (B) calmamente (C) rapidamente (D) vagarosamente (E) pacientemente"
             },
             "resposta_correta": "B"
         },
@@ -256,167 +529,29 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Qual é o resultado para a seguinte operação: \n12 x 124 – 17:",
+            "questão": "Questão 5",
+            "enunciado": "Leia o trecho a seguir: \"O governo ____ a necessidade de investimentos em in fraestrutura, mas ainda não ____ medidas concretas para resolver o problema.\" Assinale a alternativa que preenche corretamente as lac unas do trecho. (",
             "alternativas": {
-                "A": "1.488,00",
-                "B": "1.280,00",
-                "C": "1.284,00",
-                "D": "1.471,00",
-                "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 20: Um ônibus consome 8 litros de diesel por \nquilômetro. Se o ônibus vai percorrer 320 \nquilômetros, quantos litros de diesel ele \nprecisará?",
-            "alternativas": {
-                "A": "2650 litros",
-                "B": "256 litros",
-                "C": "2560 litros",
-                "D": "2600 litros",
-                "E": "Nenhuma das alternativas \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 11 de 12 QUESTÃO 35 \nJuliana destinou parte de seu salário em duas \ncategorias diferentes: \n \n• 40% em moradia \n• 30% em alimentação \n \nSe a despesa total foi de R$ 1.600,00, qual é o \nsalário mensal de Juliana aproximadamente? \n \n(A) R$ 2.500,00 \n(B) R$ 2.285,71 \n(C) R$ 3.500,00 \n(D) R$ 2.100,76 \n(E) Nenhuma das alternativas"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 21: Em uma biblioteca, há 6 estantes, cada uma \ncom 25 livros de matemática. Cada livro \npossui 300 páginas. Qual é o número total de \npáginas dos livros de matemática na \nbiblioteca?",
-            "alternativas": {
-                "A": "45.000 páginas",
-                "B": "22.500 páginas",
-                "C": "3.000 páginas",
-                "D": "10.000 páginas",
-                "E": "7.500 páginas"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 22: Uma empresa vende um produto por R$ \n120,00 com uma margem de lucro de 50%. \nQual é o custo desse produto para a empresa?",
-            "alternativas": {
-                "A": "R$ 60,00",
-                "B": "R$ 70,00",
-                "C": "R$ 75,00",
-                "D": "R$ 80,00",
-                "E": "Nenhuma das alternativas \n \n \n \n \n \n QUESTÃO 38 \nUma lata de refrigerante tem 350 ml. Se uma \nfesta tem 28 pessoas e cada pessoa consome 2 \nlatas de refrigerante, quantas latas de \nrefrigerante são necessárias para atender a \ndemanda da festa? \n(A) 28 latas \n(B) 32 latas \n(C) 46 latas \n(D) 48 latas \n(E) 56 latas"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 23: Um profissional ganha R$ 3.500,00 por mês e \nrecebe um aumento de 8% anualmente. Qual \nserá o salário aproximado desse profissional \napós 2 anos?",
-            "alternativas": {
-                "A": "R$ 4.060,00",
-                "B": "R$ 3.508,00",
-                "C": "R$ 3.680,00",
-                "D": "R$ 3.200,80",
-                "E": "R$ 4.082,40"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 24: Em uma colheita de peras, constatou-se que \n6% das 15.000 peras colhidas estavam \nimpróprias para consumo e seriam descartadas. \nQuantas peras, aproximadamente, serão \ndescartadas por estarem impróprias para \nconsumo?",
-            "alternativas": {
-                "A": "600 peras",
-                "B": "800 peras",
-                "C": "900 peras",
-                "D": "1.000 peras",
-                "E": "1.200 peras \n \n \n \n \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 12 de 12"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 1: Considerando o trecho \"Que a saudade não \ncompensa\" do poema, qual das alternativas \napresenta um sinônimo adequado para a \npalavra \"compensa\"?",
-            "alternativas": {
-                "A": "Justifica",
-                "B": "Equilibra",
-                "C": "Tem razão",
-                "D": "Reembolsa",
-                "E": "Vale a pena  \n \n \n \n \n \n QUESTÃO 02 \nNo que diz respeito ao uso da palavra \n\"Tomara\" no início do poema de Vinicius de \nMoraes, qual das alternativas melhor descreve \no sentido em que esta é empregada? \n \n(A) No sentido próprio, referindo-se a uma \nação de pegar ou segurar algo. \n(B) No sentido figurado, indicando uma ação \nde conquista ou vitória. \n(C) No sentido próprio, indicando a parte do \nvestuário que cobre o torso. \n(D) No sentido figurado, como uma forma \nverbal do verbo tomarear, significando \nvaguear. \n(E) No sentido próprio, expressando o desejo \nde que algo aconteça."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 2: Com base no verso \"E o verdadeiro amor de \nquem se ama\", a qual classe de palavras \npertence a palavra \"verdadeiro\", e qual sentido \nela imprime ao substantivo que modifica?",
-            "alternativas": {
-                "A": "Substantivo - Estabelece uma \ncaracterística ou qualidade de verídico.",
-                "B": "Adjetivo - Atribui uma qualidade de \nautenticidade e sinceridade ao amor \nmencionado.",
-                "C": "Verbo - Descreve a ação de ser íntegro e \nreal no contexto do amor.",
-                "D": "Advérbio - Modifica o sentido do verbo \namar, enfatizando a maneira como o amor é \npraticado.",
-                "E": "Preposição - Estabelece uma relação de \nposse entre o amor e quem o pratica. \n \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 3 de 12 QUESTÃO 04 \nNo verso \"Que você volte depressa\", a palavra \"depressa \" pode ser substituída, sem prejuízo para o \nsentido original do poema, por: \n \n(A) devagar \n(B) calmamente \n(C) rapidamente \n(D) vagarosamente \n(E) pacientemente"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 3: Leia o trecho a seguir: \n \n\"O governo ____ a necessidade de investimentos em in fraestrutura, mas ainda não ____ medidas \nconcretas para resolver o problema.\" \n \nAssinale a alternativa que preenche corretamente as lac unas do trecho.",
-            "alternativas": {
-                "A": "reconhece - adotou",
-                "B": "reconhece - adotara",
-                "C": "reconhece - adotarão",
-                "D": "reconhece - adotar",
+                "A": "reconhece - adotou (",
+                "B": "reconhece - adotara (",
+                "C": "reconhece - adotarão (",
+                "D": "reconhece - adotar (",
                 "E": "reconhecem – adotaram"
             },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 4: Disponível em: https://tirasarmandinho.tumblr.com  \n \nO quadrinho apresenta um jogo de palavras entre os con ceitos de pressão física e temporal em um \nsentido figurado. Ao considerar o contexto do segundo quadrinho, identifique a alternativa que \nexpressa corretamente o sentido da palavra \"pressão\" emp regada pelo garoto.",
-            "alternativas": {
-                "A": "A força exercida por unidade de área.",
-                "B": "A necessidade de cumprir uma tarefa em um período de te mpo reduzido.",
-                "C": "A medida da quantidade de moléculas em um determina do volume.",
-                "D": "A intensidade do som causada pela vibração das part ículas no ar.",
-                "E": "A resistência oferecida por um fluido ao ser comprimido.  \n \n \nFundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 4 de 12 QUESTÃO 07 \nEnquanto a filosofia que declara uma raça \nsuperior e outra inferior não for finalmente e \npermanentemente desacreditada e \nabandonada; enquanto não deixarem de existir \ncidadãos de primeira e segunda categoria de \nqualquer nação; enquanto a cor da pele de uma \npessoa for mais importante que a cor dos seus \nolhos; enquanto não forem garantidos a todos \npor igual os direitos humanos básicos, sem \nolhar a raças, até esse dia, os sonhos de paz \nduradoura, cidadania mundial e governo de \numa moral internacional irão continuar a ser \numa ilusão fugaz, a ser perseguida, mas nunca \nalcançada. \nHaile Selassie \nCom base no discurso de Haile Selassie, \nidentifique a alternativa que melhor expressa a \ntese central e os argumentos que a sustentam. \n \n(A) A paz duradoura depende da erradicação \nda discriminação racial em todas as suas \nformas. \n(B) A paz duradoura só será possível quando \ntodas as nações se unirem em um único \ngoverno global. \n(C) A paz duradoura só será possível com a \nimplementação de filosofias de superioridade \nracial. \n(D) A chave para a paz mundial reside na \nsuperação das igualdades socioeconômicas \nentre as nações. \n(E) O avanço científico e tecnológico é a \nprincipal ferramenta para combater a \ndiscriminação racial e construir um mundo \nmais justo."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 5: Assinale a alternativa que emprega a crase \nincorretamente.",
-            "alternativas": {
-                "A": "Eu estudo das 6h às 11h.",
-                "B": "O encontro foi marcado para às 14h.",
-                "C": "Faço referência àquilo que foi discutido.",
-                "D": "Esta é a chave que dá acesso à sala dos \nprofessores.",
-                "E": "Precisamos chegar à reunião antes das 9h. \n QUESTÃO 09 \nAnalise as sentenças abaixo e indique a \nalternativa em que a regência do verbo \n\"esquecer-se\" está aplicada corretamente. \n \n(A) Esqueci os teus conselhos quando mais \nprecisei deles. \n(B) Esqueci os teus conselhos, não me lembro \nmais deles. \n(C) Esqueci de teus conselhos quando mais \nprecisei deles. \n(D) Esqueci-me de teus conselhos, mas agora \nlembro-me deles. \n(E) Esqueci-me teus conselhos, não mais os \nrecordo."
-            },
             "resposta_correta": "A"
         },
         {
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Na América Latina, a miséria não é natural. É \num projeto. Os pobres não são pobres porque \nnasceram pobres. São pobres porque foram \nempobrecidos. Empobrecidos por um sistema \nque os exclui, que os margina, que os condena \nà fome, à doença, à ignorância e à morte. Um \nsistema que concentra a riqueza nas mãos de \nuns poucos e a miséria nas mãos de muitos. \nUm sistema que é a negação da vida. \nEduardo Galeano \nAcerca das causas da miséria na América \nLatina, segundo Galeano, é incorreto afirmar \nque:",
+            "questão": "Questão 6",
+            "enunciado": "Disponível em: https://tirasarmandinho.tumblr.com O quadrinho apresenta um jogo de palavras entre os con ceitos de pressão física e temporal em um sentido figurado. Ao considerar o contexto do segundo quadrinho, identifique a alternativa que expressa corretamente o sentido da palavra \"pressão\" emp regada pelo garoto. (",
             "alternativas": {
-                "A": "A miséria é consequência de estruturas \nsociais e econômicas excludentes.",
-                "B": "A exclusão social é um fator determinante \nno processo de marginalização dos pobres.",
-                "C": "A concentração de riqueza em poucas \nmãos contribui para a perpetuação da pobreza.",
-                "D": "As políticas e sistemas vigentes têm papel \nativo no empobrecimento da população.",
-                "E": "Os indivíduos nascem pobres devido a \ncondições hereditárias e biológicas imutáveis. \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 5 de 12 QUESTÃO 11 \n\"Fronteira entre o eu e o outro, tela em que se \nprojetam os desejos e os medos, palco de \nencenações sociais e de dramas existenciais. \nMais do que um invólucro, a pele é um \nterritório simbólico, um mapa da alma. Nela se \ninscrevem as marcas do tempo e da vida, as \ncicatrizes de batalhas vencidas e perdidas, os \nsinais de alegria e de dor. Cada poro, cada \nlinha, cada mancha conta uma história, revela \num segredo, traduz um sentimento. A pele é o \nespelho da nossa interioridade. Em sua \nsuperfície, se refletem as angústias e as \nesperanças, as paixões e as frustrações, as \ndúvidas e as certezas. Ela é o registro vivo de \nquem somos, do que vivemos, do que \nsentimos. A pele também é um instrumento de \ncomunicação. Através dela, expressamos afeto \ne repulsa, desejo e medo, amor e ódio. Com um \ntoque, um sorriso, um olhar, podemos \ntransmitir mensagens complexas e sutis. A pele \né, enfim, um universo a ser explorado, um \nenigma a ser decifrado. Mais do que um órgão, \nela é um símbolo da nossa humanidade, da \nnossa fragilidade e da nossa força.\" \n \nConsiderando as múltiplas funções da pele \ndescritas no texto \"A flor da pele\", qual das \nalternativas não corresponde à descrição feita \npelo autor? \n \n(A) A pele como um mero órgão sensorial. \n(B) A pele como um registro vivo de quem \nsomos. \n(C) A pele como uma forma de expressão de \nemoções. \n(D) A pele refletindo as experiências de vida. \n(E) A pele servindo como meio de \ncomunicação entre pessoas. \n \n \n \n \n QUESTÃO 12 \n\"Ao descer a ladeira da Misericórdia, defronte \nda igreja, o que mais chama a atenção é um \ngrande cortiço. É um prédio de três andares, \ncom um só telhado, dividido em vários \ncompartimentos. As paredes externas são \ncaiadas de branco; as internas, de tijolos. No \ntérreo, há lojas e botequins; nos andares \nsuperiores, moram os inquilinos. Os \ncompartimentos são pequenos e escuros. A \nmobília é simples e rudimentar. Nas paredes, \nhá pregos e ganchos para pendurar roupas e \nutensílios. O chão é de terra batida. Os \nmoradores do cortiço são pessoas pobres e \nhumildes. Trabalham como operários, \ncozinheiras, lavadeiras, etc. A vida no cortiço \né difícil e precária. As pessoas vivem em \ncondições de higiene precárias. Há muita \npromiscuidade e violência.\" \n \nO texto apresenta uma descrição detalhada do \ncortiço e de seus moradores. A partir da leitura, \né possível identificar as seguintes \ncaracterísticas, exceto: \n \n(A) Precariedade das moradias: os \ncompartimentos são pequenos, escuros e com \nmobília simples e rudimentar. \n(B) Promiscuidade: os moradores vivem em \ncondições precárias de higiene e há muita \npromiscuidade. \n(C) Violência: a vida no cortiço é difícil e \nprecária, com altos índices de violência. \n(D) Heterogeneidade social: os moradores do \ncortiço são pessoas de diferentes capacidades \neconômicas. \n(E) Classe Social: os moradores do cortiço são \noperários.  \n \n \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 6 de 12 QUESTÃO 13 \nLeia o fragmento do poema \"Canção do \nExílio\", de Gonçalves Dias, e responda à \nquestão que se segue. \n \nMinha terra tem palmeiras, \nOnde canta o Sabiá; \nAs aves, que aqui gorjeiam, \nNão gorjeiam como lá. \n \nA terra natal é sempre \nLembrada com saudade; \nA saudade da terra \nMata a felicidade. \n \nNo poema, o autor expressa a saudade que \nsente de sua terra natal. Assinale a alternativa \nque melhor explicita o sentimento presente nos \nversos. \n \n(A) A descrição da beleza da terra natal, com \nsuas palmeiras e o canto do Sabiá, desperta no \npoeta a lembrança de um passado feliz. \n(B) A comparação entre o canto das aves da \nterra natal e as que gorjeiam no local onde o \npoeta se encontra diminui a sensação de \nsaudade. \n(C) O desdém da terra natal é constante e é a \nrazão pela qual o poeta sente uma profunda \ntristeza que o impede de ser feliz. \n(D) O poeta reconhece que a saudade da terra \nnatal é um sentimento universal que todos \nexperimentam em algum momento da vida. \n(E) A nostalgia do poeta é tamanha que o leva \na idealizar uma terra imaginária, tornando-a \num lugar perfeito e livre de problemas. \n \n \n \n \n QUESTÃO 14 \nEm um mundo cada vez mais conectado e \nveloz, a leitura se depara com o desafio de se \nmanter relevante em meio à avalanche de \ninformações e estímulos instantâneos. A \nproliferação de telas e a cultura do multitasking \ncolocam à prova a capacidade de concentração \ne a imersão profunda que a leitura exige. Ao \nmesmo tempo, surgem novas oportunidades \npara o desenvolvimento do hábito leitor. A \ninternet democratiza o acesso a livros e textos, \nplataformas digitais oferecem experiências \ninterativas e inovadoras, e redes sociais \nconectam leitores de todo o mundo. Diante \ndesse cenário, torna-se crucial repensar o papel \nda leitura na sociedade contemporânea. É \npreciso encontrar formas de conciliar as \ntecnologias digitais com o desenvolvimento de \numa leitura crítica, reflexiva e prazerosa. \n \nCom base no texto, analise as alternativas a \nseguir e indique qual delas melhor exemplifica \num desafio imposto pela era digital à prática da \nleitura. \n \n(A) A dificuldade de encontrar materiais de \nleitura em formatos digitais. \n(B) A redução do número de bibliotecas físicas \ndisponíveis ao público. \n(C) O aumento da dispersão da atenção e da \ndificuldade de concentração. \n(D) A diminuição da quantidade de obras \nliterárias publicadas anualmente. \n(E) O encarecimento dos livros e materiais de \nleitura devido à tecnologia. \n \n \n \n \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 7 de 12 QUESTÃO 15 \nEm relação aos adjetivos, analise as sentenças \na seguir e marque a alternativa correta. \n \n\"O antigo relógio da praça ainda marcava as \nhoras precisamente.\" \n \nNeste caso, o termo \"antigo\" classifica-se \ncomo: \n \n(A) Adjetivo pátrio, indicando origem. \n(B) Adjetivo demonstrativo, apontando \nlocalização. \n(C) Adjetivo possessivo, mostrando posse. \n(D) Adjetivo qualificativo, caracterizando o \nsubstantivo. \n(E) Adjetivo ordinal, indicando posição."
+                "A": "A força exercida por unidade de área. (",
+                "B": "A necessidade de cumprir uma tarefa em um período de te mpo reduzido. (",
+                "C": "A medida da quantidade de moléculas em um determina do volume. (",
+                "D": "A intensidade do som causada pela vibração das part ículas no ar. (",
+                "E": "A resistência oferecida por um fluido ao ser comprimido. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 4 de 12 QUESTÃO 07 Enquanto a filosofia que declara uma raça superior e outra inferior não for finalmente e permanentemente desacreditada e abandonada; enquanto não deixarem de existir cidadãos de primeira e segunda categoria de qualquer nação; enquanto a cor da pele de uma pessoa for mais importante que a cor dos seus olhos; enquanto não forem garantidos a todos por igual os direitos humanos básicos, sem olhar a raças, até esse dia, os sonhos de paz duradoura, cidadania mundial e governo de uma moral internacional irão continuar a ser uma ilusão fugaz, a ser perseguida, mas nunca alcançada. Haile Selassie Com base no discurso de Haile Selassie, identifique a alternativa que melhor expressa a tese central e os argumentos que a sustentam. (A) A paz duradoura depende da erradicação da discriminação racial em todas as suas formas. (B) A paz duradoura só será possível quando todas as nações se unirem em um único governo global. (C) A paz duradoura só será possível com a implementação de filosofias de superioridade racial. (D) A chave para a paz mundial reside na superação das igualdades socioeconômicas entre as nações. (E) O avanço científico e tecnológico é a principal ferramenta para combater a discriminação racial e construir um mundo mais justo."
             },
             "resposta_correta": "B"
         },
@@ -424,27 +559,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: Considere as sentenças a seguir e identifique a \nque está incorreta quanto à regência verbal.",
+            "questão": "Questão 8",
+            "enunciado": "Assinale a alternativa que emprega a crase incorretamente. (",
             "alternativas": {
-                "A": "Ele conferiu os documentos antes de enviá-\nlos.",
-                "B": "O aluno obedeceu ao professor sem \nquestionar.",
-                "C": "Eles pagaram ao cliente.",
-                "D": "A professora aspira o cargo de diretora há \nanos.",
-                "E": "Estou grato por sua ajuda durante o projeto. \n \n \n \n \n \n \n \n QUESTÃO 17 \nAnalise as sentenças a seguir e identifique \naquela em que o verbo \"trazer\" está \ncorretamente conjugado. \n \n(A) Eu trousse os documentos necessários para \na reunião. \n(B) Tu troussestes o livro que te pedi? \n(C) Ele trouxe a chave que estava perdida. \n(D) Nós troussemos as novidades para o \nevento. \n(E) Eles troxeram as soluções para os \nproblemas apresentados."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 8: Assinale a alternativa que apresenta o uso \ncorreto da crase:",
-            "alternativas": {
-                "A": "Voltarei daqui à duas horas.",
-                "B": "Sairei de casa à meia-noite.",
-                "C": "Prefiro viajar à pé do bicicleta.",
-                "D": "Refiro-me à aquele autor que mencionaste.",
-                "E": "Assistirei à o jogo amanhã. \n \n \n \n \n \n \n \n \n \n \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 8 de 12 QUESTÃO 19 \n \nDisponível em: https://tirasarmandinho.tumblr.com/ \nNa tirinha, o personagem menciona que seu pai está \"l esionado no bolso\". O que essa expressão \nsugere sobre a situação financeira do pai do personagem?  \n \n(A) Ele está economicamente próspero. \n(B) Ele tem uma grande quantidade de dinheiro guardado. \n(C) Ele está enfrentando dificuldades financeiras. \n(D) Ele perdeu seu dinheiro em um investimento. \n(E) Ele está com o bolso rasgado."
+                "A": "Eu estudo das 6h às 11h. (",
+                "B": "O encontro foi marcado para às 14h. (",
+                "C": "Faço referência àquilo que foi discutido. (",
+                "D": "Esta é a chave que dá acesso à sala dos professores. (",
+                "E": "Precisamos chegar à reunião antes das 9h."
             },
             "resposta_correta": "B"
         },
@@ -452,13 +574,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: Disponível em: https://tirasarmandinho.tumblr.com/  \n \nConsiderando os vocábulos utilizados no contexto da t irinha, qual alternativa apresenta corretamente \num sinônimo para \"legal\" e um antônimo para \"acabou\"?",
+            "questão": "Questão 9",
+            "enunciado": "Analise as sentenças abaixo e indique a alternativa em que a regência do verbo \"esquecer-se\" está aplicada corretamente. (",
             "alternativas": {
-                "A": "Agradável - Voltou",
-                "B": "Justo - Continuou",
-                "C": "Correto - Parou",
-                "D": "Interessante - Terminou",
-                "E": "Conforme - Permaneceu \n \n \nFundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 9 de 12 MATEMÁTICA E RACIOCÍNIO \nLÓGICO"
+                "A": "Esqueci os teus conselhos quando mais precisei deles. (",
+                "B": "Esqueci os teus conselhos, não me lembro mais deles. (",
+                "C": "Esqueci de teus conselhos quando mais precisei deles. (",
+                "D": "Esqueci-me de teus conselhos, mas agora lembro-me deles. (",
+                "E": "Esqueci-me teus conselhos, não mais os recordo."
             },
             "resposta_correta": "D"
         },
@@ -466,13 +589,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Assinale a alternativa que apresenta o  \nseptuagésimo quinto número ímpar sucessor \nde 77?",
+            "questão": "Questão 10",
+            "enunciado": "Na América Latina, a miséria não é natural. É um projeto. Os pobres não são pobres porque nasceram pobres. São pobres porque foram empobrecidos. Empobrecidos por um sistema que os exclui, que os margina, que os condena à fome, à doença, à ignorância e à morte. Um sistema que concentra a riqueza nas mãos de uns poucos e a miséria nas mãos de muitos. Um sistema que é a negação da vida. Eduardo Galeano Acerca das causas da miséria na América Latina, segundo Galeano, é incorreto afirmar que: (",
             "alternativas": {
-                "A": "153",
-                "B": "155",
-                "C": "227",
-                "D": "225",
-                "E": "Nenhuma das alternativas"
+                "A": "A miséria é consequência de estruturas sociais e econômicas excludentes. (",
+                "B": "A exclusão social é um fator determinante no processo de marginalização dos pobres. (",
+                "C": "A concentração de riqueza em poucas mãos contribui para a perpetuação da pobreza. (",
+                "D": "As políticas e sistemas vigentes têm papel ativo no empobrecimento da população. (",
+                "E": "Os indivíduos nascem pobres devido a condições hereditárias e biológicas imutáveis. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 5 de 12 QUESTÃO 11 \"Fronteira entre o eu e o outro, tela em que se projetam os desejos e os medos, palco de encenações sociais e de dramas existenciais. Mais do que um invólucro, a pele é um território simbólico, um mapa da alma. Nela se inscrevem as marcas do tempo e da vida, as cicatrizes de batalhas vencidas e perdidas, os sinais de alegria e de dor. Cada poro, cada linha, cada mancha conta uma história, revela um segredo, traduz um sentimento. A pele é o espelho da nossa interioridade. Em sua superfície, se refletem as angústias e as esperanças, as paixões e as frustrações, as dúvidas e as certezas. Ela é o registro vivo de quem somos, do que vivemos, do que sentimos. A pele também é um instrumento de comunicação. Através dela, expressamos afeto e repulsa, desejo e medo, amor e ódio. Com um toque, um sorriso, um olhar, podemos transmitir mensagens complexas e sutis. A pele é, enfim, um universo a ser explorado, um enigma a ser decifrado. Mais do que um órgão, ela é um símbolo da nossa humanidade, da nossa fragilidade e da nossa força.\" Considerando as múltiplas funções da pele descritas no texto \"A flor da pele\", qual das alternativas não corresponde à descrição feita pelo autor? (A) A pele como um mero órgão sensorial. (B) A pele como um registro vivo de quem somos. (C) A pele como uma forma de expressão de emoções. (D) A pele refletindo as experiências de vida. (E) A pele servindo como meio de comunicação entre pessoas."
             },
             "resposta_correta": "E"
         },
@@ -480,27 +604,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Em uma loja de eletrônicos, três amigos \ncompraram produtos. André comprou um \ncelular por R$ 1.150,00 Maria adquiriu um \ntablet por R$ 800,00 e João comprou um fone \nde ouvido por R$ 150.00 Se cada um pagar a \nmesma quantia, qual é o valor que cada amigo \ndeve pagar para dividir igualmente o custo \ntotal dos produtos?",
+            "questão": "Questão 12",
+            "enunciado": "\"Ao descer a ladeira da Misericórdia, defronte da igreja, o que mais chama a atenção é um grande cortiço. É um prédio de três andares, com um só telhado, dividido em vários compartimentos. As paredes externas são caiadas de branco; as internas, de tijolos. No térreo, há lojas e botequins; nos andares superiores, moram os inquilinos. Os compartimentos são pequenos e escuros. A mobília é simples e rudimentar. Nas paredes, há pregos e ganchos para pendurar roupas e utensílios. O chão é de terra batida. Os moradores do cortiço são pessoas pobres e humildes. Trabalham como operários, cozinheiras, lavadeiras, etc. A vida no cortiço é difícil e precária. As pessoas vivem em condições de higiene precárias. Há muita promiscuidade e violência.\" O texto apresenta uma descrição detalhada do cortiço e de seus moradores. A partir da leitura, é possível identificar as seguintes características, exceto: (",
             "alternativas": {
-                "A": "R$ 400",
-                "B": "R$ 600",
-                "C": "R$ 700",
-                "D": "R$ 750",
-                "E": "R$ 730"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 12: Carlos comprou um rolo de fio elétrico para \nsua casa, sendo que cada rolo possui 10 metros \nde comprimento. Para adequar o comprimento \ndo fio à unidade utilizada pelos profissionais \nresponsáveis pela instalação elétrica, Carlos \nprecisa expressar essa medida em \ncentímetros . Qual das opções a seguir \nrepresenta corretamente essa conversão?",
-            "alternativas": {
-                "A": "1.000 centímetros",
-                "B": "1.050 centímetros",
-                "C": "100 centímetros",
-                "D": "1.100 centímetros",
-                "E": "Nenhuma das alternativas \n QUESTÃO 24 \nUma empresa decide investir R$ 2.000,00 em \ntrês projetos sociais. A distribuição do \norçamento é a seguinte: 35% para o Projeto A, \n20% para o Projeto B, e o restante para o \nProjeto C. Quanto cada projeto receberá? \n \n(A) R$ 700,00, R$ 400,00, R$ 900,00 \n(B) R$ 800,00, R$ 350,00, R$ 850,00 \n(C) R$ 750,00, R$ 400,00, R$ 850,00 \n(D) R$ 600,00, R$ 450,00, R$ 950,00 \n(E) Nenhuma das alternativas"
+                "A": "Precariedade das moradias: os compartimentos são pequenos, escuros e com mobília simples e rudimentar. (",
+                "B": "Promiscuidade: os moradores vivem em condições precárias de higiene e há muita promiscuidade. (",
+                "C": "Violência: a vida no cortiço é difícil e precária, com altos índices de violência. (",
+                "D": "Heterogeneidade social: os moradores do cortiço são pessoas de diferentes capacidades econômicas. (",
+                "E": "Classe Social: os moradores do cortiço são operários. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 6 de 12 QUESTÃO 13 Leia o fragmento do poema \"Canção do Exílio\", de Gonçalves Dias, e responda à questão que se segue. Minha terra tem palmeiras, Onde canta o Sabiá; As aves, que aqui gorjeiam, Não gorjeiam como lá. A terra natal é sempre Lembrada com saudade; A saudade da terra Mata a felicidade. No poema, o autor expressa a saudade que sente de sua terra natal. Assinale a alternativa que melhor explicita o sentimento presente nos versos. (A) A descrição da beleza da terra natal, com suas palmeiras e o canto do Sabiá, desperta no poeta a lembrança de um passado feliz. (B) A comparação entre o canto das aves da terra natal e as que gorjeiam no local onde o poeta se encontra diminui a sensação de saudade. (C) O desdém da terra natal é constante e é a razão pela qual o poeta sente uma profunda tristeza que o impede de ser feliz. (D) O poeta reconhece que a saudade da terra natal é um sentimento universal que todos experimentam em algum momento da vida. (E) A nostalgia do poeta é tamanha que o leva a idealizar uma terra imaginária, tornando-a um lugar perfeito e livre de problemas."
             },
             "resposta_correta": "D"
         },
@@ -508,27 +619,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: Assinale a alternativa que apresenta o \nSexagésimo sexto número par sucessor de 94?",
+            "questão": "Questão 14",
+            "enunciado": "Em um mundo cada vez mais conectado e veloz, a leitura se depara com o desafio de se manter relevante em meio à avalanche de informações e estímulos instantâneos. A proliferação de telas e a cultura do multitasking colocam à prova a capacidade de concentração e a imersão profunda que a leitura exige. Ao mesmo tempo, surgem novas oportunidades para o desenvolvimento do hábito leitor. A internet democratiza o acesso a livros e textos, plataformas digitais oferecem experiências interativas e inovadoras, e redes sociais conectam leitores de todo o mundo. Diante desse cenário, torna-se crucial repensar o papel da leitura na sociedade contemporânea. É preciso encontrar formas de conciliar as tecnologias digitais com o desenvolvimento de uma leitura crítica, reflexiva e prazerosa. Com base no texto, analise as alternativas a seguir e indique qual delas melhor exemplifica um desafio imposto pela era digital à prática da leitura. (",
             "alternativas": {
-                "A": "160",
-                "B": "162",
-                "C": "226",
-                "D": "224",
-                "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 14: Mariana encontrou um cofrinho contendo 60 \nmoedas de R$ 0,50 e 40 moedas de R$ 0,25. \nQual é o valor total encontrado no cofre?",
-            "alternativas": {
-                "A": "R$ 37,50",
-                "B": "R$ 30,00",
-                "C": "R$ 42,50",
-                "D": "R$ 40,00",
-                "E": "Nenhuma das alternativas"
+                "A": "A dificuldade de encontrar materiais de leitura em formatos digitais. (",
+                "B": "A redução do número de bibliotecas físicas disponíveis ao público. (",
+                "C": "O aumento da dispersão da atenção e da dificuldade de concentração. (",
+                "D": "A diminuição da quantidade de obras literárias publicadas anualmente. (",
+                "E": "O encarecimento dos livros e materiais de leitura devido à tecnologia. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 7 de 12 QUESTÃO 15 Em relação aos adjetivos, analise as sentenças a seguir e marque a alternativa correta. \"O antigo relógio da praça ainda marcava as horas precisamente.\" Neste caso, o termo \"antigo\" classifica-se como: (A) Adjetivo pátrio, indicando origem. (B) Adjetivo demonstrativo, apontando localização. (C) Adjetivo possessivo, mostrando posse. (D) Adjetivo qualificativo, caracterizando o substantivo. (E) Adjetivo ordinal, indicando posição."
             },
             "resposta_correta": "C"
         },
@@ -536,13 +634,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 15: Um músico decidiu praticar seu instrumento, \nreservando 45 minutos por dia de segunda a \nsexta-feira. Se ele iniciou sua prática na \nsegunda-feira, qual será o total de horas que \nterá praticado ao final de 10 dias?",
+            "questão": "Questão 16",
+            "enunciado": "Considere as sentenças a seguir e identifique a que está incorreta quanto à regência verbal. (",
             "alternativas": {
-                "A": "8 horas e 30 minutos",
-                "B": "7 horas e 45 minutos",
-                "C": "7 horas e 30 minutos",
-                "D": "7 horas e 50 minutos",
-                "E": "Nenhuma das alternativas \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 10 de 12 QUESTÃO 28 \nAssinale a alternativa que apresenta o \nNonagésimo Primeiro número par antecessor \nde 874. \n(A) 782 \n(B) 780 \n(C) 692 \n(D) 690 \n(E) Nenhuma das alternativas"
+                "A": "Ele conferiu os documentos antes de enviá- los. (",
+                "B": "O aluno obedeceu ao professor sem questionar. (",
+                "C": "Eles pagaram ao cliente. (",
+                "D": "A professora aspira o cargo de diretora há anos. (",
+                "E": "Estou grato por sua ajuda durante o projeto."
             },
             "resposta_correta": "D"
         },
@@ -550,27 +649,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: Uma loja online decide oferecer um desconto \nde R$ 5,00 em um produto a cada semana. Se \no preço inicial do produto era R$ 80,00, \nquantas semanas levará para que o produto \nalcance o preço de R$ 60,00?",
+            "questão": "Questão 17",
+            "enunciado": "Analise as sentenças a seguir e identifique aquela em que o verbo \"trazer\" está corretamente conjugado. (",
             "alternativas": {
-                "A": "4 semanas",
-                "B": "5 semanas",
-                "C": "6 semanas",
-                "D": "7 semanas",
-                "E": "8 semanas"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "OFFICE BOY",
-            "disciplina": "Disciplina Desconhecida",
-            "id_concurso": "01/2024",
-            "questão": "Questão 17: Roberto está economizando para comprar um \ncarro. Ele conseguiu economizar 20% do valor \ndo carro, que totalizou R$ 4.000,00. Qual é o \nvalor total do carro que Roberto deseja \ncomprar?",
-            "alternativas": {
-                "A": "R$ 15.000,00",
-                "B": "R$ 18.000,00",
-                "C": "R$ 20.000,00",
-                "D": "R$ 22.000,00",
-                "E": "Nenhuma das alternativas \n \n \n \n \n \n \n QUESTÃO 31 \nCamila começou a trabalhar em um projeto que \nela estima concluir em 10 dias. Se ela começou \no projeto em uma terça-feira, em que dia da \nsemana ela o finalizará? \n \n(A) Quinta-feira \n(B) Sexta-feira \n(C) Sábado \n(D) Domingo \n(E) Nenhuma das alternativas"
+                "A": "Eu trousse os documentos necessários para a reunião. (",
+                "B": "Tu troussestes o livro que te pedi? (",
+                "C": "Ele trouxe a chave que estava perdida. (",
+                "D": "Nós troussemos as novidades para o evento. (",
+                "E": "Eles troxeram as soluções para os problemas apresentados."
             },
             "resposta_correta": "C"
         },
@@ -578,13 +664,14 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: Assinale a alternativa que apresenta o  \nseptuagésimo número par sucessor de 30?",
+            "questão": "Questão 18",
+            "enunciado": "Assinale a alternativa que apresenta o uso correto da crase: (",
             "alternativas": {
-                "A": "100",
-                "B": "102",
-                "C": "170",
-                "D": "172",
-                "E": "Nenhuma das alternativas"
+                "A": "Voltarei daqui à duas horas. (",
+                "B": "Sairei de casa à meia-noite. (",
+                "C": "Prefiro viajar à pé do bicicleta. (",
+                "D": "Refiro-me à aquele autor que mencionaste. (",
+                "E": "Assistirei à o jogo amanhã. Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 8 de 12 QUESTÃO 19 Disponível em: https://tirasarmandinho.tumblr.com/ Na tirinha, o personagem menciona que seu pai está \"l esionado no bolso\". O que essa expressão sugere sobre a situação financeira do pai do personagem? (A) Ele está economicamente próspero. (B) Ele tem uma grande quantidade de dinheiro guardado. (C) Ele está enfrentando dificuldades financeiras. (D) Ele perdeu seu dinheiro em um investimento. (E) Ele está com o bolso rasgado."
             },
             "resposta_correta": "B"
         },
@@ -592,12 +679,28 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Qual é o resultado para a seguinte operação: \n12 x 124 – 17:",
+            "questão": "Questão 20",
+            "enunciado": "Disponível em: https://tirasarmandinho.tumblr.com/ Considerando os vocábulos utilizados no contexto da t irinha, qual alternativa apresenta corretamente um sinônimo para \"legal\" e um antônimo para \"acabou\"? (",
             "alternativas": {
-                "A": "1.488,00",
-                "B": "1.280,00",
-                "C": "1.284,00",
-                "D": "1.471,00",
+                "A": "Agradável - Voltou (",
+                "B": "Justo - Continuou (",
+                "C": "Correto - Parou (",
+                "D": "Interessante - Terminou (",
+                "E": "Conforme - Permaneceu Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 9 de 12 MATEMÁTICA E RACIOCÍNIO LÓGICO"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21",
+            "enunciado": "Assinale a alternativa que apresenta o septuagésimo quinto número ímpar sucessor de 77? (",
+            "alternativas": {
+                "A": "153 (",
+                "B": "155 (",
+                "C": "227 (",
+                "D": "225 (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "C"
@@ -606,13 +709,29 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Um ônibus consome 8 litros de diesel por \nquilômetro. Se o ônibus vai percorrer 320 \nquilômetros, quantos litros de diesel ele \nprecisará?",
+            "questão": "Questão 22",
+            "enunciado": "Em uma loja de eletrônicos, três amigos compraram produtos. André comprou um celular por R$ 1.150,00 Maria adquiriu um tablet por R$ 800,00 e João comprou um fone de ouvido por R$ 150.00 Se cada um pagar a mesma quantia, qual é o valor que cada amigo deve pagar para dividir igualmente o custo total dos produtos? (",
             "alternativas": {
-                "A": "2650 litros",
-                "B": "256 litros",
-                "C": "2560 litros",
-                "D": "2600 litros",
-                "E": "Nenhuma das alternativas \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 11 de 12 QUESTÃO 35 \nJuliana destinou parte de seu salário em duas \ncategorias diferentes: \n \n• 40% em moradia \n• 30% em alimentação \n \nSe a despesa total foi de R$ 1.600,00, qual é o \nsalário mensal de Juliana aproximadamente? \n \n(A) R$ 2.500,00 \n(B) R$ 2.285,71 \n(C) R$ 3.500,00 \n(D) R$ 2.100,76 \n(E) Nenhuma das alternativas"
+                "A": "R$ 400 (",
+                "B": "R$ 600 (",
+                "C": "R$ 700 (",
+                "D": "R$ 750 (",
+                "E": "R$ 730"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 23",
+            "enunciado": "Carlos comprou um rolo de fio elétrico para sua casa, sendo que cada rolo possui 10 metros de comprimento. Para adequar o comprimento do fio à unidade utilizada pelos profissionais responsáveis pela instalação elétrica, Carlos precisa expressar essa medida em centímetros . Qual das opções a seguir representa corretamente essa conversão? (",
+            "alternativas": {
+                "A": "1.000 centímetros (",
+                "B": "1.050 centímetros (",
+                "C": "100 centímetros (",
+                "D": "1.100 centímetros (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "A"
         },
@@ -620,57 +739,226 @@
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 21: Em uma biblioteca, há 6 estantes, cada uma \ncom 25 livros de matemática. Cada livro \npossui 300 páginas. Qual é o número total de \npáginas dos livros de matemática na \nbiblioteca?",
+            "questão": "Questão 24",
+            "enunciado": "Uma empresa decide investir R$ 2.000,00 em três projetos sociais. A distribuição do orçamento é a seguinte: 35% para o Projeto A, 20% para o Projeto B, e o restante para o Projeto C. Quanto cada projeto receberá? (",
             "alternativas": {
-                "A": "45.000 páginas",
-                "B": "22.500 páginas",
-                "C": "3.000 páginas",
-                "D": "10.000 páginas",
+                "A": "R$ 700,00, R$ 400,00, R$ 900,00 (",
+                "B": "R$ 800,00, R$ 350,00, R$ 850,00 (",
+                "C": "R$ 750,00, R$ 400,00, R$ 850,00 (",
+                "D": "R$ 600,00, R$ 450,00, R$ 950,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25",
+            "enunciado": "Assinale a alternativa que apresenta o Sexagésimo sexto número par sucessor de 94? (",
+            "alternativas": {
+                "A": "160 (",
+                "B": "162 (",
+                "C": "226 (",
+                "D": "224 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 26",
+            "enunciado": "Mariana encontrou um cofrinho contendo 60 moedas de R$ 0,50 e 40 moedas de R$ 0,25. Qual é o valor total encontrado no cofre? (",
+            "alternativas": {
+                "A": "R$ 37,50 (",
+                "B": "R$ 30,00 (",
+                "C": "R$ 42,50 (",
+                "D": "R$ 40,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27",
+            "enunciado": "Um músico decidiu praticar seu instrumento, reservando 45 minutos por dia de segunda a sexta-feira. Se ele iniciou sua prática na segunda-feira, qual será o total de horas que terá praticado ao final de 10 dias? (",
+            "alternativas": {
+                "A": "8 horas e 30 minutos (",
+                "B": "7 horas e 45 minutos (",
+                "C": "7 horas e 30 minutos (",
+                "D": "7 horas e 50 minutos (",
+                "E": "Nenhuma das alternativas Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 10 de 12 QUESTÃO 28 Assinale a alternativa que apresenta o Nonagésimo Primeiro número par antecessor de 874. (A) 782 (B) 780 (C) 692 (D) 690 (E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29",
+            "enunciado": "Uma loja online decide oferecer um desconto de R$ 5,00 em um produto a cada semana. Se o preço inicial do produto era R$ 80,00, quantas semanas levará para que o produto alcance o preço de R$ 60,00? (",
+            "alternativas": {
+                "A": "4 semanas (",
+                "B": "5 semanas (",
+                "C": "6 semanas (",
+                "D": "7 semanas (",
+                "E": "8 semanas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30",
+            "enunciado": "Roberto está economizando para comprar um carro. Ele conseguiu economizar 20% do valor do carro, que totalizou R$ 4.000,00. Qual é o valor total do carro que Roberto deseja comprar? (",
+            "alternativas": {
+                "A": "R$ 15.000,00 (",
+                "B": "R$ 18.000,00 (",
+                "C": "R$ 20.000,00 (",
+                "D": "R$ 22.000,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31",
+            "enunciado": "Camila começou a trabalhar em um projeto que ela estima concluir em 10 dias. Se ela começou o projeto em uma terça-feira, em que dia da semana ela o finalizará? (",
+            "alternativas": {
+                "A": "Quinta-feira (",
+                "B": "Sexta-feira (",
+                "C": "Sábado (",
+                "D": "Domingo (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32",
+            "enunciado": "Assinale a alternativa que apresenta o septuagésimo número par sucessor de 30? (",
+            "alternativas": {
+                "A": "100 (",
+                "B": "102 (",
+                "C": "170 (",
+                "D": "172 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33",
+            "enunciado": "Qual é o resultado para a seguinte operação: 12 x 124 – 17: (",
+            "alternativas": {
+                "A": "1.488,00 (",
+                "B": "1.280,00 (",
+                "C": "1.284,00 (",
+                "D": "1.471,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 34",
+            "enunciado": "Um ônibus consome 8 litros de diesel por quilômetro. Se o ônibus vai percorrer 320 quilômetros, quantos litros de diesel ele precisará? (",
+            "alternativas": {
+                "A": "2650 litros (",
+                "B": "256 litros (",
+                "C": "2560 litros (",
+                "D": "2600 litros (",
+                "E": "Nenhuma das alternativas Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 11 de 12 QUESTÃO 35 Juliana destinou parte de seu salário em duas categorias diferentes: • 40% em moradia • 30% em alimentação Se a despesa total foi de R$ 1.600,00, qual é o salário mensal de Juliana aproximadamente? (A) R$ 2.500,00 (B) R$ 2.285,71 (C) R$ 3.500,00 (D) R$ 2.100,76 (E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 36",
+            "enunciado": "Em uma biblioteca, há 6 estantes, cada uma com 25 livros de matemática. Cada livro possui 300 páginas. Qual é o número total de páginas dos livros de matemática na biblioteca? (",
+            "alternativas": {
+                "A": "45.000 páginas (",
+                "B": "22.500 páginas (",
+                "C": "3.000 páginas (",
+                "D": "10.000 páginas (",
                 "E": "7.500 páginas"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 22: Uma empresa vende um produto por R$ \n120,00 com uma margem de lucro de 50%. \nQual é o custo desse produto para a empresa?",
+            "questão": "Questão 37",
+            "enunciado": "Uma empresa vende um produto por R$ 120,00 com uma margem de lucro de 50%. Qual é o custo desse produto para a empresa? (",
             "alternativas": {
-                "A": "R$ 60,00",
-                "B": "R$ 70,00",
-                "C": "R$ 75,00",
-                "D": "R$ 80,00",
-                "E": "Nenhuma das alternativas \n \n \n \n \n \n QUESTÃO 38 \nUma lata de refrigerante tem 350 ml. Se uma \nfesta tem 28 pessoas e cada pessoa consome 2 \nlatas de refrigerante, quantas latas de \nrefrigerante são necessárias para atender a \ndemanda da festa? \n(A) 28 latas \n(B) 32 latas \n(C) 46 latas \n(D) 48 latas \n(E) 56 latas"
+                "A": "R$ 60,00 (",
+                "B": "R$ 70,00 (",
+                "C": "R$ 75,00 (",
+                "D": "R$ 80,00 (",
+                "E": "Nenhuma das alternativas"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "D"
         },
         {
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: Um profissional ganha R$ 3.500,00 por mês e \nrecebe um aumento de 8% anualmente. Qual \nserá o salário aproximado desse profissional \napós 2 anos?",
+            "questão": "Questão 38",
+            "enunciado": "Uma lata de refrigerante tem 350 ml. Se uma festa tem 28 pessoas e cada pessoa consome 2 latas de refrigerante, quantas latas de refrigerante são necessárias para atender a demanda da festa? (",
             "alternativas": {
-                "A": "R$ 4.060,00",
-                "B": "R$ 3.508,00",
-                "C": "R$ 3.680,00",
-                "D": "R$ 3.200,80",
+                "A": "28 latas (",
+                "B": "32 latas (",
+                "C": "46 latas (",
+                "D": "48 latas (",
+                "E": "56 latas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "OFFICE BOY",
+            "disciplina": "Disciplina Desconhecida",
+            "id_concurso": "01/2024",
+            "questão": "Questão 39",
+            "enunciado": "Um profissional ganha R$ 3.500,00 por mês e recebe um aumento de 8% anualmente. Qual será o salário aproximado desse profissional após 2 anos? (",
+            "alternativas": {
+                "A": "R$ 4.060,00 (",
+                "B": "R$ 3.508,00 (",
+                "C": "R$ 3.680,00 (",
+                "D": "R$ 3.200,80 (",
                 "E": "R$ 4.082,40"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "E"
         },
         {
             "cargo": "OFFICE BOY",
             "disciplina": "Disciplina Desconhecida",
             "id_concurso": "01/2024",
-            "questão": "Questão 24: Em uma colheita de peras, constatou-se que \n6% das 15.000 peras colhidas estavam \nimpróprias para consumo e seriam descartadas. \nQuantas peras, aproximadamente, serão \ndescartadas por estarem impróprias para \nconsumo?",
+            "questão": "Questão 40",
+            "enunciado": "Em uma colheita de peras, constatou-se que 6% das 15.000 peras colhidas estavam impróprias para consumo e seriam descartadas. Quantas peras, aproximadamente, serão descartadas por estarem impróprias para consumo? (",
             "alternativas": {
-                "A": "600 peras",
-                "B": "800 peras",
-                "C": "900 peras",
-                "D": "1.000 peras",
-                "E": "1.200 peras \n \n \n \n \n \n \n \n Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024                              INSTITUTO AVANÇA-SP                        \n \n \nOFFICE BOY                                                                                                                                               Página 12 de 12"
+                "A": "600 peras (",
+                "B": "800 peras (",
+                "C": "900 peras (",
+                "D": "1.000 peras (",
+                "E": "1.200 peras Fundação de Saúde Pública de São Sebastião - Concurso Público 01/2024 INSTITUTO AVANÇA-SP OFFICE BOY Página 12 de 12"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "C"
         }
     ]
 }

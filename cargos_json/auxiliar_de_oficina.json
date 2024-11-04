@@ -4,13 +4,29 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: Segundo a charge:",
+            "questão": "Questão 1",
+            "enunciado": "Segundo a charge: (",
             "alternativas": {
-                "A": "Os livros servem apenas para expandir o \nconhecimento técnico dos leitores.",
-                "B": "Os livros permitem que seus leitores \nconheçam outros lugares e pessoas.",
-                "C": "Os leitores dificilmente aprendem algo de \nnovo com os livros que leem.",
-                "D": "Os bibliotecários auxiliam os leitores a \nencontrarem os melhores destinos para \nconhecerem.",
-                "E": "Os leitores devem evitar a leitura fantasiosa \npara que não comprometam seu conhecimento \ntécnico."
+                "A": "Os livros servem apenas para expandir o conhecimento técnico dos leitores. (",
+                "B": "Os livros permitem que seus leitores conheçam outros lugares e pessoas. (",
+                "C": "Os leitores dificilmente aprendem algo de novo com os livros que leem. (",
+                "D": "Os bibliotecários auxiliam os leitores a encontrarem os melhores destinos para conhecerem. (",
+                "E": "Os leitores devem evitar a leitura fantasiosa para que não comprometam seu conhecimento técnico."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "O termo “aventuras” , que ocorre no primeiro quadrinho da charge – “Para aventuras em lugares distantes…” –, tem como sinônimo possível: (",
+            "alternativas": {
+                "A": "desavenças. (",
+                "B": "infortúnios. (",
+                "C": "intercorrências. (",
+                "D": "peripécias. (",
+                "E": "pegadilhas. QUESTÃO 03 A palavra “bibliotecário” , que ocorre no último quadrinho, está flexionada: (A) no masculino e no singular. (B) no feminino e no singular. (C) no masculino, no singular e no diminutivo. (D) no feminino, no singular e no diminutivo. (E) no masculino, no plural e no aumentativo."
             },
             "resposta_correta": "B"
         },
@@ -18,13 +34,14 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: O termo “aventuras” , que ocorre no primeiro \nquadrinho da charge – “Para aventuras em \nlugares distantes…” –, tem como sinônimo \npossível:",
+            "questão": "Questão 4",
+            "enunciado": "Considere a seguinte fala, do primeiro quadrinho: “Descobrir novos países, culturas diferentes… ” Neste contexto ocorrem dois adjetivos. Identifique-os e encontre nas alternativas a seguir antônimos para ambos. (",
             "alternativas": {
-                "A": "desavenças.",
-                "B": "infortúnios.",
-                "C": "intercorrências.",
-                "D": "peripécias.",
-                "E": "pegadilhas. QUESTÃO 03 \nA palavra “bibliotecário” , que ocorre no último \nquadrinho, está flexionada: \n(A) no masculino e no singular.  \n(B) no feminino e no singular. \n(C) no masculino, no singular e no diminutivo. \n(D) no feminino, no singular e no diminutivo. \n(E) no masculino, no plural e no aumentativo."
+                "A": "antigos; semelhantes. (",
+                "B": "encontrar; regiões. (",
+                "C": "recentes; distintos. (",
+                "D": "pátrias; costumes. (",
+                "E": "atuais; variados."
             },
             "resposta_correta": "D"
         },
@@ -32,41 +49,29 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 3: Considere a seguinte fala, do primeiro quadrinho: \n“Descobrir novos países, culturas diferentes… ” \nNeste contexto ocorrem dois adjetivos. \nIdentifique-os e encontre nas alternativas a seguir \nantônimos para ambos.",
+            "questão": "Questão 5",
+            "enunciado": "O pronome que ocorre em “... consulte seu bibliotecário!” , no último quadrinho, é do tipo: (",
             "alternativas": {
-                "A": "antigos; semelhantes.",
-                "B": "encontrar; regiões.",
-                "C": "recentes; distintos.",
-                "D": "pátrias; costumes.",
-                "E": "atuais; variados."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "AUXILIAR DE OFICINA",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 4: O pronome que ocorre em “... consulte seu \nbibliotecário!” , no último quadrinho, é do tipo:",
-            "alternativas": {
-                "A": "pessoal.",
-                "B": "possessivo.",
-                "C": "demonstrativo.",
-                "D": "relativo.",
+                "A": "pessoal. (",
+                "B": "possessivo. (",
+                "C": "demonstrativo. (",
+                "D": "relativo. (",
                 "E": "indefinido."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "B"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: O verbo em “. .. conhecer um pouco das outras \npessoas”,  no segundo quadrinho, se apresenta \nno:",
+            "questão": "Questão 6",
+            "enunciado": "O verbo em “. .. conhecer um pouco das outras pessoas”, no segundo quadrinho, se apresenta no: (",
             "alternativas": {
-                "A": "infinitivo.",
-                "B": "indicativo.",
-                "C": "subjuntivo.",
-                "D": "imperativo.",
-                "E": "gerúndio. \nPrefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE OFICINA                                                                                                                                   Página 3 de 9 QUESTÃO 07 \nA classe gramatical das palavras “para”  e “em” , \nque ocorrem no primeiro quadrinho, é: \n(A) conjunção. \n(B) preposição. \n(C) pronome. \n(D) advérbio. \n(E) artigo."
+                "A": "infinitivo. (",
+                "B": "indicativo. (",
+                "C": "subjuntivo. (",
+                "D": "imperativo. (",
+                "E": "gerúndio. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE OFICINA Página 3 de 9 QUESTÃO 07 A classe gramatical das palavras “para” e “em” , que ocorrem no primeiro quadrinho, é: (A) conjunção. (B) preposição. (C) pronome. (D) advérbio. (E) artigo."
             },
             "resposta_correta": "B"
         },
@@ -74,55 +79,44 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Em qual das alternativas a seguir ocorre um \npronome pessoal do caso oblíquo tônico?",
+            "questão": "Questão 8",
+            "enunciado": "Em qual das alternativas a seguir ocorre um pronome pessoal do caso oblíquo tônico? (",
             "alternativas": {
-                "A": "Dei um presente a mim mesma neste \naniversário.",
-                "B": "Ela o questiona com frequência sobre suas \nescolhas.",
-                "C": "A minha família não aprovava aquele \nrelacionamento.",
-                "D": "A garota esperava que ele fizesse suas tarefas \nde casa.",
+                "A": "Dei um presente a mim mesma neste aniversário. (",
+                "B": "Ela o questiona com frequência sobre suas escolhas. (",
+                "C": "A minha família não aprovava aquele relacionamento. (",
+                "D": "A garota esperava que ele fizesse suas tarefas de casa. (",
                 "E": "Isto não me parece certo."
             },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "AUXILIAR DE OFICINA",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 7: Assinale a alternativa em que se verifica uma \nmetáfora.",
-            "alternativas": {
-                "A": "O céu está mais colorido hoje.",
-                "B": "O rapaz ficou chateado com o comentário da \ncolega.",
-                "C": "A paixão ardia em seu coração e a motivava \nainda mais.",
-                "D": "As estrelas guiavam-nos durante a noite.",
-                "E": "Ela gosta de ler Shakespeare em suas horas \nvagas. \n \n \n \n \n \n \n QUESTÃO 10 \nAssinale a alternativa que apresenta um verbo \nimpessoal. \n(A) Os rapazes foram mais corajosos que as \ngarotas. \n(B) Meus pais dizem que adoram churrasco. \n(C) Essas ideias, que não funcionam na prática, \nserão descartadas. \n(D) Os funcionários argumentaram que \nprecisavam de férias imediatamente. \n(E) Nevou muito fortemente ontem de manhã."
-            },
             "resposta_correta": "B"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 8: Nas sentenças a seguir, o elemento em destaque \né um adjetivo apenas em:",
+            "questão": "Questão 9",
+            "enunciado": "Assinale a alternativa em que se verifica uma metáfora. (",
             "alternativas": {
-                "A": "Renata ficou muito bela naquele vestido de \nnoiva.",
-                "B": "Os pães foram assados às 8h.",
-                "C": "A avenida foi interditada  em decorrência de \num acidente.",
-                "D": "A garota sabe que é mais querida do que sua \namiga .",
-                "E": "Todos acharam as atitudes do diretor  do \ncolégio esquisitíssimas."
+                "A": "O céu está mais colorido hoje. (",
+                "B": "O rapaz ficou chateado com o comentário da colega. (",
+                "C": "A paixão ardia em seu coração e a motivava ainda mais. (",
+                "D": "As estrelas guiavam-nos durante a noite. (",
+                "E": "Ela gosta de ler Shakespeare em suas horas vagas."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "E"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: Assinale a alternativa em que o emprego do \nacento indicativo de crase está incorreto.",
+            "questão": "Questão 10",
+            "enunciado": "Assinale a alternativa que apresenta um verbo impessoal. (",
             "alternativas": {
-                "A": "As missas sempre ocorrem aos domingos, às \ndez da manhã.",
-                "B": "Mostraram à garota todas as evidências \nencontradas.",
-                "C": "A declaração deve ser escrita à mão.",
-                "D": "Leve a sua sobrinha à praia durante as férias.",
-                "E": "Inventaram muitas coisas à respeito da moça. \n \n \n \n Prefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE OFICINA                                                                                                                                   Página 4 de 9 QUESTÃO 13 \nDas palavras a seguir, é monossílaba apenas: \n(A) item. \n(B) mãos. \n(C) baú. \n(D) ave. \n(E) ápice."
+                "A": "Os rapazes foram mais corajosos que as garotas. (",
+                "B": "Meus pais dizem que adoram churrasco. (",
+                "C": "Essas ideias, que não funcionam na prática, serão descartadas. (",
+                "D": "Os funcionários argumentaram que precisavam de férias imediatamente. (",
+                "E": "Nevou muito fortemente ontem de manhã."
             },
             "resposta_correta": "C"
         },
@@ -130,27 +124,14 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Analise as sentenças a seguir em relação aos \nsinais de pontuação: \n— Olá, Elisa. (I.) Eu queria saber se você \ngostaria de estudar comigo? \n— Não, não com você. \n— Oras… (II.) Não sei o porquê de sua \narrogância.  \n— Tenho meus motivos. (III.) Quais são as suas \nexpectativas para o futuro? \nOcorre o emprego incorreto do sinal de \npontuação apenas em:",
+            "questão": "Questão 11",
+            "enunciado": "Nas sentenças a seguir, o elemento em destaque é um adjetivo apenas em: (",
             "alternativas": {
-                "A": "I.",
-                "B": "II.",
-                "C": "III.",
-                "D": "I e II.",
-                "E": "I e III."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "AUXILIAR DE OFICINA",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 11: O numeral em destaque é do tipo ordinal apenas \nem:",
-            "alternativas": {
-                "A": "Dois terços  do bolo foram comidos.",
-                "B": "O consultório médico fica no quarto  andar.",
-                "C": "Os meninos compraram meia  dúzia de balas.",
-                "D": "O professor solicitou que fossem lidas trinta  \npáginas do livro.",
-                "E": "Os itens de decoração estão o dobro  do preço \nnesta época do ano. \n \n \n MATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "Renata ficou muito bela naquele vestido de noiva. (",
+                "B": "Os pães foram assados às 8h. (",
+                "C": "A avenida foi interditada em decorrência de um acidente. (",
+                "D": "A garota sabe que é mais querida do que sua amiga . (",
+                "E": "Todos acharam as atitudes do diretor do colégio esquisitíssimas."
             },
             "resposta_correta": "A"
         },
@@ -158,27 +139,29 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: Uma fábrica está produzindo colchões e decide \nseguir um padrão específico de produção. No \nprimeiro dia, a fábrica produz 10 colchões e a \ncada dia seguinte, ela produz o triplo da \nquantidade do dia anterior. Se ela continuar esse \npadrão por 3 dias, quantos colchões terão sido \nproduzidos ao final do período?",
+            "questão": "Questão 12",
+            "enunciado": "Assinale a alternativa em que o emprego do acento indicativo de crase está incorreto. (",
             "alternativas": {
-                "A": "90 colchões",
-                "B": "120 colchões",
-                "C": "130 colchões",
-                "D": "100 colchões",
-                "E": "Nenhuma das alternativas"
+                "A": "As missas sempre ocorrem aos domingos, às dez da manhã. (",
+                "B": "Mostraram à garota todas as evidências encontradas. (",
+                "C": "A declaração deve ser escrita à mão. (",
+                "D": "Leve a sua sobrinha à praia durante as férias. (",
+                "E": "Inventaram muitas coisas à respeito da moça. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE OFICINA Página 4 de 9 QUESTÃO 13 Das palavras a seguir, é monossílaba apenas: (A) item. (B) mãos. (C) baú. (D) ave. (E) ápice."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "A"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 13: Uma oficina leva aproximadamente 25 minutos \npara consertar uma bicicleta. Ela precisa \nconsertar 6 bicicletas em um dia. Supondo que o \ntempo de conserto de cada bicicleta seja de 25 \nminutos, quanto tempo a oficina levará para \nconsertar todas as 6 bicicletas?",
+            "questão": "Questão 14",
+            "enunciado": "Analise as sentenças a seguir em relação aos sinais de pontuação: — Olá, Elisa. (I.) Eu queria saber se você gostaria de estudar comigo? — Não, não com você. — Oras… (II.) Não sei o porquê de sua arrogância. — Tenho meus motivos. (III.) Quais são as suas expectativas para o futuro? Ocorre o emprego incorreto do sinal de pontuação apenas em: (",
             "alternativas": {
-                "A": "2 horas e 30 minutos",
-                "B": "3 horas e 15 minutos",
-                "C": "2 horas e 10 minutos",
-                "D": "2 horas e 50 minutos",
-                "E": "Nenhuma das alternativas"
+                "A": "I. (",
+                "B": "II. (",
+                "C": "III. (",
+                "D": "I e II. (",
+                "E": "I e III."
             },
             "resposta_correta": "B"
         },
@@ -186,26 +169,73 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 14: Marcelo está comprando materiais para reformar \nseu jardim. Ele precisa de 12 sacos de \nfertilizante, cada um custando R$ 15,75. Quanto \nMarcelo gastará na compra dos sacos de \nfertilizante?",
+            "questão": "Questão 15",
+            "enunciado": "O numeral em destaque é do tipo ordinal apenas em: (",
             "alternativas": {
-                "A": "R$ 180,00",
-                "B": "R$ 189,00",
-                "C": "R$ 190,00",
-                "D": "R$ 200,00",
-                "E": "Nenhuma das alternativas \n \n \n Prefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE OFICINA                                                                                                                                   Página 5 de 9 QUESTÃO 19 \nConsidere a sequência: J, 2, K, 4, L, 6, (...). Qual \né o 10º termo dessa sequência? \n(A) 10 \n(B) M \n(C) 12 \n(D) O \n(E) Nenhuma das alternativas"
+                "A": "Dois terços do bolo foram comidos. (",
+                "B": "O consultório médico fica no quarto andar. (",
+                "C": "Os meninos compraram meia dúzia de balas. (",
+                "D": "O professor solicitou que fossem lidas trinta páginas do livro. (",
+                "E": "Os itens de decoração estão o dobro do preço nesta época do ano. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "B"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 15: Assinale a alternativa que apresenta o décimo \nsegundo número par antecessor de 40:",
+            "questão": "Questão 16",
+            "enunciado": "Uma fábrica está produzindo colchões e decide seguir um padrão específico de produção. No primeiro dia, a fábrica produz 10 colchões e a cada dia seguinte, ela produz o triplo da quantidade do dia anterior. Se ela continuar esse padrão por 3 dias, quantos colchões terão sido produzidos ao final do período? (",
             "alternativas": {
-                "A": "14",
-                "B": "18",
-                "C": "16",
-                "D": "12",
+                "A": "90 colchões (",
+                "B": "120 colchões (",
+                "C": "130 colchões (",
+                "D": "100 colchões (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17",
+            "enunciado": "Uma oficina leva aproximadamente 25 minutos para consertar uma bicicleta. Ela precisa consertar 6 bicicletas em um dia. Supondo que o tempo de conserto de cada bicicleta seja de 25 minutos, quanto tempo a oficina levará para consertar todas as 6 bicicletas? (",
+            "alternativas": {
+                "A": "2 horas e 30 minutos (",
+                "B": "3 horas e 15 minutos (",
+                "C": "2 horas e 10 minutos (",
+                "D": "2 horas e 50 minutos (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18",
+            "enunciado": "Marcelo está comprando materiais para reformar seu jardim. Ele precisa de 12 sacos de fertilizante, cada um custando R$ 15,75. Quanto Marcelo gastará na compra dos sacos de fertilizante? (",
+            "alternativas": {
+                "A": "R$ 180,00 (",
+                "B": "R$ 189,00 (",
+                "C": "R$ 190,00 (",
+                "D": "R$ 200,00 (",
+                "E": "Nenhuma das alternativas Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE OFICINA Página 5 de 9 QUESTÃO 19 Considere a sequência: J, 2, K, 4, L, 6, (...). Qual é o 10º termo dessa sequência? (A) 10 (B) M (C) 12 (D) O (E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20",
+            "enunciado": "Assinale a alternativa que apresenta o décimo segundo número par antecessor de 40: (",
+            "alternativas": {
+                "A": "14 (",
+                "B": "18 (",
+                "C": "16 (",
+                "D": "12 (",
                 "E": "10"
             },
             "resposta_correta": "B"
@@ -214,13 +244,14 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: Uma academia oferece descontos especiais para \nmembros que possuem o plano Gympass. Se \n30% dos membros que frequentam a academia \nutilizam o Gympass, e a academia atende em \nmédia 150 membros por dia, quantos membros \npor dia não utilizam o Gympass e pagam o preço \nregular?",
+            "questão": "Questão 21",
+            "enunciado": "Uma academia oferece descontos especiais para membros que possuem o plano Gympass. Se 30% dos membros que frequentam a academia utilizam o Gympass, e a academia atende em média 150 membros por dia, quantos membros por dia não utilizam o Gympass e pagam o preço regular? (",
             "alternativas": {
-                "A": "100 membros",
-                "B": "105 membros",
-                "C": "110 membros",
-                "D": "115 membros",
-                "E": "Nenhuma das alternativas \n \n \n \n \n QUESTÃO 22 \nUm jardineiro está plantando árvores em um \npadrão específico. Na primeira linha, ele planta 6 \nárvores e a cada linha subsequente, ele planta o \ntriplo da quantidade da linha anterior. Se ele \ncontinuar esse padrão por 4 linhas, quantas \nárvores ele terá plantado ao final desse período? \n \n(A) 162 árvores \n(B) 16 árvores \n(C) 240 árvores \n(D) 360 árvores \n(E) Nenhuma das alternativas"
+                "A": "100 membros (",
+                "B": "105 membros (",
+                "C": "110 membros (",
+                "D": "115 membros (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "C"
         },
@@ -228,27 +259,29 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: Uma embalagem de farinha contém 2.400 \ngramas. Quantos quilogramas de farinha há nessa \nembalagem?",
+            "questão": "Questão 22",
+            "enunciado": "Um jardineiro está plantando árvores em um padrão específico. Na primeira linha, ele planta 6 árvores e a cada linha subsequente, ele planta o triplo da quantidade da linha anterior. Se ele continuar esse padrão por 4 linhas, quantas árvores ele terá plantado ao final desse período? (",
             "alternativas": {
-                "A": "2,4 quilogramas",
-                "B": "24 quilogramas",
-                "C": "0,24 quilogramas",
-                "D": "0,0240 quilogramas",
+                "A": "162 árvores (",
+                "B": "16 árvores (",
+                "C": "240 árvores (",
+                "D": "360 árvores (",
                 "E": "Nenhuma das alternativas"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "C"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: Lucas encontrou uma gaveta cheia de dinheiro. \nEle encontrou 12 notas de R$ 50,00, 30 notas de \nR$ 5,00, 40 moedas de R$ 1,00 e 80 moedas de \nR$ 0,25. Qual é o valor total que Lucas encontrou \nna gaveta?",
+            "questão": "Questão 23",
+            "enunciado": "Uma embalagem de farinha contém 2.400 gramas. Quantos quilogramas de farinha há nessa embalagem? (",
             "alternativas": {
-                "A": "R$ 680,00",
-                "B": "R$ 730,00",
-                "C": "R$ 750,00",
-                "D": "R$ 810,00",
-                "E": "Nenhuma das alternativas \n \n \n \n Prefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE OFICINA                                                                                                                                   Página 6 de 9 QUESTÃO 25 \nAssinale a alternativa que apresenta o trigésimo \nnúmero ímpar sucessor de 21: \n \n(A) 81 \n(B) 91 \n(C) 51 \n(D) 71 \n(E) Nenhuma das alternativas"
+                "A": "2,4 quilogramas (",
+                "B": "24 quilogramas (",
+                "C": "0,24 quilogramas (",
+                "D": "0,0240 quilogramas (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "B"
         },
@@ -256,27 +289,59 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Em uma loja, uma pessoa compra duas camisetas \ne quatro pares de meias, gastando no total R$ \n50,00. Se o preço de um par de meias é de R$ \n4,00 e o preço de uma camiseta é desconhecido, \nqual é o preço de uma camiseta?",
+            "questão": "Questão 24",
+            "enunciado": "Lucas encontrou uma gaveta cheia de dinheiro. Ele encontrou 12 notas de R$ 50,00, 30 notas de R$ 5,00, 40 moedas de R$ 1,00 e 80 moedas de R$ 0,25. Qual é o valor total que Lucas encontrou na gaveta? (",
             "alternativas": {
-                "A": "R$ 34,00",
-                "B": "R$ 36,00",
-                "C": "R$ 17,00",
-                "D": "R$ 16,00",
-                "E": "Nenhuma das alternativas"
+                "A": "R$ 680,00 (",
+                "B": "R$ 730,00 (",
+                "C": "R$ 750,00 (",
+                "D": "R$ 810,00 (",
+                "E": "Nenhuma das alternativas Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE OFICINA Página 6 de 9 QUESTÃO 25 Assinale a alternativa que apresenta o trigésimo número ímpar sucessor de 21: (A) 81 (B) 91 (C) 51 (D) 71 (E) Nenhuma das alternativas"
             },
-            "resposta_correta": "A"
+            "resposta_correta": "E"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Considere a sequência: A, 8, B, 17, C, 26, (...). \nQual é o 16º termo dessa sequência?",
+            "questão": "Questão 26",
+            "enunciado": "Em uma loja, uma pessoa compra duas camisetas e quatro pares de meias, gastando no total R$ 50,00. Se o preço de um par de meias é de R$ 4,00 e o preço de uma camiseta é desconhecido, qual é o preço de uma camiseta? (",
             "alternativas": {
-                "A": "H",
-                "B": "62",
-                "C": "G",
-                "D": "71",
-                "E": "Nenhuma das alternativas \n \n \n \n \n \n \n \n \n QUESTÃO 28 \nAssinale a alternativa que apresenta o décimo \noitavo número par sucessor de 42: \n(A) 72 \n(B) 60 \n(C) 76 \n(D) 78 \n(E) Nenhuma das alternativas"
+                "A": "R$ 34,00 (",
+                "B": "R$ 36,00 (",
+                "C": "R$ 17,00 (",
+                "D": "R$ 16,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27",
+            "enunciado": "Considere a sequência: A, 8, B, 17, C, 26, (...). Qual é o 16º termo dessa sequência? (",
+            "alternativas": {
+                "A": "H (",
+                "B": "62 (",
+                "C": "G (",
+                "D": "71 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28",
+            "enunciado": "Assinale a alternativa que apresenta o décimo oitavo número par sucessor de 42: (",
+            "alternativas": {
+                "A": "72 (",
+                "B": "60 (",
+                "C": "76 (",
+                "D": "78 (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "C"
         },
@@ -284,127 +349,151 @@
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 21: João está planejando uma viagem e precisa \ncalcular o tempo de estadia em um hotel. Ele \nreservou um quarto por 8 dias , começando na \nquarta-feira. Em que dia da semana ele terminará \nsua estadia?",
+            "questão": "Questão 29",
+            "enunciado": "João está planejando uma viagem e precisa calcular o tempo de estadia em um hotel. Ele reservou um quarto por 8 dias , começando na quarta-feira. Em que dia da semana ele terminará sua estadia? (",
             "alternativas": {
-                "A": "Quinta-feira",
-                "B": "Sexta-feira",
-                "C": "Quarta-feira",
-                "D": "Domingo",
+                "A": "Quinta-feira (",
+                "B": "Sexta-feira (",
+                "C": "Quarta-feira (",
+                "D": "Domingo (",
                 "E": "Segunda-feira"
             },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30",
+            "enunciado": "Em uma loja de eletrônicos, um tablet está com um desconto de 20% sobre o preço original de R$ 500,00. Qual é o preço do tablet com o desconto aplicado? (",
+            "alternativas": {
+                "A": "R$ 400,00 (",
+                "B": "R$ 380,00 (",
+                "C": "R$ 100,00 (",
+                "D": "R$ 350,00 (",
+                "E": "Nenhuma das alternativas Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE OFICINA Página 7 de 9 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31",
+            "enunciado": "Examine a lista de ferramentas a seguir, comumente encontradas em oficinas, e indique qual delas é mais adequada para pegar peças em locais estreitos e de difícil acesso para as mãos: (",
+            "alternativas": {
+                "A": "Parafusadeira. (",
+                "B": "Pegador magnético. (",
+                "C": "Espelho telescópico. (",
+                "D": "Multímetro. (",
+                "E": "Tesoura para chapa."
+            },
             "resposta_correta": "B"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 22: Em uma loja de eletrônicos, um tablet está com \num desconto de 20% sobre o preço original de R$ \n500,00. Qual é o preço do tablet com o desconto \naplicado?",
+            "questão": "Questão 32",
+            "enunciado": "O Torquímetro de Estalo é uma ferramenta utilizada para aplicar um torque específico a um parafuso ou porca. Se o torquímetro for novo ou estiver guardado por algum tempo, recomenda-se: (",
             "alternativas": {
-                "A": "R$ 400,00",
-                "B": "R$ 380,00",
-                "C": "R$ 100,00",
-                "D": "R$ 350,00",
-                "E": "Nenhuma das alternativas \n \n \n \n \n \n Prefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE OFICINA                                                                                                                                   Página 7 de 9 CONHECIMENTOS ESPECÍFICOS"
+                "A": "Que o profissional o teste algumas vezes num torque baixo que permita a lubrificação interna da ferramenta. (",
+                "B": "Que o profissional gire o cabo abaixo do torque mínimo. (",
+                "C": "Que o profissional gire o cabo acima do torque máximo. (",
+                "D": "Que o profissional continue girando o torquímetro após ouvir o estalo e este ter voltado para posição inicial. (",
+                "E": "Que o profissional aqueça a ferramenta antes de iniciar sua utilização."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33",
+            "enunciado": "No que se refere ao uso dos EPIs nas atividades relacionadas ao trabalho de auxiliar de oficina, assinale a alternativa que apresenta uma informação verdadeira: (",
+            "alternativas": {
+                "A": "O uso do EPI é facultativo. (",
+                "B": "O profissional pode assinar um termo dispensando o uso dos EPIs oferecidos pelo empregador. (",
+                "C": "EPIs são dispositivos desenvolvidos para proteção coletiva no ambiente de trabalho. (",
+                "D": "Os EPIs são concebidos e desenvolvidos para oferecer proteção contra riscos ocupacionais. (",
+                "E": "Cabe ao trabalhador comprar o seu EPI."
             },
             "resposta_correta": "C"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 23: Examine a lista de ferramentas a seguir, \ncomumente encontradas em oficinas, e indique \nqual delas é mais adequada para pegar peças em \nlocais estreitos e de difícil acesso para as mãos:",
+            "questão": "Questão 34",
+            "enunciado": "Na lista de equipamentos a seguir, identifique qual é o único dispositivo de proteção que não se qualifica como Equipamento de Proteção Individual (EPI): (",
             "alternativas": {
-                "A": "Parafusadeira.",
-                "B": "Pegador magnético.",
-                "C": "Espelho telescópico.",
-                "D": "Multímetro.",
-                "E": "Tesoura para chapa."
+                "A": "Luvas. (",
+                "B": "Capacete. (",
+                "C": "Bota de proteção dos artelhos. (",
+                "D": "Cone de sinalização. (",
+                "E": "Óculos de proteção."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 35",
+            "enunciado": "Pode-se afirmar que os EPIs devem ser usado nas atividades laborais: (",
+            "alternativas": {
+                "A": "Quando houver a necessidade de melhorar a performance dos profissionais. (",
+                "B": "Quando houver a necessidade de reduzir o nível de insatisfação no ambiente de trabalho. (",
+                "C": "Sempre que houver risco a saúde e a segurança dos trabalhadores. (",
+                "D": "Somente quando necessário para finalizar tarefas que envolvam dispositivos elétricos. (",
+                "E": "Somente quando necessário para finalizar tarefas que envolvam dispositivos radioativos."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AUXILIAR DE OFICINA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 36",
+            "enunciado": "A Câmera de tração e compressão, o pistão e a câmara de gás são componentes encontrados em qual dos sistemas relacionados a seguir: (",
+            "alternativas": {
+                "A": "Amortecedor hidráulico pressurizado. (",
+                "B": "Catalisador. (",
+                "C": "Bomba de combustível. (",
+                "D": "Bomba de ignição. (",
+                "E": "Vela de ignição. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE OFICINA Página 8 de 9 QUESTÃO 37 O sistema de direção automotivo é o conjunto de componentes responsável por direcionar o veículo para onde o condutor pretende ir. Analise a imagem a seguir e assinale a alternativa que dá nome ao item descrito como \"Componente X\" na imagem, extraída dos componentes presentes no sistema de direção: Fonte: 1 Fundamentos Mecânicos Automotivos SENAI (A) Braço de tração. (B) Cromada. (C) Rosca sem fim. (D) Retentor. (E) Picareta."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 24: O Torquímetro de Estalo é uma ferramenta \nutilizada para aplicar um torque específico a um \nparafuso ou porca. \nSe o torquímetro for novo ou estiver guardado \npor algum tempo, recomenda-se:",
+            "questão": "Questão 38",
+            "enunciado": "Qual sistema automotivo é responsável por manter a estabilidade do veículo durante sua movimentação: (",
             "alternativas": {
-                "A": "Que o profissional o teste algumas vezes num \ntorque baixo que permita a lubrificação interna \nda ferramenta.",
-                "B": "Que o profissional gire o cabo abaixo do \ntorque mínimo.",
-                "C": "Que o profissional gire o cabo acima do \ntorque máximo.",
-                "D": "Que o profissional continue girando o \ntorquímetro após ouvir o estalo e este ter voltado \npara posição inicial.",
-                "E": "Que o profissional aqueça a ferramenta antes \nde iniciar sua utilização."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "AUXILIAR DE OFICINA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 25: No que se refere ao uso dos EPIs nas atividades \nrelacionadas ao trabalho de auxiliar de oficina, \nassinale a alternativa que apresenta uma \ninformação verdadeira:",
-            "alternativas": {
-                "A": "O uso do EPI é facultativo.",
-                "B": "O profissional pode assinar um termo \ndispensando o uso dos EPIs oferecidos pelo \nempregador.",
-                "C": "EPIs são dispositivos desenvolvidos para \nproteção coletiva no ambiente de trabalho.",
-                "D": "Os EPIs são concebidos e desenvolvidos para \noferecer proteção contra riscos ocupacionais.",
-                "E": "Cabe ao trabalhador comprar o seu EPI. \n \n QUESTÃO 34 \nNa lista de equipamentos a seguir, identifique \nqual é o único dispositivo de proteção que não se \nqualifica como Equipamento de Proteção \nIndividual (EPI):  \n(A) Luvas. \n(B) Capacete. \n(C) Bota de proteção dos artelhos. \n(D) Cone de sinalização. \n(E) Óculos de proteção."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "AUXILIAR DE OFICINA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 26: Pode-se afirmar que os EPIs devem ser usado nas \natividades laborais:",
-            "alternativas": {
-                "A": "Quando houver a necessidade de melhorar a \nperformance dos profissionais.",
-                "B": "Quando houver a necessidade de reduzir o \nnível de insatisfação no ambiente de trabalho.",
-                "C": "Sempre que houver risco a saúde e a \nsegurança dos trabalhadores.",
-                "D": "Somente quando necessário para finalizar \ntarefas que envolvam dispositivos elétricos.",
-                "E": "Somente quando necessário para finalizar \ntarefas que envolvam dispositivos radioativos."
+                "A": "Sistema de arrefecimento. (",
+                "B": "Sistema de ventilação. (",
+                "C": "Sistema de escapamento. (",
+                "D": "Sistema de suspensão. (",
+                "E": "Sistema de rodízio. QUESTÃO 39 Pode-se afirmar com precisão que a principal incumbência de um sistema de transmissão automotivo é: (A) Receber o torque do motor e direciona-lo para as rodas do veículo. (B) Permitir o deslocamento perpendicular dos pistões. (C) Alimentar o motor com o combustível na quantidade adequada. (D) Manter as baterias automotivas em constante carga. (E) Lubrificar as partes móveis do motor."
             },
             "resposta_correta": "C"
         },
         {
             "cargo": "AUXILIAR DE OFICINA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 27: A Câmera de tração e compressão, o pistão e a \ncâmara de gás são componentes encontrados em \nqual dos sistemas relacionados a seguir:",
+            "questão": "Questão 40",
+            "enunciado": "O motor é o componente que gera toda a potência e torque, que será convertido em movimento do veículo. Uma das partes móveis do motor é representada pelo(a): (",
             "alternativas": {
-                "A": "Amortecedor hidráulico pressurizado.",
-                "B": "Catalisador.",
-                "C": "Bomba de combustível.",
-                "D": "Bomba de ignição.",
-                "E": "Vela de ignição. \n \n \n \n \n Prefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE OFICINA                                                                                                                                   Página 8 de 9 QUESTÃO 37 \nO sistema de direção automotivo é o conjunto de \ncomponentes responsável por direcionar o \nveículo para onde o condutor pretende ir. Analise \na imagem a seguir e assinale a alternativa que dá \nnome ao item descrito como \"Componente X\" na \nimagem, extraída dos componentes presentes no \nsistema de direção:  \n \nFonte: 1 Fundamentos Mecânicos Automotivos SENAI  \n(A) Braço de tração. \n(B) Cromada. \n(C) Rosca sem fim. \n(D) Retentor. \n(E) Picareta."
+                "A": "Carter. (",
+                "B": "Cabeçote. (",
+                "C": "Bloco. (",
+                "D": "Arvore de manivelas. (",
+                "E": "Catalisador. Prefeitura Municipal de Pedreira – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO AUXILIAR DE OFICINA Página 9 de 9"
             },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "AUXILIAR DE OFICINA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 28: Qual sistema automotivo é responsável por \nmanter a estabilidade do veículo durante sua \nmovimentação:",
-            "alternativas": {
-                "A": "Sistema de arrefecimento.",
-                "B": "Sistema de ventilação.",
-                "C": "Sistema de escapamento.",
-                "D": "Sistema de suspensão.",
-                "E": "Sistema de rodízio. QUESTÃO 39 \nPode-se afirmar com precisão que a principal \nincumbência de um sistema de transmissão \nautomotivo é: \n(A) Receber o torque do motor e direciona-lo \npara as rodas do veículo. \n(B) Permitir o deslocamento perpendicular dos \npistões. \n(C) Alimentar o motor com o combustível na \nquantidade adequada. \n(D) Manter as baterias automotivas em constante \ncarga. \n(E) Lubrificar as partes móveis do motor."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "AUXILIAR DE OFICINA",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 29: O motor é o componente que gera toda a potência \ne torque, que será convertido em movimento do \nveículo. \nUma das partes móveis do motor é representada \npelo(a):",
-            "alternativas": {
-                "A": "Carter.",
-                "B": "Cabeçote.",
-                "C": "Bloco.",
-                "D": "Arvore de manivelas.",
-                "E": "Catalisador.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPrefeitura Municipal de Pedreira – Concurso Público - 01/2024                           INSTITUTO AVANÇA SÃO PAULO \n \nAUXILIAR DE OFICINA                                                                                                                                   Página 9 de 9"
-            },
-            "resposta_correta": "C"
+            "resposta_correta": "B"
         }
     ]
 }

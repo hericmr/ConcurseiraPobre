@@ -4,13 +4,14 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 1: De acordo com as informações presentes na \nreportagem, assinale a alternativa que apresenta \numa análise INCORRETA .",
+            "questão": "Questão 1",
+            "enunciado": "De acordo com as informações presentes na reportagem, assinale a alternativa que apresenta uma análise INCORRETA . (",
             "alternativas": {
-                "A": "Anti-inflamatórios utilizados no controle de \ninfecções por H. pylori podem ajudar na \nprevenção contra o câncer gástrico.",
-                "B": "Terapias anti-interleucina-1 podem ajudar na \nprevenção do câncer de pulmão pois reduzem a \ninflamação associada ao tumor.",
-                "C": "A obesidade, a má nutrição e a ingestão \nexcessiva de álcool são motivos de cânceres \ngástricos.",
-                "D": "Vacinas e remédios também são alternativas \neficazes para precaver certos tipos de câncer.",
-                "E": "Poluentes do ar e fumaça são os principais \ncausadores de tumores no pulmão, brônquio e \ntraqueia."
+                "A": "Anti-inflamatórios utilizados no controle de infecções por H. pylori podem ajudar na prevenção contra o câncer gástrico. (",
+                "B": "Terapias anti-interleucina-1 podem ajudar na prevenção do câncer de pulmão pois reduzem a inflamação associada ao tumor. (",
+                "C": "A obesidade, a má nutrição e a ingestão excessiva de álcool são motivos de cânceres gástricos. (",
+                "D": "Vacinas e remédios também são alternativas eficazes para precaver certos tipos de câncer. (",
+                "E": "Poluentes do ar e fumaça são os principais causadores de tumores no pulmão, brônquio e traqueia."
             },
             "resposta_correta": "A"
         },
@@ -18,13 +19,14 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 2: De acordo com o texto, assinale a alternativa que \nexplica o sentido correto do termo \n<carcinogênese =.",
+            "questão": "Questão 2",
+            "enunciado": "De acordo com o texto, assinale a alternativa que explica o sentido correto do termo <carcinogênese =. (",
             "alternativas": {
-                "A": "<um importante agente do grupo das citocinas \nque media a resposta imune=.",
-                "B": "<podem conter o crescimento excessivo das \ncélulas tumorais=.",
-                "C": "<um fator que pode aumentar o risco de \ntumores cervicais e maxilofaciais=.",
-                "D": "<processo de formação do tumor=.",
-                "E": "<previnem a evasão imune pelas células \ntumorais=."
+                "A": "<um importante agente do grupo das citocinas que media a resposta imune=. (",
+                "B": "<podem conter o crescimento excessivo das células tumorais=. (",
+                "C": "<um fator que pode aumentar o risco de tumores cervicais e maxilofaciais=. (",
+                "D": "<processo de formação do tumor=. (",
+                "E": "<previnem a evasão imune pelas células tumorais=."
             },
             "resposta_correta": "D"
         },
@@ -32,13 +34,14 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 3: De acordo com o texto, o trecho < promovem uma \nvigilância imunológica importante contra a \neliminação de cé lulas mutantes.=, refere -se:",
+            "questão": "Questão 3",
+            "enunciado": "De acordo com o texto, o trecho < promovem uma vigilância imunológica importante contra a eliminação de cé lulas mutantes.=, refere -se: (",
             "alternativas": {
-                "A": "Aos órgãos governamentais.",
-                "B": "Aos imunizantes contra HPV e que previnem \nHepatite B.",
-                "C": "Aos pesquisadores da Vigilância Sanitária.",
-                "D": "As vacinas de mucina-1 e receptor do fator de \ncrescimento epidérmico (EGFR).",
-                "E": "A formação de melanoma cutâneo. QUESTÃO 04 \nDe acordo com o texto, assinale a alternativa que \nindica o maior fator de risco para a formação de \nmelanoma cutâneo. \n(A) HPV. \n(B) H. pylori. \n(C) Radiação ultravioleta. \n(D) Tabagismo \n(E) Agrotóxicos."
+                "A": "Aos órgãos governamentais. (",
+                "B": "Aos imunizantes contra HPV e que previnem Hepatite B. (",
+                "C": "Aos pesquisadores da Vigilância Sanitária. (",
+                "D": "As vacinas de mucina-1 e receptor do fator de crescimento epidérmico (EGFR). (",
+                "E": "A formação de melanoma cutâneo. QUESTÃO 04 De acordo com o texto, assinale a alternativa que indica o maior fator de risco para a formação de melanoma cutâneo. (A) HPV. (B) H. pylori. (C) Radiação ultravioleta. (D) Tabagismo (E) Agrotóxicos."
             },
             "resposta_correta": "B"
         },
@@ -46,12 +49,13 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 4: De acordo com o texto, algumas infecções virais \nforam associadas a um maior risco de câncer. \nAssinale a alternativa que apresenta, \ncorretamente, as infecções virais citadas como \nagentes de promoção de cânceres.",
+            "questão": "Questão 5",
+            "enunciado": "De acordo com o texto, algumas infecções virais foram associadas a um maior risco de câncer. Assinale a alternativa que apresenta, corretamente, as infecções virais citadas como agentes de promoção de cânceres. (",
             "alternativas": {
-                "A": "Hepatite B e C, Epstein-Barr e H. pylori.",
-                "B": "Hepatite B e C, Epstein-Barr, H. pylori e \nEGFR.",
-                "C": "Hepatite B e C, HPV e Epstein-Barr.",
-                "D": "Hepatite B e C, HPV, Epstein-Barr, H. pylori.",
+                "A": "Hepatite B e C, Epstein-Barr e H. pylori. (",
+                "B": "Hepatite B e C, Epstein-Barr, H. pylori e EGFR. (",
+                "C": "Hepatite B e C, HPV e Epstein-Barr. (",
+                "D": "Hepatite B e C, HPV, Epstein-Barr, H. pylori. (",
                 "E": "Hepatite B e C, Epstein-Barr, DNA e IL-1."
             },
             "resposta_correta": "C"
@@ -60,69 +64,59 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 5: A palavra < intrínseco = pode ser substituída por \noutra sem perder seu significado em:",
+            "questão": "Questão 6",
+            "enunciado": "A palavra < intrínseco = pode ser substituída por outra sem perder seu significado em: (",
             "alternativas": {
-                "A": "Extrínseco.",
-                "B": "Distinto.",
-                "C": "Desconexo.",
-                "D": "Estranho.",
+                "A": "Extrínseco. (",
+                "B": "Distinto. (",
+                "C": "Desconexo. (",
+                "D": "Estranho. (",
                 "E": "Inerente."
             },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 6: No trecho < permitindo assim a recolonização \ngradual do tecido por células com baixa carga \nmutacional=, o termo < mutacional = pertence a \nqual classe de palavras?",
-            "alternativas": {
-                "A": "Advérbio",
-                "B": "Adjetivo",
-                "C": "Pronome",
-                "D": "Substantivo",
-                "E": "Verbo Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                       Página 4 de 11 QUESTÃO 08 \nAssim como no trecho < as vacinas e remédios \ntambém são alternativas eficazes=, a \nconcordância verbal está empregada observando \na norma-padrão da língua portuguesa em: \n(A) <Os meninos tem brinquedos novos.=  \n(B) <Os canarinhos dança no ar.=  \n(C) <O lápis aparecem na caixa.=  \n(D) <Os coelhos vem saltando ligeiros no jardim.=  \n(E) <As senhoras doaram muitas joias para o \nconvento.="
-            },
             "resposta_correta": "E"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 7: No trecho < pode interromper a assimilação  de \nalterações genômicas=, assinale a alternativa que \napresenta o antônimo correto do termo \n<assimilação=.",
+            "questão": "Questão 7",
+            "enunciado": "No trecho < permitindo assim a recolonização gradual do tecido por células com baixa carga mutacional=, o termo < mutacional = pertence a qual classe de palavras? (",
             "alternativas": {
-                "A": "Absorção",
-                "B": "Compreensão",
-                "C": "Percepção",
-                "D": "Dissociação",
+                "A": "Advérbio (",
+                "B": "Adjetivo (",
+                "C": "Pronome (",
+                "D": "Substantivo (",
+                "E": "Verbo Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 4 de 11 QUESTÃO 08 Assim como no trecho < as vacinas e remédios também são alternativas eficazes=, a concordância verbal está empregada observando a norma-padrão da língua portuguesa em: (A) <Os meninos tem brinquedos novos.= (B) <Os canarinhos dança no ar.= (C) <O lápis aparecem na caixa.= (D) <Os coelhos vem saltando ligeiros no jardim.= (E) <As senhoras doaram muitas joias para o convento.="
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 9",
+            "enunciado": "No trecho < pode interromper a assimilação de alterações genômicas=, assinale a alternativa que apresenta o antônimo correto do termo <assimilação=. (",
+            "alternativas": {
+                "A": "Absorção (",
+                "B": "Compreensão (",
+                "C": "Percepção (",
+                "D": "Dissociação (",
                 "E": "Entendimento"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "D"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 8: No trecho < fatores de risco na evolução do câncer \ne seus mecanismos=, verificamos a presença de \num pronome. Assinale a alternativa que indica \ncorretamente a classificação desse pronome.",
+            "questão": "Questão 10",
+            "enunciado": "No trecho < fatores de risco na evolução do câncer e seus mecanismos=, verificamos a presença de um pronome. Assinale a alternativa que indica corretamente a classificação desse pronome. (",
             "alternativas": {
-                "A": "Pronome indefinido.",
-                "B": "Pronome interrogativo.",
-                "C": "Pronome oblíquo.",
-                "D": "Pronome possessivo.",
-                "E": "Pronome relativo. \nMATEMÁTICA E RACIOCÍNIO \nLÓGICO"
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 9: Assinale a alternativa que apresenta o décimo \nquarto número par sucessor de 477:",
-            "alternativas": {
-                "A": "504",
-                "B": "506",
-                "C": "502",
-                "D": "488",
-                "E": "486 QUESTÃO 12 \nUma pessoa benfeitora doa 580 livros por ano \npara alunos de baixa renda de uma determinada \ncidade. No entanto, a partir do próximo ano, essa \nmesma pessoa pretende aumentar sua doação em \n25%. Se isso vier a ocorrer, a quantidade de \nlivros doados será de:  \n(A) 700.  \n(B) 715.  \n(C) 720.  \n(D) 725.  \n(E) 730."
+                "A": "Pronome indefinido. (",
+                "B": "Pronome interrogativo. (",
+                "C": "Pronome oblíquo. (",
+                "D": "Pronome possessivo. (",
+                "E": "Pronome relativo. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "D"
         },
@@ -130,279 +124,389 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 10: Assinale a alternativa que apresenta o resultado \npara a seguinte operação de multiplicação:  \n31 x 12 x 4",
+            "questão": "Questão 11",
+            "enunciado": "Assinale a alternativa que apresenta o décimo quarto número par sucessor de 477: (",
             "alternativas": {
-                "A": "1472",
-                "B": "1480",
-                "C": "1488",
-                "D": "1498",
+                "A": "504 (",
+                "B": "506 (",
+                "C": "502 (",
+                "D": "488 (",
+                "E": "486 QUESTÃO 12 Uma pessoa benfeitora doa 580 livros por ano para alunos de baixa renda de uma determinada cidade. No entanto, a partir do próximo ano, essa mesma pessoa pretende aumentar sua doação em 25%. Se isso vier a ocorrer, a quantidade de livros doados será de: (A) 700. (B) 715. (C) 720. (D) 725. (E) 730."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 13",
+            "enunciado": "Assinale a alternativa que apresenta o resultado para a seguinte operação de multiplicação: 31 x 12 x 4 (",
+            "alternativas": {
+                "A": "1472 (",
+                "B": "1480 (",
+                "C": "1488 (",
+                "D": "1498 (",
                 "E": "1504"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 11: Assinale a alternativa que apresenta corretamente \no resultado para a seguinte operação com \nnúmeros decimais:  \n7,5 x 6,9",
+            "questão": "Questão 14",
+            "enunciado": "Assinale a alternativa que apresenta corretamente o resultado para a seguinte operação com números decimais: 7,5 x 6,9 (",
             "alternativas": {
-                "A": "48,50",
-                "B": "51,75",
-                "C": "53,20",
-                "D": "55,58",
+                "A": "48,50 (",
+                "B": "51,75 (",
+                "C": "53,20 (",
+                "D": "55,58 (",
                 "E": "56,10"
             },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 15",
+            "enunciado": "Uma empresa coleta 2600 garrafas de plástico por ano para fins de reciclagem. Contudo, a partir do próximo ano, pretende aumentar referida coleta em 40%. Se isso vier a ocorrer, o número de garrafas coletadas será de: (",
+            "alternativas": {
+                "A": "3640 (",
+                "B": "3655 (",
+                "C": "3680. (",
+                "D": "3692. (",
+                "E": "3702. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 5 de 11 NOÇÕES DE INFORMÁTICA"
+            },
             "resposta_correta": "A"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 12: Uma empresa coleta 2600 garrafas de plástico \npor ano para fins de reciclagem. Contudo, a partir \ndo próximo ano, pretende aumentar referida \ncoleta em 40%. Se isso vier a ocorrer, o número \nde garrafas coletadas será de:",
+            "questão": "Questão 16",
+            "enunciado": "Analise do texto a seguir e assinale a alternativa que complete a lacuna de acordo com o conceito apresentado no trecho: <___________ no Windows são links que oferecem acesso rápido a arquivos, pastas, programas ou recursos do sistema, sem a necessidade de navegar por menus ou pastas. São ícones personalizáveis colocados na área de trabalho ou na barra de tarefas, permitindo o acesso rápido aos itens mais usados.= (",
             "alternativas": {
-                "A": "3640",
-                "B": "3655",
-                "C": "3680.",
-                "D": "3692.",
-                "E": "3702.   Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                       Página 5 de 11 NOÇÕES DE INFORMÁTICA"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2023",
-            "questão": "Questão 13: Analise do texto a seguir e assinale a alternativa \nque complete a lacuna de acordo com o conceito \napresentado no trecho: \n<___________ no Windows são links que \noferecem acesso rápido a arquivos, pastas, \nprogramas ou recursos do sistema, sem a \nnecessidade de navegar por menus ou pastas. \nSão ícones personalizáveis colocados na área de \ntrabalho ou na barra de tarefas, permitindo o \nacesso rápido aos itens mais usados.=",
-            "alternativas": {
-                "A": "Pastas.",
-                "B": "Atalhos.",
-                "C": "Calculadora.",
-                "D": "Barra de pesquisa.",
+                "A": "Pastas. (",
+                "B": "Atalhos. (",
+                "C": "Calculadora. (",
+                "D": "Barra de pesquisa. (",
                 "E": "Bloco de notas."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 14: Abreviação de Uniform Resource Locator ,  um \nURL é a localização de um site, página ou \narquivo específico na Internet. Acerca da \ncomposição do URL, analise as afirmativas a \nseguir: \n( ) Protocolo: Indica o protocolo de \ncomunicação a ser usado para acessar o recurso. \n(     ) Domínio: É o nome do servidor. \n(   ) Caminho: É a estrutura de diretórios ou \nsuperior de pastas que leva ao recurso",
+            "questão": "Questão 17",
+            "enunciado": "Abreviação de Uniform Resource Locator , um URL é a localização de um site, página ou arquivo específico na Internet. Acerca da composição do URL, analise as afirmativas a seguir: ( ) Protocolo: Indica o protocolo de comunicação a ser usado para acessar o recurso. ( ) Domínio: É o nome do servidor. ( ) Caminho: É a estrutura de diretórios ou superior de pastas que leva ao recurso (",
             "alternativas": {
-                "A": "V, V, V.",
-                "B": "F, F, F.",
-                "C": "F, F, V.",
-                "D": "V, V, F.",
-                "E": "V, F, V. \n \n \n \n \n \n QUESTÃO 18 \n \nAnalise a imagem e indique qual programa do \nMS-Office 2016 ela representa. \n \n \n(A) Windows. \n(B) Browser. \n(C) Excel. \n(D) PowerPoint. \n(E) Word."
+                "A": "V, V, V. (",
+                "B": "F, F, F. (",
+                "C": "F, F, V. (",
+                "D": "V, V, F. (",
+                "E": "V, F, V."
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 15: No MS-Word 2016 há diversos tipos de atalhos \nque ajudam na formatação, edição e alteração do \ntexto. Neste sentido, assinale a alternativa que \nindique corretamente quais teclas que devem ser \nutilizadas como forma de atalho para recortar o \nconteúdo selecionado para a área de \ntransferência.",
+            "questão": "Questão 18",
+            "enunciado": "Analise a imagem e indique qual programa do MS-Office 2016 ela representa. (",
             "alternativas": {
-                "A": "CTRL + A.",
-                "B": "CTRL + B.",
-                "C": "CTRL + X.",
-                "D": "CTRL + Y.",
+                "A": "Windows. (",
+                "B": "Browser. (",
+                "C": "Excel. (",
+                "D": "PowerPoint. (",
+                "E": "Word."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 19",
+            "enunciado": "No MS-Word 2016 há diversos tipos de atalhos que ajudam na formatação, edição e alteração do texto. Neste sentido, assinale a alternativa que indique corretamente quais teclas que devem ser utilizadas como forma de atalho para recortar o conteúdo selecionado para a área de transferência. (",
+            "alternativas": {
+                "A": "CTRL + A. (",
+                "B": "CTRL + B. (",
+                "C": "CTRL + X. (",
+                "D": "CTRL + Y. (",
                 "E": "CTRL + Z."
             },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 20",
+            "enunciado": "<Comumente usada em análise estatística, avaliação de desempenho, acompanhamento de tendências e muitas outras situações em que é necessário obter um valor médio a partir de um conjunto de dados numéricos.= Com base no trecho acima, assinale a fórmula que representa o conceito abordado. (",
+            "alternativas": {
+                "A": "=SOMA (",
+                "B": "=SE (",
+                "C": "=PROCV (",
+                "D": "=MÉDIA (",
+                "E": "=MÍNIMO Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 6 de 11 CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 21",
+            "enunciado": "A respeito do uso de fac-símile (fax), assinale a alternativa que descreve corretamente uma limitação do uso de fax. (",
+            "alternativas": {
+                "A": "O fax não pode transmitir imagens coloridas. (",
+                "B": "O fax não pode ser usado para enviar documentos confidenciais. (",
+                "C": "O fax precisa de conexão com a internet. (",
+                "D": "O uso de fax é proibido nos órgãos da Administração Pública devido a preocupações de segurança de dados. (",
+                "E": "O fax não pode ser usado para enviar documentos para outros países."
+            },
             "resposta_correta": "A"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 16: <Comumente usada em análise estatística, \navaliação de desempenho, acompanhamento de \ntendências e muitas outras situações em que é \nnecessário obter um valor médio a partir de um \nconjunto de dados numéricos.=  \nCom base no trecho acima, assinale a fórmula \nque representa o conceito abordado.",
+            "questão": "Questão 22",
+            "enunciado": "Sobre a disciplina no ambiente de trabalho, assinale a alternativa que descreve corretamente a importância dela na execução dos trabalhos. (",
             "alternativas": {
-                "A": "=SOMA",
-                "B": "=SE",
-                "C": "=PROCV",
-                "D": "=MÉDIA",
-                "E": "=MÍNIMO \n \nPrefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                       Página 6 de 11 CONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 17: A respeito do uso de fac-símile (fax), assinale a \nalternativa que descreve corretamente uma \nlimitação do uso de fax.",
-            "alternativas": {
-                "A": "O fax não pode transmitir imagens coloridas.",
-                "B": "O fax não pode ser usado para enviar \ndocumentos confidenciais.",
-                "C": "O fax precisa de conexão com a internet.",
-                "D": "O uso de fax é proibido nos órgãos da \nAdministração Pública devido a preocupações de \nsegurança de dados.",
-                "E": "O fax não pode ser usado para enviar \ndocumentos para outros países."
+                "A": "A disciplina ajuda a manter a atenção e o foco durante a realização das tarefas levando a um melhor desempenho e resultados mais consistentes. (",
+                "B": "A disciplina é importante apenas para os funcionários novos, mais jovens ou inexperientes. (",
+                "C": "A disciplina limita a criatividade e a inovação no ambiente de trabalho. (",
+                "D": "A disciplina é uma característica pessoal que não pode ser desenvolvida. (",
+                "E": "A disciplina não é necessária para alcançar os objetivos da organização."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 18: Sobre a disciplina no ambiente de trabalho, \nassinale a alternativa que descreve corretamente \na importância dela na execução dos trabalhos.",
+            "questão": "Questão 23",
+            "enunciado": "Sobre as formas de tratamento, assinale a alternativa que indica corretamente a importância do uso adequado delas no ambiente de trabalho. (",
             "alternativas": {
-                "A": "A disciplina ajuda a manter a atenção e o foco \ndurante a realização das tarefas levando a um \nmelhor desempenho e resultados mais \nconsistentes.",
-                "B": "A disciplina é importante apenas para os \nfuncionários novos, mais jovens ou \ninexperientes.",
-                "C": "A disciplina limita a criatividade e a inovação \nno ambiente de trabalho.",
-                "D": "A disciplina é uma característica pessoal que \nnão pode ser desenvolvida.",
-                "E": "A disciplina não é necessária para alcançar os \nobjetivos da organização. \n \n \n \n \n \n \n \n \n QUESTÃO 23 \nSobre as formas de tratamento, assinale a \nalternativa que indica corretamente a importância \ndo uso adequado delas no ambiente de trabalho. \n(A) As formas de tratamento não são importantes \nno ambiente de trabalho, desde que as tarefas \nsejam realizadas com eficiência. \n(B) O uso de formas de tratamento adequadas \npode melhorar a comunicação e a cooperação \nentre os colegas de trabalho. \n(C) O uso de formas de tratamento formal, como \n\"senhor\" ou \"senhora\", é considerado obsoleto no \nambiente de trabalho moderno. \n(D) O uso de formas de tratamento formais é \nconsiderado falta de respeito no ambiente de \ntrabalho. \n(E) As formas de tratamento devem ser usadas \napenas em situações formais, como reuniões com \ndiretores ou o Chefe do Executivo."
+                "A": "As formas de tratamento não são importantes no ambiente de trabalho, desde que as tarefas sejam realizadas com eficiência. (",
+                "B": "O uso de formas de tratamento adequadas pode melhorar a comunicação e a cooperação entre os colegas de trabalho. (",
+                "C": "O uso de formas de tratamento formal, como \"senhor\" ou \"senhora\", é considerado obsoleto no ambiente de trabalho moderno. (",
+                "D": "O uso de formas de tratamento formais é considerado falta de respeito no ambiente de trabalho. (",
+                "E": "As formas de tratamento devem ser usadas apenas em situações formais, como reuniões com diretores ou o Chefe do Executivo."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "B"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 19: Supondo que, dentro de uma repartição pública, \numa munícipe tenha tropeçado nos degraus e, \ncaindo bruscamente, ficou inconsciente ao bater \na cabeça no degrau. Assinale a alternativa que \nindica corretamente o número de telefone do \nServiço de Atendimento Móvel de Urgência \n(SAMU) para atendimento e socorro à vítima.",
+            "questão": "Questão 24",
+            "enunciado": "Supondo que, dentro de uma repartição pública, uma munícipe tenha tropeçado nos degraus e, caindo bruscamente, ficou inconsciente ao bater a cabeça no degrau. Assinale a alternativa que indica corretamente o número de telefone do Serviço de Atendimento Móvel de Urgência (SAMU) para atendimento e socorro à vítima. (",
             "alternativas": {
-                "A": "154",
-                "B": "190",
-                "C": "141",
-                "D": "192",
-                "E": "152 \n \n \n \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                       Página 7 de 11 QUESTÃO 25 \nSupondo que, dentro de uma repartição pública, \num funcionário jogou um palito de fósforo aceso \ndentro da lixeira com papéis dando início a um \nincêndio por todo o prédio. Assinale a alternativa \nque indica corretamente o número de telefone do \nCorpo de Bombeiros para combate ao incêndio \nno local. \n(A) 135 \n(B) 153 \n(C) 196 \n(D) 100 \n(E) 193"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 20: Em relação ao uso do correio eletrônico \ncorporativo, assinale a alternativa que apresenta \ncorretamente o procedimento de utilização de \nmensagem eletrônica profissional.",
-            "alternativas": {
-                "A": "A mensagem no corpo do e-mail deve ser \nredigida em linguagem coloquial.",
-                "B": "O e-mail corporativo deve ser utilizado \nobservando as normas internas de informática da \nrepartição pública e para fins exclusivamente \nlaborativos.",
-                "C": "Deve-se usar muitas exclamações após a \nsaudação para dar ênfase na mensagem",
-                "D": "A mensagem no corpo do e-mail corporativo \ndeve conter muitos emoticons (figurinhas) \ndivertidos e coloridos para alegrar o destinatário.",
-                "E": "A mensagem no corpo do e-mail deve ser \nredigida em caixa alta (Caps Lock ativado) para \nque todos possam estar cientes da informação.  \n \n \n \n \n \n \n \n \n QUESTÃO 27 \nEm relação ao editor de texto Microsoft Word \n2010, dentre as alternativas abaixo, assinale a \naquela que indica um atalho utilizado para salvar \no documento antes fechar o programa. \n(A) SHIFT + B \n(B) ALT + B \n(C) CTRL + B \n(D) ENTER + B \n(E) TAB + B"
+                "A": "154 (",
+                "B": "190 (",
+                "C": "141 (",
+                "D": "192 (",
+                "E": "152 Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 7 de 11 QUESTÃO 25 Supondo que, dentro de uma repartição pública, um funcionário jogou um palito de fósforo aceso dentro da lixeira com papéis dando início a um incêndio por todo o prédio. Assinale a alternativa que indica corretamente o número de telefone do Corpo de Bombeiros para combate ao incêndio no local. (A) 135 (B) 153 (C) 196 (D) 100 (E) 193"
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 21: Leia a descrição abaixo. \n<É utilizada para estabelecer normas e \nregulamentações internas da repartição, podendo \nter diferentes finalidades como: estabelecer \nprocedimentos, definir atribuições, delegar \ncompetências, estabelecer diretrizes, entre \noutras. Também é usada para nomear, exonerar \nfuncionários, além de designar membros de \ncomissões.=  \nAssinale a alternativa que indica corretamente o \nnome do documento descrito no excerto acima.",
+            "questão": "Questão 26",
+            "enunciado": "Em relação ao uso do correio eletrônico corporativo, assinale a alternativa que apresenta corretamente o procedimento de utilização de mensagem eletrônica profissional. (",
             "alternativas": {
-                "A": "Certidão.",
-                "B": "Ata.",
-                "C": "Portaria.",
-                "D": "Moção.",
+                "A": "A mensagem no corpo do e-mail deve ser redigida em linguagem coloquial. (",
+                "B": "O e-mail corporativo deve ser utilizado observando as normas internas de informática da repartição pública e para fins exclusivamente laborativos. (",
+                "C": "Deve-se usar muitas exclamações após a saudação para dar ênfase na mensagem (",
+                "D": "A mensagem no corpo do e-mail corporativo deve conter muitos emoticons (figurinhas) divertidos e coloridos para alegrar o destinatário. (",
+                "E": "A mensagem no corpo do e-mail deve ser redigida em caixa alta (Caps Lock ativado) para que todos possam estar cientes da informação."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 27",
+            "enunciado": "Em relação ao editor de texto Microsoft Word 2010, dentre as alternativas abaixo, assinale a aquela que indica um atalho utilizado para salvar o documento antes fechar o programa. (",
+            "alternativas": {
+                "A": "SHIFT + B (",
+                "B": "ALT + B (",
+                "C": "CTRL + B (",
+                "D": "ENTER + B (",
+                "E": "TAB + B"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 28",
+            "enunciado": "Leia a descrição abaixo. <É utilizada para estabelecer normas e regulamentações internas da repartição, podendo ter diferentes finalidades como: estabelecer procedimentos, definir atribuições, delegar competências, estabelecer diretrizes, entre outras. Também é usada para nomear, exonerar funcionários, além de designar membros de comissões.= Assinale a alternativa que indica corretamente o nome do documento descrito no excerto acima. (",
+            "alternativas": {
+                "A": "Certidão. (",
+                "B": "Ata. (",
+                "C": "Portaria. (",
+                "D": "Moção. (",
                 "E": "Lei complementar."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "C"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 22: Em relação ao timbre utilizado em documentos \noficiais pelos órgãos públicos, assinale a \nalternativa correta sobre esse elemento gráfico.",
+            "questão": "Questão 29",
+            "enunciado": "Em relação ao timbre utilizado em documentos oficiais pelos órgãos públicos, assinale a alternativa correta sobre esse elemento gráfico. (",
             "alternativas": {
-                "A": "O timbre é composto apenas pelo brasão de \narmas e o hino do município.",
-                "B": "O timbre é composto apenas pelo conjunto de \ncores e logomarca do governo eleito.",
-                "C": "O timbre geralmente é composto pelo nome \ndo órgão público, seu logotipo ou brasão, \nendereço e outros dados de identificação.",
-                "D": "O timbre é composto pelo hino nacional e o \nbrasão de armas.",
-                "E": "O timbre é composto apenas o nome da \nprefeitura e o endereço. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                       Página 8 de 11 QUESTÃO 30 \nConsidere os itens a seguir: \nI – Ofício é uma correspondência de \ncomunicação interna trocada entre órgãos \npúblicos. \nII – Memorando é um documento utilizado para \ncomunicação entre unidades administrativas de \numa mesma repartição pública. \nIII – Ata é um documento utilizado para o \nregistro dos fatos ocorridos em uma reunião, \nassembleia, por exemplo.   \nAssinale a alternativa que apresenta o(s) item(ns) \nverdadeiro(s).  \n(A) Apenas o item I é verdadeiro. \n(B) Apenas o item II é verdadeiro. \n(C) Apenas o item III é verdadeiro. \n(D) Os itens II e III são verdadeiros. \n(E)  Os itens I e III são verdadeiros."
+                "A": "O timbre é composto apenas pelo brasão de armas e o hino do município. (",
+                "B": "O timbre é composto apenas pelo conjunto de cores e logomarca do governo eleito. (",
+                "C": "O timbre geralmente é composto pelo nome do órgão público, seu logotipo ou brasão, endereço e outros dados de identificação. (",
+                "D": "O timbre é composto pelo hino nacional e o brasão de armas. (",
+                "E": "O timbre é composto apenas o nome da prefeitura e o endereço. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 8 de 11 QUESTÃO 30 Considere os itens a seguir: I – Ofício é uma correspondência de comunicação interna trocada entre órgãos públicos. II – Memorando é um documento utilizado para comunicação entre unidades administrativas de uma mesma repartição pública. III – Ata é um documento utilizado para o registro dos fatos ocorridos em uma reunião, assembleia, por exemplo. Assinale a alternativa que apresenta o(s) item(ns) verdadeiro(s). (A) Apenas o item I é verdadeiro. (B) Apenas o item II é verdadeiro. (C) Apenas o item III é verdadeiro. (D) Os itens II e III são verdadeiros. (E) Os itens I e III são verdadeiros."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 31",
+            "enunciado": "De acordo com a <teoria das três idades=, assinale a alternativa que indica corretamente as fases de arquivamento de documentos. (",
+            "alternativas": {
+                "A": "Fase Corrente; Fase Intermediária; Fase Permanente. (",
+                "B": "Fase Inicial; Fase de Maturação; Fase de Descarte. (",
+                "C": "Fase Corrente; Fase de Maturação; Fase Permanente. (",
+                "D": "Fase Corrente; Fase Intermediária; Fase de Descarte. (",
+                "E": "Fase Inicial; Fase Intermediária; Fase Permanente."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 23: De acordo com a <teoria das três idades=, assinale \na alternativa que indica corretamente as fases de \narquivamento de documentos.",
+            "questão": "Questão 32",
+            "enunciado": "Com relação a utilização de uma copiadora, assinale a alternativa que indica corretamente o cuidado necessário ao utilizar a copiadora para evitar danos ao equipamento. (",
             "alternativas": {
-                "A": "Fase Corrente; Fase Intermediária; Fase \nPermanente.",
-                "B": "Fase Inicial; Fase de Maturação; Fase de \nDescarte.",
-                "C": "Fase Corrente; Fase de Maturação; Fase \nPermanente.",
-                "D": "Fase Corrente; Fase Intermediária; Fase de \nDescarte.",
-                "E": "Fase Inicial; Fase Intermediária; Fase \nPermanente. \n \n \n \n \n \n QUESTÃO 32 \nCom relação a utilização de uma copiadora, \nassinale a alternativa que indica corretamente o \ncuidado necessário ao utilizar a copiadora para \nevitar danos ao equipamento. \n(A) Manter a copiadora em um ambiente úmido. \n(B) Utilizar papel úmido para evitar a produção \nde estática. \n(C) Colocar objetos pesados sobre a tampa da \ncopiadora. \n(D) Utilizar papel que já foi utilizado em outro \ntrabalho. \n(E) Verificar se os cabos do equipamento estão \ndevidamente conectados."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 24: A diretora do departamento de compras do \nMunicípio N solicitou a elaboração de uma tabela \nde controle de estoque, contendo dados \nquantitativos, histórico de preços, fornecedores e \nvalidade dos produtos para a funcionária. \nAssinale a alternativa que indica corretamente o \nprograma mais adequado para criação desse \ncontrole.",
-            "alternativas": {
-                "A": "MS Excel",
-                "B": "Bloco de Notas",
-                "C": "MS PowerPoint",
-                "D": "MS Access",
-                "E": "Google Drive"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2023",
-            "questão": "Questão 25: Em relação a imagem profissional, assinale a \nalternativa que indica corretamente uma atitude \nque contribui para a construção de uma imagem \nprofissional positiva.",
-            "alternativas": {
-                "A": "Chegar atrasado constantemente em reuniões \ne compromissos de trabalho.",
-                "B": "Vestir-se de forma inadequada para o \nambiente de trabalho.",
-                "C": "Usar gírias e expressões informais durante \nconversas de trabalho.",
-                "D": "Demonstrar comprometimento e \nresponsabilidade em suas tarefas.",
-                "E": "Falar mal de colegas e superiores nas redes \nsociais.  Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                       Página 9 de 11 QUESTÃO 35 \nSupondo que a funcionária de uma repartição \npública recebeu em seu correio eletrônico \ncorporativo um e-mail de \n<brinde080072@net.br= com o assunto <Você \nganhou R$40.000,00!! Clique no link para \nresgatar seu prêmio imediatamente.=, uma \npostura adequada dessa funcionária é: \n(A) Clicar no link e preencher as informações \nsolicitadas para receber o prêmio. \n(B) Responder ao e-mail informando que não \nestá interessada. \n(C) Excluir imediatamente o e-mail sem clicar no \nlink.  \n(D) Encaminhar o e-mail para os colegas de \ntrabalho. \n(E) Sinalizar o e- mail como <não lido= para \nconsulta posterior."
+                "A": "Manter a copiadora em um ambiente úmido. (",
+                "B": "Utilizar papel úmido para evitar a produção de estática. (",
+                "C": "Colocar objetos pesados sobre a tampa da copiadora. (",
+                "D": "Utilizar papel que já foi utilizado em outro trabalho. (",
+                "E": "Verificar se os cabos do equipamento estão devidamente conectados."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 26: Sobre o controle de correspondências, assinale a \nalternativa que indica corretamente a finalidade \ndo livro de registro de correspondência.",
+            "questão": "Questão 33",
+            "enunciado": "A diretora do departamento de compras do Município N solicitou a elaboração de uma tabela de controle de estoque, contendo dados quantitativos, histórico de preços, fornecedores e validade dos produtos para a funcionária. Assinale a alternativa que indica corretamente o programa mais adequado para criação desse controle. (",
             "alternativas": {
-                "A": "Registrar a entrada e saída de \ncorrespondências do órgão.",
-                "B": "Registrar apenas as correspondências \nenviadas pelo órgão.",
-                "C": "Registrar apenas as correspondências \nrecebidas pelo órgão.",
-                "D": "Registrar apenas as correspondências \nenviadas para autoridades superiores.",
-                "E": "Registrar apenas as correspondências \nsigilosas recebidas pelo órgão. \n \n \n \n \n \n \n QUESTÃO 37 \nSobre o uso da Internet no ambiente de trabalho, \nassinale a alternativa que apresenta a forma \nconfiável de buscar informações na rede mundial \nde computadores. \n(A) Utilizar apenas um mecanismo de busca, \ncomo o Google, para todas as pesquisas. \n(B) Não utilizar fontes oficiais e governamentais \npara obter informações sobre os serviços \npúblicos. \n(C) Confiar em resultados de pesquisa que \naparecem em destaque na primeira página dos \nsites de busca. \n(D) Verificar a credibilidade da fonte e utilizar \ndiversas fontes para cruzar informações. \n(E) Copiar e colar textos inteiros de quaisquer \nsites para utilizá-los como referência."
+                "A": "MS Excel (",
+                "B": "Bloco de Notas (",
+                "C": "MS PowerPoint (",
+                "D": "MS Access (",
+                "E": "Google Drive"
             },
-            "resposta_correta": "B"
+            "resposta_correta": "A"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 27: Em relação ao PABX ( Private Automatic Branch \nExchange ), assinale a alternativa que apresenta \ncorretamente a função e utilização do \nequipamento.",
+            "questão": "Questão 34",
+            "enunciado": "Em relação a imagem profissional, assinale a alternativa que indica corretamente uma atitude que contribui para a construção de uma imagem profissional positiva. (",
             "alternativas": {
-                "A": "Serve como sistema de som ambiente.",
-                "B": "Gerencia a rede de computadores da \nempresa.",
-                "C": "Realiza a comunicação telefônica interna e \nexterna da organização.",
-                "D": "Controla o acesso de funcionários aos \ndiferentes departamentos da organização.",
-                "E": "Fornece energia elétrica de emergência para \na empresa. \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                       Página 10 de 11 QUESTÃO 39 \nSupondo que em determinada repartição pública \nfoi encontrada a primeira edição física e original \nda <Lei Orgânica do Município X= e, que apesar \nde não estar mais vigente nem ter valor \nadministrativo e legal, o prefeito queira o \narquivamento do exemplar por seu valor \nhistórico. \nConsiderando a <teoria das três idades= é correto \nafirmar:  \n(A) O exemplar deve ser arquivado segundo a \nFase Inicial. \n(B) O exemplar deve ser arquivado segundo a \nFase Corrente. \n(C) O exemplar deve ser arquivado segundo a \nFase Intermediária. \n(D) O exemplar deve ser arquivado segundo a \nFase Permanente. \n(E) O exemplar deve ser arquivado segundo a \nFase Descarte."
+                "A": "Chegar atrasado constantemente em reuniões e compromissos de trabalho. (",
+                "B": "Vestir-se de forma inadequada para o ambiente de trabalho. (",
+                "C": "Usar gírias e expressões informais durante conversas de trabalho. (",
+                "D": "Demonstrar comprometimento e responsabilidade em suas tarefas. (",
+                "E": "Falar mal de colegas e superiores nas redes sociais. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 9 de 11 QUESTÃO 35 Supondo que a funcionária de uma repartição pública recebeu em seu correio eletrônico corporativo um e-mail de <brinde080072@net.br= com o assunto <Você ganhou R$40.000,00!! Clique no link para resgatar seu prêmio imediatamente.=, uma postura adequada dessa funcionária é: (A) Clicar no link e preencher as informações solicitadas para receber o prêmio. (B) Responder ao e-mail informando que não está interessada. (C) Excluir imediatamente o e-mail sem clicar no link. (D) Encaminhar o e-mail para os colegas de trabalho. (E) Sinalizar o e- mail como <não lido= para consulta posterior."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "D"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
-            "questão": "Questão 28: Assinale a alternativa que indica corretamente a \ndescrição e finalidade do despacho no contexto \nda administração pública.",
+            "questão": "Questão 36",
+            "enunciado": "Sobre o controle de correspondências, assinale a alternativa que indica corretamente a finalidade do livro de registro de correspondência. (",
             "alternativas": {
-                "A": "Trata-se de um documento oficial que \nrepresenta a decisão de um superior hierárquico \nsobre determinado assunto.",
-                "B": "Refere-se a um tipo de correspondência que \ncontém informações sigilosas e que precisa ser \nentregue pessoalmente.",
-                "C": "É uma modalidade de licitação em que os \nfornecedores apresentam propostas fechadas e a \nadministração escolhe a mais vantajosa.",
-                "D": "Consiste na análise de um processo \nadministrativo para verificar a sua legalidade e \ncorreção, podendo resultar em uma sanção ao \nservidor responsável.",
-                "E": "É uma técnica de gerenciamento de projetos \nque consiste em definir prioridades e estabelecer \nprazos para a execução das tarefas. \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023                           IN STITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                       Página 11 de 11"
+                "A": "Registrar a entrada e saída de correspondências do órgão. (",
+                "B": "Registrar apenas as correspondências enviadas pelo órgão. (",
+                "C": "Registrar apenas as correspondências recebidas pelo órgão. (",
+                "D": "Registrar apenas as correspondências enviadas para autoridades superiores. (",
+                "E": "Registrar apenas as correspondências sigilosas recebidas pelo órgão."
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 37",
+            "enunciado": "Sobre o uso da Internet no ambiente de trabalho, assinale a alternativa que apresenta a forma confiável de buscar informações na rede mundial de computadores. (",
+            "alternativas": {
+                "A": "Utilizar apenas um mecanismo de busca, como o Google, para todas as pesquisas. (",
+                "B": "Não utilizar fontes oficiais e governamentais para obter informações sobre os serviços públicos. (",
+                "C": "Confiar em resultados de pesquisa que aparecem em destaque na primeira página dos sites de busca. (",
+                "D": "Verificar a credibilidade da fonte e utilizar diversas fontes para cruzar informações. (",
+                "E": "Copiar e colar textos inteiros de quaisquer sites para utilizá-los como referência."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 38",
+            "enunciado": "Em relação ao PABX ( Private Automatic Branch Exchange ), assinale a alternativa que apresenta corretamente a função e utilização do equipamento. (",
+            "alternativas": {
+                "A": "Serve como sistema de som ambiente. (",
+                "B": "Gerencia a rede de computadores da empresa. (",
+                "C": "Realiza a comunicação telefônica interna e externa da organização. (",
+                "D": "Controla o acesso de funcionários aos diferentes departamentos da organização. (",
+                "E": "Fornece energia elétrica de emergência para a empresa. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 10 de 11 QUESTÃO 39 Supondo que em determinada repartição pública foi encontrada a primeira edição física e original da <Lei Orgânica do Município X= e, que apesar de não estar mais vigente nem ter valor administrativo e legal, o prefeito queira o arquivamento do exemplar por seu valor histórico. Considerando a <teoria das três idades= é correto afirmar: (A) O exemplar deve ser arquivado segundo a Fase Inicial. (B) O exemplar deve ser arquivado segundo a Fase Corrente. (C) O exemplar deve ser arquivado segundo a Fase Intermediária. (D) O exemplar deve ser arquivado segundo a Fase Permanente. (E) O exemplar deve ser arquivado segundo a Fase Descarte."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2023",
+            "questão": "Questão 40",
+            "enunciado": "Assinale a alternativa que indica corretamente a descrição e finalidade do despacho no contexto da administração pública. (",
+            "alternativas": {
+                "A": "Trata-se de um documento oficial que representa a decisão de um superior hierárquico sobre determinado assunto. (",
+                "B": "Refere-se a um tipo de correspondência que contém informações sigilosas e que precisa ser entregue pessoalmente. (",
+                "C": "É uma modalidade de licitação em que os fornecedores apresentam propostas fechadas e a administração escolhe a mais vantajosa. (",
+                "D": "Consiste na análise de um processo administrativo para verificar a sua legalidade e correção, podendo resultar em uma sanção ao servidor responsável. (",
+                "E": "É uma técnica de gerenciamento de projetos que consiste em definir prioridades e estabelecer prazos para a execução das tarefas. Prefeitura Municipal de Araçariguama/SP – Concurso Público 01/2023 IN STITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 11 de 11"
+            },
+            "resposta_correta": "A"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: Segundo a reportagem apresentada, a respeito do \ndialeto grego romeyka é correto afirmar que:",
+            "questão": "Questão 1",
+            "enunciado": "Segundo a reportagem apresentada, a respeito do dialeto grego romeyka é correto afirmar que: (",
             "alternativas": {
-                "A": "foi transmitido de geração a geração por \nmeio da escrita e da oralidade.",
-                "B": "o estigma sociocultural é um dos aspectos \nque contribui para a sua extinção.",
-                "C": "dele descendem o grego medieval e o grego \nhelenístico.",
-                "D": "é considerado pelos nacionalistas turcos um \ndialeto do turco, e não do grego.",
-                "E": "sua transmissão intergeracional não depende \nde documentação ou fatores externos à cultura \noral. \n \n \n Prefeitura Municipal de Valinhos – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                   Página 3 de 11 QUESTÃO 02 \nAnalise os conjuntos de palavras a seguir e \nassinale a alternativa em que todas as expressões \napontadas são empregadas no texto apresentado \npara evocar o mesmo referente.  \n(A) plataforma - portal - sistema. \n(B) língua grega milenar romeyka - dialeto.  \n(C) línguas maternas - línguas hereditárias - \nlínguas minoritárias.  \n(D) dialeto - grego helenístico. \n(E) variedade milenar - mina de ouro linguística \n- grego medieval."
+                "A": "foi transmitido de geração a geração por meio da escrita e da oralidade. (",
+                "B": "o estigma sociocultural é um dos aspectos que contribui para a sua extinção. (",
+                "C": "dele descendem o grego medieval e o grego helenístico. (",
+                "D": "é considerado pelos nacionalistas turcos um dialeto do turco, e não do grego. (",
+                "E": "sua transmissão intergeracional não depende de documentação ou fatores externos à cultura oral. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 3 de 11 QUESTÃO 02 Analise os conjuntos de palavras a seguir e assinale a alternativa em que todas as expressões apontadas são empregadas no texto apresentado para evocar o mesmo referente. (A) plataforma - portal - sistema. (B) língua grega milenar romeyka - dialeto. (C) línguas maternas - línguas hereditárias - línguas minoritárias. (D) dialeto - grego helenístico. (E) variedade milenar - mina de ouro linguística - grego medieval."
             },
             "resposta_correta": "B"
         },
@@ -410,40 +514,58 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: Considere o seguinte excerto: “Os pesquisadores \nacreditam que há apenas alguns milhares de \nfalantes nativos restantes na região de Trabzon, \nna Turquia.” No contexto apresentado, a flexão \nde gênero do pronome indefinido “alguns” é \nmotivada pela palavra:",
+            "questão": "Questão 3",
+            "enunciado": "Considere o seguinte excerto: “Os pesquisadores acreditam que há apenas alguns milhares de falantes nativos restantes na região de Trabzon, na Turquia.” No contexto apresentado, a flexão de gênero do pronome indefinido “alguns” é motivada pela palavra: (",
             "alternativas": {
-                "A": "“apenas”.",
-                "B": "“pesquisadores”.",
-                "C": "“milhares”.",
-                "D": "“falantes”.",
+                "A": "“apenas”. (",
+                "B": "“pesquisadores”. (",
+                "C": "“milhares”. (",
+                "D": "“falantes”. (",
                 "E": "“nativos”."
             },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 3: O advérbio “gradualmente”, que ocorre no \nexcerto “(...) o dialeto está gradualmente se \nperdendo (...)”, exprime o mesmo significado \nque a expressão de função gramatical \ncorrespondente:",
-            "alternativas": {
-                "A": "progressivamente.",
-                "B": "graudamente.",
-                "C": "exponencialmente.",
-                "D": "gradativo.",
-                "E": "gradual. \n \n \n QUESTÃO 05 \nAnalise as sentenças a seguir, retiradas do texto, \ne assinale a alternativa em que o verbo em \ndestaque está em sua forma nominal.  \n(A) A língua grega milenar romeyka está em vias \nde desaparecer. \n(B) Os pesquisadores acreditam  que há apenas \nalguns milhares de falantes nativos restantes na \nregião de Trabzon, na Turquia. \n(C) O romeyka é uma variedade milenar do \ngrego. \n(D) Nos últimos 150 anos, apenas quatro \npesquisadores de campo coletaram  dados sobre \nromeyka em Trabzon. \n(E) Ela descobriu que esse dialeto descende do \ngrego helenístico, e não do grego medieval, \ninfluenciando  na formação linguística atual."
-            },
             "resposta_correta": "C"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 4: Analise os pares de palavras a seguir e assinale a \nalternativa em que a acentuação gráfica de ambas \nas palavras dadas decorre da mesma regra \nortográfica.",
+            "questão": "Questão 4",
+            "enunciado": "O advérbio “gradualmente”, que ocorre no excerto “(...) o dialeto está gradualmente se perdendo (...)”, exprime o mesmo significado que a expressão de função gramatical correspondente: (",
             "alternativas": {
-                "A": "fantástico; límpido.",
-                "B": "rígido; pélvis.",
-                "C": "preservação; âmago.",
-                "D": "vulnerável; espetáculo.",
+                "A": "progressivamente. (",
+                "B": "graudamente. (",
+                "C": "exponencialmente. (",
+                "D": "gradativo. (",
+                "E": "gradual."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5",
+            "enunciado": "Analise as sentenças a seguir, retiradas do texto, e assinale a alternativa em que o verbo em destaque está em sua forma nominal. (",
+            "alternativas": {
+                "A": "A língua grega milenar romeyka está em vias de desaparecer. (",
+                "B": "Os pesquisadores acreditam que há apenas alguns milhares de falantes nativos restantes na região de Trabzon, na Turquia. (",
+                "C": "O romeyka é uma variedade milenar do grego. (",
+                "D": "Nos últimos 150 anos, apenas quatro pesquisadores de campo coletaram dados sobre romeyka em Trabzon. (",
+                "E": "Ela descobriu que esse dialeto descende do grego helenístico, e não do grego medieval, influenciando na formação linguística atual."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 6",
+            "enunciado": "Analise os pares de palavras a seguir e assinale a alternativa em que a acentuação gráfica de ambas as palavras dadas decorre da mesma regra ortográfica. (",
+            "alternativas": {
+                "A": "fantástico; límpido. (",
+                "B": "rígido; pélvis. (",
+                "C": "preservação; âmago. (",
+                "D": "vulnerável; espetáculo. (",
                 "E": "opiófago; álbum."
             },
             "resposta_correta": "A"
@@ -452,26 +574,28 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: Analise as palavras a seguir quanto à forma \npluralizada, considerando o emprego do hífen. \nAssinale a alternativa cuja palavra apontada está \nincorreta.",
+            "questão": "Questão 7",
+            "enunciado": "Analise as palavras a seguir quanto à forma pluralizada, considerando o emprego do hífen. Assinale a alternativa cuja palavra apontada está incorreta. (",
             "alternativas": {
-                "A": "pré-vestibulares.",
-                "B": "cargas- d’água.",
-                "C": "carrapatos-estrelas.",
-                "D": "recéns-nascidos.",
-                "E": "amigos-ocultos. \n \n Prefeitura Municipal de Valinhos – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                   Página 4 de 11 QUESTÃO 08 \nAnalise as sentenças a seguir e assinale a \nalternativa em que o emprego do(s) sinal(is) de \npontuação está(ão) incorreto(s). \n(A) As provas de física estavam muito, muito \ndifíceis. \n(B) Ela não concorda com as ideias dos pais, uma \ntípica adolescente. \n(C) Tanto o aluno, quanto o professor, devem \ncolaborar com o processo de aprendizagem. \n(D) Quanto mais as coisas se acumulam, pior se \nsentirá. \n(E) Ela adora uva; a irmã mais nova, banana."
+                "A": "pré-vestibulares. (",
+                "B": "cargas- d’água. (",
+                "C": "carrapatos-estrelas. (",
+                "D": "recéns-nascidos. (",
+                "E": "amigos-ocultos. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 4 de 11 QUESTÃO 08 Analise as sentenças a seguir e assinale a alternativa em que o emprego do(s) sinal(is) de pontuação está(ão) incorreto(s). (A) As provas de física estavam muito, muito difíceis. (B) Ela não concorda com as ideias dos pais, uma típica adolescente. (C) Tanto o aluno, quanto o professor, devem colaborar com o processo de aprendizagem. (D) Quanto mais as coisas se acumulam, pior se sentirá. (E) Ela adora uva; a irmã mais nova, banana."
             },
-            "resposta_correta": "E"
+            "resposta_correta": "D"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: Analise as sentenças a seguir: \nI. Não o convidei para vir a minha casa. \nII. Seus agradecimentos a ele foram \nemocionantes. \nIII. Este capítulo do livro discute períodos \nrelacionados a colonizações diversas. \nAs sentenças dadas apresentam a preposição “a” \nligando elementos entre si. Aquela(s) que \napresenta(m) condições que possibilitam o \nemprego do acento indicativo de crase é (são):",
+            "questão": "Questão 9",
+            "enunciado": "Analise as sentenças a seguir: I. Não o convidei para vir a minha casa. II. Seus agradecimentos a ele foram emocionantes. III. Este capítulo do livro discute períodos relacionados a colonizações diversas. As sentenças dadas apresentam a preposição “a” ligando elementos entre si. Aquela(s) que apresenta(m) condições que possibilitam o emprego do acento indicativo de crase é (são): (",
             "alternativas": {
-                "A": "I.",
-                "B": "II.",
-                "C": "III.",
-                "D": "I e II.",
+                "A": "I. (",
+                "B": "II. (",
+                "C": "III. (",
+                "D": "I e II. (",
                 "E": "II e III."
             },
             "resposta_correta": "A"
@@ -480,26 +604,28 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: Analise as sentenças a seguir e assinale a \nalternativa que apresenta desvio quanto à \nregência nominal.",
+            "questão": "Questão 10",
+            "enunciado": "Analise as sentenças a seguir e assinale a alternativa que apresenta desvio quanto à regência nominal. (",
             "alternativas": {
-                "A": "A pessoa de que falei está sendo investigada \npor fraude de documentos.",
-                "B": "Há uma expectativa de que os rapazes \npresenteiem suas namoradas.",
-                "C": "Seu apego no passado não o permite seguir \nem frente.",
-                "D": "O seu casamento está fadado ao fracasso.",
-                "E": "Como pessoa leiga no assunto, não deve \nopinar. MATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "A pessoa de que falei está sendo investigada por fraude de documentos. (",
+                "B": "Há uma expectativa de que os rapazes presenteiem suas namoradas. (",
+                "C": "Seu apego no passado não o permite seguir em frente. (",
+                "D": "O seu casamento está fadado ao fracasso. (",
+                "E": "Como pessoa leiga no assunto, não deve opinar. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
-            "resposta_correta": "D"
+            "resposta_correta": "C"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 8: A recomendação de um nutrólogo é que uma \npessoa beba um litro de água para cada 30 kg do \nseu peso corporal, por dia. Seguindo essa \nrecomendação, quantos litros de água uma \npessoa que tem um peso corporal de 85 kg deve \ningerir por dia, aproximadamente?",
+            "questão": "Questão 11",
+            "enunciado": "A recomendação de um nutrólogo é que uma pessoa beba um litro de água para cada 30 kg do seu peso corporal, por dia. Seguindo essa recomendação, quantos litros de água uma pessoa que tem um peso corporal de 85 kg deve ingerir por dia, aproximadamente? (",
             "alternativas": {
-                "A": "2,67.",
-                "B": "2,77.",
-                "C": "2,83.",
-                "D": "2,43.",
+                "A": "2,67. (",
+                "B": "2,77. (",
+                "C": "2,83. (",
+                "D": "2,43. (",
                 "E": "2,51."
             },
             "resposta_correta": "C"
@@ -508,13 +634,14 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 9: Uma empresa de distribuição de energia elétrica \nenfrenta desafios com constantes quedas de \nenergia. Suponha que um determinado bairro há \n14 mil domicílios, e que cada domicílio consome, \nem média, 10 kWh de energia a cada 8 horas. O \npreço que a empresa de distribuição cobra por 1 \nkWh de energia é de R$ 1,50. Quanto a empresa \ndeixará de arrecadar, em reais, caso todas as \ncasas desse bairro fiquem sem energia por um \nperíodo de 2 horas?",
+            "questão": "Questão 12",
+            "enunciado": "Uma empresa de distribuição de energia elétrica enfrenta desafios com constantes quedas de energia. Suponha que um determinado bairro há 14 mil domicílios, e que cada domicílio consome, em média, 10 kWh de energia a cada 8 horas. O preço que a empresa de distribuição cobra por 1 kWh de energia é de R$ 1,50. Quanto a empresa deixará de arrecadar, em reais, caso todas as casas desse bairro fiquem sem energia por um período de 2 horas? (",
             "alternativas": {
-                "A": "R$ 52.500,00.",
-                "B": "R$ 75.000,00.",
-                "C": "R$ 115.000,00.",
-                "D": "R$ 210.000,00.",
-                "E": "R$ 255.000,00. \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                   Página 5 de 11 QUESTÃO 13 \nNum experimento científico, 5 formigas \nnomeadas de I, II, III, IV e V foram colocadas \npara fazer um determinado percurso, saindo do \nponto A e chegando no ponto B, conforme a \nfigura: \n \n \nA e B são vértices de um retângulo formado com \ntrês quadrados de lado 𝑑 empilhados \nverticalmente. Com base na figura, a formiga que \nfez o menor percurso foi: \n(A) I.  \n(B) II.  \n(C) III.  \n(D) IV.  \n(E) V."
+                "A": "R$ 52.500,00. (",
+                "B": "R$ 75.000,00. (",
+                "C": "R$ 115.000,00. (",
+                "D": "R$ 210.000,00. (",
+                "E": "R$ 255.000,00. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 5 de 11 QUESTÃO 13 Num experimento científico, 5 formigas nomeadas de I, II, III, IV e V foram colocadas para fazer um determinado percurso, saindo do ponto A e chegando no ponto B, conforme a figura: A e B são vértices de um retângulo formado com três quadrados de lado 𝑑 empilhados verticalmente. Com base na figura, a formiga que fez o menor percurso foi: (A) I. (B) II. (C) III. (D) IV. (E) V."
             },
             "resposta_correta": "A"
         },
@@ -522,253 +649,331 @@
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: O complementar de um determinado ângulo 𝑥 é \nigual ao triplo do ângulo 𝑥. O valor de 𝑥 é:",
+            "questão": "Questão 14",
+            "enunciado": "O complementar de um determinado ângulo 𝑥 é igual ao triplo do ângulo 𝑥. O valor de 𝑥 é: (",
             "alternativas": {
-                "A": "30,0°.",
-                "B": "7,5°.",
-                "C": "15,0°.",
-                "D": "112,5°.",
+                "A": "30,0°. (",
+                "B": "7,5°. (",
+                "C": "15,0°. (",
+                "D": "112,5°. (",
                 "E": "22,5°."
             },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 15",
+            "enunciado": "Uma bebida é feita com suco de laranja e suco de morango, numa proporção de 3/4 em volume, respectivamente. Sabe-se que o preço por litro do suco de morango é 50% maior que o preço por litro do suco de laranja, e que 210 ml dessa bebida misturada é vendido por R$ 13,50. Nessas condições, indique o preço por litro do suco de laranja: (",
+            "alternativas": {
+                "A": "R$ 75,00. (",
+                "B": "R$ 65,00. (",
+                "C": "R$ 55,00. (",
+                "D": "R$ 50,00. (",
+                "E": "R$ 40,00. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 16",
+            "enunciado": "Analise a lista de aplicativos e programas listados a seguir e assinale a alternativa que exibe um programa que não é nativo da instalação no Windows 7: (",
+            "alternativas": {
+                "A": "Bloco de notas. (",
+                "B": "Calculadora. (",
+                "C": "Paint. (",
+                "D": "Wordpad. (",
+                "E": "EagleGet."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17",
+            "enunciado": "Considerando os conceitos relacionados ao Windows 7, é correto afirmar que ele representa um: (",
+            "alternativas": {
+                "A": "Software. (",
+                "B": "Hardware. (",
+                "C": "Antivírus. (",
+                "D": "Periférico. (",
+                "E": "Motherboard."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 18",
+            "enunciado": "As teclas de atalho são ferramentas que fornecem uma maneira alternativa de executar atividades no Windows 7. Para desfazer uma ação, o usuário pode utilizar o comando: (",
+            "alternativas": {
+                "A": "Ctrl + A. (",
+                "B": "Ctrl + Z. (",
+                "C": "Shift + Delete. (",
+                "D": "F2. (",
+                "E": "F3. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 6 de 11 QUESTÃO 19 Utilizando o Sistema Operacional Windows 7 e selecionando as teclas de atalho Alt + F4, o resultado obtido será: (A) Alternar entre os itens abertos. (B) Percorrer os itens na ordem em que foram abertos. (C) Abrir o menu iniciar. (D) Abrir a central de facilidades de acesso. (E) Fechar o item ativo ou sair do programa ativo."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 20",
+            "enunciado": "São todos aplicativos e softwares que permitem aos usuários acessar e interagir com informações na internet, exceto: (",
+            "alternativas": {
+                "A": "Google Chrome. (",
+                "B": "Mozilla Firefox. (",
+                "C": "Microsoft Edge. (",
+                "D": "Opera. (",
+                "E": "Kickidler . CONHECIMENTOS ESPECÍFICOS"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 21",
+            "enunciado": "No que tange às técnicas para uma boa comunicação, assinale a alternativa INCORRETA. (",
+            "alternativas": {
+                "A": "saber ouvir é um dos pilares da boa comunicação. (",
+                "B": "entender os sinais não verbais auxilia na hora da comunicação. (",
+                "C": "clareza e objetividade são dispensáveis. (",
+                "D": "ser coerente com o contexto. (",
+                "E": "utilizar a linguagem adequada para cada ocasião."
+            },
             "resposta_correta": "C"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 11: Uma bebida é feita com suco de laranja e suco de \nmorango, numa proporção de 3/4 em volume, \nrespectivamente. Sabe-se que o preço por litro do \nsuco de morango é 50% maior que o preço por \nlitro do suco de laranja, e que 210 ml dessa \nbebida misturada é vendido por R$ 13,50. Nessas \ncondições, indique o preço por litro do suco de \nlaranja:",
+            "questão": "Questão 22",
+            "enunciado": "Acerca do uso de fax (fac-símile), é correto afirmar, EXCETO: (",
             "alternativas": {
-                "A": "R$ 75,00.",
-                "B": "R$ 65,00.",
-                "C": "R$ 55,00.",
-                "D": "R$ 50,00.",
-                "E": "R$ 40,00. \n NOÇÕES DE INFORMÁTICA"
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 12: Analise a lista de aplicativos e programas listados \na seguir e assinale a alternativa que exibe um \nprograma que não é nativo da instalação no \nWindows 7:",
-            "alternativas": {
-                "A": "Bloco de notas.",
-                "B": "Calculadora.",
-                "C": "Paint.",
-                "D": "Wordpad.",
-                "E": "EagleGet."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 13: Considerando os conceitos relacionados ao \nWindows 7, é correto afirmar que ele representa \num:",
-            "alternativas": {
-                "A": "Software.",
-                "B": "Hardware.",
-                "C": "Antivírus.",
-                "D": "Periférico.",
-                "E": "Motherboard."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
-            "id_concurso": "01/2024",
-            "questão": "Questão 14: As teclas de atalho são ferramentas que fornecem \numa maneira alternativa de executar atividades \nno Windows 7.  \nPara desfazer uma ação, o usuário pode utilizar o \ncomando:",
-            "alternativas": {
-                "A": "Ctrl + A.",
-                "B": "Ctrl + Z.",
-                "C": "Shift + Delete.",
-                "D": "F2.",
-                "E": "F3. \n \n \n \n \n \nPrefeitura Municipal de Valinhos – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                   Página 6 de 11 QUESTÃO 19 \nUtilizando o Sistema Operacional Windows 7 e \nselecionando as teclas de atalho Alt + F4, o \nresultado obtido será: \n(A) Alternar entre os itens abertos. \n(B) Percorrer os itens na ordem em que foram \nabertos. \n(C) Abrir o menu iniciar. \n(D) Abrir a central de facilidades de acesso. \n(E) Fechar o item ativo ou sair do programa \nativo."
+                "A": "o uso do fax decorre da utilização de uma rede telefônica. (",
+                "B": "para enviar o documento é necessário colocar o documento no aparelho de fax e digitar o número de telefone do destinatário. (",
+                "C": "para receber um fax é necessário certificar-se que o aparelho de fax tenha papel e tinta/toner suficientes. (",
+                "D": "para enviar o documento por fax, o primeiro passo é escaneá-lo. (",
+                "E": "para receber um fax não é necessário aguardar o aparelho de fax tocar para pressionar o botão “iniciar\"."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 15: São todos aplicativos e softwares que permitem \naos usuários acessar e interagir com informações \nna internet, exceto:",
+            "questão": "Questão 23",
+            "enunciado": "Qual o método de arquivamento utilizado quando o elemento principal a ser considerado é o nome, podendo ser chamado de sistema direto? (",
             "alternativas": {
-                "A": "Google Chrome.",
-                "B": "Mozilla Firefox.",
-                "C": "Microsoft Edge.",
-                "D": "Opera.",
-                "E": "Kickidler . \n \nCONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "Não encontrada"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 16: No que tange às técnicas para uma boa \ncomunicação, assinale a alternativa \nINCORRETA.",
-            "alternativas": {
-                "A": "saber ouvir é um dos pilares da boa \ncomunicação.",
-                "B": "entender os sinais não verbais auxilia na hora \nda comunicação.",
-                "C": "clareza e objetividade são dispensáveis.",
-                "D": "ser coerente com o contexto.",
-                "E": "utilizar a linguagem adequada para cada \nocasião. \n \n \n \n QUESTÃO 22 \nAcerca do uso de fax (fac-símile), é correto \nafirmar, EXCETO: \n(A) o uso do fax decorre da utilização de uma \nrede telefônica. \n(B) para enviar o documento é necessário colocar \no documento no aparelho de fax e digitar o \nnúmero de telefone do destinatário. \n(C) para receber um fax é necessário certificar-se \nque o aparelho de fax tenha papel e tinta/toner \nsuficientes. \n(D) para enviar o documento por fax, o primeiro \npasso é escaneá-lo. \n(E) para receber um fax não é necessário \naguardar o aparelho de fax tocar para pressionar \no botão “iniciar\"."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 17: Qual o método de arquivamento utilizado quando \no elemento principal a ser considerado é o nome, \npodendo ser chamado de sistema direto?",
-            "alternativas": {
-                "A": "assunto.",
-                "B": "alfabético.",
-                "C": "ideográfico.",
-                "D": "numérico.",
+                "A": "assunto. (",
+                "B": "alfabético. (",
+                "C": "ideográfico. (",
+                "D": "numérico. (",
                 "E": "geográfico."
             },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 18: Não constitui violação de sigilo da \ncorrespondência postal a abertura de carta, \nEXCETO:",
-            "alternativas": {
-                "A": "endereçada a parônimo, no mesmo endereço.",
-                "B": "que apresente indícios de conter objeto \nsujeito a pagamento de tributos.",
-                "C": "endereçada a homônimo, no mesmo \nendereço.",
-                "D": "que apresente indícios de conter valor não \ndeclarado, objeto ou substância de expedição, \nuso ou entrega proibidos.",
-                "E": "que deva ser inutilizada em virtude de \nimpossibilidade de sua entrega e restituição. \n Prefeitura Municipal de Valinhos – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                   Página 7 de 11 QUESTÃO 25 \nNo que tange ao uso do correio de voz, assinale \na alternativa que não condiz com essa \nferramenta. \n(A) o correio de voz é um sistema de gestão de \nmensagens eletrônicas. \n(B) também é conhecido como: caixa postal e \nvoicemail . \n(C) a ferramenta pode ser configurada para \nliberar uma mensagem automática. \n(D) o usuário não receberá o recado caso a sua \nesteja sem sinal ou ocupada. \n(E) o grande objetivo é evitar a perda de \nchamadas."
-            },
             "resposta_correta": "B"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: No que tange à transferência de chamadas em \nPABX, assinale a alternativa que não condiz com \nessa ferramenta.",
+            "questão": "Questão 24",
+            "enunciado": "Não constitui violação de sigilo da correspondência postal a abertura de carta, EXCETO: (",
             "alternativas": {
-                "A": "a transferência de chamadas em PABX \nocorrerá apenas em ligações recebidas.",
-                "B": "essa funcionalidade é útil quando o usuário \nde um ramal precisa transferir a ligação para \noutro setor de atendimento.",
-                "C": "para conseguir transferir a ligação é \nnecessário saber o número do ramal de destino.",
-                "D": "o PABX é uma central telefônica.",
-                "E": "é possível realizar ligações para os ramais \ninternos."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 20: Caso ocorra o curto-circuito no ambiente de \ntrabalho, iniciando um incêndio na repartição, o \ntelefone de emergência que deverá ser acionado \né o:",
-            "alternativas": {
-                "A": "153.",
-                "B": "151.",
-                "C": "197.",
-                "D": "181.",
-                "E": "193. \n QUESTÃO 28 \nÉ correto afirmar quanto à utilização da \ncopiadora, EXCETO: \n(A) é importante ventilar e abanar o papel antes \nde colocá-lo na impressora, evitando, assim, \nexcesso de atolamento. \n(B) é dispensável ter ciência dos operadores da \ncopiadora para que possam solucionar eventuais \nproblemas. \n(C) as resmas de papel deverão ser abertas sem \nque se rasgue a embalagem e fechadas com fita \nadesiva para que o papel que restou, não \numedeça. \n(D) o móvel em que estiver instalada a copiadora \ndeve estar em superfície plana e nivelada. \n(E) ao ligar a copiadora, espere o indicador de luz \nverde da tecla início acender antes de efetuar \nqualquer programação no equipamento."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 21: Acerca da utilização do Livro de Registro de \nCorrespondências é correto afirmar, EXCETO:",
-            "alternativas": {
-                "A": "os documentos sigilosos são registrados no \nlivro de registro de correspondências.",
-                "B": "os documentos particulares são entregues \ndiretamente ao destinatário.",
-                "C": "documento ostensivo é aquele cujo teor deve \nser de conhecimento do público geral e deve ser \ndisponibilizado para consulta, sem restrições.",
-                "D": "documento restrito é aquele cujo teor não \ndeve ser do conhecimento do público em geral, \nsendo acessados apenas pelos interessados e por \nagentes públicos das unidades nas quais são \ntramitados.",
-                "E": "os documentos particulares não são \nregistrados no livro de registro de \ncorrespondências. \n \n \n \n \n \n Prefeitura Municipal de Valinhos – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                   Página 8 de 11 QUESTÃO 30 \nA imagem profissional é muito importante no \nambiente de trabalho, logo, é correto afirmar, \nEXCETO: \n(A) o profissional deve ser pontual. \n(B) é prescindível ao profissional trabalhar a \ncomunicação verbal. \n(C) é prescindível ao profissional trabalhar a \ncomunicação verbal. \n(D) o profissional deve se preocupar com sua \nimagem pessoal (vestuário e aparência). \n(E) o profissional deve ser participativo nas \nreuniões, fazendo posicionamentos relevantes."
-            },
-            "resposta_correta": "C"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 22: Analise os itens a seguir e, ao final, assinale a \nalternativa correta quanto ao sigilo profissional. \nI – O sigilo profissional envolve a \nconfidencialidade e a não divulgação de \ninformações sigilosas relacionadas a pessoas ou \norganizações. \nII – Os profissionais que violam o sigilo em um \nambiente de trabalho podem ser demitidos por \njusta causa, exceto os profissionais concursados, \numa vez que possuem estabilidade por ser \nservidor público.  \nIII – Entende-se por violação do sigilo \nprofissional quando informações confidencias \nsão reveladas, divulgadas ou acessadas por \npessoas autorizadas.",
-            "alternativas": {
-                "A": "apenas o item I é verdadeiro.",
-                "B": "apenas o item II é verdadeiro.",
-                "C": "apenas o item III é verdadeiro.",
-                "D": "os itens I e II são verdadeiros.",
-                "E": "os itens I e III são verdadeiros. \n \n \n \n \n \n QUESTÃO 32 \nEm relação a classificação das correspondências \né correto afirmar: \n(A) a correspondência comum tem o seu \nconhecimento limitado a um número de pessoas. \n(B) a correspondência interna é aquela que pode \nser trocada entre uma instituição e outra entidade \ne/ou pessoas físicas. \n(C) os processos são classificados como \ncorrespondências.  \n(D) a correspondência oficial é de interesse direto \nda instituição. \n(E) a correspondência privada tem o seu \nconhecimento público."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 23: Em se tratando das formas de atendimento ao \npúblico e ao telefone é correto afirmar, \nEXCETO:",
-            "alternativas": {
-                "A": "comunicar-se de forma clara e objetiva.",
-                "B": "ser cordial, sorriso e gentileza não são \nfavores.",
-                "C": "agir com pessoalidade, uma vez que a \naparência é primordial.",
-                "D": "problemas internos não devem ser \nrepassados ao público.",
-                "E": "demonstrar entusiasmo no atendimento. \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                   Página 9 de 11 QUESTÃO 34 \nAnalise os itens a seguir e, ao final, assinale a \nalternativa correta acerca das noções de \nprotocolo. \nI – o protocolo pode ser centralizado ou \ndescentralizado. \nII – os documentos oficiais podem ser ostensivos \nou sigilosos. \nIII – protocolização é o caminho que o \ndocumento percorre desde a sua produção ou \nrecepção, seus processos de utilização até o \ncumprimento de seu objetivo administrativo. \n(A) apenas o item I é verdadeiro. \n(B) apenas o item II é verdadeiro. \n(C) apenas o item III é verdadeiro. \n(D) os itens I e II são verdadeiros. \n(E) os itens II e III são verdadeiros."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 24: No que tange às relações humanas no trabalho é \ncorreto afirmar:",
-            "alternativas": {
-                "A": "a ética é dispensável nas relações humanas \nno trabalho.",
-                "B": "a empatia amplia a percepção da realidade \nporque é possível entender o que a outra pessoa \npensa.",
-                "C": "uma pessoa assertiva não consegue se \ncomunicar com clareza.",
-                "D": "nas relações humanas é importante falar mais \ne ouvir menos, compreender mais e julgar menos.",
-                "E": "é prescindível o feedback como forma de \nfortalecimento nas relações humanas no trabalho. \n \n \n \n \n \n \n \n QUESTÃO 36 \nO bom profissional desempenha o seu trabalho \nde forma disciplinar, isso consiste em dizer, \nEXCETO: \n(A) desenvolver bons hábitos e estabelecer \nrotinas. \n(B) fazer a gestão do seu tempo e tarefas.  \n(C) planejar as tarefas do dia de antemão. \n(D) criar uma rotina e se manter fiel a ela. \n(E) a falta de concentração está ligada somente \nao trabalhador."
+                "A": "endereçada a parônimo, no mesmo endereço. (",
+                "B": "que apresente indícios de conter objeto sujeito a pagamento de tributos. (",
+                "C": "endereçada a homônimo, no mesmo endereço. (",
+                "D": "que apresente indícios de conter valor não declarado, objeto ou substância de expedição, uso ou entrega proibidos. (",
+                "E": "que deva ser inutilizada em virtude de impossibilidade de sua entrega e restituição. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 7 de 11 QUESTÃO 25 No que tange ao uso do correio de voz, assinale a alternativa que não condiz com essa ferramenta. (A) o correio de voz é um sistema de gestão de mensagens eletrônicas. (B) também é conhecido como: caixa postal e voicemail . (C) a ferramenta pode ser configurada para liberar uma mensagem automática. (D) o usuário não receberá o recado caso a sua esteja sem sinal ou ocupada. (E) o grande objetivo é evitar a perda de chamadas."
             },
             "resposta_correta": "A"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 25: Não é uma característica de um colaborador \nassíduo:",
+            "questão": "Questão 26",
+            "enunciado": "No que tange à transferência de chamadas em PABX, assinale a alternativa que não condiz com essa ferramenta. (",
             "alternativas": {
-                "A": "aquele que mantém a qualidade do trabalho.",
-                "B": "aquele que comete vários erros.",
-                "C": "aquele que está sempre em busca de ascensão \nprofissional.",
-                "D": "aquele que não desanima na frente dos \nobstáculos.",
-                "E": "aquele que se esforça diariamente para \nentregar bons resultados."
+                "A": "a transferência de chamadas em PABX ocorrerá apenas em ligações recebidas. (",
+                "B": "essa funcionalidade é útil quando o usuário de um ramal precisa transferir a ligação para outro setor de atendimento. (",
+                "C": "para conseguir transferir a ligação é necessário saber o número do ramal de destino. (",
+                "D": "o PABX é uma central telefônica. (",
+                "E": "é possível realizar ligações para os ramais internos."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 27",
+            "enunciado": "Caso ocorra o curto-circuito no ambiente de trabalho, iniciando um incêndio na repartição, o telefone de emergência que deverá ser acionado é o: (",
+            "alternativas": {
+                "A": "153. (",
+                "B": "151. (",
+                "C": "197. (",
+                "D": "181. (",
+                "E": "193."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 28",
+            "enunciado": "É correto afirmar quanto à utilização da copiadora, EXCETO: (",
+            "alternativas": {
+                "A": "é importante ventilar e abanar o papel antes de colocá-lo na impressora, evitando, assim, excesso de atolamento. (",
+                "B": "é dispensável ter ciência dos operadores da copiadora para que possam solucionar eventuais problemas. (",
+                "C": "as resmas de papel deverão ser abertas sem que se rasgue a embalagem e fechadas com fita adesiva para que o papel que restou, não umedeça. (",
+                "D": "o móvel em que estiver instalada a copiadora deve estar em superfície plana e nivelada. (",
+                "E": "ao ligar a copiadora, espere o indicador de luz verde da tecla início acender antes de efetuar qualquer programação no equipamento."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29",
+            "enunciado": "Acerca da utilização do Livro de Registro de Correspondências é correto afirmar, EXCETO: (",
+            "alternativas": {
+                "A": "os documentos sigilosos são registrados no livro de registro de correspondências. (",
+                "B": "os documentos particulares são entregues diretamente ao destinatário. (",
+                "C": "documento ostensivo é aquele cujo teor deve ser de conhecimento do público geral e deve ser disponibilizado para consulta, sem restrições. (",
+                "D": "documento restrito é aquele cujo teor não deve ser do conhecimento do público em geral, sendo acessados apenas pelos interessados e por agentes públicos das unidades nas quais são tramitados. (",
+                "E": "os documentos particulares não são registrados no livro de registro de correspondências. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 8 de 11 QUESTÃO 30 A imagem profissional é muito importante no ambiente de trabalho, logo, é correto afirmar, EXCETO: (A) o profissional deve ser pontual. (B) é prescindível ao profissional trabalhar a comunicação verbal. (C) é prescindível ao profissional trabalhar a comunicação verbal. (D) o profissional deve se preocupar com sua imagem pessoal (vestuário e aparência). (E) o profissional deve ser participativo nas reuniões, fazendo posicionamentos relevantes."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 31",
+            "enunciado": "Analise os itens a seguir e, ao final, assinale a alternativa correta quanto ao sigilo profissional. I – O sigilo profissional envolve a confidencialidade e a não divulgação de informações sigilosas relacionadas a pessoas ou organizações. II – Os profissionais que violam o sigilo em um ambiente de trabalho podem ser demitidos por justa causa, exceto os profissionais concursados, uma vez que possuem estabilidade por ser servidor público. III – Entende-se por violação do sigilo profissional quando informações confidencias são reveladas, divulgadas ou acessadas por pessoas autorizadas. (",
+            "alternativas": {
+                "A": "apenas o item I é verdadeiro. (",
+                "B": "apenas o item II é verdadeiro. (",
+                "C": "apenas o item III é verdadeiro. (",
+                "D": "os itens I e II são verdadeiros. (",
+                "E": "os itens I e III são verdadeiros."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 32",
+            "enunciado": "Em relação a classificação das correspondências é correto afirmar: (",
+            "alternativas": {
+                "A": "a correspondência comum tem o seu conhecimento limitado a um número de pessoas. (",
+                "B": "a correspondência interna é aquela que pode ser trocada entre uma instituição e outra entidade e/ou pessoas físicas. (",
+                "C": "os processos são classificados como correspondências. (",
+                "D": "a correspondência oficial é de interesse direto da instituição. (",
+                "E": "a correspondência privada tem o seu conhecimento público."
             },
             "resposta_correta": "D"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 26: Assinale a alternativa correta quanto às Noções \nde Protocolo.",
+            "questão": "Questão 33",
+            "enunciado": "Em se tratando das formas de atendimento ao público e ao telefone é correto afirmar, EXCETO: (",
             "alternativas": {
-                "A": "um dos métodos de protocolo é o analítico.",
-                "B": "a primeira etapa para o controle por parte do \nsetor de protocolo é a distribuição dos \ndocumentos que chegam ao órgão público.",
-                "C": "as atividades de protocolo são um conjunto \nde operações que visam o controle dos \ndocumentos.",
-                "D": "um dos métodos de arquivamento é o apenso.",
-                "E": "arquivo permanente é a fase inicial do ciclo \ndo documento. \n \n \n Prefeitura Municipal de Valinhos – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                   Página 10 de 11 QUESTÃO 39 \nAcerca da Redação e Documentos Oficiais, \nassinale (V) para verdadeiro e (F) para falso. \n( ) a comunicação escrita oficial deve ser redigida \nde forma concisa, polida e coerente. \n( ) os documentos oficiais devem permitir dúbia \ninterpretação. \n(  ) o texto conciso é aquele que transmite o \nmínimo de informações com o máximo de \npalavras. \n( ) o texto claro possibilita a imediata \ncompreensão.  \n(A) V- F- F- V. \n(B) V- V- F- V. \n(C) V- F- V- F. \n(D) V- F- F- F \n(E) V- V- V- F."
+                "A": "comunicar-se de forma clara e objetiva. (",
+                "B": "ser cordial, sorriso e gentileza não são favores. (",
+                "C": "agir com pessoalidade, uma vez que a aparência é primordial. (",
+                "D": "problemas internos não devem ser repassados ao público. (",
+                "E": "demonstrar entusiasmo no atendimento. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 9 de 11 QUESTÃO 34 Analise os itens a seguir e, ao final, assinale a alternativa correta acerca das noções de protocolo. I – o protocolo pode ser centralizado ou descentralizado. II – os documentos oficiais podem ser ostensivos ou sigilosos. III – protocolização é o caminho que o documento percorre desde a sua produção ou recepção, seus processos de utilização até o cumprimento de seu objetivo administrativo. (A) apenas o item I é verdadeiro. (B) apenas o item II é verdadeiro. (C) apenas o item III é verdadeiro. (D) os itens I e II são verdadeiros. (E) os itens II e III são verdadeiros."
             },
-            "resposta_correta": "A"
+            "resposta_correta": "C"
         },
         {
             "cargo": "RECEPCIONISTA DA SAÚDE",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 27: Acerca dos documentos oficiais é correto \nafirmar:",
+            "questão": "Questão 35",
+            "enunciado": "No que tange às relações humanas no trabalho é correto afirmar: (",
             "alternativas": {
-                "A": "considera-se fecho apropriado para um texto: \n“Sem outro particular...”",
-                "B": "ata é um documento em que se afirma a \nveracidade de certo fato ou a existência de \nobrigações.",
-                "C": "convocação é um instrumento pelo qual se \nfaz uma convocação, pede-se o comparecimento \nde alguém ou solicita-se sua presença em alguma \nparte ou em um ato.",
-                "D": "circular é toda comunicação reproduzida em \ncópias de igual teor, expedidas a diferentes \npessoas, órgãos ou entidades.",
-                "E": "relatório é a solicitação sob o amparo da lei, \nmesmo que suposto. \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Prefeitura Municipal de Valinhos – Concurso Público - 01/2024                                     INSTITUTO AVANÇA SÃO PAULO \n \nRECEPCIONISTA DA SAÚDE                                                                                                                   Página 11 de 11"
+                "A": "a ética é dispensável nas relações humanas no trabalho. (",
+                "B": "a empatia amplia a percepção da realidade porque é possível entender o que a outra pessoa pensa. (",
+                "C": "uma pessoa assertiva não consegue se comunicar com clareza. (",
+                "D": "nas relações humanas é importante falar mais e ouvir menos, compreender mais e julgar menos. (",
+                "E": "é prescindível o feedback como forma de fortalecimento nas relações humanas no trabalho."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 36",
+            "enunciado": "O bom profissional desempenha o seu trabalho de forma disciplinar, isso consiste em dizer, EXCETO: (",
+            "alternativas": {
+                "A": "desenvolver bons hábitos e estabelecer rotinas. (",
+                "B": "fazer a gestão do seu tempo e tarefas. (",
+                "C": "planejar as tarefas do dia de antemão. (",
+                "D": "criar uma rotina e se manter fiel a ela. (",
+                "E": "a falta de concentração está ligada somente ao trabalhador."
             },
             "resposta_correta": "E"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 37",
+            "enunciado": "Não é uma característica de um colaborador assíduo: (",
+            "alternativas": {
+                "A": "aquele que mantém a qualidade do trabalho. (",
+                "B": "aquele que comete vários erros. (",
+                "C": "aquele que está sempre em busca de ascensão profissional. (",
+                "D": "aquele que não desanima na frente dos obstáculos. (",
+                "E": "aquele que se esforça diariamente para entregar bons resultados."
+            },
+            "resposta_correta": "B"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 38",
+            "enunciado": "Assinale a alternativa correta quanto às Noções de Protocolo. (",
+            "alternativas": {
+                "A": "um dos métodos de protocolo é o analítico. (",
+                "B": "a primeira etapa para o controle por parte do setor de protocolo é a distribuição dos documentos que chegam ao órgão público. (",
+                "C": "as atividades de protocolo são um conjunto de operações que visam o controle dos documentos. (",
+                "D": "um dos métodos de arquivamento é o apenso. (",
+                "E": "arquivo permanente é a fase inicial do ciclo do documento. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 10 de 11 QUESTÃO 39 Acerca da Redação e Documentos Oficiais, assinale (V) para verdadeiro e (F) para falso. ( ) a comunicação escrita oficial deve ser redigida de forma concisa, polida e coerente. ( ) os documentos oficiais devem permitir dúbia interpretação. ( ) o texto conciso é aquele que transmite o mínimo de informações com o máximo de palavras. ( ) o texto claro possibilita a imediata compreensão. (A) V- F- F- V. (B) V- V- F- V. (C) V- F- V- F. (D) V- F- F- F (E) V- V- V- F."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "RECEPCIONISTA DA SAÚDE",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 40",
+            "enunciado": "Acerca dos documentos oficiais é correto afirmar: (",
+            "alternativas": {
+                "A": "considera-se fecho apropriado para um texto: “Sem outro particular...” (",
+                "B": "ata é um documento em que se afirma a veracidade de certo fato ou a existência de obrigações. (",
+                "C": "convocação é um instrumento pelo qual se faz uma convocação, pede-se o comparecimento de alguém ou solicita-se sua presença em alguma parte ou em um ato. (",
+                "D": "circular é toda comunicação reproduzida em cópias de igual teor, expedidas a diferentes pessoas, órgãos ou entidades. (",
+                "E": "relatório é a solicitação sob o amparo da lei, mesmo que suposto. Prefeitura Municipal de Valinhos – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO RECEPCIONISTA DA SAÚDE Página 11 de 11"
+            },
+            "resposta_correta": "D"
         }
     ]
 }

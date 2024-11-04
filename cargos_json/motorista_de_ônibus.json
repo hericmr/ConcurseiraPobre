@@ -4,13 +4,14 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 1: O último parágrafo do texto permite concluir \nque:",
+            "questão": "Questão 1",
+            "enunciado": "O último parágrafo do texto permite concluir que: (",
             "alternativas": {
-                "A": "O antigo zelador foi sequestrado pelo grupo \nde pessoas com quem conversou.",
-                "B": "As habilidades de ler e de escrever \nprejudicaram a memória do antigo zelador.",
-                "C": "Não existia uma saída no labirinto em que o \nzelador trabalhava.",
-                "D": "Explicar a forma de sair do labirinto fez com \nque o antigo zelador se confundisse e se perdesse.",
-                "E": "O grupo de visitantes existia apenas na \nimaginação do antigo zelador.  \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE ÔNIBUS                                                                                                                               Página 3 de 9 QUESTÃO 02 \nO narrador afirma que o zelador “Era um homem \nmetódico”.  Isso porque ele:  \n(A) Seguia um procedimento próprio no \ntrabalho.   \n(B) Era desorganizado no trabalho.   \n(C) Trabalhava de uma forma confusa e \npreguiçosa.  \n(D) Realizava todas as atividades do trabalho de \numa única vez.  \n(E) Dispensava certas atividades por preguiça."
+                "A": "O antigo zelador foi sequestrado pelo grupo de pessoas com quem conversou. (",
+                "B": "As habilidades de ler e de escrever prejudicaram a memória do antigo zelador. (",
+                "C": "Não existia uma saída no labirinto em que o zelador trabalhava. (",
+                "D": "Explicar a forma de sair do labirinto fez com que o antigo zelador se confundisse e se perdesse. (",
+                "E": "O grupo de visitantes existia apenas na imaginação do antigo zelador. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE ÔNIBUS Página 3 de 9 QUESTÃO 02 O narrador afirma que o zelador “Era um homem metódico”. Isso porque ele: (A) Seguia um procedimento próprio no trabalho. (B) Era desorganizado no trabalho. (C) Trabalhava de uma forma confusa e preguiçosa. (D) Realizava todas as atividades do trabalho de uma única vez. (E) Dispensava certas atividades por preguiça."
             },
             "resposta_correta": "D"
         },
@@ -18,41 +19,14 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 2: Segundo o texto, o zelador se apavorou porque:",
+            "questão": "Questão 3",
+            "enunciado": "Segundo o texto, o zelador se apavorou porque: (",
             "alternativas": {
-                "A": "A administração do labirinto era muito \nrígida.",
-                "B": "Ele se deparou com pessoas estranhas no \nlabirinto.",
-                "C": "Ele percebeu a complexidade do labirinto ao \ntentar explicar como encontrar a saída às pessoas \nque estavam perdidas.",
-                "D": "As pessoas o ameaçaram caso não \nconseguissem sair do labirinto.",
+                "A": "A administração do labirinto era muito rígida. (",
+                "B": "Ele se deparou com pessoas estranhas no labirinto. (",
+                "C": "Ele percebeu a complexidade do labirinto ao tentar explicar como encontrar a saída às pessoas que estavam perdidas. (",
+                "D": "As pessoas o ameaçaram caso não conseguissem sair do labirinto. (",
                 "E": "O labirinto não tinha uma saída de verdade."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 3: O pronome “lhes”,  que ocorre em “Alguém \nprecisava lhes mostrar a saída!” , se refere:",
-            "alternativas": {
-                "A": "ao novo zelador.",
-                "B": "aos administradores do labirinto.",
-                "C": "ao próprio zelador.",
-                "D": "ao grupo de pessoas apavoradas.",
-                "E": "aos outros trabalhadores do labirinto."
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 4: A palavra “bem”,  que ocorre em “O zelador não \nentendeu bem.”, tem a função gramatical de:",
-            "alternativas": {
-                "A": "substantivo.",
-                "B": "adjetivo.",
-                "C": "advérbio.",
-                "D": "pronome.",
-                "E": "conjunção.  QUESTÃO 06 \nNo excerto “Podiam adivinhar o que tinha \nacontecido.” , a terminação do verbo “poder”  \nindica apenas:  \n(A) gênero, número e tempo.  \n(B) modo, tempo, número e pessoa.  \n(C) gênero, número e pessoa.  \n(D) tempo e pessoa.  \n(E) pessoa e número."
             },
             "resposta_correta": "C"
         },
@@ -60,12 +34,43 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 5: A palavra “aquilo”,  que ocorre em “Aquilo  era \nterrível.” , classifica -se gramaticalmente como:",
+            "questão": "Questão 4",
+            "enunciado": "O pronome “lhes”, que ocorre em “Alguém precisava lhes mostrar a saída!” , se refere: (",
             "alternativas": {
-                "A": "pronome possessivo.",
-                "B": "pronome indefinido.",
-                "C": "pronome pessoal.",
-                "D": "pronome relativo.",
+                "A": "ao novo zelador. (",
+                "B": "aos administradores do labirinto. (",
+                "C": "ao próprio zelador. (",
+                "D": "ao grupo de pessoas apavoradas. (",
+                "E": "aos outros trabalhadores do labirinto."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 5",
+            "enunciado": "A palavra “bem”, que ocorre em “O zelador não entendeu bem.”, tem a função gramatical de: (",
+            "alternativas": {
+                "A": "substantivo. (",
+                "B": "adjetivo. (",
+                "C": "advérbio. (",
+                "D": "pronome. (",
+                "E": "conjunção. QUESTÃO 06 No excerto “Podiam adivinhar o que tinha acontecido.” , a terminação do verbo “poder” indica apenas: (A) gênero, número e tempo. (B) modo, tempo, número e pessoa. (C) gênero, número e pessoa. (D) tempo e pessoa. (E) pessoa e número."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 7",
+            "enunciado": "A palavra “aquilo”, que ocorre em “Aquilo era terrível.” , classifica -se gramaticalmente como: (",
+            "alternativas": {
+                "A": "pronome possessivo. (",
+                "B": "pronome indefinido. (",
+                "C": "pronome pessoal. (",
+                "D": "pronome relativo. (",
                 "E": "pronome demonstrativo."
             },
             "resposta_correta": "E"
@@ -74,13 +79,29 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 6: No excerto “ Queriam saber como sair dali.” , o \nadvérbio “ali” ocorre contraído com a preposição \n“de”. Esse advérbio, no contexto indicado, \nexprime uma circunstância de:",
+            "questão": "Questão 8",
+            "enunciado": "No excerto “ Queriam saber como sair dali.” , o advérbio “ali” ocorre contraído com a preposição “de”. Esse advérbio, no contexto indicado, exprime uma circunstância de: (",
             "alternativas": {
-                "A": "tempo.",
-                "B": "modo.",
-                "C": "restrição.",
-                "D": "lugar.",
+                "A": "tempo. (",
+                "B": "modo. (",
+                "C": "restrição. (",
+                "D": "lugar. (",
                 "E": "negação."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9",
+            "enunciado": "Nos excertos a seguir, retirados do texto, ocorre um verbo no particípio apenas em: (",
+            "alternativas": {
+                "A": "Onde ficava a saída? (",
+                "B": "E em hipótese alguma devia falar com estranhos. (",
+                "C": "Não tinham encontrado a saída. (",
+                "D": "Tem também a história do zelador do labirinto. (",
+                "E": "Ponha isso num papel. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE ÔNIBUS Página 4 de 9 QUESTÃO 10 A expressão “o novo zelador”, que constitui o sujeito da sentença “O novo zelador não devia ter muita imaginação.” , corresponde à pessoa gramatical: (A) 1ª pessoa do singular. (B) 2ª pessoa do singular. (C) 3ª pessoa do singular. (D) 1ª pessoa do plural. (E) 3ª pessoa do plural."
             },
             "resposta_correta": "C"
         },
@@ -88,13 +109,14 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 7: Nos excertos a seguir, retirados do texto, ocorre \num verbo no particípio apenas em:",
+            "questão": "Questão 11",
+            "enunciado": "O emprego do acento indicativo de crase está incorreto em: (",
             "alternativas": {
-                "A": "Onde ficava a saída?",
-                "B": "E em hipótese alguma devia falar com \nestranhos.",
-                "C": "Não tinham encontrado a saída.",
-                "D": "Tem também a história do zelador do \nlabirinto.",
-                "E": "Ponha isso num papel.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE ÔNIBUS                                                                                                                               Página 4 de 9 QUESTÃO 10  \nA expressão “o novo zelador”,  que constitui o \nsujeito da sentença “O novo zelador não devia \nter muita imaginação.” , corresponde à pessoa \ngramatical:  \n(A) 1ª pessoa do singular.  \n(B) 2ª pessoa do singular.  \n(C) 3ª pessoa do singular.  \n(D) 1ª pessoa do plural.   \n(E) 3ª pessoa do plural."
+                "A": "A professora deu à ele um livro de ficção. (",
+                "B": "As meninas não deram uma chance à colega. (",
+                "C": "Às quartas -feiras realizamos reuniões de equipe. (",
+                "D": "Faziam trapalhadas às escondidas. (",
+                "E": "É grata à psicóloga pelo apoio."
             },
             "resposta_correta": "A"
         },
@@ -102,26 +124,13 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 8: O emprego do acento indicativo de crase está \nincorreto  em:",
+            "questão": "Questão 12",
+            "enunciado": "Assinale a alternativa em que se verifica o pronome átono colocado em mesóclise. (",
             "alternativas": {
-                "A": "A professora deu à ele um livro de ficção.",
-                "B": "As meninas não deram uma chance à colega.",
-                "C": "Às quartas -feiras realizamos reuniões de \nequipe.",
-                "D": "Faziam trapalhadas às escondidas.",
-                "E": "É grata à psicóloga pelo apoio."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 9: Assinale a alternativa em que se verifica o \npronome átono colocado em mesóclise.",
-            "alternativas": {
-                "A": "Disseram -me que os gatos são mais \nindependentes que os cachorros.",
-                "B": "Nós o encontramos no restaurante.",
-                "C": "Eles não querem te contar o motivo da briga.",
-                "D": "Cobrar -lhe-iam se não tivesse aparecido a \ntempo.",
+                "A": "Disseram -me que os gatos são mais independentes que os cachorros. (",
+                "B": "Nós o encontramos no restaurante. (",
+                "C": "Eles não querem te contar o motivo da briga. (",
+                "D": "Cobrar -lhe-iam se não tivesse aparecido a tempo. (",
                 "E": "Os vasos quebraram -se durante a madrugada."
             },
             "resposta_correta": "D"
@@ -130,27 +139,14 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 10: Nas sentenças a seguir, a palavra em destaque é \num adjetivo apenas em:",
+            "questão": "Questão 13",
+            "enunciado": "Nas sentenças a seguir, a palavra em destaque é um adjetivo apenas em: (",
             "alternativas": {
-                "A": "Corra depressa  para não se atrasar.",
-                "B": "As aulas de história são muito  interessantes.",
-                "C": "A bailarina executou os passos de forma \nmaravilhosa.",
-                "D": "O impacto  das mudanças climáticas já \ncomeçou a aparecer.",
-                "E": "Tenho muitas resoluções de Ano-Novo . QUESTÃO 14  \nA sentença a seguir que está incorreta em relação \nao uso do(s) verbo(s) é:  \n(A) A mãe e a filha foram assistir ao espetáculo.  \n(B) As férias de verão foram muito longas nesse \nano. \n(C) Não haviam  palavras o suficiente para \ndescrever tamanha alegria.  \n(D) Ocorreram muitos imprevistos na semana \npassada.  \n(E) João e Pedro não participaram do evento da \nescola."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 11: Assinale a alternativa em que a regência do verbo \né transitiva indireta.",
-            "alternativas": {
-                "A": "Os garotos comeram todos os biscoitos.",
-                "B": "Todos têm o mesmo valor.",
-                "C": "A lua está mais bonita hoje.",
-                "D": "A professora pediu silêncio aos alunos.",
-                "E": "Os alunos votaram contra a greve.  \n \nMATEMÁTICA E RACIOCÍNIO LÓGICO"
+                "A": "Corra depressa para não se atrasar. (",
+                "B": "As aulas de história são muito interessantes. (",
+                "C": "A bailarina executou os passos de forma maravilhosa. (",
+                "D": "O impacto das mudanças climáticas já começou a aparecer. (",
+                "E": "Tenho muitas resoluções de Ano-Novo . QUESTÃO 14 A sentença a seguir que está incorreta em relação ao uso do(s) verbo(s) é: (A) A mãe e a filha foram assistir ao espetáculo. (B) As férias de verão foram muito longas nesse ano. (C) Não haviam palavras o suficiente para descrever tamanha alegria. (D) Ocorreram muitos imprevistos na semana passada. (E) João e Pedro não participaram do evento da escola."
             },
             "resposta_correta": "C"
         },
@@ -158,55 +154,14 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 12: Considere a sequência: D, 4, E, 8, F, 12, (...). \nQual é o 17º termo dessa sequência?",
+            "questão": "Questão 15",
+            "enunciado": "Assinale a alternativa em que a regência do verbo é transitiva indireta. (",
             "alternativas": {
-                "A": "36",
-                "B": "32",
-                "C": "L",
-                "D": "J",
-                "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 13: Assinale a alternativa que apresenta o \nOctogésimo quinto número ímpar antecessor de \n201:",
-            "alternativas": {
-                "A": "117",
-                "B": "119",
-                "C": "29",
-                "D": "33",
-                "E": "31 \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE ÔNIBUS                                                                                                                               Página 5 de 9 QUESTÃO 18 \nAssinale a alternativa que apresenta o \nSexagésimo oitavo número ímpar antecessor de \n407: \n(A) 339 \n(B) 337 \n(C) 271 \n(D) 273 \n(E) Nenhuma das alternativas"
-            },
-            "resposta_correta": "B"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 14: Um técnico de informática leva \naproximadamente 20 minutos para reparar um \ncomputador em sua loja. Ele precisa consertar 8 \ncomputadores idênticos. Supondo que ele leve o \nmesmo tempo de 20 minutos para consertar cada \num, quantas horas o técnico levará para c onsertar \ntodos os 8 computadores?",
-            "alternativas": {
-                "A": "2 horas e 40 minutos",
-                "B": "3 horas e 06 minutos",
-                "C": "2 horas e 56 minutos",
-                "D": "3 horas e 16 minutos",
-                "E": "Nenhuma das alternativas"
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
-            "id_concurso": "01/2024",
-            "questão": "Questão 15: 0 \nMaria está planejando comprar material para \npintar a casa. Ela precisa de 15 latas de tinta para \ncobrir todas as paredes. Cada lata de tinta custa \nR$ 32,90. Quanto Maria gastará na compra das \nlatas de tinta?",
-            "alternativas": {
-                "A": "R$ 493,50",
-                "B": "R$ 427,50",
-                "C": "R$ 503,50",
-                "D": "R$ 548,50",
-                "E": "Nenhuma das alternativas  \n \n \n \n QUESTÃO 2 1 \nUm supermercado está oferecendo descontos em \nalimentos para clientes que possuem um cartão \nde fidelidade. Se 25% dos clientes do \nsupermercado possuem esse cartão, e o \nsupermercado recebe em média 300 clientes por \ndia, quantos clientes por dia não têm o car tão de \nfidelidade e pagarão o preço regular pelos \nalimentos?  \n(A) 235 clientes  \n(B) 250 clientes  \n(C) 75 clientes  \n(D) 225 clientes  \n(E) Nenhuma das alternativas"
+                "A": "Os garotos comeram todos os biscoitos. (",
+                "B": "Todos têm o mesmo valor. (",
+                "C": "A lua está mais bonita hoje. (",
+                "D": "A professora pediu silêncio aos alunos. (",
+                "E": "Os alunos votaram contra a greve. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "E"
         },
@@ -214,12 +169,43 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 16: 2 \nUm pet shop tem 200 animais, entre cachorros, \ngatos e pássaros. Sabe -se que 50% dos animais \nsão cachorros, 30% são gatos e os 20% restantes \nsão pássaros. Se 15% dos cachorros, 10% dos \ngatos e 5% dos pássaros são filhotes, quantos \nanimais adultos há no pet shop?",
+            "questão": "Questão 16",
+            "enunciado": "Considere a sequência: D, 4, E, 8, F, 12, (...). Qual é o 17º termo dessa sequência? (",
             "alternativas": {
-                "A": "38",
-                "B": "177",
-                "C": "123",
-                "D": "182",
+                "A": "36 (",
+                "B": "32 (",
+                "C": "L (",
+                "D": "J (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 17",
+            "enunciado": "Assinale a alternativa que apresenta o Octogésimo quinto número ímpar antecessor de 201: (",
+            "alternativas": {
+                "A": "117 (",
+                "B": "119 (",
+                "C": "29 (",
+                "D": "33 (",
+                "E": "31 Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE ÔNIBUS Página 5 de 9 QUESTÃO 18 Assinale a alternativa que apresenta o Sexagésimo oitavo número ímpar antecessor de 407: (A) 339 (B) 337 (C) 271 (D) 273 (E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 19",
+            "enunciado": "Um técnico de informática leva aproximadamente 20 minutos para reparar um computador em sua loja. Ele precisa consertar 8 computadores idênticos. Supondo que ele leve o mesmo tempo de 20 minutos para consertar cada um, quantas horas o técnico levará para c onsertar todos os 8 computadores? (",
+            "alternativas": {
+                "A": "2 horas e 40 minutos (",
+                "B": "3 horas e 06 minutos (",
+                "C": "2 horas e 56 minutos (",
+                "D": "3 horas e 16 minutos (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "A"
@@ -228,55 +214,104 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 17: 3 \nUm pacote de macarrão tem 800 gramas. \nQuantos quilogramas de macarrão há nesse \npacote?",
+            "questão": "Questão 2",
+            "enunciado": "Maria está planejando comprar material para pintar a casa. Ela precisa de 15 latas de tinta para cobrir todas as paredes. Cada lata de tinta custa R$ 32,90. Quanto Maria gastará na compra das latas de tinta? (",
             "alternativas": {
-                "A": "0,08 quilogramas",
-                "B": "0,8 quilogramas",
-                "C": "8 quilogramas",
-                "D": "80 quilogramas",
-                "E": "Nenhuma das alternativas  \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE ÔNIBUS                                                                                                                               Página 6 de 9 QUESTÃO 2 4 \nMaria tinha um cofre com algumas notas e \nmoedas. Ao abrir o cofre, ela encontrou 15 notas \nde R$ 10,00 e 25 notas de R$ 20,00. Além disso, \nhavia também 50 moedas de R$ 0,50 e 75 \nmoedas de R$ 1,00. Qual é o valor total que \nMaria tinha no cofrinho?  \n \n(A) R$ 400,00  \n(B) R$ 500,00  \n(C) R$ 600,00  \n(D) R$ 700,00  \n(E) Nenhuma das alternativas"
+                "A": "R$ 493,50 (",
+                "B": "R$ 427,50 (",
+                "C": "R$ 503,50 (",
+                "D": "R$ 548,50 (",
+                "E": "Nenhuma das alternativas"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "A"
         },
         {
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 18: Uma loja de brinquedos possui um total de 120 \nbrinquedos em estoque. Se 30% desses \nbrinquedos são bonecas, quantos brinquedos não \nsão bonecas?",
+            "questão": "Questão 2",
+            "enunciado": "Um supermercado está oferecendo descontos em alimentos para clientes que possuem um cartão de fidelidade. Se 25% dos clientes do supermercado possuem esse cartão, e o supermercado recebe em média 300 clientes por dia, quantos clientes por dia não têm o car tão de fidelidade e pagarão o preço regular pelos alimentos? (",
             "alternativas": {
-                "A": "24 brinquedos",
-                "B": "36 brinquedos",
-                "C": "48 brinquedos",
-                "D": "72 brinquedos",
+                "A": "235 clientes (",
+                "B": "250 clientes (",
+                "C": "75 clientes (",
+                "D": "225 clientes (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "Um pet shop tem 200 animais, entre cachorros, gatos e pássaros. Sabe -se que 50% dos animais são cachorros, 30% são gatos e os 20% restantes são pássaros. Se 15% dos cachorros, 10% dos gatos e 5% dos pássaros são filhotes, quantos animais adultos há no pet shop? (",
+            "alternativas": {
+                "A": "38 (",
+                "B": "177 (",
+                "C": "123 (",
+                "D": "182 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 2",
+            "enunciado": "Um pacote de macarrão tem 800 gramas. Quantos quilogramas de macarrão há nesse pacote? (",
+            "alternativas": {
+                "A": "0,08 quilogramas (",
+                "B": "0,8 quilogramas (",
+                "C": "8 quilogramas (",
+                "D": "80 quilogramas (",
+                "E": "Nenhuma das alternativas Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE ÔNIBUS Página 6 de 9 QUESTÃO 2 4 Maria tinha um cofre com algumas notas e moedas. Ao abrir o cofre, ela encontrou 15 notas de R$ 10,00 e 25 notas de R$ 20,00. Além disso, havia também 50 moedas de R$ 0,50 e 75 moedas de R$ 1,00. Qual é o valor total que Maria tinha no cofrinho? (A) R$ 400,00 (B) R$ 500,00 (C) R$ 600,00 (D) R$ 700,00 (E) Nenhuma das alternativas"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 25",
+            "enunciado": "Uma loja de brinquedos possui um total de 120 brinquedos em estoque. Se 30% desses brinquedos são bonecas, quantos brinquedos não são bonecas? (",
+            "alternativas": {
+                "A": "24 brinquedos (",
+                "B": "36 brinquedos (",
+                "C": "48 brinquedos (",
+                "D": "72 brinquedos (",
                 "E": "84 brinquedos"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "E"
         },
         {
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 19: Em uma loja de roupas, uma pessoa compra duas \ncamisetas e uma calça jeans, gastando no total R$ \n350,00. Se o preço de uma camiseta é \ndesconhecido e o preço de uma calça jeans é de \nR$ 100,00, qual é o preço de uma camiseta?",
+            "questão": "Questão 26",
+            "enunciado": "Em uma loja de roupas, uma pessoa compra duas camisetas e uma calça jeans, gastando no total R$ 350,00. Se o preço de uma camiseta é desconhecido e o preço de uma calça jeans é de R$ 100,00, qual é o preço de uma camiseta? (",
             "alternativas": {
-                "A": "R$ 250,00",
-                "B": "R$ 75,00",
-                "C": "R$ 175,00",
-                "D": "R$ 125,00",
+                "A": "R$ 250,00 (",
+                "B": "R$ 75,00 (",
+                "C": "R$ 175,00 (",
+                "D": "R$ 125,00 (",
                 "E": "Nenhuma das alternativas"
             },
-            "resposta_correta": "C"
+            "resposta_correta": "D"
         },
         {
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 20: Uma papelaria possui 3 prateleiras, cada uma \ncontendo 50 cadernos de desenho e 40 cadernos \nde música. Se cada caderno tem, em média, 50 \npáginas, quantas páginas de música há no total?",
+            "questão": "Questão 27",
+            "enunciado": "Uma papelaria possui 3 prateleiras, cada uma contendo 50 cadernos de desenho e 40 cadernos de música. Se cada caderno tem, em média, 50 páginas, quantas páginas de música há no total? (",
             "alternativas": {
-                "A": "2.000 páginas",
-                "B": "6.000 páginas",
-                "C": "13.500 páginas",
-                "D": "4.500 páginas",
-                "E": "Nenhuma das alternativas  \n QUESTÃO 28 \nPedro tinha um cofre com algumas notas e \nmoedas. Ao abrir o cofre, ele encontrou 20 notas \nde R$ 5,00 e 30 notas de R$ 10,00. Além disso, \nhavia também 40 moedas de R$ 0,25 e 50 \nmoedas de R$ 0,50. Qual é o valor total que \nPedro tinha no cofrinho?  \n \n(A) R$ 420,00  \n(B) R$ 445,00  \n(C) R$ 455,25  \n(D) R$ 435,00  \n(E) Nenhuma das alternativas"
+                "A": "2.000 páginas (",
+                "B": "6.000 páginas (",
+                "C": "13.500 páginas (",
+                "D": "4.500 páginas (",
+                "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "B"
         },
@@ -284,12 +319,28 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 21: Um pintor recebe um salário de R$ 3.500,00 por \nmês. Se ele obtiver um aumento salarial de 8% \nao ano, qual será o salário aproximado desse \npintor após 2 anos?",
+            "questão": "Questão 28",
+            "enunciado": "Pedro tinha um cofre com algumas notas e moedas. Ao abrir o cofre, ele encontrou 20 notas de R$ 5,00 e 30 notas de R$ 10,00. Além disso, havia também 40 moedas de R$ 0,25 e 50 moedas de R$ 0,50. Qual é o valor total que Pedro tinha no cofrinho? (",
             "alternativas": {
-                "A": "R$ 4.060,00",
-                "B": "R$ 4.080,40",
-                "C": "R$ 4.082,40",
-                "D": "R$ 4. 600,00",
+                "A": "R$ 420,00 (",
+                "B": "R$ 445,00 (",
+                "C": "R$ 455,25 (",
+                "D": "R$ 435,00 (",
+                "E": "Nenhuma das alternativas"
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 29",
+            "enunciado": "Um pintor recebe um salário de R$ 3.500,00 por mês. Se ele obtiver um aumento salarial de 8% ao ano, qual será o salário aproximado desse pintor após 2 anos? (",
+            "alternativas": {
+                "A": "R$ 4.060,00 (",
+                "B": "R$ 4.080,40 (",
+                "C": "R$ 4.082,40 (",
+                "D": "R$ 4. 600,00 (",
                 "E": "Nenhuma das alternativas"
             },
             "resposta_correta": "C"
@@ -298,113 +349,136 @@
             "cargo": "MOTORISTA DE ÔNIBUS",
             "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 22: 0 \nUma embalagem de café tem 2,5 quilogramas. \nQuantos gramas de café há nessa embalagem?",
+            "questão": "Questão 3",
+            "enunciado": "Uma embalagem de café tem 2,5 quilogramas. Quantos gramas de café há nessa embalagem? (",
             "alternativas": {
-                "A": "25 gramas",
-                "B": "250 gramas",
-                "C": "2.500 gramas",
-                "D": "25.000 gramas",
-                "E": "Nenhuma das alternativas  \n \n \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE ÔNIBUS                                                                                                                               Página 7 de 9 CONHECIMENTOS ESPECÍFICOS"
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 23: De acordo com o Código de Trânsito Brasileiro, \nqual das seguintes atividades não é considerada \ncomo parte do trânsito?",
-            "alternativas": {
-                "A": "Utilização das vias por animais.",
-                "B": "Utilização das vias por pessoas.",
-                "C": "Utilização das vias por veículos.",
-                "D": "A utilização das vias por pessoas, veículos e \nanimais, isolados ou em grupos.",
-                "E": "Atividades de conservação das vias."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 24: Entre os tipos de órgãos e entidades, qual dos \napresentados abaixo não compõem o Sistema \nNacional de Trânsito, conforme estabelecido?",
-            "alternativas": {
-                "A": "Conselhos Estaduais de Trânsito – \nCETRAN.",
-                "B": "As Polícias Militares dos Estados e do \nDistrito Federal.",
-                "C": "As Juntas Administrativas de Recursos de \nPenalidades - JARP.",
-                "D": "Conselho de Trânsito do Distrito Federal – \nCONTRANDIFE.",
-                "E": "Conselho Nacional de Trânsito – \nCONTRAN."
-            },
-            "resposta_correta": "D"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 25: De acordo com os deveres de um motorista pode -\nse afirmar que é incumbência de todo condutor \nde veículo:",
-            "alternativas": {
-                "A": "Conservar o veículo na mão de direção e na \nfaixa própria.",
-                "B": "Não guardar distância de segurança entre o \nveículo que dirige e o que segue imediatamente à \nsua frente.",
-                "C": "Não aproximar o veículo da guia da calçada, \nnas vias urbanas, para embarque ou desembarque \nde passageiros e carga ou descarga.",
-                "D": "Dar passagem, pela direita, quando \nsolicitado.",
-                "E": "Obedecer a horários e normas de utilização \nda via espacial, fixados pela autoridade de \ntrânsito.  \n QUESTÃO 34  \nNos crimes de trânsito, durante qualquer fase da \ninvestigação ou da ação penal, havendo \nnecessidade para a garantia da ordem pública, \npoderá o juiz, como medida cautelar, de ofício, \nou a requerimento do Ministério Público ou ainda \nmediante representação da  autoridade policial, \ndecretar, em decisão motivada a penalidade de:  \n(A) Apenas a suspensão da permissão ou da \nhabilitação para dirigir veículo automotor.  \n(B) Apenas a proibição da obtenção da \nhabilitação.  \n(C) Cancelamento da permissão ou da \nhabilitação para dirigir veículo automotor, ou a \nproibição de sua obtenção.  \n(D) Remoção do veículo, apenas.  \n(E) Suspensão da permissão ou da habilitação \npara dirigir veículo automotor, ou a proibição de \nsua obtenção."
-            },
-            "resposta_correta": "A"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 26: Considerando que todos os veículos motorizados \nsão contribuintes para a poluição atmosférica, \ninclusive aqueles equipados com motores que \nempregam combustíveis provenientes de fontes \nrenováveis, qual dentre os combustíveis \napresenta o maior impacto de polu ição?",
-            "alternativas": {
-                "A": "Gasolina.",
-                "B": "Óleo de cozinha reciclado.",
-                "C": "Diesel.",
-                "D": "GNV - Gás natural veicular.",
-                "E": "Hidrogênio."
-            },
-            "resposta_correta": "E"
-        },
-        {
-            "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
-            "id_concurso": "01/2024",
-            "questão": "Questão 27: Durante uma tarde Luana, uma jovem condutora \npercorria com seu veículo pelas ruas de São \nPaulo, ocorre que sua Carteira Nacional de \nHabilitação era de categoria diferente do veículo \nque estava conduzindo. Neste caso em tela, qual \na Medida Administrativa  aplicável a condutora \nde acordo com a Legislação vigente?",
-            "alternativas": {
-                "A": "Retenção do veículo até a apresentação de \ncondutor habilitado.",
-                "B": "Apenas apreensão do veículo.",
-                "C": "Remoção do veículo.",
-                "D": "Recolhimento do documento de habilitação",
-                "E": "Apreensão do veículo e recolhimento do \ndocumento de habilitação.  \n Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE ÔNIBUS                                                                                                                               Página 8 de 9 QUESTÃO 37  \nNo que tange o Licenciamento dos veículos, \nanalise as preposições abaixo e assinale a \nalternativa que apresenta a sequência correta de \n(V) VERDADEIRO OU F (FALSO):  \n( ) Todo veículo automotor, articulado, reboque \nou semirreboque, para transitar na via, deverá ser \nlicenciado anualmente pelo órgão executivo de \ntrânsito do Estado, ou do Distrito Federal, onde \nestiver registrado o veículo, inclusive os veículos \nde uso bél ico; \n( ) O primeiro licenciamento será feito \nsimultaneamente ao registro;  \n( ) No caso de transferência de residência ou \ndomicílio, é válido, durante o exercício, o \nlicenciamento de origem.  \n(A) V, V, F.  \n(B) F, F, V.  \n(C) V, F, V.  \n(D) F, V, V.  \n(E) Nenhuma das alternativas."
+                "A": "25 gramas (",
+                "B": "250 gramas (",
+                "C": "2.500 gramas (",
+                "D": "25.000 gramas (",
+                "E": "Nenhuma das alternativas Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE ÔNIBUS Página 7 de 9 CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "C"
         },
         {
             "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 28: Durante uma viagem, o condutor está dirigindo \nem uma estrada desconhecida e se depara com \numa série de sinalizações. Ao se aproximar de \numa delas, o condutor se questiona sobre qual a \nsua função. Qual é o objetivo dessa placa de \ntrânsito conforme apresenta do na imagem \nabaixo?",
+            "questão": "Questão 31",
+            "enunciado": "De acordo com o Código de Trânsito Brasileiro, qual das seguintes atividades não é considerada como parte do trânsito? (",
             "alternativas": {
-                "A": "Cruzamento de vias.",
-                "B": "Vias subjacentes à direita.",
-                "C": "Pista sinuosa.",
-                "D": "Sentido permitido.",
-                "E": "Junções sucessivas contrárias.  QUESTÃO 39  \nA função primordial desta componente é \nprevenir a sobrecarga elétrica, como um curto -\ncircuito, que possa resultar em incêndio, sendo \ndimensionada para suportar uma corrente elétrica \nmáxima, em conformidade com os limites dos \ndemais componentes.  \nAgora, observe a imagem abaixo e indique \ncorretamente o nome desta peça utilizada nos \nveículos:  \n \n(A) Cilindro.  \n(B) Sensor de temperatura.  \n(C) Fusível.  \n(D) Pistão.  \n(E) Miolo de ignição."
+                "A": "Utilização das vias por animais. (",
+                "B": "Utilização das vias por pessoas. (",
+                "C": "Utilização das vias por veículos. (",
+                "D": "A utilização das vias por pessoas, veículos e animais, isolados ou em grupos. (",
+                "E": "Atividades de conservação das vias."
             },
             "resposta_correta": "E"
         },
         {
             "cargo": "MOTORISTA DE ÔNIBUS",
-            "disciplina": "CONHECIMENTOS ESPECÍFICOS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
             "id_concurso": "01/2024",
-            "questão": "Questão 29: Durante uma ultrapassagem todo condutor \ndeverá, antes de efetuá -la, certificar -se de que:",
+            "questão": "Questão 32",
+            "enunciado": "Entre os tipos de órgãos e entidades, qual dos apresentados abaixo não compõem o Sistema Nacional de Trânsito, conforme estabelecido? (",
             "alternativas": {
-                "A": "Quem o não precede na mesma faixa de \ntrânsito não haja indicado o propósito de \nultrapassar um terceiro.",
-                "B": "Nenhum condutor que venha atrás haja \ncomeçado uma manobra para ultrapassá -lo.",
-                "C": "Quem o não precede na outra faixa de trânsito \nnão haja indicado o propósito de ultrapassar um \nterceiro.",
-                "D": "A faixa de trânsito que vai tomar esteja \nocupada numa extensão suficiente para que sua \nmanobra não ponha em perigo do mesmo \nsentido.",
-                "E": "A faixa de trânsito que vai tomar esteja livre \nnuma extensão suficiente para que sua manobra \nponha em perigo do mesmo sentido.  \nPrefeitura Municipal de Sete Barras – Concurso Público - 01/2024                                  INSTITUTO AVANÇA SÃO PAULO  \n \nMOTORISTA DE ÔNIBUS                                                                                                                               Página 9 de 9"
+                "A": "Conselhos Estaduais de Trânsito – CETRAN. (",
+                "B": "As Polícias Militares dos Estados e do Distrito Federal. (",
+                "C": "As Juntas Administrativas de Recursos de Penalidades - JARP. (",
+                "D": "Conselho de Trânsito do Distrito Federal – CONTRANDIFE. (",
+                "E": "Conselho Nacional de Trânsito – CONTRAN."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 33",
+            "enunciado": "De acordo com os deveres de um motorista pode - se afirmar que é incumbência de todo condutor de veículo: (",
+            "alternativas": {
+                "A": "Conservar o veículo na mão de direção e na faixa própria. (",
+                "B": "Não guardar distância de segurança entre o veículo que dirige e o que segue imediatamente à sua frente. (",
+                "C": "Não aproximar o veículo da guia da calçada, nas vias urbanas, para embarque ou desembarque de passageiros e carga ou descarga. (",
+                "D": "Dar passagem, pela direita, quando solicitado. (",
+                "E": "Obedecer a horários e normas de utilização da via espacial, fixados pela autoridade de trânsito."
             },
             "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 34",
+            "enunciado": "Nos crimes de trânsito, durante qualquer fase da investigação ou da ação penal, havendo necessidade para a garantia da ordem pública, poderá o juiz, como medida cautelar, de ofício, ou a requerimento do Ministério Público ou ainda mediante representação da autoridade policial, decretar, em decisão motivada a penalidade de: (",
+            "alternativas": {
+                "A": "Apenas a suspensão da permissão ou da habilitação para dirigir veículo automotor. (",
+                "B": "Apenas a proibição da obtenção da habilitação. (",
+                "C": "Cancelamento da permissão ou da habilitação para dirigir veículo automotor, ou a proibição de sua obtenção. (",
+                "D": "Remoção do veículo, apenas. (",
+                "E": "Suspensão da permissão ou da habilitação para dirigir veículo automotor, ou a proibição de sua obtenção."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 35",
+            "enunciado": "Considerando que todos os veículos motorizados são contribuintes para a poluição atmosférica, inclusive aqueles equipados com motores que empregam combustíveis provenientes de fontes renováveis, qual dentre os combustíveis apresenta o maior impacto de polu ição? (",
+            "alternativas": {
+                "A": "Gasolina. (",
+                "B": "Óleo de cozinha reciclado. (",
+                "C": "Diesel. (",
+                "D": "GNV - Gás natural veicular. (",
+                "E": "Hidrogênio."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 36",
+            "enunciado": "Durante uma tarde Luana, uma jovem condutora percorria com seu veículo pelas ruas de São Paulo, ocorre que sua Carteira Nacional de Habilitação era de categoria diferente do veículo que estava conduzindo. Neste caso em tela, qual a Medida Administrativa aplicável a condutora de acordo com a Legislação vigente? (",
+            "alternativas": {
+                "A": "Retenção do veículo até a apresentação de condutor habilitado. (",
+                "B": "Apenas apreensão do veículo. (",
+                "C": "Remoção do veículo. (",
+                "D": "Recolhimento do documento de habilitação (",
+                "E": "Apreensão do veículo e recolhimento do documento de habilitação. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE ÔNIBUS Página 8 de 9 QUESTÃO 37 No que tange o Licenciamento dos veículos, analise as preposições abaixo e assinale a alternativa que apresenta a sequência correta de (V) VERDADEIRO OU F (FALSO): ( ) Todo veículo automotor, articulado, reboque ou semirreboque, para transitar na via, deverá ser licenciado anualmente pelo órgão executivo de trânsito do Estado, ou do Distrito Federal, onde estiver registrado o veículo, inclusive os veículos de uso bél ico; ( ) O primeiro licenciamento será feito simultaneamente ao registro; ( ) No caso de transferência de residência ou domicílio, é válido, durante o exercício, o licenciamento de origem. (A) V, V, F. (B) F, F, V. (C) V, F, V. (D) F, V, V. (E) Nenhuma das alternativas."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 38",
+            "enunciado": "Durante uma viagem, o condutor está dirigindo em uma estrada desconhecida e se depara com uma série de sinalizações. Ao se aproximar de uma delas, o condutor se questiona sobre qual a sua função. Qual é o objetivo dessa placa de trânsito conforme apresenta do na imagem abaixo? (",
+            "alternativas": {
+                "A": "Cruzamento de vias. (",
+                "B": "Vias subjacentes à direita. (",
+                "C": "Pista sinuosa. (",
+                "D": "Sentido permitido. (",
+                "E": "Junções sucessivas contrárias. QUESTÃO 39 A função primordial desta componente é prevenir a sobrecarga elétrica, como um curto - circuito, que possa resultar em incêndio, sendo dimensionada para suportar uma corrente elétrica máxima, em conformidade com os limites dos demais componentes. Agora, observe a imagem abaixo e indique corretamente o nome desta peça utilizada nos veículos: (A) Cilindro. (B) Sensor de temperatura. (C) Fusível. (D) Pistão. (E) Miolo de ignição."
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "MOTORISTA DE ÔNIBUS",
+            "disciplina": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+            "id_concurso": "01/2024",
+            "questão": "Questão 40",
+            "enunciado": "Durante uma ultrapassagem todo condutor deverá, antes de efetuá -la, certificar -se de que: (",
+            "alternativas": {
+                "A": "Quem o não precede na mesma faixa de trânsito não haja indicado o propósito de ultrapassar um terceiro. (",
+                "B": "Nenhum condutor que venha atrás haja começado uma manobra para ultrapassá -lo. (",
+                "C": "Quem o não precede na outra faixa de trânsito não haja indicado o propósito de ultrapassar um terceiro. (",
+                "D": "A faixa de trânsito que vai tomar esteja ocupada numa extensão suficiente para que sua manobra não ponha em perigo do mesmo sentido. (",
+                "E": "A faixa de trânsito que vai tomar esteja livre numa extensão suficiente para que sua manobra ponha em perigo do mesmo sentido. Prefeitura Municipal de Sete Barras – Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO MOTORISTA DE ÔNIBUS Página 9 de 9"
+            },
+            "resposta_correta": "B"
         }
     ]
 }
