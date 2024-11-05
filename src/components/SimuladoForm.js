@@ -3,6 +3,7 @@ import QuestionCard from "./QuestionCard";
 
 const SimuladoForm = () => {
   const [cargoOptions, setCargoOptions] = useState({});
+  const [filteredCargoOptions, setFilteredCargoOptions] = useState([]);
   const [selectedCargo, setSelectedCargo] = useState("");
   const [numQuestions, setNumQuestions] = useState(1);
   const [questions, setQuestions] = useState([]);
@@ -10,11 +11,9 @@ const SimuladoForm = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [errorMessage, setErrorMessage] = useState("");
 
-  // Função para normalizar strings (remove espaços e caracteres especiais, torna minúsculo)
   const normalizeString = (str) =>
     str.toLowerCase().replace(/\s+/g, "").replace(/[^a-z0-9]/g, "");
 
-  // Carrega a lista de cargos ao montar o componente
   useEffect(() => {
     const fetchCargos = async () => {
       setIsLoading(true);
@@ -24,11 +23,10 @@ const SimuladoForm = () => {
           `https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/mapa_cargos.json`
         );
         const cargoList = await response.json();
-        
+
         setCargoOptions(cargoList);
-        console.log("Opções de cargos carregadas:", cargoList);
+        setFilteredCargoOptions(Object.keys(cargoList).sort());
       } catch (error) {
-        console.error("Erro ao carregar a lista de cargos:", error);
         setErrorMessage("Erro ao carregar a lista de cargos. Tente novamente mais tarde.");
       } finally {
         setIsLoading(false);
@@ -42,7 +40,6 @@ const SimuladoForm = () => {
     setIsLoading(true);
     setErrorMessage("");
     setQuestions([]);
-
     try {
       const cargoFile = cargoOptions[cargo];
       if (!cargoFile) throw new Error("Cargo inválido.");
@@ -53,19 +50,14 @@ const SimuladoForm = () => {
       if (!response.ok) throw new Error("Erro ao carregar dados.");
 
       const cargoData = await response.json();
-      console.log("JSON completo do cargo carregado:", cargoData);
 
-      // Normaliza o nome do cargo selecionado
       const normalizedCargo = normalizeString(cargo);
-
-      // Encontra a chave correspondente no JSON usando a normalização
       const cargoKey = Object.keys(cargoData).find(
         (key) => normalizeString(key) === normalizedCargo
       );
 
       if (!cargoKey) throw new Error("Cargo não encontrado no JSON.");
 
-      // Carrega as perguntas do cargo correto
       const perguntas = cargoData[cargoKey];
       if (!Array.isArray(perguntas)) {
         throw new Error("Estrutura de dados inesperada. Verifique o JSON.");
@@ -73,24 +65,36 @@ const SimuladoForm = () => {
 
       setQuestions(perguntas);
       setTotalQuestions(perguntas.length);
-
     } catch (error) {
-      console.error("Erro ao carregar dados do cargo:", error);
       setErrorMessage(error.message);
     } finally {
       setIsLoading(false);
     }
   };
 
-  // Gera as questões aleatórias para o simulado
+  const handleCargoInput = (e) => {
+    const input = e.target.value;
+    setSelectedCargo(input);
+
+    const filtered = Object.keys(cargoOptions)
+      .filter((cargo) =>
+        normalizeString(cargo).includes(normalizeString(input))
+      )
+      .sort();
+
+    setFilteredCargoOptions(filtered);
+
+    if (cargoOptions[input]) {
+      loadCargoData(input);
+    }
+  };
+
   const handleGenerateQuestions = (e) => {
     e.preventDefault();
     if (!selectedCargo || questions.length === 0 || numQuestions <= 0) return;
 
     const selectedQuestions = [];
     const filteredData = [...questions];
-
-    // Garante que o número de questões não exceda o total disponível
     const limit = Math.min(numQuestions, filteredData.length);
 
     for (let i = 0; i < limit; i++) {
@@ -104,43 +108,38 @@ const SimuladoForm = () => {
   return (
     <section className="container mx-auto mt-8">
       <form onSubmit={handleGenerateQuestions} className="bg-white p-6 shadow rounded mx-auto max-w-lg">
-        <div className="mb-4">
+        <div className="mb-4 relative">
           <label htmlFor="cargo" className="block text-gray-700">
             Selecione o Cargo:
           </label>
-          <select
+          <input
+            type="text"
             id="cargo"
             className="border border-gray-300 rounded p-2 w-full"
             value={selectedCargo}
-            onChange={(e) => {
-              setSelectedCargo(e.target.value);
-              loadCargoData(e.target.value);
-            }}
+            onChange={handleCargoInput}
             disabled={isLoading}
-          >
-            <option value="">Selecione...</option>
-            {Object.keys(cargoOptions).map((cargo) => (
-              <option key={cargo} value={cargo}>
-                {cargo}
-              </option>
-            ))}
-          </select>
-        </div>
-        <div className="mb-4">
-          <label htmlFor="numero-questoes" className="block text-gray-700">
-            Número de Questões:
-          </label>
-          <input
-            type="number"
-            id="numero-questoes"
-            className="border border-gray-300 rounded p-2 w-full"
-            value={numQuestions}
-            onChange={(e) => setNumQuestions(Number(e.target.value))}
-            min="1"
-            max={totalQuestions}
-            disabled={isLoading}
+            placeholder="Digite para pesquisar..."
           />
+          {selectedCargo && filteredCargoOptions.length > 0 && (
+            <ul className="absolute bg-white border border-gray-300 rounded w-full mt-1 max-h-48 overflow-y-auto">
+              {filteredCargoOptions.map((cargo) => (
+                <li
+                  key={cargo}
+                  onClick={() => {
+                    setSelectedCargo(cargo);
+                    loadCargoData(cargo);
+                    setFilteredCargoOptions([]);
+                  }}
+                  className="p-2 cursor-pointer hover:bg-gray-200"
+                >
+                  {cargo}
+                </li>
+              ))}
+            </ul>
+          )}
         </div>
+
         <button type="submit" className="bg-gray-700 text-white px-4 py-2 rounded" disabled={isLoading}>
           {isLoading ? "Carregando..." : "Gerar Simulado"}
         </button>

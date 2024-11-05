@@ -22,15 +22,15 @@ const Footer = () => {
 
   return (
     <footer
-      className={`fixed bottom-0 left-0 right-0 text-center p-4 bg-gray-800 text-gray-200 shadow-lg transition-opacity duration-300 ${isVisible ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
+      className={`fixed bottom-0 left-0 right-0 text-center p-2 bg-gradient-to-r from-gray-900 to-gray-800 text-white shadow-lg transition-opacity duration-300 ${isVisible ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
     >
-      <p>
-        &copy; 2024 Concurseira Pobre, feito por{" "}
+      <p className="text-sm">
+        &copy; 2024 Concurseira Pobre |{" "}
         <a
           href="https://hericmr.github.io/me"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-blue-400 hover:underline"
+          className="text-blue-200 hover:underline"
         >
           Héric Moura
         </a>

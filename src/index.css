@@ -13,6 +13,10 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Adicione isso ao seu arquivo CSS ou estilo global */
+body {
+  background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradiente de laranja para amarelo */
+}
 
 /* Estilo para os cabeçalhos */
 h1 {
