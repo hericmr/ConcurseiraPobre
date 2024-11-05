@@ -4,43 +4,58 @@
             "cargo": "AGENTE FISCAL DE POSTURAS",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
-            "questão": "Questão 0",
-            "enunciado": "Pela leitura inicial do texto, percebe -se que o autor descreve o personagem como um homem: (",
+            "questão": "Questão  1",
+            "enunciado": "Pela leitura inicial do texto, percebe -se que o autor descreve o personagem como um homem:",
             "alternativas": {
-                "A": "triste e azarado. (",
-                "B": "triste e solitário. (",
-                "C": "trabalhador e azarado. (",
-                "D": "preguiçoso, porém sortudo. (",
+                "A": "triste e azarado.",
+                "B": "triste e solitário.",
+                "C": "trabalhador e azarado.",
+                "D": "preguiçoso, porém sortudo.",
                 "E": "preguiçoso e sonhador."
             },
-            "resposta_correta": "Não encontrada"
+            "resposta_correta": "B"
         },
         {
             "cargo": "AGENTE FISCAL DE POSTURAS",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
-            "questão": "Questão 0",
-            "enunciado": "De qual forma o personagem do texto acreditava que ganharia sua independência? (",
+            "questão": "Questão  2",
+            "enunciado": "De qual forma o personagem do texto acreditava que ganharia sua independência?",
             "alternativas": {
-                "A": "trabalhando como marceneiro. (",
-                "B": "juntando dinheiro. (",
-                "C": "ganhando na loteria. (",
-                "D": "abrindo um novo negócio. (",
-                "E": "comprando uma casa. Prefeitura Municipal de Laranjal Paulista - SP – Concurso Público 01/2022 INSTITUTO AVANÇA SÃO PAULO AGENTE FISCAL DE POSTURAS Página 3 de 11 QUESTÃO 0 3 No trecho “ José fechou imediatamente a loja...”, temos em destaque um advérbio de: (A) intensidade. (B) tempo. (C) modo. (D) lugar. (E) afirmação."
+                "A": "trabalhando como marceneiro.",
+                "B": "juntando dinheiro.",
+                "C": "ganhando na loteria.",
+                "D": "abrindo um novo negócio.",
+                "E": "comprando uma casa."
             },
-            "resposta_correta": "Não encontrada"
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "AGENTE FISCAL DE POSTURAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão  3",
+            "enunciado": "No trecho “ José fechou imediatamente a loja...”, temos em destaque um advérbio de:",
+            "alternativas": {
+                "A": "intensidade.",
+                "B": "tempo.",
+                "C": "modo.",
+                "D": "lugar.",
+                "E": "afirmação."
+            },
+            "resposta_correta": "B"
         },
         {
             "cargo": "AGENTE FISCAL DE POSTURAS",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 4",
-            "enunciado": "Assinale a sequência em que todas as palavras estão grafadas corretamente: (",
+            "enunciado": "Assinale a sequência em que todas as palavras estão grafadas corretamente:",
             "alternativas": {
-                "A": "assassino / execrável / exsudação. (",
-                "B": "obcessão / assessor / oximoro. (",
-                "C": "exelso/ excessivo / exultante (",
-                "D": "exceler / possessivo / exersão. (",
+                "A": "assassino / execrável / exsudação.",
+                "B": "obcessão / assessor / oximoro.",
+                "C": "exelso/ excessivo / exultante",
+                "D": "exceler / possessivo / exersão.",
                 "E": "excrecência / exacerbado / exumassão."
             },
             "resposta_correta": "A"
@@ -50,12 +65,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 5",
-            "enunciado": "Em: “Gosto do entardecer na praia.” a palavra em destaque tem sua formação pelo processo de: (",
+            "enunciado": "Em: “Gosto do entardecer na praia.” a palavra em destaque tem sua formação pelo processo de:",
             "alternativas": {
-                "A": "Derivação prefixal. (",
-                "B": "Derivação imprópria. (",
-                "C": "Derivação parassintética. (",
-                "D": "Derivação prefixal e sufixal. (",
+                "A": "Derivação prefixal.",
+                "B": "Derivação imprópria.",
+                "C": "Derivação parassintética.",
+                "D": "Derivação prefixal e sufixal.",
                 "E": "Derivação sufixal. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "C"
@@ -65,12 +80,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 6",
-            "enunciado": "Em uma rua, dois postes estão com as lâmpadas com defeito, elas “piscam” com frequências diferentes. O primeiro poste “pisca” 20 vezes em dois minutos e o segundo “pisca” 30 vezes em um minuto. Se em um certo instante, as luzes “piscam”, simulta neamente, após quantos segundos elas voltarão a “piscar”, simultaneamente ? (",
+            "enunciado": "Em uma rua, dois postes estão com as lâmpadas com defeito, elas “piscam” com frequências diferentes. O primeiro poste “pisca” 20 vezes em dois minutos e o segundo “pisca” 30 vezes em um minuto. Se em um certo instante, as luzes “piscam”, simulta neamente, após quantos segundos elas voltarão a “piscar”, simultaneamente ?",
             "alternativas": {
-                "A": "2 segundos. (",
-                "B": "4 segundos. (",
-                "C": "6 segundos. (",
-                "D": "8 segundos. (",
+                "A": "2 segundos.",
+                "B": "4 segundos.",
+                "C": "6 segundos.",
+                "D": "8 segundos.",
                 "E": "10 segundos."
             },
             "resposta_correta": "C"
@@ -80,12 +95,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 7",
-            "enunciado": "Um professor de matemática resolveu fazer um desafio com seus alunos, onde o vencedor ganharia um prêmio especial. Seus alunos deveriam encontrar os dois números em que o triplo do maior s omado com o dobro do menor daria -5 e o maior deles s ubtraído com dobro do menor d aria -7. Os números encontrados foram: (",
+            "enunciado": "Um professor de matemática resolveu fazer um desafio com seus alunos, onde o vencedor ganharia um prêmio especial. Seus alunos deveriam encontrar os dois números em que o triplo do maior s omado com o dobro do menor daria -5 e o maior deles s ubtraído com dobro do menor d aria -7. Os números encontrados foram:",
             "alternativas": {
-                "A": "-2 e 3. (",
-                "B": "-2 e 4. (",
-                "C": "-3 e 2. (",
-                "D": "2 e 4. (",
+                "A": "-2 e 3.",
+                "B": "-2 e 4.",
+                "C": "-3 e 2.",
+                "D": "2 e 4.",
                 "E": "-4 e -2."
             },
             "resposta_correta": "C"
@@ -95,12 +110,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 8",
-            "enunciado": "Dona Maria contratou um pedreiro para reformar o banheiro de sua casa. O custo do serviço foi calculado com base na relação algébrica, a seguir. Em que, C é o valor pago em reais e H é o tempo de trab alho em horas: C = 𝟑𝟎𝟎 +(𝐇 – 𝟐) . 𝟏𝟎𝟎 𝟐 Se o pedreiro trabalhou 20 horas na casa de dona Maria, quanto ela pagou pelo serviço ? (",
+            "enunciado": "Dona Maria contratou um pedreiro para reformar o banheiro de sua casa. O custo do serviço foi calculado com base na relação algébrica, a seguir. Em que, C é o valor pago em reais e H é o tempo de trab alho em horas: C = 𝟑𝟎𝟎 +(𝐇 – 𝟐) . 𝟏𝟎𝟎 𝟐 Se o pedreiro trabalhou 20 horas na casa de dona Maria, quanto ela pagou pelo serviço ?",
             "alternativas": {
-                "A": "R$ 1 .000,00 (",
-                "B": "R$ 1 .200,00 (",
-                "C": "R$ 1 .500,00 (",
-                "D": "R$ 2 .150,00 (",
+                "A": "R$ 1 .000,00",
+                "B": "R$ 1 .200,00",
+                "C": "R$ 1 .500,00",
+                "D": "R$ 2 .150,00",
                 "E": "R$ 2 .200,00 Prefeitura Municipal de Laranjal Paulista - SP – Concurso Público 01/2022 INSTITUTO AVANÇA SÃO PAULO AGENTE FISCAL DE POSTURAS Página 4 de 11 QUESTÃO 09 A potência de um ponto P, exterior a uma circunferência é 40 cm² e o raio da circunferência mede 9 cm. A distância do ponto P ao centro da circunferência é de: (A) 11 cm (B) 13 cm (C) 14 cm (D) 16 cm (E) 17 cm"
             },
             "resposta_correta": "B"
@@ -110,12 +125,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 10",
-            "enunciado": "Um investidor aplicou o valor de R $ 2.500,00 a juros simples, durante 5 meses. Com a taxa de aplicação de 5% ao mês. O montante, após a aplicação, foi de: (",
+            "enunciado": "Um investidor aplicou o valor de R $ 2.500,00 a juros simples, durante 5 meses. Com a taxa de aplicação de 5% ao mês. O montante, após a aplicação, foi de:",
             "alternativas": {
-                "A": "R$ 2 .550,00 (",
-                "B": "R$ 4 .040,00 (",
-                "C": "R$ 625,00 (",
-                "D": "R$ 3 .350,00 (",
+                "A": "R$ 2 .550,00",
+                "B": "R$ 4 .040,00",
+                "C": "R$ 625,00",
+                "D": "R$ 3 .350,00",
                 "E": "R$ 3 .125,00 ATUALIDADES"
             },
             "resposta_correta": "E"
@@ -125,12 +140,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 11",
-            "enunciado": "Pelo menos 19 crianças e dois professores morreram após um atirador fazer diversos disparos, na tarde do dia 24 de maio de 2022, na Robb Elementary School, uma escola localizada na cidade de Uvalde, no estado norte -americano: (",
+            "enunciado": "Pelo menos 19 crianças e dois professores morreram após um atirador fazer diversos disparos, na tarde do dia 24 de maio de 2022, na Robb Elementary School, uma escola localizada na cidade de Uvalde, no estado norte -americano:",
             "alternativas": {
-                "A": "Califórnia. (",
-                "B": "Nova Jérse i. (",
-                "C": "Flórida. (",
-                "D": "Texas. (",
+                "A": "Califórnia.",
+                "B": "Nova Jérse i.",
+                "C": "Flórida.",
+                "D": "Texas.",
                 "E": "Novo México."
             },
             "resposta_correta": "D"
@@ -140,12 +155,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 12",
-            "enunciado": "No dia 11 de agosto de 2022, foi lida a Manifestação em Defesa da Democracia e do Estado Democrático de Direito Sempre, com a assinatura de vários juristas, artistas, políticos de diversos partidos e da população, em defesa da Democracia, no Pátio das Arcadas, na Faculdade de Direito da : (",
+            "enunciado": "No dia 11 de agosto de 2022, foi lida a Manifestação em Defesa da Democracia e do Estado Democrático de Direito Sempre, com a assinatura de vários juristas, artistas, políticos de diversos partidos e da população, em defesa da Democracia, no Pátio das Arcadas, na Faculdade de Direito da :",
             "alternativas": {
-                "A": "UNIFESP. (",
-                "B": "PUC -SP. (",
-                "C": "USP. (",
-                "D": "UNICAMP. (",
+                "A": "UNIFESP.",
+                "B": "PUC -SP.",
+                "C": "USP.",
+                "D": "UNICAMP.",
                 "E": "UNESP."
             },
             "resposta_correta": "C"
@@ -155,12 +170,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 13",
-            "enunciado": "A ex presidenta da Argentina, Cristina Kirchner, sofreu um atentado, do qual saiu ilesa, perpetrado pelo brasileiro Fernando Andrés Sabag Montiel, no bairro da Recoleta, em Buenos Aires. Cristina Kirchner, atualmente, exerce o cargo de: (",
+            "enunciado": "A ex presidenta da Argentina, Cristina Kirchner, sofreu um atentado, do qual saiu ilesa, perpetrado pelo brasileiro Fernando Andrés Sabag Montiel, no bairro da Recoleta, em Buenos Aires. Cristina Kirchner, atualmente, exerce o cargo de:",
             "alternativas": {
-                "A": "Ministra da Economia. (",
-                "B": "Prefeita de Buenos Aires. (",
-                "C": "Presidenta da Câmara dos Deputados. (",
-                "D": "Governadora da Patagônia. (",
+                "A": "Ministra da Economia.",
+                "B": "Prefeita de Buenos Aires.",
+                "C": "Presidenta da Câmara dos Deputados.",
+                "D": "Governadora da Patagônia.",
                 "E": "Vice -Presidenta."
             },
             "resposta_correta": "E"
@@ -170,13 +185,13 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 14",
-            "enunciado": "O Papa Francisco, nomeou no último consistório 20 novos cardeais, entre eles os brasileiros dom Paulo Cezar Costa e dom Leonardo Ulrich Steiner , que são arcebispos das arquidioceses, respectivamente: (",
+            "enunciado": "O Papa Francisco, nomeou no último consistório 20 novos cardeais, entre eles os brasileiros dom Paulo Cezar Costa e dom Leonardo Ulrich Steiner , que são arcebispos das arquidioceses, respectivamente:",
             "alternativas": {
-                "A": "Macapá e Fortaleza. (",
-                "B": "Brasília e Manaus (",
-                "C": "Campo Grande e Belém. (",
-                "D": "Brasília e Salvador. (",
-                "E": "Manaus e Recife Prefeitura Municipal de Laranjal Paulista - SP – Concurso Público 01/2022 INSTITUTO AVANÇA SÃO PAULO AGENTE FISCAL DE POSTURAS Página 5 de 11 QUESTÃO 15 Complete a lacuna no texto abaixo, com a alternativa correta. Após o presidente Jair Bolsonaro, num debate na TV, acusar o presidente do ___________ de ter ateado fogo no metrô num protesto, o embaixador do Brasil neste país, foi convocado pelo presidente para prestar esclarecimentos. (A) Chile. (B) Bolívia. (C) Colômbia (D) Venezuela. (E) Nicarágua. NOÇÕES DE INFORMÁTICA"
+                "A": "Macapá e Fortaleza.",
+                "B": "Brasília e Manaus",
+                "C": "Campo Grande e Belém.",
+                "D": "Brasília e Salvador.",
+                "E": "Manaus e Recife"
             },
             "resposta_correta": "B"
         },
@@ -184,13 +199,28 @@
             "cargo": "AGENTE FISCAL DE POSTURAS",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
-            "questão": "Questão 16",
-            "enunciado": "É o principal elemento da Barra de Tarefas do Windows 7: (",
+            "questão": "Questão 15",
+            "enunciado": "Complete a lacuna no texto abaixo, com a alternativa correta. Após o presidente Jair Bolsonaro, num debate na TV, acusar o presidente do ___________ de ter ateado fogo no metrô num protesto, o embaixador do Brasil neste país, foi convocado pelo presidente para prestar esclarecimentos.",
             "alternativas": {
-                "A": "flip board. (",
-                "B": "Windows Aero. (",
-                "C": "relógio. (",
-                "D": "lixeira. (",
+                "A": "Chile.",
+                "B": "Bolívia.",
+                "C": "Colômbia",
+                "D": "Venezuela.",
+                "E": "Nicarágua. NOÇÕES DE INFORMÁTICA"
+            },
+            "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE FISCAL DE POSTURAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 16",
+            "enunciado": "É o principal elemento da Barra de Tarefas do Windows 7:",
+            "alternativas": {
+                "A": "flip board.",
+                "B": "Windows Aero.",
+                "C": "relógio.",
+                "D": "lixeira.",
                 "E": "botão Iniciar."
             },
             "resposta_correta": "E"
@@ -200,12 +230,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 17",
-            "enunciado": "É o aplicativo de edição de imagens do Windows 7: (",
+            "enunciado": "É o aplicativo de edição de imagens do Windows 7:",
             "alternativas": {
-                "A": "XPS. (",
-                "B": "Lupa. (",
-                "C": "Paint. (",
-                "D": "Projetor. (",
+                "A": "XPS.",
+                "B": "Lupa.",
+                "C": "Paint.",
+                "D": "Projetor.",
                 "E": "Windows Fax."
             },
             "resposta_correta": "C"
@@ -215,12 +245,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 18",
-            "enunciado": "CTRL Z é o atalho do MS Word 2016 para: (",
+            "enunciado": "CTRL Z é o atalho do MS Word 2016 para:",
             "alternativas": {
-                "A": "Copiar um texto selecionado. (",
-                "B": "Desfazer ações. (",
-                "C": "Refazer ações. (",
-                "D": "Recortar um texto selecionado. (",
+                "A": "Copiar um texto selecionado.",
+                "B": "Desfazer ações.",
+                "C": "Refazer ações.",
+                "D": "Recortar um texto selecionado.",
                 "E": "Salvar um documento."
             },
             "resposta_correta": "B"
@@ -230,12 +260,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 19",
-            "enunciado": "No MS Power Point 2016, .potx representa: (",
+            "enunciado": "No MS Power Point 2016, .potx representa:",
             "alternativas": {
-                "A": "extensão modelo de arquivo para apresentação de slides. (",
-                "B": "extensão padrão do documento do PowerPoint para edição. (",
-                "C": "arquivo do PowerPoint habilitado para macros. (",
-                "D": "O arquivo é aberto somente para formatação . (",
+                "A": "extensão modelo de arquivo para apresentação de slides.",
+                "B": "extensão padrão do documento do PowerPoint para edição.",
+                "C": "arquivo do PowerPoint habilitado para macros.",
+                "D": "O arquivo é aberto somente para formatação .",
                 "E": "cria, abre, edita e salva arquivos do LibreOffice Impress."
             },
             "resposta_correta": "A"
@@ -245,13 +275,13 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 20",
-            "enunciado": "Observe a imagem: Considerando o Microsoft Excel 2016, qual o resultado demonstrado pela fórmula aplicada? (",
+            "enunciado": "Observe a imagem: Considerando o Microsoft Excel 2016, qual o resultado demonstrado pela fórmula aplicada?",
             "alternativas": {
-                "A": "16. (",
-                "B": "20. (",
-                "C": "21,5. (",
-                "D": "25. (",
-                "E": "30. Prefeitura Municipal de Laranjal Paulista - SP – Concurso Público 01/2022 INSTITUTO AVANÇA SÃO PAULO AGENTE FISCAL DE POSTURAS Página 6 de 11 CONHECIMENTOS ESPECÍFICOS"
+                "A": "16.",
+                "B": "20.",
+                "C": "21,5.",
+                "D": "25.",
+                "E": "30."
             },
             "resposta_correta": "C"
         },
@@ -260,12 +290,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 21",
-            "enunciado": "Analise os itens, abaixo, sobre o Código de Proteção e Defesa do Consumidor: I - Produto é qualquer bem, móvel ou imóvel, material ou imaterial. II - Consumidor é toda pessoa física ou jurídica que adquire ou utiliza pr oduto ou serviço como destinatário final. III - Serviço é qualquer atividade fornecida no mercado de consumo, mediante remuneração, inclusive as de natureza bancária, financeira, de crédito e securitária, salvo as decorrentes das relações de caráter trabal hista. É correto o que se afirma em: (",
+            "enunciado": "Analise os itens, abaixo, sobre o Código de Proteção e Defesa do Consumidor: I - Produto é qualquer bem, móvel ou imóvel, material ou imaterial. II - Consumidor é toda pessoa física ou jurídica que adquire ou utiliza pr oduto ou serviço como destinatário final. III - Serviço é qualquer atividade fornecida no mercado de consumo, mediante remuneração, inclusive as de natureza bancária, financeira, de crédito e securitária, salvo as decorrentes das relações de caráter trabal hista. É correto o que se afirma em:",
             "alternativas": {
-                "A": "I, apenas. (",
-                "B": "I e II, apenas. (",
-                "C": "III, apenas. (",
-                "D": "II e III, apenas. (",
+                "A": "I, apenas.",
+                "B": "I e II, apenas.",
+                "C": "III, apenas.",
+                "D": "II e III, apenas.",
                 "E": "I, II e III."
             },
             "resposta_correta": "E"
@@ -275,12 +305,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 22",
-            "enunciado": "O Código de Proteção e Defesa do Consumidor relata que para a execução da Política Nacional das Relações de Consumo, contará o poder público com alguns instrumentos. Desses instrumentos, é o destinado para a solução de litígios de consumo: (",
+            "enunciado": "O Código de Proteção e Defesa do Consumidor relata que para a execução da Política Nacional das Relações de Consumo, contará o poder público com alguns instrumentos. Desses instrumentos, é o destinado para a solução de litígios de consumo:",
             "alternativas": {
-                "A": "instituição de núcleos de conciliação e mediação de conflitos oriundos de superendividamento. (",
-                "B": "criação de Juizados Especiais de Pequenas Causas e Varas Especializadas (",
-                "C": "concessão de estímulos à criação e desenvolvimento das Associações de Defesa do Consumidor. (",
-                "D": "instituição de Promotorias de Justiça de Defesa do Consumidor. (",
+                "A": "instituição de núcleos de conciliação e mediação de conflitos oriundos de superendividamento.",
+                "B": "criação de Juizados Especiais de Pequenas Causas e Varas Especializadas",
+                "C": "concessão de estímulos à criação e desenvolvimento das Associações de Defesa do Consumidor.",
+                "D": "instituição de Promotorias de Justiça de Defesa do Consumidor.",
                 "E": "criação de delegacias de polícia especializadas no atendimento de consumidores vítimas de infrações penais de consumo QUESTÃO 23 Entre os direitos básicos do consumidor, trazidos pelo Art. 6º do Código de Proteção e Defesa do Consumidor, temos O ACESSO : (A) à adequada e eficaz prestação dos serviços públicos em geral. (B) à publicidade enganosa e abusiva, métodos comerciais coercitivos ou desleais, bem como contra práticas e cláusulas abusivas ou impostas no fornecimento de produtos e serviços (C) das cláusu las contratuais que estabeleçam prestações desproporcionais ou sua revisão em razão de fatos supervenientes que as tornem , excessivamente , onerosas. (D) aos órgãos judiciários e administrativos com vistas à prevenção ou reparação de danos patrimoniais e morais, individuais, coletivos ou difusos, assegurada a proteção Jurídica, administrativa e técnica aos necessitados. (E) à inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou q uando for ele hipossuficiente, segundo as regras ordinárias de experiências"
             },
             "resposta_correta": "B"
@@ -290,12 +320,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "A Política Nacional do Meio Ambiente tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida, visando assegurar, no País, condições ao desenvolvimento socioeconômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana, atendidos a alguns princípios. Desses princípios, a Política discorre sobre RECUPERAÇÃO : (",
+            "enunciado": "A Política Nacional do Meio Ambiente tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida, visando assegurar, no País, condições ao desenvolvimento socioeconômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana, atendidos a alguns princípios. Desses princípios, a Política discorre sobre RECUPERAÇÃO :",
             "alternativas": {
-                "A": "do uso do solo, do subsolo, da água e do ar. (",
-                "B": "do uso dos recursos ambientais. (",
-                "C": "do estado da qualidade ambiental. (",
-                "D": "das atividades potencial ou efetivamente poluidoras. (",
+                "A": "do uso do solo, do subsolo, da água e do ar.",
+                "B": "do uso dos recursos ambientais.",
+                "C": "do estado da qualidade ambiental.",
+                "D": "das atividades potencial ou efetivamente poluidoras.",
                 "E": "de áreas degradadas. Prefeitura Municipal de Laranjal Paulista - SP – Concurso Público 01/2022 INSTITUTO AVANÇA SÃO PAULO AGENTE FISCAL DE POSTURAS Página 7 de 11 QUESTÃO 25 Pelo Código de Proteção e Defesa do Consumidor é incorreto afirmar que: (A) O fornecedor poderá colocar no mercado de consumo produto ou serviço que sabe ou deveria saber apresentar alto grau de nocividade ou periculosidade à saúde ou segurança. (B) O fornecedor de produtos e serviços , potencialmente , nocivos ou perigosos à saúde ou segurança deverá informar, de maneira ostensiva e adequada, a respeito da sua nocividade ou periculosidade, sem prejuízo da adoção de outras medidas cabíveis em cada caso concreto. (C) O fornecedor deverá higienizar os equipamentos e utensílios utilizados no fornecimento de produtos ou serviços, ou colocados à disposição do consumidor, e informar, de maneira ostensiva e adequada, quando for o caso, sobre o risco de contaminação. (D) O fabricante, o produtor, o construtor, nacional ou estrangeiro, e o importador respondem, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos decorrentes de projeto, fabricação, construção, montagem, fórmulas, manipulação, apresentação ou acondicionamento de seus p rodutos, bem como por informações insuficientes ou inadequadas sobre sua utilização e riscos. (E) Os produtos e serviços colocados no mercado de consumo não acarretarão riscos à saúde ou segurança dos consumidores, exceto os considerados normais e previsíveis em decorrência de sua natureza e fruição, obrigando -se os fornecedores, em qualquer hipótese, a dar as informações necessárias e adequadas a seu respeito."
             },
             "resposta_correta": "E"
@@ -305,12 +335,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 26",
-            "enunciado": "Pela NBR 9050:2020: I – acessibilidade é a possibilidade e condição de al cance, percepção e entendimento para utilização, com segurança e autonomia, de espaços, mobiliários, equipamentos urbanos, edificações, transportes, informação e comunicação, inclusive seus sistemas e tecnologias, bem como outros serviços e instalações abe rtos ao público, de uso público ou privado de uso coletivo, tanto na zona urbana como na rural, por pessoa com deficiência ou mobilidade reduzida. II – acessível são espaços, mobiliários, equipamentos urbanos, edificações, transportes, informação e comunic ação, inclusive seus sistemas e tecnologias ou elemento que possa ser alcançado, acionado, utilizado e vivenciado por qualquer pessoa. III – adaptado é espaço, edificação, mobiliário, equipamento urbano ou elemento cujas características foram originalmente planejadas para serem acessíveis . É correto o que se afirma em: (",
+            "enunciado": "Pela NBR 9050:2020: I – acessibilidade é a possibilidade e condição de al cance, percepção e entendimento para utilização, com segurança e autonomia, de espaços, mobiliários, equipamentos urbanos, edificações, transportes, informação e comunicação, inclusive seus sistemas e tecnologias, bem como outros serviços e instalações abe rtos ao público, de uso público ou privado de uso coletivo, tanto na zona urbana como na rural, por pessoa com deficiência ou mobilidade reduzida. II – acessível são espaços, mobiliários, equipamentos urbanos, edificações, transportes, informação e comunic ação, inclusive seus sistemas e tecnologias ou elemento que possa ser alcançado, acionado, utilizado e vivenciado por qualquer pessoa. III – adaptado é espaço, edificação, mobiliário, equipamento urbano ou elemento cujas características foram originalmente planejadas para serem acessíveis . É correto o que se afirma em:",
             "alternativas": {
-                "A": "I, apenas. (",
-                "B": "I e II, apenas. (",
-                "C": "III, apenas. (",
-                "D": "II e III, apenas. (",
+                "A": "I, apenas.",
+                "B": "I e II, apenas.",
+                "C": "III, apenas.",
+                "D": "II e III, apenas.",
                 "E": "I, II e III."
             },
             "resposta_correta": "B"
@@ -320,13 +350,13 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 27",
-            "enunciado": "Pela NBR 9050:2020 o espaço livre de obstáculos, destinado ao uso de todas as pessoas, denomina -se: (",
+            "enunciado": "Pela NBR 9050:2020 o espaço livre de obstáculos, destinado ao uso de todas as pessoas, denomina -se:",
             "alternativas": {
-                "A": "área de circulação. (",
-                "B": "área de aproximação. (",
-                "C": "área de refúgio. (",
-                "D": "área de resgate. (",
-                "E": "área de transferência. Prefeitura Municipal de Laranjal Paulista - SP – Concurso Público 01/2022 INSTITUTO AVANÇA SÃO PAULO AGENTE FISCAL DE POSTURAS Página 8 de 11 QUESTÃO 28 Pela NBR 9050:2020 o espaço livre de obstáculos, correspondente no mínimo a um módulo de referência, a ser utilizado para transferência por pessoa com deficiência ou mobilidade reduzida, observando as áreas de circulação e manobra, denomina -se: (A) área de circulação. (B) área de aproximação. (C) área de refúgio. (D) área de resgate. (E) área de transferência."
+                "A": "área de circulação.",
+                "B": "área de aproximação.",
+                "C": "área de refúgio.",
+                "D": "área de resgate.",
+                "E": "área de transferência."
             },
             "resposta_correta": "A"
         },
@@ -334,13 +364,28 @@
             "cargo": "AGENTE FISCAL DE POSTURAS",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
-            "questão": "Questão 29",
-            "enunciado": "Como é definido, pela NBR 9050:2020 “fatores de impedância ”? (",
+            "questão": "Questão 28",
+            "enunciado": "Pela NBR 9050:2020 o espaço livre de obstáculos, correspondente no mínimo a um módulo de referência, a ser utilizado para transferência por pessoa com deficiência ou mobilidade reduzida, observando as áreas de circulação e manobra, denomina -se:",
             "alternativas": {
-                "A": "todos os bens públicos e privados, de utilidade pública, destinados à prestação de serviços necessários ao funcionamento da cidade, em espaços públicos e privados. (",
-                "B": "qualquer dispositivo de comando, acionamento, comutação ou comunicação, como, por exemp lo, telefones, intercomunicadores, interruptores, torneiras, registros, válvulas, botoeiras, painéis de comando, entre outros. (",
-                "C": "elemento edificado ou instalado junto aos limites laterais das superfícies de piso, destinado a definir claramente os limites da área de circulação de pedestres. (",
-                "D": "indicação luminosa de permissão ou impedimento de locomoção na faixa apropriada. (",
+                "A": "área de circulação.",
+                "B": "área de aproximação.",
+                "C": "área de refúgio.",
+                "D": "área de resgate.",
+                "E": "área de transferência."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE FISCAL DE POSTURAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 29",
+            "enunciado": "Como é definido, pela NBR 9050:2020 “fatores de impedância ”?",
+            "alternativas": {
+                "A": "todos os bens públicos e privados, de utilidade pública, destinados à prestação de serviços necessários ao funcionamento da cidade, em espaços públicos e privados.",
+                "B": "qualquer dispositivo de comando, acionamento, comutação ou comunicação, como, por exemp lo, telefones, intercomunicadores, interruptores, torneiras, registros, válvulas, botoeiras, painéis de comando, entre outros.",
+                "C": "elemento edificado ou instalado junto aos limites laterais das superfícies de piso, destinado a definir claramente os limites da área de circulação de pedestres.",
+                "D": "indicação luminosa de permissão ou impedimento de locomoção na faixa apropriada.",
                 "E": "elementos ou condições que possam interferir no fluxo de pedestres, como, por exemplo, mobiliário urbano, entradas de edificações junto ao alinhamento, vitrines junto ao alinhamento, vegetação, postes de sinalização, entre outros."
             },
             "resposta_correta": "E"
@@ -350,12 +395,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 30",
-            "enunciado": "A Política Nacional do Meio Ambiente tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida, visando assegurar, no País, condições ao desenvolvimento socioeconômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana, atendidos a alguns princípios. Desses princípios, a Política discorre sobre ACOMPANHAMENTO : (",
+            "enunciado": "A Política Nacional do Meio Ambiente tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida, visando assegurar, no País, condições ao desenvolvimento socioeconômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana, atendidos a alguns princípios. Desses princípios, a Política discorre sobre ACOMPANHAMENTO :",
             "alternativas": {
-                "A": "do uso do solo, do subsolo, da água e do ar. (",
-                "B": "do uso dos recursos ambientais. (",
-                "C": "do estado da qualidade ambiental. (",
-                "D": "das atividades potencial ou efetivamente poluidoras. (",
+                "A": "do uso do solo, do subsolo, da água e do ar.",
+                "B": "do uso dos recursos ambientais.",
+                "C": "do estado da qualidade ambiental.",
+                "D": "das atividades potencial ou efetivamente poluidoras.",
                 "E": "de áreas degradadas."
             },
             "resposta_correta": "C"
@@ -365,13 +410,13 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 31",
-            "enunciado": "A Política Nacional do Meio Ambiente visará À COMPATIBILIZAÇÃO : (",
+            "enunciado": "A Política Nacional do Meio Ambiente visará À COMPATIBILIZAÇÃO :",
             "alternativas": {
-                "A": "dos recursos ambientais com vistas à sua utilização racional e disponibilidade permanente, concorrendo para a manutenção do equilíbrio ecológico propício à vida. (",
-                "B": "de pesquisas e de tecnologias nacionais orientadas para o uso racional de recursos ambien tais. (",
-                "C": "do desenvolvimento econômico -social com a preservação da qualidade do meio ambiente e do equilíbrio ecológico. (",
-                "D": "de critérios e padrões de qualidade ambiental e de normas relativas ao uso e manejo de recursos ambientais. (",
-                "E": "de áreas prioritári as de ação governamental relativa à qualidade e ao equilíbrio ecológico, atendendo aos interesses da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios. Prefeitura Municipal de Laranjal Paulista - SP – Concurso Público 01/2022 INSTITUTO AVANÇA SÃO PAULO AGENTE FISCAL DE POSTURAS Página 9 de 11 QUESTÃO 32 Sobre as sanções penais e administrativas derivadas de condutas e a tividades lesivas ao meio ambiente , são penas restritivas de direito, exceto: (A) prestação pecuniária. (B) interdição temporária de direitos. (C) prestação de serviços à comunidade. (D) extradição. (E) suspensão parcial ou total de atividades."
+                "A": "dos recursos ambientais com vistas à sua utilização racional e disponibilidade permanente, concorrendo para a manutenção do equilíbrio ecológico propício à vida.",
+                "B": "de pesquisas e de tecnologias nacionais orientadas para o uso racional de recursos ambien tais.",
+                "C": "do desenvolvimento econômico -social com a preservação da qualidade do meio ambiente e do equilíbrio ecológico.",
+                "D": "de critérios e padrões de qualidade ambiental e de normas relativas ao uso e manejo de recursos ambientais.",
+                "E": "de áreas prioritári as de ação governamental relativa à qualidade e ao equilíbrio ecológico, atendendo aos interesses da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios."
             },
             "resposta_correta": "C"
         },
@@ -379,13 +424,28 @@
             "cargo": "AGENTE FISCAL DE POSTURAS",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
-            "questão": "Questão 33",
-            "enunciado": "Matar, perseguir, caçar, apanhar, utilizar espécimes da fauna silvestre, nativos ou em rota migratória, sem a devida permissão, licença ou autorização da autoridade competente, ou em desacordo com a obtida com pena de detenção de seis meses a um ano, e multa. Incorre nas mesmas penas: I - quem impede a procriação da fauna, sem licença, autorização ou em desacordo com a obtida. II - quem modifica, danifica ou destrói ninho, abrigo ou criadouro natural. III - quem vende, expõe à venda, exporta ou adquire, guarda, tem em cativeiro ou depósito, utiliza ou transporta ovos, larvas ou espécimes da fauna silvestre, nativa ou em rota migratória, bem como produtos e objetos dela oriundos, provenientes de criadouros não autorizados ou sem a devida permissão, licença ou autorização da autoridade competente. É correto o que se afirma em: (",
+            "questão": "Questão 32",
+            "enunciado": "Sobre as sanções penais e administrativas derivadas de condutas e a tividades lesivas ao meio ambiente , são penas restritivas de direito, exceto:",
             "alternativas": {
-                "A": "I, apenas. (",
-                "B": "I e II, apenas. (",
-                "C": "III, apenas. (",
-                "D": "II e III, apenas. (",
+                "A": "prestação pecuniária.",
+                "B": "interdição temporária de direitos.",
+                "C": "prestação de serviços à comunidade.",
+                "D": "extradição.",
+                "E": "suspensão parcial ou total de atividades."
+            },
+            "resposta_correta": "D"
+        },
+        {
+            "cargo": "AGENTE FISCAL DE POSTURAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 33",
+            "enunciado": "Matar, perseguir, caçar, apanhar, utilizar espécimes da fauna silvestre, nativos ou em rota migratória, sem a devida permissão, licença ou autorização da autoridade competente, ou em desacordo com a obtida com pena de detenção de seis meses a um ano, e multa. Incorre nas mesmas penas: I - quem impede a procriação da fauna, sem licença, autorização ou em desacordo com a obtida. II - quem modifica, danifica ou destrói ninho, abrigo ou criadouro natural. III - quem vende, expõe à venda, exporta ou adquire, guarda, tem em cativeiro ou depósito, utiliza ou transporta ovos, larvas ou espécimes da fauna silvestre, nativa ou em rota migratória, bem como produtos e objetos dela oriundos, provenientes de criadouros não autorizados ou sem a devida permissão, licença ou autorização da autoridade competente. É correto o que se afirma em:",
+            "alternativas": {
+                "A": "I, apenas.",
+                "B": "I e II, apenas.",
+                "C": "III, apenas.",
+                "D": "II e III, apenas.",
                 "E": "I, II e III."
             },
             "resposta_correta": "E"
@@ -395,12 +455,12 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 34",
-            "enunciado": "A Lei 12305/2010 define _________ como ato de natureza contratual firmad o entre o poder público e fabricantes, importadores, distribuidores ou comerciantes, tendo em vista a implantação da responsabilidade compartilhada pelo ciclo de vida do produto . Assinale a alternativa que preenche, corretamente, a lacuna do texto: (",
+            "enunciado": "A Lei 12305/2010 define _________ como ato de natureza contratual firmad o entre o poder público e fabricantes, importadores, distribuidores ou comerciantes, tendo em vista a implantação da responsabilidade compartilhada pelo ciclo de vida do produto . Assinale a alternativa que preenche, corretamente, a lacuna do texto:",
             "alternativas": {
-                "A": "acordo setorial. (",
-                "B": "acordo produtivo. (",
-                "C": "acordo consumptivo. (",
-                "D": "acordo geracional. (",
+                "A": "acordo setorial.",
+                "B": "acordo produtivo.",
+                "C": "acordo consumptivo.",
+                "D": "acordo geracional.",
                 "E": "acordo liquefeito."
             },
             "resposta_correta": "A"
@@ -410,13 +470,13 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 35",
-            "enunciado": "A Lei 12305/2010 define _________ como conjunto de ações exercidas, direta ou indiretamente, nas etapas de coleta, transporte, transbordo, tratamento e destinação final ambientalmente adequada dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos, de acordo com plano municipal de gestão integrada de resíduos sólidos ou com plano de gerenciamento de resíduos sólidos, exigidos na forma desta Lei . Assinale a alternativa que preenche, corretamente, a lacuna do texto: (",
+            "enunciado": "A Lei 12305/2010 define _________ como conjunto de ações exercidas, direta ou indiretamente, nas etapas de coleta, transporte, transbordo, tratamento e destinação final ambientalmente adequada dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos, de acordo com plano municipal de gestão integrada de resíduos sólidos ou com plano de gerenciamento de resíduos sólidos, exigidos na forma desta Lei . Assinale a alternativa que preenche, corretamente, a lacuna do texto:",
             "alternativas": {
-                "A": "controle social de resíduos sólidos. (",
-                "B": "destinação final ambientalmente adequada. (",
-                "C": "geradores de resíduos sólidos. (",
-                "D": "gerenciam ento de resíduos sólidos. (",
-                "E": "gestão integrada de resíduos sólidos. Prefeitura Municipal de Laranjal Paulista - SP – Concurso Público 01/2022 INSTITUTO AVANÇA SÃO PAULO AGENTE FISCAL DE POSTURAS Página 10 de 11 QUESTÃO 36 A Lei 12305/2010 define _________ como conjunto de ações voltadas para a busca de soluções para os resíduos sólidos, de forma a considerar as dimensões política, econômica, ambiental, cultural e social, com controle social e sob a premissa do desenvolvimento sustentável. Assinale a alternativa que preenche, corretamente, a lacuna do texto: (A) controle social de resíduos sólidos. (B) destinação final ambientalmente adequada . (C) geradores de resíduos sólidos. (D) gerenciamento de resíduos sólidos. (E) gestão integrada de resíduos sólidos."
+                "A": "controle social de resíduos sólidos.",
+                "B": "destinação final ambientalmente adequada.",
+                "C": "geradores de resíduos sólidos.",
+                "D": "gerenciam ento de resíduos sólidos.",
+                "E": "gestão integrada de resíduos sólidos."
             },
             "resposta_correta": "D"
         },
@@ -424,13 +484,28 @@
             "cargo": "AGENTE FISCAL DE POSTURAS",
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
-            "questão": "Questão 37",
-            "enunciado": "Sobre o controle de resíduos sólidos, responda verdadeiro (V) ou falso (F) às afirmativas, abaixo, indicando a alternativa que traz a sequência correta: (__) Coleta Seletiva: processo de transformação dos resíduos sólidos que envolve a alteração de suas propriedades físicas, físico -químicas ou biológicas, com vistas à transformação em insumos ou novos produtos. (__) Logística reversa: produção e consumo de bens e serviços de forma a atender as necessidades das atuais gerações e permitir melhores condições de vida, sem comprometer a qualidade ambiental e o atendimento das necessidades das gerações futuras. (__) Ciclo de vida dos resíduos: série de etapas que envolvem o desenvolvimento do produto, a obtenção de matérias -primas e insumos, o processo produtivo, o consumo e a disposição final. (",
+            "questão": "Questão 36",
+            "enunciado": "A Lei 12305/2010 define _________ como conjunto de ações voltadas para a busca de soluções para os resíduos sólidos, de forma a considerar as dimensões política, econômica, ambiental, cultural e social, com controle social e sob a premissa do desenvolvimento sustentável. Assinale a alternativa que preenche, corretamente, a lacuna do texto:",
             "alternativas": {
-                "A": "V – F – V. (",
-                "B": "V – F – F. (",
-                "C": "F – V – F. (",
-                "D": "F – V – V. (",
+                "A": "controle social de resíduos sólidos.",
+                "B": "destinação final ambientalmente adequada .",
+                "C": "geradores de resíduos sólidos.",
+                "D": "gerenciamento de resíduos sólidos.",
+                "E": "gestão integrada de resíduos sólidos."
+            },
+            "resposta_correta": "E"
+        },
+        {
+            "cargo": "AGENTE FISCAL DE POSTURAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 37",
+            "enunciado": "Sobre o controle de resíduos sólidos, responda verdadeiro (V) ou falso (F) às afirmativas, abaixo, indicando a alternativa que traz a sequência correta: (__) Coleta Seletiva: processo de transformação dos resíduos sólidos que envolve a alteração de suas propriedades físicas, físico -químicas ou biológicas, com vistas à transformação em insumos ou novos produtos. (__) Logística reversa: produção e consumo de bens e serviços de forma a atender as necessidades das atuais gerações e permitir melhores condições de vida, sem comprometer a qualidade ambiental e o atendimento das necessidades das gerações futuras. (__) Ciclo de vida dos resíduos: série de etapas que envolvem o desenvolvimento do produto, a obtenção de matérias -primas e insumos, o processo produtivo, o consumo e a disposição final.",
+            "alternativas": {
+                "A": "V – F – V.",
+                "B": "V – F – F.",
+                "C": "F – V – F.",
+                "D": "F – V – V.",
                 "E": "F – F – F. QUESTÃO 38 De acordo com o Art. 40 da Constituição Federal, o regime próprio de previdência social dos servidores titulares de cargos efetivos terá caráter __________ , mediante contribuição do respectivo ente federativo, de servidores ativos, de aposentado s e de pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial. Assinale a alternativa que preenche, corretamente, a lacuna do texto: (A) temporário e vinculativo. (B) integral e proporcional. (C) limite estabelecido por lei. (D) contributivo e solidário. (E) decorrente de transformação ou classificação."
             },
             "resposta_correta": "E"
@@ -440,15 +515,30 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 39",
-            "enunciado": "Das classes de incêndio dos extintores, a Classe C é descrita como equipamentos elétricos. A indicação pictográfica é feita: (",
+            "enunciado": "Das classes de incêndio dos extintores, a Classe C é descrita como equipamentos elétricos. A indicação pictográfica é feita:",
             "alternativas": {
-                "A": "por um círculo azul. (",
-                "B": "por um quadrado vermelho. (",
-                "C": "por um triângulo verde. (",
-                "D": "por uma estrela amarela. (",
-                "E": "por um quadrado preto. Prefeitura Municipal de Laranjal Paulista - SP – Concurso Público 01/2022 INSTITUTO AVANÇA SÃO PAULO AGENTE FISCAL DE POSTURAS Página 11 de 11 QUESTÃO 40 Com base na NR -23, que trata sobre o controle de incêndios, analise os itens: I - Os locais de trabalho deverão dispor de saídas, em número suficiente e dispostas de modo que aqueles que se encontrem nesses locais possam abandoná -los com rapidez e segurança, em caso de emergência. II - As saídas de emergência não podem ser equipadas com dispositivos de travamento que permitam abertura do interior do estabelecimento. III - Nenhuma saída de emergência deverá ser fechada à chave ou presa durante a jornada de trabalho. É correto o que se afirma em: (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+                "A": "por um círculo azul.",
+                "B": "por um quadrado vermelho.",
+                "C": "por um triângulo verde.",
+                "D": "por uma estrela amarela.",
+                "E": "por um quadrado preto."
             },
             "resposta_correta": "A"
+        },
+        {
+            "cargo": "AGENTE FISCAL DE POSTURAS",
+            "disciplina": "NOÇÕES DE INFORMÁTICA",
+            "id_concurso": "01/2022",
+            "questão": "Questão 40",
+            "enunciado": "Com base na NR -23, que trata sobre o controle de incêndios, analise os itens: I - Os locais de trabalho deverão dispor de saídas, em número suficiente e dispostas de modo que aqueles que se encontrem nesses locais possam abandoná -los com rapidez e segurança, em caso de emergência. II - As saídas de emergência não podem ser equipadas com dispositivos de travamento que permitam abertura do interior do estabelecimento. III - Nenhuma saída de emergência deverá ser fechada à chave ou presa durante a jornada de trabalho. É correto o que se afirma em:",
+            "alternativas": {
+                "A": "I, apenas.",
+                "B": "I e II, apenas.",
+                "C": "I e III, apenas.",
+                "D": "II e III, apenas.",
+                "E": "I, II e III."
+            },
+            "resposta_correta": "C"
         }
     ]
 }
