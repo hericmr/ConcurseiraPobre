@@ -18,7 +18,7 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowPopup(true);
-    }, 1800); // Exibe o popup após 3 minutos
+    }, 180); // Exibe o popup após 3 minutos
 
     return () => clearTimeout(timer); // Limpa o timer quando o componente é desmontado
   }, []);
