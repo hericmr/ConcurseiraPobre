@@ -47,7 +47,7 @@ const Popup = ({ message, onClose }) => {
         </button>
       </div>
 
-      {/* Imagem com animação da direita para a esquerda */}
+      {/* Imagem com animação da direita para a esquerda e responsiva */}
       <a
         href="https://hericmr.github.io/me/portuguese"
         target="_blank"
@@ -56,7 +56,11 @@ const Popup = ({ message, onClose }) => {
           isImageVisible ? 'translate-x-0 opacity-100' : 'translate-x-full opacity-0'
         }`}
       >
-        <img src="https://hericmr.github.io/me/imagens/heric.png" alt="Heric" className="max-20" />
+        <img
+          src="https://hericmr.github.io/me/imagens/heric.png"
+          alt="Heric"
+          className="max-20"
+        />
       </a>
     </div>
   );
