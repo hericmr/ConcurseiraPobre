@@ -1,10 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { QRCodeCanvas } from 'qrcode.react';
 
 const Popup = ({ message, onClose }) => {
-  const [isPopupVisible, setPopupVisible] = useState(false);
-  const [isImageVisible, setImageVisible] = useState(false);
-
   const pixPayload = "00020126440014BR.GOV.BCB.PIX0122heric.moura@unifesp.br5204000053039865802BR5921Heric Moura Rodrigues6009SAO PAULO62140510gOdDMBLKbG6304C082";
 
   const copyToClipboard = () => {
@@ -12,21 +9,10 @@ const Popup = ({ message, onClose }) => {
     alert("Código PIX copiado para a área de transferência!");
   };
 
-  useEffect(() => {
-    setPopupVisible(true);
-    setTimeout(() => {
-      setImageVisible(true);
-    }, 300); // Atraso para a imagem aparecer depois do popup
-  }, []);
-
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50">
-      {/* Balão de diálogo com animação de baixo para cima */}
-      <div
-        className={`bg-yellow-100 rounded-lg shadow-lg p-6 max-w-sm w-full text-center transform transition-transform duration-500 ${
-          isPopupVisible ? 'translate-y-0 opacity-100' : 'translate-y-full opacity-0'
-        }`}
-      >
+      {/* Balão de diálogo centralizado */}
+      <div className="bg-yellow-100 rounded-lg shadow-lg p-6 max-w-sm w-full text-center transform transition-transform duration-200">
         <h2 className="text-xl font-bold mb-4 text-black">Apoie o Projeto</h2>
         <p className="mb-4 text-orange-600">{message}</p>
 
@@ -47,20 +33,14 @@ const Popup = ({ message, onClose }) => {
         </button>
       </div>
 
-      {/* Imagem com animação da direita para a esquerda e responsiva */}
+      {/* Imagem de fundo visível apenas em telas de computador */}
       <a
         href="https://hericmr.github.io/me/portuguese"
         target="_blank"
         rel="noopener noreferrer"
-        className={`absolute bottom-5 right-5 transition-transform duration-500 ${
-          isImageVisible ? 'translate-x-0 opacity-100' : 'translate-x-full opacity-0'
-        }`}
+        className="absolute bottom-4 right-20 hidden sm:block" // Esconde em dispositivos móveis
       >
-        <img
-          src="https://hericmr.github.io/me/imagens/heric.png"
-          alt="Heric"
-          className="max-20"
-        />
+        <img src="https://hericmr.github.io/me/imagens/heric.png" alt="Heric" className="max-20" />
       </a>
     </div>
   );
