@@ -30,7 +30,7 @@ const QuestionCard = ({ question, index }) => {
       </div>
 
       {/* Espaço para compensar o elemento fixo no topo */}}
-      <div className="mt-5"></div>
+      <div className="mt-20"></div>
 
       {/* Enunciado */}
       <p className="text- font-semibold mb-4 text-lg leading-relaxed">
