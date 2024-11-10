@@ -41,9 +41,24 @@
                 "B": "a mulher. ",
                 "C": "informação. ",
                 "D": "espera. ",
-                "E": "Margaret Crane. QUESTÃO 04"
+                "E": "Margaret Crane."
             },
             "resposta_correta": "B"
+        },
+        {
+            "cargo": "ANALISTA DE SISTEMAS",
+            "disciplina": "LÍNGUA PORTUGUESA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 4",
+            "enunciado": "Considere as seguintes sentenças, retiradas do texto: I. Crane notou uma grande fila de provetas apoiadas sob um espelho, e perguntou do que se tratava. II. Se o círculo estivesse ali, significava que havia hormônio e a mulher estava grávida. III. A partir dali os testes caseiros de gravidez só se modernizaram, até chegarem nas fitinhas e visores usados hoje. Nas sentenças dadas, a palavra “se” atua, respectivamente, como: ",
+            "alternativas": {
+                "A": "pronome pessoal, conjunção condicional, pronome pessoal. ",
+                "B": "conjunção integrante, conjunção condicional, pronome pessoal. ",
+                "C": "pronome pessoal, conjunção integrante, pronome pessoal. ",
+                "D": "pronome pessoal, conjunção condicional, conjunção integrante. ",
+                "E": "conjunção integrante, conjunção integrante, pronome pessoal."
+            },
+            "resposta_correta": "A"
         },
         {
             "cargo": "ANALISTA DE SISTEMAS",
@@ -56,7 +71,7 @@
                 "B": "composição por aglutinação, composição por justaposição e derivação. ",
                 "C": "derivação, composição por justaposição e composição por aglutinação. ",
                 "D": "derivação, composição por justaposição e derivação. ",
-                "E": "composição por aglutinação, derivação e derivação."
+                "E": "composição por aglutinação, derivação e derivação. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 4 de 16"
             },
             "resposta_correta": "D"
         },
@@ -101,9 +116,24 @@
                 "B": "“suspeita de gravidez”. ",
                 "C": "“urina”. ",
                 "D": "“A mulher com suspeita de gravidez”. ",
-                "E": "“a um laboratório especializado”. QUESTÃO 09"
+                "E": "“a um laboratório especializado”."
             },
             "resposta_correta": "C"
+        },
+        {
+            "cargo": "ANALISTA DE SISTEMAS",
+            "disciplina": "LÍNGUA PORTUGUESA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 9",
+            "enunciado": "Considere a seguinte sentença, retirada do texto: “Seu desafio como designer era juntar o tubo e o espelho em um único recipiente.” Em relação às categorias gramaticais, as palavras “seu”, “tubo”, “em” e “único” são, respectivamente: ",
+            "alternativas": {
+                "A": "pronome possessivo, substantivo, preposição e adjetivo. ",
+                "B": "pronome pessoal, substantivo, preposição e adjetivo. ",
+                "C": "pronome possessivo, adjetivo, preposição e adjetivo. ",
+                "D": "pronome possessivo, substantivo, conjunção e adjetivo. ",
+                "E": "pronome pessoal, substantivo, conjunção e substantivo."
+            },
+            "resposta_correta": "A"
         },
         {
             "cargo": "ANALISTA DE SISTEMAS",
@@ -116,7 +146,7 @@
                 "B": "ecossistema. ",
                 "C": "nanopartícula. ",
                 "D": "malentendido. ",
-                "E": "anciloglossa."
+                "E": "anciloglossa. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "D"
         },
@@ -131,7 +161,7 @@
                 "B": "33 litros. ",
                 "C": "35 litros. ",
                 "D": "37 litros. ",
-                "E": "39 litros. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP"
+                "E": "39 litros. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 5 de 16"
             },
             "resposta_correta": "B"
         },
@@ -191,7 +221,7 @@
                 "B": "14 meses. ",
                 "C": "15 meses. ",
                 "D": "16 meses. ",
-                "E": "18 meses."
+                "E": "18 meses. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 6 de 16"
             },
             "resposta_correta": "D"
         },
@@ -236,7 +266,7 @@
                 "B": "14. ",
                 "C": "17. ",
                 "D": "19. ",
-                "E": "21."
+                "E": "21. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 7 de 16"
             },
             "resposta_correta": "C"
         },
@@ -266,7 +296,7 @@
                 "B": "2+𝜋/6. ",
                 "C": "2+9𝜋 8. ",
                 "D": "2+11𝜋 6. ",
-                "E": "2+11𝜋."
+                "E": "2+11𝜋. CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "D"
         },
@@ -281,7 +311,7 @@
                 "B": "Manutenibilidade. ",
                 "C": "Integridade. ",
                 "D": "Portabilidade. ",
-                "E": "Confiabilidade"
+                "E": "Confiabilidade Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 8 de 16"
             },
             "resposta_correta": "C"
         },
@@ -341,7 +371,7 @@
                 "B": "Layers ",
                 "C": "Microservices ",
                 "D": "Client -server ",
-                "E": "Pipes -and-filters"
+                "E": "Pipes -and-filters Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 9 de 16"
             },
             "resposta_correta": "D"
         },
@@ -401,7 +431,7 @@
                 "B": "As alternativas I e IV estão corretas. ",
                 "C": "As alternativas I e II estão corretas. ",
                 "D": "As alternativas I e III estão corretas. ",
-                "E": "As alternativas II e IV estão corretas. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP"
+                "E": "As alternativas II e IV estão corretas. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 10 de 16"
             },
             "resposta_correta": "C"
         },
@@ -446,7 +476,7 @@
                 "B": "Planejamento ",
                 "C": "Implementação ",
                 "D": "Controle ",
-                "E": "Encerramento."
+                "E": "Encerramento. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 11 de 16"
             },
             "resposta_correta": "A"
         },
@@ -506,7 +536,7 @@
                 "B": "Protocolo HTTPS. ",
                 "C": "Protocolo FTP. ",
                 "D": "Protocolo SSH. ",
-                "E": "Protocolo DHCP."
+                "E": "Protocolo DHCP. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 12 de 16"
             },
             "resposta_correta": "B"
         },
@@ -536,9 +566,24 @@
                 "B": "As alternativas III e IV estão corretas. ",
                 "C": "As alternativas III e IV estão corretas. ",
                 "D": "As alternativas I, III e IV estão corretas. ",
-                "E": "As alternativas I, II e IV estão corretas. QUESTÃO 39"
+                "E": "As alternativas I, II e IV estão corretas."
             },
             "resposta_correta": "E"
+        },
+        {
+            "cargo": "ANALISTA DE SISTEMAS",
+            "disciplina": "LÍNGUA PORTUGUESA",
+            "id_concurso": "05/2023",
+            "questão": "Questão 39",
+            "enunciado": "Analise as assertivas abaixo sobre o sistema operacional Windows: I. É o sistema operacional que utilizou a interface gráfica (gui) pela primeira vez na história. II. A versão lançada em 1995 (Windows 95) utilizou, pela primeira vez, o Menu Iniciar, a Barra de ferramentas e o revolucionário sistema “Plug and Play”. III. A versão Millennium Edition foi lançada em 2001, se tornando a versão mais duradoura do Windows, conseguindo reunir sistemas operacionais empresariais e pessoais em um só produto...",
+            "alternativas": {
+                "A": "As alternativas I e II estão corretas. ",
+                "B": "As alternativas I e IV estão corretas. ",
+                "C": "As alternativas II e III estão corretas. ",
+                "D": "As alternativas II e IV estão corretas. ",
+                "E": "As alternativas I e III estão corretas."
+            },
+            "resposta_correta": "D"
         },
         {
             "cargo": "ANALISTA DE SISTEMAS",
@@ -551,7 +596,7 @@
                 "B": "DAS - Direct Attached Storage ",
                 "C": "SAN - Storage Area Network ",
                 "D": "FC - Fibre Channel ",
-                "E": "RAI D"
+                "E": "RAI D Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 13 de 16"
             },
             "resposta_correta": "C"
         },
@@ -596,7 +641,7 @@
                 "B": "É a combinação de vários discos rígidos, os populares HDs, de maneira que eles formem uma única unidade lógica. ",
                 "C": "São dispositivos de armazenamento para computadores e notebooks mais rápido do que os tradicionais discos rígidos, também chamados de HDD. ",
                 "D": "É um sistema de armazenamento conectado diretamente na rede local, funcionando como um hard disk de rede que centraliza e armazena os dados de forma organizada. ",
-                "E": "É um sistema de rede de armazenamento dedicada composta por servidores e storages, interligados através de conexões IP (iSCSI) ou"
+                "E": "É um sistema de rede de armazenamento dedicada composta por servidores e storages, interligados através de conexões IP (iSCSI) ou Fibre Channel (F(C)."
             },
             "resposta_correta": "D"
         },
@@ -611,7 +656,7 @@
                 "B": "V - F - F - V ",
                 "C": "F - F - V - V ",
                 "D": "V - F - V - F ",
-                "E": "F - F - F - V Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP"
+                "E": "F - F - F - V Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 14 de 16"
             },
             "resposta_correta": "A"
         },
@@ -656,7 +701,7 @@
                 "B": "As alternativas I, III e IV estão corretas. ",
                 "C": "As alternativas I, II e IV estão corretas. ",
                 "D": "As alternativas I e IV estão corretas. ",
-                "E": "As alternativas III e IV estão corretas."
+                "E": "As alternativas III e IV estão corretas. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 15 de 16"
             },
             "resposta_correta": "A"
         },
@@ -701,7 +746,7 @@
                 "B": "As alternativas I, II e III estão corretas. ",
                 "C": "As alternativas I, III e IV estão corretas. ",
                 "D": "As alternativas II, III e IV estão corretas. ",
-                "E": "As alternativas III e IV estão corretas. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP"
+                "E": "As alternativas III e IV estão corretas. Prefeitura Municipal da Estância Balneária de Ubatuba/SP - Concurso Público 05/2023 INSTITUTO AVANÇA -SP ANALISTA DE SISTEMAS Página 16 de 16"
             },
             "resposta_correta": "A"
         }

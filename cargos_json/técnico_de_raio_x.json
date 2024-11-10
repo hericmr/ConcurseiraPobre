@@ -26,7 +26,7 @@
                 "B": "Essas competições continuaram a crescer, tornando-se eventos anuais no hospital. ",
                 "C": "O que começou com uma competição modesta entre alguns pacientes veio a se tornar um dos maiores símbolos de inclusão do mundo. ",
                 "D": "O impacto foi imediato e transformador. ",
-                "E": "O crescimento do movimento paralímpico foi acompanhado pela inclusão de atletas com diferentes tipos de deficiência."
+                "E": "O crescimento do movimento paralímpico foi acompanhado pela inclusão de atletas com diferentes tipos de deficiência. Considere o seguinte excerto, retirado do texto, para responder às questões 3 e 4: “Ele acreditava que a prática esportiva não apenas ajudaria no condicionamento físico, mas também restauraria a dignidade e a autoestima daquelas pessoas.”"
             },
             "resposta_correta": "B"
         },
@@ -71,7 +71,7 @@
                 "B": "rosácea. ",
                 "C": "pátria. ",
                 "D": "equino. ",
-                "E": "névoa."
+                "E": "névoa. Prefeitura Municipal de Paraty - Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO DE RAIO X Página 4 de 11"
             },
             "resposta_correta": "A"
         },
@@ -116,9 +116,24 @@
                 "B": "Disseram-lhe que as provas seriam remarcadas. ",
                 "C": "Sabe-se que as investigações policiais costumam demorar. ",
                 "D": "As meninas ajudavam-no a melhorar nos dias tristes. ",
-                "E": "Perguntaram-me se iria à festa, mas não pude respondê-los. QUESTÃO 09"
+                "E": "Perguntaram-me se iria à festa, mas não pude respondê-los."
             },
             "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO DE RAIO X",
+            "disciplina": "LÍNGUA PORTUGUESA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 9",
+            "enunciado": "A sentença cuja palavra em destaque é um pronome indefinido é: ",
+            "alternativas": {
+                "A": "Avisem- nos a respeito dos novos prazos de inscrição do curso. ",
+                "B": "Tudo aquilo está disponível para doação. ",
+                "C": "As pessoas costumam acreditar no que podem ver. ",
+                "D": "Alguns dos alunos não tiveram tempo de finalizar suas redações. ",
+                "E": "As suas memórias são o que você tem de mais valioso."
+            },
+            "resposta_correta": "D"
         },
         {
             "cargo": "TÉCNICO DE RAIO X",
@@ -131,7 +146,7 @@
                 "B": "muralha. ",
                 "C": "cirurgiã. ",
                 "D": "estudantes. ",
-                "E": "cresceram."
+                "E": "cresceram. MATEMÁTICA E RACIOCÍNIO LÓGICO"
             },
             "resposta_correta": "D"
         },
@@ -146,7 +161,7 @@
                 "B": "1,4 cm. ",
                 "C": "1,0 cm. ",
                 "D": "0,8 cm. ",
-                "E": "0,9 cm."
+                "E": "0,9 cm. Prefeitura Municipal de Paraty - Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO DE RAIO X Página 5 de 11"
             },
             "resposta_correta": "A"
         },
@@ -206,7 +221,7 @@
                 "B": "II. ",
                 "C": "III. ",
                 "D": "IV. ",
-                "E": "V."
+                "E": "V. NOÇÕES DE INFORMÁTICA"
             },
             "resposta_correta": "A"
         },
@@ -221,7 +236,7 @@
                 "B": "Microsoft Office Word. ",
                 "C": "VLC Media Player. ",
                 "D": "CorelDRAW. ",
-                "E": "Windows Media Player."
+                "E": "Windows Media Player. Prefeitura Municipal de Paraty - Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO DE RAIO X Página 6 de 11"
             },
             "resposta_correta": "C"
         },
@@ -281,7 +296,7 @@
                 "B": "Barra de Endereços. ",
                 "C": "Barra de Opções. ",
                 "D": "Barra de Ferramentas. ",
-                "E": "Barra de Status."
+                "E": "Barra de Status. CONHECIMENTOS ESPECÍFICOS"
             },
             "resposta_correta": "A"
         },
@@ -311,7 +326,7 @@
                 "B": "À mãe ",
                 "C": "A ambos os pais ",
                 "D": "Será concedido ao que tiver o dependente sob sua guarda ou em sua companhia. ",
-                "E": "Nenhum dos pais, o critério para receber o salário família é o casamento."
+                "E": "Nenhum dos pais, o critério para receber o salário família é o casamento. Prefeitura Municipal de Paraty - Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO DE RAIO X Página 7 de 11"
             },
             "resposta_correta": "A"
         },
@@ -386,7 +401,7 @@
                 "B": "Síndrome aguda da radiação. ",
                 "C": "Eritema radiacional. ",
                 "D": "Neoplasia radioinduzida. ",
-                "E": "Fibrose pulmonar por radiação."
+                "E": "Fibrose pulmonar por radiação. Prefeitura Municipal de Paraty - Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO DE RAIO X Página 8 de 11"
             },
             "resposta_correta": "D"
         },
@@ -416,7 +431,22 @@
                 "B": "Efeitos determinísticos, como a catarata, possuem um limiar definido, abaixo do qual o efeito não se manifesta. ",
                 "C": "O limiar para um determinado efeito biológico pode variar entre diferentes indivíduos e tipos de células. ",
                 "D": "O limiar para efeitos determinísticos é geralmente mais alto do que o limiar para efeitos estocásticos. ",
-                "E": "O conhecimento do limiar para diferentes efeitos biológicos é fundamental para estabelecer limites de dose de radiação em procedimentos médicos e ocupacionais. QUESTÃO 30"
+                "E": "O conhecimento do limiar para diferentes efeitos biológicos é fundamental para estabelecer limites de dose de radiação em procedimentos médicos e ocupacionais."
+            },
+            "resposta_correta": "C"
+        },
+        {
+            "cargo": "TÉCNICO DE RAIO X",
+            "disciplina": "LÍNGUA PORTUGUESA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 30",
+            "enunciado": "Para a obtenção de uma radiografia de tórax em projeção posteroanterior (P",
+            "alternativas": {
+                "A": ", o técnico em radiologia deve posicionar o paciente de acordo com os seguintes parâmetros: (A) Em pé, com o tórax em rotação interna, os braços elevados acima da cabeça. ",
+                "B": "Sentado, com os braços apoiados sobre uma mesa, inspiração profunda. ",
+                "C": "Em decúbito dorsal, com os braços estendidos ao longo do corpo, expiração. ",
+                "D": "Deitado em decúbito lateral direito, com os braços elevados acima da cabeça. ",
+                "E": "Em pé, com os braços pendentes ao longo do corpo, inspiração profunda."
             },
             "resposta_correta": "C"
         },
@@ -431,7 +461,7 @@
                 "B": "Em pé, com o joelho em flexão de 90° e o membro inferior em rotação externa. ",
                 "C": "Sentado, com o joelho em flexão de 45° e o membro inferior em rotação interna. ",
                 "D": "Em pé, com o joelho em extensão e o membro inferior em rotação externa. ",
-                "E": "Deitado em decúbito dorsal, com o joelho em flexão de 30° e o membro inferior em rotação neutra."
+                "E": "Deitado em decúbito dorsal, com o joelho em flexão de 30° e o membro inferior em rotação neutra. Prefeitura Municipal de Paraty - Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO DE RAIO X Página 9 de 11"
             },
             "resposta_correta": "A"
         },
@@ -506,7 +536,7 @@
                 "B": "Os elétrons são acelerados em direção ao alvo, onde interagem com os núcleos atômicos, gerando radiação X por efeito fotoelétrico. ",
                 "C": "Os elétrons são acelerados em direção ao alvo, onde interagem com os elétrons orbitais, gerando radiação X por efeito Bremsstrahlung. ",
                 "D": "Os elétrons são acelerados em direção ao alvo, onde interagem com os prótons, gerando radiação X por efeito Thomson. ",
-                "E": "Os elétrons são acelerados em direção ao alvo, onde interagem com os nêutrons, gerando radiação X por efeito Rayleigh."
+                "E": "Os elétrons são acelerados em direção ao alvo, onde interagem com os nêutrons, gerando radiação X por efeito Rayleigh. Prefeitura Municipal de Paraty - Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO DE RAIO X Página 10 de 11"
             },
             "resposta_correta": "E"
         },
@@ -536,9 +566,24 @@
                 "B": "Tomografia computadorizada com contraste oral. ",
                 "C": "Tomografia computadorizada com contraste intravenoso. ",
                 "D": "Tomografia por emissão de pósitrons (PET/CT). ",
-                "E": "Tomografia computadorizada com janela óssea. QUESTÃO 39"
+                "E": "Tomografia computadorizada com janela óssea."
             },
             "resposta_correta": "A"
+        },
+        {
+            "cargo": "TÉCNICO DE RAIO X",
+            "disciplina": "LÍNGUA PORTUGUESA",
+            "id_concurso": "01/2024",
+            "questão": "Questão 39",
+            "enunciado": "Os tomógrafos de nova geração utilizam princípios físicos avançados para melhorar a qualidade da imagem e reduzir o tempo de exame. Um desses princípios envolve a aquisição helicoidal contínua de dados durante a rotação do tubo de raios X e o movimento simultâneo da mesa do paciente, resultando em imagens de alta resolução e reconstruções volumétricas. O princípio físico que possibilita essa tecnologia é: ",
+            "alternativas": {
+                "A": "Aquisição sequencial. ",
+                "B": "Tomografia com feixe em leque. ",
+                "C": "Tomografia por feixe cônico (cone beam). ",
+                "D": "Tomografia por projeção linear. ",
+                "E": "Aquisição helicoidal (espiral)."
+            },
+            "resposta_correta": "B"
         },
         {
             "cargo": "TÉCNICO DE RAIO X",
@@ -551,7 +596,7 @@
                 "B": "Radiação gama - Medicina nuclear e radioterapia. ",
                 "C": "Nêutrons - Radiografia de tecidos moles e mamografia. ",
                 "D": "Radiação beta - Braquiterapia e tratamento de tumores superficiais. ",
-                "E": "Prótons - Radioterapia de precisão em tumores profundos."
+                "E": "Prótons - Radioterapia de precisão em tumores profundos. Prefeitura Municipal de Paraty - Concurso Público - 01/2024 INSTITUTO AVANÇA SÃO PAULO TÉCNICO DE RAIO X Página 11 de 11"
             },
             "resposta_correta": "A"
         }
