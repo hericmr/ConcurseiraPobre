@@ -13,8 +13,7 @@ const Header = () => (
             Questões da banca AVANÇA SP - ACESSE GRÁTIS!
           </h1>
           <p className="text-primary-50 text-sm font-normal md:text-lg text-black">
-            A melhor maneira de se preparar para concursos é praticando com provas reais da banca. Esse site é 100% gratuito e oferece uma vasta coleção de questões da banca Avança-SP pra turbinar seu estudo pra concursos dessa banca específica de São Paulo.
-          </p>
+          Pratique com provas reais da banca Avança-SP e melhore seu desempenho. Aqui você encontra, de forma gratuita, uma ampla coleção de questões dessa banca ajudar nos seus estudos!          </p>
         </div>
       </div>
 
