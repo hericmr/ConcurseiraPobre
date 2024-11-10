@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de co mpras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 par...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de co mpras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -380,7 +380,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 26",
-            "enunciado": "Sobre as etapas básicas da respiração, considere os itens: I – Respiração externa: é o fluxo mecânico de ar para dentro (inspiração) e para fora (expiração) dos pulmões. II – Respiração interna: é a troca de gases entre os espaços de ar dos pulmões e o sangue nos capilares pulmonares. Nesse processo o sangue do ca pilar pulmonar ganha O2 e perde CO2. III – Ventilação: é a troca de gases entre o sangue nos capilares sistêmicos e as células teciduais. O sangue perde O2 e ganha CO2. É correto o que...",
+            "enunciado": "Sobre as etapas básicas da respiração, considere os itens: I – Respiração externa: é o fluxo mecânico de ar para dentro (inspiração) e para fora (expiração) dos pulmões. II – Respiração interna: é a troca de gases entre os espaços de ar dos pulmões e o sangue nos capilares pulmonares. Nesse processo o sangue do ca pilar pulmonar ganha O2 e perde CO2. III – Ventilação: é a troca de gases entre o sangue nos capilares sistêmicos e as células teciduais. O sangue perde O2 e ganha CO2. É correto o que se afirma em: ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "I e III, apenas. ",
@@ -680,7 +680,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 46",
-            "enunciado": "Analise os excertos sobre os testes para irritação meníngea: I - Rigidez de nuca: estando o paciente em decúbito dorsal, o examinador coloca uma das mãos na região occipital e, suavemente, tenta fletir a cabeça do paciente. Se o movimento for fácil e amplo, não há rigidez de nuca. Caso contrário, fala -se em resistência, defesa ou simplesmente rigidez de nuca. II - Prova de Brudzinki: com o paciente em decúbito dorsal e membros estendidos, o examinador repousa uma das mãos sobre o tórax do pacie...",
+            "enunciado": "Analise os excertos sobre os testes para irritação meníngea: I - Rigidez de nuca: estando o paciente em decúbito dorsal, o examinador coloca uma das mãos na região occipital e, suavemente, tenta fletir a cabeça do paciente. Se o movimento for fácil e amplo, não há rigidez de nuca. Caso contrário, fala -se em resistência, defesa ou simplesmente rigidez de nuca. II - Prova de Brudzinki: com o paciente em decúbito dorsal e membros estendidos, o examinador repousa uma das mãos sobre o tórax do paciente e, com a outra colocada na região occipital, executa uma flexão forçada da cabeça. O sinal consiste na semiflexão brusca das pernas ao ser antefletida passivamente a cabeça do paciente. III - Prova de Kernig: consiste na extensão da perna, estando a coxa fletida em ângulo reto sobre a bacia e a perna sobre a coxa. Considera -se a prova positiva quando o paciente sente dor ao longo do trajeto do nervo ciático e tenta impedir o movimento. É correto o que se afirma em: ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "I e III, apenas. ",

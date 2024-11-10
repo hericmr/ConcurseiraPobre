@@ -260,7 +260,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 18",
-            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verificador seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte-se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica-se por 2 cada dígito em posição ímp...",
+            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verificador seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte-se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica-se por 2 cada dígito em posição ímpar e subtrai-se 9 de resultados maiores do que 9 (Ex.: [8 ⋅ 2]2[1 ⋅ 2]→[16− 9]2[2]⇒722); 3) Soma-se todos os dígitos (Ex.: 7 + 2 + 2 =11); 4) O dígito verificador é o menor número que, adicionado a soma, resulta em um múltiplo de 10 (Ex. 11+ 9 = 20). Então no exemplo acima, o dígito verificador seria o 9. Considere o código 835X, onde X é o dígito verificador a ser calculado. Qual é o valor de X? ",
             "alternativas": {
                 "A": "1. ",
                 "B": "9. ",
@@ -1010,7 +1010,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 18",
-            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verificador seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte-se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica-se por 2 cada dígito em posição ímp...",
+            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verificador seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte-se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica-se por 2 cada dígito em posição ímpar e subtrai-se 9 de resultados maiores do que 9 (Ex.: [8 ⋅ 2]2[1 ⋅ 2]→[16− 9]2[2]⇒722); 3) Soma-se todos os dígitos (Ex.: 7 + 2 + 2 =11); 4) O dígito verificador é o menor número que, adicionado a soma, resulta em um múltiplo de 10 (Ex. 11+ 9 = 20). Então no exemplo acima, o dígito verificador seria o 9. Considere o código 835X, onde X é o dígito verificador a ser calculado. Qual é o valor de X? ",
             "alternativas": {
                 "A": "1. ",
                 "B": "9. ",

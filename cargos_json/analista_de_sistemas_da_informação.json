@@ -155,7 +155,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 11",
-            "enunciado": "Para viajar até a cidade A, distante cinquenta quilômetros de sua casa, um motorista utiliza seu automóvel, o qual consome oito litros de gasolina para realizar o trajeto de ida e volta até a referida cidade. Considerando que cada litro de combustível custa R$ 5,00 (cinco reais), qual o valor total gasto pelo condutor ao realizar uma viagem de ida e volta até a cidade B, utilizando o mesmo automóvel e considerando o mesmo consumo de combustível por quilômetro rodado? Considere que a cidade B est...",
+            "enunciado": "Para viajar até a cidade A, distante cinquenta quilômetros de sua casa, um motorista utiliza seu automóvel, o qual consome oito litros de gasolina para realizar o trajeto de ida e volta até a referida cidade. Considerando que cada litro de combustível custa R$ 5,00 (cinco reais), qual o valor total gasto pelo condutor ao realizar uma viagem de ida e volta até a cidade B, utilizando o mesmo automóvel e considerando o mesmo consumo de combustível por quilômetro rodado? Considere que a cidade B está a trezentos quilômetros de sua residência. ",
             "alternativas": {
                 "A": "R$ 200,00 ",
                 "B": "R$ 220,00 ",
@@ -320,7 +320,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 22",
-            "enunciado": "Um menu intrínseco ao sistema operacional Windows se revela como uma representação visual que desvela um conjunto de opções ou diretrizes acessíveis aos usuários. A sua finalidade essencial consiste em operar como um recurso hábil para prontamente alcançar uma diversidade de funcionalidades, programas, ajustes e atributos do sistema, todos criteriosamente organizados de maneira hierárquica, com vistas a simplificar a exploração e otimizar a eficácia na execução de tarefas. Podem ser considerados...",
+            "enunciado": "Um menu intrínseco ao sistema operacional Windows se revela como uma representação visual que desvela um conjunto de opções ou diretrizes acessíveis aos usuários. A sua finalidade essencial consiste em operar como um recurso hábil para prontamente alcançar uma diversidade de funcionalidades, programas, ajustes e atributos do sistema, todos criteriosamente organizados de maneira hierárquica, com vistas a simplificar a exploração e otimizar a eficácia na execução de tarefas. Podem ser considerados menus do Wi ndows, exceto: ",
             "alternativas": {
                 "A": "Barras de menus. ",
                 "B": "Menus da barra de ferramentas. ",
@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 24",
-            "enunciado": "Uma parte essencial da interface do usuário no Microsoft Excel é o painel de fórmulas, o qual exerce uma função fundamental ao possibilitar a formulação, ajuste e interpretação das fórmulas e funções que são utilizadas nas células da planilha. Essa compone nte também é reconhecida como a \"Barra de Fórmulas\" e tem sua posição na parte superior da janela do Excel, imediatamente seguindo a faixa de opções. Neste sentido, analise a imagem a seguir e assinale a alternativa que apresenta corretamente ...",
+            "enunciado": "Uma parte essencial da interface do usuário no Microsoft Excel é o painel de fórmulas, o qual exerce uma função fundamental ao possibilitar a formulação, ajuste e interpretação das fórmulas e funções que são utilizadas nas células da planilha. Essa compone nte também é reconhecida como a \"Barra de Fórmulas\" e tem sua posição na parte superior da janela do Excel, imediatamente seguindo a faixa de opções. Neste sentido, analise a imagem a seguir e assinale a alternativa que apresenta corretamente o tipo de fórmula apresentada: ",
             "alternativas": {
                 "A": "Financeira. ",
                 "B": "Lógica. ",
@@ -395,7 +395,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 27",
-            "enunciado": "Quanto a Testes de Software, analise as afirmativas abaixo: I. O ideal é realizar testes de integração após a realização dos testes unitários, garantindo que as unidades estão corretas individualmente e também que funcionam em conjunto. II. Os testes de ponta a ponta simulam a atividade que o usuário final teria, mas feita em um ambiente preparado para ser muito semelhante ao do ambiente de produção. III. Os testes de integração têm como objetivo verificar as menores unidades isoladamente, garan...",
+            "enunciado": "Quanto a Testes de Software, analise as afirmativas abaixo: I. O ideal é realizar testes de integração após a realização dos testes unitários, garantindo que as unidades estão corretas individualmente e também que funcionam em conjunto. II. Os testes de ponta a ponta simulam a atividade que o usuário final teria, mas feita em um ambiente preparado para ser muito semelhante ao do ambiente de produção. III. Os testes de integração têm como objetivo verificar as menores unidades isoladamente, garantindo que a lógica de cada uma delas está correta e que funcionem conforme o esperado. IV. Os testes unitários são feitos em um nível muito baixo (próximo ao código fonte) do projeto, por isso, geralmente quem os realiza são os programadores envolvidos no projeto. Selecione a alternativa correta: ",
             "alternativas": {
                 "A": "As afirmativas I e III estão corretas. ",
                 "B": "As afirmativas III e IV estão corretas. ",
@@ -485,7 +485,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 33",
-            "enunciado": "Quanto ao conceito de distribuição de banco de dados (BDD), analise as afirmativas a seguir: I - Em um sistema BDD, o banco de dados é armazenado em diversos computadores, denominados nós. II - O sistema BDD consiste em uma relação de nós, cada qual podendo participar na execução de transações que acessam dados em um ou mais nós. III - Num BDD as transações são processadas em apenas uma máquina e não em diversas máquinas. IV - Um sistema BDD tem o objetivo de melhorar o desempenho nos locais de ...",
+            "enunciado": "Quanto ao conceito de distribuição de banco de dados (BDD), analise as afirmativas a seguir: I - Em um sistema BDD, o banco de dados é armazenado em diversos computadores, denominados nós. II - O sistema BDD consiste em uma relação de nós, cada qual podendo participar na execução de transações que acessam dados em um ou mais nós. III - Num BDD as transações são processadas em apenas uma máquina e não em diversas máquinas. IV - Um sistema BDD tem o objetivo de melhorar o desempenho nos locais de trabalho do usuário final. Está correto apenas o que se afirma em: ",
             "alternativas": {
                 "A": "I e III. ",
                 "B": "I, II e III. ",
@@ -530,7 +530,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 36",
-            "enunciado": "A orientação a objetos é um padrão de programação que utiliza os conceitos de objetos e classes. Analise as assertivas abaixo e assinale a alternativa correta. I. A identidade de um objeto não necessita ser única II. Cada classe determina os comportamentos (métodos) e os estados possíveis (atributos) de seus objetos, bem como o seu relacionamento com outros objetos. III. Os objetos são os elementos do mundo real que serão representados na programação do sistema de software. IV. Os métodos equiva...",
+            "enunciado": "A orientação a objetos é um padrão de programação que utiliza os conceitos de objetos e classes. Analise as assertivas abaixo e assinale a alternativa correta. I. A identidade de um objeto não necessita ser única II. Cada classe determina os comportamentos (métodos) e os estados possíveis (atributos) de seus objetos, bem como o seu relacionamento com outros objetos. III. Os objetos são os elementos do mundo real que serão representados na programação do sistema de software. IV. Os métodos equivalem às ações que o objeto é capaz de executar: ",
             "alternativas": {
                 "A": "Apenas a alternativa I está correta.. ",
                 "B": "As alternativas II, III e IV estão corretas. ",
@@ -560,7 +560,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 38",
-            "enunciado": "O World Wide Web Consortium (W3C) é uma comunidade internacional que inclui uma equipe em tempo integral, especialistas do setor e várias organizações membros. Esses grupos trabalham juntos para desenvolver padrões para a World Wide Web. Esse consórcio fornece os padr ões para ajudar a tornar a web acessível, reconhecidos internacionalmente por governos (inclusive o brasileiro) e empresas. O mais conhecido são as Diretrizes de Acessibilidade para Conteúdo Web - WCAG. Na Organização Internacional...",
+            "enunciado": "O World Wide Web Consortium (W3C) é uma comunidade internacional que inclui uma equipe em tempo integral, especialistas do setor e várias organizações membros. Esses grupos trabalham juntos para desenvolver padrões para a World Wide Web. Esse consórcio fornece os padr ões para ajudar a tornar a web acessível, reconhecidos internacionalmente por governos (inclusive o brasileiro) e empresas. O mais conhecido são as Diretrizes de Acessibilidade para Conteúdo Web - WCAG. Na Organização Internacional de Normatização (ISO), e sse padrão foi publicado pela: ",
             "alternativas": {
                 "A": "ISO 9000. ",
                 "B": "40500. ",
@@ -605,7 +605,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 41",
-            "enunciado": "Os princípios básicos de segurança da informação são disponibilidade, integridade, confidencialidade e autenticidade. Com relação a estes princípios, analise as assertivas e assinale a alternativa correta: I. As ferramentas que garantem o princípio da autenticidade são a biometria, a assinatura digital e os certificados digitais. II. A autenticidade garante também um subproduto, que é o não repúdio, que significa que o autor da informação pode recusar que ele é o verdadeiro autor. III. A ferrame...",
+            "enunciado": "Os princípios básicos de segurança da informação são disponibilidade, integridade, confidencialidade e autenticidade. Com relação a estes princípios, analise as assertivas e assinale a alternativa correta: I. As ferramentas que garantem o princípio da autenticidade são a biometria, a assinatura digital e os certificados digitais. II. A autenticidade garante também um subproduto, que é o não repúdio, que significa que o autor da informação pode recusar que ele é o verdadeiro autor. III. A ferramenta que garante o princípio da confidencialidade é a criptografia. IV. As ferramentas que garantem o princípio da autenticidade são a assinatura digital e o backup.: ",
             "alternativas": {
                 "A": "As afirmativas I, II e III estão corretas. ",
                 "B": "As afirmativas I e III estão corretas. ",
@@ -635,7 +635,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 43",
-            "enunciado": "Analise as afirmativas abaixo sobre redes virtuais e assinale a resposta correta. I. O cenário mais comum de uma VPN é aquele em que um único computador liga -se à rede local da empresa através da Internet. II. VPN é uma tecnologia emergente de troca de dados que divide dispositivos LAN fisicamente em segmentos para realizar grupos de trabalho virtuais. III. A VPN não utiliza criptografia ou chaves de segurança. IV. As VLANs permitem segmentar uma rede física para que duas máquinas na rede não p...",
+            "enunciado": "Analise as afirmativas abaixo sobre redes virtuais e assinale a resposta correta. I. O cenário mais comum de uma VPN é aquele em que um único computador liga -se à rede local da empresa através da Internet. II. VPN é uma tecnologia emergente de troca de dados que divide dispositivos LAN fisicamente em segmentos para realizar grupos de trabalho virtuais. III. A VPN não utiliza criptografia ou chaves de segurança. IV. As VLANs permitem segmentar uma rede física para que duas máquinas na rede não possam transmitir pacotes de um lado para o outro, a menos que façam parte da mesma VLAN. ",
             "alternativas": {
                 "A": "As afirmativas I e III estão corretas. ",
                 "B": "As afirmativas I e IV estão corretas. ",
@@ -665,7 +665,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 4",
-            "enunciado": "Quanto a redes de computadores, analise as afirmativas abaixo e assinale a resposta correta. I. Hub é o dispositivo de rede de camada 2 do modelo OSI (Open Systems Interconnection), uma bridge responsável por encaminhar mensagens para o segmento onde está o destinatário. II. O Roteador é um dispositivo de rede de camada 3 do modelo OSI (Rede) responsável por encaminhar mensagens para o destinatário mesmo que ele não esteja conectado diretamente, tomando como referência uma tabela de rotas. III. ...",
+            "enunciado": "Quanto a redes de computadores, analise as afirmativas abaixo e assinale a resposta correta. I. Hub é o dispositivo de rede de camada 2 do modelo OSI (Open Systems Interconnection), uma bridge responsável por encaminhar mensagens para o segmento onde está o destinatário. II. O Roteador é um dispositivo de rede de camada 3 do modelo OSI (Rede) responsável por encaminhar mensagens para o destinatário mesmo que ele não esteja conectado diretamente, tomando como referência uma tabela de rotas. III. Um gateway atua em todas as camadas do modelo OSI e tem como objetivo permitir a comunicação entre redes com arquiteturas distintas. IV. Placa de Rede é um dispositivo de rede de camada 1 do modelo OSI responsável por repetir as mensagens entre duas portas, pertencentes ao mesmo segmento de rede. ",
             "alternativas": {
                 "A": "As afirmativas I e III estão corretas.. ",
                 "B": "As afirmativas II e III estão corretas. ",
@@ -680,7 +680,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 4",
-            "enunciado": "Com relação ao assunto redes de computadores, analise as afirmativas abaixo quanto ao protocolo TCP/IP e assinale a resposta correta. I. O TCP/IP (Transmission Control Protocol/Internet Protocol) é o protocolo padrão da rede internet. II. O TCP/IP pode oferecer vários serviços aos usuários, tais como o FTP, Telnet e E -mail. III. O TCP é o protocolo internet, que divide os dados em pacotes e que garante o não corrompimento dos dados contidos no pacote. IV. O IP, que é o protocolo de controle de ...",
+            "enunciado": "Com relação ao assunto redes de computadores, analise as afirmativas abaixo quanto ao protocolo TCP/IP e assinale a resposta correta. I. O TCP/IP (Transmission Control Protocol/Internet Protocol) é o protocolo padrão da rede internet. II. O TCP/IP pode oferecer vários serviços aos usuários, tais como o FTP, Telnet e E -mail. III. O TCP é o protocolo internet, que divide os dados em pacotes e que garante o não corrompimento dos dados contidos no pacote. IV. O IP, que é o protocolo de controle de transmissão, identifica os computadores e servidores que compõem a rede. ",
             "alternativas": {
                 "A": "As afirmativas I e II estão corretas. ",
                 "B": "As afirmativas II e III estão corretas. ",
@@ -695,7 +695,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 4",
-            "enunciado": "Analise as afirmativas abaixo e assinale a resposta correta. I. O SMTP é o protocolo que pode ser chamado por programas para efetuar transferência de arquivos. II. O Hypertext Transfer Protocol é um protocolo do nível de aplicação, que possui objetividade e rapidez necessárias para suportar sistemas de informação distribuídos. III. O Telnet possibilita o acesso de sistemas e máquinas que estejam distantes do nosso local atual. IV. O protocolo de configuração dinâmica de hosts ou DHCP é uma série...",
+            "enunciado": "Analise as afirmativas abaixo e assinale a resposta correta. I. O SMTP é o protocolo que pode ser chamado por programas para efetuar transferência de arquivos. II. O Hypertext Transfer Protocol é um protocolo do nível de aplicação, que possui objetividade e rapidez necessárias para suportar sistemas de informação distribuídos. III. O Telnet possibilita o acesso de sistemas e máquinas que estejam distantes do nosso local atual. IV. O protocolo de configuração dinâmica de hosts ou DHCP é uma série de definições de gerenciamento de rede usado para automatizar o processo de configuração de dispositivos em redes IP, permitindo que eles usem serviços de rede como DNS, NTP e qualquer p rotocolo de comunicação baseado em UDP ou TCP. ",
             "alternativas": {
                 "A": "As afirmativas I e III estão corretas. ",
                 "B": "As afirmativas I, II e IV estão corretas. ",
@@ -710,7 +710,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 48",
-            "enunciado": "Analise as afirmativas abaixo sobre Active Directory e assinale a resposta correta. I. Active Directory é uma ferramenta que faz a autenticação, o gerenciamento e o controle de acesso dos usuários de uma rede. II. Um domínio é caracterizado por um grupo de objetos (usuários, computadores, impressoras, etc..), geralmente na localizados na mesma rede física e que compartilham o mesmo banco de dados do AD. III. O Active Directory permite a autenticação de contas de usuário na rede, mas por se basea...",
+            "enunciado": "Analise as afirmativas abaixo sobre Active Directory e assinale a resposta correta. I. Active Directory é uma ferramenta que faz a autenticação, o gerenciamento e o controle de acesso dos usuários de uma rede. II. Um domínio é caracterizado por um grupo de objetos (usuários, computadores, impressoras, etc..), geralmente na localizados na mesma rede física e que compartilham o mesmo banco de dados do AD. III. O Active Directory permite a autenticação de contas de usuário na rede, mas por se basear no Windows Server, permite apenas que computadores com sistemas operacionais da Microsoft façam parte de um domínio. IV. Para facilitar a organização, os domínios possuem um sistema de nome próprio, o DNS, agrupados em um único banco de dados de autenticação executado em um servidor. ",
             "alternativas": {
                 "A": "As afirmativas I e III estão corretas. ",
                 "B": "As afirmativas I, II e IV estão corretas. ",
@@ -725,7 +725,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 49",
-            "enunciado": "Analise as frases abaixo e registre V, para verdadeiras, e F, para falsas: ( ) O DHCP (Dynamic Host Configuration Protocol) é uma ferramenta que permite aos computadores obter um endereço IP automaticamente na rede. ( ) Deve -se utilizar um servidor WINS quando tivermos maquinas com Windows 95, 98, me, NT, quando temos uma grande quantidade de trafego broadcast gerado pela resolução de nomes netbios, ou quando temos um roteador ligando as subredes. ( ) É o DNS que permite que você digite o nome ...",
+            "enunciado": "Analise as frases abaixo e registre V, para verdadeiras, e F, para falsas: ( ) O DHCP (Dynamic Host Configuration Protocol) é uma ferramenta que permite aos computadores obter um endereço IP automaticamente na rede. ( ) Deve -se utilizar um servidor WINS quando tivermos maquinas com Windows 95, 98, me, NT, quando temos uma grande quantidade de trafego broadcast gerado pela resolução de nomes netbios, ou quando temos um roteador ligando as subredes. ( ) É o DNS que permite que você digite o nome de um domínio na barra de endereços, em vez de uma longa sequência de números difícil de decorar. ( ) O FTP (File Transfer Protocol) permite que desenvolvedores de sites promovam mudanças de maneira conveniente e segura, mesmo que você tenha que transferir um grande número de arquivos. Em português, ele se traduz como Protocolo de Transferência de Arq uivos. Assinale a alternativa com a sequência correta: ",
             "alternativas": {
                 "A": "V - F - F - F. ",
                 "B": "V - F - V - V. ",
@@ -740,7 +740,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2023",
             "questão": "Questão 50",
-            "enunciado": "Com relação a arquitetura e funcionamento de ambiente virtualizado VMWARE, analise as afirmações à seguir e assinale a alternativa correta: I. A arquitetura de computação em nuvem permite que as organizações reduzam ou eliminem sua dependência na infraestrutura de rede, no servidor e no armazenamento locais. II. Em uma arquitetura de nuvem pública, os recursos de processamento pertencem e são operados por um provedor de serviços de computação em nuvem. Esses recursos são compartilhados e redistr...",
+            "enunciado": "Com relação a arquitetura e funcionamento de ambiente virtualizado VMWARE, analise as afirmações à seguir e assinale a alternativa correta: I. A arquitetura de computação em nuvem permite que as organizações reduzam ou eliminem sua dependência na infraestrutura de rede, no servidor e no armazenamento locais. II. Em uma arquitetura de nuvem pública, os recursos de processamento pertencem e são operados por um provedor de serviços de computação em nuvem. Esses recursos são compartilhados e redistribuídos entre vários locatários pela Internet. As vantagens da nuv em pública são os custos operacionais reduzidos, o fácil dimensionamento e a baixa manutenção. III. A principal desvantagem da computação em nuvem é o seu alto custo e a não disponibilidade de sistemas 24 horas por dia, 7 dias por semana. IV. Seguindo os princípios e as práticas recomendadas da arquitetura de nuvem, as organizações garantem mais valor real aos negócios com seus investimentos em nuvem e preparam seu ambiente de TI para o futuro. ",
             "alternativas": {
                 "A": "As afirmativas I e III estão corretas. ",
                 "B": "As afirmativas I, II e IV estão corretas. ",

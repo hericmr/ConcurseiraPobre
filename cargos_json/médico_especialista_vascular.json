@@ -260,7 +260,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 18",
-            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ...",
+            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ímpar e subtrai -se 9 de resultados maiores do que 9 (Ex.: [8⋅2]2[1⋅2]→[16−9]2[2]⇒722); 3) Soma -se todos os dígitos (Ex.: 7+2+ 2=11); 4) O dígito verificador é o menor número que, adicionado a soma, resulta em um múltiplo de 10 (Ex. 11+9=20). Então no exemplo acima, o dígito verificador seria o 9. Considere o código 835X, onde X é o dígito verificador a ser calculado. Qual é o valor de X? ",
             "alternativas": {
                 "A": "1. ",
                 "B": "9. ",
@@ -530,7 +530,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 36",
-            "enunciado": "Um paciente do sexo masculino, 65 anos, hipertenso e tabagista, apresenta queixa de dor em repouso na perna direita, claudicação intermitente a uma distância de 100 metros e úlcera isquêmica na região maleolar medial. Ao exame físico, observa -se: • Ausência de pulsos pediosos e tibial posterior direito. • Presença de sopro sistólico em região inguinal direita. • Edema em tornozelo direito com 2 cm de diferença em relação ao membro contralateral. Com base no quadro clínico e no exame físico, qua...",
+            "enunciado": "Um paciente do sexo masculino, 65 anos, hipertenso e tabagista, apresenta queixa de dor em repouso na perna direita, claudicação intermitente a uma distância de 100 metros e úlcera isquêmica na região maleolar medial. Ao exame físico, observa -se: • Ausência de pulsos pediosos e tibial posterior direito. • Presença de sopro sistólico em região inguinal direita. • Edema em tornozelo direito com 2 cm de diferença em relação ao membro contralateral. Com base no quadro clínico e no exame físico, qual a principal hipótese diagnóstica para esse paciente? ",
             "alternativas": {
                 "A": "Trombose venosa profunda de membro inferior direito. ",
                 "B": "Insuficiência venosa crônica de membro inferior direito. ",
@@ -1010,7 +1010,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 18",
-            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ...",
+            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ímpar e subtrai -se 9 de resultados maiores do que 9 (Ex.: [8⋅2]2[1⋅2]→[16−9]2[2]⇒722); 3) Soma -se todos os dígitos (Ex.: 7+2+ 2=11); 4) O dígito verificador é o menor número que, adicionado a soma, resulta em um múltiplo de 10 (Ex. 11+9=20). Então no exemplo acima, o dígito verificador seria o 9. Considere o código 835X, onde X é o dígito verificador a ser calculado. Qual é o valor de X? ",
             "alternativas": {
                 "A": "1. ",
                 "B": "9. ",
@@ -1280,7 +1280,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 36",
-            "enunciado": "Um paciente do sexo masculino, 65 anos, hipertenso e tabagista, apresenta queixa de dor em repouso na perna direita, claudicação intermitente a uma distância de 100 metros e úlcera isquêmica na região maleolar medial. Ao exame físico, observa -se: • Ausência de pulsos pediosos e tibial posterior direito. • Presença de sopro sistólico em região inguinal direita. • Edema em tornozelo direito com 2 cm de diferença em relação ao membro contralateral. Com base no quadro clínico e no exame físico, qua...",
+            "enunciado": "Um paciente do sexo masculino, 65 anos, hipertenso e tabagista, apresenta queixa de dor em repouso na perna direita, claudicação intermitente a uma distância de 100 metros e úlcera isquêmica na região maleolar medial. Ao exame físico, observa -se: • Ausência de pulsos pediosos e tibial posterior direito. • Presença de sopro sistólico em região inguinal direita. • Edema em tornozelo direito com 2 cm de diferença em relação ao membro contralateral. Com base no quadro clínico e no exame físico, qual a principal hipótese diagnóstica para esse paciente? ",
             "alternativas": {
                 "A": "Trombose venosa profunda de membro inferior direito. ",
                 "B": "Insuficiência venosa crônica de membro inferior direito. ",

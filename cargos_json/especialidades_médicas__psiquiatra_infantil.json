@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -410,7 +410,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 28",
-            "enunciado": "Com base nos conceitos epidemiológicos, analise os itens: I - Epidemia é a elevação brusca, inesperada e temporária da incidência de determinada doença, ultrapassando os valores esperados para a popul ação no período em questão. II - Pandemia é a ocorrência epidêmica caracterizada por uma larga distribuição espacial, atingindo várias nações. III - Endemia refere -se a uma doença , habitualmente , presente entre os membros de um determinado grupo, dentro dos limites esperados, em uma determinada ...",
+            "enunciado": "Com base nos conceitos epidemiológicos, analise os itens: I - Epidemia é a elevação brusca, inesperada e temporária da incidência de determinada doença, ultrapassando os valores esperados para a popul ação no período em questão. II - Pandemia é a ocorrência epidêmica caracterizada por uma larga distribuição espacial, atingindo várias nações. III - Endemia refere -se a uma doença , habitualmente , presente entre os membros de um determinado grupo, dentro dos limites esperados, em uma determinada área geográfica, por um período de tempo ilimitado . É correto o que se afirma em: ",
             "alternativas": {
                 "A": "I, II e III. ",
                 "B": "I, apenas. ",
@@ -725,7 +725,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 49",
-            "enunciado": "Analise os itens, abaixo, sobre o Transtorno Desintegrativo da Infância: I - é caracterizado por regressão acentuada em diversas áreas do funcionamento após pelo menos dois anos de desenvolvimento aparentemente normal. II - ocorre em crianças entre 3 e 4 anos de idade com funções anteriormente normais. Após a deterioração, estas ficam bastante parecidas com crianças com transtorno autista. III - o curso do transtorno desintegrativo da infância é variável, alcançando um platô na maioria dos casos...",
+            "enunciado": "Analise os itens, abaixo, sobre o Transtorno Desintegrativo da Infância: I - é caracterizado por regressão acentuada em diversas áreas do funcionamento após pelo menos dois anos de desenvolvimento aparentemente normal. II - ocorre em crianças entre 3 e 4 anos de idade com funções anteriormente normais. Após a deterioração, estas ficam bastante parecidas com crianças com transtorno autista. III - o curso do transtorno desintegrativo da infância é variável, alcançando um platô na maioria dos casos, um curso deteriorante progressivo em casos raros e alguns casos ocasionais apresentam alguma melhora, a ponto de haver recuperação da capacidade de falar frases. É correto o que se afirma em: ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "III, apenas. ",

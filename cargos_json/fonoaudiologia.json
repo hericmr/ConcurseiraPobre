@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavr a PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 par...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavr a PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -380,7 +380,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 26",
-            "enunciado": "Referente as diretrizes pautadas, no código de ética do fonoaudiólogo, aponte VERDADEIRO ou FALSO e assinale a alternativa correta. Constituem princípios gerais éticos e bioéticos adotados pela Fonoaudiologia : I - Exercício da atividade buscando maximizar os benefícios e minimizar os danos ao s clientes, à coletividade e ao ecossistema ; II - Respeito à autonomia do cliente e, nas relações de trabalho, do profissional ; III - O exercício da Fonoaudiologia por meio da Telefonoaudiologia, mediado...",
+            "enunciado": "Referente as diretrizes pautadas, no código de ética do fonoaudiólogo, aponte VERDADEIRO ou FALSO e assinale a alternativa correta. Constituem princípios gerais éticos e bioéticos adotados pela Fonoaudiologia : I - Exercício da atividade buscando maximizar os benefícios e minimizar os danos ao s clientes, à coletividade e ao ecossistema ; II - Respeito à autonomia do cliente e, nas relações de trabalho, do profissional ; III - O exercício da Fonoaudiologia por meio da Telefonoaudiologia, mediado por tecnologias da informação e comunicação, deve se guir os preceitos éticos deste Código ; ",
             "alternativas": {
                 "A": "I, II e III são VERDADEIROS. ",
                 "B": "I é FALSO e II e III são VERDADEIROS. ",
@@ -410,7 +410,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 28",
-            "enunciado": "Assinale a alternativa cuja definição: é dado como um processo funcional e operacional de suma e fundamental importância em serviços de saúde, não só por abordar medidas de controle de infecções para proteção da equipe de assistência e usuários em saúde, mas p or ter um papel essencial na promoção da consciência sanitária, sobre a importância da preservação do meio ambiente na manipulação e no descarte de resíduos comuns, perfurocortantes, biológicos, químicos, radioativos, na redução geral de r...",
+            "enunciado": "Assinale a alternativa cuja definição: é dado como um processo funcional e operacional de suma e fundamental importância em serviços de saúde, não só por abordar medidas de controle de infecções para proteção da equipe de assistência e usuários em saúde, mas p or ter um papel essencial na promoção da consciência sanitária, sobre a importância da preservação do meio ambiente na manipulação e no descarte de resíduos comuns, perfurocortantes, biológicos, químicos, radioativos, na redução geral de riscos à saúde e a cidentes ocupacionais . ",
             "alternativas": {
                 "A": "Epidemiologia. ",
                 "B": "Higienização. ",

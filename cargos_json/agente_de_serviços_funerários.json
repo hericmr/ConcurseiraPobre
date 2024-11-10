@@ -305,7 +305,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "02/2023",
             "questão": "Questão 21",
-            "enunciado": "Maria criou um jogo: Ela escreve em pedaços de papel os números de 1 a 100, e coloca numa caixa escura. Aleatoriamente, ela tira um papel da caixa, olha o número correspondente, e aplica uma das seguintes regras: I – Se o número for par: Soma dois e divide o resultado por dois; II – Se o número for ímpar: Soma um e divide o resultado por dois E segue aplicando as mesmas regras para os números resultantes, até que dois resultados sucessivos sejam iguais. Se Maria tirou da caixa o número 59, quant...",
+            "enunciado": "Maria criou um jogo: Ela escreve em pedaços de papel os números de 1 a 100, e coloca numa caixa escura. Aleatoriamente, ela tira um papel da caixa, olha o número correspondente, e aplica uma das seguintes regras: I – Se o número for par: Soma dois e divide o resultado por dois; II – Se o número for ímpar: Soma um e divide o resultado por dois E segue aplicando as mesmas regras para os números resultantes, até que dois resultados sucessivos sejam iguais. Se Maria tirou da caixa o número 59, quantas operações numéricas foram feitas até acabar o jogo? ",
             "alternativas": {
                 "A": "11. ",
                 "B": "12. ",
@@ -395,7 +395,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "02/2023",
             "questão": "Questão 27",
-            "enunciado": "Uma empresa de saneamento básico estabelece que um dos critérios para o cliente receber um desconto na sua conta de água é ter consumido, no máximo, nos últimos três meses, 6 m³ de água em média. Sabendo disso, um cliente se prepara para poder solicitar esse desconto. O histórico de consumo desse cliente é mostrado na tabela abaixo. Mês Consumo (m3) Agosto 8 Julho 5 Junho 6 Maio 7 Abril 4 Qual deve ser o consumo máximo do cliente no mês de setembro para que ele possa receber o desconto no mês de...",
+            "enunciado": "Uma empresa de saneamento básico estabelece que um dos critérios para o cliente receber um desconto na sua conta de água é ter consumido, no máximo, nos últimos três meses, 6 m³ de água em média. Sabendo disso, um cliente se prepara para poder solicitar esse desconto. O histórico de consumo desse cliente é mostrado na tabela abaixo. Mês Consumo (m3) Agosto 8 Julho 5 Junho 6 Maio 7 Abril 4 Qual deve ser o consumo máximo do cliente no mês de setembro para que ele possa receber o desconto no mês de outubro? ",
             "alternativas": {
                 "A": "5 m³. ",
                 "B": "6 m³. ",
@@ -530,7 +530,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "02/2023",
             "questão": "Questão 36",
-            "enunciado": "Um professor decide dar as notas de uma disciplina semestral da seguinte maneira: toda semana serão feitos testes sobre o assunto. Ao finalizar todos os testes, será tirada uma média dessas notas e esta média terá peso 2 para a composição da nota do semestre. Além dos testes semanais, no final do semestre será feito uma prova final com todo assunto e terá peso 8. A tabela abaixo resume como se saíram alguns alunos: Aluno Média dos testes Nota da prova final Paulo 6 7 Pedro 6 6 Maria 10 8 Manuela...",
+            "enunciado": "Um professor decide dar as notas de uma disciplina semestral da seguinte maneira: toda semana serão feitos testes sobre o assunto. Ao finalizar todos os testes, será tirada uma média dessas notas e esta média terá peso 2 para a composição da nota do semestre. Além dos testes semanais, no final do semestre será feito uma prova final com todo assunto e terá peso 8. A tabela abaixo resume como se saíram alguns alunos: Aluno Média dos testes Nota da prova final Paulo 6 7 Pedro 6 6 Maria 10 8 Manuela 7 10 Isaque 5 9 Indique a ordem desses alunos ordenando-os da maior para a menor média ponderada semestral: ",
             "alternativas": {
                 "A": "Paulo, Maria, Manuela, Isaque e Pedro. ",
                 "B": "Isaque, Pedro, Manuela, Maria e Paulo. ",
@@ -545,7 +545,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "02/2023",
             "questão": "Questão 37",
-            "enunciado": "Paulo, João, Lucas, Manoel e Vítor fizeram um jogo com as seguintes regras: • Paulo escolhe um número; • João fala o dobro desse número; • Lucas fala o dobro do número que João falou; • E assim sucessivamente os demais vão falando o dobro do número que a pessoa anterior falou, seguindo a ordem circular Paulo-João- Lucas-Manoel-Vítor O jogo vai continuando até que um deles erre ao dizer o dobro do número escolhido anteriormente. Sabendo que Paulo escolheu o número 6 inicialmente e que o último nú...",
+            "enunciado": "Paulo, João, Lucas, Manoel e Vítor fizeram um jogo com as seguintes regras: • Paulo escolhe um número; • João fala o dobro desse número; • Lucas fala o dobro do número que João falou; • E assim sucessivamente os demais vão falando o dobro do número que a pessoa anterior falou, seguindo a ordem circular Paulo-João- Lucas-Manoel-Vítor O jogo vai continuando até que um deles erre ao dizer o dobro do número escolhido anteriormente. Sabendo que Paulo escolheu o número 6 inicialmente e que o último número corretamente dito foi 192, qual deles falhou ao dizer o dobro do número anteriormente dito? ",
             "alternativas": {
                 "A": "Lucas. ",
                 "B": "João. ",

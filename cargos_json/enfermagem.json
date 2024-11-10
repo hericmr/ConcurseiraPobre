@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de co mpras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 par...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de co mpras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -380,7 +380,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 26",
-            "enunciado": "Os procedimentos básicos de enfermagem envolvem técnicas que podem ser implementadas pela equipe de enfermagem sob supervisão do enfermeiro. A condução das técnicas deve ser fundamentada na literatura e resguardar a segurança do profissional e do paciente. O objetivo dos procedimentos básicos de enfermagem é: I - obter qualidade na assistência oferecida. II - reduzir custos. III - auxiliar o paciente na recuperação. IV - promover conforto. Sobre os itens , acima, está correto o que se afirma em:...",
+            "enunciado": "Os procedimentos básicos de enfermagem envolvem técnicas que podem ser implementadas pela equipe de enfermagem sob supervisão do enfermeiro. A condução das técnicas deve ser fundamentada na literatura e resguardar a segurança do profissional e do paciente. O objetivo dos procedimentos básicos de enfermagem é: I - obter qualidade na assistência oferecida. II - reduzir custos. III - auxiliar o paciente na recuperação. IV - promover conforto. Sobre os itens , acima, está correto o que se afirma em: ",
             "alternativas": {
                 "A": "I, II, III e IV. ",
                 "B": "I, III e IV, apenas. ",
@@ -500,7 +500,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 34",
-            "enunciado": "Analise as afirmativas a seguir sobre nebulização/in alação, coloque V para verdadeiro e F para falso. Posteriormente , assinale a alternativa que apresenta a sequência correta: (__) Umidiﬁcar as vias aéreas, ﬂuidiﬁcar secreções da membrana mucosa do trato respiratório, facilitando a sua expectoração e mante r a permeabilidade da via aérea. (__) A administração de drogas , diretamente , ao trato respiratório em forma de aerossol ou vapor é denominada inaloterapia. (__) A principal vantagem da in...",
+            "enunciado": "Analise as afirmativas a seguir sobre nebulização/in alação, coloque V para verdadeiro e F para falso. Posteriormente , assinale a alternativa que apresenta a sequência correta: (__) Umidiﬁcar as vias aéreas, ﬂuidiﬁcar secreções da membrana mucosa do trato respiratório, facilitando a sua expectoração e mante r a permeabilidade da via aérea. (__) A administração de drogas , diretamente , ao trato respiratório em forma de aerossol ou vapor é denominada inaloterapia. (__) A principal vantagem da inaloterapia é que se alia à utilização de baixas doses de medicamentos (geralmente , em microdosagens) com penetração ativa, boa concentração pulmonar da droga e poucos efeitos adversos sistêmicos. ",
             "alternativas": {
                 "A": "V – V – V. ",
                 "B": "F – V – V. ",

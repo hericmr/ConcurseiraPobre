@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -470,7 +470,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 32",
-            "enunciado": "Analise as afirmativas a seguir a respeito de René Spitz : I. Para René Spitz, a primeir a fase é conhecid a como pré-objetal, onde o recém nascido não consegue distinguir um coisa externa de seu próprio corpo e não experimenta o meio que o cerca como separado dele mesmo . II. A segunda fase é o precursor do objeto, que ocorre a partir dos dois meses, o rosto humano torna -se um “percepto visual privilegi ado” e o bebê é capaz de isolá -lo e distingui -lo do plano de fundo . III. O estágio do pr...",
+            "enunciado": "Analise as afirmativas a seguir a respeito de René Spitz : I. Para René Spitz, a primeir a fase é conhecid a como pré-objetal, onde o recém nascido não consegue distinguir um coisa externa de seu próprio corpo e não experimenta o meio que o cerca como separado dele mesmo . II. A segunda fase é o precursor do objeto, que ocorre a partir dos dois meses, o rosto humano torna -se um “percepto visual privilegi ado” e o bebê é capaz de isolá -lo e distingui -lo do plano de fundo . III. O estágio do próprio objeto libidinal, que representa uma nova fase no desenvolvimento infantil sendo o “segundo organizador” da psique . Marque a alternativa correta: ",
             "alternativas": {
                 "A": "As afirmativas I, II e III estão corretas. ",
                 "B": "A afirmativa II está correta. ",
@@ -485,7 +485,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 33",
-            "enunciado": "De acordo com a teoria piagetiana, analise as afirmativas abaixo e marque V para verdadeiras e F para as falsas. ( ) Jean Piaget, esquematizou o desenvolvimento em uma sequência de estágios como: sensório motor, pré -operatório, operatório concreto e operatório formal. ( ) A acomodação é uma variação de comportamento e nã o uma mera reação a determinados estímulos . ( ) N o processo de assimilação, o que é novo, às vezes, oferece certas resistências ao conhecimento e para conhecer esse objeto o ...",
+            "enunciado": "De acordo com a teoria piagetiana, analise as afirmativas abaixo e marque V para verdadeiras e F para as falsas. ( ) Jean Piaget, esquematizou o desenvolvimento em uma sequência de estágios como: sensório motor, pré -operatório, operatório concreto e operatório formal. ( ) A acomodação é uma variação de comportamento e nã o uma mera reação a determinados estímulos . ( ) N o processo de assimilação, o que é novo, às vezes, oferece certas resistências ao conhecimento e para conhecer esse objeto o sujeito precisa modificar suas estruturas mentais e acomodá -las. ( ) A Epist emologia Genética proposta por Piaget é baseada na inteligência e na construção do conhecimento e visa responder não só como os homens, sozinhos ou em conjunto, constroem conhecimentos, mas também por quais processos e por quais etapas eles conseguem fazer isso. Marque a alternativa que apresenta a sequência correta, considerando as afirmativas de cima para baixo: ",
             "alternativas": {
                 "A": "V, F, V, F. ",
                 "B": "F, V, F, V. ",
@@ -545,7 +545,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 37",
-            "enunciado": "Acerca da Teoria Centrada na Pessoa, julgue os itens a seguir, e assinale a alternativa correta: I. O pressuposto fundamental da Abordagem Centrada na Pessoa é que em todo indivíduo existe uma tendência atualizadora, uma tendência inerente ao organismo para crescer, desenvolver e atualizar suas potencialidades numa direção positiva e construtiva. II. Foi desenvolvida em 1930 por Viktor Frankl. III. Carl Rogers, propõe três condições para que se possa alcançar resultados positivos no processo ter...",
+            "enunciado": "Acerca da Teoria Centrada na Pessoa, julgue os itens a seguir, e assinale a alternativa correta: I. O pressuposto fundamental da Abordagem Centrada na Pessoa é que em todo indivíduo existe uma tendência atualizadora, uma tendência inerente ao organismo para crescer, desenvolver e atualizar suas potencialidades numa direção positiva e construtiva. II. Foi desenvolvida em 1930 por Viktor Frankl. III. Carl Rogers, propõe três condições para que se possa alcançar resultados positivos no processo terapêutico: congruência, aceitação incondicional e empatia. ",
             "alternativas": {
                 "A": "Apenas o item I é verdadeiro. ",
                 "B": "Apenas os itens I e III são verdadeiros. ",
@@ -575,7 +575,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 39",
-            "enunciado": "Na TCC, os terapeutas incentivam o desenvolvimento e a aplicação de processos conscientes adaptativos de pensamento, como o pensamento racional e a solução de problemas. O terapeuta também dedica bastante esforço para ajudar os pacientes a reconhecer e mudar o pensamento patológico em dois níveis de processamento de informações relativamente autônomo: _______________ e ______ ________ (Beck et al., 1979; D. A. Clark et al., 1999; Wright et al., 2003). Assinale a alternativa que preenche os espaç...",
+            "enunciado": "Na TCC, os terapeutas incentivam o desenvolvimento e a aplicação de processos conscientes adaptativos de pensamento, como o pensamento racional e a solução de problemas. O terapeuta também dedica bastante esforço para ajudar os pacientes a reconhecer e mudar o pensamento patológico em dois níveis de processamento de informações relativamente autônomo: _______________ e ______ ________ (Beck et al., 1979; D. A. Clark et al., 1999; Wright et al., 2003). Assinale a alternativa que preenche os espaços corretamente: ",
             "alternativas": {
                 "A": "Pensamentos automáticos e esquemas. ",
                 "B": "Crenças nucleares e esquemas. ",

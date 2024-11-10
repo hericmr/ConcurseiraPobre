@@ -425,7 +425,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "02/2022",
             "questão": "Questão 29",
-            "enunciado": "Assinale V para verdadeiro e F para falso. I. USB é a sigla em inglês de Universal Serial Bus (“Porta Universal”, em português). II. As atuais conexões US B são do padrão PnP (Plug and Play ou “Plugar e Usar”, em português). III. O avanço da tecnologia USB acabou dificultando todas as maneiras de conexão existente na configuração desses dispositivos, por existirem uma gama diferente de formatos diferentes. IV. O UHCI (Universal Host Controller Interface) apoiado pela Compaq, Microsoft e National...",
+            "enunciado": "Assinale V para verdadeiro e F para falso. I. USB é a sigla em inglês de Universal Serial Bus (“Porta Universal”, em português). II. As atuais conexões US B são do padrão PnP (Plug and Play ou “Plugar e Usar”, em português). III. O avanço da tecnologia USB acabou dificultando todas as maneiras de conexão existente na configuração desses dispositivos, por existirem uma gama diferente de formatos diferentes. IV. O UHCI (Universal Host Controller Interface) apoiado pela Compaq, Microsoft e National Semiconductor, que transferia a maior parte do esforço para o controlador eletrônico. V. A primeira versão do USB foi chamada de USB 0.7, lançada em novembro de 1994. Este modelo conseguia atingir uma velocidade máxima de 1,5 MB por segundo de transferência de dados. ",
             "alternativas": {
                 "A": "V – F – F – V – F. ",
                 "B": "V – V – F – F – V. ",
@@ -635,7 +635,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "02/2022",
             "questão": "Questão 43",
-            "enunciado": "Marque V para verdadeiro e F para falso. I. O POP – mais precisamente POP3 – também conhecido como Post Office Protocol, é o conjunto de regras para que um dispositivo conecte -se a um servidor de e -mail e faça o download das mensagens relativas a uma conta de e -mail. Por padrão, assim que mensagens a transferência para o dispositivo de destino é concluída, as mensagens são apagadas do servidor. II. O JBOD significa Protocolo de Acesso a Mensagem de Internet, ocorre a leitura da estrutura de p...",
+            "enunciado": "Marque V para verdadeiro e F para falso. I. O POP – mais precisamente POP3 – também conhecido como Post Office Protocol, é o conjunto de regras para que um dispositivo conecte -se a um servidor de e -mail e faça o download das mensagens relativas a uma conta de e -mail. Por padrão, assim que mensagens a transferência para o dispositivo de destino é concluída, as mensagens são apagadas do servidor. II. O JBOD significa Protocolo de Acesso a Mensagem de Internet, ocorre a leitura da estrutura de pastas e do conteúdo contido nelas em tempo real, ou seja, há a sincronização entre o programa usado e a conta de e -mail. III. O DHCP de forma simplificada, ele determina de forma dinâmica e automática a atribuição de um endereço IP para seu dispositivo. Assim, a cada conexão feita, o dispositivo (smartphone, notebook, tablet, etc) recebe um IP que pode ser diferente da conexão anterior, de acordo com a disponibilidade de endereços IPs livres. IV. Assim como o FTPS, o SFTP também institui uma camada extra de segurança, porém usando o protocolo de segurança SSH (Secure Shell). V. À medida em que a evolução da Internet exigiu mais cuidados com aspectos de segurança, o HTTP puro e simples, vem caindo em desuso em detrimento do HTTPS, que nada mais é do que dotar a troca de dados entre o servidor e o visitante de criptografia, por meio da instalação de um certificado SSL. ",
             "alternativas": {
                 "A": "F – F – V – V – F. ",
                 "B": "V – F – F – V – F. ",
@@ -680,7 +680,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "02/2022",
             "questão": "Questão 46",
-            "enunciado": "Analise o texto abaixo e escolha a opção que representa o texto em questão. “...é o processo de criar uma representação visual, ou esquema, que define os sistemas de coleta e gerenciamento d e informações de qualquer organização. Esse blueprint ou modelo de dados ajuda diferentes partes interessadas, como analistas de dados, cientistas e engenheiros, a criar uma visão unificada dos dados da organização. O modelo descreve quais dados a empresa coleta, a relação entre diferentes conjuntos de dados...",
+            "enunciado": "Analise o texto abaixo e escolha a opção que representa o texto em questão. “...é o processo de criar uma representação visual, ou esquema, que define os sistemas de coleta e gerenciamento d e informações de qualquer organização. Esse blueprint ou modelo de dados ajuda diferentes partes interessadas, como analistas de dados, cientistas e engenheiros, a criar uma visão unificada dos dados da organização. O modelo descreve quais dados a empresa coleta, a relação entre diferentes conjuntos de dados e os métodos que serão usados para armazenar e analisar esses dados.” ",
             "alternativas": {
                 "A": "Banco de dados. ",
                 "B": "MySQL. ",
@@ -725,7 +725,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "02/2022",
             "questão": "Questão 49",
-            "enunciado": "Marque V para verdadeiro e F para falso. I. A primeira versão do SQL foi desenvolvida pela IMB, ela surgiu nos anos 80, com o objetivo de trabalhar com bancos de dados relacionais. II. A linguagem SQL é um padrão para bancos de dados relacionais. Ela foi padronizada no final dos anos 80 por um instituto chamado ANSI (American National Standards Institute) e posteriormente pela ISO (International Organization for Standardizat ion). III. Mas no início ela se chamava SEQUEL (Structured English Quer...",
+            "enunciado": "Marque V para verdadeiro e F para falso. I. A primeira versão do SQL foi desenvolvida pela IMB, ela surgiu nos anos 80, com o objetivo de trabalhar com bancos de dados relacionais. II. A linguagem SQL é um padrão para bancos de dados relacionais. Ela foi padronizada no final dos anos 80 por um instituto chamado ANSI (American National Standards Institute) e posteriormente pela ISO (International Organization for Standardizat ion). III. Mas no início ela se chamava SEQUEL (Structured English Query Language). Ainda é chamada assim até hoje nos Estados Unidos. ",
             "alternativas": {
                 "A": "F – V – V. ",
                 "B": "V – F – V. ",
