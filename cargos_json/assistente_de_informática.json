@@ -305,7 +305,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 21",
-            "enunciado": "Numa escola, cada aluno tem um armário para guardar seus pertences. Os armários são enfileirados e enumerados. Os armários enumerados de 1 a 5 pertencem aos estudantes Matilde, Jéssica, Ana, Gabriel e Carlos, não necessariamente nesta ordem. No primeiro di a de Gabriel, ele não sabia qual seria o seu armário, e perguntou para os demais colegas. Eles responderam: • O número do armário de Matilde é maior que o seu; • O número do armário de Carlos é maior que o de Matilde; • Os dois últimos armário...",
+            "enunciado": "Numa escola, cada aluno tem um armário para guardar seus pertences. Os armários são enfileirados e enumerados. Os armários enumerados de 1 a 5 pertencem aos estudantes Matilde, Jéssica, Ana, Gabriel e Carlos, não necessariamente nesta ordem. No primeiro di a de Gabriel, ele não sabia qual seria o seu armário, e perguntou para os demais colegas. Eles responderam: • O número do armário de Matilde é maior que o seu; • O número do armário de Carlos é maior que o de Matilde; • Os dois últimos armários pertencem a Jéssica ou a Ana; Com essas informações, qual o número do armário de Gabriel? ",
             "alternativas": {
                 "A": "1. ",
                 "B": "2. ",
@@ -320,7 +320,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 22",
-            "enunciado": "Dois reservatórios A e B, de 1000 litros cada, serão cheios por torneiras que têm vazões diferentes. Antes de começar o enchimento, o reservatório A está incialmente vazio e o reservatório B já está com 1/8 do seu volume preenchido. A torneira que encherá o reservatório A despejará 6 litros de água a cada segundo. Já a torneira que encherá o reservatório B despejará 2 litros de água a cada segundo. Sabendo -se que as duas torneiras serão ligadas simultaneamente, em quanto tempo após o ligamento ...",
+            "enunciado": "Dois reservatórios A e B, de 1000 litros cada, serão cheios por torneiras que têm vazões diferentes. Antes de começar o enchimento, o reservatório A está incialmente vazio e o reservatório B já está com 1/8 do seu volume preenchido. A torneira que encherá o reservatório A despejará 6 litros de água a cada segundo. Já a torneira que encherá o reservatório B despejará 2 litros de água a cada segundo. Sabendo -se que as duas torneiras serão ligadas simultaneamente, em quanto tempo após o ligamento os reservatór ios terão o mesmo volume? ",
             "alternativas": {
                 "A": "31,25 segundos. ",
                 "B": "15,12 segundos. ",
@@ -560,7 +560,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 38",
-            "enunciado": "A segurança de rede é fundamental para proteger dados e sistemas inteiros através de firewall, criptografia e políticas de acesso a informações sensíveis e confidenciais. Em conjunto com a Lei Geral de Proteção de Dados Pessoais (LGPD) e softwares modernos de segurança, as empresas buscam cada vez mais proteger a segurança das informações pessoais de seus clientes. O Transport Layer Security (TLS) é um protocolo de segurança de rede. De acordo com suas normas estabelecidas, o propósito de sua cr...",
+            "enunciado": "A segurança de rede é fundamental para proteger dados e sistemas inteiros através de firewall, criptografia e políticas de acesso a informações sensíveis e confidenciais. Em conjunto com a Lei Geral de Proteção de Dados Pessoais (LGPD) e softwares modernos de segurança, as empresas buscam cada vez mais proteger a segurança das informações pessoais de seus clientes. O Transport Layer Security (TLS) é um protocolo de segurança de rede. De acordo com suas normas estabelecidas, o propósito de sua criptografia simétrica durante comunicação é dado para: ",
             "alternativas": {
                 "A": "identificar o IP para confirmar o destino. ",
                 "B": "facilitar a negociação de chaves de segurança. ",
@@ -635,7 +635,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 43",
-            "enunciado": "A diafonia (Crosstalk) pode apresentar -se de duas formas distintas. Associe cada forma de diafonia com sua respectiva nomenclatura: I) paradiafonia ou NEXT (Near End Crosstalk) II) telediafonia ou FEXT (Far End Crosstalk) III) intradiafonia ou IEXT (Infraestructure End Crosstalk) a) Não é uma forma de diafonia. b) A diafonia medida no par interferido (aquele que sobre o efeito da interferência) na mesma extremidade em que se encontra o par interferente (aquele que causa a interferência onde est...",
+            "enunciado": "A diafonia (Crosstalk) pode apresentar -se de duas formas distintas. Associe cada forma de diafonia com sua respectiva nomenclatura: I) paradiafonia ou NEXT (Near End Crosstalk) II) telediafonia ou FEXT (Far End Crosstalk) III) intradiafonia ou IEXT (Infraestructure End Crosstalk) a) Não é uma forma de diafonia. b) A diafonia medida no par interferido (aquele que sobre o efeito da interferência) na mesma extremidade em que se encontra o par interferente (aquele que causa a interferência onde está a fonte de ruído. c) A diafonia medida no par interferido, na extremidade oposta àquela onde se encontra a fonte de ruído no par interferente. ",
             "alternativas": {
                 "A": "I-a; II-b; III -c. ",
                 "B": "I-c; II-b; III -a. ",
@@ -665,7 +665,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 45",
-            "enunciado": "Roteadores e switches Cisco são configurados em uma interface de prompt de comando IOS (Internetworking Operating System) que pode ser acessada através de um terminal, console serial ou conexão SSH/Telnet. A interface utiliza de um sistema de permissões pa ra que o usuário navegue e edite as informações e configurações do dispositivo. Ao iniciar o CLI, o usuário se encontrará no modo padrão de navegação User EXEC. Para que possa acessar um modo mais avançado e ter acesso a mais ferramentas e com...",
+            "enunciado": "Roteadores e switches Cisco são configurados em uma interface de prompt de comando IOS (Internetworking Operating System) que pode ser acessada através de um terminal, console serial ou conexão SSH/Telnet. A interface utiliza de um sistema de permissões pa ra que o usuário navegue e edite as informações e configurações do dispositivo. Ao iniciar o CLI, o usuário se encontrará no modo padrão de navegação User EXEC. Para que possa acessar um modo mais avançado e ter acesso a mais ferramentas e comandos do CLI, o usuário precisa acessar o modo Privileged EXEC. Qual das alternativas indica o comando para realizar a ação requerida pelo usuário? ",
             "alternativas": {
                 "A": "show interface ",
                 "B": "enable ",
@@ -1055,7 +1055,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 21",
-            "enunciado": "Numa escola, cada aluno tem um armário para guardar seus pertences. Os armários são enfileirados e enumerados. Os armários enumerados de 1 a 5 pertencem aos estudantes Matilde, Jéssica, Ana, Gabriel e Carlos, não necessariamente nesta ordem. No primeiro di a de Gabriel, ele não sabia qual seria o seu armário, e perguntou para os demais colegas. Eles responderam: • O número do armário de Matilde é maior que o seu; • O número do armário de Carlos é maior que o de Matilde; • Os dois últimos armário...",
+            "enunciado": "Numa escola, cada aluno tem um armário para guardar seus pertences. Os armários são enfileirados e enumerados. Os armários enumerados de 1 a 5 pertencem aos estudantes Matilde, Jéssica, Ana, Gabriel e Carlos, não necessariamente nesta ordem. No primeiro di a de Gabriel, ele não sabia qual seria o seu armário, e perguntou para os demais colegas. Eles responderam: • O número do armário de Matilde é maior que o seu; • O número do armário de Carlos é maior que o de Matilde; • Os dois últimos armários pertencem a Jéssica ou a Ana; Com essas informações, qual o número do armário de Gabriel? ",
             "alternativas": {
                 "A": "1. ",
                 "B": "2. ",
@@ -1070,7 +1070,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 22",
-            "enunciado": "Dois reservatórios A e B, de 1000 litros cada, serão cheios por torneiras que têm vazões diferentes. Antes de começar o enchimento, o reservatório A está incialmente vazio e o reservatório B já está com 1/8 do seu volume preenchido. A torneira que encherá o reservatório A despejará 6 litros de água a cada segundo. Já a torneira que encherá o reservatório B despejará 2 litros de água a cada segundo. Sabendo -se que as duas torneiras serão ligadas simultaneamente, em quanto tempo após o ligamento ...",
+            "enunciado": "Dois reservatórios A e B, de 1000 litros cada, serão cheios por torneiras que têm vazões diferentes. Antes de começar o enchimento, o reservatório A está incialmente vazio e o reservatório B já está com 1/8 do seu volume preenchido. A torneira que encherá o reservatório A despejará 6 litros de água a cada segundo. Já a torneira que encherá o reservatório B despejará 2 litros de água a cada segundo. Sabendo -se que as duas torneiras serão ligadas simultaneamente, em quanto tempo após o ligamento os reservatór ios terão o mesmo volume? ",
             "alternativas": {
                 "A": "31,25 segundos. ",
                 "B": "15,12 segundos. ",
@@ -1310,7 +1310,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 38",
-            "enunciado": "A segurança de rede é fundamental para proteger dados e sistemas inteiros através de firewall, criptografia e políticas de acesso a informações sensíveis e confidenciais. Em conjunto com a Lei Geral de Proteção de Dados Pessoais (LGPD) e softwares modernos de segurança, as empresas buscam cada vez mais proteger a segurança das informações pessoais de seus clientes. O Transport Layer Security (TLS) é um protocolo de segurança de rede. De acordo com suas normas estabelecidas, o propósito de sua cr...",
+            "enunciado": "A segurança de rede é fundamental para proteger dados e sistemas inteiros através de firewall, criptografia e políticas de acesso a informações sensíveis e confidenciais. Em conjunto com a Lei Geral de Proteção de Dados Pessoais (LGPD) e softwares modernos de segurança, as empresas buscam cada vez mais proteger a segurança das informações pessoais de seus clientes. O Transport Layer Security (TLS) é um protocolo de segurança de rede. De acordo com suas normas estabelecidas, o propósito de sua criptografia simétrica durante comunicação é dado para: ",
             "alternativas": {
                 "A": "identificar o IP para confirmar o destino. ",
                 "B": "facilitar a negociação de chaves de segurança. ",
@@ -1385,7 +1385,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 43",
-            "enunciado": "A diafonia (Crosstalk) pode apresentar -se de duas formas distintas. Associe cada forma de diafonia com sua respectiva nomenclatura: I) paradiafonia ou NEXT (Near End Crosstalk) II) telediafonia ou FEXT (Far End Crosstalk) III) intradiafonia ou IEXT (Infraestructure End Crosstalk) a) Não é uma forma de diafonia. b) A diafonia medida no par interferido (aquele que sobre o efeito da interferência) na mesma extremidade em que se encontra o par interferente (aquele que causa a interferência onde est...",
+            "enunciado": "A diafonia (Crosstalk) pode apresentar -se de duas formas distintas. Associe cada forma de diafonia com sua respectiva nomenclatura: I) paradiafonia ou NEXT (Near End Crosstalk) II) telediafonia ou FEXT (Far End Crosstalk) III) intradiafonia ou IEXT (Infraestructure End Crosstalk) a) Não é uma forma de diafonia. b) A diafonia medida no par interferido (aquele que sobre o efeito da interferência) na mesma extremidade em que se encontra o par interferente (aquele que causa a interferência onde está a fonte de ruído. c) A diafonia medida no par interferido, na extremidade oposta àquela onde se encontra a fonte de ruído no par interferente. ",
             "alternativas": {
                 "A": "I-a; II-b; III -c. ",
                 "B": "I-c; II-b; III -a. ",
@@ -1415,7 +1415,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 45",
-            "enunciado": "Roteadores e switches Cisco são configurados em uma interface de prompt de comando IOS (Internetworking Operating System) que pode ser acessada através de um terminal, console serial ou conexão SSH/Telnet. A interface utiliza de um sistema de permissões pa ra que o usuário navegue e edite as informações e configurações do dispositivo. Ao iniciar o CLI, o usuário se encontrará no modo padrão de navegação User EXEC. Para que possa acessar um modo mais avançado e ter acesso a mais ferramentas e com...",
+            "enunciado": "Roteadores e switches Cisco são configurados em uma interface de prompt de comando IOS (Internetworking Operating System) que pode ser acessada através de um terminal, console serial ou conexão SSH/Telnet. A interface utiliza de um sistema de permissões pa ra que o usuário navegue e edite as informações e configurações do dispositivo. Ao iniciar o CLI, o usuário se encontrará no modo padrão de navegação User EXEC. Para que possa acessar um modo mais avançado e ter acesso a mais ferramentas e comandos do CLI, o usuário precisa acessar o modo Privileged EXEC. Qual das alternativas indica o comando para realizar a ação requerida pelo usuário? ",
             "alternativas": {
                 "A": "show interface ",
                 "B": "enable ",

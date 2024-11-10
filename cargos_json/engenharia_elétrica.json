@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele des eja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 par...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele des eja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -395,7 +395,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 27",
-            "enunciado": "Considerando a a nálise Nodal de Circuitos Resistivos, atente -se aos itens: I - Em circuitos resistivos, não existem elementos com “memória\", como capacitores e indutores. II - Existem apenas resistores e fontes controladas, que geram associações instantâneas entre tensões e correntes. III - A análise nodal consiste em escrever, para todos os nós do circuito com a exceção de um, o nó de terra ou de referência, uma equação exprimindo a lei de Kirchhoff das correntes para o nó . É correto o que s...",
+            "enunciado": "Considerando a a nálise Nodal de Circuitos Resistivos, atente -se aos itens: I - Em circuitos resistivos, não existem elementos com “memória\", como capacitores e indutores. II - Existem apenas resistores e fontes controladas, que geram associações instantâneas entre tensões e correntes. III - A análise nodal consiste em escrever, para todos os nós do circuito com a exceção de um, o nó de terra ou de referência, uma equação exprimindo a lei de Kirchhoff das correntes para o nó . É correto o que se afirma em: ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "III, apenas. ",
@@ -740,7 +740,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 50",
-            "enunciado": "O esquema TN possui um ponto da alimentação diretamente aterrado, sendo as massas ligadas a esse ponto através de condutores de proteção. São consideradas três variantes de esquema TN, de acordo com a disposição do condutor neutro e do condutor de proteção, a saber: I - esquema TN -C, no qual o condutor neutro e o condutor de proteção são distintos. II - esquema TN -S, no qual as funções de neutro e de proteção são combinadas em um único condutor, na totalidade do esquema. III - esquema TN -C-S,...",
+            "enunciado": "O esquema TN possui um ponto da alimentação diretamente aterrado, sendo as massas ligadas a esse ponto através de condutores de proteção. São consideradas três variantes de esquema TN, de acordo com a disposição do condutor neutro e do condutor de proteção, a saber: I - esquema TN -C, no qual o condutor neutro e o condutor de proteção são distintos. II - esquema TN -S, no qual as funções de neutro e de proteção são combinadas em um único condutor, na totalidade do esquema. III - esquema TN -C-S, em parte do qual as funções de neutro e de proteção são combinadas em um único condutor. É correto o que se afirma em: ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "III, apenas. ",

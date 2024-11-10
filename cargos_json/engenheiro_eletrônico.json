@@ -455,7 +455,7 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
             "questão": "Questão 31",
-            "enunciado": "Interprete as afirmativas a seguir e escreva verdadeiro (V) ou falso (F) e assinale a alternativa correta: (.) um padrão de entrada é constituído de um poste com isolador de roldana, bengala, caix a de medição e haste de terra etc., instalado conforme padrão concessionária. (.) um quadro de distribuição é o centro de distribuição de toda ou parte de uma instalação elétrica residencial ou industrial. (.) não é aconselhável situar os dispositivos de p roteção dentro de um Quadro de Distribuição Ge...",
+            "enunciado": "Interprete as afirmativas a seguir e escreva verdadeiro (V) ou falso (F) e assinale a alternativa correta: (.) um padrão de entrada é constituído de um poste com isolador de roldana, bengala, caix a de medição e haste de terra etc., instalado conforme padrão concessionária. (.) um quadro de distribuição é o centro de distribuição de toda ou parte de uma instalação elétrica residencial ou industrial. (.) não é aconselhável situar os dispositivos de p roteção dentro de um Quadro de Distribuição Geral, visto que a proteção deverá estar no centro de medição localizado no padrão da concessionária (.) um circuito elétrico pode ser conceituado como sendo um c onjunto de equipamentos e fios ligados ao mesmo di spositivo de proteção. (.) o s circuitos terminais são os que ligam quadro de distribuição ao ramal de entrada da concessionária. ",
             "alternativas": {
                 "A": "F - V - F - V - V ",
                 "B": "V - V - F - V - F ",
@@ -500,7 +500,7 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
             "questão": "Questão 34",
-            "enunciado": "De acordo com os sinais gráficos particulares padronizados pela norma IEC 61131 -3 (figura a seguir) utilizada na linguagem Ladder , a mais empregada internacionalmente para a programação do PLC, interprete as seguintes afirmativas: I - o sinal (1) representa um contato ON, normalmente aberto. II - o sinal (2) representa um contato OFF, normalmente fechado. III - o sinal (3) representa o contato detector de transição negativa (borda de subida). IV - o sinal (4) representa o contato detecto r de ...",
+            "enunciado": "De acordo com os sinais gráficos particulares padronizados pela norma IEC 61131 -3 (figura a seguir) utilizada na linguagem Ladder , a mais empregada internacionalmente para a programação do PLC, interprete as seguintes afirmativas: I - o sinal (1) representa um contato ON, normalmente aberto. II - o sinal (2) representa um contato OFF, normalmente fechado. III - o sinal (3) representa o contato detector de transição negativa (borda de subida). IV - o sinal (4) representa o contato detecto r de transição positiva (borda de descida). V - o sinal (5) representa a variável externa ou interna (saída). É correto o que se afirma em: ",
             "alternativas": {
                 "A": "I, II, III, IV e V. ",
                 "B": "I, II, III e IV apenas. ",
@@ -515,7 +515,7 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
             "questão": "Questão 35",
-            "enunciado": "A pressão pode ser medida em termos absolutos ou diferenciais, desta forma é comum identificar três tipos de pressão: I - _______: é a diferença entre a pressão em um ponto particular num fluído e a pressão absoluta (zero), isto é, vácuo completo. II - _______: é a medição da pressão em relação à pressão atmosférica existente no local, podendo ser positiva ou negativa. III - _______: é a diferença medida entre duas pressões conhecidas, mas nenhuma delas é a pressão atmos férica. Assinale a...",
+            "enunciado": "A pressão pode ser medida em termos absolutos ou diferenciais, desta forma é comum identificar três tipos de pressão: I - _______: é a diferença entre a pressão em um ponto particular num fluído e a pressão absoluta (zero), isto é, vácuo completo. II - _______: é a medição da pressão em relação à pressão atmosférica existente no local, podendo ser positiva ou negativa. III - _______: é a diferença medida entre duas pressões conhecidas, mas nenhuma delas é a pressão atmos férica. Assinale a alternativa que preenche, correta e respectivamente, as lacunas do texto: ",
             "alternativas": {
                 "A": "diferencial - manométrica - absoluta ",
                 "B": "absoluta - diferencial - manométrica ",
@@ -530,7 +530,7 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2023",
             "questão": "Questão 36",
-            "enunciado": "O principal componente de uma malha de controle é, obviamente, o controlador, que pode ser considerado um dispositivo eletrônico ou um computador. Interprete as afirmati vas a seguir: I - O sistema de controle Malha Fechada é aquele no qual a ação de controle é independente da saída, portanto a saída não tem efeito na ação de controle. II - O sistema de controle Malha Aberta é aquele no qual a ação de controle depende da saída, portanto, a saída possui um efeito direto na ação de controle. III -...",
+            "enunciado": "O principal componente de uma malha de controle é, obviamente, o controlador, que pode ser considerado um dispositivo eletrônico ou um computador. Interprete as afirmati vas a seguir: I - O sistema de controle Malha Fechada é aquele no qual a ação de controle é independente da saída, portanto a saída não tem efeito na ação de controle. II - O sistema de controle Malha Aberta é aquele no qual a ação de controle depende da saída, portanto, a saída possui um efeito direto na ação de controle. III - A realimentação do sistema é o procedimento em que a informação da saída do sistema é utilizada na entrada deste mesmo sistema, sendo esta realimentação, obrigatoriamente, positiva . É incorreto o que se afirma em: ",
             "alternativas": {
                 "A": "I apenas. ",
                 "B": "II e III apenas. ",

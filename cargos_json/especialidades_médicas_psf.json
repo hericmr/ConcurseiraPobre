@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célu la B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretament e, uma fórmula que poderia ser inserida na célula C3 pa...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célu la B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretament e, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -410,7 +410,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 28",
-            "enunciado": "Com relação às doenças do trato urinário, analise os itens a seguir e, ao final, assinale a alternativa correta: I – Cistite: é o tipo de infecção menos frequente, e ocorre quando microrganismo atinge a bexiga, causando urina turva, dor abdominal, dentre outros. II – Uretrite: ocorre quando a bactéria ou fungo atinge a uretra, causando inflamação e levando ao aparecimento de sintomas como vontade frequente de urinar, dor ou ardor para urinar e corrimento amarelo. III – Nefrite: é a infecção mais...",
+            "enunciado": "Com relação às doenças do trato urinário, analise os itens a seguir e, ao final, assinale a alternativa correta: I – Cistite: é o tipo de infecção menos frequente, e ocorre quando microrganismo atinge a bexiga, causando urina turva, dor abdominal, dentre outros. II – Uretrite: ocorre quando a bactéria ou fungo atinge a uretra, causando inflamação e levando ao aparecimento de sintomas como vontade frequente de urinar, dor ou ardor para urinar e corrimento amarelo. III – Nefrite: é a infecção mais grave e ocorre quando o agente infeccioso chega aos rins. ",
             "alternativas": {
                 "A": "Apenas o item I é verdadeiro. ",
                 "B": "Apenas o item II é verdadeiro. ",
@@ -455,7 +455,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 31",
-            "enunciado": "No que se refere à pancreatite, analise os itens a seguir e, ao final, assinale a alternativa correta: I – Corresponde à inflamação do pâncreas que pode ocorrer devido ao consumo excessivo de bebidas alcoólicas, por exemplo. II – Pancreatite aguda: os si ntomas surgem de repente, mas que podem ser facilmente controlados quando o tratamento é iniciado rapidamente e seguido de acordo com a orientação do médico. III – Pancreatite crônica: os sintomas surgem ao longo dos anos e pode ser resultado do...",
+            "enunciado": "No que se refere à pancreatite, analise os itens a seguir e, ao final, assinale a alternativa correta: I – Corresponde à inflamação do pâncreas que pode ocorrer devido ao consumo excessivo de bebidas alcoólicas, por exemplo. II – Pancreatite aguda: os si ntomas surgem de repente, mas que podem ser facilmente controlados quando o tratamento é iniciado rapidamente e seguido de acordo com a orientação do médico. III – Pancreatite crônica: os sintomas surgem ao longo dos anos e pode ser resultado do consumo constante de bebidas alcoólicas ou da evolução da pancreatite aguda. ",
             "alternativas": {
                 "A": "Apenas o item I é verdadeiro. ",
                 "B": "Apenas o item II é verdadeiro. ",
@@ -530,7 +530,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 36",
-            "enunciado": "Com relação à Caxumba, responda verdadeiro (V) ou falso (F) e assinale a alternativa que traz a sequência correta: (__) A caxumba é uma infecção viral aguda e contagiosa. (__) Pode atingir qualquer tecido glandular e nervoso do corpo humano, mas é mais comum afetar as glândulas parótidas, que produzem a saliva, ou as submandibulares e sublinguais, próximas ao ouvido. (__) A caxumba é causada por vírus da família Paramyxoviridae , gênero Paramyxovirus. A transmissão ocorre por via aérea, por meio...",
+            "enunciado": "Com relação à Caxumba, responda verdadeiro (V) ou falso (F) e assinale a alternativa que traz a sequência correta: (__) A caxumba é uma infecção viral aguda e contagiosa. (__) Pode atingir qualquer tecido glandular e nervoso do corpo humano, mas é mais comum afetar as glândulas parótidas, que produzem a saliva, ou as submandibulares e sublinguais, próximas ao ouvido. (__) A caxumba é causada por vírus da família Paramyxoviridae , gênero Paramyxovirus. A transmissão ocorre por via aérea, por meio da disseminação de aerossóis. ",
             "alternativas": {
                 "A": "V – V – V. ",
                 "B": "V – F – F. ",
@@ -575,7 +575,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 39",
-            "enunciado": "Sobre os coronavírus, considere os iten s: I - Coronavírus é uma família de vírus que causam infecções respiratórias. II - O novo agente do coronavírus foi descoberto em 31/12/19 após casos registrados na China. Provoca a doença chamada de coronavírus (COVID -19). III - Os primeiros coronavírus humanos foram isolados pela primeira vez, em 1937. No entanto, foi em 1965 que o vírus foi descrito como coronavírus, em decorrência do perfil na microscopia, parecendo uma coroa. É correto o que se afirm...",
+            "enunciado": "Sobre os coronavírus, considere os iten s: I - Coronavírus é uma família de vírus que causam infecções respiratórias. II - O novo agente do coronavírus foi descoberto em 31/12/19 após casos registrados na China. Provoca a doença chamada de coronavírus (COVID -19). III - Os primeiros coronavírus humanos foram isolados pela primeira vez, em 1937. No entanto, foi em 1965 que o vírus foi descrito como coronavírus, em decorrência do perfil na microscopia, parecendo uma coroa. É correto o que se afirma em: ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "III, apenas. ",

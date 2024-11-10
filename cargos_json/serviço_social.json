@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmen te, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 pa ...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmen te, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 pa ra alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -395,7 +395,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 27",
-            "enunciado": "A Constituição Federativa do Brasil de 1988 e a Lei Orgânica da Assistência Social são consideradas referências centrais para o desenvolvimento do trabalho social com famílias na Polí tica de Assistência Social. Analisando os elementos constitutivos da Constituição Federativa de 1988, analise os itens , abaixo , e assinale a alternativa correta: I - Apresenta a ideia de construção de uma sociedade justa e igualitária. II - Garant e o desen volvimento internacional. III - Erradica da pobreza e re...",
+            "enunciado": "A Constituição Federativa do Brasil de 1988 e a Lei Orgânica da Assistência Social são consideradas referências centrais para o desenvolvimento do trabalho social com famílias na Polí tica de Assistência Social. Analisando os elementos constitutivos da Constituição Federativa de 1988, analise os itens , abaixo , e assinale a alternativa correta: I - Apresenta a ideia de construção de uma sociedade justa e igualitária. II - Garant e o desen volvimento internacional. III - Erradica da pobreza e redu z as desigualdades. ",
             "alternativas": {
                 "A": "Apenas o Item I está correto. ",
                 "B": "Apenas o Item II está correto. ",
@@ -425,7 +425,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 29",
-            "enunciado": "A Lei 8.080 de 19 de setembro de 1990 dispõe sobre as condições de promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes. O artigo 5º da referida lei aponta como objetivos do Sistema Único de Saúde - SUS: I - A identificação e divulgação dos fatores condicionantes e determinantes da saúde. II - A formulação de política de saúde destinada a promover, nos campos econômico e social, a observância do disposto no § 1º do art. 2º desta lei. III - A ass...",
+            "enunciado": "A Lei 8.080 de 19 de setembro de 1990 dispõe sobre as condições de promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes. O artigo 5º da referida lei aponta como objetivos do Sistema Único de Saúde - SUS: I - A identificação e divulgação dos fatores condicionantes e determinantes da saúde. II - A formulação de política de saúde destinada a promover, nos campos econômico e social, a observância do disposto no § 1º do art. 2º desta lei. III - A assistência às pe ssoas por intermédio de ações de promoção, proteção e recuperação da saúde, com a realização fragmentada das ações assistenciais e das atividades preventivas. ",
             "alternativas": {
                 "A": "Apenas o Item I está correto. ",
                 "B": "Apenas o Item II está correto. ",
@@ -515,7 +515,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 35",
-            "enunciado": "De acordo com o Sistema Único de Assistência Social - SUAS, os serviços de Proteção Social Especial têm estreita interface com o sistema de garantia de direitos e foco nas famílias e indivíduos que se encontram em situação de risco pessoal e social, por ocorrência de abandono, maus tratos físicos e/ou psíqui cos, abuso sexual, uso de substâncias psicoativas, cumprimento de medidas socioeducativas, situação de rua, situação de trabalho infantil, entre outras situações de violação dos direitos. Di...",
+            "enunciado": "De acordo com o Sistema Único de Assistência Social - SUAS, os serviços de Proteção Social Especial têm estreita interface com o sistema de garantia de direitos e foco nas famílias e indivíduos que se encontram em situação de risco pessoal e social, por ocorrência de abandono, maus tratos físicos e/ou psíqui cos, abuso sexual, uso de substâncias psicoativas, cumprimento de medidas socioeducativas, situação de rua, situação de trabalho infantil, entre outras situações de violação dos direitos. Diante das informações apresentadas, assinale a opção que apresenta , corretamente , o serviço que realizada, dentro do âmbito da Política de Assistência Social, o Serviço de Proteção Social Especial - PSE: ",
             "alternativas": {
                 "A": "É realizado no Centro de Referência Especializado de Assistência Social - CREAS. ",
                 "B": "É realizado no Centro de Refer ência de Assistência Social - CRAS. ",

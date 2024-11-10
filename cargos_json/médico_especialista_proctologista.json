@@ -260,7 +260,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 18",
-            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ...",
+            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ímpar e subtrai -se 9 de resultados maiores do que 9 (Ex.: [8⋅2]2[1⋅2]→[16−9]2[2]⇒722); 3) Soma -se todos os dígitos (Ex.: 7+2+ 2=11); 4) O dígito verificador é o menor número que, adicionado a soma, resulta em um múltiplo de 10 (Ex. 11+9=20). Então no exemplo acima, o dígito verificador seria o 9. Considere o código 835X, onde X é o dígito verificador a ser calculado. Qual é o valor de X? ",
             "alternativas": {
                 "A": "1. ",
                 "B": "9. ",
@@ -695,7 +695,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 47",
-            "enunciado": "O manejo inicial de um paciente com perfuração traumática do intestino grosso visa estabilizar o paciente, identificar a extensão da lesão e prevenir infecções. As seguintes ações são recomendadas: I - A reposição volêmica com soro fisiológico e a antibioticoterapia profilática para estabilizar o paciente e prevenir infecções. II - A obtenção de acesso venoso e a solicitação de exames laboratoriais para avaliar o estado geral do paciente e identificar possíveis alterações. III - A tomografia com...",
+            "enunciado": "O manejo inicial de um paciente com perfuração traumática do intestino grosso visa estabilizar o paciente, identificar a extensão da lesão e prevenir infecções. As seguintes ações são recomendadas: I - A reposição volêmica com soro fisiológico e a antibioticoterapia profilática para estabilizar o paciente e prevenir infecções. II - A obtenção de acesso venoso e a solicitação de exames laboratoriais para avaliar o estado geral do paciente e identificar possíveis alterações. III - A tomografia computadorizada abdomino - pélvica é o exame de imagem de escolha para avaliar a extensão da lesão e a presença de outras comorbidades. IV - Administrar analgésicos e anti - inflamatórios para controlar a dor e o inchaço. V - Realizar lavagem gástrica e sonda nasogástrica para prevenir a distensão abdominal. Estão corretas: ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "II e III, apenas. ",
@@ -1010,7 +1010,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 18",
-            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ...",
+            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ímpar e subtrai -se 9 de resultados maiores do que 9 (Ex.: [8⋅2]2[1⋅2]→[16−9]2[2]⇒722); 3) Soma -se todos os dígitos (Ex.: 7+2+ 2=11); 4) O dígito verificador é o menor número que, adicionado a soma, resulta em um múltiplo de 10 (Ex. 11+9=20). Então no exemplo acima, o dígito verificador seria o 9. Considere o código 835X, onde X é o dígito verificador a ser calculado. Qual é o valor de X? ",
             "alternativas": {
                 "A": "1. ",
                 "B": "9. ",
@@ -1445,7 +1445,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 47",
-            "enunciado": "O manejo inicial de um paciente com perfuração traumática do intestino grosso visa estabilizar o paciente, identificar a extensão da lesão e prevenir infecções. As seguintes ações são recomendadas: I - A reposição volêmica com soro fisiológico e a antibioticoterapia profilática para estabilizar o paciente e prevenir infecções. II - A obtenção de acesso venoso e a solicitação de exames laboratoriais para avaliar o estado geral do paciente e identificar possíveis alterações. III - A tomografia com...",
+            "enunciado": "O manejo inicial de um paciente com perfuração traumática do intestino grosso visa estabilizar o paciente, identificar a extensão da lesão e prevenir infecções. As seguintes ações são recomendadas: I - A reposição volêmica com soro fisiológico e a antibioticoterapia profilática para estabilizar o paciente e prevenir infecções. II - A obtenção de acesso venoso e a solicitação de exames laboratoriais para avaliar o estado geral do paciente e identificar possíveis alterações. III - A tomografia computadorizada abdomino - pélvica é o exame de imagem de escolha para avaliar a extensão da lesão e a presença de outras comorbidades. IV - Administrar analgésicos e anti - inflamatórios para controlar a dor e o inchaço. V - Realizar lavagem gástrica e sonda nasogástrica para prevenir a distensão abdominal. Estão corretas: ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "II e III, apenas. ",

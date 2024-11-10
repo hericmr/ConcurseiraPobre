@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -380,7 +380,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 26",
-            "enunciado": "Os esportes são sempre notícia nos meios de comunicação e dentro da escola; portanto, podem fazer parte do conteúdo, principalmente , nos dois primeiros ciclos, se for abordado sob o enfoque da apreciação e da discussão de aspectos técnicos, táticos e estéticos. Nos ciclos posteriores, existem contextos mais específicos (como torneios e campeonat os) que possibilitam que os alunos vivenciem uma situação mais caracterizada como esporte. Incluem -se neste bloco as informações históricas das origen...",
+            "enunciado": "Os esportes são sempre notícia nos meios de comunicação e dentro da escola; portanto, podem fazer parte do conteúdo, principalmente , nos dois primeiros ciclos, se for abordado sob o enfoque da apreciação e da discussão de aspectos técnicos, táticos e estéticos. Nos ciclos posteriores, existem contextos mais específicos (como torneios e campeonat os) que possibilitam que os alunos vivenciem uma situação mais caracterizada como esporte. Incluem -se neste bloco as informações históricas das origens e características dos esportes, jogos, lutas e ginásticas, valorização e apreciação dessas práticas. A g ama de esportes, jogos, lutas e ginásticas existentes no Brasil é imensa. Cada região, cada cidade, cada escola tem uma realidade e uma conjuntura que possibilitam a prática de uma parcela dessa gama. A lista a seguir contempla uma parcela de possibilidade s e pode ser ampliada ou reduzida: I - Jogos pré -desportivos: queimada, pique -bandeira, guerra das bolas, jogos pré -desportivos do futebol (gol -a-gol, controle, chute -em-gol-rebatidadrible, bobinho, dois toques). II - Jogos populares: bocha, malha, taco, boliche. III - Atletismo: corridas de velocidade, de resistência, com obstáculos, de revezamento; saltos em distância, em altura, triplo, com vara; arremessos de peso, de martelo, de dardo e de disco. Sobre os itens acima, está correto o que se afirm a em: ",
             "alternativas": {
                 "A": "I, II e III. ",
                 "B": "I e II, apenas. ",
@@ -650,7 +650,7 @@
             "disciplina": "NOÇÕES DE INFORMÁTICA",
             "id_concurso": "01/2022",
             "questão": "Questão 45",
-            "enunciado": "“Os primeiros jogos de regras são valiosos para o desenvolvimento de capacidades corporais de equilíbrio e ___________, mas trazem também a oportunidade, para as crianças, das primeiras situações competitivas, em qu e suas habilidades poderão ser valorizadas de acordo com os objetivos do jogo. É muito importante que o professor esteja atento aos conflitos que possam surgir nessas situações, ajudando as crianças a desenvolver uma atitude de competição de forma saudável . Nesta faixa etária, o pro...",
+            "enunciado": "“Os primeiros jogos de regras são valiosos para o desenvolvimento de capacidades corporais de equilíbrio e ___________, mas trazem também a oportunidade, para as crianças, das primeiras situações competitivas, em qu e suas habilidades poderão ser valorizadas de acordo com os objetivos do jogo. É muito importante que o professor esteja atento aos conflitos que possam surgir nessas situações, ajudando as crianças a desenvolver uma atitude de competição de forma saudável . Nesta faixa etária, o professor é quem ajudará as crianças a combinar e cumprir regras, desenvolvendo atitudes de respeito e cooperação tão necessárias, mais tarde, no desenvolvimento das habilidades DESPORTIVAS .” ",
             "alternativas": {
                 "A": "Noção de espaço. ",
                 "B": "Atenção. ",

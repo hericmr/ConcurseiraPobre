@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele des eja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 par...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele des eja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -410,7 +410,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 28",
-            "enunciado": "Com base nos conceitos epidemiológicos, analise os itens: I - Epidemia é a elevação brusca, inesperada e temporária da incidência de determinada doença, ultrapassando os valores esperados para a população no período em questão. II - Pandemia é a ocorrência epidêmica caracterizada por uma larga distribuição espacial, atingindo várias nações. III - Endemia refere -se a uma doença , habitualmente , presente entre os membros de um determinado grupo, dentro dos limites esperados, em uma determinada á...",
+            "enunciado": "Com base nos conceitos epidemiológicos, analise os itens: I - Epidemia é a elevação brusca, inesperada e temporária da incidência de determinada doença, ultrapassando os valores esperados para a população no período em questão. II - Pandemia é a ocorrência epidêmica caracterizada por uma larga distribuição espacial, atingindo várias nações. III - Endemia refere -se a uma doença , habitualmente , presente entre os membros de um determinado grupo, dentro dos limites esperados, em uma determinada área geográfica, por um período de tempo ilimitado . É correto o que se afirm a em: ",
             "alternativas": {
                 "A": "I, II e III. ",
                 "B": "I, apenas. ",
@@ -530,7 +530,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 36",
-            "enunciado": "São objetivos do Sistema Único de Saúde SUS: I - A identificação e divulgação dos fatores condicionantes e determinantes de doenças. II – A formulação de política de saúde destinada a promover, nos campos econômico e social, a observância do disposto no § 1º do art. 2º da Lei n° 8.142/90. III - A assistência às pessoas por intermédio de ações de promoção, proteção e recuperação da saúde, com a realização integrada das ações assistenciais e das atividades preventivas. Sobre os itens acima, está c...",
+            "enunciado": "São objetivos do Sistema Único de Saúde SUS: I - A identificação e divulgação dos fatores condicionantes e determinantes de doenças. II – A formulação de política de saúde destinada a promover, nos campos econômico e social, a observância do disposto no § 1º do art. 2º da Lei n° 8.142/90. III - A assistência às pessoas por intermédio de ações de promoção, proteção e recuperação da saúde, com a realização integrada das ações assistenciais e das atividades preventivas. Sobre os itens acima, está correto o que se afirma em: ",
             "alternativas": {
                 "A": "I, II, III. ",
                 "B": "I e II, apenas. ",
@@ -620,7 +620,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 43",
-            "enunciado": "Analise as afirmativas a seguir sobre as obrigações do empregador além daquelas estabelecidas na legislação em vigor , coloque V para verdadeiro e F para falso. Posteriormente, assinale a alternativa que apresenta a sequência correta: (__) Manter as condições e a organização de trabalho adequadas às condições psicofísicas dos trabalhadores. (__) Permitir e facilitar o acesso das autoridades sanitárias aos locais de trabalho, a qualquer dia e horário, fornecendo as informações e dados solicitados...",
+            "enunciado": "Analise as afirmativas a seguir sobre as obrigações do empregador além daquelas estabelecidas na legislação em vigor , coloque V para verdadeiro e F para falso. Posteriormente, assinale a alternativa que apresenta a sequência correta: (__) Manter as condições e a organização de trabalho adequadas às condições psicofísicas dos trabalhadores. (__) Permitir e facilitar o acesso das autoridades sanitárias aos locais de trabalho, a qualquer dia e horário, fornecendo as informações e dados solicitados. (__) Dar conhecimento à população dos riscos ao meio ambiente e, aos trabalhadores e à sua representação sindical, no âmbito de cada empresa, dos riscos presentes no proc esso produtivo, bem como das recomendações para sua eliminação e controle. (__) Em caso de risco ainda não conhecido, arcar com os custos de estudos e pesquisas que visem esclarecê -los, eliminá -los ou controlá -los. ",
             "alternativas": {
                 "A": "V-V-V-V. ",
                 "B": "F-V-V-V. ",
@@ -665,7 +665,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 46",
-            "enunciado": "Consiste no conjunto de manifestações decorrentes de alterações súbitas da pressão do ar ambiental, produzindo uma redução absoluta ou relativa da pressão no ouvido médio, que pode causar sangramento da mucosa do ouvido médio e da membrana timpânica e, ocasionalmente, ruptura da membrana timpânica e da membrana da janela redonda. Isso pode ocorrer depois da descompressão ou reconversão rápida de uma câmara de alta ou baixa pressão, em mergulho rápido de uma grande altitude numa aeronave não -pre...",
+            "enunciado": "Consiste no conjunto de manifestações decorrentes de alterações súbitas da pressão do ar ambiental, produzindo uma redução absoluta ou relativa da pressão no ouvido médio, que pode causar sangramento da mucosa do ouvido médio e da membrana timpânica e, ocasionalmente, ruptura da membrana timpânica e da membrana da janela redonda. Isso pode ocorrer depois da descompressão ou reconversão rápida de uma câmara de alta ou baixa pressão, em mergulho rápido de uma grande altitude numa aeronave não -pressurizada ou depois de vir à tona muito rapidamente, após mergulho: ",
             "alternativas": {
                 "A": "Otalgia. ",
                 "B": "Trauma auricular. ",

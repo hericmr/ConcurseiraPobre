@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célu la B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretament e, uma fórmula que poderia ser inserida na célula C3 pa...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célu la B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele deseja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretament e, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -455,7 +455,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 31",
-            "enunciado": "Sobre a farmacovigilância, analise os itens a seguir e, após, assinale a afirmativa correta. I – A farmacovigilância pode ser definida como o conjunto de atividades relativas à identificação, avaliação, compreensão e prevenção de efeitos adversos ou quais quer problemas relacionados ao uso de medicamentos. II – A farmacovigilância tem como objetivo exclusivo à coleta de informações. As práticas de disseminação de informações para uso seguro dos medicamentos não ficam a cargo do seu exercício. II...",
+            "enunciado": "Sobre a farmacovigilância, analise os itens a seguir e, após, assinale a afirmativa correta. I – A farmacovigilância pode ser definida como o conjunto de atividades relativas à identificação, avaliação, compreensão e prevenção de efeitos adversos ou quais quer problemas relacionados ao uso de medicamentos. II – A farmacovigilância tem como objetivo exclusivo à coleta de informações. As práticas de disseminação de informações para uso seguro dos medicamentos não ficam a cargo do seu exercício. III – São qu estões relevantes para a farmacovigilância: reações adversas a medicamentos, eventos causados por desvios de qualidade dos medicamentos, inefetividade terapêutica, erros de medicação, uso de medicamentos para indicações não aprovadas no registro, uso abusi vo, intoxicações e interações medicamentosas. ",
             "alternativas": {
                 "A": "Somente o item II está incorreto. ",
                 "B": "Todos os itens estão corretos. ",
@@ -485,7 +485,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 33",
-            "enunciado": "A população do Município de “Piracicáprio ” (fictício) é de 1 6.000 habitantes e a incidência anual de conjuntivite na população é de 3%. Comumente, o tratamento prescrito descreve o uso de cloranfenicol 4 mg (2 a 3 gotas ), 3 vezes ao dia ( frascos contendo 10 mL, considere 1 frasco por tratamento). Considerando a capacidade de cobertu ra dos serviços de 50% , a quantidade de frascos do colírio para atender as necessidades mensais do serviço ambulatorial, utilizando o método do perfil epidemiol...",
+            "enunciado": "A população do Município de “Piracicáprio ” (fictício) é de 1 6.000 habitantes e a incidência anual de conjuntivite na população é de 3%. Comumente, o tratamento prescrito descreve o uso de cloranfenicol 4 mg (2 a 3 gotas ), 3 vezes ao dia ( frascos contendo 10 mL, considere 1 frasco por tratamento). Considerando a capacidade de cobertu ra dos serviços de 50% , a quantidade de frascos do colírio para atender as necessidades mensais do serviço ambulatorial, utilizando o método do perfil epidemiológico , será de: ",
             "alternativas": {
                 "A": "48 ",
                 "B": "20 ",
@@ -500,7 +500,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 34",
-            "enunciado": "Considere que certo medicamento se encontra disposto em ampolas de 10 mL, na concentração de 50mg/m L (estoque aquoso de fármaco). Em um caso particular, a equipe médica solicitou a diluição do medicamento, de modo a obter uma concentração final de 4 mg/mL em 250 mL de solução salina. Considere que o mesmo volume adicionado de fármaco (valor total aspirado do estoque) foi previamente retirado do frasco original de soro, para que o volume total permaneça 250 mL. Assinale a alternativa que mostra ...",
+            "enunciado": "Considere que certo medicamento se encontra disposto em ampolas de 10 mL, na concentração de 50mg/m L (estoque aquoso de fármaco). Em um caso particular, a equipe médica solicitou a diluição do medicamento, de modo a obter uma concentração final de 4 mg/mL em 250 mL de solução salina. Considere que o mesmo volume adicionado de fármaco (valor total aspirado do estoque) foi previamente retirado do frasco original de soro, para que o volume total permaneça 250 mL. Assinale a alternativa que mostra o volume tota l do medicamento que deverá ser aspirado da(s) ampola(s) do estoque e adicionado na solução salina, para obtenção da concentração requerida. ",
             "alternativas": {
                 "A": "35 ",
                 "B": "27 ",

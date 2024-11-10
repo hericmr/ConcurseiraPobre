@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele des eja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 par...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele des eja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -665,7 +665,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 45",
-            "enunciado": "A implementação desta Política Nacional de Saúde da Pessoa com Deficiência está pautada em processo de acompanhamento e avaliação permanente que permita o seu contínuo aperfeiçoamento, a partir das necessidades que venham a ser indicadas na sua prática. Pa ra o desenvolvimento do processo, serão definidos indicadores e parâmetros específicos que, aliados aos dados e às informações gerados pela avaliação dos planos, dos programas, dos projetos e das atividades que operacionalizarão esta política,...",
+            "enunciado": "A implementação desta Política Nacional de Saúde da Pessoa com Deficiência está pautada em processo de acompanhamento e avaliação permanente que permita o seu contínuo aperfeiçoamento, a partir das necessidades que venham a ser indicadas na sua prática. Pa ra o desenvolvimento do processo, serão definidos indicadores e parâmetros específicos que, aliados aos dados e às informações gerados pela avaliação dos planos, dos programas, dos projetos e das atividades que operacionalizarão esta política, possibilitar ão que se conheça o grau de alcance do seu propósito, bem como o impacto sobre a qualidade de vida das pessoas portadoras de deficiência. Entre os indicadores que poderão ser utilizados nesse processo figuram, por exemplo: ",
             "alternativas": {
                 "A": "Índices de cobertura existenc ial. ",
                 "B": "Taxa de capacitação de recursos sociais. ",

@@ -260,7 +260,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 18",
-            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ...",
+            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ímpar e subtrai -se 9 de resultados maiores do que 9 (Ex.: [8⋅2]2[1⋅2]→[16−9]2[2]⇒722); 3) Soma -se todos os dígitos (Ex.: 7+2+ 2=11); 4) O dígito verificador é o menor número que, adicionado a soma, resulta em um múltiplo de 10 (Ex. 11+9=20). Então no exemplo acima, o dígito verificador seria o 9. Considere o código 835X, onde X é o dígito verificador a ser calculado. Qual é o valor de X? ",
             "alternativas": {
                 "A": "1. ",
                 "B": "9. ",
@@ -575,7 +575,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 39",
-            "enunciado": "O processo de audição pode ser dividido em cinco etapas: 1. Captação do som: As ondas sonoras são captadas pelo pavilhão auricular e direcionadas para o meato acústico externo. 2. Transmissão do som: As ondas sonoras vibram a membrana timpânica, que transmite o som para a orelha média. 3. Amplificação do som: A cadeia ossicular da orelha média amplifica o som e o transmite para a orelha interna. 4. Detecção do som: As células ciliadas do Órgão de Corti na cóclea se dobram em resposta às vibraçõe...",
+            "enunciado": "O processo de audição pode ser dividido em cinco etapas: 1. Captação do som: As ondas sonoras são captadas pelo pavilhão auricular e direcionadas para o meato acústico externo. 2. Transmissão do som: As ondas sonoras vibram a membrana timpânica, que transmite o som para a orelha média. 3. Amplificação do som: A cadeia ossicular da orelha média amplifica o som e o transmite para a orelha interna. 4. Detecção do som: As células ciliadas do Órgão de Corti na cóclea se dobram em resposta às vibrações sonoras, gerando impulsos nervosos. 5. Transmissão dos impulsos nervosos: Os impulsos nervosos são transmitidos pelo nervo auditivo para o cérebro, onde são interpretados como som. É correto afirmar que a cóclea é responsável pelas etapas: ",
             "alternativas": {
                 "A": "3 e 4 do processo de audição. ",
                 "B": "1 e 2 do processo de audição. ",
@@ -740,7 +740,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 50",
-            "enunciado": "A craniotomia infratemporal e a abordagem translabiríntica são técnicas distintas com diferentes aplicações em microcirurgia da base do crânio. São Vantagens da Abordagem Translabiríntica: I - Acesso Direto ao Canal Auditivo Interno: A técnica translabiríntica oferece um acesso mais direto ao canal auditivo interno, facilitando a remoção de tumores que se estendem para essa região. II - Preservação do Nervo Facial: A técnica translabiríntica pode preservar o nervo facial em muitos casos, pois pe...",
+            "enunciado": "A craniotomia infratemporal e a abordagem translabiríntica são técnicas distintas com diferentes aplicações em microcirurgia da base do crânio. São Vantagens da Abordagem Translabiríntica: I - Acesso Direto ao Canal Auditivo Interno: A técnica translabiríntica oferece um acesso mais direto ao canal auditivo interno, facilitando a remoção de tumores que se estendem para essa região. II - Preservação do Nervo Facial: A técnica translabiríntica pode preservar o nervo facial em muitos casos, pois permite a visualização direta do nervo durante a cirurgia. III - Preservação da Função Auditiva: Em alguns casos, a função auditiva pode ser preservada, principalmente em pacientes com tumores pequenos e bem delimitados. É correto o que se afirma em: ",
             "alternativas": {
                 "A": "III, apenas. ",
                 "B": "I e II, apenas. ",
@@ -1010,7 +1010,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 18",
-            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ...",
+            "enunciado": "Uma maneira de validar um código ou sequência de números é utilizar um dígito verificador no final do código. Suponha que um código seja composto por quatro dígitos, sendo o último dígito um dígito verificador. Por exemplo, no código 128X o dígito verifica dor seria o número X, a ser calculado. Dados os três dígitos iniciais, o dígito verificador pode ser calculado da seguinte forma: 1) Inverte -se a ordem dos três primeiros dígitos (Ex.: 128→821); 2) Multiplica -se por 2 cada dígito em posição ímpar e subtrai -se 9 de resultados maiores do que 9 (Ex.: [8⋅2]2[1⋅2]→[16−9]2[2]⇒722); 3) Soma -se todos os dígitos (Ex.: 7+2+ 2=11); 4) O dígito verificador é o menor número que, adicionado a soma, resulta em um múltiplo de 10 (Ex. 11+9=20). Então no exemplo acima, o dígito verificador seria o 9. Considere o código 835X, onde X é o dígito verificador a ser calculado. Qual é o valor de X? ",
             "alternativas": {
                 "A": "1. ",
                 "B": "9. ",
@@ -1325,7 +1325,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 39",
-            "enunciado": "O processo de audição pode ser dividido em cinco etapas: 1. Captação do som: As ondas sonoras são captadas pelo pavilhão auricular e direcionadas para o meato acústico externo. 2. Transmissão do som: As ondas sonoras vibram a membrana timpânica, que transmite o som para a orelha média. 3. Amplificação do som: A cadeia ossicular da orelha média amplifica o som e o transmite para a orelha interna. 4. Detecção do som: As células ciliadas do Órgão de Corti na cóclea se dobram em resposta às vibraçõe...",
+            "enunciado": "O processo de audição pode ser dividido em cinco etapas: 1. Captação do som: As ondas sonoras são captadas pelo pavilhão auricular e direcionadas para o meato acústico externo. 2. Transmissão do som: As ondas sonoras vibram a membrana timpânica, que transmite o som para a orelha média. 3. Amplificação do som: A cadeia ossicular da orelha média amplifica o som e o transmite para a orelha interna. 4. Detecção do som: As células ciliadas do Órgão de Corti na cóclea se dobram em resposta às vibrações sonoras, gerando impulsos nervosos. 5. Transmissão dos impulsos nervosos: Os impulsos nervosos são transmitidos pelo nervo auditivo para o cérebro, onde são interpretados como som. É correto afirmar que a cóclea é responsável pelas etapas: ",
             "alternativas": {
                 "A": "3 e 4 do processo de audição. ",
                 "B": "1 e 2 do processo de audição. ",
@@ -1490,7 +1490,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 50",
-            "enunciado": "A craniotomia infratemporal e a abordagem translabiríntica são técnicas distintas com diferentes aplicações em microcirurgia da base do crânio. São Vantagens da Abordagem Translabiríntica: I - Acesso Direto ao Canal Auditivo Interno: A técnica translabiríntica oferece um acesso mais direto ao canal auditivo interno, facilitando a remoção de tumores que se estendem para essa região. II - Preservação do Nervo Facial: A técnica translabiríntica pode preservar o nervo facial em muitos casos, pois pe...",
+            "enunciado": "A craniotomia infratemporal e a abordagem translabiríntica são técnicas distintas com diferentes aplicações em microcirurgia da base do crânio. São Vantagens da Abordagem Translabiríntica: I - Acesso Direto ao Canal Auditivo Interno: A técnica translabiríntica oferece um acesso mais direto ao canal auditivo interno, facilitando a remoção de tumores que se estendem para essa região. II - Preservação do Nervo Facial: A técnica translabiríntica pode preservar o nervo facial em muitos casos, pois permite a visualização direta do nervo durante a cirurgia. III - Preservação da Função Auditiva: Em alguns casos, a função auditiva pode ser preservada, principalmente em pacientes com tumores pequenos e bem delimitados. É correto o que se afirma em: ",
             "alternativas": {
                 "A": "III, apenas. ",
                 "B": "I e II, apenas. ",

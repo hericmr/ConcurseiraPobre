@@ -350,7 +350,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 24",
-            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele des eja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 par...",
+            "enunciado": "Considere a imagem abaixo, de uma planilha do Microsoft Excel: Um usuário deseja configurar a planilha para que, caso o valor de vendas (célula A2) seja superior ao valor de compras (célula B2), a célula C3 exiba a palavra LUCRO. Adicionalmente, ele des eja que, caso o valor de compras (célula B2) seja superior ao de vendas (célula A2), a célula C3 exiba a palavra PREJUÍZO. Indique, dentre as opções abaixo, aquela que demonstra, corretamente, uma fórmula que poderia ser inserida na célula C3 para alcançar o objetivo desejado pelo usuário: ",
             "alternativas": {
                 "A": "=PROCV(LUCRO/PREJUIZO:A2>B2) ",
                 "B": "=SE(B2>A2=”LUCRO”) ",
@@ -470,7 +470,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 32",
-            "enunciado": "Com relação ao MDL – Mecanismos de Desenvolvimento Limpo, julgue os itens a seguir e, ao final, assinale a alternativa correta: I – Consiste no desenvolvimento de projetos que reduzam a emissão de gases de efeito estufa. II – Os projetos no âmbito do MDL são implementado em países menos desenvolvidos e em desenvolvimento, os quais podem vender as reduções de emissão de GEE para os países desenvolvidos. III – É o único mecanismo do Protocolo de Quioto que admite a participação voluntária de paíse...",
+            "enunciado": "Com relação ao MDL – Mecanismos de Desenvolvimento Limpo, julgue os itens a seguir e, ao final, assinale a alternativa correta: I – Consiste no desenvolvimento de projetos que reduzam a emissão de gases de efeito estufa. II – Os projetos no âmbito do MDL são implementado em países menos desenvolvidos e em desenvolvimento, os quais podem vender as reduções de emissão de GEE para os países desenvolvidos. III – É o único mecanismo do Protocolo de Quioto que admite a participação voluntária de países em desenvolvimento. ",
             "alternativas": {
                 "A": "Apenas o item I é verdadeiro. ",
                 "B": "Apenas o item II é verdadeiro. ",
@@ -500,7 +500,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 34",
-            "enunciado": "Com relação a noções de Geologia, analise os itens a seguir e, ao final, assinale a alternativa correta: I – Rochas magmáticas ou ígneas: se formam pelo resf riamento e consequente solidificação do magma. II – Rochas sedimentares: são formadas por sedimentos que se formam por decomposição química e/ou física de rochas pré -existentes. III – Rochas metamórficas: formam -se quando altas temperaturas e/ou pressões atuam sobre rochas pré-existentes, alterando sua composição mineral, textura, composi...",
+            "enunciado": "Com relação a noções de Geologia, analise os itens a seguir e, ao final, assinale a alternativa correta: I – Rochas magmáticas ou ígneas: se formam pelo resf riamento e consequente solidificação do magma. II – Rochas sedimentares: são formadas por sedimentos que se formam por decomposição química e/ou física de rochas pré -existentes. III – Rochas metamórficas: formam -se quando altas temperaturas e/ou pressões atuam sobre rochas pré-existentes, alterando sua composição mineral, textura, composição química ou estes três parâmetros juntos. ",
             "alternativas": {
                 "A": "Apenas o item I é verdadeiro. ",
                 "B": "Apenas o item II é verdadeiro. ",
@@ -530,7 +530,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2022",
             "questão": "Questão 36",
-            "enunciado": "Ainda com relação às noções de Geologia, analise os itens a seguir e, ao final, assinale a alternat iva correta: I – Dentre os produtos do intemperismo, os solos podem incluir partículas de argilominerais, óxidos de ferro e metais diversos, e também pedaços da rocha -matriz. II – Os solos podem ser compreendidos como geossistemas, sem entradas, processo s e saídas. III – Conhecida como húmus, a matéria orgânica é também um componente muito importante da grande maioria dos solos da Terra, sendo f...",
+            "enunciado": "Ainda com relação às noções de Geologia, analise os itens a seguir e, ao final, assinale a alternat iva correta: I – Dentre os produtos do intemperismo, os solos podem incluir partículas de argilominerais, óxidos de ferro e metais diversos, e também pedaços da rocha -matriz. II – Os solos podem ser compreendidos como geossistemas, sem entradas, processo s e saídas. III – Conhecida como húmus, a matéria orgânica é também um componente muito importante da grande maioria dos solos da Terra, sendo formada pelos resíduos e restos de organismos que vivem nos solos. ",
             "alternativas": {
                 "A": "Apenas o item I é verdadeiro. ",
                 "B": "Apena s o item II é verdadeiro. ",
@@ -650,7 +650,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 44",
-            "enunciado": "No que se refere às ações de recuperação de áreas degradadas, analise os itens a seguir e, ao final, assinale a alternativa correta: I – Adensamento: usado em situações onde foi verificada a ocorrência de espécies arbóreas nativas das fases iniciais da su cessão. II – Enriquecimento: é o método usado nas áreas com estádio intermediário de degradação, nas situações onde a área a ser recuperada já se encontra ocupada com vegetação remanescente, porém com baixa diversidade de espécies: III – Implan...",
+            "enunciado": "No que se refere às ações de recuperação de áreas degradadas, analise os itens a seguir e, ao final, assinale a alternativa correta: I – Adensamento: usado em situações onde foi verificada a ocorrência de espécies arbóreas nativas das fases iniciais da su cessão. II – Enriquecimento: é o método usado nas áreas com estádio intermediário de degradação, nas situações onde a área a ser recuperada já se encontra ocupada com vegetação remanescente, porém com baixa diversidade de espécies: III – Implantação: é n ormalmente usada em áreas cuja formação florestal original foi substituída por alguma atividade agropastoril altamente tecnificada, comprometendo o potencial de autorecuperação local. ",
             "alternativas": {
                 "A": "Apenas o item I é verdadeiro. ",
                 "B": "Apenas o item III é verdadeiro. ",
@@ -725,7 +725,7 @@
             "disciplina": "CONHECIMENTOS ESPECÍFICOS",
             "id_concurso": "01/2022",
             "questão": "Questão 49",
-            "enunciado": "Com relação às características do EIA/RIMA, analise os itens a s eguir e, ao final, assinale a alternativa correta: I – O RIMA é um relatório simplificado, que tem como objetivo esclarecer os termos técnicos. II – O EIA é responsável pela coleta de material, análise do mesmo, bibliografia que respalda o estudo e pelo estudo que prevê as possíveis e prováveis consequências ambientais que podem ser causadas com a obra no local em questão. III – O prazo para elaboração de ambos os estudos é de 15 (...",
+            "enunciado": "Com relação às características do EIA/RIMA, analise os itens a s eguir e, ao final, assinale a alternativa correta: I – O RIMA é um relatório simplificado, que tem como objetivo esclarecer os termos técnicos. II – O EIA é responsável pela coleta de material, análise do mesmo, bibliografia que respalda o estudo e pelo estudo que prevê as possíveis e prováveis consequências ambientais que podem ser causadas com a obra no local em questão. III – O prazo para elaboração de ambos os estudos é de 15 (quinze) dias. ",
             "alternativas": {
                 "A": "Apenas o item I é verdadeiro. ",
                 "B": "Apenas o item III é verdadeiro. ",

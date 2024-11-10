@@ -185,7 +185,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 13",
-            "enunciado": "Em uma dada faculdade, uma pessoa pode ingressar em um curso superior mediante a realização de três provas: Língua Portuguesa, Matemática e Redação. A nota final do candidato é a média ponderada dessas três provas, com pesos que dependem do curso no qual o candidato está interessado. Um determinado candidato e stá interessado em dois cursos: Jornalismo e História. A nota do candidato e os respectivos pesos dos cursos de interesse são mostrados na tabela abaixo: Provas Notas Pesos Jornalismo Hist...",
+            "enunciado": "Em uma dada faculdade, uma pessoa pode ingressar em um curso superior mediante a realização de três provas: Língua Portuguesa, Matemática e Redação. A nota final do candidato é a média ponderada dessas três provas, com pesos que dependem do curso no qual o candidato está interessado. Um determinado candidato e stá interessado em dois cursos: Jornalismo e História. A nota do candidato e os respectivos pesos dos cursos de interesse são mostrados na tabela abaixo: Provas Notas Pesos Jornalismo História Língua Portuguesa 7,5 4 2 Matemática 5,0 3 2 Redação 8,0 3 3 Qual a diferença entre a nota final do candidato para o curso de História e para o curso de Jornalismo? ",
             "alternativas": {
                 "A": "0.5. ",
                 "B": "0.4. ",
@@ -200,7 +200,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 14",
-            "enunciado": "Luiz, Lucas e Marcos são estudantes e dividem um apartamento. No quarto de Luiz há um chuveiro elétrico e no quarto de Lucas há um ar -condicionado. Para tentar dividir a conta de energia de maneira mais justa, eles decidiram que Lucas pagaria 2/5 da conta de energia, Luiz pagaria 35% e Marcos pagaria o restante. Em um dado mês a conta de energia foi R$ 240,00. Quanto Marcos pagou a menos nesta nova forma de divisão se comparado com a divisão anterior, onde a conta era igualmente dividida entre ...",
+            "enunciado": "Luiz, Lucas e Marcos são estudantes e dividem um apartamento. No quarto de Luiz há um chuveiro elétrico e no quarto de Lucas há um ar -condicionado. Para tentar dividir a conta de energia de maneira mais justa, eles decidiram que Lucas pagaria 2/5 da conta de energia, Luiz pagaria 35% e Marcos pagaria o restante. Em um dado mês a conta de energia foi R$ 240,00. Quanto Marcos pagou a menos nesta nova forma de divisão se comparado com a divisão anterior, onde a conta era igualmente dividida entre os três? ",
             "alternativas": {
                 "A": "R$ 20,00. ",
                 "B": "R$ 30,00. ",
@@ -425,7 +425,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 29",
-            "enunciado": "As incumbências dos profissionais integrantes das equipes que desempenham suas funções na Atenção Básica devem conformar -se com as regulamentações específicas do Ministério da Saúde, assim como com as delimitações do âmbito das práticas, protocolos, orientações clínicas e terapêuticas, juntamente com quaisquer outras diretrizes técnicas estipuladas pelos gestores das esferas federal, estadual, municipal ou do Distrito Federal. Neste sentido, assinale a alternativa que contenha ao menos uma das ...",
+            "enunciado": "As incumbências dos profissionais integrantes das equipes que desempenham suas funções na Atenção Básica devem conformar -se com as regulamentações específicas do Ministério da Saúde, assim como com as delimitações do âmbito das práticas, protocolos, orientações clínicas e terapêuticas, juntamente com quaisquer outras diretrizes técnicas estipuladas pelos gestores das esferas federal, estadual, municipal ou do Distrito Federal. Neste sentido, assinale a alternativa que contenha ao menos uma das diversas atribuições comuns a todos os membros das equipes que atuam na Atenção Básica. ",
             "alternativas": {
                 "A": "Apenas fiscalizar o processo de territorialização e mapeamento da área de atuação da equipe. ",
                 "B": "Cadastrar dados de saúde das famílias e dos indivíduos no sistema de informação da Atenção Básica vigente, utilizando informações superficiais. ",
@@ -440,7 +440,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 30",
-            "enunciado": "Os Agentes Comunitários de Saúde (ACS) e os Agentes de Combate às Endemias (ACE) são dois tipos de profissionais que desempenham funções importantes no sistema de saúde pública, especialmente no contexto do Sistema Único de Saúde (SUS) no Brasil. Assim, pode -se afirmar que são atribuições comuns do ACS e ACE. I - Realizar diagnóstico demográfico, social, cultural, ambie ntal, epidemiológico e sanitário do território em que atuam, contribuindo para o processo de territorialização e mapeamento da...",
+            "enunciado": "Os Agentes Comunitários de Saúde (ACS) e os Agentes de Combate às Endemias (ACE) são dois tipos de profissionais que desempenham funções importantes no sistema de saúde pública, especialmente no contexto do Sistema Único de Saúde (SUS) no Brasil. Assim, pode -se afirmar que são atribuições comuns do ACS e ACE. I - Realizar diagnóstico demográfico, social, cultural, ambie ntal, epidemiológico e sanitário do território em que atuam, contribuindo para o processo de territorialização e mapeamento da área de atuação da equipe. II - Identificar e registrar situações que interfiram no curso das doenças ou que tenham importância epidemiológica relacionada aos fatores ambientais, deixando de realizar, bloqueio de transmissão de doenças infecciosas e agravos. III - Orientar a comunidade sobre sintomas, riscos e agentes transmissores de doenças e medidas de prevenção individual e c oletiva. ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "II e III, apenas. ",
@@ -515,7 +515,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 35",
-            "enunciado": "Acerca do tema eficácia x efetividade em saúde coletiva, é possível afirmar: I - Eficácia avalia o impacto da intervenção no mund o real, levando em consideração a diversidade da população, fatores contextuais e a aderência à intervenção. II - Efetividade, por outro lado, se concentra nas condições ideais de laboratório ou em estudos controlados, onde os resultados são rigorosamente monitorados e as variáveis são controladas. Se referindo à capacidade de uma intervenção funcionar em condições id...",
+            "enunciado": "Acerca do tema eficácia x efetividade em saúde coletiva, é possível afirmar: I - Eficácia avalia o impacto da intervenção no mund o real, levando em consideração a diversidade da população, fatores contextuais e a aderência à intervenção. II - Efetividade, por outro lado, se concentra nas condições ideais de laboratório ou em estudos controlados, onde os resultados são rigorosamente monitorados e as variáveis são controladas. Se referindo à capacidade de uma intervenção funcionar em condições ideais. ",
             "alternativas": {
                 "A": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. ",
                 "B": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. ",
@@ -530,7 +530,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 37",
-            "enunciado": "Para a consolidação do subsistema de vigilância em saúde ambiental relacionada à qualidade da água destinada ao consumo humano do Sinvas, é imperativo estabelecer um modelo de atuação da vigilância da qualidade da água para consumo humano no Brasil. Isso requer a implementação de um Programa abrangente, estruturado em âmbito nacional, com ações a ser em executadas nas esferas federal, estadual e municipal. Entre essas ações, merecem destaque: I - Coordenação da vigilância da qualidade da água pa...",
+            "enunciado": "Para a consolidação do subsistema de vigilância em saúde ambiental relacionada à qualidade da água destinada ao consumo humano do Sinvas, é imperativo estabelecer um modelo de atuação da vigilância da qualidade da água para consumo humano no Brasil. Isso requer a implementação de um Programa abrangente, estruturado em âmbito nacional, com ações a ser em executadas nas esferas federal, estadual e municipal. Entre essas ações, merecem destaque: I - Coordenação da vigilância da qualidade da água para consumo humano. II - Normalização do registro dos produtos utilizados no tratamento de água. III - Elabora ção de métodos e procedimentos para a vigilância da qualidade da água para consumo humano. ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "II e III, apenas. ",
@@ -560,7 +560,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 39",
-            "enunciado": "A epidemiologia é uma disciplina fundamental na área da saúde pública, responsável por estudar a distribuição e determinantes das doenças e outros eventos de saúde em populações humanas. Acerca do tema, analise os conceitos abaixo e assinale a alternativa correta: I - Uma epidemia ocorre quando o número de casos de u ma doença em uma população excede o que é esperado ou considerado normal para uma determinada área e período de tempo. Isso pode indicar uma disseminação acelerada da doença. II - U...",
+            "enunciado": "A epidemiologia é uma disciplina fundamental na área da saúde pública, responsável por estudar a distribuição e determinantes das doenças e outros eventos de saúde em populações humanas. Acerca do tema, analise os conceitos abaixo e assinale a alternativa correta: I - Uma epidemia ocorre quando o número de casos de u ma doença em uma população excede o que é esperado ou considerado normal para uma determinada área e período de tempo. Isso pode indicar uma disseminação acelerada da doença. II - Uma endemia refere -se à persistência constante de uma doença em uma determi nada área geográfica ou população ao longo do tempo. ",
             "alternativas": {
                 "A": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. ",
                 "B": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. ",
@@ -770,7 +770,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 13",
-            "enunciado": "Em uma dada faculdade, uma pessoa pode ingressar em um curso superior mediante a realização de três provas: Língua Portuguesa, Matemática e Redação. A nota final do candidato é a média ponderada dessas três provas, com pesos que dependem do curso no qual o candidato está interessado. Um determinado candidato e stá interessado em dois cursos: Jornalismo e História. A nota do candidato e os respectivos pesos dos cursos de interesse são mostrados na tabela abaixo: Provas Notas Pesos Jornalismo Hist...",
+            "enunciado": "Em uma dada faculdade, uma pessoa pode ingressar em um curso superior mediante a realização de três provas: Língua Portuguesa, Matemática e Redação. A nota final do candidato é a média ponderada dessas três provas, com pesos que dependem do curso no qual o candidato está interessado. Um determinado candidato e stá interessado em dois cursos: Jornalismo e História. A nota do candidato e os respectivos pesos dos cursos de interesse são mostrados na tabela abaixo: Provas Notas Pesos Jornalismo História Língua Portuguesa 7,5 4 2 Matemática 5,0 3 2 Redação 8,0 3 3 Qual a diferença entre a nota final do candidato para o curso de História e para o curso de Jornalismo? ",
             "alternativas": {
                 "A": "0.5. ",
                 "B": "0.4. ",
@@ -785,7 +785,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 14",
-            "enunciado": "Luiz, Lucas e Marcos são estudantes e dividem um apartamento. No quarto de Luiz há um chuveiro elétrico e no quarto de Lucas há um ar -condicionado. Para tentar dividir a conta de energia de maneira mais justa, eles decidiram que Lucas pagaria 2/5 da conta de energia, Luiz pagaria 35% e Marcos pagaria o restante. Em um dado mês a conta de energia foi R$ 240,00. Quanto Marcos pagou a menos nesta nova forma de divisão se comparado com a divisão anterior, onde a conta era igualmente dividida entre ...",
+            "enunciado": "Luiz, Lucas e Marcos são estudantes e dividem um apartamento. No quarto de Luiz há um chuveiro elétrico e no quarto de Lucas há um ar -condicionado. Para tentar dividir a conta de energia de maneira mais justa, eles decidiram que Lucas pagaria 2/5 da conta de energia, Luiz pagaria 35% e Marcos pagaria o restante. Em um dado mês a conta de energia foi R$ 240,00. Quanto Marcos pagou a menos nesta nova forma de divisão se comparado com a divisão anterior, onde a conta era igualmente dividida entre os três? ",
             "alternativas": {
                 "A": "R$ 20,00. ",
                 "B": "R$ 30,00. ",
@@ -1010,7 +1010,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 29",
-            "enunciado": "As incumbências dos profissionais integrantes das equipes que desempenham suas funções na Atenção Básica devem conformar -se com as regulamentações específicas do Ministério da Saúde, assim como com as delimitações do âmbito das práticas, protocolos, orientações clínicas e terapêuticas, juntamente com quaisquer outras diretrizes técnicas estipuladas pelos gestores das esferas federal, estadual, municipal ou do Distrito Federal. Neste sentido, assinale a alternativa que contenha ao menos uma das ...",
+            "enunciado": "As incumbências dos profissionais integrantes das equipes que desempenham suas funções na Atenção Básica devem conformar -se com as regulamentações específicas do Ministério da Saúde, assim como com as delimitações do âmbito das práticas, protocolos, orientações clínicas e terapêuticas, juntamente com quaisquer outras diretrizes técnicas estipuladas pelos gestores das esferas federal, estadual, municipal ou do Distrito Federal. Neste sentido, assinale a alternativa que contenha ao menos uma das diversas atribuições comuns a todos os membros das equipes que atuam na Atenção Básica. ",
             "alternativas": {
                 "A": "Apenas fiscalizar o processo de territorialização e mapeamento da área de atuação da equipe. ",
                 "B": "Cadastrar dados de saúde das famílias e dos indivíduos no sistema de informação da Atenção Básica vigente, utilizando informações superficiais. ",
@@ -1025,7 +1025,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 30",
-            "enunciado": "Os Agentes Comunitários de Saúde (ACS) e os Agentes de Combate às Endemias (ACE) são dois tipos de profissionais que desempenham funções importantes no sistema de saúde pública, especialmente no contexto do Sistema Único de Saúde (SUS) no Brasil. Assim, pode -se afirmar que são atribuições comuns do ACS e ACE. I - Realizar diagnóstico demográfico, social, cultural, ambie ntal, epidemiológico e sanitário do território em que atuam, contribuindo para o processo de territorialização e mapeamento da...",
+            "enunciado": "Os Agentes Comunitários de Saúde (ACS) e os Agentes de Combate às Endemias (ACE) são dois tipos de profissionais que desempenham funções importantes no sistema de saúde pública, especialmente no contexto do Sistema Único de Saúde (SUS) no Brasil. Assim, pode -se afirmar que são atribuições comuns do ACS e ACE. I - Realizar diagnóstico demográfico, social, cultural, ambie ntal, epidemiológico e sanitário do território em que atuam, contribuindo para o processo de territorialização e mapeamento da área de atuação da equipe. II - Identificar e registrar situações que interfiram no curso das doenças ou que tenham importância epidemiológica relacionada aos fatores ambientais, deixando de realizar, bloqueio de transmissão de doenças infecciosas e agravos. III - Orientar a comunidade sobre sintomas, riscos e agentes transmissores de doenças e medidas de prevenção individual e c oletiva. ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "II e III, apenas. ",
@@ -1100,7 +1100,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 35",
-            "enunciado": "Acerca do tema eficácia x efetividade em saúde coletiva, é possível afirmar: I - Eficácia avalia o impacto da intervenção no mund o real, levando em consideração a diversidade da população, fatores contextuais e a aderência à intervenção. II - Efetividade, por outro lado, se concentra nas condições ideais de laboratório ou em estudos controlados, onde os resultados são rigorosamente monitorados e as variáveis são controladas. Se referindo à capacidade de uma intervenção funcionar em condições id...",
+            "enunciado": "Acerca do tema eficácia x efetividade em saúde coletiva, é possível afirmar: I - Eficácia avalia o impacto da intervenção no mund o real, levando em consideração a diversidade da população, fatores contextuais e a aderência à intervenção. II - Efetividade, por outro lado, se concentra nas condições ideais de laboratório ou em estudos controlados, onde os resultados são rigorosamente monitorados e as variáveis são controladas. Se referindo à capacidade de uma intervenção funcionar em condições ideais. ",
             "alternativas": {
                 "A": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. ",
                 "B": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. ",
@@ -1115,7 +1115,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 37",
-            "enunciado": "Para a consolidação do subsistema de vigilância em saúde ambiental relacionada à qualidade da água destinada ao consumo humano do Sinvas, é imperativo estabelecer um modelo de atuação da vigilância da qualidade da água para consumo humano no Brasil. Isso requer a implementação de um Programa abrangente, estruturado em âmbito nacional, com ações a ser em executadas nas esferas federal, estadual e municipal. Entre essas ações, merecem destaque: I - Coordenação da vigilância da qualidade da água pa...",
+            "enunciado": "Para a consolidação do subsistema de vigilância em saúde ambiental relacionada à qualidade da água destinada ao consumo humano do Sinvas, é imperativo estabelecer um modelo de atuação da vigilância da qualidade da água para consumo humano no Brasil. Isso requer a implementação de um Programa abrangente, estruturado em âmbito nacional, com ações a ser em executadas nas esferas federal, estadual e municipal. Entre essas ações, merecem destaque: I - Coordenação da vigilância da qualidade da água para consumo humano. II - Normalização do registro dos produtos utilizados no tratamento de água. III - Elabora ção de métodos e procedimentos para a vigilância da qualidade da água para consumo humano. ",
             "alternativas": {
                 "A": "I e II, apenas. ",
                 "B": "II e III, apenas. ",
@@ -1145,7 +1145,7 @@
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "03/2023",
             "questão": "Questão 39",
-            "enunciado": "A epidemiologia é uma disciplina fundamental na área da saúde pública, responsável por estudar a distribuição e determinantes das doenças e outros eventos de saúde em populações humanas. Acerca do tema, analise os conceitos abaixo e assinale a alternativa correta: I - Uma epidemia ocorre quando o número de casos de u ma doença em uma população excede o que é esperado ou considerado normal para uma determinada área e período de tempo. Isso pode indicar uma disseminação acelerada da doença. II - U...",
+            "enunciado": "A epidemiologia é uma disciplina fundamental na área da saúde pública, responsável por estudar a distribuição e determinantes das doenças e outros eventos de saúde em populações humanas. Acerca do tema, analise os conceitos abaixo e assinale a alternativa correta: I - Uma epidemia ocorre quando o número de casos de u ma doença em uma população excede o que é esperado ou considerado normal para uma determinada área e período de tempo. Isso pode indicar uma disseminação acelerada da doença. II - Uma endemia refere -se à persistência constante de uma doença em uma determi nada área geográfica ou população ao longo do tempo. ",
             "alternativas": {
                 "A": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. ",
                 "B": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. ",
