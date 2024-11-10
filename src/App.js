@@ -4,27 +4,27 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import SimuladoForm from "./components/SimuladoForm";
 import Footer from "./components/Footer";
-import Popup from "./components/Popup"; // Certifique-se de importar o componente Popup
+import Popup from "./components/Popup"; 
 
 function App() {
   const [showPopup, setShowPopup] = useState(false);
 
-  // Função para fechar o popup
+
   const closePopup = () => {
     setShowPopup(false);
   };
 
-  // Use useEffect para mostrar o popup após 3 minutos (180000 ms)
+
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowPopup(true);
-    }, 18000); // Exibe o popup após 3 minutos
+    }, 180000); // Exibe o popup após 3 minutos
 
     return () => clearTimeout(timer); // Limpa o timer quando o componente é desmontado
   }, []);
 
   return (
-    <div className="flex flex-col min-h-screen bg-gray-100">
+    <div className="flex flex-col min-h-screen bg-orange-100">
       <Navbar />
       <Header />
       <SimuladoForm />

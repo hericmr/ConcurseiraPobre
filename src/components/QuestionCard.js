@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
-const QuestionCard = ({ question, index }) => {
+const QuestionCard = ({ question }) => {
   const [feedback, setFeedback] = useState("");
   const [selectedAnswer, setSelectedAnswer] = useState("");
   const [isAnswered, setIsAnswered] = useState(false);
-  const [discardedAnswers, setDiscardedAnswers] = useState([]); // Novo estado para respostas descartadas
+  const [discardedAnswers, setDiscardedAnswers] = useState([]);
 
   const checkAnswer = () => {
     setIsAnswered(true);
@@ -14,12 +14,12 @@ const QuestionCard = ({ question, index }) => {
 
   // Função para descartar a alternativa
   const discardAnswer = (letter) => {
-    setDiscardedAnswers((prev) => [...prev, letter]); // Adiciona a alternativa à lista de descartadas
+    setDiscardedAnswers((prev) => [...prev, letter]); 
   };
 
   return (
     <div className="bg-white p-8 rounded-lg shadow-lg mt-6 border border-gray-200 relative">
-      {/* Novo container para informações do cargo, edital, ano e banca */}/}
+      {/* Novo container para informações do cargo, edital, ano e banca */}
       <div className="absolute top-0 left-0 w-full bg-gray-800 p-4 rounded-t-lg text-white">
         <div className="flex flex-wrap gap-x-6 text-white font-semibold justify-between">
           <h5 className="text-lg font-semibold">Cargo: {question.cargo}</h5>
@@ -29,7 +29,7 @@ const QuestionCard = ({ question, index }) => {
         </div>
       </div>
 
-      {/* Espaço para compensar o elemento fixo no topo */}}
+      {/* Espaço para compensar o elemento fixo no topo */}
       <div className="mt-20"></div>
 
       {/* Enunciado */}
@@ -51,7 +51,12 @@ const QuestionCard = ({ question, index }) => {
                 ${isCorrectAnswer ? "bg-green-100 border border-green-500" : ""}
                 ${isSelectedAnswer && !isAnswered ? "bg-gray-100" : ""}
                 ${isDiscarded ? "bg-gray-300 opacity-50" : ""}`} // Adiciona estilo quando a alternativa é descartada
-              onClick={() => !isAnswered && setSelectedAnswer(letter)}
+              onClick={(e) => {
+                if (!isAnswered) {
+                  e.stopPropagation();
+                  setSelectedAnswer(letter);
+                }
+              }}
             >
               <label
                 className={`flex items-center justify-center w-7 h-7 rounded-full border-2 transition-all duration-200 
