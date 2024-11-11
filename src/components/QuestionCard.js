@@ -28,7 +28,8 @@ const QuestionCard = ({ question }) => {
         </div>
       </div>
 
-    <div className="h-10"></div>
+      {/* Espaço para compensar o elemento fixo no topo */}
+      <div className="mt-20"></div>
 
       {/* Texto relevante */}
       {question.texto_relevante && (
