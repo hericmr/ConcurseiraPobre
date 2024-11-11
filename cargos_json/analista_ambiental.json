@@ -2,6 +2,7 @@
     "ANALISTA AMBIENTAL": [
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "Leia o texto a seguir para responder às \nquestões de 1 a 6.  \n \nO facão do seu Manuel   \n \nSeu Manuel era português e tinha um \naçougue. Acordava cedo e trabalhava duro e foi \nassim que educou os filhos e conseguiu até que \nJoaquim, o Joca, se formasse em economia na \nPUC e fizesse mestrado em Harvard. Nem no dia \nda chegada do Joca dos Estados Unido s, onde \nganhara nota altíssima com sua dissertação de \nmestrado Viés restritivo diagonal e viés \ndistensivo horizontal nas economias emergentes , \no seu Manuel deixou de trabalhar. Tanto que, \ndepois da recepção no aeroporto, o Joca foi direto \npara o açougue abraçar o pai, nem se importando \ncom o avental sujo de sangue contra o seu \nArmani.   \nFicou contando do sucesso da sua \ndissertação para o seu Manuel enquanto este \ncontinuava a servir a freguesia, pois era um dia \nmovimentado no açougue. Foi quando Joca viu, \nhorrorizado, que toda vez que colocava a carne \nna balança, seu Manuel fingia distraçã o e \npressionava o prato da balança com seu facão, \naumentando o peso. Não quis fazer uma cena na \nfrente dos fregueses mas, assim que pôde, \nprotestou. Que imoralidade era aquela? O pai não \nvia que aquilo era desonesto? E, mesmo, o \naumento no peso era tão peq ueno que não \ncompensava o risco de um freguês descobrir e \nfazer um escândalo. O pai não tinha vergonha?   \nÓ desgraçado, estás a cagare no prato em \nque comes — ponderou seu Manuel. E explicou \nque eram aquela pequena pressão do facão e \naquele pequeno aumento no peso, repetidos \nvárias vezes ao dia, durante anos, que tinham \npago os estudos do Joca, inclusive o mes trado em \nHarvard e o Armani. Ou, continuou seu Manuel \n(em outras palavras, é claro), ele acreditava que \ncobrando preços justos, contentando -se com \nlucros honestos e, acima de tudo, tendo \nvergonha, o Brasil teria produzido a elite que \nproduzira, inclusive e conomistas tão bons e tão elegantes para lhe dizer o que fazer? O Joca podia \nescolher entre trabalhar no açougue ou no \ngoverno. Seria rico e feliz, desde que nunca mais \nquestionasse o facão.   \nJoca, apesar de fictício, hoje é \nfuncionário do Banco Central, onde sempre \njustifica algum episódio de cegueira conveniente \nou moral relativa lembrando a pressão do facão \ndo seu Manuel no prato da balança. Que ele \nchama de viés conjuntural perpendicular . \n \nVERISSIMO, L. F. Verissimo antológico : meio \nséculo de crônicas, ou coisa parecida.  São Paulo: \nObjetiva, 2020.",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 1",
@@ -17,6 +18,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 2",
@@ -32,6 +34,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 3",
@@ -47,6 +50,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 4",
@@ -62,6 +66,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 5",
@@ -77,6 +82,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 6",
@@ -92,6 +98,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 7",
@@ -107,6 +114,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 8",
@@ -122,6 +130,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 9",
@@ -137,6 +146,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 10",
@@ -152,10 +162,11 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 11",
-            "enunciado": "Uma máquina fabrica peças de formato retangular. Devido a falhas de calibração na máquina, a largura e altura do retângulo podem ficar um pouco diferente do especificado. Após a máquina fabricar 3 peças, um técnico faz a medida da largura e da altura dessa s peças, conforme a tabela abaixo: Altura (cm) Largura (cm) Peça 1 3,2 4,6 Peça 2 3,8 4,4 Peça 3 3,5 4,2 Ele deseja medir a média das áreas das peças, em duas situações: I) Primeiro ele toma a média das três alturas e a média das três larguras, e multiplica esses resultados, e II) Ele multiplica cada altura por cada largura, calculando as áreas individuais de cada peça, e depois toma a média das á reas resultantes. Os procedimentos I) e II) calculados utilizando os valores da tabela resultam respectivamente em: ",
+            "enunciado": "Uma máquina fabrica peças de formato retangular. Devido a falhas de calibração na máquina, a largura e altura do retângulo podem ficar um pouco diferente do especificado. Após a máquina fabricar 3 peças, um técnico faz a medida da largura e da altura dessa s peças, conforme a tabela abaixo: Altura (cm) Largura (cm) Peça 1 3,2 4,6 Peça 2 3,8 4,4 Peça 3 3,5 4,2 Ele deseja medir a média das áreas das peças, em duas situações: I) Primeiro ele toma a média das três alturas e a média das três larguras...",
             "alternativas": {
                 "A": "15,40 cm2 e 15,40 cm2. ",
                 "B": "15,40 cm2 e 15,38 cm2. ",
@@ -167,6 +178,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 12",
@@ -182,6 +194,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 13",
@@ -197,10 +210,11 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 14",
-            "enunciado": "Em uma competição de matemática, os competidores devem resolver 5 problemas. Há um problema fácil, três problemas de dificuldade média e um problema difícil. Em cada problema o competidor poderá receber uma nota de zero a cem. A nota final do competidor é a média aritmética ponderada onde o problema fácil tem peso 1, os problemas médios têm peso 2, cada, e o problema difícil tem peso 3. Se um competidor tirar 100, 80, 80, 80, 50 nos problemas fácil, médios, e difícil, nesta ordem, qual será a nota final do competidor? ",
+            "enunciado": "Em uma competição de matemática, os competidores devem resolver 5 problemas. Há um problema fácil, três problemas de dificuldade média e um problema difícil. Em cada problema o competidor poderá receber uma nota de zero a cem. A nota final do competidor é a média aritmética ponderada onde o problema fácil tem peso 1, os problemas médios têm peso 2, cada, e o problema difícil tem peso 3. Se um competidor tirar 100, 80, 80, 80, 50 nos problemas fácil, médios, e difícil, nesta ordem, qual será a no...",
             "alternativas": {
                 "A": "73. ",
                 "B": "82. ",
@@ -212,6 +226,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 15",
@@ -227,6 +242,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 16",
@@ -242,10 +258,11 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 17",
-            "enunciado": "Observe o trecho: “Você sabe quantas folhas de papel são fabricadas com uma única árvore? Se considerarmos um exemplar padrão, como o eucalipto, podemos produzir 20 resmas de papel, que totalizam 10 mil folhas de 75g/m² em tamanho A4 para cada tronco.” Retirado de “https://www.trtes.jus.br/principal/comunicacao/noticias/conteudo/3234 - quantas -folhas -de-papel -da-pra-fazer -com-uma-arvore”. Acesso em 29 de maio de 2024. Dadas as proporções descritas no trecho, quantas árvores seriam necessárias para se produzir 500 milhões de folhas de papel similares? ",
+            "enunciado": "Observe o trecho: “Você sabe quantas folhas de papel são fabricadas com uma única árvore? Se considerarmos um exemplar padrão, como o eucalipto, podemos produzir 20 resmas de papel, que totalizam 10 mil folhas de 75g/m² em tamanho A4 para cada tronco.” Retirado de “https://www.trtes.jus.br/principal/comunicacao/noticias/conteudo/3234 - quantas -folhas -de-papel -da-pra-fazer -com-uma-arvore”. Acesso em 29 de maio de 2024. Dadas as proporções descritas no trecho, quantas árvores seriam necessária...",
             "alternativas": {
                 "A": "50. ",
                 "B": "500. ",
@@ -257,6 +274,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 18",
@@ -272,10 +290,11 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 19",
-            "enunciado": "Um astrônomo está calculando a rota de dois cometas, chamados de A e B. Ele sabe que o cometa A somente aparece a olho nu cada 112 anos e o cometa B somente aparece a olho nu a cada 8 anos. Em 2023 ambos os cometas foram vistos a olho nu simultaneamente. Após 2023, haverá um determinado ano (ano X) em que eles poderão ser vistos a olho nu simultaneamente novamente. Quando este evento acontecer no ano X, quantas vezes o cometa B terá sido visto a olho nu entre 2023 e o ano X (estes não inclusos)? ",
+            "enunciado": "Um astrônomo está calculando a rota de dois cometas, chamados de A e B. Ele sabe que o cometa A somente aparece a olho nu cada 112 anos e o cometa B somente aparece a olho nu a cada 8 anos. Em 2023 ambos os cometas foram vistos a olho nu simultaneamente. Após 2023, haverá um determinado ano (ano X) em que eles poderão ser vistos a olho nu simultaneamente novamente. Quando este evento acontecer no ano X, quantas vezes o cometa B terá sido visto a olho nu entre 2023 e o ano X (estes não inclusos)?...",
             "alternativas": {
                 "A": "8. ",
                 "B": "15. ",
@@ -287,10 +306,11 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 20",
-            "enunciado": "Em uma pequena cidade, quatro amigos (Carlos, Diana, Eva e Felipe) participam de um jogo de lógica. Cada um deles recebe uma cor de camiseta diferente (vermelha, azul, verde e amarela) e um animal de estimação diferente (cachorro, gato, pássaro e peixe). A s seguintes pistas são dadas: • Carlos não tem a camiseta vermelha e nem o pássaro. • Diana tem a camiseta verde. • A pessoa com a camiseta amarela tem o cachorro. • Eva tem o peixe. • Felipe tem a camiseta amarela. Portanto, é correto afirmar que Carlos tem: ",
+            "enunciado": "Em uma pequena cidade, quatro amigos (Carlos, Diana, Eva e Felipe) participam de um jogo de lógica. Cada um deles recebe uma cor de camiseta diferente (vermelha, azul, verde e amarela) e um animal de estimação diferente (cachorro, gato, pássaro e peixe). A s seguintes pistas são dadas: • Carlos não tem a camiseta vermelha e nem o pássaro. • Diana tem a camiseta verde. • A pessoa com a camiseta amarela tem o cachorro. • Eva tem o peixe. • Felipe tem a camiseta amarela. Portanto, é correto afirmar...",
             "alternativas": {
                 "A": "Camiseta azul e Peixe. ",
                 "B": "Camiseta amarela e Cachorro. ",
@@ -302,6 +322,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 21",
@@ -317,6 +338,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 22",
@@ -332,6 +354,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 23",
@@ -347,6 +370,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 24",
@@ -362,6 +386,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 25",
@@ -377,6 +402,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 26",
@@ -392,6 +418,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 27",
@@ -407,6 +434,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 28",
@@ -422,6 +450,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 29",
@@ -437,6 +466,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 30",
@@ -452,6 +482,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 31",
@@ -467,6 +498,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 32",
@@ -482,6 +514,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 33",
@@ -497,6 +530,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 34",
@@ -512,6 +546,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 35",
@@ -527,10 +562,11 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 36",
-            "enunciado": "“Iniciativas e medidas para reduzir a vulnerabilidade dos sistemas naturais e humanos frente aos efeitos atuais e esperados da mudança do clima.” “Constituintes gasosos, naturais ou antrópicos, que, na atmosfera, absorvem e reemitem radiação infravermelha.” “Processo, atividade ou mecanismo que remova da atmosfera gás de efeito estufa, aerossol ou precursor de gás de efeito estufa.” As seguintes definições elencadas na Lei Federal nº 12.187/2009 (Política Nacional sobre Mudança do Clima) referem -se, respectivamente, à: ",
+            "enunciado": "“Iniciativas e medidas para reduzir a vulnerabilidade dos sistemas naturais e humanos frente aos efeitos atuais e esperados da mudança do clima.” “Constituintes gasosos, naturais ou antrópicos, que, na atmosfera, absorvem e reemitem radiação infravermelha.” “Processo, atividade ou mecanismo que remova da atmosfera gás de efeito estufa, aerossol ou precursor de gás de efeito estufa.” As seguintes definições elencadas na Lei Federal nº 12.187/2009 (Política Nacional sobre Mudança do Clima) referem...",
             "alternativas": {
                 "A": "Adaptação, gases do efeito estufa e sumidouro. ",
                 "B": "Fonte, emissões e mitigação. ",
@@ -542,10 +578,11 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 37",
-            "enunciado": "Acerca do que dispõe a Resolução CONAMA 430/2011 (Lançamentos de Efluentes), no que tange às Condições e Padrões de Lançamentos de Efluentes, analise os itens a seguir e, ao final, assinale a alternativa correta. I – Os efluentes não poderão conferir ao corpo receptor características de qualidade em desacordo com as metas obrigatórias progressivas, intermediárias e final, do seu enquadramento. II – As metas obrigatórias para corpos receptores serão estabelecidas por parâmetros específicos. III – Ainda que em caráter temporário, o órgão ambiental competente, não poderá autorizar o lançamento de efluentes em desacordo com as condições e padrões estabelecidos nesta resolução. ",
+            "enunciado": "Acerca do que dispõe a Resolução CONAMA 430/2011 (Lançamentos de Efluentes), no que tange às Condições e Padrões de Lançamentos de Efluentes, analise os itens a seguir e, ao final, assinale a alternativa correta. I – Os efluentes não poderão conferir ao corpo receptor características de qualidade em desacordo com as metas obrigatórias progressivas, intermediárias e final, do seu enquadramento. II – As metas obrigatórias para corpos receptores serão estabelecidas por parâmetros específicos. III –...",
             "alternativas": {
                 "A": "Apenas o item I é verdadeiro. ",
                 "B": "Apenas o item II é verdadeiro. ",
@@ -557,6 +594,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 38",
@@ -572,6 +610,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 39",
@@ -587,6 +626,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 40",
@@ -602,6 +642,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 41",
@@ -617,6 +658,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 42",
@@ -632,6 +674,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 43",
@@ -647,10 +690,11 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 44",
-            "enunciado": "No que tange aos principais poluentes atmosféricos e suas características, analise os itens a seguir, e ao final, assinale a alternativa correta. I – Dióxido de Nitrogênio (NO2) - é um gás poluente com ação altamente oxidante, sua presença na atmosfera é fator chave na formação do ozônio troposférico. II – Material Particulado (MP): composto formado de carbono e hidrogênio e que podem se apresentar na forma de gases, partículas finas ou gotas. III – Dióxido de Enxofre (SO2): é um gás tóxico e incolor, pode ser emitido por fontes naturais ou por fontes antropogênicas e pode reagir com outros compostos na atmosfera, formando material particulado de diâmetro reduzido. ",
+            "enunciado": "No que tange aos principais poluentes atmosféricos e suas características, analise os itens a seguir, e ao final, assinale a alternativa correta. I – Dióxido de Nitrogênio (NO2) - é um gás poluente com ação altamente oxidante, sua presença na atmosfera é fator chave na formação do ozônio troposférico. II – Material Particulado (MP): composto formado de carbono e hidrogênio e que podem se apresentar na forma de gases, partículas finas ou gotas. III – Dióxido de Enxofre (SO2): é um gás tóxico e in...",
             "alternativas": {
                 "A": "Apenas o item I é verdadeiro. ",
                 "B": "Apenas o item II é verdadeiro. ",
@@ -662,6 +706,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 45",
@@ -677,6 +722,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 4",
@@ -692,6 +738,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 47",
@@ -707,6 +754,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 48",
@@ -722,6 +770,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 49",
@@ -737,6 +786,7 @@
         },
         {
             "cargo": "ANALISTA AMBIENTAL",
+            "texto_relevante": "",
             "disciplina": "LÍNGUA PORTUGUESA",
             "id_concurso": "01/2024",
             "questão": "Questão 50",
