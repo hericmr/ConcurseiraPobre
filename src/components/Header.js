@@ -13,7 +13,7 @@ const Header = () => (
             Questões da banca AVANÇA SP - ACESSE GRÁTIS!
           </h1>
           <p className="text-primary-50 text-sm font-normal md:text-lg text-black">
-          Pratique com provas reais da banca Avança-SP e melhore seu desempenho. Aqui você encontra, de forma gratuita, uma ampla coleção de questões dessa banca ajudar nos seus estudos!          </p>
+          Pratique com provas reais da banca Avança-SP e melhore seu desempenho. Aqui você encontra, de forma gratuita, uma ampla coleção de questões dessa banca para ajudar nos seus estudos!          </p>
         </div>
       </div>
 

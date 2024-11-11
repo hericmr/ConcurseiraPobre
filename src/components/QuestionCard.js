@@ -17,35 +17,34 @@ const QuestionCard = ({ question }) => {
   };
 
   return (
-    <div className="bg-white p-8 rounded-lg shadow-lg mt-6 border border-gray-200 relative">
+    <div className="bg-white p-8 rounded-lg shadow-lg mt-6 border border-gray-200 relative max-w-5xl mx-auto">
       {/* Novo container para informações do cargo, edital, ano e banca */}
-      <div className="absolute top-0 left-0 w-full bg-gray-800 p-4 rounded-t-lg text-white">
-        <div className="flex flex-wrap gap-x-6 text-white font-semibold justify-between">
-          <h5 className="text-lg font-semibold">Cargo: {question.cargo}</h5>
-          <h5 className="text-lg font-semibold">Edital: {question.id_concurso}</h5>
-          <h5 className="text-lg font-semibold">Ano: {question.id_concurso.slice(-4)}</h5>
-          <h5 className="text-lg font-semibold">Banca: Avança-SP</h5>
+      <div className="absolute top-0 left-0 w-full bg-gray-800 p-4 rounded-t-lg text-white text-sm">
+        <div className="flex flex-wrap gap-x-6 font-semibold justify-between">
+          <h5 className="font-semibold">Cargo: {question.cargo}</h5>
+          <h5 className="font-semibold">Edital: {question.id_concurso}</h5>
+          <h5 className="font-semibold">Ano: {question.id_concurso.slice(-4)}</h5>
+          <h5 className="font-semibold">Banca: Avança-SP</h5>
         </div>
       </div>
 
       {/* Espaço para compensar o elemento fixo no topo */}
-      <div className="mt-20"></div>
+      <div className="mt-10"></div>
 
       {/* Texto relevante */}
       {question.texto_relevante && (
-        <div className="bg-gray-50 p-4 mb-6 rounded-lg border border-gray-300">
-          <h6 className="font-semibold text-gray-700 mb-2">Texto Relevante:</h6>
-          <p className="text-gray-600 leading-relaxed text-sm">{question.texto_relevante}</p>
+        <div className="bg-gray-50 p-1 mb-6 rounded-lg border border-gray-100 text-sm">
+          <p className="text-gray-600 leading-relaxed">{question.texto_relevante}</p>
         </div>
       )}
 
       {/* Enunciado */}
-      <p className="text- font-semibold mb-4 text-lg leading-relaxed">
+      <p className="text-sm font-semibold mb-4 leading-relaxed">
         {question.enunciado}
       </p>
 
       {/* Alternativas */}
-      <div className="space-y-4">
+      <div className="space-y-4 text-sm">
         {Object.entries(question.alternativas).map(([letter, text]) => {
           const isCorrectAnswer = isAnswered && letter === question.resposta_correta;
           const isSelectedAnswer = selectedAnswer === letter;
@@ -72,7 +71,7 @@ const QuestionCard = ({ question }) => {
                 {letter}
               </label>
 
-              <span className={`ml-3 text-lg ${isSelectedAnswer ? "text-black" : "text-gray-700"}`}>
+              <span className={`ml-3 ${isSelectedAnswer ? "text-black" : "text-gray-700"}`}>
                 {text}
               </span>
 
@@ -97,7 +96,7 @@ const QuestionCard = ({ question }) => {
       {/* Botão para verificar resposta */}
       <button
         onClick={checkAnswer}
-        className="mt-6 w-full bg-gray-600 text-white font-semibold py-3 rounded-lg hover:bg-gray-700 transition-colors"
+        className="mt-6 w-full bg-gray-600 text-white font-semibold py-3 rounded-lg hover:bg-gray-700 transition-colors text-sm"
         disabled={isAnswered}
       >
         Verificar Resposta
@@ -105,7 +104,7 @@ const QuestionCard = ({ question }) => {
 
       {/* Feedback */}
       {feedback && (
-        <p className={`mt-4 text-center font-semibold text-lg ${feedback === "Correto!" ? "text-green-500" : "text-red-500"}`}>
+        <p className={`mt-4 text-center font-semibold ${feedback === "Correto!" ? "text-green-500" : "text-red-500"} text-sm`}>
           {feedback}
         </p>
       )}
