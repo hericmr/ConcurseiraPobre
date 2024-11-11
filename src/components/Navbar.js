@@ -10,7 +10,7 @@ const Navbar = () => {
         <ul className="flex space-x-4">
           <li>
             <a
-              href="#download"
+              href="#SobreOsite" // Verifique o ID correto aqui
               className="text-white hover:text-yellow-300 transition duration-300 text-sm"
             >
               Sobre o site
