@@ -199,7 +199,7 @@ const SimuladoForm = () => {
               <QuestionCard key={index} question={item} index={index} />
             ))
           ) : (
-            <p className="text-center">Nenhuma questão para exibir</p>
+            <p className="text-center">Atualmente o site conta com 88533 questões da banca Avança-SP</p>
           )}
         </div>
       )}
