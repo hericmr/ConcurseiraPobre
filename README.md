@@ -1,4 +1,4 @@
-## **Concurseira Pobre**,
+## **Concurseira Pobre**
 
 é um site gratuito que oferece uma grande coleção de questões da banca **AVANÇA SP** para estudos para concursos.
 Permite que o usuário acesse questões de provas anteriores da AVANÇA SP e praticar de forma descomplicada. 
