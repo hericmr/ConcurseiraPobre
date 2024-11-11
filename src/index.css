@@ -13,44 +13,42 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Adicione isso ao seu arquivo CSS ou estilo global */
 body {
-  background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradiente de laranja para amarelo */
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
 }
 
-/* Estilo para os cabeçalhos */
+h1, h2, h3, h4 {
+  @apply font-extrabold text-gray-900;
+}
+
 h1 {
-  @apply font-extrabold text-gray-900 text-2xl; /* Tamanho do cabeçalho 1 reduzido */
+  @apply text-2xl;
 }
 
 h2 {
-  @apply font-extrabold text-gray-900 text-xl; /* Tamanho do cabeçalho 2 reduzido */
+  @apply text-xl;
 }
 
 h3 {
-  @apply font-extrabold text-gray-900 text-lg; /* Tamanho do cabeçalho 3 reduzido */
+  @apply text-lg;
 }
 
 h4 {
-  @apply font-extrabold text-gray-900 text-base; /* Tamanho do cabeçalho 4 reduzido */
+  @apply text-base;
 }
 
-/* Estilo para links */
 a {
   @apply text-blue-500 hover:underline hover:text-blue-600 transition-colors;
 }
 
-/* Contêiner principal */
 .container {
   @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
 }
 
-/* Estilo dos botões para mais elegância e interação */
 button {
   @apply bg-blue-500 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-600 transition-colors duration-200;
 }
 
-/* Adicionando um toque de sombra e borda sutil para cartões e painéis */
 .card, .panel {
   @apply bg-white p-6 rounded-lg shadow-lg border border-gray-200 transform hover:scale-105 duration-200;
 }
@@ -60,30 +58,26 @@ button {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-/* Para seções */
 .section {
   @apply py-8 sm:py-12 md:py-16 bg-orange-100;
 }
 
-/* Formatação de texto para informações importantes */
 .important-text {
   @apply text-gray-700 font-medium;
 }
 
-/* Adicionando um toque especial para inputs de texto e áreas de formulário */
 input[type="text"], input[type="email"], input[type="password"], textarea {
   @apply bg-gray-100 border border-gray-300 rounded-lg py-2 px-4 focus:outline-none focus:border-gray-900 focus:ring focus:ring-blue-200 focus:ring-opacity-50 transition-shadow duration-200;
 }
 
-/* Estilo para feedback de mensagens */
 .feedback-correct {
   @apply text-green-600 font-semibold;
 }
+
 .feedback-incorrect {
   @apply text-red-600 font-semibold;
 }
 
-/* Definindo a animação fade-in */
 @keyframes fadeIn {
   from { opacity: 0; }
   to { opacity: 1; }
@@ -94,43 +88,37 @@ input[type="text"], input[type="email"], input[type="password"], textarea {
   animation: fadeIn 0.5s ease-in-out forwards;
 }
 
-/* Estilo para listas */
 ul, ol {
   @apply list-disc ml-6 pl-2 text-gray-700;
 }
 
-/* Adicionando estilos para o rodapé */
 footer {
   @apply bg-gray-200 text-gray-600 py-4 text-center border-t border-gray-300;
 }
 
-/* Animações para o popup */
 .popup-enter {
   animation: popupEnter 4.5s forwards;
 }
 
 @keyframes popupEnter {
   from {
-    transform: translateY(150%) scale(0.9) rotate(-2deg); /* Começa fora da tela */
-    opacity: 0; /* Começa invisível */
+    transform: translateY(150%) scale(0.9) rotate(-2deg);
+    opacity: 0;
   }
   to {
-    transform: translateY(0) scale(1) rotate(0deg); /* Termina na posição original */
-    opacity: 1; /* Torna-se visível */
+    transform: translateY(0) scale(1) rotate(0deg);
+    opacity: 1;
   }
 }
 
-/* Efeito de escala ao clicar em botões */
 button:active {
   transform: scale(0.95);
 }
 
-/* Adicionando sombra suave para imagens arredondadas */
 img.rounded-full {
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-/* Transições suaves */
 * {
   transition: all 0.3s ease;
 }

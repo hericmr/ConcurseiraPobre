@@ -12,9 +12,8 @@ const QuestionCard = ({ question }) => {
     setFeedback(isCorrect ? "Correto!" : `Incorreto! A resposta correta é: ${question.resposta_correta}`);
   };
 
-  // Função para descartar a alternativa
   const discardAnswer = (letter) => {
-    setDiscardedAnswers((prev) => [...prev, letter]); 
+    setDiscardedAnswers((prev) => [...prev, letter]);
   };
 
   return (
@@ -32,6 +31,14 @@ const QuestionCard = ({ question }) => {
       {/* Espaço para compensar o elemento fixo no topo */}
       <div className="mt-20"></div>
 
+      {/* Texto relevante */}
+      {question.texto_relevante && (
+        <div className="bg-gray-50 p-4 mb-6 rounded-lg border border-gray-300">
+          <h6 className="font-semibold text-gray-700 mb-2">Texto Relevante:</h6>
+          <p className="text-gray-600 leading-relaxed text-sm">{question.texto_relevante}</p>
+        </div>
+      )}
+
       {/* Enunciado */}
       <p className="text- font-semibold mb-4 text-lg leading-relaxed">
         {question.enunciado}
@@ -42,7 +49,7 @@ const QuestionCard = ({ question }) => {
         {Object.entries(question.alternativas).map(([letter, text]) => {
           const isCorrectAnswer = isAnswered && letter === question.resposta_correta;
           const isSelectedAnswer = selectedAnswer === letter;
-          const isDiscarded = discardedAnswers.includes(letter); // Verifica se a alternativa foi descartada
+          const isDiscarded = discardedAnswers.includes(letter);
 
           return (
             <div
@@ -50,7 +57,7 @@ const QuestionCard = ({ question }) => {
               className={`flex items-center cursor-pointer p-2 rounded-lg transition-all duration-200 
                 ${isCorrectAnswer ? "bg-green-100 border border-green-500" : ""}
                 ${isSelectedAnswer && !isAnswered ? "bg-gray-100" : ""}
-                ${isDiscarded ? "bg-gray-300 opacity-50" : ""}`} // Adiciona estilo quando a alternativa é descartada
+                ${isDiscarded ? "bg-gray-300 opacity-50" : ""}`}
               onClick={(e) => {
                 if (!isAnswered) {
                   e.stopPropagation();
@@ -69,16 +76,14 @@ const QuestionCard = ({ question }) => {
                 {text}
               </span>
 
-              {/* Ícone de descarte */}
               {!isAnswered && !isDiscarded && (
                 <div
                   onClick={(e) => {
-                    e.stopPropagation(); // Impede que o clique no ícone ative a alternativa
+                    e.stopPropagation();
                     discardAnswer(letter);
                   }}
                   className="ml-auto mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-200"
                 >
-                  {/* Ícone de descarte em SVG */}
                   <svg xmlns="http://www.w3.org/2000/svg" className="w-5 h-5 text-gray-600 hover:text-red-500 cursor-pointer" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                   </svg>
