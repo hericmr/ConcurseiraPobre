@@ -31,6 +31,20 @@ const QuestionCard = ({ question }) => {
       {/* Espaço para compensar o elemento fixo no topo */}
       <div className="mt-20"></div>
 
+      {/* Exibindo imagens relacionadas à questão */}
+      {question.imagens && question.imagens.length > 0 && (
+        <div className="mb-4">
+          {question.imagens.map((imagem, index) => (
+            <img
+              key={index}
+              src={`/imagens/${imagem}`} // Caminho da imagem na pasta public/imagens
+              alt={`Imagem da questão ${index + 1}`}
+              className="w-full rounded-lg shadow-md"
+            />
+          ))}
+        </div>
+      )}
+
       {/* Texto relevante */}
       {question.texto_relevante && (
         <div className="bg-gray-50 p-1 mb-6 rounded-lg border border-gray-100 text-sm">

@@ -1,0 +1,510 @@
+{
+    "Medicina - Barceló": [
+        {
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "ERA 1",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 1",
+    "enunciado": "Un pulmón opaco y retraído con desviación de la traquea hacia el lado opaco puede corresponder a",
+    "alternativas": {
+        "A": "Derrame pleural a tensión",
+        "B": "Hidroneumotórax",
+        "C": "Atelectasia masiva"
+    },
+    "resposta_correta": "C",
+    "imagens": [
+        "pagina_1_imagem_1.png",
+        "pagina_1_imagem_2.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "ERA 1",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 2",
+    "enunciado": "Que observa en la siguiente imagen?",
+    "alternativas": {
+        "A": "Signo de Fleischner +",
+        "B": "Neumotorax",
+        "C": "Rx torax normal",
+        "D": "Neumonía segmentaria"
+    },
+    "resposta_correta": "B",
+    "imagens": [
+        "pagina_2_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "ERA 1",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 3",
+    "enunciado": "El siguiente nodulo pulmonar presenta características de alto riesgo de malignidad",
+    "alternativas": {
+        "A": "Verdadero",
+        "B": "Falso"
+    },
+    "resposta_correta": "B",
+    "imagens": [
+        "pagina_3_imagem_1.png",
+        "pagina_3_imagem_2.png"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 4",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 4",
+    "enunciado": "Que muestra la imagen?",
+    "alternativas": {
+        "A": "Neumonía bilateral",
+        "B": "Derrame pleural masivo",
+        "C": "Neumotorax a tensión",
+        "D": "Atelectasia masiva"
+    },
+    "resposta_correta": "D",
+    "imagens": [
+        "pagina_4_imagem_1.png",
+        "pagina_4_imagem_2.png"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 5",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 5",
+    "enunciado": "¿Como se genera el haz de Rayos X en el tubo?",
+    "alternativas": {
+        "A": "Mediante una corriente eléctrica que llega al cátodo?",
+        "B": "Mediante un haz de electrones que llega al ánodo",
+        "C": "Mediante una corriente eléctrica que llega al ánodo?"
+    },
+    "resposta_correta": "B",
+    "imagens": [
+        "pagina_5_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 6",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 6",
+    "enunciado": "Marque la opciòn correcta",
+    "alternativas": {
+        "A": "Las cavernas tienen paredes nas",
+        "B": "Las cavidades siempre son cavernas",
+        "C": "El absceso nunca tiene nivel hidroaereo",
+        "D": "El absceso y la cavidad tienen paredes gruesas"
+    },
+    "resposta_correta": "D",
+    "imagens": [
+        "pagina_5_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 7",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 7",
+    "enunciado": "Que signo radiologico observa?",
+    "alternativas": {
+        "A": "Signo de Fleischner",
+        "B": "Signo de Westermark",
+        "C": "Imagen compatible con dilatación bronquial proximal, por obstrucción"
+    },
+    "resposta_correta": "C",
+    "imagens": [
+        "pagina_5_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 8",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 8",
+    "enunciado": "La causa mas frecuente de nódulo solitario de pulmón es",
+    "alternativas": {
+        "A": "Granuloma inflamatorio",
+        "B": "Hamartomas",
+        "C": "Cáncer de pulmón"
+    },
+    "resposta_correta": "A",
+    "imagens": [
+        "pagina_6_imagem_1.png"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 9",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 9",
+    "enunciado": "Que marca la flecha azul?",
+    "alternativas": {
+        "A": "Vena cava superior",
+        "B": "Aorta descendente",
+        "C": "Esófago",
+        "D": "Aorta ascendente"
+    },
+    "resposta_correta": "B",
+    "imagens": [
+        "pagina_6_imagem_1.png"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 10",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 10",
+    "enunciado": "La imagen podría corresponder",
+    "alternativas": {
+        "A": "Neumonia lobar",
+        "B": "Atelectasia de la língula",
+        "C": "Atelectasia del lóbulo superior derecho",
+        "D": "Atelectasia del lóbulo medio"
+    },
+    "resposta_correta": "C",
+    "imagens": [
+        "pagina_7_imagem_1.png"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 11",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 11",
+    "enunciado": "¿Cual de los siguientes patrones de NPS tiene mayor riesgo de malignidad?",
+    "alternativas": {
+        "A": "Sólido",
+        "B": "El patron no influye en el riesgo de malignidad",
+        "C": "Subsolido en vidrio esmerilado",
+        "D": "Subsolido con componente sólido"
+    },
+    "resposta_correta": "D",
+    "imagens": [
+        "pagina_8_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 12",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 12",
+    "enunciado": "Que muestra la siguiente imagen?",
+    "alternativas": {
+        "A": "Patron alveolar",
+        "B": "Patron intersticial",
+        "C": "Es una rx de torax normal",
+        "D": "Ninguna es correcta"
+    },
+    "resposta_correta": "B",
+    "imagens": [
+        "pagina_8_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 13",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 13",
+    "enunciado": "Que observa en la siguiente imagen?",
+    "alternativas": {
+        "A": "TBC primaria",
+        "B": "Radiografía de tórax normal",
+        "C": "Signo de Westermark positivo",
+        "D": "Signo de Fleischner positivo"
+    },
+    "resposta_correta": "B",
+    "imagens": [
+        "pagina_9_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 14",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 14",
+    "enunciado": "La siguiente imagen es compatible con:",
+    "alternativas": {
+        "A": "Neumonía lobar típica",
+        "B": "Atelectasia",
+        "C": "Neumonía atípica",
+        "D": "Nódulo pulmonar solitario"
+    },
+    "resposta_correta": "A",
+    "imagens": [
+        "pagina_10_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 15",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 15",
+    "enunciado": "Que patología muestra la siguiente imagen?",
+    "alternativas": {
+        "A": "Derrame pleural de base izquierda",
+        "B": "Atelectasia de base izquierda",
+        "C": "Derrame pleural de base derecha",
+        "D": "Atelectasia de base derecha"
+    },
+    "resposta_correta": "C",
+    "imagens": [
+        "pagina_11_imagem_1.png"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 16",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 16",
+    "enunciado": "Indique a qué patología corresponde y que tipo de patrón reconoce?",
+    "alternativas": {
+        "A": "Patrón reticular - Fibrosis pulmonar",
+        "B": "Patrón lineal - en{suma",
+        "C": "Patrón lineal - tbc miliar",
+        "D": "Todas son incorrectas"
+    },
+    "resposta_correta": "A",
+    "imagens": [
+        "pagina_12_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 17",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 17",
+    "enunciado": "En la RX de tórax las líneas B de Kerley representan:",
+    "alternativas": {
+        "A": "Engrosamiento del intersticio peribroncovascular",
+        "B": "Engrosamiento del intersticio intralobulillar",
+        "C": "Engrosamiento del intersticio subpleural",
+        "D": "Engrosamiento del intersticio interlobulillar"
+    },
+    "resposta_correta": "D",
+    "imagens": []
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 18",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 18",
+    "enunciado": "Paciente femenina de 58 años, presenta fiebre con 48 hs de evolución. Diagnóstico:",
+    "alternativas": {
+        "A": "Tac de tórax ventana mediastínica y pulmonar, presenta consolidación sin broncograma aéreo. Diagnóstico: Neumonía",
+        "B": "Tac de tórax ventana mediastínica y pulmonar, presenta consolidación con broncograma aéreo. Diagnóstico: Neumonía",
+        "C": "Rx de tórax, presenta Neumonía.",
+        "D": "Tac de tórax ventana pulmonar, presenta consolidación con broncograma aéreo. Diagnóstico: Neumonía"
+    },
+    "resposta_correta": "B",
+    "imagens": [
+        "pagina_13_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 19",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 19",
+    "enunciado": "Esta imagen de ecografía pulmonar corresponde a:",
+    "alternativas": {
+        "A": "Muestra líneas A normales",
+        "B": "Neumotórax",
+        "C": "Patología alveolar",
+        "D": "Derrame pleural"
+    },
+    "resposta_correta": "A",
+    "imagens": [
+        "pagina_14_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 20",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 20",
+    "enunciado": "Esta imagen de ecografía pulmonar corresponde a",
+    "alternativas": {
+        "A": "Es normal",
+        "B": "Neumotórax",
+        "C": "Patología intersticial",
+        "D": "Derrame pleural"
+    },
+    "resposta_correta": "B",
+    "imagens": [
+        "pagina_15_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 21",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 21",
+    "enunciado": "¿QUE PROPIEDADES TIENEN LAS RAYOS X?",
+    "alternativas": {
+        "A": "¿Tienen propiedades biológicas ,causan cambios químicos y celulares en los tejidos irradiados?",
+        "B": "Atraviesan la materia",
+        "C": "¿Son absorbidos por las sustancias que componen los objetos irradiados?",
+        "D": "¿Generan luz al incidir sobre sustancias fluorescentes?",
+        "E": "Todas son correctas"
+    },
+    "resposta_correta": "E",
+    "imagens": []
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 22",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 22",
+    "enunciado": "¿Cuál de las siguientes localizaciones presenta signo de silueta negativo (-)?",
+    "alternativas": {
+        "A": "Língula",
+        "B": "Lóbulo medio",
+        "C": "Segmento anterior del lobulo superior derecho",
+        "D": "Lóbulos inferiores"
+    },
+    "resposta_correta": "D",
+    "imagens": []
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 23",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 23",
+    "enunciado": "Paciente que ingresa a la guardia con episodios febriles y tos. Indique diagnóstico presuntivo",
+    "alternativas": {
+        "A": "Quiste",
+        "B": "Bulla",
+        "C": "Bronquiectasia gigante",
+        "D": "Absceso"
+    },
+    "resposta_correta": "D",
+    "imagens": [
+        "pagina_17_imagem_1.jpeg",
+        "pagina_17_imagem_2.png"
+    ]
+},{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 25",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 25",
+    "enunciado": "¿Qué signo radiológico genera la atelectasia del lóbulo superior?",
+    "alternativas": {
+        "A": "Broncograma aéreo",
+        "B": "Signo de la silueta",
+        "C": "Signo cervico-torácico",
+        "D": "Ninguna es correcta"
+    },
+    "resposta_correta": "D",
+    "imagens": []
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 26",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 26",
+    "enunciado": "¿Cuál es la forma de energía utilizada en Ecografía?",
+    "alternativas": {
+        "A": "Ondas Sonoras-Ultrasonido",
+        "B": "Rayos X",
+        "C": "Radiación Gamma"
+    },
+    "resposta_correta": "A",
+    "imagens": []
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 27",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 27",
+    "enunciado": "¿Qué observa en la siguiente imagen?",
+    "alternativas": {
+        "A": "Fibrosis pulmonar",
+        "B": "Linfangitis",
+        "C": "Metástasis pulmonar",
+        "D": "TBC miliar"
+    },
+    "resposta_correta": "C",
+    "imagens": [
+        "pagina_19_imagem_1.png"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 28",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 28",
+    "enunciado": "¿Cuál es el tumor pulmonar benigno más frecuente?",
+    "alternativas": {
+        "A": "Hamartoma",
+        "B": "Granuloma",
+        "C": "Ganglio intrapulmonar",
+        "D": "Hemangioma"
+    },
+    "resposta_correta": "A",
+    "imagens": []
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 29",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 29",
+    "enunciado": "¿Qué se observa en la imagen?",
+    "alternativas": {
+        "A": "Signo de la vela, siempre patológico",
+        "B": "Signo de la vela, siempre fisiológico",
+        "C": "Signo de la vela, por sombra tímica, fisiológico en los pediátricos.",
+        "D": "Ninguna es correcta"
+    },
+    "resposta_correta": "C",
+    "imagens": [
+        "pagina_20_imagem_1.jpeg"
+    ]
+},
+{
+    "cargo": "Medicina - Barceló",
+    "texto_relevante": "Pregunta 30",
+    "disciplina": "MEDICINA",
+    "id_concurso": "1ª era",
+    "questão": "Pregunta 30",
+    "enunciado": "Esta imagen corresponde a:",
+    "alternativas": {
+        "A": "TC que muestra neumonía con derrame",
+        "B": "Ecografía que muestra neumonía con derrame",
+        "C": "Ecografía que muestra condensación.",
+        "D": "RX que muestra neumonía con derrame"
+    },
+    "resposta_correta": "B",
+    "imagens": [
+        "pagina_21_imagem_1.jpeg"
+    ]
+}]
+}
