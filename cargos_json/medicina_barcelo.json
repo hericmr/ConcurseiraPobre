@@ -2,7 +2,7 @@
     "Medicina - Barceló": [
         {
     "cargo": "Medicina - Barceló",
-    "texto_relevante": "ERA 1",
+
     "disciplina": "MEDICINA",
     "id_concurso": "1ª era",
     "questão": "Pregunta 1",
@@ -14,11 +14,13 @@
     },
     "resposta_correta": "C",
     "imagens": [
+        "pagina_1_imagem_1.png",
+        "pagina_1_imagem_2.jpeg"
     ]
 },
 {
     "cargo": "Medicina - Barceló",
-    "texto_relevante": "ERA 1",
+
     "disciplina": "MEDICINA",
     "id_concurso": "1ª era",
     "questão": "Pregunta 2",
@@ -36,7 +38,6 @@
 },
 {
     "cargo": "Medicina - Barceló",
-    "texto_relevante": "ERA 1",
     "disciplina": "MEDICINA",
     "id_concurso": "1ª era",
     "questão": "Pregunta 3",
