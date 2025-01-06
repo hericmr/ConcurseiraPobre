@@ -31,19 +31,28 @@ const QuestionCard = ({ question }) => {
       {/* Espaço para compensar o elemento fixo no topo */}
       <div className="mt-20"></div>
 
-      {/* Exibindo imagens relacionadas à questão */}
       {question.imagens && question.imagens.length > 0 && (
-        <div className="mb-4">
-          {question.imagens.map((imagem, index) => (
-            <img
-              key={index}
-              src={`/imagens/${imagem}`} // Caminho da imagem na pasta public/imagens
-              alt={`Imagem da questão ${index + 1}`}
-              className="w-full rounded-lg shadow-md"
-            />
-          ))}
-        </div>
-      )}
+  <div className="mb-4">
+    {question.imagens.map((imagem, index) => (
+      <img
+        key={index}
+        src={`https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/6ad279cc317c38cfd07764ba3c72c090cb44590e/public/imagens/${imagem}`}
+        srcSet={`
+          https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/6ad279cc317c38cfd07764ba3c72c090cb44590e/public/imagens/${imagem} 1024w,
+          https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/6ad279cc317c38cfd07764ba3c72c090cb44590e/public/imagens/${imagem}?w=512 512w,
+          https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/6ad279cc317c38cfd07764ba3c72c090cb44590e/public/imagens/${imagem}?w=256 256w
+        `}
+        sizes="(max-width: 768px) 256px, (max-width: 1024px) 512px, 1024px"
+        alt={`Imagem da questão ${index + 1}`}
+        className="w-full max-w-full h-auto rounded-lg shadow-md"
+        loading="lazy"
+      />
+    ))}
+  </div>
+)}
+
+
+
 
       {/* Texto relevante */}
       {question.texto_relevante && (
