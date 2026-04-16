@@ -21,7 +21,7 @@ const SimuladoForm = () => {
       setErrorMessage("");
       try {
         const response = await fetch(
-          `https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/public/mapa_cargos.json`
+          `${process.env.PUBLIC_URL}/mapa_cargos.json`
         );
         const cargoList = await response.json();
 
@@ -49,7 +49,7 @@ const SimuladoForm = () => {
         if (!cargoFile) continue; // Skip if no file for cargo
 
         const response = await fetch(
-          `https://raw.githubusercontent.com/hericmr/ConcurseiraPobre/master/cargos_json/${cargoFile}`
+          `${process.env.PUBLIC_URL}/cargos_json/${cargoFile}`
         );
         if (!response.ok) throw new Error("Erro ao carregar dados.");
 
